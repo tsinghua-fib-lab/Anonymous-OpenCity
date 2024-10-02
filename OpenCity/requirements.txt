@@ -1,0 +1,11 @@
+matplotlib==3.9.2
+numpy==2.1.1
+openai==1.51.0
+pandas==2.2.3
+pycityagent==1.1.11
+pycitysim==1.12.2
+PyYAML==6.0.1
+PyYAML==6.0.2
+scipy==1.14.1
+Shapely==2.0.6
+tqdm==4.66.5

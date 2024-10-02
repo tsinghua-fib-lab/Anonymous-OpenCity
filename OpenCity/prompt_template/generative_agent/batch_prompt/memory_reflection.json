@@ -1,0 +1,1 @@
+"\nShared Background:\nFunction: Summarize memory.\n\nRequests:\n- Here are memory streams of today until now:\n !<INPUT 0>! Please answer in the JSON format (a list of string) without other content. You should summarize the memory into one sentence for each Request[x]."

@@ -1,0 +1,17 @@
+Function:
+Decide where to go and how much time to spend.
+
+<commentblockmarker>###</commentblockmarker>
+Variables:
+!<INPUT 0>! -- Commonset
+!<INPUT 1>! -- Daily_Plan
+!<INPUT 2>! -- Memory
+!<INPUT 3>! -- Current_Time
+!<INPUT 4>! -- Surrounding_Places
+
+<commentblockmarker>###</commentblockmarker>
+!<INPUT 0>!;
+Your daily plan is !<INPUT 1>!
+The arrangement of the previous things you have done is as follows: !<INPUT 2>!.
+Now time is !<INPUT 3>!, and you have perceived these places you can go: !<INPUT 4>!;
+What's the next arrangement just now? Which place will you go next, specifically the name? And how long will you stay there, with exactly hours and minutes, always more than 1 hour. (If you just stay here, you should also answer the current place and stay time.) Please output the only answer and explain your reasons for your choice. Answer in the json format and keys are ["reason", "arrangement", "next_place", "hours", "minutes"].

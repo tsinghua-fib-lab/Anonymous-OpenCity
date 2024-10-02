@@ -1,0 +1,22 @@
+Function: 
+Plan the daily schedule for a specific character
+
+<commentblockmarker>###</commentblockmarker>
+
+Variables: 
+!<INPUT 0>! -- Commonset
+!<INPUT 1>! -- Lifestyle
+!<INPUT 2>! -- Day
+!<INPUT 3>! -- time
+!<INPUT 4>! -- Memory
+!<INPUT 5>! -- plan
+
+<commentblockmarker>###</commentblockmarker>
+!<INPUT 0>!
+
+Your Lifestyle is as follows: !<INPUT 1>!
+Your daily plan is !<INPUT 5>!
+The arrangement of the previous things you have done is as follows: !<INPUT 4>!.
+Today is !<INPUT 2>!, and now time is !<INPUT 3>!.
+What's the next arrangement just now? Please output the only event name and explain your thought process or reasons for your choice. Answer in the json format and keys are ["event_name", "reasons"].
+Note: Must remember that events can only be choosed from [go to work, go home, eat, do shopping, do sports, excursion, leisure or entertainment, go to sleep, medical treatment, handle the trivialities of life, banking and financial services, cultural institutions and events].

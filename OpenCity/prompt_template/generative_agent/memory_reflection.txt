@@ -1,0 +1,11 @@
+Function:
+Summarize memory.
+
+<commentblockmarker>###</commentblockmarker>
+Variables:
+!<INPUT 0>! -- Memory
+
+<commentblockmarker>###</commentblockmarker>
+Here are your memory stream of today until now: !<INPUT 0>!
+You should summarize your memory into one sentence.
+The summarized memory:

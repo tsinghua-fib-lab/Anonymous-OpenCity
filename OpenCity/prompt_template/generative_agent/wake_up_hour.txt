@@ -1,0 +1,15 @@
+Function:
+Generate the wake up hour for a specific character.
+
+<commentblockmarker>###</commentblockmarker>
+
+Variables: 
+!<INPUT 0>! -- Commonset
+!<INPUT 1>! -- Lifestyle
+!<INPUT 2>! -- Day 
+
+<commentblockmarker>###</commentblockmarker>
+!<INPUT 0>!
+
+In general, Your Lifestyle is as follows: !<INPUT 1>!
+Today is !<INPUT 2>!, please output a integer.

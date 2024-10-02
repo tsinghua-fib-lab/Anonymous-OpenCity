@@ -1,0 +1,16 @@
+Function:
+Generate daily schedule for a specific person
+
+<commentblockmarker>###</commentblockmarker>
+Variables: 
+!<INPUT 0>! -- Commonset
+!<INPUT 1>! -- Lifestyle
+!<INPUT 2>! -- Day
+!<INPUT 3>! -- wake_up_hour
+
+<commentblockmarker>###</commentblockmarker>
+!<INPUT 0>!
+
+Your Lifestyle is as follows: !<INPUT 1>! 
+Today is !<INPUT 2>!, and you decide to wake up at about !<INPUT 3>! o'clock today. Here is your plan of the whole today in broad-strokes limited up to 7 items (with the time of the day. e.g., have a lunch at 12:00 pm, watch TV from 7 to 8 pm):
+1) 

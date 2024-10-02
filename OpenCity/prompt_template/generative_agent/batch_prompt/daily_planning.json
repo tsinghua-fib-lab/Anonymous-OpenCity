@@ -1,0 +1,1 @@
+"```\nShared Background:\nYou: !<INPUT 0>! \nYour Lifestyle is as follows: !<INPUT 1>! \nToday is !<INPUT 2>!, and you decide to wake up at about !<INPUT 3>! o'clock today.\n\nRequests:\nPlease give your plan of the whole today in broad-strokes limited up to 7 items (with the time of the day. e.g., have a lunch at 12:00 pm, watch TV from 7 to 8 pm):```"
