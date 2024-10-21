@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700021864
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:32)",
+        [
+            "",
+            700021863
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:16, 17:38)",
+        [
+            "",
+            700022433
+        ]
+    ],
+    [
+        "Engage in a recreational sports activity",
+        "(17:35, 19:03)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "Engage in a recreational sports activity",
+        "(19:26, 21:01)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:59)",
+        [
+            "Public School M188 The Island School",
+            700000020
+        ]
+    ]
+]

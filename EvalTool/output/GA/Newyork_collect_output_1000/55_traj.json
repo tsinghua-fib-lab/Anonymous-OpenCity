@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Enjoy some leisure activities, such as reading or listening to music.",
+        "(10:00, 11:20)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Enjoy some leisure activities, such as reading or listening to music.",
+        "(11:39, 14:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Continue to enjoy leisure activities.",
+        "(14:55, 15:58)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "watch a movie or catch up on a TV series",
+        "(16:07, 18:10)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Stay at New York Comedy Club",
+        "(18:05, 19:37)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Stay at New York Comedy Club",
+        "(19:41, 21:17)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:21, 23:59)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "Go to ZLS BBQ.",
+        "(23:33, 23:59)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ]
+]

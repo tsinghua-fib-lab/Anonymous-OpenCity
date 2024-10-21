@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cibao Restaurant",
+            700014946
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:27)",
+        [
+            "Lava",
+            700014147
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:37, 16:59)",
+        [
+            "2nd Floor on Clinton",
+            700008780
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 19:40)",
+        [
+            "Lava",
+            700014147
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "Dental Office",
+            700024993
+        ]
+    ]
+]

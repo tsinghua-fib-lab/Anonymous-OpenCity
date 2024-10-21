@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Garaje",
+            700002124
+        ]
+    ],
+    [
+        "Reading or catching up on news/articles",
+        "(10:00, 11:08)",
+        [
+            "Garaje",
+            700002124
+        ]
+    ],
+    [
+        "Reading or catching up on news/articles",
+        "(11:33, 13:01)",
+        [
+            "Garaje",
+            700002124
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:02, 19:43)",
+        [
+            "",
+            700011560
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 23:59)",
+        [
+            "Hakashi",
+            700001975
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009222
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:23)",
+        [
+            "",
+            700019049
+        ]
+    ],
+    [
+        "Stay at an unspecified place",
+        "(11:58, 13:28)",
+        [
+            "Pret A Manger",
+            700020632
+        ]
+    ],
+    [
+        "Stay at Pret A Manger",
+        "(14:16, 15:49)",
+        [
+            "Angela’s Sandwich Shop",
+            700011897
+        ]
+    ],
+    [
+        "Stay at Pret A Manger",
+        "(16:44, 19:19)",
+        [
+            "Angela’s Sandwich Shop",
+            700011897
+        ]
+    ],
+    [
+        "Take a walk around the area and enjoy the surroundings.",
+        "(19:29, 20:58)",
+        [
+            "FIKA 58th Street",
+            700008327
+        ]
+    ],
+    [
+        "Stay at Pret A Manger",
+        "(21:16, 23:34)",
+        [
+            "Angela’s Sandwich Shop",
+            700011897
+        ]
+    ],
+    [
+        "Stay at Pret A Manger",
+        "(22:41, 23:59)",
+        [
+            "Radiant Skin Dermatology & Laser",
+            700028216
+        ]
+    ]
+]

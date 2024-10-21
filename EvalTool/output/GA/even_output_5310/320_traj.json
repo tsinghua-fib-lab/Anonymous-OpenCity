@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Matto Espresso",
+            700021913
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:55)",
+        [
+            "",
+            700020610
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:32, 21:12)",
+        [
+            "La Esquina",
+            700016597
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(20:53, 22:00)",
+        [
+            "Javelina",
+            700017385
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(22:27, 23:47)",
+        [
+            "La Esquina",
+            700016597
+        ]
+    ],
+    [
+        "Continue staying at Mom's Kitchen & Bar",
+        "(23:47, 23:59)",
+        [
+            "Mission Ceviche",
+            700006556
+        ]
+    ]
+]

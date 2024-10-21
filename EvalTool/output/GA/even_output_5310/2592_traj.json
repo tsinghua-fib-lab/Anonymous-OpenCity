@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sparks Steak House",
+            700008639
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:49)",
+        [
+            "Tesla Supercharger",
+            700016580
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 19:51)",
+        [
+            "Capital One",
+            700008637
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:00, 21:30)",
+        [
+            "Darbar",
+            700008634
+        ]
+    ],
+    [
+        "Relax and watch a movie or series at home.",
+        "(19:15, 21:05)",
+        [
+            "Sparks Steak House",
+            700008639
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:34, 23:59)",
+        [
+            "Psychedelic Assembly",
+            700033872
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002377
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:55)",
+        [
+            "High School of Arts and Technology",
+            700000287
+        ]
+    ],
+    [
+        "Exercise",
+        "(13:26, 15:22)",
+        [
+            "Bruno Walter Auditorium",
+            700024879
+        ]
+    ],
+    [
+        "Exercise",
+        "(15:19, 16:59)",
+        [
+            "Bruno Walter Auditorium",
+            700024879
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:09, 22:01)",
+        [
+            "Lincoln Ristorante",
+            700009129
+        ]
+    ],
+    [
+        "Relax and Reflect",
+        "(21:38, 23:17)",
+        [
+            "",
+            700002377
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:34, 23:59)",
+        [
+            "60 Riverside Blvd",
+            700018472
+        ]
+    ]
+]

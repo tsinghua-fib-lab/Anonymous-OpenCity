@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "La Boulangerie",
+            700003052
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:23)",
+        [
+            "",
+            700002729
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(12:16, 13:46)",
+        [
+            "La Boulangerie",
+            700003052
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:30, 16:43)",
+        [
+            "Bay Wheels",
+            700011001
+        ]
+    ],
+    [
+        "Go to Bay Wheels for bicycle rental.",
+        "(17:11, 18:59)",
+        [
+            "Bay Wheels",
+            700011001
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:25, 23:22)",
+        [
+            "",
+            700009164
+        ]
+    ]
+]

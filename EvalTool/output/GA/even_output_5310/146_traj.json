@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020285
+        ]
+    ],
+    [
+        "Go for a Walk or Light Exercise",
+        "(09:00, 09:55)",
+        [
+            "",
+            700020285
+        ]
+    ],
+    [
+        "Next activity",
+        "(10:12, 12:06)",
+        [
+            "",
+            700020285
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:27, 15:39)",
+        [
+            "Pick a Bagel",
+            700014702
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(15:53, 16:59)",
+        [
+            "Pick a Bagel",
+            700014702
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(17:08, 18:33)",
+        [
+            "",
+            700017024
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(19:10, 20:38)",
+        [
+            "",
+            700020285
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:55, 23:59)",
+        [
+            "",
+            700015403
+        ]
+    ]
+]

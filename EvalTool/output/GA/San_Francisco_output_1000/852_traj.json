@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sushi Sato",
+            700001046
+        ]
+    ],
+    [
+        "Morning exercise (jogging or gym)",
+        "(09:00, 10:00)",
+        [
+            "Kuma Sushi + Sake",
+            700009690
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:22, 11:34)",
+        [
+            "",
+            700009689
+        ]
+    ],
+    [
+        "Watch a movie or attend a live event",
+        "(16:32, 18:07)",
+        [
+            "upcider",
+            700008830
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:31, 23:00)",
+        [
+            "Pizzalicious",
+            700003303
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "DecoDance Bar",
+            700001108
+        ]
+    ]
+]

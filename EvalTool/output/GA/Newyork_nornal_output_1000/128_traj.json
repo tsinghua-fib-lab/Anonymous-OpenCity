@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002302
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:55)",
+        [
+            "A-1 Pizza",
+            700003820
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:16, 17:03)",
+        [
+            "Citi Bike - Grand Street / Henry Street",
+            700008097
+        ]
+    ],
+    [
+        "Engage in a recreational sports activity",
+        "(17:35, 18:56)",
+        [
+            "People's Choice Pharmacy",
+            700003818
+        ]
+    ],
+    [
+        "Engage in a recreational sports activity",
+        "(19:26, 20:50)",
+        [
+            "A. 1. PIZZA SHOP",
+            700019774
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:59)",
+        [
+            "",
+            700031277
+        ]
+    ]
+]

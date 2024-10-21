@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Start breakfast at Tudor Rose Court.",
+        "(10:00, 11:04)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Start Leisure Activity",
+        "(11:48, 13:06)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:21, 14:32)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:01, 16:57)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:04, 20:32)",
+        [
+            "",
+            700001301
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 23:01)",
+        [
+            "Barbican Cinemas 2 & 3",
+            700017160
+        ]
+    ]
+]

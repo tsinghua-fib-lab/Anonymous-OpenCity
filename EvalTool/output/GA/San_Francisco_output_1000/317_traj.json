@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Coffee Bodega",
+            700002174
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(09:00, 11:06)",
+        [
+            "Coffee Bodega",
+            700002174
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:37, 13:04)",
+        [
+            "Coffee Bodega",
+            700002174
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:47, 15:09)",
+        [
+            "Coffee Bodega",
+            700002174
+        ]
+    ],
+    [
+        "Sports or Hobbies",
+        "(15:10, 17:04)",
+        [
+            "Coffee Bodega",
+            700002174
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(17:08, 19:10)",
+        [
+            "Coffee Bodega",
+            700002174
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:19, 23:59)",
+        [
+            "Starbucks Pick Up",
+            700004767
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(23:54, 23:59)",
+        [
+            "Coffee Bodega",
+            700002174
+        ]
+    ]
+]

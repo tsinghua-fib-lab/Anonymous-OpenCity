@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001201
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:20)",
+        [
+            "",
+            700003064
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:09, 14:31)",
+        [
+            "Bluestone Lane",
+            700021774
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 16:14)",
+        [
+            "St. John's University",
+            700015007
+        ]
+    ],
+    [
+        "You stay at your current place.",
+        "(19:27, 20:58)",
+        [
+            "",
+            700001201
+        ]
+    ],
+    [
+        "You stay at your current place.",
+        "(21:30, 23:02)",
+        [
+            "",
+            700001058
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:08, 23:59)",
+        [
+            "Astor Place Opera House",
+            700000563
+        ]
+    ]
+]

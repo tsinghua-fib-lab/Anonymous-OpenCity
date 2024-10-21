@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sweet Lime",
+            700005961
+        ]
+    ],
+    [
+        "Go for a morning walk",
+        "(10:00, 10:50)",
+        [
+            "Walgreens",
+            700000786
+        ]
+    ],
+    [
+        "Catch up on household chores",
+        "(11:33, 13:02)",
+        [
+            "Walgreens",
+            700000786
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(13:51, 15:04)",
+        [
+            "Sweet Lime",
+            700005961
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:24, 18:20)",
+        [
+            "Hamilton Pool",
+            700005592
+        ]
+    ],
+    [
+        "Next arrangement for watching a movie again in the cinema.",
+        "(21:17, 22:40)",
+        [
+            "Sweet Lime",
+            700005961
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "City Ballet",
+            700005970
+        ]
+    ]
+]

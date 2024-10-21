@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "East dumpling",
+            700016033
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:30)",
+        [
+            "95 Bus Stop",
+            700028442
+        ]
+    ],
+    [
+        "2:30 PM - 4:30 PM",
+        "(12:14, 14:36)",
+        [
+            "",
+            700038465
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:22, 16:41)",
+        [
+            "",
+            700038465
+        ]
+    ],
+    [
+        "Prepare and enjoy a gourmet dinner",
+        "(19:44, 20:56)",
+        [
+            "Citi Bike - Forsyth Street & Canal Street",
+            700008067
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 23:39)",
+        [
+            "",
+            700038465
+        ]
+    ]
+]

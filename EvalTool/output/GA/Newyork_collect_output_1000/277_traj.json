@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(09:00, 10:29)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(10:43, 12:18)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Lunch Break",
+        "(12:45, 13:57)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Afternoon Leisure Activities",
+        "(14:51, 16:08)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Exercise",
+        "(16:45, 18:05)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:41, 22:56)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Sleep at Sunflower Cafe",
+        "(23:35, 23:59)",
+        [
+            "",
+            700000911
+        ]
+    ]
+]

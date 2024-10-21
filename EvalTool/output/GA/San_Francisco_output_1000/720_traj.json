@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mission Recreation Center",
+            700000232
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(09:00, 10:36)",
+        [
+            "Bon, nene",
+            700002838
+        ]
+    ],
+    [
+        "You are currently at Mission Recreation Center and it's 11:35 AM.",
+        "(11:35, 13:45)",
+        [
+            "Sightglass Coffee",
+            700004272
+        ]
+    ],
+    [
+        "Visit an Art Exhibit or Museum",
+        "(14:24, 16:34)",
+        [
+            "",
+            700010802
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:50, 21:21)",
+        [
+            "Sightglass Coffee",
+            700004272
+        ]
+    ],
+    [
+        "Late Afternoon Shopping",
+        "(18:19, 19:48)",
+        [
+            "Sightglass Coffee",
+            700004272
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:23, 23:59)",
+        [
+            "Farmhouse Kitchen",
+            700004057
+        ]
+    ],
+    [
+        "Late Afternoon Shopping",
+        "(23:56, 23:59)",
+        [
+            "",
+            700009867
+        ]
+    ]
+]

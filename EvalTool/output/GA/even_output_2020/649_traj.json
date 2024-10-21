@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013930
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:22)",
+        [
+            "",
+            700007164
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:21, 15:29)",
+        [
+            "",
+            700013931
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:11, 22:07)",
+        [
+            "Bay Area Strength and Nutrition",
+            700002401
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:43, 23:39)",
+        [
+            "Bay Area Strength and Nutrition",
+            700002401
+        ]
+    ]
+]

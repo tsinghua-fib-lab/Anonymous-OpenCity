@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:41)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:30, 20:59)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "Stay at Sucker Punch.",
+        "(21:04, 23:01)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:13, 23:59)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ]
+]

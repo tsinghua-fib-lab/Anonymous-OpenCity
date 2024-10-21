@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chase",
+            700004867
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:44)",
+        [
+            "Ace Wasabi's",
+            700002306
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(11:27, 13:37)",
+        [
+            "California Wine Merchant",
+            700008807
+        ]
+    ],
+    [
+        "Next activity after brunch with friends",
+        "(14:05, 16:29)",
+        [
+            "California Wine Merchant",
+            700008807
+        ]
+    ],
+    [
+        "Next activity after brunch with friends",
+        "(16:50, 18:24)",
+        [
+            "California Wine Merchant",
+            700008807
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:12, 22:35)",
+        [
+            "Marina Theatre",
+            700002046
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 23:59)",
+        [
+            "Chase",
+            700004888
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(22:56, 23:59)",
+        [
+            "Amour Vert",
+            700005919
+        ]
+    ]
+]

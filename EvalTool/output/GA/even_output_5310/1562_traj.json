@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700007388
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:20)",
+        [
+            "The Standard Rooftop Bar",
+            700017511
+        ]
+    ],
+    [
+        "brunch with friends",
+        "(12:38, 14:06)",
+        [
+            "The Standard Rooftop Bar",
+            700017511
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 20:30)",
+        [
+            "RH Rooftop Restaurant",
+            700007298
+        ]
+    ],
+    [
+        "Relaxation/Reading Time",
+        "(18:44, 20:15)",
+        [
+            "RH Rooftop Restaurant",
+            700007298
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(20:44, 22:11)",
+        [
+            "Dos Caminos",
+            700007291
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(22:48, 23:51)",
+        [
+            "Kobrick Coffee",
+            700008899
+        ]
+    ]
+]

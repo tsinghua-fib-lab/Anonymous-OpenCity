@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008333
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(09:00, 10:40)",
+        [
+            "Wrecking Ball Coffee Roasters",
+            700004908
+        ]
+    ],
+    [
+        "2:00 PM to 4:00 PM - Engage in a hobby or personal project",
+        "(10:41, 12:49)",
+        [
+            "Wrecking Ball Coffee Roasters",
+            700004908
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 14:45)",
+        [
+            "Rose's Café",
+            700004244
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(15:12, 17:08)",
+        [
+            "Wrecking Ball Coffee Roasters",
+            700004908
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 22:59)",
+        [
+            "Marina Submarine",
+            700007319
+        ]
+    ],
+    [
+        "Stay at Marina Submarine",
+        "(23:15, 23:59)",
+        [
+            "Wrecking Ball Coffee Roasters",
+            700004908
+        ]
+    ]
+]

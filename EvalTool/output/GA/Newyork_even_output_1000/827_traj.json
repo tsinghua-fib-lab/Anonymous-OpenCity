@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002450
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:50)",
+        [
+            "NYC Pizza Kitchen",
+            700006240
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(14:13, 16:01)",
+        [
+            "Palm Readings",
+            700024684
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:04, 17:13)",
+        [
+            "",
+            700002450
+        ]
+    ],
+    [
+        "Next place for leisure",
+        "(22:00, 23:21)",
+        [
+            "NYC Pizza Kitchen",
+            700006240
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Coppola's",
+            700008586
+        ]
+    ]
+]

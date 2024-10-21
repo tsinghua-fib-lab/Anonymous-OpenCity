@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003209
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:24)",
+        [
+            "Dirt Candy",
+            700008972
+        ]
+    ],
+    [
+        "Personal Development",
+        "(12:19, 14:25)",
+        [
+            "Roasting Plant",
+            700007396
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:58, 19:05)",
+        [
+            "An Choi",
+            700007395
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:09, 21:53)",
+        [
+            "Roasting Plant",
+            700007396
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "Soft Swerve",
+            700005428
+        ]
+    ]
+]

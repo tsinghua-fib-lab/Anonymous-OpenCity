@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "USPS",
+            700017695
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:05)",
+        [
+            "Panda Express",
+            700005924
+        ]
+    ],
+    [
+        "Late Afternoon Relaxation",
+        "(12:33, 14:13)",
+        [
+            "Panda Express",
+            700005924
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:33, 20:06)",
+        [
+            "",
+            700002770
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:33, 23:17)",
+        [
+            "Citi Bike",
+            700024346
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:39, 23:59)",
+        [
+            "",
+            700017616
+        ]
+    ]
+]

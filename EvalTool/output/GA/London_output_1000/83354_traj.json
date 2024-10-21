@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Manchester Estate",
+            700049203
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:16)",
+        [
+            "Mudchute Equestrian Centre",
+            700037179
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(13:00, 14:38)",
+        [
+            "",
+            700037774
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(15:01, 16:56)",
+        [
+            "Mudchute Equestrian Centre",
+            700037179
+        ]
+    ],
+    [
+        "Watch a Movie/TV Series",
+        "(17:38, 19:02)",
+        [
+            "Mudchute Equestrian Centre",
+            700037179
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:21, 23:59)",
+        [
+            "",
+            700042361
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:22, 23:59)",
+        [
+            "",
+            700042377
+        ]
+    ]
+]

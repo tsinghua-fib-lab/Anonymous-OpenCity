@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:51)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(11:03, 12:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Afternoon Outing",
+        "(13:50, 15:43)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:30, 21:28)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(21:33, 23:33)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(23:09, 23:59)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ]
+]

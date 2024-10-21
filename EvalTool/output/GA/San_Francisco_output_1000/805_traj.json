@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014011
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:27)",
+        [
+            "",
+            700013965
+        ]
+    ],
+    [
+        "Hobbies/Personal Projects",
+        "(15:08, 17:00)",
+        [
+            "",
+            700013998
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:49, 18:58)",
+        [
+            "HK Lounge Bistro",
+            700011683
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:08, 20:54)",
+        [
+            "HK Lounge Bistro",
+            700011683
+        ]
+    ],
+    [
+        "Evening Relaxation/Family Time",
+        "(21:48, 22:50)",
+        [
+            "HK Lounge Bistro",
+            700011683
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "Sightglass Coffee",
+            700001741
+        ]
+    ]
+]

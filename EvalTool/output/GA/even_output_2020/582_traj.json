@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Magnolia Pub & Brewery",
+            700000008
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:20)",
+        [
+            "Trax",
+            700000010
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:13, 18:48)",
+        [
+            "Hippie Thai Street Food",
+            700007281
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 20:30)",
+        [
+            "Pork Store Cafe",
+            700005029
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:11, 23:00)",
+        [
+            "Sunshine Coast: Hookah Fusion Bar",
+            700003031
+        ]
+    ],
+    [
+        "Cook Dinner",
+        "(19:29, 20:51)",
+        [
+            "Magnolia Pub & Brewery",
+            700000008
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:35, 23:59)",
+        [
+            "Sandy's",
+            700007209
+        ]
+    ]
+]

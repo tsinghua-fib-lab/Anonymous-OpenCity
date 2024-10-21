@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wonderland Bar",
+            700041293
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:39)",
+        [
+            "Sushi by M",
+            700033761
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:29, 15:07)",
+        [
+            "8-Bit Bites",
+            700026607
+        ]
+    ],
+    [
+        "Social Time",
+        "(19:30, 20:52)",
+        [
+            "Sushi by M",
+            700033761
+        ]
+    ],
+    [
+        "Go to Sushi by M",
+        "(21:43, 23:51)",
+        [
+            "Sushi by M",
+            700033761
+        ]
+    ],
+    [
+        "Visit Dim Sum Palace",
+        "(23:15, 23:59)",
+        [
+            "Esora Omakase",
+            700023243
+        ]
+    ]
+]

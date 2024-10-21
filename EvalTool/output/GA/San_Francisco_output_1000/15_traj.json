@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Osso Steakhouse",
+            700010413
+        ]
+    ],
+    [
+        "10:00 AM - Wake up and have a leisurely breakfast",
+        "(10:00, 10:53)",
+        [
+            "",
+            700008849
+        ]
+    ],
+    [
+        "Next activity: Prepare lunch",
+        "(11:51, 13:15)",
+        [
+            "",
+            700008651
+        ]
+    ],
+    [
+        "Next activity: Prepare lunch",
+        "(13:05, 14:27)",
+        [
+            "Osso Steakhouse",
+            700010413
+        ]
+    ],
+    [
+        "Current activity: Watch a sports game or favorite show.",
+        "(14:05, 15:42)",
+        [
+            "Osso Steakhouse",
+            700010413
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:42, 21:44)",
+        [
+            "",
+            700008903
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:57, 23:59)",
+        [
+            "",
+            700008664
+        ]
+    ]
+]

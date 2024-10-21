@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Carlin's Cafe",
+            700000843
+        ]
+    ],
+    [
+        "go for a relaxing walk in the park",
+        "(10:00, 10:54)",
+        [
+            "Chase",
+            700002364
+        ]
+    ],
+    [
+        "You are currently at Carlin's Cafe.",
+        "(11:12, 12:46)",
+        [
+            "Dancing Yak",
+            700001213
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:53, 14:22)",
+        [
+            "Little Star Pizza",
+            700000117
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 19:27)",
+        [
+            "Dancing Yak",
+            700001213
+        ]
+    ],
+    [
+        "You are currently at Carlin's Cafe.",
+        "(21:27, 23:19)",
+        [
+            "Dancing Yak",
+            700001213
+        ]
+    ],
+    [
+        "Stay at Carlin's Cafe",
+        "(23:57, 23:59)",
+        [
+            "Dancing Yak",
+            700001213
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Trattoria Pesce Pasta",
+            700009087
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:01)",
+        [
+            "John's of Bleecker St",
+            700003339
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:16, 18:42)",
+        [
+            "Trattoria Pesce Pasta",
+            700009087
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:16, 19:44)",
+        [
+            "John's of Bleecker St",
+            700003339
+        ]
+    ],
+    [
+        "Dinner Preparation & Relaxation",
+        "(18:56, 20:03)",
+        [
+            "Bleecker Street Pizza",
+            700008729
+        ]
+    ],
+    [
+        "Dinner Preparation & Relaxation",
+        "(20:59, 22:16)",
+        [
+            "Bleecker Street Pizza",
+            700008729
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "",
+            700000938
+        ]
+    ]
+]

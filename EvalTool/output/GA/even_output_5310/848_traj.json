@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "University Animal Hospital",
+            700041299
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:30)",
+        [
+            "TD Bank",
+            700006033
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:38, 13:59)",
+        [
+            "University Animal Hospital",
+            700041299
+        ]
+    ],
+    [
+        "Continue watching a movie or series.",
+        "(14:10, 16:06)",
+        [
+            "University Animal Hospital",
+            700041299
+        ]
+    ],
+    [
+        "Outdoor Activity or Hobby",
+        "(16:24, 17:57)",
+        [
+            "University Animal Hospital",
+            700041299
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 21:19)",
+        [
+            "Sushi Yoshizawa",
+            700041300
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:40, 23:59)",
+        [
+            "Sushi Yoshizawa",
+            700041300
+        ]
+    ]
+]

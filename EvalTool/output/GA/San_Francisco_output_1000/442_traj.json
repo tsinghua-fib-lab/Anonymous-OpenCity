@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001199
+        ]
+    ],
+    [
+        "Morning Leisure Activities",
+        "(09:00, 10:51)",
+        [
+            "",
+            700001199
+        ]
+    ],
+    [
+        "Morning Leisure Activities",
+        "(11:58, 12:54)",
+        [
+            "",
+            700001199
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Sports",
+        "(13:16, 14:50)",
+        [
+            "",
+            700001199
+        ]
+    ],
+    [
+        "Catch Up with Family/Friends",
+        "(15:27, 16:50)",
+        [
+            "",
+            700001199
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 19:54)",
+        [
+            "Shell",
+            700001206
+        ]
+    ],
+    [
+        "Evening Relaxation and TV",
+        "(20:30, 23:05)",
+        [
+            "",
+            700001199
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "",
+            700000976
+        ]
+    ]
+]

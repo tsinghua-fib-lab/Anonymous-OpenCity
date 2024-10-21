@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Marcella",
+            700006252
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:52)",
+        [
+            "12 Chairs",
+            700006255
+        ]
+    ],
+    [
+        "You should spend some time reading a book or working on a personal project.",
+        "(11:10, 13:17)",
+        [
+            "12 Chairs",
+            700006255
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(13:44, 15:22)",
+        [
+            "12 Chairs",
+            700006255
+        ]
+    ],
+    [
+        "Reading or hobby time",
+        "(16:00, 17:37)",
+        [
+            "12 Chairs",
+            700006255
+        ]
+    ],
+    [
+        "You should spend some time unwinding with a movie or catching up on your favorite TV shows.",
+        "(17:44, 19:08)",
+        [
+            "",
+            700000849
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 21:43)",
+        [
+            "",
+            700000849
+        ]
+    ],
+    [
+        "Relaxation and Entertainment",
+        "(21:50, 23:12)",
+        [
+            "",
+            700006257
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:22, 23:59)",
+        [
+            "",
+            700006259
+        ]
+    ]
+]

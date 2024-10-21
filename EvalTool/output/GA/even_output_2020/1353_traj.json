@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700007638
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:21)",
+        [
+            "",
+            700007621
+        ]
+    ],
+    [
+        "Explore Local Attractions",
+        "(11:33, 13:04)",
+        [
+            "",
+            700002103
+        ]
+    ],
+    [
+        "Explore Local Attractions",
+        "(13:38, 15:08)",
+        [
+            "Cafe Josephine",
+            700006998
+        ]
+    ],
+    [
+        "Explore Local Attractions",
+        "(15:38, 17:01)",
+        [
+            "Cafe Josephine",
+            700006998
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:58, 22:46)",
+        [
+            "",
+            700002104
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 22:42)",
+        [
+            "Marcello's Pizza",
+            700002181
+        ]
+    ]
+]

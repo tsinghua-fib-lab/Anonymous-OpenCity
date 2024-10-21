@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020201
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 09:58)",
+        [
+            "",
+            700020201
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:21, 15:36)",
+        [
+            "",
+            700020217
+        ]
+    ],
+    [
+        "Meet friends or family for an afternoon outing or leisure activity",
+        "(13:52, 16:08)",
+        [
+            "",
+            700020194
+        ]
+    ],
+    [
+        "Relax at home and watch TV or a movie.",
+        "(16:36, 18:04)",
+        [
+            "Kids Dental",
+            700020202
+        ]
+    ],
+    [
+        "Relax at home and watch TV or a movie",
+        "(19:20, 21:20)",
+        [
+            "Kids Dental",
+            700020202
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:36, 23:59)",
+        [
+            "",
+            700020200
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Fouquet's",
+            700003346
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:42)",
+        [
+            "Société Générale",
+            700008456
+        ]
+    ],
+    [
+        "Engage in Outdoor Activity/Sports",
+        "(15:19, 16:39)",
+        [
+            "Société Générale",
+            700008456
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:23, 19:29)",
+        [
+            "Le Fouquet's",
+            700003346
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:12, 23:59)",
+        [
+            "Club Barrière Paris",
+            700070360
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(23:51, 23:59)",
+        [
+            "Club Barrière Paris",
+            700070360
+        ]
+    ]
+]

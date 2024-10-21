@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001402
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:23)",
+        [
+            "Alpha Garage",
+            700000554
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(11:27, 12:58)",
+        [
+            "San Pietro Restaurant",
+            700024592
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(13:39, 15:04)",
+        [
+            "San Pietro Restaurant",
+            700024592
+        ]
+    ],
+    [
+        "Watch a Sports Game or Movie",
+        "(15:53, 17:10)",
+        [
+            "",
+            700017139
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:26, 22:47)",
+        [
+            "",
+            700017124
+        ]
+    ],
+    [
+        "Leisure Reading or Casual Walk",
+        "(23:00, 23:59)",
+        [
+            "",
+            700018851
+        ]
+    ]
+]

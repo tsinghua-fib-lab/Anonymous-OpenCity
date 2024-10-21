@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001167
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:03)",
+        [
+            "Plus Fitness 24/7",
+            700008149
+        ]
+    ],
+    [
+        "Grocery Shopping and Errands",
+        "(14:04, 15:29)",
+        [
+            "",
+            700001167
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 20:58)",
+        [
+            "",
+            700008363
+        ]
+    ],
+    [
+        "Evening Relaxation and TV Time",
+        "(21:28, 23:59)",
+        [
+            "",
+            700001167
+        ]
+    ],
+    [
+        "Stay at your home",
+        "(23:23, 23:59)",
+        [
+            "Plus Fitness 24/7",
+            700008149
+        ]
+    ]
+]

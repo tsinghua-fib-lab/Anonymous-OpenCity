@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Neighborhood Playhouse School of the Theater",
+            700039307
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:34)",
+        [
+            "Sofia Pizza Shoppe",
+            700039310
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:10, 16:32)",
+        [
+            "The Greats of Craft",
+            700039308
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:29, 22:45)",
+        [
+            "The Greats of Craft",
+            700039308
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:43, 23:59)",
+        [
+            "The Greats of Craft",
+            700039308
+        ]
+    ]
+]

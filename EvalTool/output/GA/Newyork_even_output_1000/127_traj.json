@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "La Nonna",
+            700005140
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:42)",
+        [
+            "Umberto’s Clam House",
+            700005139
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(11:37, 13:00)",
+        [
+            "Umberto’s Clam House",
+            700005139
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 18:25)",
+        [
+            "137 Mott Pharmacy",
+            700030608
+        ]
+    ],
+    [
+        "Watch a Movie/TV Series",
+        "(16:10, 18:17)",
+        [
+            "Umberto’s Clam House",
+            700005139
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:39, 20:29)",
+        [
+            "Umberto’s Clam House",
+            700005139
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(20:23, 22:00)",
+        [
+            "Umberto’s Clam House",
+            700005139
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:08, 23:22)",
+        [
+            "Public School 130",
+            700000295
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:55, 23:59)",
+        [
+            "Umberto’s Clam House",
+            700005139
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Lilly's Shakes & Crepes",
+            700021554
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:24)",
+        [
+            "",
+            700002338
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 15:18)",
+        [
+            "Citi Bike - E 9 St & Avenue C",
+            700008063
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(13:00, 14:05)",
+        [
+            "Citi Bike - E 9 St & Avenue C",
+            700008063
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:29, 17:18)",
+        [
+            "Lilly's Shakes & Crepes",
+            700021554
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(17:15, 18:54)",
+        [
+            "",
+            700002338
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(19:04, 20:27)",
+        [
+            "9th St Espresso",
+            700003272
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(20:40, 22:00)",
+        [
+            "Bobby's Night Out",
+            700018148
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(23:03, 23:59)",
+        [
+            "Citi Bike - E 9 St & Avenue C",
+            700008063
+        ]
+    ]
+]

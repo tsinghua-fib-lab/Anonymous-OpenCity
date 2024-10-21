@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tramway Diner",
+            700040592
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 16:02)",
+        [
+            "Sutton Bar Room",
+            700011531
+        ]
+    ],
+    [
+        "Spend time reading or catching up on a hobby",
+        "(12:29, 14:06)",
+        [
+            "Sutton Bar Room",
+            700011531
+        ]
+    ],
+    [
+        "Spend time reading or catching up on a hobby",
+        "(14:23, 16:04)",
+        [
+            "Sutton Bar Room",
+            700011531
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:51, 18:25)",
+        [
+            "Kiss My Slice Pizzaria",
+            700010701
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 23:59)",
+        [
+            "Go Noodle",
+            700039313
+        ]
+    ],
+    [
+        "Stay at Sutton Animal Hospital.",
+        "(22:28, 23:52)",
+        [
+            "Go Noodle",
+            700039313
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Coco Pizzaria",
+            700039033
+        ]
+    ]
+]

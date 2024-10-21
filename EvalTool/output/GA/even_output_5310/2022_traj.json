@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002699
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:19)",
+        [
+            "",
+            700000998
+        ]
+    ],
+    [
+        "Moving to next activity.",
+        "(12:33, 14:33)",
+        [
+            "",
+            700002610
+        ]
+    ],
+    [
+        "continue with the plan",
+        "(14:35, 16:28)",
+        [
+            "Thai Chai Kitchen",
+            700006319
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:46, 22:34)",
+        [
+            "Soup Kitchen",
+            700006318
+        ]
+    ],
+    [
+        "Current place: Soup Kitchen",
+        "(21:42, 23:21)",
+        [
+            "Soup Kitchen",
+            700006318
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Yakitori Totto",
+            700007288
+        ]
+    ]
+]

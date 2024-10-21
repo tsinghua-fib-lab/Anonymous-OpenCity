@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "Walk in the park",
+        "(10:00, 11:09)",
+        [
+            "Loisaida Drugs & Surgical",
+            700019568
+        ]
+    ],
+    [
+        "Next, you will have lunch.",
+        "(11:29, 13:05)",
+        [
+            "Loisaida Drugs & Surgical",
+            700019568
+        ]
+    ],
+    [
+        "Lunch at Yoli",
+        "(13:32, 15:00)",
+        [
+            "Yoli",
+            700005415
+        ]
+    ],
+    [
+        "Stay at Yoli.",
+        "(15:19, 17:19)",
+        [
+            "Ryan/NENA Comprehensive Heath Service Center",
+            700000264
+        ]
+    ],
+    [
+        "Stay at Yoli for coffee with friends.",
+        "(17:56, 19:06)",
+        [
+            "Yoli",
+            700005415
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 21:55)",
+        [
+            "",
+            700027197
+        ]
+    ]
+]

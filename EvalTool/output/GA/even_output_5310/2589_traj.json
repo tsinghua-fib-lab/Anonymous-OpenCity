@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018518
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:54)",
+        [
+            "",
+            700039907
+        ]
+    ],
+    [
+        "Outdoor Activity (Walk in the Park)",
+        "(12:03, 13:00)",
+        [
+            "Chelsea Square Market",
+            700004657
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 15:20)",
+        [
+            "Artichoke Basille's Pizza",
+            700006141
+        ]
+    ],
+    [
+        "Spend quality time with family or friends, or engage in your hobby.",
+        "(19:32, 21:02)",
+        [
+            "Friends of the High Line",
+            700007854
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:00, 23:59)",
+        [
+            "chalait",
+            700006139
+        ]
+    ]
+]

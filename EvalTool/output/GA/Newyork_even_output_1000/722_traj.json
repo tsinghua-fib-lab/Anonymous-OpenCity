@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Rivington Street & Chrystie Street",
+            700008170
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:34)",
+        [
+            "",
+            700003054
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 15:12)",
+        [
+            "",
+            700011051
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(15:56, 17:25)",
+        [
+            "Citi Bike - Rivington Street & Chrystie Street",
+            700008170
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:06, 20:08)",
+        [
+            "Citi Bike - Rivington Street & Chrystie Street",
+            700008170
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:45, 23:59)",
+        [
+            "",
+            700024979
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:21, 23:59)",
+        [
+            "",
+            700024979
+        ]
+    ]
+]

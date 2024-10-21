@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pete's Deli & Cafe",
+            700004902
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 12:04)",
+        [
+            "My Father’s Kitchen",
+            700004903
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:10, 16:33)",
+        [
+            "",
+            700000018
+        ]
+    ],
+    [
+        "Participate in a fun sports activity, such as tennis or a group fitness class.",
+        "(17:58, 19:36)",
+        [
+            "San Francisco Athletic Club",
+            700004906
+        ]
+    ],
+    [
+        "Wind down the day by watching a movie or reading a book.",
+        "(20:12, 22:34)",
+        [
+            "San Francisco Athletic Club",
+            700004906
+        ]
+    ],
+    [
+        "Stay at Pete's Deli & Cafe",
+        "(23:39, 23:59)",
+        [
+            "San Francisco Athletic Club",
+            700004906
+        ]
+    ]
+]

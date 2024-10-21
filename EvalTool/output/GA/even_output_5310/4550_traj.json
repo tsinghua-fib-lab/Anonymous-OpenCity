@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gramercy Tavern",
+            700010017
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:24)",
+        [
+            "Gramercy Tavern",
+            700010017
+        ]
+    ],
+    [
+        "Go to Gramercy Tavern",
+        "(11:59, 12:52)",
+        [
+            "Gramercy Tavern",
+            700010017
+        ]
+    ],
+    [
+        "Engage in a hobby or activity you love, such as reading, painting, or playing a musical instrument.",
+        "(13:51, 15:29)",
+        [
+            "Gramercy Tavern",
+            700010017
+        ]
+    ],
+    [
+        "Engage in a hobby or activity you love, such as reading, painting, or playing a musical instrument.",
+        "(15:40, 17:08)",
+        [
+            "Gramercy Tavern",
+            700010017
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:55, 19:07)",
+        [
+            "Pizza Fresca",
+            700009134
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 21:34)",
+        [
+            "Mezeh Mediterranean Grill",
+            700014118
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:01, 23:59)",
+        [
+            "Wined Up",
+            700013385
+        ]
+    ]
+]

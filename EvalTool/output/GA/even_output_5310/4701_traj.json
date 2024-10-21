@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rennert New York City",
+            700020965
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:29)",
+        [
+            "Luke's Lobster",
+            700008440
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:08, 16:48)",
+        [
+            "Bank of America",
+            700026185
+        ]
+    ],
+    [
+        "Watch a movie and enjoy some snacks before settling in for the night.",
+        "(21:27, 23:05)",
+        [
+            "Pret A Manger",
+            700008663
+        ]
+    ],
+    [
+        "Go to sleep.",
+        "(23:55, 23:59)",
+        [
+            "Rennert New York City",
+            700020965
+        ]
+    ]
+]

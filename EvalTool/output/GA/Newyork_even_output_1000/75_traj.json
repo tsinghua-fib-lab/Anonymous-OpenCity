@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Penguin Ice Cream",
+            700014904
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:39)",
+        [
+            "Xe Lua",
+            700012942
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:39, 18:46)",
+        [
+            "Hoy Wong Restaurant",
+            700003490
+        ]
+    ],
+    [
+        "Social or Family Time",
+        "(16:35, 18:59)",
+        [
+            "Hoy Wong Restaurant",
+            700003490
+        ]
+    ],
+    [
+        "Prepare Dinner & Wind Down",
+        "(19:24, 21:06)",
+        [
+            "Hoy Wong Restaurant",
+            700003490
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:50, 23:59)",
+        [
+            "Hoy Wong Restaurant",
+            700003490
+        ]
+    ]
+]

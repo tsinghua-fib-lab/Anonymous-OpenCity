@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700067237
+        ]
+    ],
+    [
+        "Move to the cafe for a snack or drink.",
+        "(10:00, 11:07)",
+        [
+            "Les Tours de Notre-Dame",
+            700002410
+        ]
+    ],
+    [
+        "Go for a snack or drink.",
+        "(11:41, 13:18)",
+        [
+            "Les Tours de Notre-Dame",
+            700002410
+        ]
+    ],
+    [
+        "Go for a snack or drink.",
+        "(13:52, 15:32)",
+        [
+            "Les Tours de Notre-Dame",
+            700002410
+        ]
+    ],
+    [
+        "Next, go for a sport or leisure activity.",
+        "(15:39, 17:00)",
+        [
+            "Change Master",
+            700034767
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 21:15)",
+        [
+            "",
+            700036584
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:54, 23:59)",
+        [
+            "Les Tours de Notre-Dame",
+            700002410
+        ]
+    ]
+]

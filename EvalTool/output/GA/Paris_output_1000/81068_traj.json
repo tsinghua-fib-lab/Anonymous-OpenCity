@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700026964
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:15)",
+        [
+            "",
+            700012003
+        ]
+    ],
+    [
+        "Meet friends for coffee or a light snack at 4:00 PM.",
+        "(16:34, 17:41)",
+        [
+            "Cabinet Blanchiment Dentaire",
+            700023782
+        ]
+    ],
+    [
+        "Engaging in a hobby or reading a book.",
+        "(19:01, 20:26)",
+        [
+            "",
+            700012003
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:59)",
+        [
+            "Le Cottage Elysée",
+            700006572
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hong Kong Clay Pot Restaurant",
+            700003010
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:23)",
+        [
+            "Lady Luck Cafe",
+            700008864
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:27, 12:37)",
+        [
+            "",
+            700009341
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(12:43, 13:50)",
+        [
+            "New Woey Loy Goey",
+            700004267
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(14:12, 15:34)",
+        [
+            "Lady Luck Cafe",
+            700008864
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(16:06, 17:45)",
+        [
+            "Hong Kong Clay Pot Restaurant",
+            700003010
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 19:30)",
+        [
+            "",
+            700009338
+        ]
+    ],
+    [
+        "Evening Out or Social Activity",
+        "(19:54, 21:03)",
+        [
+            "Lady Luck Cafe",
+            700008864
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "Hong Kong Clay Pot Restaurant",
+            700003010
+        ]
+    ]
+]

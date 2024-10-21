@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020175
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:39)",
+        [
+            "Raku East Village",
+            700015960
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:19, 12:44)",
+        [
+            "Raku East Village",
+            700015960
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:06, 17:35)",
+        [
+            "",
+            700003112
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:10, 18:24)",
+        [
+            "Dunkin Donuts",
+            700039853
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:19, 17:47)",
+        [
+            "Dunkin Donuts",
+            700039853
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(18:16, 20:10)",
+        [
+            "Dunkin Donuts",
+            700039853
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:07, 21:37)",
+        [
+            "Sigiri",
+            700014520
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "Elsewhere Espresso",
+            700040215
+        ]
+    ]
+]

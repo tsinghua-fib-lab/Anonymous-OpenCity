@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gallardo's",
+            700002414
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:22)",
+        [
+            "Rock Band Land",
+            700014417
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:14, 17:33)",
+        [
+            "Ox Cafe",
+            700002474
+        ]
+    ],
+    [
+        "Stay at Ox Cafe",
+        "(19:45, 21:03)",
+        [
+            "Ox Cafe",
+            700002474
+        ]
+    ],
+    [
+        "Wind down the day with some light reading or watching TV.",
+        "(21:10, 23:12)",
+        [
+            "Ox Cafe",
+            700002474
+        ]
+    ],
+    [
+        "Stay at Ox Cafe",
+        "(23:41, 23:59)",
+        [
+            "Ox Cafe",
+            700002474
+        ]
+    ]
+]

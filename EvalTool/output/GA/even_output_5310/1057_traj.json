@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020088
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:22)",
+        [
+            "",
+            700002554
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:33, 11:50)",
+        [
+            "Hebrew Center",
+            700000015
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 16:16)",
+        [
+            "",
+            700002620
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(16:32, 18:09)",
+        [
+            "",
+            700020035
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(18:56, 21:20)",
+        [
+            "",
+            700020036
+        ]
+    ],
+    [
+        "After watching sports/entertainment, you should stay at Flavabom.",
+        "(21:15, 22:52)",
+        [
+            "",
+            700020031
+        ]
+    ],
+    [
+        "Stay at Flavabom.",
+        "(23:12, 23:59)",
+        [
+            "Duane Reade",
+            700004369
+        ]
+    ]
+]

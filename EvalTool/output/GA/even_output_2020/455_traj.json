@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "QBar",
+            700002184
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:27)",
+        [
+            "Osaka Sushi",
+            700000880
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:33, 12:09)",
+        [
+            "Osaka Sushi",
+            700000880
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(13:00, 14:26)",
+        [
+            "Osaka Sushi",
+            700000880
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:20, 17:29)",
+        [
+            "Cafe Mystique",
+            700002178
+        ]
+    ],
+    [
+        "Watch a Movie/TV Series",
+        "(18:58, 20:34)",
+        [
+            "Starbucks",
+            700002190
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 23:59)",
+        [
+            "SoulCycle",
+            700004060
+        ]
+    ]
+]

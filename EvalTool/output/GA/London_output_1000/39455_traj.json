@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:45)",
+        [
+            "",
+            700006547
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 16:30)",
+        [
+            "",
+            700001228
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:44, 19:53)",
+        [
+            "",
+            700006547
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(20:06, 21:42)",
+        [
+            "EC",
+            700005629
+        ]
+    ],
+    [
+        "Next outing considering the remaining time.",
+        "(22:01, 23:59)",
+        [
+            "Drury Lane Dental Care",
+            700032903
+        ]
+    ],
+    [
+        "Stay at Dragon Court",
+        "(23:36, 23:59)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ]
+]

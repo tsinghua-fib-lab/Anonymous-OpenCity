@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:02)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:14, 15:53)",
+        [
+            "Downtown Veterinary Clinic",
+            700012428
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:40, 20:56)",
+        [
+            "",
+            700003092
+        ]
+    ],
+    [
+        "Watch a Movie or Play Video Games",
+        "(21:27, 23:10)",
+        [
+            "Famous Original Ray's Pizza",
+            700004404
+        ]
+    ],
+    [
+        "Watch a Movie or Play Video Games",
+        "(23:20, 23:59)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ]
+]

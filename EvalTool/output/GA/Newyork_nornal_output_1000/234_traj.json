@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001846
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:37)",
+        [
+            "Marshall Stack",
+            700007309
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:57, 17:13)",
+        [
+            "Marshall Stack",
+            700007309
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:19, 19:03)",
+        [
+            "Sonnyboy",
+            700005132
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:03, 23:59)",
+        [
+            "First Warsaw Congregation",
+            700000190
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:13, 23:59)",
+        [
+            "Sea of Galilee Church",
+            700014829
+        ]
+    ]
+]

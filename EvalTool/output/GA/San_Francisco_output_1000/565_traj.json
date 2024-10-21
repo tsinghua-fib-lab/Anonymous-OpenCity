@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Center SF Tea House",
+            700004695
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:43)",
+        [
+            "Little Free Library",
+            700010493
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:27, 16:38)",
+        [
+            "",
+            700014405
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:43, 22:06)",
+        [
+            "",
+            700007721
+        ]
+    ],
+    [
+        "Stay at The Center SF Tea House",
+        "(22:08, 23:29)",
+        [
+            "Little Free Library",
+            700010493
+        ]
+    ],
+    [
+        "Stay at The Center SF Tea House",
+        "(23:52, 23:59)",
+        [
+            "Little Free Library",
+            700010493
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700041933
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:59)",
+        [
+            "Collège Alberto Giacometti",
+            700025081
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(12:45, 14:08)",
+        [
+            "Collège Alberto Giacometti",
+            700025081
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 19:03)",
+        [
+            "Gergovie - Vercingétorix",
+            700040363
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 23:33)",
+        [
+            "",
+            700041930
+        ]
+    ]
+]

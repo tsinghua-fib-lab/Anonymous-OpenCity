@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Church Cafe Outside",
+            700016242
+        ]
+    ],
+    [
+        "Engage in a light workout or yoga session to start the day with energy.",
+        "(10:00, 11:39)",
+        [
+            "Church Cafe Outside",
+            700016242
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 16:13)",
+        [
+            "Starbucks",
+            700020309
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 21:55)",
+        [
+            "NYSC",
+            700020315
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:12, 23:10)",
+        [
+            "NYPD 17 PCT",
+            700004366
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 23:59)",
+        [
+            "NYSC",
+            700020315
+        ]
+    ]
+]

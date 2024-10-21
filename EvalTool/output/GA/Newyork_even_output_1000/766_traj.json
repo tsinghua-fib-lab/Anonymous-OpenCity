@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003118
+        ]
+    ],
+    [
+        "Exercise or outdoor activity",
+        "(10:00, 11:03)",
+        [
+            "",
+            700038587
+        ]
+    ],
+    [
+        "Read or engage in a hobby",
+        "(11:21, 12:59)",
+        [
+            "",
+            700001220
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:52, 19:42)",
+        [
+            "Dunkin'",
+            700005150
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 23:00)",
+        [
+            "Halal Cart",
+            700019768
+        ]
+    ],
+    [
+        "Read or engage in a hobby",
+        "(23:36, 23:59)",
+        [
+            "Halal Cart",
+            700019768
+        ]
+    ]
+]

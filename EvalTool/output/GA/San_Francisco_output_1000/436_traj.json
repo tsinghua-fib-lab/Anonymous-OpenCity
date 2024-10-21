@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tony's Pizza Napoletana",
+            700003453
+        ]
+    ],
+    [
+        "Morning Leisure Activities",
+        "(09:00, 11:10)",
+        [
+            "Tony Nik's Cafe",
+            700003450
+        ]
+    ],
+    [
+        "Morning Leisure Activities",
+        "(11:58, 13:13)",
+        [
+            "Original Joe's",
+            700000424
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Sports",
+        "(13:16, 14:55)",
+        [
+            "Tony Nik's Cafe",
+            700003450
+        ]
+    ],
+    [
+        "Catch Up with Family/Friends",
+        "(15:27, 17:00)",
+        [
+            "",
+            700013549
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 21:48)",
+        [
+            "",
+            700009104
+        ]
+    ],
+    [
+        "Evening Relaxation and TV",
+        "(20:30, 23:06)",
+        [
+            "",
+            700009103
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "",
+            700009105
+        ]
+    ]
+]

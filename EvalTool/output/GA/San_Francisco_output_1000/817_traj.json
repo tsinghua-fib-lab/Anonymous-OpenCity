@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Saint Brigid School",
+            700000262
+        ]
+    ],
+    [
+        "Morning exercise (jogging or gym)",
+        "(09:00, 10:10)",
+        [
+            "Crossfit Golden Gate",
+            700010674
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:22, 11:55)",
+        [
+            "Metro United Bank",
+            700000524
+        ]
+    ],
+    [
+        "Watch a movie or attend a live event",
+        "(16:32, 18:01)",
+        [
+            "",
+            700003263
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:31, 21:11)",
+        [
+            "",
+            700000652
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "",
+            700009910
+        ]
+    ]
+]

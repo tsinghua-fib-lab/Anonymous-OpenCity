@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rocky's Pizzeria",
+            700012411
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:37)",
+        [
+            "iPizzaNY",
+            700006340
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:30, 14:50)",
+        [
+            "Garlic New York Pizza Bar",
+            700013039
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:05, 16:34)",
+        [
+            "Garlic New York Pizza Bar",
+            700013039
+        ]
+    ],
+    [
+        "Relax at Home",
+        "(17:01, 18:27)",
+        [
+            "CVS Pharmacy",
+            700008443
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:19, 22:35)",
+        [
+            "Chipotle",
+            700008432
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 22:02)",
+        [
+            "",
+            700018896
+        ]
+    ]
+]

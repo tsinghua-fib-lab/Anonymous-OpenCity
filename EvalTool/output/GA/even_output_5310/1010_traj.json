@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 60th Street & York Avenue",
+            700008062
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:37)",
+        [
+            "",
+            700022275
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:50, 18:13)",
+        [
+            "",
+            700022272
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:19, 21:06)",
+        [
+            "",
+            700022274
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:50, 21:13)",
+        [
+            "Animal Medical Center",
+            700012381
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:21, 23:59)",
+        [
+            "Animal Medical Center",
+            700012381
+        ]
+    ]
+]

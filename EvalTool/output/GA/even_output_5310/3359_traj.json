@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005842
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:10)",
+        [
+            "",
+            700008269
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(11:54, 13:22)",
+        [
+            "",
+            700019212
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(13:28, 14:31)",
+        [
+            "",
+            700001892
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(15:30, 16:57)",
+        [
+            "",
+            700001892
+        ]
+    ],
+    [
+        "Spend time with friends or family",
+        "(18:03, 19:30)",
+        [
+            "The Migrant Kitchen",
+            700016762
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 23:59)",
+        [
+            "Dig",
+            700006588
+        ]
+    ]
+]

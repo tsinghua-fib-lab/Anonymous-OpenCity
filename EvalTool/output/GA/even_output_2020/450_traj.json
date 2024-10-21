@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700004025
+        ]
+    ],
+    [
+        "Breakfast at home.",
+        "(10:00, 11:02)",
+        [
+            "",
+            700001050
+        ]
+    ],
+    [
+        "Go for a mid-morning walk or light jog in the park",
+        "(11:55, 12:00)",
+        [
+            "",
+            700004025
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 17:01)",
+        [
+            "18th Street Station",
+            700000386
+        ]
+    ],
+    [
+        "Meet friends for coffee or a social outing",
+        "(17:27, 19:06)",
+        [
+            "The Edge",
+            700002191
+        ]
+    ],
+    [
+        "Meet friends for coffee or a social outing",
+        "(19:19, 20:50)",
+        [
+            "Toad Hall",
+            700002207
+        ]
+    ],
+    [
+        "Spend time with friends",
+        "(21:23, 22:57)",
+        [
+            "Toad Hall",
+            700002207
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Magnet",
+            700002206
+        ]
+    ]
+]

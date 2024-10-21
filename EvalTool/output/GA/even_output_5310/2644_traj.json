@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "London Deli",
+            700018520
+        ]
+    ],
+    [
+        "Outdoor Walk or Workout",
+        "(10:00, 11:25)",
+        [
+            "M-Thai",
+            700004234
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:28, 18:22)",
+        [
+            "",
+            700013125
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:04, 18:54)",
+        [
+            "Citi Bike - West 22nd Street & 8th Avenue",
+            700008209
+        ]
+    ],
+    [
+        "Wind Down & Family Time",
+        "(20:47, 22:06)",
+        [
+            "Citi Bike - West 22nd Street & 8th Avenue",
+            700008209
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:59)",
+        [
+            "",
+            700020102
+        ]
+    ]
+]

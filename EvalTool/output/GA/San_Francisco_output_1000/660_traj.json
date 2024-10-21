@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Côte Ouest Bistro",
+            700002031
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:57)",
+        [
+            "",
+            700000975
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 17:01)",
+        [
+            "",
+            700008286
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:22, 19:29)",
+        [
+            "Marina Chiropractic",
+            700000686
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:38, 20:42)",
+        [
+            "causwells burgers",
+            700007466
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:25, 23:59)",
+        [
+            "Carmine F. Vicino",
+            700000685
+        ]
+    ]
+]

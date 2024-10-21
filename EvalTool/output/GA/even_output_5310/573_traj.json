@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011180
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:06)",
+        [
+            "David's Pharmacy",
+            700006190
+        ]
+    ],
+    [
+        "Lunch with friends",
+        "(13:00, 14:21)",
+        [
+            "Passport Health Gramercy Park Travel Clinic",
+            700025936
+        ]
+    ],
+    [
+        "Stay at Chase.",
+        "(14:35, 16:34)",
+        [
+            "Eleni's Divine Greek Cuisine",
+            700009143
+        ]
+    ],
+    [
+        "Stay at Chase.",
+        "(16:48, 17:57)",
+        [
+            "Eleni's Divine Greek Cuisine",
+            700009143
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:34, 22:44)",
+        [
+            "Barfly",
+            700004033
+        ]
+    ],
+    [
+        "Stay at Place 1",
+        "(19:56, 21:12)",
+        [
+            "",
+            700002131
+        ]
+    ],
+    [
+        "Stay at Chase.",
+        "(21:23, 22:51)",
+        [
+            "Barfly",
+            700004033
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "Keith R. Marshall, DDS",
+            700006183
+        ]
+    ]
+]

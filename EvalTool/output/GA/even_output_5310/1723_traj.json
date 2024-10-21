@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mee's Noodle",
+            700014650
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:50)",
+        [
+            "La Cava Wine Bar",
+            700017237
+        ]
+    ],
+    [
+        "Meal or relax at La Cava Wine Bar.",
+        "(13:36, 15:44)",
+        [
+            "La Cava Wine Bar",
+            700017237
+        ]
+    ],
+    [
+        "3:00 PM - 5:00 PM: Meet up with friends for an afternoon game (like basketball or tennis) or a leisurely stroll.",
+        "(16:03, 17:36)",
+        [
+            "La Cava Wine Bar",
+            700017237
+        ]
+    ],
+    [
+        "Spend time at La Cava Wine Bar.",
+        "(17:54, 19:06)",
+        [
+            "La Cava Wine Bar",
+            700017237
+        ]
+    ],
+    [
+        "Stay at Sutton Cafe Restaurant.",
+        "(19:34, 21:09)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ],
+    [
+        "Visit Tía Pol.",
+        "(20:48, 21:58)",
+        [
+            "",
+            700001712
+        ]
+    ],
+    [
+        "Stay at CityMD.",
+        "(22:10, 23:49)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "",
+            700000996
+        ]
+    ]
+]

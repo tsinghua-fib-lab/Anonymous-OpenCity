@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700018091
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:11)",
+        [
+            "Food truck by John Jay",
+            700018205
+        ]
+    ],
+    [
+        "Social Time",
+        "(13:40, 15:48)",
+        [
+            "Food truck by John Jay",
+            700018205
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 19:05)",
+        [
+            "",
+            700018094
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(17:36, 19:07)",
+        [
+            "Food truck by John Jay",
+            700018205
+        ]
+    ],
+    [
+        "Continue staying at current place",
+        "(20:02, 22:29)",
+        [
+            "",
+            700018091
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:02, 23:59)",
+        [
+            "Food truck by John Jay",
+            700018205
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:56, 23:59)",
+        [
+            "",
+            700018091
+        ]
+    ]
+]

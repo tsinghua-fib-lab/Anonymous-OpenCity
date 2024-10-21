@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002398
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:15)",
+        [
+            "Aux Delices Vietnamese Restaurant",
+            700002087
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:36, 12:58)",
+        [
+            "Aux Delices Vietnamese Restaurant",
+            700002087
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:15, 14:46)",
+        [
+            "Aux Delices Vietnamese Restaurant",
+            700002087
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:23, 20:47)",
+        [
+            "Tonic",
+            700000643
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 23:32)",
+        [
+            "Tonic",
+            700000643
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(23:54, 23:59)",
+        [
+            "Bank of America",
+            700000644
+        ]
+    ]
+]

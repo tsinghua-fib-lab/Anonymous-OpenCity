@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:45)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:42, 16:02)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 21:42)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Go to Forefeathers.",
+        "(19:35, 21:33)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "Stay at Forefeathers",
+        "(21:44, 23:59)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "Coletta",
+            700015591
+        ]
+    ]
+]

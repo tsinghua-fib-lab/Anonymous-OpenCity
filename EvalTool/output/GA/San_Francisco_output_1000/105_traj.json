@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sweet Glory",
+            700009605
+        ]
+    ],
+    [
+        "Check Emails & Plan the Week",
+        "(10:00, 10:59)",
+        [
+            "Sweet Glory",
+            700009605
+        ]
+    ],
+    [
+        "Check Emails & Plan the Week",
+        "(11:05, 11:57)",
+        [
+            "Sweet Glory",
+            700009605
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:22, 15:49)",
+        [
+            "Cafe la Rosa",
+            700010378
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:18, 22:15)",
+        [
+            "Sweet Glory",
+            700009605
+        ]
+    ],
+    [
+        "Stay at Sweet Glory.",
+        "(22:56, 23:59)",
+        [
+            "",
+            700003363
+        ]
+    ]
+]

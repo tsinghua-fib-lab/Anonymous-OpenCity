@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:26)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:11, 17:01)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:39, 21:19)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 23:59)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:20, 23:59)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ]
+]

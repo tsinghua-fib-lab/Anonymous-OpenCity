@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Grant School",
+            700000162
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:00, 10:53)",
+        [
+            "Grant School",
+            700000162
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(11:05, 13:10)",
+        [
+            "Grant School",
+            700000162
+        ]
+    ],
+    [
+        "Relaxation and Leisure Reading",
+        "(13:30, 14:52)",
+        [
+            "Grant School",
+            700000162
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:48, 20:15)",
+        [
+            "",
+            700001526
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 23:13)",
+        [
+            "",
+            700001519
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:59)",
+        [
+            "",
+            700011432
+        ]
+    ]
+]

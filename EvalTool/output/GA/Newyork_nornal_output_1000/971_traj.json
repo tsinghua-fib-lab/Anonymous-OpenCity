@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sagra Pizza Bar",
+            700023317
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:36)",
+        [
+            "Berimbau do Brasil",
+            700008989
+        ]
+    ],
+    [
+        "Go for a morning jog or yoga session to start the day with some physical activity.",
+        "(12:09, 13:35)",
+        [
+            "Berimbau do Brasil",
+            700008989
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 17:22)",
+        [
+            "Ramen Danbo",
+            700029822
+        ]
+    ],
+    [
+        "Stay at Ramen Danbo",
+        "(17:59, 18:53)",
+        [
+            "The Grey Dog",
+            700007503
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:33, 22:12)",
+        [
+            "Jajaja Mexicana",
+            700040229
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "Jajaja Mexicana",
+            700040229
+        ]
+    ]
+]

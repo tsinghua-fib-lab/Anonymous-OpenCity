@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000507
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:16)",
+        [
+            "",
+            700000579
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:09, 16:54)",
+        [
+            "",
+            700000577
+        ]
+    ],
+    [
+        "Meet friends or family for coffee or engage in an outdoor activity.",
+        "(17:10, 19:08)",
+        [
+            "Caffè Bianco",
+            700001845
+        ]
+    ],
+    [
+        "Go to Caffè Bianco",
+        "(19:22, 21:04)",
+        [
+            "Caffè Bianco",
+            700001845
+        ]
+    ],
+    [
+        "Stay at home",
+        "(21:57, 23:52)",
+        [
+            "",
+            700000507
+        ]
+    ],
+    [
+        "Stay at home.",
+        "(23:58, 23:59)",
+        [
+            "",
+            700000507
+        ]
+    ]
+]

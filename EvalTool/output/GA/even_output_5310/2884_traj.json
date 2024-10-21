@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:57)",
+        [
+            "",
+            700010697
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(12:23, 13:49)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:49, 15:37)",
+        [
+            "",
+            700002848
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(18:14, 19:44)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:04, 21:32)",
+        [
+            "Sofia Pizza Shoppe",
+            700039310
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:03, 23:59)",
+        [
+            "Parnell's",
+            700011622
+        ]
+    ],
+    [
+        "Sleep at HealthSource Pharmacy & Health Food Store",
+        "(23:31, 23:59)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ]
+]

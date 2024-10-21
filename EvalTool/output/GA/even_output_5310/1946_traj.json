@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002101
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(09:00, 10:09)",
+        [
+            "Dunkin'",
+            700011456
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(09:59, 11:03)",
+        [
+            "",
+            700020603
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(12:00, 14:03)",
+        [
+            "Persepolis",
+            700011163
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(14:37, 16:00)",
+        [
+            "Persepolis",
+            700011163
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 18:19)",
+        [
+            "Javelina",
+            700017385
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:48, 23:42)",
+        [
+            "Sushi Gama Restaurant & Lounge",
+            700021719
+        ]
+    ],
+    [
+        "Stay and spend time at Persepolis.",
+        "(23:35, 23:59)",
+        [
+            "Persepolis",
+            700011163
+        ]
+    ]
+]

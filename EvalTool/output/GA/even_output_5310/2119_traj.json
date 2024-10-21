@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Il Violino",
+            700005036
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:30)",
+        [
+            "",
+            700002824
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:40, 14:46)",
+        [
+            "Le Boite en Bois",
+            700020925
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 18:00)",
+        [
+            "",
+            700002005
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(17:36, 19:13)",
+        [
+            "Maman",
+            700020923
+        ]
+    ],
+    [
+        "Visit a leisure place, Central Rock Gym",
+        "(20:02, 21:54)",
+        [
+            "",
+            700005037
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:02, 23:59)",
+        [
+            "Equinox",
+            700003705
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:56, 23:59)",
+        [
+            "Il Violino",
+            700005036
+        ]
+    ]
+]

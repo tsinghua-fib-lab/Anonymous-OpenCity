@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike",
+            700024346
+        ]
+    ],
+    [
+        "Enjoy breakfast",
+        "(10:00, 11:02)",
+        [
+            "Citi Bike",
+            700024346
+        ]
+    ],
+    [
+        "Stay at New York Eye and Ear Infirmary of Mount Sinai.",
+        "(11:47, 12:49)",
+        [
+            "",
+            700018146
+        ]
+    ],
+    [
+        "Stay at Citi Bike.",
+        "(13:37, 14:51)",
+        [
+            "O'Hanlons Bar",
+            700016457
+        ]
+    ],
+    [
+        "Stay at Citi Bike.",
+        "(15:11, 16:43)",
+        [
+            "1 Av & E 14 St",
+            700011090
+        ]
+    ],
+    [
+        "Stay at Citi Bike",
+        "(17:03, 18:25)",
+        [
+            "1 Av & E 14 St",
+            700011090
+        ]
+    ],
+    [
+        "Stay at Citi Bike.",
+        "(18:57, 19:55)",
+        [
+            "1 Av & E 14 St",
+            700011090
+        ]
+    ],
+    [
+        "Stay at Citi Bike.",
+        "(20:23, 21:59)",
+        [
+            "1 Av & E 14 St",
+            700011090
+        ]
+    ],
+    [
+        "Stay at Citi Bike",
+        "(22:17, 23:12)",
+        [
+            "1 Av & E 14 St",
+            700011090
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "Citi Bike",
+            700024346
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700070801
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:38)",
+        [
+            "Les Pollos",
+            700010982
+        ]
+    ],
+    [
+        "Enjoy leisure activities.",
+        "(12:13, 14:23)",
+        [
+            "Les Pollos",
+            700010982
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 20:07)",
+        [
+            "L'Adresse",
+            700010978
+        ]
+    ],
+    [
+        "Enjoy leisure activities.",
+        "(20:47, 22:02)",
+        [
+            "Les Pollos",
+            700010982
+        ]
+    ],
+    [
+        "Stay at Armée du Salut.",
+        "(22:45, 23:56)",
+        [
+            "La Cantina",
+            700010979
+        ]
+    ],
+    [
+        "Stay at Armée du Salut.",
+        "(23:56, 23:59)",
+        [
+            "Dar Zamen",
+            700010989
+        ]
+    ]
+]

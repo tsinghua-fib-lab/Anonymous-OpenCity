@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700033464
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:51)",
+        [
+            "Ramini espresso bar",
+            700008902
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:57, 13:08)",
+        [
+            "",
+            700033464
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:44, 15:09)",
+        [
+            "Ramini espresso bar",
+            700008902
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:12, 19:17)",
+        [
+            "Pastrami and Grill",
+            700006348
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 23:59)",
+        [
+            "Kashmir 9",
+            700004291
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "Midtown South Precinct Police Station",
+            700000580
+        ]
+    ]
+]

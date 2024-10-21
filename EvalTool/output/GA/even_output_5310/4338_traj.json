@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Drop-Off Service",
+            700004507
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:19)",
+        [
+            "El Camion Cantina",
+            700011089
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:27, 15:28)",
+        [
+            "",
+            700002580
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:19, 18:56)",
+        [
+            "",
+            700002682
+        ]
+    ],
+    [
+        "Social Time",
+        "(19:21, 20:55)",
+        [
+            "Mama Fina's House of Filipino Sisig",
+            700017080
+        ]
+    ],
+    [
+        "Spend time at Mama Fina's House of Filipino Sisig",
+        "(21:10, 22:48)",
+        [
+            "Tompkins Square Bagels",
+            700008973
+        ]
+    ],
+    [
+        "Spend time at Mama Fina's House of Filipino Sisig",
+        "(23:24, 23:59)",
+        [
+            "",
+            700002992
+        ]
+    ]
+]

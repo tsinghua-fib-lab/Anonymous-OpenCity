@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700040428
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:19)",
+        [
+            "Andrew M. Lutzker, D.M.D.",
+            700009289
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:08, 16:30)",
+        [
+            "Andrew M. Lutzker, D.M.D.",
+            700009289
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:08, 18:31)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ],
+    [
+        "Outdoor Activity or stay in La Pecora Bianca",
+        "(19:00, 20:06)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:26, 23:59)",
+        [
+            "La Cava Wine Bar",
+            700017237
+        ]
+    ]
+]

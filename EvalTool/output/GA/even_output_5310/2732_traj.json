@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Allen-Stevenson School",
+            700009392
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:07)",
+        [
+            "Angelina Paris",
+            700032207
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 15:35)",
+        [
+            "Don Filippo",
+            700015281
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:28, 16:56)",
+        [
+            "Tamam Falafel",
+            700025722
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:40, 19:21)",
+        [
+            "Starbucks",
+            700015407
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:55, 22:04)",
+        [
+            "Angelina Paris",
+            700032207
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:51, 22:53)",
+        [
+            "Angelina Paris",
+            700032207
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(23:47, 23:59)",
+        [
+            "Angelina Paris",
+            700032207
+        ]
+    ]
+]

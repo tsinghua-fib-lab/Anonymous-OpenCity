@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Cafe Altano",
+            700000850
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:16)",
+        [
+            "",
+            700002889
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 17:33)",
+        [
+            "",
+            700002892
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 18:16)",
+        [
+            "Giola Pizzeria",
+            700002134
+        ]
+    ],
+    [
+        "Current Place: Cafe Altano; Stay Time: 0 hours 23 minutes",
+        "(20:23, 22:15)",
+        [
+            "Giola Pizzeria",
+            700002134
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(22:52, 23:59)",
+        [
+            "Cafe Altano",
+            700000850
+        ]
+    ]
+]

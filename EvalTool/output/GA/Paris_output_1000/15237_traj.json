@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:58)",
+        [
+            "",
+            700004899
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 16:06)",
+        [
+            "",
+            700004900
+        ]
+    ],
+    [
+        "Relaxing Time",
+        "(15:35, 16:55)",
+        [
+            "",
+            700004922
+        ]
+    ],
+    [
+        "Watch a Movie",
+        "(17:03, 18:33)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:03, 20:28)",
+        [
+            "",
+            700004902
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:38, 23:59)",
+        [
+            "",
+            700004903
+        ]
+    ],
+    [
+        "Wind Down with TV or Reading",
+        "(23:44, 23:59)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:02)",
+        [
+            "Neary’s",
+            700010786
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:27, 15:30)",
+        [
+            "",
+            700014479
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:03, 15:29)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:05, 18:02)",
+        [
+            "Neary’s",
+            700010786
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(18:20, 19:55)",
+        [
+            "Neary’s",
+            700010786
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(20:17, 22:03)",
+        [
+            "Neary’s",
+            700010786
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "Stay at Sutton Cafe Restaurant",
+        "(23:56, 23:59)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ]
+]

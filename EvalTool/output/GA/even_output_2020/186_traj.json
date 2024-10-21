@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700007381
+        ]
+    ],
+    [
+        "Go for a walk at a local park or engage in some light exercise.",
+        "(09:00, 10:34)",
+        [
+            "City Park",
+            700002760
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:08, 16:31)",
+        [
+            "Beanstalk Cafe",
+            700005735
+        ]
+    ],
+    [
+        "Enjoy your time at Beanstalk Cafe.",
+        "(16:02, 17:42)",
+        [
+            "Beanstalk Cafe",
+            700005735
+        ]
+    ],
+    [
+        "Enjoy your time at Beanstalk Cafe.",
+        "(17:45, 19:22)",
+        [
+            "Beanstalk Cafe",
+            700005735
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 23:59)",
+        [
+            "Roxanne Cafe",
+            700001601
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:39, 23:52)",
+        [
+            "SushiToni",
+            700008824
+        ]
+    ]
+]

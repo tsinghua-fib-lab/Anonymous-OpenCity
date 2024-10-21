@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Spikes",
+            700033758
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:40)",
+        [
+            "Spikes",
+            700033758
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(11:09, 13:04)",
+        [
+            "Spikes",
+            700033758
+        ]
+    ],
+    [
+        "Pursue a Hobby or Project",
+        "(12:52, 14:50)",
+        [
+            "Spikes",
+            700033758
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:15, 16:37)",
+        [
+            "",
+            700019204
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:37, 23:10)",
+        [
+            "Spikes",
+            700033758
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "",
+            700000690
+        ]
+    ]
+]

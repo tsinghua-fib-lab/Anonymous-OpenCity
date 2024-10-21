@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "11 Tigers",
+            700027010
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:08)",
+        [
+            "Dunkin'",
+            700005269
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(13:46, 15:24)",
+        [
+            "Perk",
+            700018145
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(15:24, 17:07)",
+        [
+            "Perk",
+            700018145
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:53, 19:23)",
+        [
+            "11 Tigers",
+            700027010
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:48, 21:57)",
+        [
+            "11 Tigers",
+            700027010
+        ]
+    ],
+    [
+        "Stay at 11 Tigers",
+        "(22:42, 23:59)",
+        [
+            "Psychic Readings",
+            700040181
+        ]
+    ]
+]

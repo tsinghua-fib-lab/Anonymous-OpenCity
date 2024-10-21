@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Yung Sun Seafood Restaurant",
+            700010989
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:26)",
+        [
+            "Downtown Yummy Restaurant",
+            700015925
+        ]
+    ],
+    [
+        "Free Time for Hobbies",
+        "(13:15, 15:24)",
+        [
+            "Downtown Yummy Restaurant",
+            700015925
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:12, 18:09)",
+        [
+            "Golden Unicorn",
+            700004504
+        ]
+    ],
+    [
+        "Free Time for Hobbies",
+        "(20:35, 21:45)",
+        [
+            "",
+            700037384
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:46, 23:10)",
+        [
+            "Golden Unicorn",
+            700004504
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:50, 23:59)",
+        [
+            "Golden Unicorn",
+            700004504
+        ]
+    ]
+]

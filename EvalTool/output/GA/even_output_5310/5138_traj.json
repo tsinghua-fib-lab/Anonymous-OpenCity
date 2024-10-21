@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001636
+        ]
+    ],
+    [
+        "Wake Up and Relax",
+        "(09:00, 09:50)",
+        [
+            "Capital One",
+            700004302
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:36, 11:53)",
+        [
+            "Capital One",
+            700004302
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:05, 13:52)",
+        [
+            "Capital One",
+            700004302
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:54, 16:06)",
+        [
+            "Capital One",
+            700004302
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:19, 17:40)",
+        [
+            "",
+            700018853
+        ]
+    ],
+    [
+        "Go to Capital One and spend time relaxing.",
+        "(20:28, 22:37)",
+        [
+            "Capital One",
+            700004302
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:36, 23:59)",
+        [
+            "Capital One",
+            700004302
+        ]
+    ]
+]

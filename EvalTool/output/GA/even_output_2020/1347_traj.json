@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001486
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:51)",
+        [
+            "Sidewalk Juice",
+            700010601
+        ]
+    ],
+    [
+        "preparing and having lunch",
+        "(12:15, 13:36)",
+        [
+            "Ken",
+            700004202
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(14:10, 16:06)",
+        [
+            "Ken",
+            700004202
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(17:03, 18:54)",
+        [
+            "Ken",
+            700004202
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:27, 21:48)",
+        [
+            "Bus Stop Pizza",
+            700004204
+        ]
+    ]
+]

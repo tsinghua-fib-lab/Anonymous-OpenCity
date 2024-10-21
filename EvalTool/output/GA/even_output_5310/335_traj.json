@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "M408 Professional Performing Arts High School",
+            700000414
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:05)",
+        [
+            "Barking Dog",
+            700033237
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:23, 17:51)",
+        [
+            "",
+            700000870
+        ]
+    ],
+    [
+        "Stay at Barking Dog",
+        "(19:47, 20:50)",
+        [
+            "Arias Hell's Kitchen",
+            700008998
+        ]
+    ],
+    [
+        "Spend time at Barking Dog",
+        "(21:10, 23:43)",
+        [
+            "Citi Bike - West 52nd Street & 9th Avenue",
+            700008232
+        ]
+    ],
+    [
+        "Stay at Barking Dog",
+        "(23:40, 23:59)",
+        [
+            "K Rico Steakhouse",
+            700017808
+        ]
+    ]
+]

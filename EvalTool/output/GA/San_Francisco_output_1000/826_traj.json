@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New Country Sky",
+            700002308
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(09:00, 10:32)",
+        [
+            "New Country Sky",
+            700002308
+        ]
+    ],
+    [
+        "6:30 PM to 7:00 PM - Prepare and have dinner",
+        "(10:41, 12:01)",
+        [
+            "New Country Sky",
+            700002308
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 15:46)",
+        [
+            "California Wine Merchant",
+            700008807
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(15:12, 17:04)",
+        [
+            "California Wine Merchant",
+            700008807
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 23:12)",
+        [
+            "Amour Vert",
+            700005919
+        ]
+    ],
+    [
+        "Stay at New Country Sky",
+        "(23:15, 23:59)",
+        [
+            "Marina Theatre",
+            700002046
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sarah Dix Hamlin School",
+            700000210
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(09:00, 09:55)",
+        [
+            "Sarah Dix Hamlin School",
+            700000210
+        ]
+    ],
+    [
+        "Catch up on household chores",
+        "(10:54, 12:07)",
+        [
+            "Sarah Dix Hamlin School",
+            700000210
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 16:24)",
+        [
+            "San Francisco Sleep Diagnostics",
+            700003678
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:37, 15:52)",
+        [
+            "Belga",
+            700005577
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 22:25)",
+        [
+            "California Institute of Fashion",
+            700000280
+        ]
+    ],
+    [
+        "Next place after watching a movie or TV show in Situation_9",
+        "(23:03, 23:59)",
+        [
+            "California Institute of Fashion",
+            700000280
+        ]
+    ]
+]

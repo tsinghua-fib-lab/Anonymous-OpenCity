@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Brazen Head",
+            700005651
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:33)",
+        [
+            "Perry's",
+            700005698
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 13:04)",
+        [
+            "GIO Gelati",
+            700008810
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:36, 16:03)",
+        [
+            "The Brazen Head",
+            700005651
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:20, 17:47)",
+        [
+            "",
+            700008809
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:20, 23:59)",
+        [
+            "Earthbar",
+            700005579
+        ]
+    ],
+    [
+        "Go to Earthbar for relaxation.",
+        "(23:58, 23:59)",
+        [
+            "Earthbar",
+            700005579
+        ]
+    ]
+]

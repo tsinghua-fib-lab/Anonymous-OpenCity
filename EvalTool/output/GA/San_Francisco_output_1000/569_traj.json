@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Wells Fargo",
+            700000895
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:38)",
+        [
+            "Asian Box",
+            700002312
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:27, 16:20)",
+        [
+            "Los Hermanos",
+            700010645
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:43, 22:14)",
+        [
+            "The Horseshoe",
+            700010644
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(22:08, 23:59)",
+        [
+            "The Horseshoe",
+            700010644
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(23:52, 23:59)",
+        [
+            "The Horseshoe",
+            700010644
+        ]
+    ]
+]

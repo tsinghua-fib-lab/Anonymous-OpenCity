@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "ProHealth Pharmacy",
+            700006203
+        ]
+    ],
+    [
+        "next place",
+        "(09:00, 10:26)",
+        [
+            "East Side Endoscopy",
+            700023461
+        ]
+    ],
+    [
+        "Next activity based on the schedule",
+        "(10:37, 12:29)",
+        [
+            "East Side Endoscopy",
+            700023461
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:48, 17:16)",
+        [
+            "",
+            700002077
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a favorite series to relax and have some entertainment.",
+        "(16:35, 18:05)",
+        [
+            "East Side Endoscopy",
+            700023461
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:54, 23:59)",
+        [
+            "Ralph's Italian Ices",
+            700006208
+        ]
+    ],
+    [
+        "Stay at ProHealth Pharmacy",
+        "(22:22, 23:41)",
+        [
+            "",
+            700001612
+        ]
+    ],
+    [
+        "Stay at ProHealth Pharmacy.",
+        "(23:52, 23:59)",
+        [
+            "ProHealth Pharmacy",
+            700006203
+        ]
+    ]
+]

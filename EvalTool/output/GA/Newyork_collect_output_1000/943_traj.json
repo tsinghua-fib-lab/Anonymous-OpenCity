@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "You will stay at iPark until 10:00 AM and then go for a walk.",
+        "(09:00, 10:25)",
+        [
+            "",
+            700002113
+        ]
+    ],
+    [
+        "Stay at current place: iPark",
+        "(10:26, 13:04)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 17:56)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:42, 23:05)",
+        [
+            "",
+            700022515
+        ]
+    ],
+    [
+        "Move to ZLS BBQ",
+        "(21:51, 22:59)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "",
+            700022507
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008998
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:31)",
+        [
+            "",
+            700008910
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:09, 17:06)",
+        [
+            "",
+            700008897
+        ]
+    ],
+    [
+        "Meet friends or family for coffee or engage in an outdoor activity.",
+        "(17:10, 19:03)",
+        [
+            "",
+            700008998
+        ]
+    ],
+    [
+        "Stay at 450 Sutter parking",
+        "(19:22, 21:07)",
+        [
+            "450 Sutter parking",
+            700003095
+        ]
+    ],
+    [
+        "Stay at 450 Sutter parking",
+        "(21:57, 23:56)",
+        [
+            "450 Sutter parking",
+            700003095
+        ]
+    ],
+    [
+        "Stay at 450 Sutter parking.",
+        "(23:58, 23:59)",
+        [
+            "450 Sutter parking",
+            700003095
+        ]
+    ]
+]

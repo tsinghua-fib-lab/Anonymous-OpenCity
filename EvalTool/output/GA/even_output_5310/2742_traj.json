@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700022981
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:34)",
+        [
+            "",
+            700015828
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 17:01)",
+        [
+            "",
+            700018385
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:28, 16:57)",
+        [
+            "Astor Place Greenmarket",
+            700019443
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:40, 22:08)",
+        [
+            "Astor Plate",
+            700021803
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:55, 21:55)",
+        [
+            "Astor Plate",
+            700021803
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:51, 22:52)",
+        [
+            "Astor Place Greenmarket",
+            700019443
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(23:47, 23:59)",
+        [
+            "Astor Place Greenmarket",
+            700019443
+        ]
+    ]
+]

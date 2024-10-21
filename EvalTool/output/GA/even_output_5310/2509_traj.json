@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mickey Spillane's",
+            700011615
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:06)",
+        [
+            "Dunkin'",
+            700009836
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:58, 11:00)",
+        [
+            "Leon Bakery",
+            700009834
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:52, 13:27)",
+        [
+            "Leon Bakery",
+            700009834
+        ]
+    ],
+    [
+        "Leisure and Entertainment",
+        "(14:15, 15:23)",
+        [
+            "MiDoctor Urgent Care",
+            700024724
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:33, 18:22)",
+        [
+            "",
+            700001967
+        ]
+    ],
+    [
+        "Go to 'Sapori' for a late meal.",
+        "(22:25, 23:31)",
+        [
+            "Istanbul Kebab House",
+            700017343
+        ]
+    ]
+]

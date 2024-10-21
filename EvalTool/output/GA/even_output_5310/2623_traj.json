@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - West 48th Street & 3rd Avenue",
+            700009296
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:08)",
+        [
+            "Starbucks",
+            700040281
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:27, 13:48)",
+        [
+            "Starbucks",
+            700040281
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:01, 16:31)",
+        [
+            "Citi Bike - West 48th Street & 3rd Avenue",
+            700009296
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:54, 22:10)",
+        [
+            "Citi Bike - West 48th Street & 3rd Avenue",
+            700009296
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(22:32, 23:59)",
+        [
+            "Pret A Manger",
+            700010324
+        ]
+    ]
+]

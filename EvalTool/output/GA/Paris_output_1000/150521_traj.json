@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700026960
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:19)",
+        [
+            "Bureau de change",
+            700030803
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(15:47, 17:11)",
+        [
+            "Bureau de change",
+            700030803
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:17, 19:41)",
+        [
+            "Bureau de change",
+            700030803
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 22:53)",
+        [
+            "Bureau de change",
+            700030803
+        ]
+    ]
+]

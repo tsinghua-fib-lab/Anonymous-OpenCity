@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001674
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:20)",
+        [
+            "",
+            700001743
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:48, 15:37)",
+        [
+            "Reservoir",
+            700007661
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:31, 20:35)",
+        [
+            "Peacefood",
+            700024818
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:54, 19:44)",
+        [
+            "",
+            700003208
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:12, 23:53)",
+        [
+            "El Cantinero",
+            700014259
+        ]
+    ],
+    [
+        "Dinner and Movie Night",
+        "(23:57, 23:59)",
+        [
+            "Sophie's Cuban Cuisine",
+            700034077
+        ]
+    ]
+]

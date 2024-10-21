@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:52)",
+        [
+            "",
+            700011173
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:58, 17:20)",
+        [
+            "Firecracker Wings",
+            700023829
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:52, 20:32)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:44, 23:59)",
+        [
+            "",
+            700002077
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "",
+            700002077
+        ]
+    ]
+]

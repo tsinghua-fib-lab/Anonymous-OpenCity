@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 3rd Street & 1st Avenue",
+            700008041
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:06)",
+        [
+            "",
+            700002190
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:29, 16:21)",
+        [
+            "Citi Bike - East 3rd Street & 1st Avenue",
+            700008041
+        ]
+    ],
+    [
+        "Social Time",
+        "(19:30, 20:57)",
+        [
+            "Citi Bike - East 3rd Street & 1st Avenue",
+            700008041
+        ]
+    ],
+    [
+        "Go to Funny BBQ 98",
+        "(21:43, 23:53)",
+        [
+            "Resobox",
+            700014683
+        ]
+    ],
+    [
+        "Stay in your current place",
+        "(23:15, 23:59)",
+        [
+            "Citi Bike - East 3rd Street & 1st Avenue",
+            700008041
+        ]
+    ]
+]

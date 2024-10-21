@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:37)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Projects",
+        "(14:57, 16:29)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 21:15)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:33, 20:55)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:33, 23:59)",
+        [
+            "Molly's",
+            700011135
+        ]
+    ],
+    [
+        "Visit",
+        "(23:45, 23:59)",
+        [
+            "Diner 24",
+            700004207
+        ]
+    ]
+]

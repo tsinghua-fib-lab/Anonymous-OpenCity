@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Reading or relaxing with a book",
+        "(10:00, 10:50)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Reading or relaxing with a book",
+        "(11:56, 13:05)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:15, 18:05)",
+        [
+            "Shoe Shine",
+            700020451
+        ]
+    ],
+    [
+        "Watch a movie or binge a TV series",
+        "(17:34, 18:57)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:54, 23:38)",
+        [
+            "",
+            700016247
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "",
+            700034234
+        ]
+    ]
+]

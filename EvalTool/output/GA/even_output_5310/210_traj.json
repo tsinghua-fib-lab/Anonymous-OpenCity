@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014704
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast and coffee.",
+        "(10:00, 10:56)",
+        [
+            "",
+            700014707
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:45, 15:02)",
+        [
+            "",
+            700017179
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 18:50)",
+        [
+            "Saint Vincent Ferrer School",
+            700000273
+        ]
+    ],
+    [
+        "Stay at Saint Vincent Ferrer School.",
+        "(18:22, 20:00)",
+        [
+            "Barbaresco",
+            700010322
+        ]
+    ],
+    [
+        "Stay at Saint Vincent Ferrer School.",
+        "(20:10, 21:57)",
+        [
+            "Saint Vincent Ferrer School",
+            700000273
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "",
+            700010791
+        ]
+    ]
+]

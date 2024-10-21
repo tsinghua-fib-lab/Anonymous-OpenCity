@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020823
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 09:54)",
+        [
+            "",
+            700007478
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(10:32, 12:00)",
+        [
+            "",
+            700038624
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:26, 14:10)",
+        [
+            "",
+            700020823
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(14:43, 16:03)",
+        [
+            "Maggie Reilly's",
+            700013885
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:56, 19:29)",
+        [
+            "Dunkin'",
+            700003443
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:10)",
+        [
+            "Jacob's Pickels",
+            700025729
+        ]
+    ]
+]

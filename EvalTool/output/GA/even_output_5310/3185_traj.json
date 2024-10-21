@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 12th Street & Avenue B",
+            700010613
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:03)",
+        [
+            "",
+            700002275
+        ]
+    ],
+    [
+        "Current place, reading or hobby",
+        "(15:23, 17:04)",
+        [
+            "Lucky",
+            700029808
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:38, 22:44)",
+        [
+            "",
+            700001765
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:02, 23:43)",
+        [
+            "",
+            700002713
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:46, 23:59)",
+        [
+            "Toyota Children's Learning Garden",
+            700000401
+        ]
+    ]
+]

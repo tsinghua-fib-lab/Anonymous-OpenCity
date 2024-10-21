@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ninth Street Espresso",
+            700013666
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:53)",
+        [
+            "",
+            700002148
+        ]
+    ],
+    [
+        "Lunch and Relaxation",
+        "(11:38, 13:06)",
+        [
+            "Chilis on Wheels",
+            700018002
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:44, 16:14)",
+        [
+            "Chilis on Wheels",
+            700018002
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(17:07, 19:14)",
+        [
+            "Chilis on Wheels",
+            700018002
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:22, 22:10)",
+        [
+            "Burgers on B",
+            700029810
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:42, 23:59)",
+        [
+            "Eleven B",
+            700032000
+        ]
+    ]
+]

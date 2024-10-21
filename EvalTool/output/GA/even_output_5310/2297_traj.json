@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002932
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:11)",
+        [
+            "Suki Sushi",
+            700017947
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:21, 15:15)",
+        [
+            "Nargila Grill",
+            700030891
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:52, 18:42)",
+        [
+            "",
+            700001488
+        ]
+    ],
+    [
+        "Stay at Your Home",
+        "(21:28, 23:09)",
+        [
+            "QUATORZE bis",
+            700024258
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "QUATORZE bis",
+            700024258
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Circular Quay 4B",
+            700000001
+        ]
+    ],
+    [
+        "Lunch with Friends/Family (2:00 PM - 3:30 PM)",
+        "(10:00, 11:30)",
+        [
+            "Cityextra",
+            700007553
+        ]
+    ],
+    [
+        "Relax and Catch Up on Reading/TV (12:00 PM - 2:00 PM)",
+        "(11:45, 12:54)",
+        [
+            "",
+            700007741
+        ]
+    ],
+    [
+        "Relax and Catch Up on Reading/TV",
+        "(13:02, 14:57)",
+        [
+            "Cityextra",
+            700007553
+        ]
+    ],
+    [
+        "Relax and Catch Up on Reading/TV",
+        "(15:04, 17:26)",
+        [
+            "Cityextra",
+            700007553
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(18:08, 19:30)",
+        [
+            "Cityextra",
+            700007553
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(20:13, 21:45)",
+        [
+            "Cityextra",
+            700007553
+        ]
+    ],
+    [
+        "Relax and Catch Up on Reading/TV",
+        "(22:19, 23:59)",
+        [
+            "Cityextra",
+            700007553
+        ]
+    ]
+]

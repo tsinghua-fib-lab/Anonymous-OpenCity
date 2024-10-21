@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009441
+        ]
+    ],
+    [
+        "Morning exercise",
+        "(09:00, 09:58)",
+        [
+            "Queen Mediterranean Pizzeria",
+            700013302
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:30, 12:42)",
+        [
+            "",
+            700013303
+        ]
+    ],
+    [
+        "Leisure reading or hobbies",
+        "(11:59, 14:07)",
+        [
+            "Queen Mediterranean Pizzeria",
+            700013302
+        ]
+    ],
+    [
+        "Afternoon entertainment",
+        "(14:22, 16:54)",
+        [
+            "Queen Mediterranean Pizzeria",
+            700013302
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:28, 21:03)",
+        [
+            "",
+            700009921
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:48, 23:59)",
+        [
+            "",
+            700013282
+        ]
+    ]
+]

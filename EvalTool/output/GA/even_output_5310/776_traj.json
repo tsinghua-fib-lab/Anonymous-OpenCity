@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002319
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(10:00, 10:56)",
+        [
+            "",
+            700002319
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:27, 13:56)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ],
+    [
+        "Visit Friends/Family",
+        "(16:45, 18:19)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ],
+    [
+        "Visit Friends/Family",
+        "(18:48, 19:57)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ],
+    [
+        "Visit 'La Pecora Bianca' again",
+        "(20:06, 21:59)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:46, 23:59)",
+        [
+            "",
+            700002823
+        ]
+    ]
+]

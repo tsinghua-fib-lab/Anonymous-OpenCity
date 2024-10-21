@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - West 45th Street & 8th Avenue",
+            700008226
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:20)",
+        [
+            "",
+            700002860
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:09, 13:04)",
+        [
+            "John's Pizzeria",
+            700006501
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:47, 14:24)",
+        [
+            "",
+            700020688
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(15:13, 17:00)",
+        [
+            "Starbucks",
+            700003868
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(17:06, 18:54)",
+        [
+            "The Times Eatery",
+            700020692
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 22:40)",
+        [
+            "Maoz",
+            700008695
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(21:51, 22:55)",
+        [
+            "Satin Dolls NYC",
+            700015367
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "Mama's Pizza",
+            700026485
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000768
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:51)",
+        [
+            "Walgreens",
+            700000764
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:20, 11:59)",
+        [
+            "Walgreens",
+            700000764
+        ]
+    ],
+    [
+        "Brunch with Friends/Family",
+        "(12:45, 14:08)",
+        [
+            "Walgreens",
+            700000764
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:10, 16:26)",
+        [
+            "Limoncello",
+            700010262
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 18:58)",
+        [
+            "Audium",
+            700006895
+        ]
+    ],
+    [
+        "Evening Relaxation and TV Time",
+        "(19:43, 20:54)",
+        [
+            "",
+            700000768
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(21:40, 22:41)",
+        [
+            "",
+            700000768
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(23:24, 23:59)",
+        [
+            "",
+            700000768
+        ]
+    ]
+]

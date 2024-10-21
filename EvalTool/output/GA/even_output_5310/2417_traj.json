@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ambulatory Care Clinic, Hospital for Special Surgery",
+            700038265
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:26)",
+        [
+            "Bio Dynamic Orthotics & Prosthetics",
+            700038144
+        ]
+    ],
+    [
+        "Lunch and catch up on some reading or a podcast.",
+        "(13:26, 14:54)",
+        [
+            "Bio Dynamic Orthotics & Prosthetics",
+            700038144
+        ]
+    ],
+    [
+        "Have lunch and catch up on some reading or a podcast.",
+        "(15:49, 17:16)",
+        [
+            "Claire's Kitchen Cafe",
+            700016388
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:19, 19:49)",
+        [
+            "Kossar's Bagels & Bialys",
+            700033870
+        ]
+    ]
+]

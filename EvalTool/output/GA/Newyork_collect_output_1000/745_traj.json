@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:06)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:23, 18:19)",
+        [
+            "Orion Diner & Grill",
+            700014321
+        ]
+    ],
+    [
+        "Entertainment",
+        "(16:03, 17:27)",
+        [
+            "Orion Diner & Grill",
+            700014321
+        ]
+    ],
+    [
+        "Entertainment",
+        "(17:37, 19:22)",
+        [
+            "Orion Diner & Grill",
+            700014321
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:10, 23:19)",
+        [
+            "Club Pilates",
+            700006202
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "Club Pilates",
+            700006202
+        ]
+    ]
+]

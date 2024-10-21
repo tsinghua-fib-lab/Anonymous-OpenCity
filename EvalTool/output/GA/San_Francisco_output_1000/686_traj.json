@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dumpling Home",
+            700008388
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:57)",
+        [
+            "Arbor",
+            700010157
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Project",
+        "(13:11, 15:15)",
+        [
+            "Arbor",
+            700010157
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Project",
+        "(15:39, 16:59)",
+        [
+            "Arbor",
+            700010157
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:32, 21:56)",
+        [
+            "Hayes Street Grill",
+            700002768
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:32, 23:59)",
+        [
+            "",
+            700002879
+        ]
+    ],
+    [
+        "Stay at Ox Cafe",
+        "(22:54, 23:59)",
+        [
+            "Doppio Zero",
+            700004071
+        ]
+    ]
+]

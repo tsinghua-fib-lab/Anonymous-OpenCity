@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:39)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 15:48)",
+        [
+            "",
+            700004278
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 20:50)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:02, 22:54)",
+        [
+            "Le Jules Verne",
+            700016425
+        ]
+    ],
+    [
+        "Stay at Paris Eiffel Tower.",
+        "(23:38, 23:59)",
+        [
+            "Le Jules Verne",
+            700016425
+        ]
+    ]
+]

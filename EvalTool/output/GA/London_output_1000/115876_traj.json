@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:33)",
+        [
+            "",
+            700011091
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:05, 20:20)",
+        [
+            "High Holborn Post Office",
+            700004969
+        ]
+    ],
+    [
+        "Watch TV/Movies",
+        "(17:33, 18:55)",
+        [
+            "High Holborn Post Office",
+            700004969
+        ]
+    ],
+    [
+        "Watch TV/Movies",
+        "(18:57, 20:12)",
+        [
+            "High Holborn Post Office",
+            700004969
+        ]
+    ],
+    [
+        "Watch TV/Movies",
+        "(20:57, 21:55)",
+        [
+            "High Holborn Post Office",
+            700004969
+        ]
+    ],
+    [
+        "Close the day at Dragon Court",
+        "(22:51, 23:59)",
+        [
+            "High Holborn Post Office",
+            700004969
+        ]
+    ]
+]

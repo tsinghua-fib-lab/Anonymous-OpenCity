@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001283
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:39)",
+        [
+            "Chapel of Grace",
+            700000197
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:17, 13:43)",
+        [
+            "Chapel of Grace",
+            700000197
+        ]
+    ],
+    [
+        "Lunch preparation",
+        "(14:31, 15:57)",
+        [
+            "Chapel of Grace",
+            700000197
+        ]
+    ],
+    [
+        "Engage in Hobbies",
+        "(16:24, 18:28)",
+        [
+            "Chapel of Grace",
+            700000197
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:15, 20:47)",
+        [
+            "",
+            700008630
+        ]
+    ],
+    [
+        "Continue Evening Relaxation",
+        "(21:05, 23:40)",
+        [
+            "",
+            700008637
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "",
+            700008850
+        ]
+    ]
+]

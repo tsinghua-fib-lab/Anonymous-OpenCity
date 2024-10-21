@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700052117
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:58)",
+        [
+            "",
+            700052458
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 14:20)",
+        [
+            "",
+            700052458
+        ]
+    ],
+    [
+        "Relaxing Time",
+        "(15:35, 16:39)",
+        [
+            "Bibliothèque du cinéma François-Truffaut",
+            700004417
+        ]
+    ],
+    [
+        "Watch a Movie",
+        "(17:03, 18:35)",
+        [
+            "Bibliothèque du cinéma François-Truffaut",
+            700004417
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:03, 20:26)",
+        [
+            "KFC",
+            700063527
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:38, 21:58)",
+        [
+            "",
+            700034436
+        ]
+    ],
+    [
+        "Wind Down with TV or Reading",
+        "(23:44, 23:59)",
+        [
+            "",
+            700028562
+        ]
+    ]
+]

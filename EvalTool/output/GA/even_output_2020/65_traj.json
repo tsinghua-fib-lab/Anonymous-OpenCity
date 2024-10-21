@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700012751
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:24)",
+        [
+            "FedEx Office",
+            700002762
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(13:47, 15:24)",
+        [
+            "",
+            700012733
+        ]
+    ],
+    [
+        "Errands or Grocery Shopping",
+        "(16:07, 18:09)",
+        [
+            "Steep",
+            700012746
+        ]
+    ],
+    [
+        "Errands or Grocery Shopping",
+        "(18:21, 20:15)",
+        [
+            "Steep",
+            700012746
+        ]
+    ],
+    [
+        "Get ready and head to Steep",
+        "(20:55, 22:33)",
+        [
+            "Steep",
+            700012746
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(22:13, 23:59)",
+        [
+            "Steep",
+            700012746
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "",
+            700012737
+        ]
+    ]
+]

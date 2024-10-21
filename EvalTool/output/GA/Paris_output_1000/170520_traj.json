@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Champs-Élysées",
+            700003355
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:36)",
+        [
+            "LCL",
+            700022313
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:44, 14:58)",
+        [
+            "Bureau de change",
+            700030803
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:23, 18:58)",
+        [
+            "Le Madam",
+            700015096
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:33, 23:59)",
+        [
+            "LCL",
+            700022313
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700035105
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 10:55)",
+        [
+            "Pomme Palais Bakery and Coffee",
+            700016256
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:01, 12:24)",
+        [
+            "Pomme Palais Bakery and Coffee",
+            700016256
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:57, 13:54)",
+        [
+            "Pomme Palais Bakery and Coffee",
+            700016256
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:30, 15:50)",
+        [
+            "Pomme Palais Bakery and Coffee",
+            700016256
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:45, 22:20)",
+        [
+            "Starbucks",
+            700033552
+        ]
+    ],
+    [
+        "Visit friends or family",
+        "(20:09, 21:48)",
+        [
+            "HSBC",
+            700007530
+        ]
+    ],
+    [
+        "Go to visit friends or family",
+        "(21:48, 23:40)",
+        [
+            "HSBC",
+            700007530
+        ]
+    ],
+    [
+        "Stay at Pomme Palais Bakery and Coffee",
+        "(23:43, 23:59)",
+        [
+            "Sushiden",
+            700008656
+        ]
+    ]
+]

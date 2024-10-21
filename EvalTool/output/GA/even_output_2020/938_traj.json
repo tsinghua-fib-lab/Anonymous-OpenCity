@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rhea’s Cafe",
+            700005988
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:31)",
+        [
+            "Asiento",
+            700003033
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:12, 15:35)",
+        [
+            "",
+            700014117
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:00, 22:22)",
+        [
+            "Bon, nene",
+            700002838
+        ]
+    ],
+    [
+        "Catch up on a favorite TV show or watch a movie",
+        "(22:38, 23:59)",
+        [
+            "Trick Dog",
+            700004201
+        ]
+    ]
+]

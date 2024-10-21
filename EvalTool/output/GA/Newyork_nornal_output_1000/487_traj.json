@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "J's Kitchen New York",
+            700005270
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the nearby park or neighborhood to enjoy the fresh air.",
+        "(09:00, 10:04)",
+        [
+            "Chase",
+            700004182
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:39, 15:01)",
+        [
+            "Kati",
+            700007891
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:35, 17:52)",
+        [
+            "",
+            700007890
+        ]
+    ],
+    [
+        "Current Place: J's Kitchen New York; Stay Time: 1 hour 24 minutes",
+        "(21:36, 22:52)",
+        [
+            "Kati",
+            700007891
+        ]
+    ],
+    [
+        "Next place: J's Kitchen New York",
+        "(23:34, 23:59)",
+        [
+            "CVS Pharmacy",
+            700004181
+        ]
+    ]
+]

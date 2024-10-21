@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - West 25th Street & 6th Avenue",
+            700008211
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:26)",
+        [
+            "",
+            700011682
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:37, 16:54)",
+        [
+            "Dntl",
+            700016706
+        ]
+    ],
+    [
+        "Movie or TV Time",
+        "(17:30, 18:20)",
+        [
+            "Dntl",
+            700016706
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:20, 20:42)",
+        [
+            "Flatiron Hall Restaurant and Beer Cellar",
+            700005998
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:18, 23:59)",
+        [
+            "",
+            700002375
+        ]
+    ]
+]

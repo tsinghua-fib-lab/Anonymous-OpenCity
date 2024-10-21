@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Blenheim Gardens Estate",
+            700016445
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:58)",
+        [
+            "Blenheim Gardens Estate",
+            700016445
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:15, 12:05)",
+        [
+            "Blenheim Gardens Estate",
+            700016445
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:57, 13:05)",
+        [
+            "Blenheim Gardens Estate",
+            700016445
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:11, 14:46)",
+        [
+            "Blenheim Gardens Estate",
+            700016445
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:52, 17:58)",
+        [
+            "",
+            700043449
+        ]
+    ],
+    [
+        "Downtime or Entertainment",
+        "(18:57, 20:02)",
+        [
+            "",
+            700043354
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:58, 21:29)",
+        [
+            "",
+            700043449
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:40, 23:59)",
+        [
+            "",
+            700043351
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(09:00, 10:59)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:03, 12:39)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Socializing with Friends or Family.",
+        "(12:48, 14:54)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:32, 17:06)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Socializing with Friends or Family",
+        "(19:06, 20:53)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Leisure or Hobby Time",
+        "(22:01, 23:39)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Dinner Preparation or Dining Out",
+        "(23:53, 23:59)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ]
+]

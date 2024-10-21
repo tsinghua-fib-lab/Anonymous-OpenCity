@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Have a relaxing coffee or snack break while browsing social media or chatting with friends.",
+        "(10:00, 11:22)",
+        [
+            "",
+            700011101
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:47, 14:03)",
+        [
+            "Boots",
+            700007546
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 19:15)",
+        [
+            "",
+            700014756
+        ]
+    ],
+    [
+        "Stay at Dragon Court",
+        "(20:01, 22:06)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:49, 23:59)",
+        [
+            "",
+            700054511
+        ]
+    ]
+]

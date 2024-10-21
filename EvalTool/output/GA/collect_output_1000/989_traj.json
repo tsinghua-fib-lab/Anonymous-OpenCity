@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030386
+        ]
+    ],
+    [
+        "Spend some time reading or browsing online",
+        "(10:00, 11:01)",
+        [
+            "",
+            700030389
+        ]
+    ],
+    [
+        "Join friends at the nightclub.",
+        "(11:43, 13:10)",
+        [
+            "MEDRITE Urgent Care",
+            700032058
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 18:00)",
+        [
+            "",
+            700034377
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(18:35, 20:02)",
+        [
+            "",
+            700030386
+        ]
+    ],
+    [
+        "Wind down with a movie or reading.",
+        "(20:11, 21:54)",
+        [
+            "",
+            700030386
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(22:55, 23:59)",
+        [
+            "",
+            700030386
+        ]
+    ]
+]

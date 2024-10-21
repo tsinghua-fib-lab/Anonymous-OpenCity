@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Happy Donut",
+            700005194
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:00)",
+        [
+            "Happy Donut",
+            700005194
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:17, 11:53)",
+        [
+            "Taylor Street Coffee Shop",
+            700002999
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(13:39, 15:17)",
+        [
+            "Taylor Street Coffee Shop",
+            700002999
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(15:28, 17:05)",
+        [
+            "Taylor Street Coffee Shop",
+            700002999
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 20:54)",
+        [
+            "Happy Donut",
+            700005194
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "Thanh Tranh, M.D.",
+            700009570
+        ]
+    ]
+]

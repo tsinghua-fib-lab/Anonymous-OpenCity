@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005880
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:47)",
+        [
+            "Citibank",
+            700004234
+        ]
+    ],
+    [
+        "Leisure or Hobby Time",
+        "(13:47, 15:54)",
+        [
+            "Lun Ting Cafe",
+            700004236
+        ]
+    ],
+    [
+        "Leisure or Hobby Time",
+        "(16:07, 17:53)",
+        [
+            "Lun Ting Cafe",
+            700004236
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(18:21, 19:58)",
+        [
+            "Lun Ting Cafe",
+            700004236
+        ]
+    ],
+    [
+        "Get ready and head to Red's Place",
+        "(20:55, 22:16)",
+        [
+            "Z & Y Restaurant",
+            700002993
+        ]
+    ],
+    [
+        "Stay",
+        "(22:13, 23:59)",
+        [
+            "Lun Ting Cafe",
+            700004236
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Golden Flower",
+            700000868
+        ]
+    ]
+]

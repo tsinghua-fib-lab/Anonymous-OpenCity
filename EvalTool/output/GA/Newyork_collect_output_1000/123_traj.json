@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:34)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(16:18, 17:53)",
+        [
+            "Street Taco",
+            700006239
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(18:32, 20:05)",
+        [
+            "Street Taco",
+            700006239
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(21:11, 23:09)",
+        [
+            "Street Taco",
+            700006239
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:38, 23:59)",
+        [
+            "Dunkin'",
+            700024685
+        ]
+    ]
+]

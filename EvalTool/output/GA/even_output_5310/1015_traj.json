@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Faculty House",
+            700006266
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:54)",
+        [
+            "",
+            700020455
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:12, 15:16)",
+        [
+            "Faculty House",
+            700006266
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:32, 14:03)",
+        [
+            "Sutton Terrace Courtyard",
+            700015610
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 18:31)",
+        [
+            "Moti Mahal Delux",
+            700006522
+        ]
+    ],
+    [
+        "Visit a local restaurant or a café.",
+        "(15:59, 17:43)",
+        [
+            "Ginger Root Vegan",
+            700015612
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 23:09)",
+        [
+            "Sutton Animal Hospital",
+            700036806
+        ]
+    ],
+    [
+        "Visit a local restaurant or café.",
+        "(20:33, 22:02)",
+        [
+            "Sutton Animal Hospital",
+            700036806
+        ]
+    ],
+    [
+        "Stay at Sutton Animal Hospital.",
+        "(22:08, 23:59)",
+        [
+            "Sutton Animal Hospital",
+            700036806
+        ]
+    ]
+]

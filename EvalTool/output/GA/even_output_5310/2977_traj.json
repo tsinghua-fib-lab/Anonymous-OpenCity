@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Uncle Sam's Pizza",
+            700009574
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:59)",
+        [
+            "Ivan Ramen",
+            700009572
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 18:08)",
+        [
+            "One More Thai",
+            700009603
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:02, 20:59)",
+        [
+            "First Steps Academy",
+            700009576
+        ]
+    ],
+    [
+        "Stay at Uncle Sam's Pizza",
+        "(23:36, 23:59)",
+        [
+            "First Steps Academy",
+            700009576
+        ]
+    ]
+]

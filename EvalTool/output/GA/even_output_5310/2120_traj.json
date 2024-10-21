@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005843
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:39)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:50, 12:12)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:45, 13:54)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:31, 15:53)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:10, 17:47)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "Next destination: Dinner Preparation",
+        "(18:29, 20:01)",
+        [
+            "",
+            700005843
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:10, 22:20)",
+        [
+            "Tavern on the Green public restrooms",
+            700007861
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:37, 23:59)",
+        [
+            "",
+            700024987
+        ]
+    ]
+]

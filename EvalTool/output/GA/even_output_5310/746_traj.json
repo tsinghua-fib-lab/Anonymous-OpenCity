@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Elite Food Bar",
+            700008385
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:08)",
+        [
+            "Mee's Noodle",
+            700014650
+        ]
+    ],
+    [
+        "Continue with the plan",
+        "(11:22, 12:50)",
+        [
+            "",
+            700040428
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 17:17)",
+        [
+            "",
+            700000996
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:59, 22:06)",
+        [
+            "",
+            700040428
+        ]
+    ],
+    [
+        "Spend time with family/friends or unwind",
+        "(23:33, 23:59)",
+        [
+            "",
+            700001253
+        ]
+    ]
+]

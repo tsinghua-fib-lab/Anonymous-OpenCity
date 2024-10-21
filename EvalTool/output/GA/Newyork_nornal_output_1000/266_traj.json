@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000609
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:32)",
+        [
+            "Mom's Kitchen & Bar",
+            700014820
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(14:14, 16:06)",
+        [
+            "LumLum",
+            700027376
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(16:40, 18:06)",
+        [
+            "VERS",
+            700026506
+        ]
+    ],
+    [
+        "Hobbies or Creative Project",
+        "(18:18, 20:00)",
+        [
+            "IPizzaNY",
+            700014822
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(20:12, 22:01)",
+        [
+            "Duane Reade",
+            700006379
+        ]
+    ],
+    [
+        "Stay at IPizzaNY.",
+        "(22:02, 23:29)",
+        [
+            "IPizzaNY",
+            700014822
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "Istanbul Kebab House",
+            700017343
+        ]
+    ]
+]

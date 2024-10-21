@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 4th Street & 2nd Avenue",
+            700008046
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:00)",
+        [
+            "Dim Sum Palace",
+            700004725
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:11, 13:25)",
+        [
+            "Dim Sum Palace",
+            700004725
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:35, 16:09)",
+        [
+            "Dim Sum Palace",
+            700004725
+        ]
+    ],
+    [
+        "4:00 PM - Social Time",
+        "(16:47, 17:55)",
+        [
+            "Bar Verde",
+            700015579
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:28, 23:52)",
+        [
+            "",
+            700002574
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "Iglesia Universal del Reino de Dios",
+            700029015
+        ]
+    ]
+]

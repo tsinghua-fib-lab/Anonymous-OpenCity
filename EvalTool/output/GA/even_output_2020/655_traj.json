@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009593
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:13)",
+        [
+            "Peet's Coffee",
+            700009937
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:57, 15:28)",
+        [
+            "Peet's Coffee",
+            700009937
+        ]
+    ],
+    [
+        "Watch a movie or binge a series on streaming platforms",
+        "(16:30, 17:52)",
+        [
+            "Tacobar",
+            700005808
+        ]
+    ],
+    [
+        "Prepare a simple dinner and enjoy it around 6:00 PM.",
+        "(18:23, 20:03)",
+        [
+            "",
+            700009593
+        ]
+    ],
+    [
+        "Watching TV",
+        "(20:31, 21:51)",
+        [
+            "",
+            700009593
+        ]
+    ],
+    [
+        "Wind down with reading at Wells Fargo",
+        "(22:19, 23:30)",
+        [
+            "Smitten",
+            700009589
+        ]
+    ],
+    [
+        "Enjoy the atmosphere at Smitten",
+        "(23:56, 23:59)",
+        [
+            "Smitten",
+            700009589
+        ]
+    ]
+]

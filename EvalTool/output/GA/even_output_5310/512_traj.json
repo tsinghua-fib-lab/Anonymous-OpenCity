@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Amura",
+            700011504
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:33)",
+        [
+            "Citi Bike",
+            700020621
+        ]
+    ],
+    [
+        "Late Afternoon Relaxation",
+        "(12:33, 13:54)",
+        [
+            "Citi Bike",
+            700020621
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:33, 17:16)",
+        [
+            "San Matteo Pizzeria e Cucina",
+            700015199
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:33, 23:32)",
+        [
+            "Ellie's",
+            700021791
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:39, 23:35)",
+        [
+            "",
+            700011511
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700025360
+        ]
+    ],
+    [
+        "Current Place: Waste Basket. Stay until 11:45 AM.",
+        "(10:00, 11:06)",
+        [
+            "",
+            700025253
+        ]
+    ],
+    [
+        "Current Place: Waste Basket. Stay until 11:45 AM.",
+        "(11:09, 12:22)",
+        [
+            "Kyuramen",
+            700029592
+        ]
+    ],
+    [
+        "Current Place: Waste Basket. Stay until 2:00 PM.",
+        "(13:05, 15:02)",
+        [
+            "Kyuramen",
+            700029592
+        ]
+    ],
+    [
+        "Stay at Waste Basket",
+        "(15:49, 17:24)",
+        [
+            "Kyuramen",
+            700029592
+        ]
+    ],
+    [
+        "Stay at Waste Basket.",
+        "(17:28, 18:28)",
+        [
+            "Kyuramen",
+            700029592
+        ]
+    ],
+    [
+        "Stay at Waste Basket",
+        "(18:54, 20:38)",
+        [
+            "Kyuramen",
+            700029592
+        ]
+    ],
+    [
+        "Stay at Waste Basket.",
+        "(21:08, 22:17)",
+        [
+            "Kyuramen",
+            700029592
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "Chase",
+            700005791
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:29)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:42, 17:18)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(18:03, 19:29)",
+        [
+            "",
+            700022506
+        ]
+    ],
+    [
+        "Prepare Dinner & Relax",
+        "(20:43, 22:45)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Prepare Dinner & Relax",
+        "(23:16, 23:59)",
+        [
+            "",
+            700022519
+        ]
+    ]
+]

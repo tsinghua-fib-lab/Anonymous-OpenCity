@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 16th Street & Irving Place",
+            700008027
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:56)",
+        [
+            "Pierre Loti",
+            700009384
+        ]
+    ],
+    [
+        "grab some food",
+        "(12:52, 14:09)",
+        [
+            "Paul & Jimmy's Ristorante",
+            700013602
+        ]
+    ],
+    [
+        "Spend time on a personal project or hobby.",
+        "(14:07, 16:56)",
+        [
+            "Boucherie",
+            700018128
+        ]
+    ],
+    [
+        "Meet up with friends or family for coffee or a light snack at a nearby café.",
+        "(17:17, 19:01)",
+        [
+            "Boucherie",
+            700018128
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 21:01)",
+        [
+            "Union Square Cafe",
+            700018126
+        ]
+    ],
+    [
+        "Stay at Boucherie.",
+        "(23:21, 23:59)",
+        [
+            "Union Square Cafe",
+            700018126
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002730
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:41)",
+        [
+            "Loisaida Drugs & Surgical",
+            700019568
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:00, 17:35)",
+        [
+            "Ryan/NENA Comprehensive Heath Service Center",
+            700000264
+        ]
+    ],
+    [
+        "Stay at Home",
+        "(18:39, 19:50)",
+        [
+            "",
+            700002730
+        ]
+    ],
+    [
+        "Stay at Home",
+        "(20:06, 21:55)",
+        [
+            "",
+            700002730
+        ]
+    ],
+    [
+        "Stay at Home",
+        "(22:12, 23:59)",
+        [
+            "",
+            700002730
+        ]
+    ]
+]

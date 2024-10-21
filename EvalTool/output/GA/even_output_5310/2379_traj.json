@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020191
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:00, 12:03)",
+        [
+            "Citi Bike - Willett St & Delancey St",
+            700007963
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(12:20, 14:11)",
+        [
+            "Citi Bike - Willett St & Delancey St",
+            700007963
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:45, 15:56)",
+        [
+            "Citi Bike - Willett St & Delancey St",
+            700007963
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:33, 17:47)",
+        [
+            "Zafis Luncheonette",
+            700003822
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:45, 23:27)",
+        [
+            "CVS Pharmacy",
+            700003821
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020031
+        ]
+    ],
+    [
+        "Go for a morning walk or light exercise",
+        "(09:00, 10:04)",
+        [
+            "",
+            700020037
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(10:16, 11:38)",
+        [
+            "Le Botaniste",
+            700017792
+        ]
+    ],
+    [
+        "Continue current plan.",
+        "(12:25, 14:43)",
+        [
+            "Le Botaniste",
+            700017792
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(14:18, 15:51)",
+        [
+            "Le Botaniste",
+            700017792
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:31, 18:36)",
+        [
+            "",
+            700001851
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 22:17)",
+        [
+            "",
+            700025079
+        ]
+    ],
+    [
+        "Stay at Duane Reade.",
+        "(23:39, 23:59)",
+        [
+            "",
+            700025096
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Beauty Bar",
+            700007879
+        ]
+    ],
+    [
+        "next_activity",
+        "(09:00, 09:56)",
+        [
+            "Bite",
+            700007882
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:52, 12:01)",
+        [
+            "Bite",
+            700007882
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:44, 16:48)",
+        [
+            "Happy Burrito",
+            700007883
+        ]
+    ],
+    [
+        "Stay at Bite and continue leisure reading.",
+        "(17:14, 19:06)",
+        [
+            "Bite",
+            700007882
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 20:54)",
+        [
+            "",
+            700002285
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:54, 23:59)",
+        [
+            "Kyuramen",
+            700007873
+        ]
+    ]
+]

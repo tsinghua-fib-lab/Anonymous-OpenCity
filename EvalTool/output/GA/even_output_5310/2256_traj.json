@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bank of America",
+            700022342
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:32)",
+        [
+            "",
+            700001553
+        ]
+    ],
+    [
+        "Catch Up with Family/Friends",
+        "(13:21, 15:31)",
+        [
+            "Bank of America",
+            700022342
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:52, 20:55)",
+        [
+            "Bank of America",
+            700022342
+        ]
+    ],
+    [
+        "Stay at Bank of America",
+        "(21:28, 22:56)",
+        [
+            "Bank of America",
+            700022342
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "Dig",
+            700022399
+        ]
+    ]
+]

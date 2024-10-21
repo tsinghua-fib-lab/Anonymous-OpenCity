@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wells Fargo",
+            700003751
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 10:56)",
+        [
+            "Wells Fargo",
+            700003751
+        ]
+    ],
+    [
+        "Brunch",
+        "(11:32, 13:09)",
+        [
+            "Wells Fargo",
+            700003751
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:52, 15:04)",
+        [
+            "Wells Fargo",
+            700003751
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:15, 20:57)",
+        [
+            "",
+            700013279
+        ]
+    ],
+    [
+        "Next activity after dinner prep.",
+        "(20:01, 21:14)",
+        [
+            "Kennedy's Irish Pub & Curry House",
+            700000465
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:34, 23:59)",
+        [
+            "901 colombus cafe",
+            700004689
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013926
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:29)",
+        [
+            "Starbucks",
+            700005116
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 19:37)",
+        [
+            "Wells Fargo",
+            700000663
+        ]
+    ],
+    [
+        "Read a book or relax at a nearby park.",
+        "(17:26, 19:19)",
+        [
+            "Wells Fargo",
+            700000663
+        ]
+    ],
+    [
+        "Prepare and enjoy dinner at home, perhaps cooking a new recipe.",
+        "(19:10, 20:57)",
+        [
+            "Wells Fargo",
+            700000663
+        ]
+    ],
+    [
+        "Visit Wells Fargo.",
+        "(21:09, 23:24)",
+        [
+            "Wells Fargo",
+            700000663
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(23:21, 23:59)",
+        [
+            "Wells Fargo",
+            700000663
+        ]
+    ]
+]

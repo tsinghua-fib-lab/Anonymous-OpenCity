@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - West 13th Street & 7th Avenue",
+            700008198
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(09:00, 10:03)",
+        [
+            "Citi Bike - West 13th Street & 7th Avenue",
+            700008198
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(10:16, 11:33)",
+        [
+            "Citi Bike - West 13th Street & 7th Avenue",
+            700008198
+        ]
+    ],
+    [
+        "Continue current plan.",
+        "(12:25, 13:57)",
+        [
+            "Citi Bike - West 13th Street & 7th Avenue",
+            700008198
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(14:18, 15:52)",
+        [
+            "Citi Bike - West 13th Street & 7th Avenue",
+            700008198
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:31, 17:47)",
+        [
+            "",
+            700001178
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 23:39)",
+        [
+            "iPizzaNY",
+            700004372
+        ]
+    ],
+    [
+        "Stay at iPizzaNY.",
+        "(23:39, 23:59)",
+        [
+            "iPizzaNY",
+            700004372
+        ]
+    ]
+]

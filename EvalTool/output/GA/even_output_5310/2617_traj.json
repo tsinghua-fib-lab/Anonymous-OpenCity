@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020124
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park.",
+        "(10:00, 10:59)",
+        [
+            "",
+            700020118
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park.",
+        "(11:03, 13:09)",
+        [
+            "",
+            700020124
+        ]
+    ],
+    [
+        "Spend some time reading a book or doing a hobby.",
+        "(13:36, 15:09)",
+        [
+            "",
+            700020124
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:43, 19:01)",
+        [
+            "",
+            700020124
+        ]
+    ],
+    [
+        "Go for coffee or casual hangout with friends",
+        "(19:32, 21:30)",
+        [
+            "Peleton",
+            700009208
+        ]
+    ],
+    [
+        "Wind down the day by watching a movie or binge-watching a series.",
+        "(21:30, 23:04)",
+        [
+            "Excellent Dumpling House",
+            700025205
+        ]
+    ],
+    [
+        "Winding down by watching a movie at home",
+        "(23:32, 23:59)",
+        [
+            "",
+            700020124
+        ]
+    ]
+]

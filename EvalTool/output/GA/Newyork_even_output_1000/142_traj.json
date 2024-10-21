@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700006702
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:51)",
+        [
+            "Walgreens",
+            700017553
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends",
+        "(11:42, 13:12)",
+        [
+            "No. 1 New York Kitchen",
+            700011620
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(13:20, 16:00)",
+        [
+            "No. 1 New York Kitchen",
+            700011620
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends",
+        "(16:34, 18:14)",
+        [
+            "Citi Bike",
+            700023925
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends",
+        "(18:54, 20:30)",
+        [
+            "1 Av & E 14 St",
+            700011090
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:14, 23:59)",
+        [
+            "O'Hanlons Bar",
+            700016457
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "",
+            700016458
+        ]
+    ]
+]

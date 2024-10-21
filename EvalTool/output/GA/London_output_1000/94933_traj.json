@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Longberrys Estate",
+            700011903
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:02)",
+        [
+            "",
+            700025157
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:35, 13:51)",
+        [
+            "Longberrys Estate",
+            700011903
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 19:58)",
+        [
+            "Akshar Pharmacies",
+            700009453
+        ]
+    ],
+    [
+        "Personal Projects/Errands",
+        "(16:01, 17:56)",
+        [
+            "",
+            700009214
+        ]
+    ],
+    [
+        "Family Time",
+        "(18:41, 20:21)",
+        [
+            "",
+            700009218
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:54, 23:59)",
+        [
+            "",
+            700047721
+        ]
+    ]
+]

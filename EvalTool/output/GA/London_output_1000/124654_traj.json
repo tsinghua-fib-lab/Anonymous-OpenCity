@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:52)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:15, 12:07)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:57, 12:55)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:11, 14:54)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Downtime or Entertainment",
+        "(15:52, 17:42)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Downtime or Entertainment",
+        "(18:57, 20:05)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:58, 21:40)",
+        [
+            "",
+            700023697
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:40, 23:59)",
+        [
+            "",
+            700072083
+        ]
+    ]
+]

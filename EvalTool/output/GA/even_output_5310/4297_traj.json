@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700031405
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:09)",
+        [
+            "Flavors",
+            700013976
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:09, 16:46)",
+        [
+            "",
+            700031476
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:08, 16:41)",
+        [
+            "",
+            700035126
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:48, 19:02)",
+        [
+            "Flavors",
+            700013976
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:41, 21:35)",
+        [
+            "",
+            700035130
+        ]
+    ],
+    [
+        "Next go to Citi Bike - Whitehall St & Bridge St for a bike ride.",
+        "(23:12, 23:59)",
+        [
+            "Citi Bike - Whitehall St & Bridge St",
+            700027015
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:13)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Engage in a physical activity, such as going for a run or hitting the gym.",
+        "(12:13, 13:02)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 18:00)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Engage in physical activity.",
+        "(16:34, 18:05)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Meet up with friends for coffee or snacks.",
+        "(18:52, 20:25)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(20:40, 21:58)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Next arrangement based on Situation 4",
+        "(22:35, 23:47)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Move to the next place based on Situation 4.",
+        "(23:40, 23:59)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ]
+]

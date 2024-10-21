@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001861
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:58)",
+        [
+            "CVS Pharmacy",
+            700024375
+        ]
+    ],
+    [
+        "Relaxation/Reading Time",
+        "(12:39, 14:11)",
+        [
+            "CVS Pharmacy",
+            700024375
+        ]
+    ],
+    [
+        "Relaxation/Reading Time",
+        "(14:33, 15:58)",
+        [
+            "CVS Pharmacy",
+            700024375
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:20, 20:23)",
+        [
+            "Barry's",
+            700024374
+        ]
+    ],
+    [
+        "Wind Down/Watch TV or Movies",
+        "(20:42, 22:02)",
+        [
+            "Two Boots Pizza",
+            700006545
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:16, 23:59)",
+        [
+            "",
+            700018406
+        ]
+    ]
+]

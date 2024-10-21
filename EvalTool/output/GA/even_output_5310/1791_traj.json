@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Quantum Leap",
+            700015176
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:43)",
+        [
+            "",
+            700030117
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:10, 15:35)",
+        [
+            "Sasabune Express",
+            700040591
+        ]
+    ],
+    [
+        "Relax and Unwind",
+        "(16:11, 17:59)",
+        [
+            "Sasabune Express",
+            700040591
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:29, 22:11)",
+        [
+            "Au Za'atar",
+            700011621
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "Duane Reade",
+            700030439
+        ]
+    ]
+]

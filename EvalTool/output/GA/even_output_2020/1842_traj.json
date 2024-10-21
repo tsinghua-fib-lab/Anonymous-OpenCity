@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Presidio Theater",
+            700002291
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:36)",
+        [
+            "Asa Sushi",
+            700000679
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:10, 19:26)",
+        [
+            "Hole in the Wall Pizza",
+            700012978
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie.",
+        "(17:59, 19:35)",
+        [
+            "Hole in the Wall Pizza",
+            700012978
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie",
+        "(19:54, 20:58)",
+        [
+            "Hole in the Wall Pizza",
+            700012978
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie.",
+        "(21:08, 22:31)",
+        [
+            "Hole in the Wall Pizza",
+            700012978
+        ]
+    ],
+    [
+        "Wind down with quiet activities, such as meditation or prepping for the week ahead.",
+        "(21:53, 23:08)",
+        [
+            "Mezes Kitchen & Wine Bar",
+            700003082
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "Squat & Gobble",
+            700000683
+        ]
+    ]
+]

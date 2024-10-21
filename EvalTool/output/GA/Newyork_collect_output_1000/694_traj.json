@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Go for a refreshing walk or light exercise.",
+        "(10:00, 10:59)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Stay where you are and read a book or catch up on personal interests.",
+        "(11:14, 12:58)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Move to AWOL Bar and Grill for relaxation and watching a movie after finishing a book.",
+        "(14:05, 16:01)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:27, 21:18)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:08, 23:59)",
+        [
+            "7th Street Burger",
+            700015362
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Merchant's",
+            700004678
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(09:00, 10:02)",
+        [
+            "Brasserie Saint Marc",
+            700022250
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:24, 12:08)",
+        [
+            "Brasserie Saint Marc",
+            700022250
+        ]
+    ],
+    [
+        "Lunch preparation and enjoyment",
+        "(12:36, 14:10)",
+        [
+            "Brasserie Saint Marc",
+            700022250
+        ]
+    ],
+    [
+        "Creative Project/Workshop",
+        "(14:28, 16:09)",
+        [
+            "Moko",
+            700018461
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 19:37)",
+        [
+            "Swiss Institute of Contemporary Art",
+            700021807
+        ]
+    ],
+    [
+        "Stay at Solo Pizza.",
+        "(19:45, 20:50)",
+        [
+            "Taqueria Diana",
+            700008976
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:51, 23:59)",
+        [
+            "Misoya",
+            700017289
+        ]
+    ],
+    [
+        "Go to Merchant's.",
+        "(23:38, 23:59)",
+        [
+            "Okiboru House of Udon",
+            700023834
+        ]
+    ]
+]

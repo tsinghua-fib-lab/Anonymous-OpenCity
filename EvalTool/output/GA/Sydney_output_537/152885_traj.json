@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "KOKO",
+            700020910
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:58)",
+        [
+            "Habitania Money Exchange",
+            700008351
+        ]
+    ],
+    [
+        "Relaxation and Leisure Reading",
+        "(13:08, 15:10)",
+        [
+            "Habitania Money Exchange",
+            700008351
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:30, 20:14)",
+        [
+            "Metro Theatre",
+            700003026
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(18:02, 19:26)",
+        [
+            "Chemist Warehouse",
+            700013555
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 21:46)",
+        [
+            "",
+            700026504
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "",
+            700026586
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700026502
+        ]
+    ]
+]

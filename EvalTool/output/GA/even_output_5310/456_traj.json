@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pil Pil",
+            700011160
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:02)",
+        [
+            "Citi Bike",
+            700020600
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:35, 14:04)",
+        [
+            "Citi Bike",
+            700020600
+        ]
+    ],
+    [
+        "Personal Hobbies or DIY Projects",
+        "(14:57, 16:04)",
+        [
+            "Citi Bike",
+            700020600
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:15, 18:01)",
+        [
+            "Citi Bike",
+            700020600
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 22:55)",
+        [
+            "",
+            700002370
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Uva",
+            700023408
+        ]
+    ]
+]

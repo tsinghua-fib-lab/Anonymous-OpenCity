@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Rural Ramen Bar",
+            700008797
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:59)",
+        [
+            "Rural Ramen Bar",
+            700008797
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:48, 15:16)",
+        [
+            "Chinatown Community Children's Center",
+            700013911
+        ]
+    ],
+    [
+        "Hobby/Creative Time",
+        "(12:57, 13:54)",
+        [
+            "",
+            700010512
+        ]
+    ],
+    [
+        "Social Time",
+        "(14:46, 16:15)",
+        [
+            "",
+            700001613
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:52, 18:07)",
+        [
+            "Wells Fargo",
+            700000635
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:29, 19:52)",
+        [
+            "Wells Fargo",
+            700000635
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:10, 23:05)",
+        [
+            "",
+            700010513
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:36, 23:59)",
+        [
+            "",
+            700010512
+        ]
+    ]
+]

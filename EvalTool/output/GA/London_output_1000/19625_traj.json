@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:41)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(13:23, 14:53)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a favorite TV series",
+        "(15:35, 16:57)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:34, 22:34)",
+        [
+            "",
+            700011095
+        ]
+    ],
+    [
+        "Go out and enjoy dinner.",
+        "(22:34, 23:59)",
+        [
+            "Pizza Union Holborn",
+            700076123
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Marathon Coffee",
+            700039312
+        ]
+    ],
+    [
+        "Stay at: Marathon Coffee",
+        "(09:00, 09:59)",
+        [
+            "Marathon Coffee",
+            700039312
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:47, 12:11)",
+        [
+            "",
+            700010702
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 20:44)",
+        [
+            "Amaze",
+            700011528
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:36, 19:59)",
+        [
+            "Amaze",
+            700011528
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:47, 23:57)",
+        [
+            "",
+            700010700
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:11, 23:59)",
+        [
+            "Kiss My Slice Pizzaria",
+            700010701
+        ]
+    ]
+]

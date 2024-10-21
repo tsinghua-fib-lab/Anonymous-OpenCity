@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Bean",
+            700009735
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 10:53)",
+        [
+            "The Bean",
+            700009735
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:54, 13:20)",
+        [
+            "The Bean",
+            700009735
+        ]
+    ],
+    [
+        "Stay at The Bean",
+        "(14:30, 16:24)",
+        [
+            "Wells Fargo",
+            700004763
+        ]
+    ],
+    [
+        "Entertainment",
+        "(17:27, 19:06)",
+        [
+            "",
+            700001058
+        ]
+    ],
+    [
+        "Stay at The Bean",
+        "(19:29, 20:56)",
+        [
+            "Broadway Apothecary",
+            700009734
+        ]
+    ],
+    [
+        "Stay at The Bean",
+        "(21:24, 22:34)",
+        [
+            "Broadway Apothecary",
+            700009734
+        ]
+    ],
+    [
+        "Stay at The Bean",
+        "(22:54, 23:59)",
+        [
+            "Broadway Apothecary",
+            700009734
+        ]
+    ]
+]

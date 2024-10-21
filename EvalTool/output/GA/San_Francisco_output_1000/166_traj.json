@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chase",
+            700004888
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:33)",
+        [
+            "Marina Theatre",
+            700002046
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:27, 15:17)",
+        [
+            "Chase",
+            700004867
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(12:43, 14:06)",
+        [
+            "Chase",
+            700004888
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(14:12, 15:47)",
+        [
+            "delarosa",
+            700004889
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(16:06, 17:46)",
+        [
+            "Dragon Well",
+            700010643
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 21:14)",
+        [
+            "Chase",
+            700004867
+        ]
+    ],
+    [
+        "Evening Out or Social Activity",
+        "(19:54, 20:55)",
+        [
+            "Chase",
+            700004888
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "Dragon Well",
+            700010643
+        ]
+    ]
+]

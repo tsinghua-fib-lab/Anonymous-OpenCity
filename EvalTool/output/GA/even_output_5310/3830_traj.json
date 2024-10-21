@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002231
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:17)",
+        [
+            "Island Burger and Shakes",
+            700009072
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:32, 14:59)",
+        [
+            "Island Burger and Shakes",
+            700009072
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:41, 17:19)",
+        [
+            "Island Burger and Shakes",
+            700009072
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:58, 20:23)",
+        [
+            "Bombay Grill House",
+            700014247
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:25, 23:10)",
+        [
+            "Island Burger and Shakes",
+            700009072
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "",
+            700001707
+        ]
+    ]
+]

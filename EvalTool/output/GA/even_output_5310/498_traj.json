@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001204
+        ]
+    ],
+    [
+        "Next activity according to the Sunday Plan",
+        "(09:00, 10:07)",
+        [
+            "RED 58",
+            700009272
+        ]
+    ],
+    [
+        "Prepare and enjoy a homemade lunch.",
+        "(10:12, 11:42)",
+        [
+            "Petrossian",
+            700003481
+        ]
+    ],
+    [
+        "Prepare and enjoy a homemade lunch.",
+        "(11:44, 13:23)",
+        [
+            "RED 58",
+            700009272
+        ]
+    ],
+    [
+        "Engage in outdoor activities like playing sports with friends or visiting a local community event.",
+        "(13:48, 15:22)",
+        [
+            "RED 58",
+            700009272
+        ]
+    ],
+    [
+        "Prepare and enjoy a homemade lunch.",
+        "(15:59, 17:38)",
+        [
+            "Petrossian",
+            700003481
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:07, 21:10)",
+        [
+            "Brooklyn Diner",
+            700003479
+        ]
+    ],
+    [
+        "Wind down by preparing dinner and enjoying a relaxing evening.",
+        "(21:45, 23:19)",
+        [
+            "Brooklyn Diner",
+            700003479
+        ]
+    ],
+    [
+        "Engage in outdoor activities like playing sports with friends or visiting a local community event.",
+        "(23:20, 23:59)",
+        [
+            "New York Cardiac Diagnostic Center",
+            700016842
+        ]
+    ]
+]

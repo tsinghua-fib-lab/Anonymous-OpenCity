@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Amigos",
+            700005120
+        ]
+    ],
+    [
+        "Go for a mid-morning walk or jog in the park.",
+        "(10:00, 10:59)",
+        [
+            "EF",
+            700013941
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:36, 13:37)",
+        [
+            "Bandit",
+            700005462
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 16:40)",
+        [
+            "",
+            700000471
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 19:36)",
+        [
+            "620 Jones",
+            700001721
+        ]
+    ],
+    [
+        "Have dinner with friends at a nice restaurant.",
+        "(20:10, 21:40)",
+        [
+            "Halal Fried Chicken",
+            700001022
+        ]
+    ],
+    [
+        "Stay at Halal Fried Chicken",
+        "(22:20, 23:53)",
+        [
+            "Halal Fried Chicken",
+            700001022
+        ]
+    ]
+]

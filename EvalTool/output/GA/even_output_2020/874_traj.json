@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sushi Time",
+            700008838
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:45)",
+        [
+            "GoHealth Urgent Care",
+            700000878
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:26, 16:56)",
+        [
+            "Starbelly",
+            700002214
+        ]
+    ],
+    [
+        "Watch a Movie/Show",
+        "(15:05, 16:59)",
+        [
+            "Starbelly",
+            700002214
+        ]
+    ],
+    [
+        "Watch a Movie/Show",
+        "(16:58, 18:19)",
+        [
+            "Starbelly",
+            700002214
+        ]
+    ],
+    [
+        "Hobbies/Projects",
+        "(18:52, 20:03)",
+        [
+            "Starbelly",
+            700002214
+        ]
+    ],
+    [
+        "Hobbies/Projects",
+        "(21:00, 22:06)",
+        [
+            "Starbelly",
+            700002214
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:11, 23:59)",
+        [
+            "Taco Boys",
+            700004817
+        ]
+    ]
+]

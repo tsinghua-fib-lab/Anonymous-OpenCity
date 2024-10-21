@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Jeannie's Deli",
+            700004325
+        ]
+    ],
+    [
+        "Brunch with Friends/Family",
+        "(10:00, 11:31)",
+        [
+            "Lasagna Ristorante",
+            700004338
+        ]
+    ],
+    [
+        "Brunch with Friends/Family",
+        "(11:47, 13:08)",
+        [
+            "Lasagna Ristorante",
+            700004338
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 15:48)",
+        [
+            "Dish Restaurant",
+            700018521
+        ]
+    ],
+    [
+        "Prepare and Have Dinner",
+        "(17:25, 18:54)",
+        [
+            "Dish Restaurant",
+            700018521
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(19:05, 21:06)",
+        [
+            "Lasagna Ristorante",
+            700004338
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:40, 23:59)",
+        [
+            "Temerarion",
+            700004350
+        ]
+    ]
+]

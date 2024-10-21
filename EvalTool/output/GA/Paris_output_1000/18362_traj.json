@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700067508
+        ]
+    ],
+    [
+        "Next activity after breakfast",
+        "(10:00, 11:31)",
+        [
+            "",
+            700041162
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(11:44, 13:34)",
+        [
+            "",
+            700067508
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:14, 20:06)",
+        [
+            "",
+            700003562
+        ]
+    ],
+    [
+        "Continue relaxation watching a movie or series.",
+        "(16:17, 17:50)",
+        [
+            "Fantine",
+            700071906
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:01, 22:52)",
+        [
+            "Le Louis d'Or",
+            700002596
+        ]
+    ],
+    [
+        "Next activity after relaxation",
+        "(21:20, 23:18)",
+        [
+            "Bissac",
+            700004700
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "Le Louis d'Or",
+            700002596
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Art Bar",
+            700010310
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:34)",
+        [
+            "Mobil",
+            700005847
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:53, 16:35)",
+        [
+            "",
+            700003186
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(19:42, 20:57)",
+        [
+            "Art Bar",
+            700010310
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(21:08, 23:59)",
+        [
+            "Art Bar",
+            700010310
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(22:32, 23:59)",
+        [
+            "Art Bar",
+            700010310
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700004968
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:40)",
+        [
+            "Mezes Kitchen & Wine Bar",
+            700003082
+        ]
+    ],
+    [
+        "Lunch Preparation and Eating",
+        "(13:09, 14:02)",
+        [
+            "",
+            700004968
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 17:29)",
+        [
+            "",
+            700004968
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:41, 17:06)",
+        [
+            "Mamacita",
+            700003081
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(17:17, 18:41)",
+        [
+            "Mezes Kitchen & Wine Bar",
+            700003082
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:55, 23:59)",
+        [
+            "Mamacita",
+            700003081
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Jubilee Mission Center",
+            700007597
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:59)",
+        [
+            "Jubilee Mission Center",
+            700007597
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 17:49)",
+        [
+            "Ukrainian East Village Restaurant",
+            700015870
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 19:16)",
+        [
+            "La Cabra",
+            700023337
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:49, 22:24)",
+        [
+            "The Copper Still",
+            700024689
+        ]
+    ]
+]

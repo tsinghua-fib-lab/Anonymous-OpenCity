@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:45)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 14:01)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:43, 21:00)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Wind Down with TV/Movies",
+        "(22:20, 23:59)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ]
+]

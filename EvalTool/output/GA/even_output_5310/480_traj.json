@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Emack & Bolio's",
+            700008954
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:23)",
+        [
+            "Zaab PuTawn",
+            700014840
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 19:42)",
+        [
+            "Coffee Shop",
+            700041023
+        ]
+    ],
+    [
+        "Stay at Coffee Shop",
+        "(17:32, 18:59)",
+        [
+            "La Mia Pizza",
+            700014046
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(20:05, 22:09)",
+        [
+            "Zaab PuTawn",
+            700014840
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(22:33, 23:58)",
+        [
+            "Bar Felice",
+            700024255
+        ]
+    ]
+]

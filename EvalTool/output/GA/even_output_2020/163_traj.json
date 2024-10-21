@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001432
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:10)",
+        [
+            "Little Star Pizza",
+            700001409
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:44, 14:30)",
+        [
+            "Little Star Pizza",
+            700001409
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:27, 17:49)",
+        [
+            "",
+            700002903
+        ]
+    ],
+    [
+        "Afternoon Shopping",
+        "(16:29, 17:54)",
+        [
+            "Little Star Pizza",
+            700001409
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:54, 20:08)",
+        [
+            "Eddie's Cafe",
+            700001867
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(20:32, 22:02)",
+        [
+            "",
+            700008265
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:51, 23:59)",
+        [
+            "",
+            700008265
+        ]
+    ]
+]

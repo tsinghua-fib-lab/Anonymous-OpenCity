@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(09:00, 10:21)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:34, 13:25)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 15:20)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:56, 21:03)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "Stay at Sunflower Cafe",
+        "(22:54, 23:59)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ]
+]

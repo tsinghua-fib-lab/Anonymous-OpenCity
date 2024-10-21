@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002148
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:45)",
+        [
+            "Good Old Lower East Side",
+            700015186
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:27, 13:16)",
+        [
+            "Soda Club",
+            700005414
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:19, 19:03)",
+        [
+            "Hekate Café & Elixir Lounge",
+            700028537
+        ]
+    ],
+    [
+        "Social Time",
+        "(19:21, 21:01)",
+        [
+            "Hekate Café & Elixir Lounge",
+            700028537
+        ]
+    ],
+    [
+        "Spend time at Hekate Café & Elixir Lounge",
+        "(21:10, 22:41)",
+        [
+            "Hekate Café & Elixir Lounge",
+            700028537
+        ]
+    ],
+    [
+        "Spend time at Hekate Café & Elixir Lounge",
+        "(23:24, 23:59)",
+        [
+            "Hekate Café & Elixir Lounge",
+            700028537
+        ]
+    ]
+]

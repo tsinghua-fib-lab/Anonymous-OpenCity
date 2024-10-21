@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002733
+        ]
+    ],
+    [
+        "Watch a Movie or Show",
+        "(09:00, 10:24)",
+        [
+            "",
+            700002733
+        ]
+    ],
+    [
+        "Watch a Movie or Show",
+        "(11:45, 13:05)",
+        [
+            "",
+            700002733
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:07, 17:44)",
+        [
+            "Monroe Market",
+            700014768
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 21:02)",
+        [
+            "Kings' Church",
+            700014769
+        ]
+    ],
+    [
+        "Stay at your current cafe or restaurant",
+        "(20:11, 21:35)",
+        [
+            "CC’s Cafe",
+            700006677
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:45, 23:58)",
+        [
+            "Mr. Fong's",
+            700006676
+        ]
+    ]
+]

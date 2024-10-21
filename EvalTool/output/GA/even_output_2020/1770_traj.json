@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008725
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:00)",
+        [
+            "Golden Horse Restaurant",
+            700008867
+        ]
+    ],
+    [
+        "Engage in a fun outdoor activity or sports",
+        "(12:30, 13:50)",
+        [
+            "Golden Horse Restaurant",
+            700008867
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(14:29, 16:00)",
+        [
+            "Golden Horse Restaurant",
+            700008867
+        ]
+    ],
+    [
+        "Engage in a fun outdoor activity or sports",
+        "(16:49, 18:30)",
+        [
+            "Golden Horse Restaurant",
+            700008867
+        ]
+    ],
+    [
+        "Dinner Reservations",
+        "(19:10, 20:44)",
+        [
+            "",
+            700008725
+        ]
+    ],
+    [
+        "Dinner Reservations",
+        "(21:25, 22:46)",
+        [
+            "Zeki's Bar",
+            700008868
+        ]
+    ],
+    [
+        "Movie Night",
+        "(22:54, 23:59)",
+        [
+            "",
+            700008725
+        ]
+    ]
+]

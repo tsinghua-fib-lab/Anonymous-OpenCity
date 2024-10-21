@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pret A Manger",
+            700009215
+        ]
+    ],
+    [
+        "Go for a walk or light exercise from 11:00 AM to 12:00 PM",
+        "(10:00, 11:10)",
+        [
+            "",
+            700020528
+        ]
+    ],
+    [
+        "Go for a walk or light exercise from 11:00 AM to 12:00 PM",
+        "(12:03, 13:01)",
+        [
+            "",
+            700020522
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 16:05)",
+        [
+            "",
+            700018839
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:32, 22:13)",
+        [
+            "Triple Crown",
+            700018447
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "",
+            700018839
+        ]
+    ]
+]

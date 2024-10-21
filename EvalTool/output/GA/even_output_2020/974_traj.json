@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Convent High School",
+            700007566
+        ]
+    ],
+    [
+        "11:00 AM - Exercise",
+        "(10:00, 11:37)",
+        [
+            "Stuart Hall for Boys",
+            700007565
+        ]
+    ],
+    [
+        "go",
+        "(11:43, 13:01)",
+        [
+            "Stuart Hall for Boys",
+            700007565
+        ]
+    ],
+    [
+        "Next activity planned: Leisure Activity.",
+        "(13:19, 14:49)",
+        [
+            "Stuart Hall for Boys",
+            700007565
+        ]
+    ],
+    [
+        "Next activity planned: Leisure Activity;",
+        "(15:28, 16:57)",
+        [
+            "Stuart Hall for Boys",
+            700007565
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:11, 22:52)",
+        [
+            "Convent Elementary School",
+            700007567
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:02, 23:59)",
+        [
+            "SoulCycle",
+            700005581
+        ]
+    ]
+]

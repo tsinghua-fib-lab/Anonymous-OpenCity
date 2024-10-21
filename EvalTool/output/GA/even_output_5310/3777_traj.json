@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001181
+        ]
+    ],
+    [
+        "Go for a walk or light jog in the park",
+        "(10:00, 10:57)",
+        [
+            "Citi Bike - East 5th Street & Avenue C",
+            700008052
+        ]
+    ],
+    [
+        "Go for a walk or light jog in the park",
+        "(11:34, 12:53)",
+        [
+            "Citi Bike - East 5th Street & Avenue C",
+            700008052
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch.",
+        "(12:39, 14:08)",
+        [
+            "Citi Bike - East 5th Street & Avenue C",
+            700008052
+        ]
+    ],
+    [
+        "Prepare for and engage in a fun hobby or DIY project.",
+        "(14:18, 16:22)",
+        [
+            "Citi Bike - East 5th Street & Avenue C",
+            700008052
+        ]
+    ],
+    [
+        "Stay at NYC Falafel Co",
+        "(15:44, 17:33)",
+        [
+            "",
+            700001928
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:52, 19:46)",
+        [
+            "",
+            700001928
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 5th Street & Avenue C.",
+        "(19:33, 21:46)",
+        [
+            "Citi Bike - East 5th Street & Avenue C",
+            700008052
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:32, 22:41)",
+        [
+            "",
+            700002391
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 5th Street & Avenue C",
+        "(23:53, 23:59)",
+        [
+            "Citi Bike - East 5th Street & Avenue C",
+            700008052
+        ]
+    ]
+]

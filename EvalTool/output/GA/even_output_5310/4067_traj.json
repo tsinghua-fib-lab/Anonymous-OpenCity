@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Café au bon gout",
+            700003238
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 11:08)",
+        [
+            "Café au bon gout",
+            700003238
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:30, 12:54)",
+        [
+            "Café au bon gout",
+            700003238
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:54, 13:55)",
+        [
+            "Café au bon gout",
+            700003238
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:19, 15:50)",
+        [
+            "Café au bon gout",
+            700003238
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:30, 18:01)",
+        [
+            "Midtown Loft & Terrace",
+            700040572
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:42, 20:03)",
+        [
+            "Bubble Tea & Crepes",
+            700008608
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:10, 22:56)",
+        [
+            "Citi Bike - 5th Avenue & East 29th Street",
+            700007937
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(23:44, 23:59)",
+        [
+            "Citi Bike - 5th Avenue & East 29th Street",
+            700007937
+        ]
+    ]
+]

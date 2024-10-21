@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002136
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:07)",
+        [
+            "",
+            700017755
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 15:58)",
+        [
+            "Neighborhood Deli",
+            700018152
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(16:50, 18:08)",
+        [
+            "Neighborhood Deli",
+            700018152
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:38, 21:06)",
+        [
+            "Borris & Horton",
+            700030627
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:50, 23:59)",
+        [
+            "Neighborhood Deli",
+            700018152
+        ]
+    ]
+]

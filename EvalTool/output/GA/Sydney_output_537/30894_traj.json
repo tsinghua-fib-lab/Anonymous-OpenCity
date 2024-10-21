@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Countryard Cafe Castle Hill",
+            700009571
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:50)",
+        [
+            "Al Aseel",
+            700014532
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:17, 18:06)",
+        [
+            "Kaito Sake Bar",
+            700009821
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:11, 19:43)",
+        [
+            "",
+            700001441
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:09, 23:59)",
+        [
+            "Motto Motto",
+            700015790
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "Place Saint-André des Arts",
+            700038535
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(08:00, 09:29)",
+        [
+            "Fontaine Wallace",
+            700001411
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:14, 12:08)",
+        [
+            "Fontaine Wallace",
+            700001411
+        ]
+    ],
+    [
+        "Leisure or Hobby Time",
+        "(12:12, 13:43)",
+        [
+            "Fontaine Wallace",
+            700001411
+        ]
+    ],
+    [
+        "Continue Leisure or Hobby Time",
+        "(13:46, 15:11)",
+        [
+            "Fontaine Wallace",
+            700001411
+        ]
+    ],
+    [
+        "Leisure or Hobby Time",
+        "(15:56, 17:34)",
+        [
+            "",
+            700037012
+        ]
+    ],
+    [
+        "Stay for Entertainment",
+        "(18:01, 19:25)",
+        [
+            "La Gentilhommière",
+            700020371
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:03, 23:59)",
+        [
+            "O'Tacos",
+            700021234
+        ]
+    ]
+]

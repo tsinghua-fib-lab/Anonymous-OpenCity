@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Italian Gourmet",
+            700016201
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:03)",
+        [
+            "Italian Gourmet",
+            700016201
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:14, 13:50)",
+        [
+            "Hippodrome Parking",
+            700003741
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:29, 15:54)",
+        [
+            "Hippodrome Parking",
+            700003742
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(15:52, 17:29)",
+        [
+            "Hippodrome Parking",
+            700003741
+        ]
+    ],
+    [
+        "Sports or Exercise",
+        "(17:53, 19:00)",
+        [
+            "Hippodrome Parking",
+            700003741
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(19:54, 20:52)",
+        [
+            "USPS",
+            700005946
+        ]
+    ],
+    [
+        "Stay at USPS for dinner and relaxation",
+        "(21:21, 22:38)",
+        [
+            "USPS",
+            700005946
+        ]
+    ],
+    [
+        "Stay at USPS for dinner and relaxation",
+        "(23:01, 23:59)",
+        [
+            "USPS",
+            700005946
+        ]
+    ]
+]

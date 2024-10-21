@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "McDonald's",
+            700015251
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:26)",
+        [
+            "FDNY Engine 8/Ladder 2/Battalion 8",
+            700000530
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:41, 13:17)",
+        [
+            "Link NYC",
+            700020323
+        ]
+    ],
+    [
+        "Lunch with Friends",
+        "(13:46, 15:17)",
+        [
+            "Link NYC",
+            700020323
+        ]
+    ],
+    [
+        "Lunch with Friends",
+        "(15:24, 16:55)",
+        [
+            "Link NYC",
+            700020323
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:08, 20:03)",
+        [
+            "Link NYC",
+            700020323
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 23:59)",
+        [
+            "",
+            700020318
+        ]
+    ],
+    [
+        "Watch a Movie",
+        "(22:32, 23:59)",
+        [
+            "Link NYC",
+            700020323
+        ]
+    ],
+    [
+        "Family Time",
+        "(23:53, 23:59)",
+        [
+            "Link NYC",
+            700020323
+        ]
+    ]
+]

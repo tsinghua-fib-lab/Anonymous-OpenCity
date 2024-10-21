@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 10:56)",
+        [
+            "",
+            700059882
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:56, 11:58)",
+        [
+            "",
+            700004546
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:57, 15:42)",
+        [
+            "Prosecco House",
+            700034976
+        ]
+    ],
+    [
+        "Socializing",
+        "(17:44, 19:21)",
+        [
+            "Prosecco House",
+            700034976
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:47, 23:59)",
+        [
+            "Prosecco House",
+            700034976
+        ]
+    ],
+    [
+        "Socializing",
+        "(22:26, 23:59)",
+        [
+            "Gunpowder + Custard",
+            700034972
+        ]
+    ]
+]

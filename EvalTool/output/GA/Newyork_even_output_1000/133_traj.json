@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Fiat Café",
+            700009358
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:11)",
+        [
+            "",
+            700003211
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends",
+        "(11:42, 13:05)",
+        [
+            "Wan Wan",
+            700007828
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(13:20, 15:49)",
+        [
+            "Wan Wan",
+            700007828
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends",
+        "(16:34, 17:59)",
+        [
+            "Wan Wan",
+            700007828
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends",
+        "(18:54, 20:18)",
+        [
+            "Van Leeuwen",
+            700004789
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:14, 23:22)",
+        [
+            "Upside Pizza",
+            700004786
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "Citi Bike - Cleveland Pl & Spring St",
+            700007998
+        ]
+    ]
+]

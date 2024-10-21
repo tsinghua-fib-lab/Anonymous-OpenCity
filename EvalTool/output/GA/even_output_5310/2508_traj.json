@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mickey Spillane's",
+            700011615
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 09:54)",
+        [
+            "Mom's Kitchen & Bar",
+            700014820
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:58, 11:38)",
+        [
+            "VERS",
+            700026506
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:52, 13:18)",
+        [
+            "Sapori",
+            700005301
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:15, 15:46)",
+        [
+            "Sapori",
+            700005301
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:33, 22:14)",
+        [
+            "",
+            700037871
+        ]
+    ],
+    [
+        "Go to 'Mickey Spillane's' for a relaxed evening.",
+        "(22:25, 23:59)",
+        [
+            "",
+            700037874
+        ]
+    ]
+]

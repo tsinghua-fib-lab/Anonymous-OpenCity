@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bar Italia",
+            700010150
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 09:50)",
+        [
+            "Bar Italia",
+            700010150
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:15, 11:56)",
+        [
+            "Bar Italia",
+            700010150
+        ]
+    ],
+    [
+        "Relaxation and Reading",
+        "(12:05, 13:30)",
+        [
+            "Bar Italia",
+            700010150
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(13:49, 15:59)",
+        [
+            "Bar Italia",
+            700010150
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:07, 23:02)",
+        [
+            "",
+            700017130
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:02, 23:59)",
+        [
+            "",
+            700017130
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "Delacorte Musical Clock",
+            700007537
+        ]
+    ]
+]

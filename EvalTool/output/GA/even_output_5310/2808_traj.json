@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Just Salad",
+            700006197
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:16)",
+        [
+            "",
+            700002797
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:55, 15:09)",
+        [
+            "Just Salad",
+            700006197
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:41, 17:16)",
+        [
+            "Just Salad",
+            700006197
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:55, 19:11)",
+        [
+            "Just Salad",
+            700006197
+        ]
+    ],
+    [
+        "Social Time",
+        "(19:35, 20:36)",
+        [
+            "Citi Bike - East 24th Street & Park Avenue South",
+            700008037
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:43, 23:59)",
+        [
+            "Manhattan Primary Care",
+            700016372
+        ]
+    ]
+]

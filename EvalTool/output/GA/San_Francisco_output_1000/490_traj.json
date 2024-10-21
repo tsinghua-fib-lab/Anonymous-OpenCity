@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001240
+        ]
+    ],
+    [
+        "Next arrangement after breakfast.",
+        "(10:00, 11:05)",
+        [
+            "",
+            700001240
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 17:30)",
+        [
+            "",
+            700000765
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:31, 20:22)",
+        [
+            "Sutter Place Garage",
+            700001557
+        ]
+    ],
+    [
+        "Stay at your current location.",
+        "(22:14, 23:59)",
+        [
+            "",
+            700008006
+        ]
+    ]
+]

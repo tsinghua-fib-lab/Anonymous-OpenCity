@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700013049
+        ]
+    ],
+    [
+        "Next, you will engage in morning exercise.",
+        "(09:00, 09:56)",
+        [
+            "",
+            700013049
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:03, 11:38)",
+        [
+            "San Francisco Sheriff's Department",
+            700000441
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:38, 19:14)",
+        [
+            "Social Cafe",
+            700010604
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:12, 22:33)",
+        [
+            "",
+            700013046
+        ]
+    ]
+]

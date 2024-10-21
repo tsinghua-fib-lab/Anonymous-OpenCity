@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:20)",
+        [
+            "Le Jules Verne",
+            700016425
+        ]
+    ],
+    [
+        "Next activity is Relaxation/Free Time",
+        "(15:00, 17:10)",
+        [
+            "",
+            700068718
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:49, 20:42)",
+        [
+            "",
+            700004278
+        ]
+    ],
+    [
+        "Wind Down with Entertainment",
+        "(20:21, 21:57)",
+        [
+            "Le Jules Verne",
+            700016425
+        ]
+    ],
+    [
+        "Relaxation/Free Time",
+        "(22:49, 23:59)",
+        [
+            "Le Jules Verne",
+            700016425
+        ]
+    ]
+]

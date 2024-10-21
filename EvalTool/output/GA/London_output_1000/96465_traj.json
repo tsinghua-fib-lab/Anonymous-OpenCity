@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:59)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 16:51)",
+        [
+            "",
+            700012118
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:21, 16:51)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(17:05, 18:42)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:18, 21:53)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:02, 22:24)",
+        [
+            "",
+            700071192
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:23, 23:59)",
+        [
+            "",
+            700071189
+        ]
+    ]
+]

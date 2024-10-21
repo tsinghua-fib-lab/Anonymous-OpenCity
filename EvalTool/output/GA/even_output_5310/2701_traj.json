@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020822
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:43)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:32, 12:30)",
+        [
+            "",
+            700020823
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:58, 17:18)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 17:25)",
+        [
+            "",
+            700002166
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:32, 20:29)",
+        [
+            "The Half King",
+            700008828
+        ]
+    ]
+]

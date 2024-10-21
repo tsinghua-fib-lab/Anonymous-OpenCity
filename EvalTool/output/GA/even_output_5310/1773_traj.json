@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700017575
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:04)",
+        [
+            "Public School 59",
+            700000048
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 18:16)",
+        [
+            "",
+            700002246
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(21:21, 23:27)",
+        [
+            "",
+            700017575
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(23:18, 23:59)",
+        [
+            "Public School 59",
+            700000048
+        ]
+    ]
+]

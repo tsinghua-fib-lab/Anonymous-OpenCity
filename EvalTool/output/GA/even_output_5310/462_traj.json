@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "La Bergamote",
+            700014611
+        ]
+    ],
+    [
+        "Wake Up and Leisure Breakfast",
+        "(10:00, 11:01)",
+        [
+            "La Bergamote",
+            700014611
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 14:55)",
+        [
+            "Citi Bike - W 53 St & 10 Ave",
+            700008233
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(15:32, 17:09)",
+        [
+            "Citi Bike - W 53 St & 10 Ave",
+            700008233
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 22:06)",
+        [
+            "Citi Bike - W 53 St & 10 Ave",
+            700008233
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "Gardenia Terrace",
+            700015942
+        ]
+    ]
+]

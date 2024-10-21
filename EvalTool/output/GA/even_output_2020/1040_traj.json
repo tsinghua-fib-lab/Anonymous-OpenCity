@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001521
+        ]
+    ],
+    [
+        "Go for a workout or a jog",
+        "(10:00, 10:51)",
+        [
+            "",
+            700001524
+        ]
+    ],
+    [
+        "Go for a workout or a jog",
+        "(11:03, 12:09)",
+        [
+            "",
+            700001521
+        ]
+    ],
+    [
+        "Go for a workout or a jog",
+        "(12:46, 13:52)",
+        [
+            "",
+            700001521
+        ]
+    ],
+    [
+        "Visit a local farmers' market or boutique shops",
+        "(14:04, 14:58)",
+        [
+            "",
+            700001528
+        ]
+    ],
+    [
+        "Attend a matinee or watch a film at home",
+        "(15:23, 17:25)",
+        [
+            "",
+            700001509
+        ]
+    ],
+    [
+        "Stay at your place",
+        "(17:05, 18:08)",
+        [
+            "",
+            700001510
+        ]
+    ],
+    [
+        "Stay at your place",
+        "(18:48, 20:25)",
+        [
+            "",
+            700001521
+        ]
+    ],
+    [
+        "Stay at your place",
+        "(21:06, 23:06)",
+        [
+            "",
+            700001507
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:03, 23:59)",
+        [
+            "",
+            700009974
+        ]
+    ]
+]

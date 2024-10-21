@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700037437
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:42)",
+        [
+            "",
+            700037438
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:26, 14:29)",
+        [
+            "",
+            700037438
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a TV series",
+        "(16:01, 18:08)",
+        [
+            "Citi Bike - Division Street & Bowery",
+            700008014
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:39, 20:02)",
+        [
+            "",
+            700037444
+        ]
+    ],
+    [
+        "Have dinner and unwind with some relaxing music or a book.",
+        "(21:03, 22:31)",
+        [
+            "",
+            700037437
+        ]
+    ],
+    [
+        "Stay at your current place.",
+        "(22:40, 23:59)",
+        [
+            "",
+            700037437
+        ]
+    ]
+]

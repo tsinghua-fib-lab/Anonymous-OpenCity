@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "United Nations School",
+            700000040
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:00)",
+        [
+            "East Side Animal Hospital",
+            700011457
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:14, 13:45)",
+        [
+            "Totto Ramen",
+            700009648
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:40, 22:31)",
+        [
+            "",
+            700021981
+        ]
+    ],
+    [
+        "Late Afternoon Relaxation",
+        "(21:27, 23:51)",
+        [
+            "",
+            700001668
+        ]
+    ],
+    [
+        "Watch a Movie or Play Video Games",
+        "(23:20, 23:59)",
+        [
+            "",
+            700021987
+        ]
+    ]
+]

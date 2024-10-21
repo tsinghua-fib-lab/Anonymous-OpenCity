@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000666
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:39)",
+        [
+            "Jupioca",
+            700033869
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:19, 18:36)",
+        [
+            "Sushi of Gari",
+            700007374
+        ]
+    ],
+    [
+        "Relax and Watch a Movie",
+        "(16:18, 17:53)",
+        [
+            "Sushi of Gari",
+            700007374
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:55, 22:34)",
+        [
+            "Sedutto",
+            700016567
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:51, 23:59)",
+        [
+            "Harvest Chinese & Thai Cuisine",
+            700027031
+        ]
+    ]
+]

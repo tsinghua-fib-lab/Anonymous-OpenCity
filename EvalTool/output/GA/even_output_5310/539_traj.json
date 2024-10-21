@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003106
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 10:55)",
+        [
+            "",
+            700003106
+        ]
+    ],
+    [
+        "You are currently at an unspecified location.",
+        "(11:03, 12:04)",
+        [
+            "Sushi Ryusei",
+            700015028
+        ]
+    ],
+    [
+        "Find another local park nearby for a walk.",
+        "(12:36, 13:58)",
+        [
+            "Orangetheory Fitness",
+            700006455
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 18:13)",
+        [
+            "Tipsy Shanghai",
+            700015711
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 19:44)",
+        [
+            "Caffé Venice",
+            700006451
+        ]
+    ],
+    [
+        "Stay at unspecified location",
+        "(20:18, 22:05)",
+        [
+            "",
+            700024480
+        ]
+    ],
+    [
+        "Stay at unspecified location.",
+        "(22:48, 23:39)",
+        [
+            "Caffé Venice",
+            700006451
+        ]
+    ],
+    [
+        "Stay at unspecified location.",
+        "(23:43, 23:59)",
+        [
+            "City Beer",
+            700033969
+        ]
+    ]
+]

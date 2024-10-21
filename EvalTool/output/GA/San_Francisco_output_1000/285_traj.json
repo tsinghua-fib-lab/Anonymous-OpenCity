@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008260
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:10)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:27, 16:35)",
+        [
+            "Amarena",
+            700002725
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:39, 22:09)",
+        [
+            "Woods Polk Station",
+            700003160
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(22:00, 23:59)",
+        [
+            "Woods Polk Station",
+            700003160
+        ]
+    ],
+    [
+        "Stay at Community Garden",
+        "(23:53, 23:59)",
+        [
+            "Woods Polk Station",
+            700003160
+        ]
+    ]
+]

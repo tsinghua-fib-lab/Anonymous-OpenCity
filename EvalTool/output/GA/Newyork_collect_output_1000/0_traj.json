@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Wake Up",
+        "(09:00, 10:39)",
+        [
+            "One Medical",
+            700033968
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:55, 12:16)",
+        [
+            "Citi Bike - East 39th Street & 3rd Avenue",
+            700007835
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:06, 14:37)",
+        [
+            "One Medical",
+            700033968
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:42, 17:53)",
+        [
+            "Tipsy Shanghai",
+            700015711
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:16, 21:49)",
+        [
+            "Empellón Al Pastor",
+            700007832
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:54, 23:17)",
+        [
+            "Citi Bike",
+            700021661
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Empellón Al Pastor",
+            700007832
+        ]
+    ]
+]

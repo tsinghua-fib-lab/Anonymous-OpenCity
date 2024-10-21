@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Odessa",
+            700008588
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:45)",
+        [
+            "",
+            700027758
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 16:34)",
+        [
+            "Yakitori",
+            700059635
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:15, 20:03)",
+        [
+            "Yakitori",
+            700059635
+        ]
+    ],
+    [
+        "Continue the evening by staying at Yakitori.",
+        "(20:11, 21:37)",
+        [
+            "Yakitori",
+            700059635
+        ]
+    ],
+    [
+        "Stay at Yakitori.",
+        "(22:15, 23:41)",
+        [
+            "Yakitori",
+            700059635
+        ]
+    ],
+    [
+        "Stay at Yakitori",
+        "(23:51, 23:59)",
+        [
+            "Yakitori",
+            700059635
+        ]
+    ]
+]

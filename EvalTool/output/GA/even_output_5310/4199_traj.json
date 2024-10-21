@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010698
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:09)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:00, 16:37)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:47, 18:37)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:50, 21:47)",
+        [
+            "",
+            700025676
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(21:12, 23:05)",
+        [
+            "",
+            700010698
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:28, 23:59)",
+        [
+            "Brooklyn Pizza Masters",
+            700030625
+        ]
+    ]
+]

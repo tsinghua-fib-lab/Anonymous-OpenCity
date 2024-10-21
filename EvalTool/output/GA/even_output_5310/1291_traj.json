@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chipotle",
+            700017555
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:59)",
+        [
+            "Starbucks",
+            700017554
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:28, 13:58)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 19:46)",
+        [
+            "Training Zone",
+            700006195
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:02, 20:00)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:58, 23:03)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:34, 23:59)",
+        [
+            "Ponce Bank",
+            700029600
+        ]
+    ]
+]

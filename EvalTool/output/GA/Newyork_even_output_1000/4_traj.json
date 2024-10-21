@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002302
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:16)",
+        [
+            "People's Choice Pharmacy",
+            700003818
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 15:50)",
+        [
+            "Grand Kosher Cafe",
+            700019773
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:52, 20:12)",
+        [
+            "Ost Cafe",
+            700009828
+        ]
+    ],
+    [
+        "relax and have a drink",
+        "(21:04, 22:40)",
+        [
+            "Ost Cafe",
+            700009828
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:08, 23:59)",
+        [
+            "Ost Cafe",
+            700009828
+        ]
+    ]
+]

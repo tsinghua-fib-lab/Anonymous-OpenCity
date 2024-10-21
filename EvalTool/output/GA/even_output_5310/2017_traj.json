@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "El Centro",
+            700006320
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:41)",
+        [
+            "Fat Boys Burger",
+            700037177
+        ]
+    ],
+    [
+        "Stay at Fat Boys Burger until 1 PM.",
+        "(11:28, 13:08)",
+        [
+            "Fat Boys Burger",
+            700037177
+        ]
+    ],
+    [
+        "Decide to stay at Fat Boys Burger until 1 PM.",
+        "(13:19, 14:54)",
+        [
+            "Fat Boys Burger",
+            700037177
+        ]
+    ],
+    [
+        "Stay at Fat Boys Burger until 1 PM.",
+        "(15:46, 17:53)",
+        [
+            "Fat Boys Burger",
+            700037177
+        ]
+    ],
+    [
+        "Have dinner.",
+        "(18:27, 19:56)",
+        [
+            "Fat Boys Burger",
+            700037177
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 23:00)",
+        [
+            "Chase",
+            700003471
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "Muddy Paws Rescue",
+            700020826
+        ]
+    ]
+]

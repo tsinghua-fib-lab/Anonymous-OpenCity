@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700022996
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:15)",
+        [
+            "",
+            700002950
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:45, 14:09)",
+        [
+            "Welcome to the Johnsons",
+            700008956
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:39, 16:07)",
+        [
+            "Welcome to the Johnsons",
+            700008956
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 19:38)",
+        [
+            "El Castillo de Jagua",
+            700023342
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:48, 20:57)",
+        [
+            "El Castillo de Jagua",
+            700023342
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:49, 22:26)",
+        [
+            "El Castillo de Jagua",
+            700023342
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "Charrua Uruguayan Restaurant",
+            700011901
+        ]
+    ]
+]

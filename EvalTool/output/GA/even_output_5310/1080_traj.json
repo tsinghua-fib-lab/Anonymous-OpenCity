@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Burrito Box",
+            700003874
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:08)",
+        [
+            "Justino’s Pizzeria",
+            700004006
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(11:20, 12:20)",
+        [
+            "Masseria dei Vini",
+            700006399
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(13:51, 15:18)",
+        [
+            "Burrito Box",
+            700003874
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(16:07, 17:27)",
+        [
+            "CVS Pharmacy",
+            700003464
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:16, 19:50)",
+        [
+            "Burrito Box",
+            700003874
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:56, 23:51)",
+        [
+            "",
+            700018408
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700002071
+        ]
+    ]
+]

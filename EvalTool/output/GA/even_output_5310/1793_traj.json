@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030124
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:45)",
+        [
+            "Sutton Bar Room",
+            700011531
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 18:53)",
+        [
+            "",
+            700010700
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(21:21, 23:01)",
+        [
+            "",
+            700030124
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(23:18, 23:59)",
+        [
+            "Sutton Bar Room",
+            700011531
+        ]
+    ]
+]

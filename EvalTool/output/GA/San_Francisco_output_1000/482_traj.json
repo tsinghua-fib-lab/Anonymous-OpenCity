@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010983
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:53)",
+        [
+            "Bay Area Smile",
+            700010167
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:52, 18:30)",
+        [
+            "Standard",
+            700012800
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:30, 21:48)",
+        [
+            "Wells Fargo",
+            700002113
+        ]
+    ],
+    [
+        "Wind Down and Prepare for the Week",
+        "(23:35, 23:59)",
+        [
+            "",
+            700010983
+        ]
+    ]
+]

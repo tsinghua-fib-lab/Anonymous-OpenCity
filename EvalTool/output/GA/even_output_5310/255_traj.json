@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Lenwich",
+            700013065
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:38)",
+        [
+            "Lenwich",
+            700013065
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:06, 14:13)",
+        [
+            "Lenwich",
+            700013065
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:45, 16:33)",
+        [
+            "Lenwich",
+            700013065
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 19:19)",
+        [
+            "Patron",
+            700014542
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:09, 22:29)",
+        [
+            "",
+            700001927
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "Mollyos",
+            700008810
+        ]
+    ]
+]

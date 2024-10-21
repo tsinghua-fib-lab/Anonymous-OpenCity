@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "16 Handles",
+            700024252
+        ]
+    ],
+    [
+        "You go to Sushi Ryusei.",
+        "(10:00, 11:04)",
+        [
+            "Hutch and Waldo",
+            700029521
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 15:43)",
+        [
+            "San Matteo Pizzeria e Cucina",
+            700015199
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 21:43)",
+        [
+            "H&H Midtown Bagels East",
+            700012538
+        ]
+    ],
+    [
+        "go to Citibank",
+        "(23:52, 23:59)",
+        [
+            "Starbucks",
+            700022211
+        ]
+    ]
+]

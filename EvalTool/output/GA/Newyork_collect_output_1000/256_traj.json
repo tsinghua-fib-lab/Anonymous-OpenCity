@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:59)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Personal Project/Study Time",
+        "(10:29, 12:24)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:43, 15:10)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:23, 17:41)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:56, 22:07)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "",
+            700002180
+        ]
+    ]
+]

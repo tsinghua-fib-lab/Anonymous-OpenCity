@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chase",
+            700007373
+        ]
+    ],
+    [
+        "Wake Up and Relax",
+        "(09:00, 09:52)",
+        [
+            "Chase",
+            700007373
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:36, 11:51)",
+        [
+            "Chase",
+            700007373
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:05, 14:08)",
+        [
+            "Chase",
+            700007373
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:54, 15:58)",
+        [
+            "Chase",
+            700007373
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:19, 21:21)",
+        [
+            "Citibank",
+            700006021
+        ]
+    ],
+    [
+        "Go to Citibank and spend time relaxing.",
+        "(20:28, 22:28)",
+        [
+            "Citibank",
+            700006021
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:36, 23:59)",
+        [
+            "",
+            700040440
+        ]
+    ]
+]

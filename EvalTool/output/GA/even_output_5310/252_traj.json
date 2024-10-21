@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Lenwich",
+            700013065
+        ]
+    ],
+    [
+        "Morning Relaxation",
+        "(10:00, 11:21)",
+        [
+            "Lenwich",
+            700013065
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:40, 13:01)",
+        [
+            "Lenwich",
+            700013065
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:19, 14:54)",
+        [
+            "",
+            700000682
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 17:15)",
+        [
+            "Swift Eats",
+            700013051
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 19:56)",
+        [
+            "Duane Reade",
+            700004140
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:31, 23:09)",
+        [
+            "Tim Ho Wan",
+            700026579
+        ]
+    ],
+    [
+        "Go to Lenwich for a meal or snack.",
+        "(23:28, 23:59)",
+        [
+            "Lenwich",
+            700013065
+        ]
+    ]
+]

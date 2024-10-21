@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Leisure Activity or Exercise",
+        "(10:00, 11:23)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Go to Link NYC",
+        "(11:27, 13:31)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 15:37)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:26, 20:59)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 21:38)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Stay at Dog & Bone",
+        "(23:46, 23:59)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Theeca",
+            700019470
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:59)",
+        [
+            "",
+            700003094
+        ]
+    ],
+    [
+        "Prepare and enjoy dinner with a new recipe.",
+        "(16:03, 18:00)",
+        [
+            "Theeca",
+            700019470
+        ]
+    ],
+    [
+        "Stay at Theeca for dinner preparation.",
+        "(18:27, 19:51)",
+        [
+            "Theeca",
+            700019470
+        ]
+    ],
+    [
+        "Stay",
+        "(19:29, 21:04)",
+        [
+            "Theeca",
+            700019470
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 23:59)",
+        [
+            "",
+            700003093
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:41, 23:59)",
+        [
+            "NAB",
+            700006503
+        ]
+    ]
+]

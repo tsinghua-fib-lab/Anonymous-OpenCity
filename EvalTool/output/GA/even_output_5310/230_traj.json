@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018080
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast and coffee.",
+        "(10:00, 10:57)",
+        [
+            "USPS",
+            700010321
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:45, 13:49)",
+        [
+            "",
+            700018481
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 19:01)",
+        [
+            "Joe & The Juice",
+            700017172
+        ]
+    ],
+    [
+        "Stay at Joe & The Juice.",
+        "(18:22, 19:50)",
+        [
+            "",
+            700018481
+        ]
+    ],
+    [
+        "Stay at Joe & The Juice.",
+        "(20:10, 22:09)",
+        [
+            "Joe & The Juice",
+            700017172
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "Central Gospel Chapel",
+            700000276
+        ]
+    ]
+]

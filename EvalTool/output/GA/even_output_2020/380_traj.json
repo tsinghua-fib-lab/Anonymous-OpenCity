@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010135
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(10:00, 11:21)",
+        [
+            "Starbucks",
+            700009200
+        ]
+    ],
+    [
+        "Relax at Starbucks",
+        "(12:02, 13:29)",
+        [
+            "Starbucks",
+            700009200
+        ]
+    ],
+    [
+        "Relax at Starbucks",
+        "(14:25, 15:59)",
+        [
+            "Mary Lane Infant & Toddler Center",
+            700001411
+        ]
+    ],
+    [
+        "Relax at Starbucks",
+        "(16:10, 18:16)",
+        [
+            "",
+            700010901
+        ]
+    ],
+    [
+        "Attend a sports event or match",
+        "(19:01, 20:16)",
+        [
+            "",
+            700008308
+        ]
+    ],
+    [
+        "Relax at El Castillito Taqueria",
+        "(21:02, 22:30)",
+        [
+            "Sessions Training Center",
+            700011078
+        ]
+    ],
+    [
+        "Relax at El Castillito Taqueria",
+        "(22:34, 23:59)",
+        [
+            "",
+            700008683
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mission Chinese Food",
+            700001554
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:29)",
+        [
+            "Homey",
+            700014023
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:09, 14:47)",
+        [
+            "",
+            700014024
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 17:45)",
+        [
+            "",
+            700002390
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:35, 22:03)",
+        [
+            "L'emigrante",
+            700001686
+        ]
+    ],
+    [
+        "Visit L'emigrante for dinner.",
+        "(20:49, 22:12)",
+        [
+            "",
+            700008297
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "",
+            700008299
+        ]
+    ]
+]

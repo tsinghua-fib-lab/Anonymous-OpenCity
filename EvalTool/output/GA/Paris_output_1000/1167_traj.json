@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Café de la Paix",
+            700006874
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:28)",
+        [
+            "Centre France-Asie",
+            700064188
+        ]
+    ],
+    [
+        "Next activity after outdoor activity.",
+        "(12:29, 13:57)",
+        [
+            "Centre France-Asie",
+            700064188
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(14:45, 16:39)",
+        [
+            "Centre France-Asie",
+            700064188
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:31, 19:00)",
+        [
+            "Centre France-Asie",
+            700064188
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 23:59)",
+        [
+            "Dr Mireille Boller",
+            700019804
+        ]
+    ]
+]

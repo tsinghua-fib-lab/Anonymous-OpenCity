@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002895
+        ]
+    ],
+    [
+        "next activity after breakfast",
+        "(10:00, 11:57)",
+        [
+            "",
+            700002895
+        ]
+    ],
+    [
+        "Current place stay",
+        "(12:27, 13:49)",
+        [
+            "African American Art & Culture Complex",
+            700006135
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:01, 19:08)",
+        [
+            "Old Holy Virgin Russian Orthodox Cathedral",
+            700000206
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(15:52, 18:07)",
+        [
+            "",
+            700002899
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:01, 20:17)",
+        [
+            "",
+            700005620
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:55, 23:59)",
+        [
+            "",
+            700005617
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002891
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:42)",
+        [
+            "Cafe Altano",
+            700000850
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Project",
+        "(13:11, 15:20)",
+        [
+            "Cafe Altano",
+            700000850
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Project",
+        "(15:39, 17:11)",
+        [
+            "Cafe Altano",
+            700000850
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:32, 22:57)",
+        [
+            "",
+            700002894
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:32, 23:59)",
+        [
+            "",
+            700003756
+        ]
+    ],
+    [
+        "Stay at Cafe Altano",
+        "(22:54, 23:59)",
+        [
+            "Cafe Altano",
+            700000850
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cask",
+            700008337
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:19)",
+        [
+            "Matto Espresso",
+            700008339
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:55, 15:02)",
+        [
+            "Matto Espresso",
+            700008339
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:41, 17:02)",
+        [
+            "Matto Espresso",
+            700008339
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:55, 19:10)",
+        [
+            "Matto Espresso",
+            700008339
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(19:35, 20:36)",
+        [
+            "Matto Espresso",
+            700008339
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:43, 22:28)",
+        [
+            "Hawa Smoothie",
+            700015136
+        ]
+    ]
+]

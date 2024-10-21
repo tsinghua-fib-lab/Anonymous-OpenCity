@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Over the Moon",
+            700010642
+        ]
+    ],
+    [
+        "Morning workout",
+        "(09:00, 09:56)",
+        [
+            "Dragon Well",
+            700010643
+        ]
+    ],
+    [
+        "Visit a local market or café",
+        "(10:36, 12:01)",
+        [
+            "Blackwood",
+            700007286
+        ]
+    ],
+    [
+        "Lunch with friends or family",
+        "(13:11, 14:39)",
+        [
+            "Blackwood",
+            700007286
+        ]
+    ],
+    [
+        "Afternoon leisure activity",
+        "(15:33, 17:39)",
+        [
+            "Chotto",
+            700004839
+        ]
+    ],
+    [
+        "Dinner and evening catch-up",
+        "(18:41, 19:51)",
+        [
+            "California Wine Merchant",
+            700008807
+        ]
+    ],
+    [
+        "Relax at home",
+        "(20:10, 22:00)",
+        [
+            "Over the Moon",
+            700010642
+        ]
+    ],
+    [
+        "Relax at home",
+        "(21:56, 23:24)",
+        [
+            "Toma Mexican Restaurant",
+            700003075
+        ]
+    ],
+    [
+        "Relax at home",
+        "(23:35, 23:59)",
+        [
+            "Naked Fish Sushi",
+            700002295
+        ]
+    ]
+]

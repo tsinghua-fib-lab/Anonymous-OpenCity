@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Mercer St & Bleecker St",
+            700008134
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:38)",
+        [
+            "CityMD",
+            700004730
+        ]
+    ],
+    [
+        "Go to CityMD",
+        "(11:59, 13:03)",
+        [
+            "CityMD",
+            700004730
+        ]
+    ],
+    [
+        "Engage in a hobby or activity you love, such as reading, painting, or playing a musical instrument.",
+        "(13:51, 15:19)",
+        [
+            "CityMD",
+            700004730
+        ]
+    ],
+    [
+        "Engage in a hobby or activity you love, such as reading, painting, or playing a musical instrument.",
+        "(15:40, 16:55)",
+        [
+            "CityMD",
+            700004730
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:55, 20:28)",
+        [
+            "CityMD",
+            700004730
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 23:59)",
+        [
+            "Los Tacos No.1",
+            700041007
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:01, 23:59)",
+        [
+            "Bleecker Street Bar",
+            700022136
+        ]
+    ]
+]

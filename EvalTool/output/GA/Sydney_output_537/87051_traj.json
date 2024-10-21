@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Casa by Schibello",
+            700008115
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:41)",
+        [
+            "Australian Federal Police (Sydney Airport)",
+            700001481
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 13:51)",
+        [
+            "",
+            700001391
+        ]
+    ],
+    [
+        "Next, you will head to 'Australian Federal Police (Sydney Airport)'.",
+        "(12:23, 14:02)",
+        [
+            "Australian Federal Police (Sydney Airport)",
+            700001481
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:23, 18:39)",
+        [
+            "Veloce",
+            700007904
+        ]
+    ],
+    [
+        "Engage in a hobby (e.g., reading, gaming, or crafting)",
+        "(17:26, 19:04)",
+        [
+            "Australian Federal Police (Sydney Airport)",
+            700001481
+        ]
+    ],
+    [
+        "Stay at Casa by Schibello.",
+        "(19:43, 21:34)",
+        [
+            "Australian Federal Police (Sydney Airport)",
+            700001481
+        ]
+    ],
+    [
+        "Stay at Casa by Schibello.",
+        "(22:01, 23:38)",
+        [
+            "Casa by Schibello",
+            700008115
+        ]
+    ],
+    [
+        "Stay at Casa by Schibello",
+        "(23:25, 23:59)",
+        [
+            "",
+            700010655
+        ]
+    ]
+]

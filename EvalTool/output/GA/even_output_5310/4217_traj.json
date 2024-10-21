@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Just Salad",
+            700007843
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:04)",
+        [
+            "Dunkin'",
+            700020539
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:41, 14:06)",
+        [
+            "Baskin-Robbins",
+            700020537
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:10, 16:39)",
+        [
+            "GiGi Cafe",
+            700004213
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 21:21)",
+        [
+            "USPS",
+            700018454
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(22:09, 23:59)",
+        [
+            "Panera Bread",
+            700006169
+        ]
+    ]
+]

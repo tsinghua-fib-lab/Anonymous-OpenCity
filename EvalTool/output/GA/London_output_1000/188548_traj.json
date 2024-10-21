@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Manchester Estate",
+            700049203
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:13)",
+        [
+            "",
+            700043330
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 15:07)",
+        [
+            "New Kwun Wah",
+            700041554
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:03, 18:08)",
+        [
+            "New Kwun Wah",
+            700041554
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:04, 20:26)",
+        [
+            "The Gaylord",
+            700040977
+        ]
+    ]
+]

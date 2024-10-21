@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030390
+        ]
+    ],
+    [
+        "Engage in Outdoor Activity",
+        "(09:00, 10:37)",
+        [
+            "",
+            700007590
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:14, 16:27)",
+        [
+            "Lincoln Center Theater",
+            700006402
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 16:08)",
+        [
+            "",
+            700018240
+        ]
+    ],
+    [
+        "Personal Project or Hobby Time",
+        "(16:53, 18:43)",
+        [
+            "",
+            700007590
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:33, 19:52)",
+        [
+            "",
+            700030390
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:45, 21:53)",
+        [
+            "",
+            700030390
+        ]
+    ],
+    [
+        "Next activity after completing the current series or movie.",
+        "(22:48, 23:59)",
+        [
+            "",
+            700030390
+        ]
+    ]
+]

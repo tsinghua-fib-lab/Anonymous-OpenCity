@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Morning Routine (10:00 AM - 11:00 AM)",
+        "(10:00, 11:59)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 14:37)",
+        [
+            "Kenneth A. Mercer, MD",
+            700023846
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(15:17, 16:43)",
+        [
+            "Kenneth A. Mercer, MD",
+            700023846
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:28, 22:06)",
+        [
+            "",
+            700022505
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ]
+]

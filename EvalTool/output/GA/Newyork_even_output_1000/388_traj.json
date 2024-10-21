@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014714
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:00, 11:08)",
+        [
+            "",
+            700014714
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:16, 12:46)",
+        [
+            "Citi Bike - Lexington Avenue & East 62nd Street",
+            700016438
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:15, 15:09)",
+        [
+            "Citi Bike - Lexington Avenue & East 62nd Street",
+            700016438
+        ]
+    ],
+    [
+        "Afternoon Relaxation/Reading",
+        "(15:26, 16:53)",
+        [
+            "Citi Bike - Lexington Avenue & East 62nd Street",
+            700016438
+        ]
+    ],
+    [
+        "Afternoon Relaxation/Reading",
+        "(17:27, 18:30)",
+        [
+            "Famous Original Ray's Pizza",
+            700014713
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:59, 23:40)",
+        [
+            "",
+            700014715
+        ]
+    ]
+]

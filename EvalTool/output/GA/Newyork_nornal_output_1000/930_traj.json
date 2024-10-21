@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001372
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(09:00, 10:24)",
+        [
+            "",
+            700027197
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(11:16, 12:55)",
+        [
+            "",
+            700001946
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 16:14)",
+        [
+            "Yoli",
+            700005415
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:52, 16:51)",
+        [
+            "Yoli",
+            700005415
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:00, 18:02)",
+        [
+            "",
+            700001158
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 21:55)",
+        [
+            "Cornerstone Cafe",
+            700004481
+        ]
+    ],
+    [
+        "Evening Wind-down",
+        "(23:30, 23:59)",
+        [
+            "Cornerstone Cafe",
+            700004481
+        ]
+    ]
+]

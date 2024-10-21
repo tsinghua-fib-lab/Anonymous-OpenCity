@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Little Beet",
+            700018164
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:33)",
+        [
+            "",
+            700001738
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:09, 14:34)",
+        [
+            "The Little Beet",
+            700018164
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 19:47)",
+        [
+            "GEOS Languages Plus",
+            700009304
+        ]
+    ],
+    [
+        "You stay at your current place.",
+        "(19:27, 21:13)",
+        [
+            "GEOS Languages Plus",
+            700009304
+        ]
+    ],
+    [
+        "You stay at your current place.",
+        "(21:30, 23:01)",
+        [
+            "The Little Beet",
+            700018164
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:08, 23:59)",
+        [
+            "Vin Sur Vingt",
+            700008457
+        ]
+    ]
+]

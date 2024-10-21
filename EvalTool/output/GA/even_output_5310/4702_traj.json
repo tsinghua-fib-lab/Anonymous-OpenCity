@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700008603
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:56)",
+        [
+            "Capital One",
+            700008604
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:30, 14:50)",
+        [
+            "Aroma Espresso Bar",
+            700006460
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:05, 16:27)",
+        [
+            "Aroma Espresso Bar",
+            700006460
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:01, 18:28)",
+        [
+            "Bank of America",
+            700026185
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:19, 20:38)",
+        [
+            "Citibank",
+            700009316
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 23:59)",
+        [
+            "Pret A Manger",
+            700017445
+        ]
+    ]
+]

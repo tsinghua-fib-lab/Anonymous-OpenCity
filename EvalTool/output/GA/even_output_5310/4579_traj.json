@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020916
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:06)",
+        [
+            "",
+            700020918
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:34, 16:41)",
+        [
+            "SANUKI UDON",
+            700038313
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(15:03, 16:35)",
+        [
+            "SANUKI UDON",
+            700038313
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:54, 21:19)",
+        [
+            "",
+            700020362
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:42, 22:32)",
+        [
+            "",
+            700020371
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "Courant Institute of Mathematical Sciences",
+            700009497
+        ]
+    ]
+]

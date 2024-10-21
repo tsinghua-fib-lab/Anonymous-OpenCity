@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bob's Donuts",
+            700001135
+        ]
+    ],
+    [
+        "Go for a morning run or workout",
+        "(09:00, 09:58)",
+        [
+            "The Cinch Saloon",
+            700004199
+        ]
+    ],
+    [
+        "Shower and get ready for the day",
+        "(11:04, 12:55)",
+        [
+            "The Cinch Saloon",
+            700004199
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:27, 17:17)",
+        [
+            "Fish N Gari",
+            700004189
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(17:58, 18:58)",
+        [
+            "Fish N Gari",
+            700004189
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 22:33)",
+        [
+            "Amélie",
+            700002805
+        ]
+    ],
+    [
+        "Go to One Medical and stay",
+        "(23:53, 23:59)",
+        [
+            "",
+            700000653
+        ]
+    ]
+]

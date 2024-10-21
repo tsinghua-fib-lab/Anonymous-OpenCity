@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700019432
+        ]
+    ],
+    [
+        "Leisure Activity: Read / Relax",
+        "(09:00, 10:37)",
+        [
+            "McDonald's",
+            700004777
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:58, 15:28)",
+        [
+            "99¢ Pizza",
+            700007894
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(17:25, 18:57)",
+        [
+            "99¢ Pizza",
+            700007894
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:32, 21:06)",
+        [
+            "99¢ Pizza",
+            700007894
+        ]
+    ],
+    [
+        "Social Time / Connect with Friends",
+        "(21:33, 23:26)",
+        [
+            "McDonald's",
+            700004777
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(23:30, 23:59)",
+        [
+            "Starbucks",
+            700004184
+        ]
+    ]
+]

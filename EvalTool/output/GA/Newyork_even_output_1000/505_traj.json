@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018225
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:58)",
+        [
+            "Midtown Community Justice Center",
+            700040228
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:30, 16:46)",
+        [
+            "",
+            700018227
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(15:46, 16:56)",
+        [
+            "Matts Grill",
+            700007283
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(17:04, 19:09)",
+        [
+            "Matts Grill",
+            700007283
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:13, 23:50)",
+        [
+            "",
+            700007284
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:50, 23:59)",
+        [
+            "Spiritist Group of New York",
+            700009166
+        ]
+    ]
+]

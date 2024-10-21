@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bay Wheels",
+            700010095
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:50)",
+        [
+            "Bay Wheels",
+            700010095
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:12, 12:50)",
+        [
+            "",
+            700001526
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:32, 14:27)",
+        [
+            "Bay Wheels",
+            700010095
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:09, 18:06)",
+        [
+            "b Patisserie",
+            700010932
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(20:21, 22:52)",
+        [
+            "San Francisco Athletic Club",
+            700004906
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(22:19, 23:59)",
+        [
+            "San Francisco Athletic Club",
+            700004906
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Madina Halal Deli",
+            700039215
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:55)",
+        [
+            "Kavasutra Kava Bar",
+            700011614
+        ]
+    ],
+    [
+        "Leisure Time/Watch TV",
+        "(13:25, 15:01)",
+        [
+            "Kavasutra Kava Bar",
+            700011614
+        ]
+    ],
+    [
+        "Leisure Time/Watch TV",
+        "(15:58, 17:01)",
+        [
+            "Kavasutra Kava Bar",
+            700011614
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:08, 21:56)",
+        [
+            "Madina Halal Deli",
+            700039215
+        ]
+    ],
+    [
+        "Stay at Madina Halal Deli",
+        "(22:14, 23:59)",
+        [
+            "Madina Halal Deli",
+            700039215
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of America",
+            700000527
+        ]
+    ],
+    [
+        "Go for a walk in the local park.",
+        "(10:00, 10:56)",
+        [
+            "",
+            700009839
+        ]
+    ],
+    [
+        "Go for a walk in the local park",
+        "(10:56, 11:53)",
+        [
+            "Bob's Donuts",
+            700001135
+        ]
+    ],
+    [
+        "Engage in a sport or leisure activity (e.g., playing basketball or going for a bike ride).",
+        "(12:00, 13:31)",
+        [
+            "Bob's Donuts",
+            700001135
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 15:24)",
+        [
+            "Bob's Donuts",
+            700001135
+        ]
+    ],
+    [
+        "Engage in a sport or leisure activity from 3:30 pm to 5:00 pm.",
+        "(17:05, 18:59)",
+        [
+            "Kozy Kar",
+            700006027
+        ]
+    ],
+    [
+        "Stay at Clay Medical Pharmacy for reading.",
+        "(19:08, 21:09)",
+        [
+            "",
+            700000658
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:35, 23:59)",
+        [
+            "Donuts & Things",
+            700001125
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020337
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:50)",
+        [
+            "Franchia",
+            700008942
+        ]
+    ],
+    [
+        "Watch a movie or catch up on your favorite TV shows.",
+        "(10:28, 11:56)",
+        [
+            "Franchia",
+            700008942
+        ]
+    ],
+    [
+        "Next activity after lunch",
+        "(12:27, 13:58)",
+        [
+            "Franchia",
+            700008942
+        ]
+    ],
+    [
+        "Watch a movie or catch up on your favorite TV shows.",
+        "(14:48, 16:10)",
+        [
+            "Franchia",
+            700008942
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:07, 22:48)",
+        [
+            "Hamachi 34",
+            700019183
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:41, 23:59)",
+        [
+            "",
+            700019037
+        ]
+    ]
+]

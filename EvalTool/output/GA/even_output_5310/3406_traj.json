@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "M & J",
+            700005347
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:29)",
+        [
+            "The Roost",
+            700010030
+        ]
+    ],
+    [
+        "Household Chores/Errands",
+        "(12:18, 14:02)",
+        [
+            "The Roost",
+            700010030
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:08, 18:41)",
+        [
+            "Dunkin'",
+            700005269
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:40, 23:35)",
+        [
+            "B Cup Café",
+            700015869
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "Citi Bike - East 12th Street & Avenue B",
+            700010613
+        ]
+    ]
+]

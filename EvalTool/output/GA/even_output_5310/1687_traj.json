@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tesla Supercharger",
+            700016580
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(09:00, 10:20)",
+        [
+            "Tesla Supercharger",
+            700016580
+        ]
+    ],
+    [
+        "Explore a Local Event or Market",
+        "(10:50, 12:22)",
+        [
+            "Tesla Supercharger",
+            700016580
+        ]
+    ],
+    [
+        "Explore a Local Event or Market",
+        "(12:57, 14:29)",
+        [
+            "Tesla Supercharger",
+            700016580
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:38, 18:17)",
+        [
+            "Psychedelic Assembly",
+            700033872
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:47, 23:35)",
+        [
+            "",
+            700010342
+        ]
+    ]
+]

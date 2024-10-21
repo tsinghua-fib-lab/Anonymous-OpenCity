@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rite Aid",
+            700003959
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:00)",
+        [
+            "Long Island Dumplings",
+            700040060
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:23, 13:57)",
+        [
+            "Long Island Dumplings",
+            700040060
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:31, 16:09)",
+        [
+            "Long Island Dumplings",
+            700040060
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(16:37, 17:52)",
+        [
+            "Long Island Dumplings",
+            700040060
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(18:20, 19:59)",
+        [
+            "Murray's Bagels",
+            700008975
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(21:00, 23:00)",
+        [
+            "Long Island Dumplings",
+            700040060
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:09, 23:59)",
+        [
+            "Murray's Bagels",
+            700008975
+        ]
+    ]
+]

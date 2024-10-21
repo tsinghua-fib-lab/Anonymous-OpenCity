@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700036187
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:20)",
+        [
+            "",
+            700036188
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:44, 13:55)",
+        [
+            "",
+            700036202
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:07, 16:03)",
+        [
+            "",
+            700036196
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(16:06, 18:09)",
+        [
+            "",
+            700036190
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:05, 20:03)",
+        [
+            "",
+            700036193
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(20:36, 22:27)",
+        [
+            "",
+            700036195
+        ]
+    ],
+    [
+        "Arrange to leave the current place and go to The Village Underground for some entertainment.",
+        "(23:06, 23:59)",
+        [
+            "",
+            700036186
+        ]
+    ]
+]

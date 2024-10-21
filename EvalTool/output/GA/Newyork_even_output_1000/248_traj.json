@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "55 bar",
+            700009678
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:43)",
+        [
+            "The Monster",
+            700015239
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(13:52, 15:22)",
+        [
+            "The Monster",
+            700015239
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:14, 20:19)",
+        [
+            "Boucherie",
+            700030494
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:45, 23:59)",
+        [
+            "Arthur's Tavern",
+            700008983
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:24, 23:59)",
+        [
+            "Two Boots",
+            700030493
+        ]
+    ]
+]

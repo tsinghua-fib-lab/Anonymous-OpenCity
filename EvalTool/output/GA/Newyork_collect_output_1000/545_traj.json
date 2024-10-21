@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:04)",
+        [
+            "",
+            700022519
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Projects",
+        "(14:57, 16:27)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 18:26)",
+        [
+            "",
+            700003053
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:33, 21:04)",
+        [
+            "Seven Sins",
+            700006201
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:33, 23:59)",
+        [
+            "New China",
+            700016574
+        ]
+    ],
+    [
+        "Visit",
+        "(23:45, 23:59)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ]
+]

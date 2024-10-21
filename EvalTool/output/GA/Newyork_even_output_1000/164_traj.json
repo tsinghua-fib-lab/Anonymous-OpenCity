@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "BluePearl",
+            700012258
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:04)",
+        [
+            "",
+            700003062
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:59, 15:47)",
+        [
+            "",
+            700003062
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:53, 17:28)",
+        [
+            "",
+            700020050
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 20:58)",
+        [
+            "ViVi Bubble Tea",
+            700009160
+        ]
+    ],
+    [
+        "Go to Bluestone Lane Coffee",
+        "(20:59, 22:32)",
+        [
+            "Renzo Gracie Brazilian Jiu-Jitsu",
+            700004314
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "",
+            700020044
+        ]
+    ]
+]

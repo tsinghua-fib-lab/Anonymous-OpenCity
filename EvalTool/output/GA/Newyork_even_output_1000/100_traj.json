@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Spaghetti Incident",
+            700010013
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:25)",
+        [
+            "",
+            700024978
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 13:45)",
+        [
+            "bOb Bar",
+            700004118
+        ]
+    ],
+    [
+        "Personal Development",
+        "(13:03, 14:57)",
+        [
+            "bOb Bar",
+            700004118
+        ]
+    ],
+    [
+        "Personal Development",
+        "(15:56, 17:25)",
+        [
+            "bOb Bar",
+            700004118
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:27, 23:07)",
+        [
+            "ViVi Bubble Tea",
+            700009268
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:10, 23:59)",
+        [
+            "El Churro",
+            700017610
+        ]
+    ]
+]

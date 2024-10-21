@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:50)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:42, 16:32)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 21:43)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ],
+    [
+        "Go to Matto Espresso.",
+        "(19:35, 20:52)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Stay at Matto Espresso",
+        "(21:44, 23:10)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ]
+]

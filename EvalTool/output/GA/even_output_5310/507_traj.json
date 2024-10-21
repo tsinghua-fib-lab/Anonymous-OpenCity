@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citibank",
+            700003484
+        ]
+    ],
+    [
+        "Catch Up on Reading or Hobbies",
+        "(09:00, 10:57)",
+        [
+            "Citibank",
+            700003484
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 17:11)",
+        [
+            "Fishbowl",
+            700006315
+        ]
+    ],
+    [
+        "Social Time",
+        "(13:57, 14:51)",
+        [
+            "Fishbowl",
+            700006315
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:07, 17:10)",
+        [
+            "Fishbowl",
+            700006315
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:14, 18:49)",
+        [
+            "PHD Terrace",
+            700006317
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:19, 20:52)",
+        [
+            "Gastro Market",
+            700033674
+        ]
+    ],
+    [
+        "stay in the current place",
+        "(23:07, 23:59)",
+        [
+            "PHD Terrace",
+            700006317
+        ]
+    ]
+]

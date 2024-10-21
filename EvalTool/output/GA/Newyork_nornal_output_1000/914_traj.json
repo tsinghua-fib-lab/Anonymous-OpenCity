@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Link NYC",
+            700020386
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(09:00, 10:39)",
+        [
+            "",
+            700020556
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(11:16, 12:52)",
+        [
+            "Link NYC",
+            700020386
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 16:43)",
+        [
+            "Magnet Theater",
+            700006170
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:52, 17:00)",
+        [
+            "Magnet Theater",
+            700006170
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:00, 18:02)",
+        [
+            "Magnet Theater",
+            700006170
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 21:27)",
+        [
+            "",
+            700018446
+        ]
+    ],
+    [
+        "Evening Wind-down",
+        "(23:30, 23:59)",
+        [
+            "Magnet Theater",
+            700006170
+        ]
+    ]
+]

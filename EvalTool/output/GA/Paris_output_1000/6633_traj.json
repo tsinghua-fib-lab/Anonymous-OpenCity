@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700051853
+        ]
+    ],
+    [
+        "Next activity to engage in is a morning leisure activity like reading a book or light exercise.",
+        "(10:00, 10:54)",
+        [
+            "",
+            700051853
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:51, 11:53)",
+        [
+            "",
+            700032647
+        ]
+    ],
+    [
+        "Next activity to engage in is a morning leisure activity.",
+        "(12:35, 13:50)",
+        [
+            "",
+            700058254
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 15:42)",
+        [
+            "",
+            700051854
+        ]
+    ],
+    [
+        "Go to restaurant",
+        "(17:09, 18:39)",
+        [
+            "",
+            700068316
+        ]
+    ],
+    [
+        "Go to chez Mademoiselle.",
+        "(19:17, 20:54)",
+        [
+            "",
+            700068318
+        ]
+    ],
+    [
+        "Stay at",
+        "(21:50, 23:19)",
+        [
+            "",
+            700051853
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "",
+            700051849
+        ]
+    ]
+]

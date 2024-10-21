@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Park Avenue Sinus & Sleep Center",
+            700017428
+        ]
+    ],
+    [
+        "Next activity",
+        "(10:00, 10:53)",
+        [
+            "Park Avenue Sinus & Sleep Center",
+            700017428
+        ]
+    ],
+    [
+        "Next activity after hobby time",
+        "(11:50, 13:11)",
+        [
+            "Park Avenue Sinus & Sleep Center",
+            700017428
+        ]
+    ],
+    [
+        "Catching up at Park Avenue Sinus & Sleep Center",
+        "(12:59, 14:49)",
+        [
+            "Park Avenue Sinus & Sleep Center",
+            700017428
+        ]
+    ],
+    [
+        "Catching up at Park Avenue Sinus & Sleep Center.",
+        "(14:58, 16:48)",
+        [
+            "Park Avenue Sinus & Sleep Center",
+            700017428
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:23, 18:32)",
+        [
+            "",
+            700019182
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:47, 23:59)",
+        [
+            "",
+            700020327
+        ]
+    ]
+]

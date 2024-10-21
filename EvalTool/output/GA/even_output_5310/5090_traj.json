@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700006014
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:14)",
+        [
+            "",
+            700026444
+        ]
+    ],
+    [
+        "Stay at an unspecified place",
+        "(11:58, 13:34)",
+        [
+            "Robert",
+            700037593
+        ]
+    ],
+    [
+        "Stay at Robert",
+        "(14:16, 15:56)",
+        [
+            "Chase",
+            700020878
+        ]
+    ],
+    [
+        "Stay at Robert",
+        "(16:44, 18:05)",
+        [
+            "Chase",
+            700020878
+        ]
+    ],
+    [
+        "Stay at Robert and enjoy the atmosphere.",
+        "(19:29, 20:55)",
+        [
+            "Robert",
+            700037593
+        ]
+    ],
+    [
+        "Stay at Robert",
+        "(21:16, 23:22)",
+        [
+            "Chase",
+            700020878
+        ]
+    ],
+    [
+        "Stay at Robert",
+        "(22:41, 23:59)",
+        [
+            "Chase",
+            700020878
+        ]
+    ]
+]

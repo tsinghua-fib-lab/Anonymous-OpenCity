@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000128
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:54)",
+        [
+            "",
+            700001522
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:07, 19:00)",
+        [
+            "",
+            700011432
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(16:20, 18:03)",
+        [
+            "",
+            700000128
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:08, 20:13)",
+        [
+            "Mount Vernon Missionary Baptist Church",
+            700000255
+        ]
+    ],
+    [
+        "Stay Longer",
+        "(23:33, 23:59)",
+        [
+            "",
+            700000128
+        ]
+    ]
+]

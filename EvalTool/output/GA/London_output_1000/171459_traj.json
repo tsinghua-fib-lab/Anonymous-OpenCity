@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Go for a walk or engage in a sports activity",
+        "(09:00, 10:30)",
+        [
+            "",
+            700023758
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:57, 12:29)",
+        [
+            "",
+            700078883
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 19:52)",
+        [
+            "",
+            700023754
+        ]
+    ],
+    [
+        "Relax with leisure activities",
+        "(19:54, 22:06)",
+        [
+            "Dolphin Bar & Grill",
+            700026641
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Dolphin Bar & Grill",
+            700026641
+        ]
+    ],
+    [
+        "Go to Tachbrook Estate",
+        "(23:58, 23:59)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ]
+]

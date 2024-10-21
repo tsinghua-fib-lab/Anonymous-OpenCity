@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Gus's Parking",
+            700004768
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:16)",
+        [
+            "",
+            700010627
+        ]
+    ],
+    [
+        "Read a Book or Listen to Music",
+        "(14:11, 15:56)",
+        [
+            "",
+            700000051
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:02, 20:26)",
+        [
+            "",
+            700011030
+        ]
+    ],
+    [
+        "Read a Book or Listen to Music",
+        "(21:35, 23:48)",
+        [
+            "San Francisco SPCA Pet Adoption Center - Mission Campus",
+            700003778
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(23:45, 23:59)",
+        [
+            "San Francisco SPCA Pet Adoption Center - Mission Campus",
+            700003778
+        ]
+    ]
+]

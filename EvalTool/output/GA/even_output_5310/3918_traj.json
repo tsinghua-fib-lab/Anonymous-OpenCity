@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Duane Reade",
+            700011388
+        ]
+    ],
+    [
+        "Go for a walk in the nearby park.",
+        "(10:00, 11:02)",
+        [
+            "Public School 14",
+            700000036
+        ]
+    ],
+    [
+        "Go for a walk in the nearby park.",
+        "(11:26, 12:52)",
+        [
+            "Coletta",
+            700015591
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:52, 18:00)",
+        [
+            "Street Taco",
+            700006239
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 17:26)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 23:59)",
+        [
+            "Dunkin'",
+            700024685
+        ]
+    ],
+    [
+        "Visit Dunkin'.",
+        "(23:25, 23:59)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "ViVi Bubble Tea",
+            700015836
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:14)",
+        [
+            "St. John's University",
+            700015007
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:57, 13:05)",
+        [
+            "",
+            700002566
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:44, 15:21)",
+        [
+            "",
+            700016781
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:12, 18:20)",
+        [
+            "Astor Place Greenmarket",
+            700019443
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 21:42)",
+        [
+            "",
+            700016764
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "",
+            700016764
+        ]
+    ]
+]

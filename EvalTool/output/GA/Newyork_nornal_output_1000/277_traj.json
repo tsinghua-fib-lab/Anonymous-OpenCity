@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Regal E-Walk Stadium 13 & RPX",
+            700006495
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:27)",
+        [
+            "Chick-fil-A",
+            700024311
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:31, 19:33)",
+        [
+            "Chick-fil-A",
+            700024311
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 23:40)",
+        [
+            "Little Italy Pizza",
+            700040449
+        ]
+    ],
+    [
+        "Stay at Regal E-Walk Stadium 13 & RPX for the night.",
+        "(23:59, 23:59)",
+        [
+            "Regal E-Walk Stadium 13 & RPX",
+            700006495
+        ]
+    ]
+]

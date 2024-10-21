@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pil Pil",
+            700011160
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:04)",
+        [
+            "Tozzo",
+            700033561
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 19:25)",
+        [
+            "Lusardi's",
+            700019512
+        ]
+    ],
+    [
+        "Stay at Lusardi's",
+        "(17:32, 19:09)",
+        [
+            "Tozzo",
+            700033561
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(20:05, 22:12)",
+        [
+            "",
+            700020608
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(22:33, 23:59)",
+        [
+            "Pil Pil",
+            700011160
+        ]
+    ]
+]

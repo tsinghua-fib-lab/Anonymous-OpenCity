@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:52)",
+        [
+            "Dante",
+            700021858
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:21, 16:47)",
+        [
+            "Sushi West",
+            700013966
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 17:30)",
+        [
+            "",
+            700001769
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:54, 20:24)",
+        [
+            "Frankies Sputino 570",
+            700005693
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "",
+            700001295
+        ]
+    ]
+]

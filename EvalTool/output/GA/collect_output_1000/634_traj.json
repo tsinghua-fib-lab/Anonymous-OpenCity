@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 09:55)",
+        [
+            "",
+            700030410
+        ]
+    ],
+    [
+        "Engage in a leisure activity, such as watching a movie or playing sports.",
+        "(13:25, 15:49)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "Prepare and plan the upcoming week (review sales goals, tasks, etc.)",
+        "(16:36, 17:55)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "Prepare and plan the upcoming week (review sales goals, tasks, etc.).",
+        "(18:01, 20:01)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "Go to the place for dinner and relaxation",
+        "(20:15, 21:26)",
+        [
+            "",
+            700030399
+        ]
+    ],
+    [
+        "Relax and unwind with dinner and some TV time.",
+        "(22:32, 23:59)",
+        [
+            "",
+            700030405
+        ]
+    ]
+]

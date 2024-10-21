@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Kin Ramen",
+            700037315
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:52)",
+        [
+            "Russian Tea Room",
+            700003571
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:43, 15:05)",
+        [
+            "Zankel Hall",
+            700009119
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:49, 20:31)",
+        [
+            "Russian Tea Room",
+            700003571
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:59)",
+        [
+            "Stern Auditorium",
+            700009117
+        ]
+    ]
+]

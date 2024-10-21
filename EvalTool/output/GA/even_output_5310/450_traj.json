@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Our New Place",
+            700024817
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:52)",
+        [
+            "",
+            700020592
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 17:00)",
+        [
+            "Doc Watson's",
+            700023410
+        ]
+    ],
+    [
+        "Stay at Doc Watson's",
+        "(17:32, 19:08)",
+        [
+            "Tozzo",
+            700033561
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(20:05, 22:14)",
+        [
+            "Our New Place",
+            700024817
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(22:33, 23:59)",
+        [
+            "Our New Place",
+            700024817
+        ]
+    ]
+]

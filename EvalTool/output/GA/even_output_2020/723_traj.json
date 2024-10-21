@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "North Beach Pizza",
+            700000454
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:53)",
+        [
+            "Church Key",
+            700001736
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:20, 12:01)",
+        [
+            "Church Key",
+            700001736
+        ]
+    ],
+    [
+        "Brunch with Friends/Family",
+        "(12:45, 14:10)",
+        [
+            "Gino and Carlo",
+            700004988
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:10, 19:36)",
+        [
+            "The Stinking Rose",
+            700002825
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 19:16)",
+        [
+            "ristorante ideal",
+            700004949
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(19:43, 20:53)",
+        [
+            "North Beach Pizza",
+            700000454
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(21:40, 22:31)",
+        [
+            "North Beach Pizza",
+            700000454
+        ]
+    ],
+    [
+        "Evening Relaxation and TV Time",
+        "(23:24, 23:59)",
+        [
+            "North Beach Pizza",
+            700000454
+        ]
+    ]
+]

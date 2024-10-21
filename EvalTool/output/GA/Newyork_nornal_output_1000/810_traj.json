@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700036375
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:29)",
+        [
+            "",
+            700036377
+        ]
+    ],
+    [
+        "Explore a New Skill or Project",
+        "(15:29, 17:20)",
+        [
+            "Asphalt Green",
+            700014092
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(17:16, 18:51)",
+        [
+            "Asphalt Green",
+            700014092
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:39, 21:10)",
+        [
+            "Asphalt Green",
+            700014092
+        ]
+    ],
+    [
+        "Current place is Asphalt Green, stay longer.",
+        "(21:39, 23:10)",
+        [
+            "Asphalt Green",
+            700014092
+        ]
+    ],
+    [
+        "Next, you will spend time at Asphalt Green.",
+        "(23:25, 23:59)",
+        [
+            "Asphalt Green",
+            700014092
+        ]
+    ]
+]

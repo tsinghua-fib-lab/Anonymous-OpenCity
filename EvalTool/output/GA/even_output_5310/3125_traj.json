@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Allen Street & Hester Street",
+            700007950
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:04)",
+        [
+            "Tiger Bus",
+            700010172
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:38, 17:34)",
+        [
+            "Sobak",
+            700005438
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:32, 16:58)",
+        [
+            "Happy Express Cafe, Inc.",
+            700013754
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:04, 18:07)",
+        [
+            "Bok Yee Buddhist Temple",
+            700017602
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(18:16, 19:50)",
+        [
+            "Bok Yee Buddhist Temple",
+            700017602
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 23:59)",
+        [
+            "Lian Jiang",
+            700005434
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(23:53, 23:59)",
+        [
+            "Citi Bike - Allen Street & Hester Street",
+            700007950
+        ]
+    ]
+]

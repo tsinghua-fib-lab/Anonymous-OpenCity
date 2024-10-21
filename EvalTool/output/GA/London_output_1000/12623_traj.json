@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:09)",
+        [
+            "h.o.m.e",
+            700022487
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:33, 17:10)",
+        [
+            "",
+            700066591
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:31, 20:59)",
+        [
+            "",
+            700066232
+        ]
+    ],
+    [
+        "Spend time watching a movie or binge-watching a series at h.o.m.e.",
+        "(21:05, 22:26)",
+        [
+            "h.o.m.e",
+            700022487
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "h.o.m.e",
+            700022487
+        ]
+    ]
+]

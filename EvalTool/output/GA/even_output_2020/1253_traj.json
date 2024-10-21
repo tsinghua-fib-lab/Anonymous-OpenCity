@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002898
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:08)",
+        [
+            "The Fillmore Street Cafe",
+            700002343
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:33, 12:37)",
+        [
+            "",
+            700005619
+        ]
+    ],
+    [
+        "Outdoor Walk or Sports",
+        "(15:14, 16:37)",
+        [
+            "Scott's Chowder House",
+            700004527
+        ]
+    ],
+    [
+        "Outdoor Walk or Sports",
+        "(17:10, 18:44)",
+        [
+            "",
+            700005615
+        ]
+    ],
+    [
+        "Leisure Activity before Relaxing at Home",
+        "(18:39, 20:18)",
+        [
+            "",
+            700002898
+        ]
+    ],
+    [
+        "Leisure Activity before Relaxing at Home",
+        "(20:05, 21:34)",
+        [
+            "",
+            700005622
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "",
+            700005617
+        ]
+    ]
+]

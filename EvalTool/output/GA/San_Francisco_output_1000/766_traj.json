@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "SVN West",
+            700009489
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:25)",
+        [
+            "Crossroads Pizzeria",
+            700002789
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(11:38, 13:28)",
+        [
+            "",
+            700009516
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(13:38, 15:48)",
+        [
+            "RT Rotisserie",
+            700006137
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:38, 18:43)",
+        [
+            "The Italian Homemade Company",
+            700006012
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:18, 23:59)",
+        [
+            "",
+            700008332
+        ]
+    ]
+]

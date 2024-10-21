@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Blue Dog",
+            700007656
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:19)",
+        [
+            "Stern Auditorium",
+            700009117
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:49, 14:18)",
+        [
+            "Kaplan",
+            700041045
+        ]
+    ],
+    [
+        "Sport Activity",
+        "(18:01, 20:06)",
+        [
+            "Kaplan",
+            700041045
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 22:47)",
+        [
+            "Estiatorio Milos",
+            700006310
+        ]
+    ]
+]

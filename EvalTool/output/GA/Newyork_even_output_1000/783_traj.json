@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Phillips Family Health Center",
+            700009022
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:01)",
+        [
+            "Park Bar",
+            700021154
+        ]
+    ],
+    [
+        "Stay at Park Bar.",
+        "(12:01, 13:23)",
+        [
+            "",
+            700005795
+        ]
+    ],
+    [
+        "Stay at Park Bar",
+        "(13:28, 15:02)",
+        [
+            "Barn Joo",
+            700016100
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:29, 16:57)",
+        [
+            "",
+            700005795
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:56, 20:17)",
+        [
+            "",
+            700010537
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "Van Leeuwen",
+            700033962
+        ]
+    ]
+]

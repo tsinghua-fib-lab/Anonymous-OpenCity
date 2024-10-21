@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Amorino",
+            700024039
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:52)",
+        [
+            "The Beef",
+            700065458
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:27, 13:04)",
+        [
+            "The Beef",
+            700065458
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:04, 14:31)",
+        [
+            "The Beef",
+            700065458
+        ]
+    ],
+    [
+        "Afternoon Sports Activity",
+        "(15:17, 17:05)",
+        [
+            "The Beef",
+            700065458
+        ]
+    ],
+    [
+        "Afternoon Sports Activity",
+        "(16:53, 18:07)",
+        [
+            "Pharmacie Bénad",
+            700002737
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:41, 22:15)",
+        [
+            "",
+            700066138
+        ]
+    ],
+    [
+        "Next Place After Leisure Time",
+        "(23:37, 23:59)",
+        [
+            "",
+            700066137
+        ]
+    ]
+]

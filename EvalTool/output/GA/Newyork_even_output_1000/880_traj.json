@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rebel Coffee",
+            700014421
+        ]
+    ],
+    [
+        "next activity based on plan",
+        "(10:00, 10:58)",
+        [
+            "Little Italy Pizza",
+            700024873
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(11:15, 12:54)",
+        [
+            "Little Italy Pizza",
+            700024873
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:01, 18:46)",
+        [
+            "",
+            700040421
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(14:37, 16:31)",
+        [
+            "Little Italy Pizza",
+            700024873
+        ]
+    ],
+    [
+        "Prepare and have lunch.",
+        "(16:36, 18:05)",
+        [
+            "Little Italy Pizza",
+            700024873
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 19:01)",
+        [
+            "Yia Yia's Homemade Greek Food",
+            700021866
+        ]
+    ],
+    [
+        "Go to Chipotle; Prepare and have dinner.",
+        "(23:39, 23:59)",
+        [
+            "Chipotle",
+            700017949
+        ]
+    ]
+]

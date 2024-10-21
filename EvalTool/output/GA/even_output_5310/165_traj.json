@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000843
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:20)",
+        [
+            "Weill Cornell Medical College",
+            700000029
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:36, 15:54)",
+        [
+            "Weill Cornell Medical College",
+            700000029
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(14:49, 15:56)",
+        [
+            "Weill Cornell Medical College",
+            700000029
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:07, 18:11)",
+        [
+            "",
+            700038179
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:26, 23:59)",
+        [
+            "Murphy's Law",
+            700035436
+        ]
+    ]
+]

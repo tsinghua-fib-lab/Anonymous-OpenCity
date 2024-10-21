@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Village Square Pizza",
+            700022914
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:26)",
+        [
+            "Hanoi House",
+            700010849
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:55, 20:27)",
+        [
+            "Please Don't Tell",
+            700008783
+        ]
+    ],
+    [
+        "Outdoor Time",
+        "(17:12, 19:03)",
+        [
+            "Hanoi House",
+            700010849
+        ]
+    ],
+    [
+        "Dinner and Prepare for the Week",
+        "(19:35, 20:55)",
+        [
+            "Hanoi House",
+            700010849
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(22:03, 23:59)",
+        [
+            "Hanoi House",
+            700010849
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(23:54, 23:59)",
+        [
+            "Hanoi House",
+            700010849
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Esquire Pharmacy",
+            700026187
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:01)",
+        [
+            "Esquire Pharmacy",
+            700026187
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 18:18)",
+        [
+            "Institute for Collaborative Education",
+            700000285
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:24, 20:46)",
+        [
+            "Citi Bike - 1st Avenue & East 15th Street",
+            700007924
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:54, 22:15)",
+        [
+            "Bagel Boss",
+            700006701
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:56, 23:59)",
+        [
+            "Citi Bike",
+            700023925
+        ]
+    ]
+]

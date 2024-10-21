@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "USPS",
+            700005990
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(09:00, 10:32)",
+        [
+            "USPS",
+            700005990
+        ]
+    ],
+    [
+        "Next activity after Leisure Reading or Hobby Time",
+        "(10:31, 12:06)",
+        [
+            "Eli's Night Shift",
+            700019740
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:21, 18:10)",
+        [
+            "Eli's Night Shift",
+            700019740
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:52, 19:13)",
+        [
+            "Chopt",
+            700017446
+        ]
+    ],
+    [
+        "Next activity after Relaxing Evening.",
+        "(19:22, 22:00)",
+        [
+            "",
+            700000948
+        ]
+    ],
+    [
+        "Stay in the current place for relaxation.",
+        "(22:35, 23:37)",
+        [
+            "USPS",
+            700005990
+        ]
+    ]
+]

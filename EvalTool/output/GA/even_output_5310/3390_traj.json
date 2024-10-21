@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700021863
+        ]
+    ],
+    [
+        "Stay at the postal relay box.",
+        "(10:00, 12:28)",
+        [
+            "",
+            700021863
+        ]
+    ],
+    [
+        "You stay at the postal relay box.",
+        "(12:15, 13:20)",
+        [
+            "Citi Bike - Rivington Street & Ridge Street",
+            700008171
+        ]
+    ],
+    [
+        "You stay at the postal relay box.",
+        "(13:33, 15:06)",
+        [
+            "Citi Bike - Rivington Street & Ridge Street",
+            700008171
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 20:08)",
+        [
+            "Cooke School and Institute Lower School",
+            700006429
+        ]
+    ],
+    [
+        "Access to a convenient bike rental.",
+        "(17:49, 20:28)",
+        [
+            "Citi Bike - E 2 St & Avenue C",
+            700008032
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:35, 23:39)",
+        [
+            "",
+            700001423
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:59)",
+        [
+            "The Francis Kite Club",
+            700016984
+        ]
+    ]
+]

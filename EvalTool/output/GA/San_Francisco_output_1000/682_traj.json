@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000636
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:01)",
+        [
+            "Clay Medical Pharmacy",
+            700001072
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:04, 16:46)",
+        [
+            "Tin How Temple",
+            700002761
+        ]
+    ],
+    [
+        "Social Time/Leisure Activities",
+        "(20:51, 22:26)",
+        [
+            "Tin How Temple",
+            700002761
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:57, 23:59)",
+        [
+            "Hunan House",
+            700007467
+        ]
+    ]
+]

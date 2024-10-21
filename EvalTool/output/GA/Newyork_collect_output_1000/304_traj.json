@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Read or Study",
+        "(10:00, 11:26)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill.",
+        "(12:07, 13:32)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:05, 17:57)",
+        [
+            "",
+            700022517
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:16, 23:20)",
+        [
+            "",
+            700001774
+        ]
+    ]
+]

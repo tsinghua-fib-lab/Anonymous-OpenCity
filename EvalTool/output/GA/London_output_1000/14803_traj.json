@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 09:57)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Stay at Dragon Court",
+        "(10:40, 11:57)",
+        [
+            "",
+            700063392
+        ]
+    ],
+    [
+        "Stay at Dragon Court",
+        "(12:49, 13:53)",
+        [
+            "",
+            700001228
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(14:22, 16:12)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Continue Reading or Hobbies",
+        "(16:44, 19:24)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:44, 21:15)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:17, 23:59)",
+        [
+            "Newton Street",
+            700020796
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ]
+]

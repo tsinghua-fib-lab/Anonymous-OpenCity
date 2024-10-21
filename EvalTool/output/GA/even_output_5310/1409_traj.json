@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Halpern Pharmacy",
+            700017916
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:19)",
+        [
+            "McDonald's",
+            700013550
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 15:10)",
+        [
+            "",
+            700022518
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:22, 16:39)",
+        [
+            "Orion Diner & Grill",
+            700014321
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 21:11)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:22, 23:59)",
+        [
+            "Kenneth A. Mercer, MD",
+            700023846
+        ]
+    ]
+]

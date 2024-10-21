@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 59th Street & Madison Avenue",
+            700018855
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:04)",
+        [
+            "Duane Reade",
+            700018856
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 18:32)",
+        [
+            "",
+            700039320
+        ]
+    ],
+    [
+        "Catching Up on a Book or Movie",
+        "(18:38, 20:03)",
+        [
+            "Duane Reade",
+            700018856
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:13, 23:39)",
+        [
+            "",
+            700039319
+        ]
+    ]
+]

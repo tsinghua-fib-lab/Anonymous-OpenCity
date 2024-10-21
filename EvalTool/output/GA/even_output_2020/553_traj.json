@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Lost Church",
+            700012556
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:18)",
+        [
+            "Pat's Cafe",
+            700012880
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:13, 16:25)",
+        [
+            "Cilantro SF Taqueria",
+            700007485
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 18:40)",
+        [
+            "Pizzeria & Grill",
+            700004977
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:11, 21:29)",
+        [
+            "",
+            700000623
+        ]
+    ],
+    [
+        "Watch a Movie",
+        "(19:29, 22:06)",
+        [
+            "The Lost Church",
+            700012556
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:35, 23:17)",
+        [
+            "The Lost Church",
+            700012556
+        ]
+    ]
+]

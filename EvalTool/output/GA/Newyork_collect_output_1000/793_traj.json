@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:21, 17:11)",
+        [
+            "",
+            700018138
+        ]
+    ],
+    [
+        "prepare dinner and wind down",
+        "(20:43, 22:05)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill",
+        "(22:21, 23:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ]
+]

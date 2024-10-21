@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Villa Berulia",
+            700006407
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:42)",
+        [
+            "Integrated Aesthetic Dentistry",
+            700006406
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 16:55)",
+        [
+            "",
+            700020337
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:50, 19:00)",
+        [
+            "Villa Berulia",
+            700006407
+        ]
+    ],
+    [
+        "Next activity after dinner.",
+        "(19:21, 20:54)",
+        [
+            "Villa Berulia",
+            700006407
+        ]
+    ],
+    [
+        "Stay at current place.",
+        "(21:53, 23:04)",
+        [
+            "Villa Berulia",
+            700006407
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "",
+            700021673
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Joe's Shanghai",
+            700019733
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:12)",
+        [
+            "OS NYC",
+            700017146
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 16:58)",
+        [
+            "",
+            700037288
+        ]
+    ],
+    [
+        "Personal Development",
+        "(13:03, 15:07)",
+        [
+            "OS NYC",
+            700017146
+        ]
+    ],
+    [
+        "Personal Development",
+        "(15:56, 17:17)",
+        [
+            "Joe's Shanghai",
+            700019733
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:27, 23:29)",
+        [
+            "Shinsen Sushi Izakaya & Bar",
+            700019732
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:10, 23:59)",
+        [
+            "Bake Culture",
+            700005424
+        ]
+    ]
+]

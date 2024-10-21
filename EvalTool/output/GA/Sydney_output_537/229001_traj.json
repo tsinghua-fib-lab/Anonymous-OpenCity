@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Aquarium Wharf",
+            700010106
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:28)",
+        [
+            "",
+            700025865
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:40, 18:15)",
+        [
+            "Aquarium Wharf",
+            700010106
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(18:29, 19:54)",
+        [
+            "Aquarium Wharf",
+            700010106
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:53, 21:23)",
+        [
+            "Aquarium Wharf",
+            700010106
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:13, 23:35)",
+        [
+            "",
+            700022567
+        ]
+    ]
+]

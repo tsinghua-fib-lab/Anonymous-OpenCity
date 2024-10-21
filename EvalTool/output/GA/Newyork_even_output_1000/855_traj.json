@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700012159
+        ]
+    ],
+    [
+        "Exercise or outdoor activity",
+        "(10:00, 11:01)",
+        [
+            "",
+            700012157
+        ]
+    ],
+    [
+        "Read or engage in a hobby",
+        "(11:21, 12:58)",
+        [
+            "",
+            700038505
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:52, 18:49)",
+        [
+            "Lenox Health Greenwich Village",
+            700000262
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 22:12)",
+        [
+            "Sushi Para 88",
+            700015841
+        ]
+    ],
+    [
+        "Read or engage in a hobby",
+        "(23:36, 23:59)",
+        [
+            "Chase",
+            700003957
+        ]
+    ]
+]

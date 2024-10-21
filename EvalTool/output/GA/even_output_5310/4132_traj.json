@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Caravan of Dreams",
+            700009031
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:01)",
+        [
+            "",
+            700020176
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:06, 20:38)",
+        [
+            "Citi Bike - 2nd Avenue & East 6th Street",
+            700020180
+        ]
+    ],
+    [
+        "Wind down the day with some light reading or meditation.",
+        "(20:15, 21:58)",
+        [
+            "Citi Bike - 2nd Avenue & East 6th Street",
+            700020180
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:59)",
+        [
+            "Hunan Slurp",
+            700014417
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "Raiz",
+            700004862
+        ]
+    ]
+]

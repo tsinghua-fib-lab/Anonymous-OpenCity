@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700032795
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:10)",
+        [
+            "Les Gastropodes",
+            700024952
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(14:04, 16:41)",
+        [
+            "Les Gastropodes",
+            700024952
+        ]
+    ],
+    [
+        "Socialize with friends or family",
+        "(17:24, 19:04)",
+        [
+            "Les Gastropodes",
+            700024952
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 22:34)",
+        [
+            "Le Relais des Brocs",
+            700032814
+        ]
+    ],
+    [
+        "Situation_5",
+        "(22:46, 23:59)",
+        [
+            "Le Relais des Brocs",
+            700032814
+        ]
+    ],
+    [
+        "Go to La Fontaine",
+        "(23:47, 23:59)",
+        [
+            "MPbe01",
+            700035382
+        ]
+    ]
+]

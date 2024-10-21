@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "L'ardoise Bistro",
+            700001889
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:35)",
+        [
+            "The Detour",
+            700006931
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:01, 12:39)",
+        [
+            "Peet's Coffee",
+            700000876
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:25, 17:28)",
+        [
+            "Eiji",
+            700008573
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 22:18)",
+        [
+            "Barry's Bootcamp",
+            700006311
+        ]
+    ]
+]

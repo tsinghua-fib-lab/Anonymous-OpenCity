@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010266
+        ]
+    ],
+    [
+        "Breakfast at home.",
+        "(10:00, 11:10)",
+        [
+            "",
+            700001437
+        ]
+    ],
+    [
+        "Go for a mid-morning walk or light jog in the park",
+        "(11:55, 13:02)",
+        [
+            "San Francisco Federal Credit Union",
+            700010651
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 17:38)",
+        [
+            "",
+            700010224
+        ]
+    ],
+    [
+        "Spend time at home",
+        "(17:27, 19:02)",
+        [
+            "",
+            700010668
+        ]
+    ],
+    [
+        "Spend time at home",
+        "(19:19, 20:41)",
+        [
+            "",
+            700010266
+        ]
+    ],
+    [
+        "Visit Central Gardens",
+        "(21:23, 22:47)",
+        [
+            "Central Gardens",
+            700002143
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "",
+            700005702
+        ]
+    ]
+]

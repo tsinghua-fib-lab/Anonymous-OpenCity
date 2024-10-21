@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Urban Curry",
+            700002079
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:01)",
+        [
+            "Specs Bar",
+            700000427
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(11:02, 13:08)",
+        [
+            "Specs Bar",
+            700000427
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(13:20, 14:23)",
+        [
+            "Specs Bar",
+            700000427
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:29, 15:59)",
+        [
+            "Specs Bar",
+            700000427
+        ]
+    ],
+    [
+        "Engage in a leisure activity.",
+        "(16:24, 17:49)",
+        [
+            "Urban Curry",
+            700002079
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:16, 23:23)",
+        [
+            "",
+            700004179
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "Bow Bow Cocktails",
+            700004314
+        ]
+    ]
+]

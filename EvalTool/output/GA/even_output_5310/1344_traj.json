@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700023451
+        ]
+    ],
+    [
+        "stay",
+        "(09:00, 10:04)",
+        [
+            "",
+            700002952
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:52, 11:53)",
+        [
+            "Montessori Flatiron",
+            700014331
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:44, 16:40)",
+        [
+            "Pret A Manger",
+            700017255
+        ]
+    ],
+    [
+        "Stay and continue leisure reading.",
+        "(17:14, 18:56)",
+        [
+            "Pret A Manger",
+            700017255
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 20:49)",
+        [
+            "Veggie Grill",
+            700009210
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:54, 23:59)",
+        [
+            "Lenwich",
+            700017257
+        ]
+    ]
+]

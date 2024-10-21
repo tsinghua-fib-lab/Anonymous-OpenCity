@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002104
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:24)",
+        [
+            "Il Brigante",
+            700009779
+        ]
+    ],
+    [
+        "You stay at Il Brigante",
+        "(12:10, 13:45)",
+        [
+            "Il Brigante",
+            700009779
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:27, 16:54)",
+        [
+            "Fresh Salt",
+            700009193
+        ]
+    ],
+    [
+        "Attend a Sporting Event",
+        "(16:55, 17:54)",
+        [
+            "Fresh Salt",
+            700009193
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:50, 20:24)",
+        [
+            "",
+            700035053
+        ]
+    ],
+    [
+        "Stay at Il Brigante",
+        "(23:40, 23:59)",
+        [
+            "Il Brigante",
+            700009779
+        ]
+    ]
+]

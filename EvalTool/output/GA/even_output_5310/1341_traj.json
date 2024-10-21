@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rooftop Bar",
+            700009131
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:05)",
+        [
+            "Rooftop Bar",
+            700009131
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:52, 18:01)",
+        [
+            "Bravo Pizza",
+            700018122
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:15, 17:40)",
+        [
+            "MoMo",
+            700018125
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:44, 22:25)",
+        [
+            "Farmers & the Fish",
+            700018124
+        ]
+    ],
+    [
+        "Relax at current place",
+        "(23:50, 23:59)",
+        [
+            "Union Square Cafe",
+            700018126
+        ]
+    ]
+]

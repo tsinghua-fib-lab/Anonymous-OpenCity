@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ralph's restaurant",
+            700013818
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the nearby park",
+        "(10:00, 11:10)",
+        [
+            "",
+            700057925
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the nearby park",
+        "(11:06, 12:58)",
+        [
+            "",
+            700054135
+        ]
+    ],
+    [
+        "Stay at Les Galeries",
+        "(14:05, 15:27)",
+        [
+            "",
+            700057924
+        ]
+    ],
+    [
+        "Explore a local art exhibit or museum",
+        "(16:19, 17:55)",
+        [
+            "Ralph's restaurant",
+            700013818
+        ]
+    ],
+    [
+        "Stay at Ralph's restaurant",
+        "(18:09, 19:40)",
+        [
+            "Saint-Germain-des-Prés",
+            700044067
+        ]
+    ],
+    [
+        "Stay at Ralph's restaurant.",
+        "(19:48, 21:05)",
+        [
+            "Saint-Germain-des-Prés",
+            700044067
+        ]
+    ],
+    [
+        "Stay at Ralph's restaurant.",
+        "(21:02, 23:10)",
+        [
+            "",
+            700057935
+        ]
+    ],
+    [
+        "Stay at Ralph's restaurant",
+        "(23:37, 23:59)",
+        [
+            "",
+            700057926
+        ]
+    ]
+]

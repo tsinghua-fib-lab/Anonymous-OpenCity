@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ellie's",
+            700021791
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:09)",
+        [
+            "Ellie's",
+            700021791
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:11, 12:08)",
+        [
+            "San Matteo Pizzeria e Cucina",
+            700015199
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 15:12)",
+        [
+            "",
+            700020625
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 19:41)",
+        [
+            "San Matteo Pizzeria e Cucina",
+            700015199
+        ]
+    ],
+    [
+        "Evening Leisure Time",
+        "(20:40, 22:08)",
+        [
+            "Hutch and Waldo",
+            700029521
+        ]
+    ],
+    [
+        "Evening Leisure Time",
+        "(22:06, 23:27)",
+        [
+            "Anita La Mamma del Gelato",
+            700024251
+        ]
+    ],
+    [
+        "Evening Leisure Time",
+        "(23:35, 23:59)",
+        [
+            "San Matteo Pizzeria e Cucina",
+            700015199
+        ]
+    ]
+]

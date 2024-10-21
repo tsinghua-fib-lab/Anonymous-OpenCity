@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - West 11th Street & 6th Avenue",
+            700008195
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:04)",
+        [
+            "Chipotle",
+            700014354
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:06, 19:07)",
+        [
+            "Chipotle",
+            700014354
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:44, 18:26)",
+        [
+            "Pinkberry",
+            700018157
+        ]
+    ],
+    [
+        "Wind Down and Self-Care",
+        "(21:10, 22:44)",
+        [
+            "Pinkberry",
+            700018157
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "",
+            700020040
+        ]
+    ]
+]

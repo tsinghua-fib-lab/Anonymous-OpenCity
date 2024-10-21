@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Left Door",
+            700013631
+        ]
+    ],
+    [
+        "Go for a walk or do some light exercise in the park.",
+        "(09:00, 10:05)",
+        [
+            "Wildseed",
+            700010626
+        ]
+    ],
+    [
+        "Hobby or creative activity",
+        "(10:31, 11:52)",
+        [
+            "Wildseed",
+            700010626
+        ]
+    ],
+    [
+        "Hobby or creative activity",
+        "(12:15, 13:35)",
+        [
+            "Wildseed",
+            700010626
+        ]
+    ],
+    [
+        "Visit friends or family for a casual get-together or game afternoon.",
+        "(13:59, 15:35)",
+        [
+            "Wildseed",
+            700010626
+        ]
+    ],
+    [
+        "Visit friends or family for a casual get-together or game afternoon.",
+        "(15:57, 16:51)",
+        [
+            "Wildseed",
+            700010626
+        ]
+    ],
+    [
+        "Stay at Wildseed.",
+        "(16:57, 18:07)",
+        [
+            "Wildseed",
+            700010626
+        ]
+    ],
+    [
+        "Stay at Wildseed.",
+        "(18:24, 20:10)",
+        [
+            "Left Door",
+            700013631
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 22:27)",
+        [
+            "",
+            700014101
+        ]
+    ]
+]

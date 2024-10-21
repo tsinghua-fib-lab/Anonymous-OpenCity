@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Kinara Fusion Kitchen",
+            700001023
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(09:00, 10:00)",
+        [
+            "Kinara Fusion Kitchen",
+            700001023
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:09, 13:17)",
+        [
+            "Tower 737 Parking Garage",
+            700013909
+        ]
+    ],
+    [
+        "Lunch Preparation & Eating",
+        "(12:01, 14:03)",
+        [
+            "Kinara Fusion Kitchen",
+            700001023
+        ]
+    ],
+    [
+        "Lunch Preparation & Eating",
+        "(14:45, 15:53)",
+        [
+            "Kinara Fusion Kitchen",
+            700001023
+        ]
+    ],
+    [
+        "Leisure Activity/Reading",
+        "(16:04, 17:55)",
+        [
+            "Kinara Fusion Kitchen",
+            700001023
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:32, 20:11)",
+        [
+            "Mensho Ramen",
+            700005460
+        ]
+    ],
+    [
+        "Prepare Dinner & Wind Down",
+        "(22:44, 23:59)",
+        [
+            "Kinara Fusion Kitchen",
+            700001023
+        ]
+    ]
+]

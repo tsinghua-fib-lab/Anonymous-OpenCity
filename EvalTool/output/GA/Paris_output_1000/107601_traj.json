@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bistro Le Centenaire",
+            700023812
+        ]
+    ],
+    [
+        "After breakfast, enjoy a walk or some light exercise.",
+        "(09:00, 10:33)",
+        [
+            "",
+            700045642
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:46, 16:21)",
+        [
+            "",
+            700048903
+        ]
+    ],
+    [
+        "Go for a leisurely walk or light exercise",
+        "(17:11, 18:33)",
+        [
+            "Sandwicherie",
+            700067774
+        ]
+    ],
+    [
+        "Go for a leisurely walk or light exercise.",
+        "(19:16, 20:53)",
+        [
+            "Sandwicherie",
+            700067774
+        ]
+    ],
+    [
+        "go for dessert",
+        "(21:20, 22:35)",
+        [
+            "",
+            700068611
+        ]
+    ],
+    [
+        "Stay at Bistro Le Centenaire and relax with dessert.",
+        "(23:25, 23:59)",
+        [
+            "Bistro Le Centenaire",
+            700023812
+        ]
+    ]
+]

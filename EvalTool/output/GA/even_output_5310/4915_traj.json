@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citibank",
+            700010765
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 09:54)",
+        [
+            "Citi Bike - 1st Avenue & East 15th Street",
+            700007924
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:01, 12:06)",
+        [
+            "Citi Bike - 1st Avenue & East 15th Street",
+            700007924
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:37, 18:10)",
+        [
+            "CVS Pharmacy",
+            700004181
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 19:47)",
+        [
+            "Panda Express",
+            700005924
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:12, 23:59)",
+        [
+            "Mee",
+            700011612
+        ]
+    ]
+]

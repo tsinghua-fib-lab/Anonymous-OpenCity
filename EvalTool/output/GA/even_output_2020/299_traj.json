@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001241
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:57)",
+        [
+            "",
+            700008288
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:17, 13:43)",
+        [
+            "Kui Shin Bo 2",
+            700004973
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(13:39, 15:18)",
+        [
+            "Kui Shin Bo 2",
+            700004973
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(15:28, 17:02)",
+        [
+            "Kui Shin Bo 2",
+            700004973
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 19:32)",
+        [
+            "",
+            700013443
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "Dim Sum Club",
+            700004854
+        ]
+    ]
+]

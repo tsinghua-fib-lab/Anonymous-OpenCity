@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001828
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:40)",
+        [
+            "Tompkins Square Bagels",
+            700008973
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:27, 14:12)",
+        [
+            "",
+            700002498
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:19, 19:06)",
+        [
+            "",
+            700002773
+        ]
+    ],
+    [
+        "Social Time",
+        "(19:21, 20:57)",
+        [
+            "",
+            700001828
+        ]
+    ],
+    [
+        "Spend time at Tompkins Square Bagels",
+        "(21:10, 22:34)",
+        [
+            "Tompkins Square Bagels",
+            700008973
+        ]
+    ],
+    [
+        "Spend time at Tompkins Square Bagels",
+        "(23:24, 23:59)",
+        [
+            "Tompkins Square Bagels",
+            700008973
+        ]
+    ]
+]

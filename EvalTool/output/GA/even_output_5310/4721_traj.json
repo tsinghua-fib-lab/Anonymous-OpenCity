@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001822
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:14)",
+        [
+            "",
+            700026656
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:08, 19:06)",
+        [
+            "",
+            700026656
+        ]
+    ],
+    [
+        "Watch a movie and enjoy some snacks before settling in for the night.",
+        "(21:27, 23:03)",
+        [
+            "Aria West Village",
+            700014442
+        ]
+    ],
+    [
+        "Go to sleep.",
+        "(23:55, 23:59)",
+        [
+            "Aria West Village",
+            700014442
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700024802
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:44)",
+        [
+            "Miraj Healthy Grill",
+            700015193
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(14:05, 16:04)",
+        [
+            "Miraj Healthy Grill",
+            700015193
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(16:00, 18:05)",
+        [
+            "Miraj Healthy Grill",
+            700015193
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(18:07, 20:14)",
+        [
+            "Miraj Healthy Grill",
+            700015193
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:03, 23:59)",
+        [
+            "",
+            700024802
+        ]
+    ]
+]

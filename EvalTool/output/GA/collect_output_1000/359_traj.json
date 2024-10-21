@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030400
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:08)",
+        [
+            "Gotham Café",
+            700016395
+        ]
+    ],
+    [
+        "Continue Outdoor Activity",
+        "(11:44, 13:17)",
+        [
+            "Gotham Café",
+            700016395
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:46, 18:50)",
+        [
+            "Capital One",
+            700016396
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:32, 22:19)",
+        [
+            "",
+            700002311
+        ]
+    ],
+    [
+        "Continue Relaxation and Entertainment",
+        "(22:35, 23:51)",
+        [
+            "",
+            700030400
+        ]
+    ]
+]

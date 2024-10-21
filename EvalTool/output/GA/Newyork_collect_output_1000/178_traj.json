@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:25)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:15, 13:02)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Meet up with friends or family for a casual game or engage in an outdoor activity like cycling or sports.",
+        "(16:58, 18:05)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Prepare and enjoy a relaxed lunch, perhaps trying out a new recipe or cooking with family.",
+        "(18:02, 20:09)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Spend time at Mughlai",
+        "(20:40, 22:49)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Sleep at Mughlai",
+        "(23:01, 23:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

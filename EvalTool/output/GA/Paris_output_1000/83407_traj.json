@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700057304
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:03)",
+        [
+            "LaboFabrik",
+            700056284
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 15:47)",
+        [
+            "",
+            700057304
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:15, 20:06)",
+        [
+            "LaboFabrik",
+            700056284
+        ]
+    ],
+    [
+        "Continue the evening by staying at LaboFabrik.",
+        "(20:11, 21:46)",
+        [
+            "LaboFabrik",
+            700056284
+        ]
+    ],
+    [
+        "Stay at LaboFabrik.",
+        "(22:15, 23:40)",
+        [
+            "LaboFabrik",
+            700056284
+        ]
+    ],
+    [
+        "Stay at LaboFabrik",
+        "(23:51, 23:59)",
+        [
+            "LaboFabrik",
+            700056284
+        ]
+    ]
+]

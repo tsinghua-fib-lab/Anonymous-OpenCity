@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pamina dolci & gelato",
+            700005687
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:00)",
+        [
+            "CVS Pharmacy",
+            700012248
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:22, 18:11)",
+        [
+            "BLT Burger",
+            700008870
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:37, 23:59)",
+        [
+            "Rite Aid",
+            700003959
+        ]
+    ]
+]

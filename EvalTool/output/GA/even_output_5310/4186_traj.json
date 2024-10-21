@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Baar Baar",
+            700008538
+        ]
+    ],
+    [
+        "Next activity: Outdoor Activity",
+        "(09:00, 10:38)",
+        [
+            "Baar Baar",
+            700008538
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:47, 14:10)",
+        [
+            "",
+            700002263
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 18:41)",
+        [
+            "Hare Krishna Temple",
+            700007338
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:36, 20:07)",
+        [
+            "Hare Krishna Temple",
+            700007338
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:47, 23:59)",
+        [
+            "",
+            700040519
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:11, 23:28)",
+        [
+            "",
+            700001833
+        ]
+    ]
+]

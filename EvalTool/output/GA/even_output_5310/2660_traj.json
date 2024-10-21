@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bluestone Lane Coffee",
+            700007776
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:05)",
+        [
+            "Bravo Pizza",
+            700005836
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:24, 16:56)",
+        [
+            "Bravo Pizza",
+            700005836
+        ]
+    ],
+    [
+        "Cultural Outing",
+        "(17:05, 19:04)",
+        [
+            "Bravo Pizza",
+            700005836
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 23:17)",
+        [
+            "Andaz",
+            700003536
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:59)",
+        [
+            "",
+            700001134
+        ]
+    ]
+]

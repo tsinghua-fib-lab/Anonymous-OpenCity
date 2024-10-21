@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700023299
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:42)",
+        [
+            "",
+            700022519
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:06, 13:00)",
+        [
+            "Harris Street",
+            700000196
+        ]
+    ],
+    [
+        "Leisure Activity / Hobby",
+        "(13:16, 15:36)",
+        [
+            "Harris Street",
+            700000196
+        ]
+    ],
+    [
+        "Watch a Sports Game",
+        "(16:06, 17:58)",
+        [
+            "Harris Street",
+            700000196
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:15, 22:21)",
+        [
+            "",
+            700013295
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:54, 23:59)",
+        [
+            "Social Brew Cafe",
+            700007705
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "PNY",
+            700026728
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:10)",
+        [
+            "Riviera Fuga",
+            700067773
+        ]
+    ],
+    [
+        "Go to Riviera Fuga for a meal.",
+        "(11:29, 13:08)",
+        [
+            "Riviera Fuga",
+            700067773
+        ]
+    ],
+    [
+        "Visit Maxence for a meal",
+        "(13:30, 15:25)",
+        [
+            "",
+            700073300
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:27, 18:26)",
+        [
+            "PNY",
+            700026728
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 22:03)",
+        [
+            "Déchèterie Paris VII Invalides",
+            700071646
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:23, 23:59)",
+        [
+            "",
+            700023825
+        ]
+    ]
+]

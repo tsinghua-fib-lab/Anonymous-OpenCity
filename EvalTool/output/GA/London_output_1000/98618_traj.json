@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:06)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:34, 12:56)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:47, 15:07)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 20:16)",
+        [
+            "",
+            700053204
+        ]
+    ],
+    [
+        "Wawa",
+        "(20:33, 22:13)",
+        [
+            "",
+            700058423
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:55, 23:59)",
+        [
+            "",
+            700024475
+        ]
+    ]
+]

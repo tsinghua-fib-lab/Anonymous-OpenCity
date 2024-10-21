@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "le Réveil",
+            700022437
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:10)",
+        [
+            "le Réveil",
+            700022437
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:27, 19:34)",
+        [
+            "Afghan Kebab House",
+            700014647
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:28, 22:19)",
+        [
+            "",
+            700038018
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:48, 23:59)",
+        [
+            "Afghan Kebab House",
+            700014647
+        ]
+    ]
+]

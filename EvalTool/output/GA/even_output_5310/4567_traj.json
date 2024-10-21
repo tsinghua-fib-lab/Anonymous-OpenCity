@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tacos Güey",
+            700021156
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:23)",
+        [
+            "Periyali",
+            700039404
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(16:12, 18:00)",
+        [
+            "Tacos Güey",
+            700021156
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(18:51, 20:01)",
+        [
+            "Tacos Güey",
+            700021156
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:59, 23:59)",
+        [
+            "Tacos Güey",
+            700021156
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "Oiji Mi",
+            700006150
+        ]
+    ]
+]

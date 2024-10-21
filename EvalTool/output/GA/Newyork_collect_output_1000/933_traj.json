@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Next workout session",
+        "(09:00, 10:20)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Next workout session",
+        "(10:28, 12:30)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Next leisure activity",
+        "(13:29, 14:58)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Next leisure activity",
+        "(16:01, 18:05)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Stay at Sunflower Cafe",
+        "(18:08, 19:40)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 23:59)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:59)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(23:04, 23:59)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sin City Burger",
+            700033661
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:57)",
+        [
+            "Stumble Inn",
+            700006558
+        ]
+    ],
+    [
+        "2:30 PM - 4:30 PM",
+        "(12:14, 14:30)",
+        [
+            "Stumble Inn",
+            700006558
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:22, 17:11)",
+        [
+            "Ella's Cafe",
+            700022438
+        ]
+    ],
+    [
+        "Prepare and enjoy a gourmet dinner",
+        "(19:44, 20:54)",
+        [
+            "Stumble Inn",
+            700006558
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 23:59)",
+        [
+            "",
+            700001420
+        ]
+    ]
+]

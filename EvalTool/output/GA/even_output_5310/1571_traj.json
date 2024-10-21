@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001182
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:05)",
+        [
+            "Sophra Grill",
+            700017624
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:04, 11:59)",
+        [
+            "Sophra Grill",
+            700017624
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:51, 14:57)",
+        [
+            "Sophra Grill",
+            700017624
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:28, 17:48)",
+        [
+            "Sophra Grill",
+            700017624
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 19:36)",
+        [
+            "Tenho Ramen",
+            700011507
+        ]
+    ],
+    [
+        "TV/Movies or Family Time",
+        "(21:45, 23:01)",
+        [
+            "Sophra Grill",
+            700017624
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "Libretto's Pizzeria",
+            700011101
+        ]
+    ]
+]

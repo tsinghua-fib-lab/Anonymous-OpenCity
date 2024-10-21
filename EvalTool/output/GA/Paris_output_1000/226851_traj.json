@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Publicis Drugstore",
+            700027736
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:58)",
+        [
+            "",
+            700068211
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 15:09)",
+        [
+            "",
+            700067049
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 20:54)",
+        [
+            "École Privée Internationale d'Esthétique et de Cosmétologie Françoise Morice",
+            700020865
+        ]
+    ],
+    [
+        "Wind down with a hobby",
+        "(21:20, 22:55)",
+        [
+            "Publicis Drugstore",
+            700027736
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "École Privée Françoise Morice Esthétique-Cosmétique",
+            700020639
+        ]
+    ]
+]

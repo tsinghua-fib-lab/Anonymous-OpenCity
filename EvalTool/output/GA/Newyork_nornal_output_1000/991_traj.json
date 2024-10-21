@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Social Lounge",
+            700005997
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:07)",
+        [
+            "Social Lounge",
+            700005997
+        ]
+    ],
+    [
+        "Leisure Reading / Hobby Time",
+        "(10:32, 12:58)",
+        [
+            "Social Lounge",
+            700005997
+        ]
+    ],
+    [
+        "Leisure Reading / Hobby Time",
+        "(13:39, 15:11)",
+        [
+            "Social Lounge",
+            700005997
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:49, 17:06)",
+        [
+            "Social Lounge",
+            700005997
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(16:55, 17:55)",
+        [
+            "Social Lounge",
+            700005997
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:09, 23:34)",
+        [
+            "La Masseria",
+            700006504
+        ]
+    ],
+    [
+        "Dinner and Prepare for the Week",
+        "(21:52, 23:53)",
+        [
+            "La Masseria",
+            700006504
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:38, 23:59)",
+        [
+            "Buffalo Wild Wings",
+            700015643
+        ]
+    ]
+]

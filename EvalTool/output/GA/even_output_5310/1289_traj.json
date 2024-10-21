@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700019282
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:29)",
+        [
+            "",
+            700019284
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:35, 18:17)",
+        [
+            "Citi Bike - East 14th Street & Avenue B",
+            700008024
+        ]
+    ],
+    [
+        "Have dinner and relax",
+        "(17:30, 19:05)",
+        [
+            "",
+            700019282
+        ]
+    ],
+    [
+        "Go to Citi Bike - East 14th Street & Avenue B",
+        "(19:22, 21:09)",
+        [
+            "Citi Bike - East 14th Street & Avenue B",
+            700008024
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 14th Street & Avenue B",
+        "(21:11, 22:35)",
+        [
+            "Citi Bike - East 14th Street & Avenue B",
+            700008024
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 14th Street & Avenue B.",
+        "(23:16, 23:59)",
+        [
+            "Psychic Readings",
+            700040181
+        ]
+    ]
+]

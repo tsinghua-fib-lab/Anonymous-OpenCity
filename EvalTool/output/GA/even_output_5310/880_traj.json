@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dig",
+            700022401
+        ]
+    ],
+    [
+        "Go for a morning jog or engage in a light workout",
+        "(09:00, 10:31)",
+        [
+            "Chase",
+            700006017
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:59, 14:40)",
+        [
+            "Cafe Luka",
+            700026128
+        ]
+    ],
+    [
+        "Have lunch at a nice restaurant with friends or family",
+        "(13:57, 15:22)",
+        [
+            "Dig",
+            700022401
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:30, 21:00)",
+        [
+            "Sweetgreen",
+            700006555
+        ]
+    ],
+    [
+        "Relax and watch a movie or binge-watch a series at home.",
+        "(20:44, 21:56)",
+        [
+            "Dig",
+            700022401
+        ]
+    ],
+    [
+        "Prepare a simple dinner and unwind with a good book or music.",
+        "(22:02, 23:29)",
+        [
+            "Dig",
+            700022401
+        ]
+    ]
+]

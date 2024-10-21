@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sarge's Delicatessan & Diner",
+            700011102
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:29)",
+        [
+            "",
+            700002673
+        ]
+    ],
+    [
+        "brunch with friends",
+        "(12:38, 14:04)",
+        [
+            "Sophra Grill",
+            700017624
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 18:44)",
+        [
+            "",
+            700001182
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(18:44, 20:07)",
+        [
+            "Sophra Grill",
+            700017624
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(20:44, 22:03)",
+        [
+            "Sophra Grill",
+            700017624
+        ]
+    ],
+    [
+        "Relaxation/Reading Time",
+        "(22:48, 23:59)",
+        [
+            "",
+            700002673
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Taxi Stand at Stanford Court Hotel",
+            700009900
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:05)",
+        [
+            "Alamo",
+            700004752
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:49, 13:06)",
+        [
+            "Alamo",
+            700004752
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 14:31)",
+        [
+            "Pacific Cocktail Haven",
+            700004851
+        ]
+    ],
+    [
+        "Prepare a Dinner",
+        "(18:29, 20:06)",
+        [
+            "Pacific Cocktail Haven",
+            700004851
+        ]
+    ],
+    [
+        "Stay at Taxi Stand at Stanford Court Hotel",
+        "(20:35, 21:55)",
+        [
+            "Pacific Cocktail Haven",
+            700004851
+        ]
+    ],
+    [
+        "Stay at Taxi Stand at Stanford Court Hotel",
+        "(22:39, 23:59)",
+        [
+            "Pacific Cocktail Haven",
+            700004851
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Buena Vista Water Fountain",
+            700005211
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:00, 11:35)",
+        [
+            "Buena Vista Water Fountain",
+            700005211
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(11:50, 13:23)",
+        [
+            "",
+            700013846
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:22, 18:13)",
+        [
+            "",
+            700005213
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:48, 22:35)",
+        [
+            "",
+            700005214
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "",
+            700007638
+        ]
+    ]
+]

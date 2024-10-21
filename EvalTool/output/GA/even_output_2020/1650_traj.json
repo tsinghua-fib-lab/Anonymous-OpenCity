@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dentist office",
+            700001958
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:34)",
+        [
+            "Better Than Sweet",
+            700008995
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:02, 13:39)",
+        [
+            "Better Than Sweet",
+            700008995
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:06, 15:27)",
+        [
+            "Cafe Isabella",
+            700008996
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:49, 17:14)",
+        [
+            "Cafe Isabella",
+            700008996
+        ]
+    ],
+    [
+        "Afternoon Sporting Event",
+        "(17:18, 19:25)",
+        [
+            "Venticello",
+            700005060
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 23:59)",
+        [
+            "Venticello",
+            700005060
+        ]
+    ]
+]

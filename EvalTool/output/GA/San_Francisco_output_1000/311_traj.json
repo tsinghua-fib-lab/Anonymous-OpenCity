@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hi-Way",
+            700005006
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:08)",
+        [
+            "Hi-Way",
+            700005006
+        ]
+    ],
+    [
+        "Brunch",
+        "(11:32, 13:05)",
+        [
+            "Hi-Way",
+            700005006
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:52, 15:04)",
+        [
+            "Hi-Way",
+            700005006
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:15, 18:08)",
+        [
+            "Taishan Specialty",
+            700002028
+        ]
+    ],
+    [
+        "Next activity after dinner prep.",
+        "(20:01, 22:17)",
+        [
+            "Capo's",
+            700005007
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:34, 23:59)",
+        [
+            "Café Broadway",
+            700002027
+        ]
+    ]
+]

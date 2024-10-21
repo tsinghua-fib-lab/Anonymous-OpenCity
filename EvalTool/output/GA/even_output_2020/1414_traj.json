@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Thai House Express",
+            700002204
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:00, 11:20)",
+        [
+            "Wells Fargo",
+            700002192
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:41, 16:56)",
+        [
+            "Philz Coffee",
+            700002195
+        ]
+    ],
+    [
+        "Casual Meet-up with Friends/Family",
+        "(16:38, 18:13)",
+        [
+            "Thai House Express",
+            700002204
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:16, 23:59)",
+        [
+            "Fable",
+            700002194
+        ]
+    ],
+    [
+        "Casual Meet-up with Friends/Family",
+        "(23:19, 23:59)",
+        [
+            "Philz Coffee",
+            700002195
+        ]
+    ]
+]

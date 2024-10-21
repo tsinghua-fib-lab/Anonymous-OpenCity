@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001233
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:02)",
+        [
+            "",
+            700001237
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:13, 13:11)",
+        [
+            "",
+            700000710
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 16:02)",
+        [
+            "",
+            700000710
+        ]
+    ],
+    [
+        "Leisure Activity/Entertainment",
+        "(14:02, 16:07)",
+        [
+            "Saint Brigid School",
+            700000262
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:10, 18:18)",
+        [
+            "Saint Brigid School",
+            700000262
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:25, 21:02)",
+        [
+            "Sidewalk Café",
+            700010409
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(21:41, 23:06)",
+        [
+            "Rouge Night Club",
+            700002096
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(23:13, 23:59)",
+        [
+            "Rouge Night Club",
+            700002096
+        ]
+    ]
+]

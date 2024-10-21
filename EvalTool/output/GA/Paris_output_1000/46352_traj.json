@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tzeferakos Café",
+            700021842
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:31)",
+        [
+            "",
+            700054423
+        ]
+    ],
+    [
+        "Start leisure time after brunch",
+        "(14:25, 16:01)",
+        [
+            "Tzeferakos Café",
+            700021842
+        ]
+    ],
+    [
+        "Continue leisure time",
+        "(16:17, 18:02)",
+        [
+            "Tzeferakos Café",
+            700021842
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:40, 19:59)",
+        [
+            "Tzeferakos Café",
+            700021842
+        ]
+    ],
+    [
+        "Go to Tzeferakos Café and wind down.",
+        "(20:39, 22:16)",
+        [
+            "Tzeferakos Café",
+            700021842
+        ]
+    ],
+    [
+        "Visit Tzeferakos Café for wind down.",
+        "(22:53, 23:59)",
+        [
+            "Tzeferakos Café",
+            700021842
+        ]
+    ]
+]

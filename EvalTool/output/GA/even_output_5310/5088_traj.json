@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Radiant Skin Dermatology & Laser",
+            700028216
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:08)",
+        [
+            "",
+            700006013
+        ]
+    ],
+    [
+        "Leisure Time/Watch TV",
+        "(13:25, 15:58)",
+        [
+            "Citi Bike - Central Park South & 6th Avenue",
+            700007541
+        ]
+    ],
+    [
+        "Leisure Time/Watch TV",
+        "(15:58, 17:02)",
+        [
+            "Citi Bike - Central Park South & 6th Avenue",
+            700007541
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:08, 22:52)",
+        [
+            "Sarabeth's",
+            700011724
+        ]
+    ],
+    [
+        "Stay at Citi Bike - Central Park South & 6th Avenue",
+        "(22:14, 23:48)",
+        [
+            "Citi Bike - Central Park South & 6th Avenue",
+            700007541
+        ]
+    ]
+]

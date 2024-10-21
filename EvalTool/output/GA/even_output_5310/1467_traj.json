@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700024796
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:32)",
+        [
+            "Bank of America",
+            700014952
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(14:05, 16:02)",
+        [
+            "Bank of America",
+            700014952
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(16:00, 17:56)",
+        [
+            "Bank of America",
+            700014952
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(18:07, 20:14)",
+        [
+            "Bank of America",
+            700014952
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:03, 22:50)",
+        [
+            "Citi Bike - 2nd Avenue & East 31st Street",
+            700007929
+        ]
+    ]
+]

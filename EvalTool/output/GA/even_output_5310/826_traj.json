@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chase",
+            700007623
+        ]
+    ],
+    [
+        "Social Time or Entertainment",
+        "(09:00, 09:51)",
+        [
+            "Duane Reade",
+            700009654
+        ]
+    ],
+    [
+        "Social Time or Entertainment",
+        "(10:21, 12:09)",
+        [
+            "Duane Reade",
+            700009654
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:51, 17:35)",
+        [
+            "",
+            700001861
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 17:17)",
+        [
+            "Veterinary Emergency Group",
+            700014656
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 21:31)",
+        [
+            "",
+            700001861
+        ]
+    ]
+]

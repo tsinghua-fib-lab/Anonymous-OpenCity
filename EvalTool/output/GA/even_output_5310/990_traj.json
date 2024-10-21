@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700024477
+        ]
+    ],
+    [
+        "Leisurely breakfast and coffee",
+        "(10:00, 11:55)",
+        [
+            "Smith & Wollensky",
+            700003447
+        ]
+    ],
+    [
+        "Go for a workout or attend a yoga class for some physical activity and relaxation.",
+        "(12:13, 14:11)",
+        [
+            "Smith & Wollensky",
+            700003447
+        ]
+    ],
+    [
+        "Go for a workout or attend a yoga class for some physical activity and relaxation.",
+        "(14:29, 15:55)",
+        [
+            "Smith & Wollensky",
+            700003447
+        ]
+    ],
+    [
+        "Go for a workout or attend a yoga class for some physical activity and relaxation.",
+        "(16:25, 17:55)",
+        [
+            "Smith & Wollensky",
+            700003447
+        ]
+    ],
+    [
+        "Proceed to have leisurely lunch at a favorite restaurant.",
+        "(18:52, 20:16)",
+        [
+            "Smith & Wollensky",
+            700003447
+        ]
+    ],
+    [
+        "Decided to stay at Smith & Wollensky.",
+        "(20:34, 21:57)",
+        [
+            "Smith & Wollensky",
+            700003447
+        ]
+    ],
+    [
+        "Stay at Smith & Wollensky",
+        "(22:47, 23:45)",
+        [
+            "",
+            700024477
+        ]
+    ],
+    [
+        "Proceed to have leisurely dinner.",
+        "(23:39, 23:59)",
+        [
+            "Smith & Wollensky",
+            700003447
+        ]
+    ]
+]

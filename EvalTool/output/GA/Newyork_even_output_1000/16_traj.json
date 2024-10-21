@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002733
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:42)",
+        [
+            "Shun Wei",
+            700014776
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:49, 18:48)",
+        [
+            "",
+            700037395
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:24, 18:03)",
+        [
+            "Chinese Community Center",
+            700039537
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:55, 19:26)",
+        [
+            "Chinese Community Center",
+            700039537
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:25, 20:33)",
+        [
+            "Eastern States Buddhist Temple of America",
+            700000279
+        ]
+    ]
+]

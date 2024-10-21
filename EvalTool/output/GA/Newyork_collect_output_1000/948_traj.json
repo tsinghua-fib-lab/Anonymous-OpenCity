@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:37)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:42, 15:53)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 21:02)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "Go to Gran Merci.",
+        "(19:35, 21:31)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ],
+    [
+        "Stay at Abbey Tavern",
+        "(21:44, 23:06)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "7th Street Burger",
+            700015362
+        ]
+    ]
+]

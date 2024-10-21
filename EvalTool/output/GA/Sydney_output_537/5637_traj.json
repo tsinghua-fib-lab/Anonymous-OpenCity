@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Acqua E Farina",
+            700030512
+        ]
+    ],
+    [
+        "Next activity based on plan.",
+        "(09:00, 09:52)",
+        [
+            "Primary Coffee",
+            700011919
+        ]
+    ],
+    [
+        "Stay at Acqua E Farina for relaxation.",
+        "(10:21, 11:59)",
+        [
+            "Acqua E Farina",
+            700030512
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 16:43)",
+        [
+            "",
+            700028145
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 18:24)",
+        [
+            "Potts Point Pharmacy",
+            700027928
+        ]
+    ],
+    [
+        "Stay at Acqua E Farina.",
+        "(19:10, 20:50)",
+        [
+            "Acqua E Farina",
+            700030512
+        ]
+    ],
+    [
+        "Stay at home to unwind and prepare for bed",
+        "(22:34, 23:58)",
+        [
+            "Acqua E Farina",
+            700030512
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700025256
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:02)",
+        [
+            "Chase",
+            700005791
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:37, 14:59)",
+        [
+            "Ming Kee Kitchen",
+            700005156
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:09, 18:35)",
+        [
+            "Burger By Day",
+            700027736
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(20:50, 21:53)",
+        [
+            "Burger By Day",
+            700027736
+        ]
+    ],
+    [
+        "Stay at Burger By Day",
+        "(23:05, 23:59)",
+        [
+            "",
+            700025256
+        ]
+    ]
+]

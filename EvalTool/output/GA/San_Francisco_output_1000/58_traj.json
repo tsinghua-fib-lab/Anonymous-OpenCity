@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mama's on Washington Square",
+            700000425
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 16:01)",
+        [
+            "",
+            700009098
+        ]
+    ],
+    [
+        "Lunch Preparation and Eating",
+        "(12:03, 12:55)",
+        [
+            "",
+            700009100
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 15:54)",
+        [
+            "United States Post Office North Beach Station",
+            700000394
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:39, 23:12)",
+        [
+            "",
+            700013546
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:31, 23:59)",
+        [
+            "",
+            700009108
+        ]
+    ]
+]

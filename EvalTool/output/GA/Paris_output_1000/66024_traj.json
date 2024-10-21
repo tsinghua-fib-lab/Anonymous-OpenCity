@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700036421
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:48)",
+        [
+            "",
+            700010453
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:17, 14:28)",
+        [
+            "",
+            700052548
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(18:16, 19:54)",
+        [
+            "La Terrasse du Marché",
+            700010450
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(19:59, 21:51)",
+        [
+            "",
+            700054109
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(21:33, 22:59)",
+        [
+            "La Terrasse du Marché",
+            700010450
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(23:50, 23:59)",
+        [
+            "La Terrasse du Marché",
+            700010450
+        ]
+    ]
+]

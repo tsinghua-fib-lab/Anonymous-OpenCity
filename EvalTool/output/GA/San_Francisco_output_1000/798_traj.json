@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Taxi Stand at BEI Hotel",
+            700009947
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:29)",
+        [
+            "Public Parking",
+            700002753
+        ]
+    ],
+    [
+        "Hobbies/Personal Projects",
+        "(15:08, 17:01)",
+        [
+            "Public Parking",
+            700002753
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:49, 19:06)",
+        [
+            "Public Parking",
+            700002753
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:08, 21:04)",
+        [
+            "Public Parking",
+            700002753
+        ]
+    ],
+    [
+        "Evening Relaxation/Family Time",
+        "(21:48, 22:55)",
+        [
+            "Public Parking",
+            700002753
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "",
+            700008852
+        ]
+    ]
+]

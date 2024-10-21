@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700014388
+        ]
+    ],
+    [
+        "Exercise or outdoor activity",
+        "(09:00, 10:04)",
+        [
+            "",
+            700007651
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:08, 13:16)",
+        [
+            "",
+            700014391
+        ]
+    ],
+    [
+        "Hobby time or creative activities",
+        "(14:07, 16:03)",
+        [
+            "Aquatic Park Bocce Ball",
+            700000691
+        ]
+    ],
+    [
+        "Hobby time or creative activities",
+        "(16:13, 17:52)",
+        [
+            "Aquatic Park Bocce Ball",
+            700000691
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:35, 22:11)",
+        [
+            "Aquatic Park Bocce Ball",
+            700000691
+        ]
+    ],
+    [
+        "Go to Aquatic Park Bocce Ball",
+        "(22:27, 23:54)",
+        [
+            "Aquatic Park Bocce Ball",
+            700000691
+        ]
+    ],
+    [
+        "Stay at Aquatic Park Bocce Ball",
+        "(23:54, 23:59)",
+        [
+            "Aquatic Park Bocce Ball",
+            700000691
+        ]
+    ]
+]

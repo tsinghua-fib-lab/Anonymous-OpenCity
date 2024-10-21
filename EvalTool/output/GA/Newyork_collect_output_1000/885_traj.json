@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:16)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "Hobby Engagement",
+        "(10:33, 11:42)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Engage in a hobby",
+        "(11:45, 12:57)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:28, 15:05)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:19, 18:15)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:40, 19:11)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Enjoy a drink",
+        "(19:44, 21:49)",
+        [
+            "Dunkin'",
+            700024685
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(21:23, 22:59)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ]
+]

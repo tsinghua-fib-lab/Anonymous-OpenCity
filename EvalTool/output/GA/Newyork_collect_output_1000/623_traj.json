@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:34)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:57, 14:30)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:29, 23:30)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "Visit a fast food place",
+        "(23:37, 23:59)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ]
+]

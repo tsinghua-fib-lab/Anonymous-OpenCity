@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Happy Donut",
+            700000523
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:01)",
+        [
+            "Tai Chi Restaurant",
+            700002099
+        ]
+    ],
+    [
+        "Stay at Tai Chi Restaurant.",
+        "(13:12, 14:36)",
+        [
+            "Mac'd",
+            700002097
+        ]
+    ],
+    [
+        "Stay at Tai Chi Restaurant.",
+        "(15:37, 17:11)",
+        [
+            "Hummus Mediterranean Kitchen",
+            700001052
+        ]
+    ],
+    [
+        "Stay at Tai Chi Restaurant",
+        "(18:00, 19:32)",
+        [
+            "Ramen Sho Ryu",
+            700005264
+        ]
+    ],
+    [
+        "Stay at Tai Chi Restaurant",
+        "(19:51, 20:56)",
+        [
+            "House of Sushi Teriyaki & Tempura",
+            700006483
+        ]
+    ],
+    [
+        "Stay at Tai Chi Restaurant",
+        "(21:19, 23:09)",
+        [
+            "Cresta's",
+            700004280
+        ]
+    ],
+    [
+        "Stay at Tai Chi Restaurant",
+        "(23:04, 23:59)",
+        [
+            "Street",
+            700006484
+        ]
+    ]
+]

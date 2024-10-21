@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Covina",
+            700009132
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 12:05)",
+        [
+            "Covina",
+            700009132
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(12:16, 14:05)",
+        [
+            "Covina",
+            700009132
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:27, 15:57)",
+        [
+            "Covina",
+            700009132
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 20:34)",
+        [
+            "Barry's",
+            700016452
+        ]
+    ],
+    [
+        "Home Relaxation",
+        "(21:14, 23:59)",
+        [
+            "",
+            700016453
+        ]
+    ],
+    [
+        "Home Relaxation",
+        "(23:58, 23:59)",
+        [
+            "Covina",
+            700009132
+        ]
+    ]
+]

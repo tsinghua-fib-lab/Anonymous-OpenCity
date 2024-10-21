@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700069099
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:46)",
+        [
+            "Grand Corona",
+            700037900
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:28, 15:03)",
+        [
+            "",
+            700069100
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:46, 17:25)",
+        [
+            "Place de la Reine Astrid",
+            700044242
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:55, 18:55)",
+        [
+            "Grand Corona",
+            700037900
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:55, 23:27)",
+        [
+            "Chez Francis",
+            700001449
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(23:46, 23:59)",
+        [
+            "Chez Francis",
+            700001449
+        ]
+    ]
+]

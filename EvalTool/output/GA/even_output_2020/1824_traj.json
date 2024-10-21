@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Royale",
+            700004669
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:57)",
+        [
+            "Cozy Cafe",
+            700010961
+        ]
+    ],
+    [
+        "2:00 PM - Outdoor Activity",
+        "(12:54, 13:55)",
+        [
+            "City ATM",
+            700005128
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 20:19)",
+        [
+            "Sammie Cafe",
+            700008994
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:19, 18:56)",
+        [
+            "Sammie Cafe",
+            700008994
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 20:19)",
+        [
+            "Fishmandu Sushi",
+            700010101
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:53, 20:57)",
+        [
+            "Fishmandu Sushi",
+            700010101
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:31, 23:59)",
+        [
+            "Café Gourmand",
+            700005244
+        ]
+    ]
+]

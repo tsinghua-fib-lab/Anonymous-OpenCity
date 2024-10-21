@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Duane Reade",
+            700003430
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(09:00, 09:59)",
+        [
+            "Duane Reade",
+            700003430
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(10:16, 12:08)",
+        [
+            "Duane Reade",
+            700003430
+        ]
+    ],
+    [
+        "Visit the Local Market",
+        "(12:35, 14:12)",
+        [
+            "Duane Reade",
+            700003430
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:02, 16:03)",
+        [
+            "Gregory's Coffee",
+            700007534
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(17:24, 20:06)",
+        [
+            "Duane Reade",
+            700003430
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:54, 22:23)",
+        [
+            "",
+            700019037
+        ]
+    ]
+]

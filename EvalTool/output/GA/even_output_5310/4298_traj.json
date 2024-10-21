@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Broadway & Morris St",
+            700027017
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:16)",
+        [
+            "Passport Health",
+            700033509
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(15:55, 17:05)",
+        [
+            "Passport Health",
+            700033509
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(17:30, 18:31)",
+        [
+            "POE Dental Specialty Group",
+            700006639
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(18:53, 21:31)",
+        [
+            "Passport Health",
+            700033509
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:53, 23:59)",
+        [
+            "",
+            700031490
+        ]
+    ]
+]

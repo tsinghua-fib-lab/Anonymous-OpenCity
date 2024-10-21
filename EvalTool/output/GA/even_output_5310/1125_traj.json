@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chirp",
+            700008376
+        ]
+    ],
+    [
+        "Outdoor Activities",
+        "(10:00, 11:36)",
+        [
+            "USPS",
+            700007267
+        ]
+    ],
+    [
+        "Outdoor Activities",
+        "(12:20, 14:02)",
+        [
+            "USPS",
+            700007267
+        ]
+    ],
+    [
+        "Outdoor Activities",
+        "(14:40, 16:16)",
+        [
+            "USPS",
+            700007267
+        ]
+    ],
+    [
+        "Outdoor Activities",
+        "(17:17, 18:54)",
+        [
+            "USPS",
+            700007267
+        ]
+    ],
+    [
+        "Hobbies/Leisure Activities",
+        "(19:38, 21:08)",
+        [
+            "USPS",
+            700007267
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:17, 23:56)",
+        [
+            "ChargePoint",
+            700012450
+        ]
+    ]
+]

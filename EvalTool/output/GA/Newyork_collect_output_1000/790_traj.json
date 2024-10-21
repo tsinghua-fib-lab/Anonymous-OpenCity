@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:30)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:57, 14:15)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(14:35, 15:43)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(15:43, 17:14)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:09, 22:50)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "",
+            700022517
+        ]
+    ]
+]

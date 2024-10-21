@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000710
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:56)",
+        [
+            "Saint Brigid School",
+            700000262
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:05, 14:01)",
+        [
+            "Peter D's Cafe",
+            700002281
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:46, 18:27)",
+        [
+            "Lord Stanley",
+            700002098
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:12, 22:09)",
+        [
+            "Sidewalk Café",
+            700010409
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:08, 23:31)",
+        [
+            "Tai Chi Restaurant",
+            700002099
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "",
+            700000650
+        ]
+    ]
+]

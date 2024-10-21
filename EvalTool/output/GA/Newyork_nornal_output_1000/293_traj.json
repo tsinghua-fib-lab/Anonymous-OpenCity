@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006210
+        ]
+    ],
+    [
+        "Relaxing at Home",
+        "(10:00, 12:09)",
+        [
+            "",
+            700022503
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(12:33, 14:37)",
+        [
+            "",
+            700006210
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:44, 17:03)",
+        [
+            "Starbucks",
+            700019509
+        ]
+    ],
+    [
+        "Socializing with Friends",
+        "(16:46, 17:52)",
+        [
+            "Starbucks",
+            700019509
+        ]
+    ],
+    [
+        "Socializing with Friends",
+        "(18:26, 20:08)",
+        [
+            "Starbucks",
+            700019509
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:38, 23:59)",
+        [
+            "ProHEALTH Urgent Care",
+            700013549
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(23:03, 23:59)",
+        [
+            "",
+            700006210
+        ]
+    ]
+]

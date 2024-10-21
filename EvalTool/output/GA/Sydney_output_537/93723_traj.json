@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Circular Quay 4A",
+            700031871
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:28)",
+        [
+            "Gelatissimo",
+            700026865
+        ]
+    ],
+    [
+        "Grocery Shopping and Errands",
+        "(14:04, 15:35)",
+        [
+            "Gelatissimo",
+            700026865
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 21:17)",
+        [
+            "",
+            700007740
+        ]
+    ],
+    [
+        "Grocery Shopping and Errands",
+        "(21:28, 23:04)",
+        [
+            "Gelatissimo",
+            700026865
+        ]
+    ],
+    [
+        "Stay at Harbour View Hotel",
+        "(23:23, 23:59)",
+        [
+            "",
+            700021103
+        ]
+    ]
+]

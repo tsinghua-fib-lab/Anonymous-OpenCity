@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The UPS Store",
+            700016704
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:04)",
+        [
+            "The Corner Cafe",
+            700008595
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:46, 16:38)",
+        [
+            "The Corner Cafe",
+            700008595
+        ]
+    ],
+    [
+        "Visit to an Art Gallery or Museum",
+        "(17:24, 19:10)",
+        [
+            "The Corner Cafe",
+            700008595
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 23:43)",
+        [
+            "",
+            700001297
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sobak",
+            700005438
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:53)",
+        [
+            "Kiki's",
+            700013715
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:43, 16:44)",
+        [
+            "Tiger Bus",
+            700010172
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:02, 18:34)",
+        [
+            "Tiger Bus",
+            700010172
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 21:36)",
+        [
+            "Tiger Bus",
+            700010172
+        ]
+    ],
+    [
+        "Visit a local cafe",
+        "(21:15, 22:47)",
+        [
+            "Scarr's Pizza",
+            700038015
+        ]
+    ],
+    [
+        "Stay at Tiger Bus",
+        "(22:56, 23:59)",
+        [
+            "Tiger Bus",
+            700010172
+        ]
+    ]
+]

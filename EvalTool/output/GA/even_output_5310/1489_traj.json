@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mainchance",
+            700011096
+        ]
+    ],
+    [
+        "Lunch Preparation",
+        "(10:00, 11:09)",
+        [
+            "Mainchance",
+            700011096
+        ]
+    ],
+    [
+        "Lunch Preparation",
+        "(11:31, 12:56)",
+        [
+            "Mainchance",
+            700011096
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:40, 18:51)",
+        [
+            "New York Doctors Urgent Care",
+            700008460
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 21:45)",
+        [
+            "Percy Moses, DDS, PC",
+            700015249
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:39, 20:59)",
+        [
+            "City Care Family Practice, PC",
+            700015246
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:44, 23:44)",
+        [
+            "Icon Parking",
+            700015243
+        ]
+    ]
+]

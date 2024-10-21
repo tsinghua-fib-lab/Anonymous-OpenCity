@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Petite Deli",
+            700002938
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(10:00, 11:23)",
+        [
+            "",
+            700009115
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(11:45, 12:55)",
+        [
+            "Petite Deli",
+            700002938
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:52, 14:57)",
+        [
+            "Petite Deli",
+            700002938
+        ]
+    ],
+    [
+        "Family or Friends Time",
+        "(15:54, 16:52)",
+        [
+            "Petite Deli",
+            700002938
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:48, 18:51)",
+        [
+            "Petite Deli",
+            700002938
+        ]
+    ],
+    [
+        "Wind Down",
+        "(19:40, 21:00)",
+        [
+            "Petite Deli",
+            700002938
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:30, 23:05)",
+        [
+            "Petite Deli",
+            700002938
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:26, 23:59)",
+        [
+            "",
+            700000626
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Maison Edgar",
+            700003826
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:46)",
+        [
+            "",
+            700031011
+        ]
+    ],
+    [
+        "Have lunch or snack at Maison Edgar.",
+        "(11:33, 13:02)",
+        [
+            "Maison Edgar",
+            700003826
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 15:07)",
+        [
+            "",
+            700032216
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:21, 22:32)",
+        [
+            "Radio Notre-Dame",
+            700064492
+        ]
+    ],
+    [
+        "Stay at Maison Edgar.",
+        "(21:07, 22:28)",
+        [
+            "Radio Notre-Dame",
+            700064492
+        ]
+    ],
+    [
+        "Stay at École Diagonale.",
+        "(23:10, 23:59)",
+        [
+            "Edgar Quinet - Raspail",
+            700038436
+        ]
+    ]
+]

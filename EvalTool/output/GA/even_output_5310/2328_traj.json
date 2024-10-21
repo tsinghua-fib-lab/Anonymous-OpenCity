@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700025022
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(09:00, 09:50)",
+        [
+            "$1.50 Pizza",
+            700016867
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(10:12, 11:44)",
+        [
+            "$1.50 Pizza",
+            700016867
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 17:47)",
+        [
+            "",
+            700038582
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 21:37)",
+        [
+            "",
+            700001784
+        ]
+    ],
+    [
+        "Next, go to Scotty's Diner for a late night meal.",
+        "(23:07, 23:59)",
+        [
+            "Fa Wang Temple",
+            700017778
+        ]
+    ]
+]

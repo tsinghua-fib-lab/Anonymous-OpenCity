@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700019504
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:42)",
+        [
+            "Ritz Diner",
+            700006524
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:13, 13:07)",
+        [
+            "Ritz Diner",
+            700006524
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:15, 14:19)",
+        [
+            "Sutton Animal Hospital",
+            700036806
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 19:21)",
+        [
+            "Treadwell Park",
+            700007620
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 22:08)",
+        [
+            "Southern Greek",
+            700039315
+        ]
+    ],
+    [
+        "Evening Wind Down and Relaxation",
+        "(22:33, 23:43)",
+        [
+            "Southern Greek",
+            700039315
+        ]
+    ],
+    [
+        "Evening Wind Down and Relaxation",
+        "(23:56, 23:59)",
+        [
+            "Southern Greek",
+            700039315
+        ]
+    ]
+]

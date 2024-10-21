@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010737
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:53)",
+        [
+            "Memphis Minnie's",
+            700000957
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:16, 14:06)",
+        [
+            "Love 'n' Haight",
+            700000961
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:32, 16:01)",
+        [
+            "Berliner Berliner",
+            700000963
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:49, 22:24)",
+        [
+            "Love 'n' Haight",
+            700000961
+        ]
+    ],
+    [
+        "Watch TV or Movie",
+        "(21:28, 22:36)",
+        [
+            "VRV3 Studios",
+            700001548
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(22:40, 23:45)",
+        [
+            "Iza Ramen",
+            700003677
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "",
+            700005488
+        ]
+    ]
+]

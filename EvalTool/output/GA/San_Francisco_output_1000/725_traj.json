@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009772
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(09:00, 10:36)",
+        [
+            "Rainbeau",
+            700013751
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(10:50, 11:58)",
+        [
+            "",
+            700001969
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(12:39, 13:51)",
+        [
+            "Rainbeau",
+            700013751
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:22, 16:09)",
+        [
+            "",
+            700002411
+        ]
+    ],
+    [
+        "Social Time",
+        "(20:03, 21:46)",
+        [
+            "Rainbeau",
+            700013751
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:59)",
+        [
+            "San Francisco SPCA Veterinary Hospital - Mission Campus",
+            700003779
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Start breakfast at K's apartment.",
+        "(10:00, 11:09)",
+        [
+            "Urban Meadow Cafe",
+            700031990
+        ]
+    ],
+    [
+        "Start Leisure Activity",
+        "(11:48, 13:09)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:21, 14:43)",
+        [
+            "",
+            700066453
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:01, 16:55)",
+        [
+            "",
+            700023795
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:04, 18:20)",
+        [
+            "The Money Exchange",
+            700041567
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 22:23)",
+        [
+            "Eat Tokyo",
+            700011930
+        ]
+    ]
+]

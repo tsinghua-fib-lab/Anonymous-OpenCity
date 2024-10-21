@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "KO Burger",
+            700038718
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:25)",
+        [
+            "East Broadway Pharmacy",
+            700014892
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 18:00)",
+        [
+            "",
+            700009642
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(16:18, 17:44)",
+        [
+            "",
+            700038462
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:06, 19:32)",
+        [
+            "KO Burger",
+            700038718
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:27, 23:59)",
+        [
+            "",
+            700009642
+        ]
+    ]
+]

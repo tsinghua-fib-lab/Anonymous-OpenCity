@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast",
+        "(10:00, 11:02)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the park",
+        "(11:15, 12:45)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 15:18)",
+        [
+            "Cafe Kitsune",
+            700034623
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 20:32)",
+        [
+            "White Horse Tavern",
+            700008957
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "HSBC",
+            700008765
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sabor A Mexico II",
+            700023411
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:02)",
+        [
+            "Centro Pizza",
+            700021721
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 19:14)",
+        [
+            "",
+            700001420
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 20:23)",
+        [
+            "",
+            700020608
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:23, 21:54)",
+        [
+            "Sabor A Mexico II",
+            700023411
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(22:42, 23:59)",
+        [
+            "Sabor A Mexico II",
+            700023411
+        ]
+    ]
+]

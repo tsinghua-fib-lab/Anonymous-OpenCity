@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700038541
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:06)",
+        [
+            "",
+            700038531
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 18:13)",
+        [
+            "",
+            700038536
+        ]
+    ],
+    [
+        "Next activity after social activity",
+        "(16:56, 18:17)",
+        [
+            "Lao Jie Hot Pot & BBQ",
+            700017202
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(19:18, 22:01)",
+        [
+            "Tofu Tofu",
+            700005300
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:29, 23:59)",
+        [
+            "Tofu Tofu",
+            700005300
+        ]
+    ]
+]

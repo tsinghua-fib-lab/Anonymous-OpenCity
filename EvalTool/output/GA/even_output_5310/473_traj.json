@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Coffee Shop",
+            700041023
+        ]
+    ],
+    [
+        "Wake Up and Leisure Breakfast",
+        "(10:00, 10:52)",
+        [
+            "Coffee Shop",
+            700041023
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 14:33)",
+        [
+            "Inase",
+            700024256
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(15:32, 16:52)",
+        [
+            "Saint Stephen of Hungary School",
+            700000297
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 20:31)",
+        [
+            "AOC East",
+            700024257
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "Saint Stephen of Hungary Church",
+            700000277
+        ]
+    ]
+]

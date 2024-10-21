@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000653
+        ]
+    ],
+    [
+        "Exercise (1 hour)",
+        "(10:00, 11:10)",
+        [
+            "",
+            700000653
+        ]
+    ],
+    [
+        "Exercise (1 hour)",
+        "(12:01, 13:00)",
+        [
+            "Sorella",
+            700002494
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 16:30)",
+        [
+            "Harper & Rye",
+            700000654
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(17:43, 18:49)",
+        [
+            "Harper & Rye",
+            700000654
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:18, 20:08)",
+        [
+            "Harper & Rye",
+            700000654
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:01, 22:30)",
+        [
+            "Harper & Rye",
+            700000654
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(22:27, 23:59)",
+        [
+            "Harper & Rye",
+            700000654
+        ]
+    ]
+]

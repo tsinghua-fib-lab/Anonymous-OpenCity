@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "École élémentaire Raymond Queneau",
+            700006345
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:50)",
+        [
+            "École primaire d'application Raymond Queneau",
+            700043186
+        ]
+    ],
+    [
+        "Lunch",
+        "(10:16, 11:55)",
+        [
+            "École élémentaire Raymond Queneau",
+            700006345
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:34, 14:08)",
+        [
+            "Planet Sushi",
+            700008749
+        ]
+    ],
+    [
+        "Enjoy a meal at a restaurant",
+        "(14:59, 16:29)",
+        [
+            "Planet Sushi",
+            700008749
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(17:08, 18:47)",
+        [
+            "",
+            700041041
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(18:54, 19:52)",
+        [
+            "École élémentaire Raymond Queneau",
+            700006345
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:06, 21:03)",
+        [
+            "Planet Sushi",
+            700008749
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:17, 22:53)",
+        [
+            "École élémentaire Raymond Queneau",
+            700006345
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(23:03, 23:59)",
+        [
+            "École primaire d'application Raymond Queneau",
+            700043201
+        ]
+    ]
+]

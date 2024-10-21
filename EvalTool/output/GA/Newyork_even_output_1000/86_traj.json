@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Amor y Amargo General Store",
+            700004859
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:14)",
+        [
+            "Knitting Factory",
+            700040029
+        ]
+    ],
+    [
+        "Social Time",
+        "(14:30, 17:09)",
+        [
+            "Amor y Amargo General Store",
+            700004859
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:26, 19:56)",
+        [
+            "Offside",
+            700014755
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:28, 20:42)",
+        [
+            "Tompkins Square Bar",
+            700012366
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:46, 23:59)",
+        [
+            "",
+            700014761
+        ]
+    ]
+]

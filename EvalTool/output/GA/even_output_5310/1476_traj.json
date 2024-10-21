@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008518
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:21)",
+        [
+            "Kimmel Cafe",
+            700014996
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(14:05, 15:53)",
+        [
+            "Kimmel Cafe",
+            700014996
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(16:00, 18:05)",
+        [
+            "Kimmel Cafe",
+            700014996
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(18:07, 20:04)",
+        [
+            "Kimmel Cafe",
+            700014996
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:03, 22:49)",
+        [
+            "Tisch Cafe",
+            700024901
+        ]
+    ]
+]

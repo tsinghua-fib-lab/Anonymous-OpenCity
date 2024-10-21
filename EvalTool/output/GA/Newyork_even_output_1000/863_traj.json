@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000936
+        ]
+    ],
+    [
+        "Exercise or outdoor activity",
+        "(10:00, 10:56)",
+        [
+            "Ted's Corner Tavern",
+            700008573
+        ]
+    ],
+    [
+        "Read or engage in a hobby",
+        "(11:21, 13:09)",
+        [
+            "",
+            700001291
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:52, 17:48)",
+        [
+            "Semicolon",
+            700009564
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 22:32)",
+        [
+            "Sophra Grill",
+            700017624
+        ]
+    ],
+    [
+        "Read or engage in a hobby",
+        "(23:36, 23:59)",
+        [
+            "",
+            700002673
+        ]
+    ]
+]

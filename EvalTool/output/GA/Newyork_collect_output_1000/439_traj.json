@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:10)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:42, 17:20)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "Prepare Dinner & Relax",
+        "(18:03, 19:27)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Prepare Dinner & Relax",
+        "(20:43, 22:21)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Lunch",
+        "(23:16, 23:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ]
+]

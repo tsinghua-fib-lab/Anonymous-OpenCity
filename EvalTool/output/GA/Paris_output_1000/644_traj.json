@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Brasserie des Arts",
+            700018828
+        ]
+    ],
+    [
+        "Next activity after breakfast",
+        "(10:00, 11:39)",
+        [
+            "Brasserie des Arts",
+            700018828
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(11:44, 13:05)",
+        [
+            "Brasserie des Arts",
+            700018828
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:14, 18:25)",
+        [
+            "O'Tacos",
+            700021234
+        ]
+    ],
+    [
+        "Continue relaxation watching a movie or series.",
+        "(16:17, 17:53)",
+        [
+            "Brasserie des Arts",
+            700018828
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:01, 21:49)",
+        [
+            "Culture Crêpes",
+            700035790
+        ]
+    ],
+    [
+        "Next plan after relaxation",
+        "(21:20, 23:11)",
+        [
+            "Culture Crêpes",
+            700035790
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700032992
+        ]
+    ]
+]

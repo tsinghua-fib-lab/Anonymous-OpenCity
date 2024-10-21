@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700007650
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:58)",
+        [
+            "San Francisco Aquatic Park Senior Center",
+            700010196
+        ]
+    ],
+    [
+        "Afternoon Hobbies",
+        "(15:30, 17:38)",
+        [
+            "",
+            700014389
+        ]
+    ],
+    [
+        "Afternoon Hobbies",
+        "(18:16, 19:39)",
+        [
+            "",
+            700014389
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:52, 20:50)",
+        [
+            "Cafe Franco",
+            700004379
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:28, 23:59)",
+        [
+            "Lily Cai Chinese Dance Company",
+            700004186
+        ]
+    ]
+]

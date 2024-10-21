@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001951
+        ]
+    ],
+    [
+        "Next will be brunch at Think Coffee.",
+        "(10:00, 11:28)",
+        [
+            "Think Coffee",
+            700011151
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:18, 13:41)",
+        [
+            "Think Coffee",
+            700011151
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(14:12, 15:49)",
+        [
+            "Think Coffee",
+            700011151
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:47, 18:23)",
+        [
+            "Think Coffee",
+            700011151
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:06, 20:03)",
+        [
+            "Think Coffee",
+            700011151
+        ]
+    ],
+    [
+        "Family or Friends Gathering",
+        "(20:33, 22:09)",
+        [
+            "Think Coffee",
+            700011151
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:52, 23:47)",
+        [
+            "",
+            700000863
+        ]
+    ]
+]

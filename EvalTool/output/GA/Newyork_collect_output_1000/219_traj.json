@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:52)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(14:54, 16:01)",
+        [
+            "Dunkin'",
+            700024685
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:30, 17:55)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:08, 23:56)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:15, 23:59)",
+        [
+            "Coletta",
+            700015591
+        ]
+    ],
+    [
+        "Enjoy some downtime and relax before heading to the next task.",
+        "(23:29, 23:59)",
+        [
+            "Handcraft",
+            700006233
+        ]
+    ]
+]

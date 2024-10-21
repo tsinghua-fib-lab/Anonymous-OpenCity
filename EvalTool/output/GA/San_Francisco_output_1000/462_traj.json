@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Folsom Street Foundry",
+            700013984
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:01)",
+        [
+            "The Coffee Smith",
+            700005057
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:52, 17:02)",
+        [
+            "",
+            700010278
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:30, 23:35)",
+        [
+            "",
+            700010279
+        ]
+    ],
+    [
+        "Wind Down and Prepare for the Week",
+        "(23:35, 23:59)",
+        [
+            "Folsom Street Foundry",
+            700013984
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sidewalk Juice",
+            700010601
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:02)",
+        [
+            "Danny Coyles",
+            700000004
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:32, 13:16)",
+        [
+            "Sidewalk Juice",
+            700010601
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:15, 18:14)",
+        [
+            "Danny Coyles",
+            700000004
+        ]
+    ],
+    [
+        "Prepare for the Week",
+        "(17:57, 19:04)",
+        [
+            "Ken",
+            700004202
+        ]
+    ],
+    [
+        "Prepare for the Week",
+        "(19:37, 22:17)",
+        [
+            "Souvenir Coffee",
+            700004209
+        ]
+    ],
+    [
+        "Relaxation/Leisure Reading",
+        "(22:12, 23:42)",
+        [
+            "Tea & Others",
+            700008571
+        ]
+    ],
+    [
+        "Prepare for the Week",
+        "(23:34, 23:59)",
+        [
+            "",
+            700002516
+        ]
+    ]
+]

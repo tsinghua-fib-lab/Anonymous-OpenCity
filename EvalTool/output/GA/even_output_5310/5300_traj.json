@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rum House",
+            700006499
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:40)",
+        [
+            "Rum House",
+            700006499
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(12:33, 13:54)",
+        [
+            "Rum House",
+            700006499
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(14:52, 16:02)",
+        [
+            "Rum House",
+            700006499
+        ]
+    ],
+    [
+        "Outdoor Sports",
+        "(16:47, 18:22)",
+        [
+            "Rum House",
+            700006499
+        ]
+    ],
+    [
+        "Move to prepare dinner",
+        "(19:02, 20:31)",
+        [
+            "The Mean Fiddler",
+            700006088
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:17, 23:49)",
+        [
+            "Cafe Edison",
+            700006540
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "",
+            700026615
+        ]
+    ]
+]

@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "missKOREA BBQ",
+            700011041
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the nearby park or nature reserve.",
+        "(10:00, 10:58)",
+        [
+            "Stumptown",
+            700007515
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the nearby park or nature reserve.",
+        "(10:58, 11:55)",
+        [
+            "Stumptown",
+            700007515
+        ]
+    ],
+    [
+        "Attend a yoga class or engage in a home workout.",
+        "(12:15, 13:49)",
+        [
+            "Stumptown",
+            700007515
+        ]
+    ],
+    [
+        "Stay at Stumptown for lunch.",
+        "(14:39, 16:05)",
+        [
+            "",
+            700002618
+        ]
+    ],
+    [
+        "next arrangement from lunch",
+        "(16:25, 17:41)",
+        [
+            "missKOREA BBQ",
+            700011041
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 20:55)",
+        [
+            "Paris Baguette",
+            700014765
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 21:56)",
+        [
+            "missKOREA BBQ",
+            700011041
+        ]
+    ],
+    [
+        "current place and stay time",
+        "(22:11, 23:49)",
+        [
+            "missKOREA BBQ",
+            700011041
+        ]
+    ],
+    [
+        "Current place and stay time.",
+        "(23:49, 23:59)",
+        [
+            "missKOREA BBQ",
+            700011041
+        ]
+    ]
+]

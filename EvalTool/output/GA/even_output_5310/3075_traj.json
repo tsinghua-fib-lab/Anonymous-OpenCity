@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "South Baptist Church",
+            700000093
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:05)",
+        [
+            "",
+            700012160
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:44, 14:16)",
+        [
+            "Roasting Plant",
+            700005694
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:21, 16:17)",
+        [
+            "Fellini Coffee",
+            700031752
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:54, 22:14)",
+        [
+            "",
+            700012161
+        ]
+    ],
+    [
+        "Dinner & Family Time",
+        "(20:12, 22:00)",
+        [
+            "South Baptist Church",
+            700000093
+        ]
+    ],
+    [
+        "Moving to Starbucks Reserve for leisure activities.",
+        "(21:54, 23:59)",
+        [
+            "The Waverly Inn",
+            700008688
+        ]
+    ]
+]

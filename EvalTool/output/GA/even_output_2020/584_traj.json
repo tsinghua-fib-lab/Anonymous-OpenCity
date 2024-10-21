@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Workshop SF",
+            700007337
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:06)",
+        [
+            "",
+            700004807
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:47, 17:53)",
+        [
+            "",
+            700007623
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(16:43, 18:06)",
+        [
+            "Workshop SF",
+            700007337
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(18:04, 19:39)",
+        [
+            "Trax",
+            700000010
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(20:20, 21:43)",
+        [
+            "Sandy's",
+            700007209
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(22:28, 23:59)",
+        [
+            "Sandy's",
+            700007209
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "Haight Ashbury Express Photo & Mail",
+            700004737
+        ]
+    ]
+]

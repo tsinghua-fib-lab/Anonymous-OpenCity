@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Imm",
+            700011523
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:50)",
+        [
+            "Bank of America",
+            700003977
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:39, 20:38)",
+        [
+            "Santander",
+            700038164
+        ]
+    ],
+    [
+        "Go to Bank of America",
+        "(20:03, 22:12)",
+        [
+            "Bank of America",
+            700003977
+        ]
+    ],
+    [
+        "Go to 'Bank of America' and stay for 1 hour.",
+        "(21:51, 22:58)",
+        [
+            "7th Street Burger",
+            700007242
+        ]
+    ],
+    [
+        "Stay at 7th Street Burger",
+        "(23:00, 23:58)",
+        [
+            "7th Street Burger",
+            700007242
+        ]
+    ],
+    [
+        "Stay at 7th Street Burger.",
+        "(23:50, 23:59)",
+        [
+            "7th Street Burger",
+            700007242
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Flavor's House",
+            700021997
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:04)",
+        [
+            "",
+            700032014
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:54, 15:14)",
+        [
+            "Mexico Lindo",
+            700006222
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(16:00, 16:53)",
+        [
+            "",
+            700011173
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(17:00, 17:53)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(18:22, 19:49)",
+        [
+            "",
+            700022520
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(20:24, 22:08)",
+        [
+            "Orion Diner & Grill",
+            700014321
+        ]
+    ],
+    [
+        "next arrangement after 22:51",
+        "(22:51, 23:59)",
+        [
+            "East Side Endoscopy",
+            700023461
+        ]
+    ]
+]

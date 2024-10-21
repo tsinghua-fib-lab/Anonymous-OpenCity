@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "York Veterinary Center",
+            700038020
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:20)",
+        [
+            "Duane Reade",
+            700006023
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(14:08, 16:09)",
+        [
+            "Duane Reade",
+            700006023
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(16:22, 18:05)",
+        [
+            "Duane Reade",
+            700006023
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:02, 21:10)",
+        [
+            "Duane Reade",
+            700006023
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:41, 23:40)",
+        [
+            "Duane Reade",
+            700006023
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(23:30, 23:59)",
+        [
+            "Duane Reade",
+            700006023
+        ]
+    ]
+]

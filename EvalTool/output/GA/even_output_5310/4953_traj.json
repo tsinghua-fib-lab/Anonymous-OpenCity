@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Duane Reade",
+            700006005
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:43)",
+        [
+            "Chipotle",
+            700006003
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:20, 13:51)",
+        [
+            "Pazza Notte",
+            700016246
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 17:56)",
+        [
+            "Citi Bike - West 56th Street & 6th Avenue",
+            700008236
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(18:06, 19:43)",
+        [
+            "K-bap",
+            700041048
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:56, 21:50)",
+        [
+            "",
+            700019916
+        ]
+    ],
+    [
+        "Evening Wind-down",
+        "(23:35, 23:59)",
+        [
+            "Duane Reade",
+            700006005
+        ]
+    ]
+]

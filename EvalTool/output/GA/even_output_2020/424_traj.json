@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700014062
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(09:00, 10:40)",
+        [
+            "Bini’s Kitchen",
+            700014064
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:31, 11:55)",
+        [
+            "Bini’s Kitchen",
+            700014064
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:37, 14:17)",
+        [
+            "Tin",
+            700001623
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:31, 15:58)",
+        [
+            "Tin",
+            700001623
+        ]
+    ],
+    [
+        "Social or Family Time",
+        "(17:20, 19:51)",
+        [
+            "Tin",
+            700001623
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:21, 22:54)",
+        [
+            "Box Kitchen",
+            700007486
+        ]
+    ]
+]

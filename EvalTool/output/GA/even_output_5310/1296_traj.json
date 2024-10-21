@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bond Vet",
+            700017552
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:55)",
+        [
+            "Bond Vet",
+            700017552
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:03, 14:04)",
+        [
+            "Bond Vet",
+            700017552
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:39, 16:10)",
+        [
+            "Bond Vet",
+            700017552
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:23, 20:28)",
+        [
+            "Chipotle",
+            700017555
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:27, 21:51)",
+        [
+            "Chipotle",
+            700017555
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "Dunkin'",
+            700004185
+        ]
+    ]
+]

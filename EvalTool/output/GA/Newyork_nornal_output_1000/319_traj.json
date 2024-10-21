@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700011050
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:02)",
+        [
+            "Café Habana",
+            700007829
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:03, 11:57)",
+        [
+            "Café Habana",
+            700007829
+        ]
+    ],
+    [
+        "Socializing with Friends/Family",
+        "(12:40, 15:43)",
+        [
+            "Café Habana",
+            700007829
+        ]
+    ],
+    [
+        "Socializing with Friends/Family",
+        "(15:49, 17:52)",
+        [
+            "Café Habana",
+            700007829
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:30, 23:15)",
+        [
+            "Café Gitane",
+            700015617
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(20:46, 22:20)",
+        [
+            "Café Habana",
+            700007829
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "",
+            700002692
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:24)",
+        [
+            "",
+            700020450
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:59, 16:02)",
+        [
+            "Shoe Shine",
+            700020451
+        ]
+    ],
+    [
+        "Afternoon Leisure",
+        "(16:51, 18:53)",
+        [
+            "Pod",
+            700020143
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:20, 23:37)",
+        [
+            "Devonshire Terrace",
+            700019972
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:40, 23:59)",
+        [
+            "Anise",
+            700019970
+        ]
+    ]
+]

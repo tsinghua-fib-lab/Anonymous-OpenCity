@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gambit Lounge",
+            700003093
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:05)",
+        [
+            "",
+            700002891
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:33, 15:51)",
+        [
+            "Linden & Laguna",
+            700009521
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:14, 16:46)",
+        [
+            "Domo",
+            700011013
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:10, 18:45)",
+        [
+            "Domo",
+            700011013
+        ]
+    ],
+    [
+        "Leisure Activity before Relaxing at Home",
+        "(18:39, 20:13)",
+        [
+            "Domo",
+            700011013
+        ]
+    ],
+    [
+        "Leisure Activity before Relaxing at Home",
+        "(20:05, 21:44)",
+        [
+            "Neighborhood Baptist Church",
+            700000256
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "",
+            700002892
+        ]
+    ]
+]

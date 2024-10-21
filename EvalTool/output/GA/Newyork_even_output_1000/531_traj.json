@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Manhattan Parking Group",
+            700040473
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 11:56)",
+        [
+            "Manhattan Parking Group",
+            700040473
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:20, 14:00)",
+        [
+            "Manhattan Parking Group",
+            700040473
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 20:29)",
+        [
+            "Starbucks",
+            700004421
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:01, 20:56)",
+        [
+            "Starbucks",
+            700004421
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:57, 22:20)",
+        [
+            "Starbucks",
+            700004421
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(22:49, 23:59)",
+        [
+            "Starbucks",
+            700004421
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(23:57, 23:59)",
+        [
+            "Starbucks",
+            700004421
+        ]
+    ]
+]

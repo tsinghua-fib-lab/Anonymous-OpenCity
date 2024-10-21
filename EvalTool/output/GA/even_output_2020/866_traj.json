@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Maxfield's House of Caffeine",
+            700003619
+        ]
+    ],
+    [
+        "Go for a walk or light exercise in the park",
+        "(09:00, 09:55)",
+        [
+            "",
+            700008317
+        ]
+    ],
+    [
+        "Spend some time reading or enjoying a hobby.",
+        "(10:52, 12:31)",
+        [
+            "",
+            700008331
+        ]
+    ],
+    [
+        "Spend some time reading or enjoying a hobby.",
+        "(13:32, 15:03)",
+        [
+            "",
+            700008317
+        ]
+    ],
+    [
+        "Spend time reading or enjoying a hobby.",
+        "(15:58, 17:53)",
+        [
+            "Morning Due Café",
+            700008315
+        ]
+    ],
+    [
+        "Continue reading or enjoying a hobby",
+        "(17:51, 19:19)",
+        [
+            "Morning Due Café",
+            700008315
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:16, 23:50)",
+        [
+            "Spro",
+            700010292
+        ]
+    ],
+    [
+        "Stay in Spro",
+        "(21:36, 23:15)",
+        [
+            "Spro",
+            700010292
+        ]
+    ],
+    [
+        "Stay in Spro",
+        "(23:30, 23:59)",
+        [
+            "Spro",
+            700010292
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi bike - 3rd Avenue & East 72nd Street",
+            700017450
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:12)",
+        [
+            "EJ's Luncheonette",
+            700009201
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 16:38)",
+        [
+            "",
+            700000782
+        ]
+    ],
+    [
+        "Family or Friend Time",
+        "(20:13, 23:05)",
+        [
+            "EJ's Luncheonette",
+            700009201
+        ]
+    ],
+    [
+        "Sleep at home.",
+        "(23:44, 23:59)",
+        [
+            "Modern Age",
+            700040569
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010479
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:15)",
+        [
+            "Pixie Hall Studios",
+            700001776
+        ]
+    ],
+    [
+        "Leisure Reading/TV",
+        "(12:07, 13:31)",
+        [
+            "Pixie Hall Studios",
+            700001776
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:12, 19:55)",
+        [
+            "",
+            700010479
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:12, 20:44)",
+        [
+            "Pixie Hall Studios",
+            700001776
+        ]
+    ],
+    [
+        "Wrap up the day at Mission Dolores Dental Care for a quick consultation.",
+        "(21:21, 22:47)",
+        [
+            "Pixie Hall Studios",
+            700001776
+        ]
+    ],
+    [
+        "Visit La Copa Loca for dessert.",
+        "(23:32, 23:59)",
+        [
+            "Pixie Hall Studios",
+            700001776
+        ]
+    ]
+]

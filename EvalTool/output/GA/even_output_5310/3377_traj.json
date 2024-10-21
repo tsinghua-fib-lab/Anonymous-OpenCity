@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700031269
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:40)",
+        [
+            "Abrons Arts Center",
+            700000470
+        ]
+    ],
+    [
+        "Lunch and Relaxation",
+        "(12:44, 14:22)",
+        [
+            "",
+            700031275
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:47, 15:53)",
+        [
+            "Abrons Arts Center",
+            700000470
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 19:13)",
+        [
+            "East Side Glatt",
+            700019775
+        ]
+    ],
+    [
+        "Next activity after lunch",
+        "(21:59, 23:31)",
+        [
+            "East Side Glatt",
+            700019775
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "Zafis Luncheonette",
+            700003822
+        ]
+    ]
+]

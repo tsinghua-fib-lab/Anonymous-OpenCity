@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "High Street on Hudson",
+            700008879
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:28)",
+        [
+            "",
+            700019523
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(10:26, 12:56)",
+        [
+            "High Street on Hudson",
+            700008879
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(12:51, 13:57)",
+        [
+            "High Street on Hudson",
+            700008879
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:57, 16:07)",
+        [
+            "High Street on Hudson",
+            700008879
+        ]
+    ],
+    [
+        "Leisure activity at High Street on Hudson",
+        "(15:47, 17:08)",
+        [
+            "High Street on Hudson",
+            700008879
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:15, 23:13)",
+        [
+            "",
+            700011123
+        ]
+    ],
+    [
+        "Stay at High Street on Hudson (Situation 9)",
+        "(22:27, 23:59)",
+        [
+            "High Street on Hudson",
+            700008879
+        ]
+    ],
+    [
+        "Stay at High Street on Hudson (Situation 9)",
+        "(23:57, 23:59)",
+        [
+            "Hudson Cafe",
+            700008801
+        ]
+    ]
+]

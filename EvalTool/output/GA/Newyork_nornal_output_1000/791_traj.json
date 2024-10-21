@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:52)",
+        [
+            "Sofia Pizza Shoppe",
+            700039310
+        ]
+    ],
+    [
+        "Creative Work",
+        "(13:56, 16:07)",
+        [
+            "Sofia Pizza Shoppe",
+            700039310
+        ]
+    ],
+    [
+        "Continue your creative work at J's Pizza.",
+        "(17:00, 18:14)",
+        [
+            "",
+            700025676
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:13, 20:13)",
+        [
+            "",
+            700014479
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:35, 21:53)",
+        [
+            "Duane Reade",
+            700030439
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "Sushi Ginza",
+            700006518
+        ]
+    ]
+]

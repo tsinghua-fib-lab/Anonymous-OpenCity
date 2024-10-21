@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "",
+            700050808
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(08:00, 09:35)",
+        [
+            "",
+            700050808
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:14, 12:01)",
+        [
+            "Caféothèque de Paris",
+            700000714
+        ]
+    ],
+    [
+        "Leisure or Hobby Time",
+        "(12:12, 13:46)",
+        [
+            "Caféothèque de Paris",
+            700000714
+        ]
+    ],
+    [
+        "Continue Leisure or Hobby Time",
+        "(13:46, 15:26)",
+        [
+            "Caféothèque de Paris",
+            700000714
+        ]
+    ],
+    [
+        "Entertainment",
+        "(15:56, 17:56)",
+        [
+            "",
+            700057392
+        ]
+    ],
+    [
+        "Leisure or Hobby Time",
+        "(18:01, 19:37)",
+        [
+            "",
+            700006359
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:03, 21:58)",
+        [
+            "",
+            700008933
+        ]
+    ]
+]

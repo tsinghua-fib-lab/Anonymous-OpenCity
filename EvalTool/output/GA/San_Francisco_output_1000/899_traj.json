@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Franchino",
+            700001463
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(09:00, 09:55)",
+        [
+            "Franchino",
+            700001463
+        ]
+    ],
+    [
+        "Catch up on household chores",
+        "(10:54, 11:54)",
+        [
+            "Franchino",
+            700001463
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 14:25)",
+        [
+            "The Baked Bear",
+            700005367
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:37, 16:18)",
+        [
+            "MyCanh",
+            700004993
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 23:59)",
+        [
+            "Cold Drinks Bar",
+            700010276
+        ]
+    ],
+    [
+        "Next place after meeting up with friends or family in Situation_7",
+        "(23:03, 23:59)",
+        [
+            "Cold Drinks Bar",
+            700010276
+        ]
+    ]
+]

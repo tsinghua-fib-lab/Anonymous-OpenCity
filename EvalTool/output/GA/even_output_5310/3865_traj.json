@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Old Rabbit Club",
+            700008892
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:12)",
+        [
+            "Minetta Tavern Restaurant",
+            700009148
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(15:40, 17:08)",
+        [
+            "Minetta Tavern Restaurant",
+            700009148
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(17:08, 18:05)",
+        [
+            "Minetta Tavern Restaurant",
+            700009148
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 21:22)",
+        [
+            "Van Leeuwen Ice Cream",
+            700017263
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(20:06, 21:33)",
+        [
+            "Munchiez",
+            700029998
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:06, 23:59)",
+        [
+            "Mamoun's Falafel",
+            700007668
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700067800
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:08)",
+        [
+            "",
+            700067800
+        ]
+    ],
+    [
+        "Go to Le Montebello",
+        "(11:29, 13:01)",
+        [
+            "Le Montebello",
+            700052449
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:38, 18:01)",
+        [
+            "Le Grand Amalfi",
+            700004720
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:54, 17:08)",
+        [
+            "Le Grand Amalfi",
+            700004720
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:14, 19:06)",
+        [
+            "",
+            700067797
+        ]
+    ],
+    [
+        "Stay at Le Montebello",
+        "(19:58, 20:58)",
+        [
+            "Le Grand Amalfi",
+            700004720
+        ]
+    ],
+    [
+        "Stay at Le Montebello.",
+        "(21:33, 23:10)",
+        [
+            "Le Grand Amalfi",
+            700004720
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "",
+            700067799
+        ]
+    ]
+]

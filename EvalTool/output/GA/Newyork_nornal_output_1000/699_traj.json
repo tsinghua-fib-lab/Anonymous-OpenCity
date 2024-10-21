@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700037629
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:13)",
+        [
+            "Starbucks",
+            700003429
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:20, 15:43)",
+        [
+            "Citi Bike - Pershing Square North",
+            700008162
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 20:24)",
+        [
+            "Los Tacos No.1",
+            700040148
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 22:19)",
+        [
+            "",
+            700037660
+        ]
+    ]
+]

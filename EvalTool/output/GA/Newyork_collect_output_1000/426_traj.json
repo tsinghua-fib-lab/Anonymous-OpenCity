@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:06)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:06, 15:20)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Personal Project/Study Time",
+        "(14:14, 15:47)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 22:16)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "Watch TV/Relax",
+        "(20:30, 22:04)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ]
+]

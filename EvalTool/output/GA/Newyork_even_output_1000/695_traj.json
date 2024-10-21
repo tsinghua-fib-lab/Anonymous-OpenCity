@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700037474
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(09:00, 10:22)",
+        [
+            "",
+            700037474
+        ]
+    ],
+    [
+        "Next activity from reading",
+        "(10:41, 12:40)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(13:11, 15:01)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(15:33, 17:10)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:22, 18:35)",
+        [
+            "Joe & The Juice",
+            700040270
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:21, 23:59)",
+        [
+            "",
+            700013860
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(09:00, 10:25)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "Free Time for Hobbies",
+        "(10:56, 12:57)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 17:14)",
+        [
+            "",
+            700002266
+        ]
+    ],
+    [
+        "Socialize or Video Call Friends/Family",
+        "(17:55, 19:31)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(20:23, 21:28)",
+        [
+            "Public School MO94",
+            700000405
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:39, 23:59)",
+        [
+            "New Chinatown",
+            700019571
+        ]
+    ]
+]

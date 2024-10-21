@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000741
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:27)",
+        [
+            "Dim Sum Palace",
+            700004725
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:29, 16:10)",
+        [
+            "",
+            700000741
+        ]
+    ],
+    [
+        "Social Time",
+        "(19:30, 20:59)",
+        [
+            "Dim Sum Palace",
+            700004725
+        ]
+    ],
+    [
+        "Go to Dim Sum Palace",
+        "(21:43, 23:44)",
+        [
+            "Dim Sum Palace",
+            700004725
+        ]
+    ],
+    [
+        "Visit Dr. David H. Lifschutz MD",
+        "(23:15, 23:59)",
+        [
+            "",
+            700002574
+        ]
+    ]
+]

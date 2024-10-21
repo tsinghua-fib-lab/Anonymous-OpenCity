@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:19)",
+        [
+            "",
+            700072082
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(13:00, 14:26)",
+        [
+            "The Grosvenor",
+            700003236
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(15:01, 17:09)",
+        [
+            "The Grosvenor",
+            700003236
+        ]
+    ],
+    [
+        "Watch a Movie/TV Series",
+        "(17:38, 18:58)",
+        [
+            "The Grosvenor",
+            700003236
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:21, 23:59)",
+        [
+            "",
+            700023759
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:22, 22:42)",
+        [
+            "",
+            700023753
+        ]
+    ]
+]

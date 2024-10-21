@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014535
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:00, 11:28)",
+        [
+            "Smalls Jazz Club",
+            700009221
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:49, 17:22)",
+        [
+            "Smalls Jazz Club",
+            700009221
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:54, 17:46)",
+        [
+            "Cafe Condesa",
+            700007324
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:59, 21:34)",
+        [
+            "Little Ruby’s Cafe",
+            700003732
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:43, 23:59)",
+        [
+            "Empellon Taqueria",
+            700005689
+        ]
+    ]
+]

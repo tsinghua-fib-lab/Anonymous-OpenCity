@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Petit Crenn",
+            700001058
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(09:00, 10:30)",
+        [
+            "Petit Crenn",
+            700001058
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(11:03, 12:32)",
+        [
+            "Petit Crenn",
+            700001058
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 18:19)",
+        [
+            "",
+            700002893
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:37, 23:59)",
+        [
+            "",
+            700002890
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Next workout session",
+        "(09:00, 10:50)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Next workout session",
+        "(10:28, 12:27)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Next leisure activity",
+        "(13:29, 15:10)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Next leisure activity",
+        "(16:01, 17:55)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Stay at Gran Merci",
+        "(18:08, 19:33)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 23:59)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:59)",
+        [
+            "",
+            700022519
+        ]
+    ],
+    [
+        "Stay at Gran Merci",
+        "(23:04, 23:59)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ]
+]

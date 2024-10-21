@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chase",
+            700002115
+        ]
+    ],
+    [
+        "Go for a walk in the local park.",
+        "(10:00, 10:55)",
+        [
+            "",
+            700000660
+        ]
+    ],
+    [
+        "Go for a walk in the local park",
+        "(10:56, 12:10)",
+        [
+            "Chase",
+            700002115
+        ]
+    ],
+    [
+        "Engage in a sport or leisure activity (e.g., basketball or bike ride).",
+        "(12:00, 13:22)",
+        [
+            "Chase",
+            700000659
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 16:49)",
+        [
+            "Star Bagels",
+            700001128
+        ]
+    ],
+    [
+        "Stay at Cafe Nook for reading.",
+        "(17:05, 18:57)",
+        [
+            "Star Bagels",
+            700001128
+        ]
+    ],
+    [
+        "Stay at Chase for reading.",
+        "(19:08, 20:53)",
+        [
+            "Chase",
+            700002115
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:35, 23:59)",
+        [
+            "Ora Wine Bar",
+            700010445
+        ]
+    ]
+]

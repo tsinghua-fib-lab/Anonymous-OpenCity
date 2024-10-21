@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(09:00, 10:07)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(10:34, 11:56)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 15:17)",
+        [
+            "Hamilton Fish Park Library",
+            700000552
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:09, 20:03)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:02, 23:46)",
+        [
+            "Citi Bike - E 2 St & Avenue C",
+            700008032
+        ]
+    ],
+    [
+        "Stay in the Citi Bike.",
+        "(23:50, 23:59)",
+        [
+            "Loisaida Drugs & Surgical",
+            700019568
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:50)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:01, 16:31)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:56, 19:18)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Next activity based on daily plan",
+        "(20:16, 22:08)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Next activity based on daily plan",
+        "(22:22, 23:59)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:07)",
+        [
+            "",
+            700020822
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(10:15, 11:46)",
+        [
+            "Cafe Bravo",
+            700016260
+        ]
+    ],
+    [
+        "Visit a Local Library or Community Center",
+        "(12:23, 13:46)",
+        [
+            "Cafe Bravo",
+            700016260
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:33, 16:11)",
+        [
+            "Cafe Bravo",
+            700016260
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:59, 22:20)",
+        [
+            "",
+            700018500
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(22:59, 23:59)",
+        [
+            "Citi Bike - West 29th Street & 9th Avenue",
+            700019804
+        ]
+    ]
+]

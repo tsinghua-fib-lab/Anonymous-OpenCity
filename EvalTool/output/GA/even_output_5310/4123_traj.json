@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fiat Café",
+            700009358
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:25)",
+        [
+            "Upside Pizza",
+            700004786
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:06, 16:23)",
+        [
+            "5ive Spice",
+            700021847
+        ]
+    ],
+    [
+        "Wind down the day with some light reading or meditation.",
+        "(20:15, 21:57)",
+        [
+            "Rice to Riches",
+            700010014
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:46)",
+        [
+            "Wan Wan",
+            700007828
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "Upside Pizza",
+            700004786
+        ]
+    ]
+]

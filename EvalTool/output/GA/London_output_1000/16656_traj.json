@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:35)",
+        [
+            "Newton Street",
+            700020796
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 19:21)",
+        [
+            "",
+            700023876
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(18:01, 20:03)",
+        [
+            "Redemption Roasters",
+            700018628
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(20:51, 21:59)",
+        [
+            "Redemption Roasters",
+            700018628
+        ]
+    ],
+    [
+        "Stay at current location.",
+        "(22:45, 23:54)",
+        [
+            "Redemption Roasters",
+            700018628
+        ]
+    ]
+]

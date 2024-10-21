@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001234
+        ]
+    ],
+    [
+        "Brunch at Home",
+        "(10:00, 11:07)",
+        [
+            "Dim Sum Club",
+            700004854
+        ]
+    ],
+    [
+        "Brunch at Home",
+        "(11:55, 13:31)",
+        [
+            "Dim Sum Club",
+            700004854
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:07, 16:48)",
+        [
+            "",
+            700001334
+        ]
+    ],
+    [
+        "Prepare a Simple Dinner",
+        "(17:58, 18:59)",
+        [
+            "Dim Sum Club",
+            700004854
+        ]
+    ],
+    [
+        "Wind Down with a Book or Podcast",
+        "(19:29, 21:10)",
+        [
+            "",
+            700001234
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:14, 23:59)",
+        [
+            "Kopiku",
+            700004970
+        ]
+    ]
+]

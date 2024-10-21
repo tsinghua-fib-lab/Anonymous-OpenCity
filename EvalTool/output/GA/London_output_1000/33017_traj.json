@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:45)",
+        [
+            "Pitt Cue",
+            700025948
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Development",
+        "(15:55, 18:01)",
+        [
+            "Shoe Shine",
+            700020451
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:14, 21:37)",
+        [
+            "Shoe Shine",
+            700020451
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Development",
+        "(23:15, 23:59)",
+        [
+            "Shoe Shine",
+            700020451
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700015402
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 11:10)",
+        [
+            "City Hops",
+            700010941
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:49, 16:35)",
+        [
+            "El Doji",
+            700006523
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 16:37)",
+        [
+            "Duane Reade",
+            700009654
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 20:04)",
+        [
+            "Veterinary Emergency Group",
+            700014656
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 23:59)",
+        [
+            "",
+            700002309
+        ]
+    ],
+    [
+        "Stay at Serendipity 3",
+        "(23:45, 23:59)",
+        [
+            "",
+            700002494
+        ]
+    ]
+]

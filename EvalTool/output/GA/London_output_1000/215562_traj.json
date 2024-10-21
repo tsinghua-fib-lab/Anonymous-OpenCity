@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bentham Court",
+            700006926
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:00, 11:01)",
+        [
+            "Bentham Court",
+            700006926
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(11:26, 12:56)",
+        [
+            "Bentham Court",
+            700006926
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:55, 16:03)",
+        [
+            "",
+            700006681
+        ]
+    ],
+    [
+        "Continue Free Time/Relaxation",
+        "(16:29, 17:50)",
+        [
+            "Bentham Court",
+            700006926
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:49, 20:16)",
+        [
+            "",
+            700018783
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(20:24, 21:52)",
+        [
+            "",
+            700032168
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:27, 23:59)",
+        [
+            "",
+            700018778
+        ]
+    ]
+]

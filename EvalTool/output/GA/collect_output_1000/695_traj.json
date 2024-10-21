@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030408
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:50)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:48, 15:13)",
+        [
+            "STK Midtown",
+            700017457
+        ]
+    ],
+    [
+        "Afternoon Outing",
+        "(15:46, 18:05)",
+        [
+            "STK Midtown",
+            700017457
+        ]
+    ],
+    [
+        "You decide to stay at STK Midtown and continue relaxing until 19:00.",
+        "(18:22, 18:56)",
+        [
+            "STK Midtown",
+            700017457
+        ]
+    ],
+    [
+        "Stay at Joe & The Juice",
+        "(18:56, 20:07)",
+        [
+            "Joe & The Juice",
+            700040270
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:35, 23:53)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ],
+    [
+        "Stay at Joe & The Juice",
+        "(23:53, 23:59)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020528
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:14)",
+        [
+            "",
+            700020535
+        ]
+    ],
+    [
+        "Afternoon Free Time",
+        "(13:51, 15:29)",
+        [
+            "Niles NYC",
+            700006175
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 20:59)",
+        [
+            "",
+            700018514
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:16, 23:45)",
+        [
+            "Pat LaFrieda Meat Purveyors",
+            700014596
+        ]
+    ],
+    [
+        "Next activity based on Situation 10",
+        "(22:47, 23:59)",
+        [
+            "Niles NYC",
+            700006175
+        ]
+    ]
+]

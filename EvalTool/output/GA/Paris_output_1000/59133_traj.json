@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Terminus Nord",
+            700006361
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:35)",
+        [
+            "Terminus Nord",
+            700006361
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 13:55)",
+        [
+            "",
+            700023691
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 20:34)",
+        [
+            "",
+            700054757
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:02, 22:57)",
+        [
+            "Neni Paris",
+            700007049
+        ]
+    ],
+    [
+        "Stay at Terminus Nord.",
+        "(23:38, 23:59)",
+        [
+            "Neni Paris",
+            700007049
+        ]
+    ]
+]

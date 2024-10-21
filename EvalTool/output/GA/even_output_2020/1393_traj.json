@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009162
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:54)",
+        [
+            "",
+            700012959
+        ]
+    ],
+    [
+        "Explore Local Attractions",
+        "(11:33, 13:26)",
+        [
+            "Cafe Josephine",
+            700006998
+        ]
+    ],
+    [
+        "Explore Local Attractions",
+        "(13:38, 15:03)",
+        [
+            "Cafe Josephine",
+            700006998
+        ]
+    ],
+    [
+        "Explore Local Attractions",
+        "(15:38, 17:02)",
+        [
+            "Cafe Josephine",
+            700006998
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:58, 21:54)",
+        [
+            "",
+            700006794
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 22:26)",
+        [
+            "",
+            700006797
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "SideBAR",
+            700012437
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:22)",
+        [
+            "Chipotle",
+            700007348
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:35, 11:57)",
+        [
+            "Chipotle",
+            700007348
+        ]
+    ],
+    [
+        "go to Chipotle",
+        "(12:49, 14:28)",
+        [
+            "Chipotle",
+            700007348
+        ]
+    ],
+    [
+        "Watch Favorite TV Show or Movie",
+        "(14:27, 16:04)",
+        [
+            "Chipotle",
+            700007348
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 19:26)",
+        [
+            "Dunkin'",
+            700007520
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:37, 23:49)",
+        [
+            "Urbanspace",
+            700033597
+        ]
+    ]
+]

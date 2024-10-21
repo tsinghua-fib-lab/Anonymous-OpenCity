@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700034909
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:17)",
+        [
+            "",
+            700002135
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(13:15, 15:07)",
+        [
+            "",
+            700034909
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:12, 16:43)",
+        [
+            "Juice Generation",
+            700009853
+        ]
+    ],
+    [
+        "Free Time for Hobbies",
+        "(20:35, 22:00)",
+        [
+            "",
+            700034909
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:46, 23:10)",
+        [
+            "Juice Generation",
+            700009853
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:50, 23:59)",
+        [
+            "Juice Generation",
+            700009853
+        ]
+    ]
+]

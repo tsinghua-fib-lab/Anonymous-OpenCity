@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - 1st Avenue & East 62nd Street",
+            700021683
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(09:00, 10:26)",
+        [
+            "Citi Bike - 1st Avenue & East 62nd Street",
+            700021683
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:46, 14:52)",
+        [
+            "",
+            700001444
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(12:16, 13:49)",
+        [
+            "Citi Bike - 1st Avenue & East 62nd Street",
+            700021683
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:07, 18:10)",
+        [
+            "Buddy's Dog Den",
+            700040261
+        ]
+    ],
+    [
+        "Prepare for the Upcoming Week",
+        "(15:42, 17:36)",
+        [
+            "Citi Bike - 1st Avenue & East 62nd Street",
+            700021683
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 21:57)",
+        [
+            "",
+            700002917
+        ]
+    ]
+]

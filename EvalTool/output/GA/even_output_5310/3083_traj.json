@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011347
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast",
+        "(10:00, 10:51)",
+        [
+            "",
+            700011347
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the park",
+        "(11:15, 12:50)",
+        [
+            "Blackstone Coffee Roaster",
+            700023338
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 15:03)",
+        [
+            "",
+            700001483
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 20:41)",
+        [
+            "Rivoli Pizza",
+            700020678
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "Cowgirl",
+            700005692
+        ]
+    ]
+]

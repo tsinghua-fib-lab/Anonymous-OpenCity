@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Lun Ting Cafe",
+            700004236
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:27)",
+        [
+            "Great Eastern Restaurant",
+            700002994
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(13:47, 15:27)",
+        [
+            "Great Eastern Restaurant",
+            700002994
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(16:07, 18:08)",
+        [
+            "Great Eastern Restaurant",
+            700002994
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(18:21, 20:04)",
+        [
+            "Great Eastern Restaurant",
+            700002994
+        ]
+    ],
+    [
+        "Stay at Lun Ting Cafe",
+        "(20:55, 22:05)",
+        [
+            "Lun Ting Cafe",
+            700004236
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(22:13, 23:41)",
+        [
+            "Lun Ting Cafe",
+            700004236
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Lun Ting Cafe",
+            700004236
+        ]
+    ]
+]

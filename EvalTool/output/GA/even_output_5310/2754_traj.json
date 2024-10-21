@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Manhattan Parking Group",
+            700040473
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:00)",
+        [
+            "Birch Coffee",
+            700014364
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:41, 14:27)",
+        [
+            "Burrito Box",
+            700003874
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:25, 16:56)",
+        [
+            "Manhattan Parking Group",
+            700040473
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:36, 18:33)",
+        [
+            "Manhattan Parking Group",
+            700040473
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 21:57)",
+        [
+            "Masseria dei Vini",
+            700006399
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(22:47, 23:59)",
+        [
+            "Manhattan Parking Group",
+            700040473
+        ]
+    ]
+]

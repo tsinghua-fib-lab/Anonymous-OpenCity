@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Auto Motion",
+            700018140
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby",
+        "(10:00, 11:50)",
+        [
+            "Auto Motion",
+            700018140
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby",
+        "(12:12, 13:58)",
+        [
+            "Auto Motion",
+            700018140
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 15:52)",
+        [
+            "",
+            700002112
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 17:45)",
+        [
+            "",
+            700001491
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:32, 21:44)",
+        [
+            "Di Di Dumpling",
+            700011514
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:19, 23:54)",
+        [
+            "",
+            700022511
+        ]
+    ],
+    [
+        "Stay at Di Di Dumpling",
+        "(23:57, 23:59)",
+        [
+            "Auto Motion",
+            700018140
+        ]
+    ]
+]

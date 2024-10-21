@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010127
+        ]
+    ],
+    [
+        "Next leisure activity: Visit an art gallery or museum",
+        "(10:00, 11:37)",
+        [
+            "Loltún",
+            700010800
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:45, 13:24)",
+        [
+            "Loltún",
+            700010800
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:25, 15:42)",
+        [
+            "20mission Hacker Hotel",
+            700002370
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 19:54)",
+        [
+            "Empire Jiu Jitsu",
+            700006312
+        ]
+    ],
+    [
+        "Next leisure activity: Visit an art gallery or museum",
+        "(20:07, 21:03)",
+        [
+            "Café de Olla",
+            700012291
+        ]
+    ],
+    [
+        "next leisure activity",
+        "(22:00, 23:59)",
+        [
+            "Café de Olla",
+            700012291
+        ]
+    ]
+]

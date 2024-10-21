@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020329
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:46)",
+        [
+            "",
+            700020337
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(12:38, 14:07)",
+        [
+            "",
+            700001542
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(14:36, 16:46)",
+        [
+            "Norman Thomas High School",
+            700006341
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 20:47)",
+        [
+            "Miraj Healthy Grill",
+            700015193
+        ]
+    ],
+    [
+        "Dinner at a New Restaurant",
+        "(20:32, 22:08)",
+        [
+            "",
+            700003105
+        ]
+    ],
+    [
+        "Dinner at a New Restaurant",
+        "(22:21, 23:59)",
+        [
+            "Murray Park Garage",
+            700015189
+        ]
+    ]
+]

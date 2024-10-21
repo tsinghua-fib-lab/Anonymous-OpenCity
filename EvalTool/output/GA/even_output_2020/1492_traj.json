@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010479
+        ]
+    ],
+    [
+        "Morning Workout or Yoga Session",
+        "(10:00, 11:20)",
+        [
+            "Chez Marius",
+            700001755
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(12:14, 14:06)",
+        [
+            "Bank of America",
+            700003207
+        ]
+    ],
+    [
+        "Afternoon Entertainment Activity",
+        "(14:30, 17:03)",
+        [
+            "Barney's Gourmet Hamburgers",
+            700001752
+        ]
+    ],
+    [
+        "Relax and Catch Up on a TV Show",
+        "(17:09, 18:53)",
+        [
+            "The UPS Store",
+            700001763
+        ]
+    ],
+    [
+        "Relax and Catch Up on a TV Show",
+        "(20:06, 21:57)",
+        [
+            "Noe Valley Station",
+            700000393
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:07, 23:38)",
+        [
+            "Noe Valley Spa",
+            700006195
+        ]
+    ]
+]

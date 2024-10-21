@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mezzeto",
+            700009257
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:43)",
+        [
+            "",
+            700002794
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(12:30, 13:52)",
+        [
+            "Mezzeto",
+            700009257
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 15:55)",
+        [
+            "Bank of America",
+            700011181
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(18:50, 20:03)",
+        [
+            "Bank of America",
+            700011181
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:58, 23:59)",
+        [
+            "",
+            700019103
+        ]
+    ]
+]

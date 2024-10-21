@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002194
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:16)",
+        [
+            "Oceans",
+            700005262
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(12:59, 13:54)",
+        [
+            "Oceans",
+            700005262
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 15:56)",
+        [
+            "Boucherie",
+            700018128
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(20:51, 22:25)",
+        [
+            "Oceans",
+            700005262
+        ]
+    ],
+    [
+        "Stay at Oceans",
+        "(22:44, 23:59)",
+        [
+            "Oceans",
+            700005262
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:50, 23:59)",
+        [
+            "",
+            700002018
+        ]
+    ]
+]

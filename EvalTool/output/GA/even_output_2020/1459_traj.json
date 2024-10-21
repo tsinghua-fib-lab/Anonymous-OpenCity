@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005243
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:57)",
+        [
+            "",
+            700010821
+        ]
+    ],
+    [
+        "Leisure Reading/TV",
+        "(12:07, 13:47)",
+        [
+            "",
+            700005243
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:12, 17:12)",
+        [
+            "Whiz Burgers",
+            700001876
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:12, 17:48)",
+        [
+            "L'emigrante",
+            700001686
+        ]
+    ],
+    [
+        "Next, go to El Salvador for dinner preparation.",
+        "(21:21, 23:11)",
+        [
+            "Minako",
+            700004298
+        ]
+    ],
+    [
+        "Go to Ceviche 19 for a snack.",
+        "(23:32, 23:59)",
+        [
+            "Linea Cafe",
+            700005458
+        ]
+    ]
+]

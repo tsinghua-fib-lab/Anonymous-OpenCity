@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Petrossian",
+            700003481
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:05)",
+        [
+            "Carnegie Diner & Cafe",
+            700003477
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 20:42)",
+        [
+            "Hooters",
+            700003480
+        ]
+    ],
+    [
+        "Stay at Cafe Metro",
+        "(17:32, 19:00)",
+        [
+            "",
+            700002549
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(20:05, 22:08)",
+        [
+            "SUGARFISH by Sushi Nozawa",
+            700041046
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(22:33, 23:53)",
+        [
+            "Petrossian",
+            700003481
+        ]
+    ]
+]

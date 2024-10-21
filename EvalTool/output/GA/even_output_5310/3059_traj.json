@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chipotle",
+            700028801
+        ]
+    ],
+    [
+        "Leisure reading or hobbies",
+        "(10:00, 11:22)",
+        [
+            "Chipotle",
+            700028801
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 14:39)",
+        [
+            "Tue Thai Food",
+            700004947
+        ]
+    ],
+    [
+        "Evening relaxation and planning for the week",
+        "(17:07, 19:10)",
+        [
+            "Tue Thai Food",
+            700004947
+        ]
+    ],
+    [
+        "Evening relaxation and planning for the week",
+        "(20:01, 20:56)",
+        [
+            "Chipotle",
+            700028801
+        ]
+    ],
+    [
+        "Stay at Chipotle",
+        "(21:40, 22:58)",
+        [
+            "Chipotle",
+            700028801
+        ]
+    ],
+    [
+        "Stay at Chipotle",
+        "(23:01, 23:59)",
+        [
+            "Pieces Bar",
+            700011195
+        ]
+    ]
+]

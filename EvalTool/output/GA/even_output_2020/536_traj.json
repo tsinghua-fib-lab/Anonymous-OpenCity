@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Western Addition Cultural Center",
+            700000433
+        ]
+    ],
+    [
+        "Have a leisurely breakfast",
+        "(09:00, 10:02)",
+        [
+            "Western Addition Cultural Center",
+            700000433
+        ]
+    ],
+    [
+        "Stay at Western Addition Cultural Center",
+        "(10:37, 12:12)",
+        [
+            "",
+            700002895
+        ]
+    ],
+    [
+        "Prepare an easy dinner at home",
+        "(12:45, 14:07)",
+        [
+            "Western Addition Cultural Center",
+            700000433
+        ]
+    ],
+    [
+        "Enjoy some personal reading or hobbies at home",
+        "(14:31, 15:21)",
+        [
+            "Little Free Library",
+            700010487
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:22, 18:18)",
+        [
+            "Cafe Altano",
+            700000850
+        ]
+    ],
+    [
+        "Wind down with some light reading or relaxation.",
+        "(19:24, 20:55)",
+        [
+            "Domo",
+            700011013
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 23:59)",
+        [
+            "Bike Parking",
+            700002840
+        ]
+    ]
+]

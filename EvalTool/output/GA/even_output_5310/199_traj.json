@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001156
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(09:00, 09:52)",
+        [
+            "Starbucks",
+            700005979
+        ]
+    ],
+    [
+        "Catch up on chores and errands",
+        "(10:13, 11:36)",
+        [
+            "Starbucks",
+            700005979
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:46, 17:45)",
+        [
+            "FDNY Engine 39/Ladder 16",
+            700000531
+        ]
+    ],
+    [
+        "Watch a movie or TV show",
+        "(16:01, 18:07)",
+        [
+            "FDNY Engine 39/Ladder 16",
+            700000531
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 20:30)",
+        [
+            "FDNY Engine 39/Ladder 16",
+            700000531
+        ]
+    ]
+]

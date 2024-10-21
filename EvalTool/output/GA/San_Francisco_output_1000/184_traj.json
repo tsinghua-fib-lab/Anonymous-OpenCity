@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000476
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:27)",
+        [
+            "Tower 737 Parking Garage",
+            700013910
+        ]
+    ],
+    [
+        "Next sports/outdoor activities",
+        "(15:08, 16:43)",
+        [
+            "",
+            700000476
+        ]
+    ],
+    [
+        "Sports/Outdoor Activities",
+        "(17:32, 19:00)",
+        [
+            "Chuy's Fiestas Taqueria II",
+            700005841
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:45, 23:16)",
+        [
+            "Pharaohs Mediterranean Sandwiches",
+            700001019
+        ]
+    ],
+    [
+        "Next sports/outdoor activities",
+        "(23:41, 23:59)",
+        [
+            "",
+            700009282
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Taxi Stand at Hotel Nikko",
+            700009883
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:28)",
+        [
+            "Union Square Sports Bar",
+            700002321
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:27, 14:42)",
+        [
+            "USPS",
+            700005897
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(12:43, 14:06)",
+        [
+            "Union Square Sports Bar",
+            700002321
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(14:12, 15:33)",
+        [
+            "Taxi Stand at Parc 55 (along Eddy St)",
+            700009886
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(16:06, 17:29)",
+        [
+            "Bank of America",
+            700010382
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 20:25)",
+        [
+            "",
+            700000097
+        ]
+    ],
+    [
+        "Wind Down and Prep for the Week Ahead",
+        "(19:54, 21:05)",
+        [
+            "USPS",
+            700001248
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "",
+            700007490
+        ]
+    ]
+]

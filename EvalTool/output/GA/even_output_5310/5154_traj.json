@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000929
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(09:00, 10:33)",
+        [
+            "Osteria del Porto",
+            700009775
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:07, 14:49)",
+        [
+            "Barbalu",
+            700009742
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:10, 19:15)",
+        [
+            "",
+            700035059
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(20:08, 22:10)",
+        [
+            "",
+            700035061
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:23, 23:43)",
+        [
+            "Il Brigante",
+            700009779
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "Jeremy's Ale House",
+            700009777
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dunkin Donuts",
+            700039853
+        ]
+    ],
+    [
+        "Stay at Kazuza.",
+        "(10:00, 11:37)",
+        [
+            "Dunkin Donuts",
+            700039853
+        ]
+    ],
+    [
+        "Go for a walk or light exercise in a nearby park.",
+        "(11:14, 12:05)",
+        [
+            "Dunkin Donuts",
+            700039853
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 16:53)",
+        [
+            "Raku East Village",
+            700015960
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:19, 18:55)",
+        [
+            "Dunkin Donuts",
+            700039853
+        ]
+    ],
+    [
+        "Stay at the current place",
+        "(20:17, 21:54)",
+        [
+            "Dunkin Donuts",
+            700039853
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:20, 23:59)",
+        [
+            "Dunkin Donuts",
+            700039853
+        ]
+    ]
+]

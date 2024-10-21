@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Jungle Bird",
+            700004331
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:10)",
+        [
+            "Jungle Bird",
+            700004331
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:00, 13:37)",
+        [
+            "",
+            700004356
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:39, 15:19)",
+        [
+            "",
+            700004356
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(16:13, 18:06)",
+        [
+            "Jungle Bird",
+            700004331
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:23, 23:48)",
+        [
+            "Socarrat Paella Bar",
+            700009368
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "",
+            700020144
+        ]
+    ]
+]

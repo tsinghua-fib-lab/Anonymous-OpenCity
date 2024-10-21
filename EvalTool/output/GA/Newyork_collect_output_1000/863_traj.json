@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:11)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "Engage in a hobby or work on a personal project.",
+        "(15:42, 17:41)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:37, 22:26)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Stay at So Gong Dong",
+        "(22:59, 23:56)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700012819
+        ]
+    ],
+    [
+        "Current place: Home. Stay time: 1 hour.",
+        "(10:00, 11:32)",
+        [
+            "Underdogs Cantina",
+            700001581
+        ]
+    ],
+    [
+        "Go to Underdogs Cantina for lunch.",
+        "(11:57, 13:23)",
+        [
+            "Underdogs Cantina",
+            700001581
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:36, 15:14)",
+        [
+            "Underdogs Cantina",
+            700001581
+        ]
+    ],
+    [
+        "Participate in a recreational activity.",
+        "(15:45, 17:14)",
+        [
+            "King St. Dental",
+            700011163
+        ]
+    ],
+    [
+        "Relaxation and study.",
+        "(17:31, 19:11)",
+        [
+            "",
+            700012819
+        ]
+    ],
+    [
+        "Next activity: Join a recreational activity.",
+        "(19:29, 22:29)",
+        [
+            "Tres",
+            700001580
+        ]
+    ],
+    [
+        "Dining at Tres after a day of activities.",
+        "(21:47, 22:55)",
+        [
+            "Tres",
+            700001580
+        ]
+    ],
+    [
+        "You will stay at Underdogs Cantina.",
+        "(23:46, 23:59)",
+        [
+            "Underdogs Cantina",
+            700001581
+        ]
+    ]
+]

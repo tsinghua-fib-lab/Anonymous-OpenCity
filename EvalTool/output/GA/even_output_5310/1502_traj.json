@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001728
+        ]
+    ],
+    [
+        "11:00 AM - 12:30 PM",
+        "(10:00, 11:38)",
+        [
+            "",
+            700007739
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:00, 14:42)",
+        [
+            "",
+            700003084
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:42, 15:49)",
+        [
+            "",
+            700020355
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:18, 19:42)",
+        [
+            "Bar Pitti",
+            700007729
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a TV series for relaxation before winding down for the night.",
+        "(19:45, 21:03)",
+        [
+            "Villa Mosconi",
+            700006538
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a TV series for relaxation before winding down for the night.",
+        "(21:08, 22:38)",
+        [
+            "Villa Mosconi",
+            700006538
+        ]
+    ],
+    [
+        "Watch TV or a movie.",
+        "(22:49, 23:53)",
+        [
+            "Villa Mosconi",
+            700006538
+        ]
+    ],
+    [
+        "Stay at Villa Mosconi.",
+        "(23:53, 23:59)",
+        [
+            "Villa Mosconi",
+            700006538
+        ]
+    ]
+]

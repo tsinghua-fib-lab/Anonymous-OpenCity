@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Supper",
+            700013457
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:16)",
+        [
+            "The Library",
+            700006113
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:32, 13:32)",
+        [
+            "il laboratorio del gelato",
+            700003404
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:02, 16:05)",
+        [
+            "The Library",
+            700006113
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:36, 23:27)",
+        [
+            "Kelly's",
+            700017082
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:31, 23:59)",
+        [
+            "Punjabi Deli & Grocery",
+            700003405
+        ]
+    ]
+]

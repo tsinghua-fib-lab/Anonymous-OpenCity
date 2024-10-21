@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rabbit House Omakase & Sake Bar",
+            700024363
+        ]
+    ],
+    [
+        "Go to the Rabbit House Omakase & Sake Bar.",
+        "(10:00, 12:27)",
+        [
+            "Rabbit House Omakase & Sake Bar",
+            700024363
+        ]
+    ],
+    [
+        "You have lunch at Rabbit House Omakase & Sake Bar.",
+        "(12:15, 13:36)",
+        [
+            "Rabbit House Omakase & Sake Bar",
+            700024363
+        ]
+    ],
+    [
+        "You stay at Rabbit House Omakase & Sake Bar.",
+        "(13:33, 15:08)",
+        [
+            "Old Man Hustle Comedy Bar",
+            700024367
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 21:06)",
+        [
+            "",
+            700025758
+        ]
+    ],
+    [
+        "Laugh at comedy in the pub.",
+        "(17:49, 19:04)",
+        [
+            "Old Man Hustle Comedy Bar",
+            700024367
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:35, 23:06)",
+        [
+            "Clockwork Bar",
+            700004661
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:59)",
+        [
+            "North Dumpling",
+            700014305
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Temerarion",
+            700004350
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:51)",
+        [
+            "el coco",
+            700018522
+        ]
+    ],
+    [
+        "Brunch",
+        "(12:41, 14:03)",
+        [
+            "el coco",
+            700018522
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:15, 15:09)",
+        [
+            "el coco",
+            700018522
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(16:15, 17:39)",
+        [
+            "Citi Bike - West 20th Street & 8th Avenue",
+            700008206
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(18:33, 19:59)",
+        [
+            "Citi Bike - West 20th Street & 8th Avenue",
+            700008206
+        ]
+    ],
+    [
+        "Relax and Read",
+        "(20:32, 22:10)",
+        [
+            "el coco",
+            700018522
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:55, 23:59)",
+        [
+            "Jeannie's Deli",
+            700004325
+        ]
+    ]
+]

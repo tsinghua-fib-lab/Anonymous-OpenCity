@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Lobster Club",
+            700015167
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:11)",
+        [
+            "Uncle Gussy's",
+            700008963
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:30, 17:32)",
+        [
+            "",
+            700000847
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(15:46, 16:54)",
+        [
+            "Pomme Palais Bakery and Coffee",
+            700016256
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(17:04, 18:53)",
+        [
+            "Pomme Palais Bakery and Coffee",
+            700016256
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:13, 23:07)",
+        [
+            "Starbucks",
+            700006484
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:50, 23:59)",
+        [
+            "",
+            700001288
+        ]
+    ]
+]

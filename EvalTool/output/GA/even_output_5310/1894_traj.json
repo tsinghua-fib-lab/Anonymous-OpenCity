@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700009246
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:19)",
+        [
+            "",
+            700040155
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 14:38)",
+        [
+            "Masseria Caffe & Bakery",
+            700014222
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:57, 20:45)",
+        [
+            "An'nam",
+            700006534
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:29, 23:59)",
+        [
+            "Starbucks",
+            700006535
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Café Rito",
+            700010185
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:33)",
+        [
+            "Clock Bar",
+            700008781
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:56, 13:10)",
+        [
+            "Clock Bar",
+            700008781
+        ]
+    ],
+    [
+        "Transitioning from Brunch with Friends",
+        "(13:22, 14:43)",
+        [
+            "Ula",
+            700010532
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:48, 20:42)",
+        [
+            "",
+            700006257
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:25, 22:52)",
+        [
+            "Cesario's",
+            700000908
+        ]
+    ],
+    [
+        "Go to Cesario's.",
+        "(22:11, 23:59)",
+        [
+            "",
+            700011254
+        ]
+    ]
+]

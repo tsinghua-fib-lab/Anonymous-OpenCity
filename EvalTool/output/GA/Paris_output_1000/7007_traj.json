@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:52)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:20, 13:20)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 17:15)",
+        [
+            "Fruit Stand",
+            700051749
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:37, 21:04)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Catching up with friends over dinner",
+        "(21:47, 23:12)",
+        [
+            "",
+            700026033
+        ]
+    ],
+    [
+        "Catch up with friends over dinner.",
+        "(23:10, 23:59)",
+        [
+            "Toilette Tour Eiffel",
+            700004831
+        ]
+    ]
+]

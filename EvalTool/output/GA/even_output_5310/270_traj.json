@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bel Ami Cafe",
+            700017236
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:31)",
+        [
+            "Avena",
+            700019745
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:56, 15:18)",
+        [
+            "Bel Ami Cafe",
+            700017236
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:54, 17:21)",
+        [
+            "Peter G Peterson Center for International Studies",
+            700000293
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 23:59)",
+        [
+            "",
+            700003016
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(22:08, 23:34)",
+        [
+            "",
+            700018073
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:28, 23:59)",
+        [
+            "",
+            700010789
+        ]
+    ]
+]

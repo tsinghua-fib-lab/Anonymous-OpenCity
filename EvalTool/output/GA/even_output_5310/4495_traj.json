@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Van Leeuwen",
+            700004789
+        ]
+    ],
+    [
+        "Light Exercise or Outdoor Activity (10:00 AM - 11:30 AM)",
+        "(09:00, 10:29)",
+        [
+            "Taïm",
+            700009547
+        ]
+    ],
+    [
+        "Relax and Read",
+        "(11:01, 12:36)",
+        [
+            "Van Leeuwen",
+            700004789
+        ]
+    ],
+    [
+        "Lunch with Family or Friends",
+        "(12:34, 13:37)",
+        [
+            "Lombardi's Pizza",
+            700003345
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:19, 19:26)",
+        [
+            "Lombardi's Pizza",
+            700003345
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 22:35)",
+        [
+            "",
+            700003210
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 21:23)",
+        [
+            "",
+            700025298
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Figo",
+            700025829
+        ]
+    ]
+]

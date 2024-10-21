@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Alamo Square Seafood Grill",
+            700001734
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:58)",
+        [
+            "Little Free Library",
+            700010492
+        ]
+    ],
+    [
+        "Spend the afternoon reading or catching up on a hobby",
+        "(14:23, 15:57)",
+        [
+            "",
+            700008270
+        ]
+    ],
+    [
+        "Spend the afternoon reading or catching up on a hobby",
+        "(16:54, 17:57)",
+        [
+            "Little Free Library",
+            700010492
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 20:22)",
+        [
+            "",
+            700008270
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:04, 23:36)",
+        [
+            "",
+            700014403
+        ]
+    ]
+]

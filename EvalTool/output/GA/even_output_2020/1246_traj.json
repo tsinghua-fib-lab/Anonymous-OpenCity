@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010224
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:35)",
+        [
+            "",
+            700000798
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:48, 13:09)",
+        [
+            "",
+            700000798
+        ]
+    ],
+    [
+        "Social Engagement",
+        "(13:44, 15:14)",
+        [
+            "Bank of America",
+            700009514
+        ]
+    ],
+    [
+        "Social Engagement",
+        "(15:38, 16:51)",
+        [
+            "Bank of America",
+            700009514
+        ]
+    ],
+    [
+        "Social Engagement",
+        "(17:28, 19:24)",
+        [
+            "Bay Wheels",
+            700009616
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(19:21, 20:59)",
+        [
+            "Bay Wheels",
+            700010528
+        ]
+    ],
+    [
+        "Stay at Bay Wheels",
+        "(21:13, 22:33)",
+        [
+            "Bay Wheels",
+            700010528
+        ]
+    ],
+    [
+        "Stay at Bay Wheels",
+        "(23:16, 23:59)",
+        [
+            "Bay Wheels",
+            700010528
+        ]
+    ]
+]

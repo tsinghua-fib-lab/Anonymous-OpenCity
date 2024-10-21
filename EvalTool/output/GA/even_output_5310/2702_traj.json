@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020823
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:33)",
+        [
+            "Maggie Reilly's",
+            700013885
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 15:05)",
+        [
+            "Cafe Bravo",
+            700016260
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:28, 16:59)",
+        [
+            "Cafe Bravo",
+            700016260
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:40, 19:54)",
+        [
+            "",
+            700037734
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:55, 21:17)",
+        [
+            "",
+            700020823
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:51, 23:47)",
+        [
+            "Chelsea Park Toilets",
+            700009102
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(23:47, 23:59)",
+        [
+            "Chelsea Park Toilets",
+            700009102
+        ]
+    ]
+]

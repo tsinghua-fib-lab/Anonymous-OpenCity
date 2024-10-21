@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018007
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast and coffee.",
+        "(10:00, 10:55)",
+        [
+            "Citi Bike - East 68th Street & Madison Avenue",
+            700021682
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:45, 16:53)",
+        [
+            "",
+            700017870
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 14:15)",
+        [
+            "",
+            700012939
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 68th Street & Madison Avenue.",
+        "(18:22, 19:55)",
+        [
+            "",
+            700017870
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 68th Street & Madison Avenue.",
+        "(20:10, 22:05)",
+        [
+            "Citi Bike - East 68th Street & Madison Avenue",
+            700021682
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "USPS",
+            700017170
+        ]
+    ]
+]

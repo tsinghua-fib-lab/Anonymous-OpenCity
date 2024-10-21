@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700014009
+        ]
+    ],
+    [
+        "Exercise or outdoor activity",
+        "(09:00, 10:05)",
+        [
+            "",
+            700014010
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:08, 15:36)",
+        [
+            "",
+            700013959
+        ]
+    ],
+    [
+        "Hobby time or creative activities",
+        "(14:07, 16:17)",
+        [
+            "Dragon Horse",
+            700010444
+        ]
+    ],
+    [
+        "Hobby time or creative activities",
+        "(16:13, 18:03)",
+        [
+            "Dragon Horse",
+            700010444
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:35, 19:39)",
+        [
+            "",
+            700013959
+        ]
+    ],
+    [
+        "Go to Dragon Horse",
+        "(22:27, 23:51)",
+        [
+            "Dragon Horse",
+            700010444
+        ]
+    ],
+    [
+        "Stay at Dragon Horse",
+        "(23:54, 23:59)",
+        [
+            "Dragon Horse",
+            700010444
+        ]
+    ]
+]

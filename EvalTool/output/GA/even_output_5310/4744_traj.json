@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of America",
+            700007505
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:24)",
+        [
+            "Winter Garden Theatre",
+            700016821
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:42, 13:58)",
+        [
+            "Famous Amadeus",
+            700024860
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:55, 19:03)",
+        [
+            "Bank of America",
+            700007270
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:27, 21:14)",
+        [
+            "Bank of America",
+            700008772
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "McHale's Pub",
+            700007344
+        ]
+    ]
+]

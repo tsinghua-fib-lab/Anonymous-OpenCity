@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "George Moscone Elementary",
+            700000176
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:55)",
+        [
+            "George Moscone Elementary",
+            700000176
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:59, 11:59)",
+        [
+            "George Moscone Elementary",
+            700000176
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:43, 17:52)",
+        [
+            "George Moscone Elementary",
+            700000176
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:21, 17:20)",
+        [
+            "",
+            700014117
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:30, 22:43)",
+        [
+            "Bay Wheels",
+            700010406
+        ]
+    ]
+]

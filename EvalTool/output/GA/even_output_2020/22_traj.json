@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009140
+        ]
+    ],
+    [
+        "Wake Up and Relax",
+        "(10:00, 12:10)",
+        [
+            "",
+            700009142
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:14, 14:12)",
+        [
+            "",
+            700001185
+        ]
+    ],
+    [
+        "Visit a Cultural Venue",
+        "(14:27, 17:05)",
+        [
+            "Marigold Cafe",
+            700012790
+        ]
+    ],
+    [
+        "5:00 PM - 6:00 PM Grocery Shopping",
+        "(17:10, 18:12)",
+        [
+            "Bay Wheels",
+            700010406
+        ]
+    ],
+    [
+        "5:00 PM - 6:00 PM Grocery Shopping",
+        "(18:22, 19:44)",
+        [
+            "Marigold Cafe",
+            700012790
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:52, 20:50)",
+        [
+            "Marigold Cafe",
+            700012790
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(21:43, 23:03)",
+        [
+            "Marigold Cafe",
+            700012790
+        ]
+    ],
+    [
+        "Stay at Marigold Cafe",
+        "(23:36, 23:59)",
+        [
+            "Marigold Cafe",
+            700012790
+        ]
+    ]
+]

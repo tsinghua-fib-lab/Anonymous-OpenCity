@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018908
+        ]
+    ],
+    [
+        "Have a leisurely breakfast",
+        "(10:00, 11:08)",
+        [
+            "",
+            700018908
+        ]
+    ],
+    [
+        "Have lunch at a new restaurant with friends at 12:30 PM.",
+        "(12:06, 13:09)",
+        [
+            "McDonald's",
+            700013550
+        ]
+    ],
+    [
+        "Have lunch at a new restaurant with friends at 12:30 PM.",
+        "(13:11, 14:41)",
+        [
+            "USPS",
+            700017693
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 16:54)",
+        [
+            "Halpern Pharmacy",
+            700017916
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 23:29)",
+        [
+            "Jugos",
+            700006204
+        ]
+    ],
+    [
+        "Go to 'Jugos'",
+        "(23:31, 23:59)",
+        [
+            "Jugos",
+            700006204
+        ]
+    ]
+]

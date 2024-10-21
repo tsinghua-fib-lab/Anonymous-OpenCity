@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Avis",
+            700006365
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:24)",
+        [
+            "Rustic Table ",
+            700008764
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(11:47, 13:08)",
+        [
+            "Rustic Table ",
+            700008764
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 18:27)",
+        [
+            "The Green Room 42",
+            700022028
+        ]
+    ],
+    [
+        "Grocery Shopping/Errands",
+        "(15:30, 16:54)",
+        [
+            "The Green Room 42",
+            700022028
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:47, 22:50)",
+        [
+            "Wells Fargo",
+            700024393
+        ]
+    ],
+    [
+        "Stay at Food King.",
+        "(23:17, 23:59)",
+        [
+            "Signature Theatre",
+            700040101
+        ]
+    ]
+]

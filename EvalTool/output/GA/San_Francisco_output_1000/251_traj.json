@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001234
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:07)",
+        [
+            "",
+            700002398
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(14:37, 16:14)",
+        [
+            "Fiorella Polk Street",
+            700004277
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 20:04)",
+        [
+            "Crunch Fitness",
+            700002088
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:58, 23:59)",
+        [
+            "Aux Delices Vietnamese Restaurant",
+            700002087
+        ]
+    ]
+]

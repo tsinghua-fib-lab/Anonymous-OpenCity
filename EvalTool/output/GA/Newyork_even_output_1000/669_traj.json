@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Williamsburg Pizza",
+            700023649
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:57)",
+        [
+            "Empanada Mama",
+            700023343
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 15:52)",
+        [
+            "",
+            700002515
+        ]
+    ],
+    [
+        "Technical Reading or Online Course",
+        "(14:12, 15:55)",
+        [
+            "Empanada Mama",
+            700023343
+        ]
+    ],
+    [
+        "Technical Reading or Online Course",
+        "(16:01, 18:11)",
+        [
+            "USA Shaolin Temple",
+            700009324
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:05, 19:51)",
+        [
+            "Whipped - Urban Dessert Lab",
+            700005431
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:46, 22:38)",
+        [
+            "An Choi",
+            700007395
+        ]
+    ]
+]

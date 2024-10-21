@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Have breakfast",
+        "(09:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "next",
+        "(10:40, 11:50)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "stay",
+        "(13:04, 14:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "creative hobby",
+        "(14:38, 16:31)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Stay at Chicken Shop",
+        "(17:03, 18:57)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Next creative hobby activity",
+        "(19:06, 20:57)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Creative hobby activity",
+        "(21:32, 23:56)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:23, 23:59)",
+        [
+            "",
+            700011095
+        ]
+    ]
+]

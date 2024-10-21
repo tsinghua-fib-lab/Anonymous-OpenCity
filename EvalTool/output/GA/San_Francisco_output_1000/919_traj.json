@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bank of America",
+            700000527
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:08)",
+        [
+            "Old First Presbyterian Church",
+            700000236
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:07, 13:20)",
+        [
+            "Donuts & Things",
+            700001125
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:13, 17:50)",
+        [
+            "Donuts & Things",
+            700001125
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:17, 19:59)",
+        [
+            "Donuts & Things",
+            700001125
+        ]
+    ],
+    [
+        "Social Time",
+        "(20:16, 22:05)",
+        [
+            "Chase",
+            700002114
+        ]
+    ],
+    [
+        "Visit Old First Presbyterian Church.",
+        "(22:49, 23:57)",
+        [
+            "Kozy Kar",
+            700006027
+        ]
+    ]
+]

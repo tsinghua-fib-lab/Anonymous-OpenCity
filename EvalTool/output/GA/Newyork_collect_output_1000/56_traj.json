@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:21)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:33, 14:49)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:00, 21:16)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "At-Home Leisure or Hobbies",
+        "(18:18, 20:08)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "At-Home Leisure or Hobbies",
+        "(20:45, 23:19)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:00, 23:59)",
+        [
+            "Coletta",
+            700015591
+        ]
+    ]
+]

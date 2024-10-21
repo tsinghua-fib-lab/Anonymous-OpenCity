@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(10:00, 12:08)",
+        [
+            "Citi Bike - W 52 St / 11 Ave",
+            700008230
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:34, 15:31)",
+        [
+            "Citi Bike - W 52 St / 11 Ave",
+            700008230
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:25, 19:21)",
+        [
+            "Citi Bike - W 52 St / 11 Ave",
+            700008230
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:16, 22:39)",
+        [
+            "",
+            700027321
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "Irish Arts Center",
+            700000479
+        ]
+    ]
+]

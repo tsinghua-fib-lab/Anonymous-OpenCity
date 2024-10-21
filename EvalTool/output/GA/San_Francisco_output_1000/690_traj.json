@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chase",
+            700004888
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:48)",
+        [
+            "",
+            700004868
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Project",
+        "(13:11, 15:03)",
+        [
+            "Chase",
+            700004888
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Project",
+        "(15:39, 17:16)",
+        [
+            "Chase",
+            700004888
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:32, 20:06)",
+        [
+            "",
+            700004868
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:32, 22:34)",
+        [
+            "First National Bank of Northern California",
+            700004891
+        ]
+    ],
+    [
+        "Stay at Hayes Street Grill",
+        "(22:54, 23:56)",
+        [
+            "Walgreens",
+            700000682
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dunkin'",
+            700003440
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby (11:00 AM - 12:30 PM)",
+        "(10:00, 11:21)",
+        [
+            "Citi Bike - East 30th Street & Park Avenue South",
+            700007570
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby",
+        "(12:09, 14:09)",
+        [
+            "Citi Bike - East 30th Street & Park Avenue South",
+            700007570
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:38, 16:09)",
+        [
+            "Così",
+            700008616
+        ]
+    ],
+    [
+        "Socialize or Chat with Friends",
+        "(16:41, 18:08)",
+        [
+            "Pando Park",
+            700003441
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:26, 20:51)",
+        [
+            "California Pizza Kitchen",
+            700008419
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:13, 23:59)",
+        [
+            "Rebecca School",
+            700007573
+        ]
+    ]
+]

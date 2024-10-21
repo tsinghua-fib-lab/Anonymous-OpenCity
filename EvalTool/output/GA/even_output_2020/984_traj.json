@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "USA Parking",
+            700004068
+        ]
+    ],
+    [
+        "11:00 AM - Exercise",
+        "(10:00, 11:39)",
+        [
+            "Sammy's Cafe",
+            700004065
+        ]
+    ],
+    [
+        "stay",
+        "(11:43, 13:09)",
+        [
+            "USA Parking",
+            700004068
+        ]
+    ],
+    [
+        "Next activity planned: Leisure Activity.",
+        "(13:19, 14:57)",
+        [
+            "USA Parking",
+            700004068
+        ]
+    ],
+    [
+        "Next activity planned: Leisure Activity;",
+        "(15:28, 16:50)",
+        [
+            "USA Parking",
+            700004068
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:11, 21:12)",
+        [
+            "Sammy's Cafe",
+            700004065
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:02, 22:22)",
+        [
+            "",
+            700008884
+        ]
+    ]
+]

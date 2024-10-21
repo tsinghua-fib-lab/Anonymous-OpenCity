@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020595
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(09:00, 09:50)",
+        [
+            "Dunkin'",
+            700011456
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(09:59, 11:10)",
+        [
+            "Tabata Ramen & Yakitori Bar",
+            700030632
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(12:00, 14:01)",
+        [
+            "Tabata Ramen & Yakitori Bar",
+            700030632
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(14:37, 16:06)",
+        [
+            "Tabata Ramen & Yakitori Bar",
+            700030632
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 20:17)",
+        [
+            "Starbucks",
+            700008326
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:48, 19:21)",
+        [
+            "",
+            700020596
+        ]
+    ],
+    [
+        "Go to Sushi Gama Restaurant & Lounge and spend some time.",
+        "(23:35, 23:59)",
+        [
+            "",
+            700020597
+        ]
+    ]
+]

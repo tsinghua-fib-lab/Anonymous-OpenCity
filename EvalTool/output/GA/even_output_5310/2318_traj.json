@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Zipcar",
+            700008341
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(09:00, 10:04)",
+        [
+            "Hummus Kitchen",
+            700004869
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(10:12, 11:36)",
+        [
+            "Hummus Kitchen",
+            700004869
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 13:59)",
+        [
+            "Craft + Carry",
+            700002556
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 20:53)",
+        [
+            "Craft + Carry",
+            700002556
+        ]
+    ],
+    [
+        "Next, go to Hunan Village for dinner and enjoy some cost-effective food.",
+        "(23:07, 23:59)",
+        [
+            "Birch Coffee",
+            700009668
+        ]
+    ]
+]

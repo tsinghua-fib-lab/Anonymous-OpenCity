@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dentistry",
+            700021477
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:10)",
+        [
+            "Shell",
+            700021332
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:36, 17:38)",
+        [
+            "Honey Rider",
+            700006996
+        ]
+    ],
+    [
+        "Prepare a Simple Dinner",
+        "(18:23, 20:03)",
+        [
+            "Honey Rider",
+            700006996
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:56, 21:31)",
+        [
+            "Austrian Schnitzelhaus",
+            700007021
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "Cafe Bolle",
+            700005814
+        ]
+    ]
+]

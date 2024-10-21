@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mexiterranean Grill",
+            700030631
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 10:59)",
+        [
+            "B&B Bagels",
+            700030630
+        ]
+    ],
+    [
+        "Brunch",
+        "(11:39, 12:56)",
+        [
+            "B&B Bagels",
+            700030630
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:20, 17:30)",
+        [
+            "York Veterinary Center",
+            700038020
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:11, 20:55)",
+        [
+            "Bio Dynamic Orthotics & Prosthetics",
+            700038144
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(18:26, 19:58)",
+        [
+            "Ambulatory Care Clinic, Hospital for Special Surgery",
+            700038265
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 23:09)",
+        [
+            "Ambulatory Care Clinic, Hospital for Special Surgery",
+            700038265
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:42, 23:59)",
+        [
+            "Finestra Restaurant",
+            700016390
+        ]
+    ]
+]

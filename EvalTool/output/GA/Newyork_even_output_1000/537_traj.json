@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700037361
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 11:52)",
+        [
+            "Citi Bike - Saint James Place & Pearl Street",
+            700008183
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:20, 13:56)",
+        [
+            "Citi Bike - Saint James Place & Pearl Street",
+            700008183
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 19:06)",
+        [
+            "",
+            700037327
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:01, 20:58)",
+        [
+            "",
+            700037334
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:57, 22:37)",
+        [
+            "",
+            700037325
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(22:49, 23:51)",
+        [
+            "",
+            700037321
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(23:57, 23:59)",
+        [
+            "",
+            700037318
+        ]
+    ]
+]

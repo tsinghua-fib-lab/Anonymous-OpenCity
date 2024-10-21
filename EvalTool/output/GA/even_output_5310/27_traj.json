@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Just Salad",
+            700020691
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:32)",
+        [
+            "Pressed Juicery",
+            700025736
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:22, 12:56)",
+        [
+            "Vesuvio",
+            700025737
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(13:30, 15:30)",
+        [
+            "EAK Ramen",
+            700025728
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:01, 21:16)",
+        [
+            "EAK Ramen",
+            700025728
+        ]
+    ],
+    [
+        "Sleep and wind down for the night.",
+        "(21:30, 22:54)",
+        [
+            "",
+            700029817
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:25, 23:59)",
+        [
+            "Just Salad",
+            700020691
+        ]
+    ]
+]

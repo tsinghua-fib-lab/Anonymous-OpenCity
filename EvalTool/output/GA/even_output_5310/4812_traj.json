@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700025807
+        ]
+    ],
+    [
+        "Engage in a recreational activity, such as going for a jog or a bike ride in a nearby park.",
+        "(10:00, 12:07)",
+        [
+            "Kobrick Coffee",
+            700008899
+        ]
+    ],
+    [
+        "Next activity based on the plan.",
+        "(12:33, 14:01)",
+        [
+            "",
+            700017660
+        ]
+    ],
+    [
+        "Attend a leisurely activity, like visiting a museum, art gallery, or catching a matinee movie.",
+        "(14:55, 17:04)",
+        [
+            "Old Homestead Steakhouse",
+            700007294
+        ]
+    ],
+    [
+        "Attend a leisurely activity",
+        "(17:08, 18:54)",
+        [
+            "Old Homestead Steakhouse",
+            700007294
+        ]
+    ],
+    [
+        "Attend a leisurely activity.",
+        "(19:14, 21:02)",
+        [
+            "Wells Fargo",
+            700004417
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:50, 23:57)",
+        [
+            "",
+            700001046
+        ]
+    ]
+]

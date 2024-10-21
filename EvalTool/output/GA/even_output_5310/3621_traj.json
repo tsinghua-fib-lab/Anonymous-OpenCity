@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Nakamura",
+            700013752
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:59)",
+        [
+            "Three Times ",
+            700022490
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:08, 13:30)",
+        [
+            "Dental Office",
+            700024993
+        ]
+    ],
+    [
+        "Engage in a Sport or Outdoor Activity",
+        "(15:21, 16:44)",
+        [
+            "Dental Office",
+            700024993
+        ]
+    ],
+    [
+        "Visit Friends/Family or Host Them",
+        "(17:23, 18:50)",
+        [
+            "Nakamura",
+            700013752
+        ]
+    ],
+    [
+        "Visit Friends/Family",
+        "(18:55, 20:18)",
+        [
+            "Nakamura",
+            700013752
+        ]
+    ],
+    [
+        "Visit Friends/Family",
+        "(20:52, 22:54)",
+        [
+            "Nakamura",
+            700013752
+        ]
+    ],
+    [
+        "Continue visiting friends/family",
+        "(23:45, 23:59)",
+        [
+            "Nakamura",
+            700013752
+        ]
+    ]
+]

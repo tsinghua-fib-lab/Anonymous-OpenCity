@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Little Owl",
+            700008993
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:01)",
+        [
+            "Buvette Gastrotheque",
+            700013360
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:09, 19:18)",
+        [
+            "Five Guys",
+            700005288
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:26, 23:59)",
+        [
+            "Buvette Gastrotheque",
+            700013360
+        ]
+    ]
+]

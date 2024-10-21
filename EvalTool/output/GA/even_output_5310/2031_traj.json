@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Duane Reade",
+            700008317
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:31)",
+        [
+            "Starbucks",
+            700003466
+        ]
+    ],
+    [
+        "Stay at Duane Reade.",
+        "(12:18, 13:37)",
+        [
+            "Duane Reade",
+            700008317
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:00, 16:06)",
+        [
+            "Sushi Damo",
+            700003462
+        ]
+    ],
+    [
+        "Stay at Duane Reade.",
+        "(21:15, 23:13)",
+        [
+            "Sushi Damo",
+            700003462
+        ]
+    ],
+    [
+        "Stay at Duane Reade.",
+        "(23:10, 23:59)",
+        [
+            "Duane Reade",
+            700008317
+        ]
+    ]
+]

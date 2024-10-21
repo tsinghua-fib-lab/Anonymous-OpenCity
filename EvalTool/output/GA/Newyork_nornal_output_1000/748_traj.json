@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chong Qing Noodle",
+            700021404
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:00)",
+        [
+            "Chong Qing Noodle",
+            700021404
+        ]
+    ],
+    [
+        "Personal Project or Hobby",
+        "(10:25, 11:54)",
+        [
+            "Chong Qing Noodle",
+            700021404
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 17:45)",
+        [
+            "Mee Noodle Shop",
+            700006264
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:31, 21:03)",
+        [
+            "Tacuba Cantina Mexicana",
+            700022445
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:44, 23:59)",
+        [
+            "Mee Noodle Shop",
+            700006264
+        ]
+    ]
+]

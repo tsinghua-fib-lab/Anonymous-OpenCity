@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000901
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:48)",
+        [
+            "",
+            700008802
+        ]
+    ],
+    [
+        "Relaxing Afternoon",
+        "(14:00, 16:07)",
+        [
+            "",
+            700000901
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 18:41)",
+        [
+            "Pharaohs Mediterranean Sandwiches",
+            700001019
+        ]
+    ],
+    [
+        "Wind Down & Prepare for the Week",
+        "(21:12, 23:02)",
+        [
+            "Rye",
+            700001021
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "Kokio Republic",
+            700003440
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bulpan",
+            700022018
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:06)",
+        [
+            "Pharmacie du front de seine",
+            700022021
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 18:19)",
+        [
+            "",
+            700045605
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 20:50)",
+        [
+            "Bibliothèque Andrée Chedid",
+            700012780
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(20:58, 22:27)",
+        [
+            "Bulpan",
+            700022018
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "Pharmacie du front de seine",
+            700022021
+        ]
+    ]
+]

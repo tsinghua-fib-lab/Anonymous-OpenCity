@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700035722
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:10)",
+        [
+            "Halal Food New York",
+            700038176
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(11:09, 13:14)",
+        [
+            "Naya",
+            700041302
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(12:47, 14:14)",
+        [
+            "Naya",
+            700041302
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(15:13, 17:04)",
+        [
+            "Naya",
+            700041302
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(17:06, 19:04)",
+        [
+            "",
+            700038179
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 23:59)",
+        [
+            "Pret A Manger",
+            700041303
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:51, 22:54)",
+        [
+            "",
+            700038179
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "",
+            700002378
+        ]
+    ]
+]

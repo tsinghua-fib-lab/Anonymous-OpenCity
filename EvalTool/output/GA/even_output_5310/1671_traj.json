@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001466
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:10)",
+        [
+            "Blossom- Chelsea",
+            700008701
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:20, 16:30)",
+        [
+            "",
+            700000737
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(20:04, 21:34)",
+        [
+            "Blossom- Chelsea",
+            700008701
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(22:17, 23:51)",
+        [
+            "Blossom- Chelsea",
+            700008701
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(23:55, 23:59)",
+        [
+            "",
+            700002525
+        ]
+    ]
+]

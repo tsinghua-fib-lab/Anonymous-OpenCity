@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Go for a refreshing walk or light exercise.",
+        "(10:00, 10:53)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Relax and watch a movie or binge-watch a favorite series.",
+        "(11:14, 13:12)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Stay where you are to read a book or catch up on personal interests.",
+        "(14:05, 16:10)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:27, 19:51)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:08, 23:59)",
+        [
+            "",
+            700000911
+        ]
+    ]
+]

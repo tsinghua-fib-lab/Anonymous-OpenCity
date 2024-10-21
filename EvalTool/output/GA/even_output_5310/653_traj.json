@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700019944
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:09)",
+        [
+            "Maman",
+            700003515
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:23, 14:24)",
+        [
+            "Little Collins",
+            700020932
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:31, 16:01)",
+        [
+            "Little Collins",
+            700020932
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(16:37, 17:51)",
+        [
+            "Maman",
+            700003515
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(18:20, 20:22)",
+        [
+            "Juice Bar Plus",
+            700033971
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(21:00, 22:59)",
+        [
+            "Juice Bar Plus",
+            700033971
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:09, 23:59)",
+        [
+            "Le pain quotidien",
+            700013127
+        ]
+    ]
+]

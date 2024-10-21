@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ernest",
+            700002360
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:32)",
+        [
+            "",
+            700000026
+        ]
+    ],
+    [
+        "Dinner Prep and Relaxation",
+        "(14:37, 16:59)",
+        [
+            "Starbucks",
+            700002361
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 18:38)",
+        [
+            "Starbucks",
+            700002361
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:58, 23:59)",
+        [
+            "Front Exhibits & Cafe",
+            700010879
+        ]
+    ]
+]

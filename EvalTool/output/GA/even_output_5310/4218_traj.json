@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700019791
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:30)",
+        [
+            "Pioneers Bar NYC",
+            700013388
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:09, 16:15)",
+        [
+            "Pioneers Bar NYC",
+            700013388
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:52, 20:02)",
+        [
+            "Izumi",
+            700004215
+        ]
+    ],
+    [
+        "Spend Time with Family or Friends",
+        "(21:49, 23:52)",
+        [
+            "",
+            700018837
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "",
+            700018839
+        ]
+    ]
+]

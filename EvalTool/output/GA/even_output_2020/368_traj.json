@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001429
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:25)",
+        [
+            "",
+            700001432
+        ]
+    ],
+    [
+        "Engage in a Hobby or Craft",
+        "(13:26, 14:54)",
+        [
+            "Bay Wheels",
+            700005699
+        ]
+    ],
+    [
+        "Engage in a Hobby or Craft",
+        "(15:07, 16:40)",
+        [
+            "Bay Wheels",
+            700005699
+        ]
+    ],
+    [
+        "Hobby or Craft",
+        "(16:44, 18:40)",
+        [
+            "Bay Wheels",
+            700005699
+        ]
+    ],
+    [
+        "Prepare and Have Dinner",
+        "(18:54, 19:58)",
+        [
+            "El Rancho Grande",
+            700001901
+        ]
+    ],
+    [
+        "Engage in a Hobby or Craft",
+        "(20:33, 22:08)",
+        [
+            "Boba Guys",
+            700010745
+        ]
+    ],
+    [
+        "Socialize, Call a Friend or Family",
+        "(21:05, 22:34)",
+        [
+            "Che Fico",
+            700007285
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:05, 23:59)",
+        [
+            "Tsunami",
+            700010749
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Alphabet Fresh Pizza",
+            700005168
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:23)",
+        [
+            "",
+            700020200
+        ]
+    ],
+    [
+        "Go for a morning jog or yoga session to start the day with some physical activity.",
+        "(12:09, 13:46)",
+        [
+            "Alphabet Fresh Pizza",
+            700005168
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 17:25)",
+        [
+            "Community Healthcare Network",
+            700031226
+        ]
+    ],
+    [
+        "Stay at Community Healthcare Network",
+        "(17:59, 19:10)",
+        [
+            "Il Posto Accanto",
+            700015886
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:33, 22:21)",
+        [
+            "Plado",
+            700021519
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "Cornerstone Cafe",
+            700004481
+        ]
+    ]
+]

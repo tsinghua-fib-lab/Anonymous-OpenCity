@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:35)",
+        [
+            "",
+            700010697
+        ]
+    ],
+    [
+        "Go for a Walk",
+        "(14:25, 16:02)",
+        [
+            "",
+            700010703
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:40, 22:14)",
+        [
+            "",
+            700014479
+        ]
+    ],
+    [
+        "Stay at HealthSource Pharmacy & Health Food Store",
+        "(22:06, 23:16)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "Sleep at HealthSource Pharmacy & Health Food Store",
+        "(23:51, 23:59)",
+        [
+            "Marinara",
+            700039309
+        ]
+    ]
+]

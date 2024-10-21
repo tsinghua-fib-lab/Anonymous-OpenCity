@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dunkin'",
+            700019188
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:55)",
+        [
+            "Jazz At Kitano",
+            700019039
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:13, 16:12)",
+        [
+            "Serafina Italian Restaurant",
+            700006461
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 23:45)",
+        [
+            "Norikoh",
+            700015029
+        ]
+    ],
+    [
+        "Next activity",
+        "(23:20, 23:59)",
+        [
+            "CVS Pharmacy",
+            700019180
+        ]
+    ]
+]

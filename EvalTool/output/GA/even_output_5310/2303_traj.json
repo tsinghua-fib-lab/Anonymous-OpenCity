@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Scotty's Diner",
+            700009445
+        ]
+    ],
+    [
+        "Morning jog or walk in the park",
+        "(10:00, 10:50)",
+        [
+            "Citi Bike",
+            700021661
+        ]
+    ],
+    [
+        "Morning jog or walk in the park",
+        "(11:12, 12:48)",
+        [
+            "Hunan Village",
+            700016933
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:42, 17:07)",
+        [
+            "Kokage",
+            700016938
+        ]
+    ],
+    [
+        "Stay at Scotty's Diner",
+        "(17:40, 19:05)",
+        [
+            "Kokage",
+            700016938
+        ]
+    ],
+    [
+        "Stay at Scotty's Diner.",
+        "(19:39, 21:06)",
+        [
+            "Sushi Zo",
+            700016937
+        ]
+    ],
+    [
+        "Stay at Scotty's Diner.",
+        "(21:11, 22:58)",
+        [
+            "Sushi Zo",
+            700016937
+        ]
+    ],
+    [
+        "Stay at Scotty's Diner.",
+        "(23:45, 23:59)",
+        [
+            "Sushi Zo",
+            700016937
+        ]
+    ]
+]

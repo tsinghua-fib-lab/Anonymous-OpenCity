@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:34)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(14:54, 15:55)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:30, 17:51)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:08, 22:30)",
+        [
+            "",
+            700022503
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:15, 23:59)",
+        [
+            "",
+            700022503
+        ]
+    ],
+    [
+        "Unwind and enjoy leisure time with good food.",
+        "(23:29, 23:59)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ]
+]

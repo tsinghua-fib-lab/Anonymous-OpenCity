@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700015331
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:43)",
+        [
+            "",
+            700008680
+        ]
+    ],
+    [
+        "Next activity is Relaxation/Free Time",
+        "(15:00, 16:53)",
+        [
+            "",
+            700015331
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:49, 23:09)",
+        [
+            "Yay Yoga And You",
+            700068369
+        ]
+    ],
+    [
+        "Wind Down with Entertainment",
+        "(20:21, 21:51)",
+        [
+            "Yay Yoga And You",
+            700068369
+        ]
+    ],
+    [
+        "Wind Down with Entertainment",
+        "(22:49, 23:53)",
+        [
+            "Yay Yoga And You",
+            700068369
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003071
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:10)",
+        [
+            "",
+            700002216
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends",
+        "(13:51, 15:14)",
+        [
+            "",
+            700003071
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 16:49)",
+        [
+            "",
+            700003071
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:16, 21:16)",
+        [
+            "The 18th Room",
+            700017464
+        ]
+    ],
+    [
+        "Next activity based on Situation 2",
+        "(22:47, 23:59)",
+        [
+            "The 18th Room",
+            700017464
+        ]
+    ]
+]

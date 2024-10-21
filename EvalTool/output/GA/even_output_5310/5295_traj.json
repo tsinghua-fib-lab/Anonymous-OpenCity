@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002927
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:04)",
+        [
+            "John's Pizzeria",
+            700006501
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:24, 13:48)",
+        [
+            "O'Casey's Irish Bar",
+            700006089
+        ]
+    ],
+    [
+        "Socialize or Call Friends/Family",
+        "(15:52, 17:15)",
+        [
+            "John's Pizzeria",
+            700006501
+        ]
+    ],
+    [
+        "Socialize or Call Friends/Family",
+        "(18:19, 19:47)",
+        [
+            "O'Casey's Irish Bar",
+            700006089
+        ]
+    ],
+    [
+        "Continue at Death By Pizza",
+        "(19:57, 22:25)",
+        [
+            "PlayStation Theater",
+            700006086
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:40, 23:59)",
+        [
+            "The View Restaurant & Lounge",
+            700009094
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Voltigeur",
+            700019568
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:23)",
+        [
+            "Charonne - Faubourg Saint-Antoine",
+            700038713
+        ]
+    ],
+    [
+        "Catch Up on Reading or Hobbies",
+        "(16:32, 18:53)",
+        [
+            "Charonne - Faubourg Saint-Antoine",
+            700038713
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 23:59)",
+        [
+            "",
+            700024439
+        ]
+    ],
+    [
+        "Stay at Le Voltigeur and unwind for a bit longer.",
+        "(20:54, 21:54)",
+        [
+            "Le Voltigeur",
+            700019568
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(22:08, 23:14)",
+        [
+            "Le Voltigeur",
+            700019568
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:26, 23:59)",
+        [
+            "Le Café du Passage",
+            700056350
+        ]
+    ]
+]

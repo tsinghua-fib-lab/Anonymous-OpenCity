@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Fida Market",
+            700005824
+        ]
+    ],
+    [
+        "10:00 AM - Outdoor Activity",
+        "(09:00, 10:54)",
+        [
+            "U.S. Bank",
+            700004340
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:43, 16:14)",
+        [
+            "The Sandwich Place",
+            700002131
+        ]
+    ],
+    [
+        "Lunch at Home",
+        "(12:31, 15:08)",
+        [
+            "The Sandwich Place",
+            700002131
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 20:59)",
+        [
+            "U.S. Bank",
+            700004340
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(17:08, 18:48)",
+        [
+            "Kid Power Park Community Garden",
+            700002458
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(18:49, 20:50)",
+        [
+            "Kid Power Park Community Garden",
+            700002458
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(20:55, 22:12)",
+        [
+            "Kid Power Park Community Garden",
+            700002458
+        ]
+    ],
+    [
+        "Stay at Kid Power Park Community Garden",
+        "(22:18, 23:59)",
+        [
+            "Kid Power Park Community Garden",
+            700002458
+        ]
+    ],
+    [
+        "Stay at Kid Power Park Community Garden",
+        "(23:53, 23:59)",
+        [
+            "Kid Power Park Community Garden",
+            700002458
+        ]
+    ]
+]

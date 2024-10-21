@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010750
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 09:55)",
+        [
+            "KIPP San Francisco Bay Academy",
+            700005593
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:37, 12:11)",
+        [
+            "KIPP San Francisco Bay Academy",
+            700005593
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(12:30, 13:51)",
+        [
+            "KIPP San Francisco Bay Academy",
+            700005593
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(14:36, 16:30)",
+        [
+            "KIPP San Francisco Bay Academy",
+            700005593
+        ]
+    ],
+    [
+        "Family/Friends Hangout",
+        "(17:24, 18:54)",
+        [
+            "",
+            700011003
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:28, 22:54)",
+        [
+            "",
+            700011009
+        ]
+    ],
+    [
+        "Go to KIPP San Francisco Bay Academy",
+        "(20:42, 22:22)",
+        [
+            "KIPP San Francisco Bay Academy",
+            700005593
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "",
+            700011003
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Enjoy some leisure activities, such as reading or listening to music.",
+        "(10:00, 11:38)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Enjoy some leisure activities, such as reading or listening to music.",
+        "(11:39, 14:04)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Stay at Link NYC.",
+        "(14:55, 16:00)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "stay at Link NYC",
+        "(16:07, 18:06)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Stay at Link NYC",
+        "(18:05, 19:31)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Stay at Link NYC",
+        "(19:41, 21:15)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:21, 23:59)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "Go to Link NYC.",
+        "(23:33, 23:59)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ]
+]

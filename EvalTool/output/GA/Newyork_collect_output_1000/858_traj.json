@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:03)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(13:55, 14:55)",
+        [
+            "Smile Dental Center",
+            700023828
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:59, 17:29)",
+        [
+            "",
+            700018908
+        ]
+    ],
+    [
+        "Next, Wind Down with TV or Relaxing Activities",
+        "(19:09, 22:04)",
+        [
+            "CVS Pharmacy",
+            700011386
+        ]
+    ],
+    [
+        "Wind Down with TV or Relaxing Activities",
+        "(22:59, 23:55)",
+        [
+            "CVS Pharmacy",
+            700011386
+        ]
+    ],
+    [
+        "Stay at iPark",
+        "(23:57, 23:59)",
+        [
+            "iPark",
+            700018136
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "La Rocca's Corner",
+            700008570
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:25)",
+        [
+            "Curry Leaf",
+            700005339
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(11:33, 12:57)",
+        [
+            "Curry Leaf",
+            700005339
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(13:30, 14:54)",
+        [
+            "Curry Leaf",
+            700005339
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:39, 19:34)",
+        [
+            "Cobb's Comedy Club",
+            700002054
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:00, 23:56)",
+        [
+            "901 colombus cafe",
+            700004689
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700014385
+        ]
+    ]
+]

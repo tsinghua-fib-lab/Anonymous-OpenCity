@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "La Stanza",
+            700016936
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(09:00, 09:51)",
+        [
+            "Nirvana Indian Cuisine",
+            700010325
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(10:12, 11:41)",
+        [
+            "Nirvana Indian Cuisine",
+            700010325
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 17:38)",
+        [
+            "Kokage",
+            700016938
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 22:34)",
+        [
+            "Bagel Express",
+            700016935
+        ]
+    ],
+    [
+        "Next go to La Stanza, enjoying a meal or drink.",
+        "(23:07, 23:59)",
+        [
+            "La Stanza",
+            700016936
+        ]
+    ]
+]

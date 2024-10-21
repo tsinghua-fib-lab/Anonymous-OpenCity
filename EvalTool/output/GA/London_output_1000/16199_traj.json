@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "Next activity after breakfast",
+        "(09:00, 09:55)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "Next activity after breakfast",
+        "(10:38, 12:30)",
+        [
+            "",
+            700044911
+        ]
+    ],
+    [
+        "Next activity at home.",
+        "(12:44, 13:58)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 19:37)",
+        [
+            "Little Egypt Lounge",
+            700050005
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:49, 19:33)",
+        [
+            "Canberra Dental Practice",
+            700050019
+        ]
+    ],
+    [
+        "next arrangement after lunch",
+        "(20:43, 22:16)",
+        [
+            "Tasty Wings",
+            700050018
+        ]
+    ],
+    [
+        "Stay at York Road Estate",
+        "(22:41, 23:59)",
+        [
+            "White City Musalla",
+            700050001
+        ]
+    ],
+    [
+        "next arrangement after lunch",
+        "(23:54, 23:59)",
+        [
+            "White City Musalla",
+            700050001
+        ]
+    ]
+]

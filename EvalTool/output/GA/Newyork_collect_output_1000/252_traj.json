@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Spend some time reading or catching up on the latest news/articles",
+        "(10:00, 10:52)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Continue reading or catch up on the latest news/articles.",
+        "(11:46, 13:07)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Stay at Mughlai and enjoy a meal or relax",
+        "(13:30, 14:54)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 18:33)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Stay at Mughlai and enjoy some more time there.",
+        "(17:44, 19:06)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 21:06)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(23:49, 23:59)",
+        [
+            "Street Taco",
+            700006239
+        ]
+    ]
+]

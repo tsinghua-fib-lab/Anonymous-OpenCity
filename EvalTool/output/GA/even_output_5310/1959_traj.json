@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Heidi’s House",
+            700011844
+        ]
+    ],
+    [
+        "Go for a walk or visit a nearby park.",
+        "(10:00, 11:05)",
+        [
+            "Heidi’s House",
+            700011844
+        ]
+    ],
+    [
+        "Go for a walk or visit a nearby park.",
+        "(11:15, 12:52)",
+        [
+            "Heidi’s House",
+            700011844
+        ]
+    ],
+    [
+        "watch a movie or catch up on a favorite TV show",
+        "(13:08, 14:55)",
+        [
+            "Heidi’s House",
+            700011844
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a favorite TV show.",
+        "(15:29, 16:59)",
+        [
+            "Heidi’s House",
+            700011844
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 21:01)",
+        [
+            "Uva Next Door",
+            700023406
+        ]
+    ],
+    [
+        "Go for a walk or visit a nearby park",
+        "(22:15, 23:35)",
+        [
+            "Brazilian Market NYC",
+            700039305
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "the Blue Mezze Bar",
+            700023409
+        ]
+    ]
+]

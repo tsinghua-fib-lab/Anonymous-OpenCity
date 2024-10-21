@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030359
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:44)",
+        [
+            "Square Pizza",
+            700021521
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:30, 14:59)",
+        [
+            "Izzies",
+            700010025
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:05, 16:35)",
+        [
+            "Izzies",
+            700010025
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:01, 18:22)",
+        [
+            "Dental Office",
+            700024993
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:19, 22:38)",
+        [
+            "Ginger & Lemongrass",
+            700038549
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 22:03)",
+        [
+            "Black Crescent",
+            700006695
+        ]
+    ]
+]

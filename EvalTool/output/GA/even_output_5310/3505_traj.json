@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005442
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:09)",
+        [
+            "Zafis Luncheonette",
+            700003822
+        ]
+    ],
+    [
+        "Meet Friends or Family",
+        "(14:10, 15:44)",
+        [
+            "Wing Hing",
+            700003819
+        ]
+    ],
+    [
+        "Meet Friends or Family",
+        "(15:59, 18:06)",
+        [
+            "Wing Hing",
+            700003819
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:33, 19:11)",
+        [
+            "",
+            700005442
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:39, 23:59)",
+        [
+            "Grand Kosher Cafe",
+            700019773
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "People's Choice Pharmacy",
+            700003818
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Nob Hill Cafe",
+            700004947
+        ]
+    ],
+    [
+        "Brunch at Home",
+        "(10:00, 11:21)",
+        [
+            "Nob Hill Cafe",
+            700004947
+        ]
+    ],
+    [
+        "Brunch at Home",
+        "(11:55, 13:31)",
+        [
+            "Nob Hill Cafe",
+            700004947
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:07, 15:56)",
+        [
+            "",
+            700008914
+        ]
+    ],
+    [
+        "Prepare a Simple Dinner",
+        "(17:58, 18:54)",
+        [
+            "",
+            700008916
+        ]
+    ],
+    [
+        "Wind Down with a Book or Podcast",
+        "(19:29, 21:07)",
+        [
+            "Nob Hill Cafe",
+            700004947
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:14, 23:59)",
+        [
+            "",
+            700008915
+        ]
+    ]
+]

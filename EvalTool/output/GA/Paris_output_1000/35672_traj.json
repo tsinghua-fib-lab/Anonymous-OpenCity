@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Chemise",
+            700017070
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:30)",
+        [
+            "",
+            700049418
+        ]
+    ],
+    [
+        "Stay home and relax with some television.",
+        "(11:29, 12:55)",
+        [
+            "Le Chemise",
+            700017070
+        ]
+    ],
+    [
+        "Go to local art exhibition",
+        "(13:30, 15:30)",
+        [
+            "CIC",
+            700016994
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:27, 18:59)",
+        [
+            "",
+            700019715
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 21:33)",
+        [
+            "",
+            700005014
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:23, 23:59)",
+        [
+            "",
+            700049418
+        ]
+    ]
+]

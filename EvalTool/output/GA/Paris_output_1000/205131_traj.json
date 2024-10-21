@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "La Machine du Moulin Rouge",
+            700006771
+        ]
+    ],
+    [
+        "Next activity to engage in is a morning leisure activity like reading a book or light exercise.",
+        "(10:00, 11:09)",
+        [
+            "La Machine du Moulin Rouge",
+            700006771
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:51, 11:53)",
+        [
+            "Bourse du Travail",
+            700037831
+        ]
+    ],
+    [
+        "Next activity to engage in is a morning leisure activity.",
+        "(12:35, 13:48)",
+        [
+            "Bourse du Travail",
+            700037831
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 16:26)",
+        [
+            "Rouge Bis",
+            700034691
+        ]
+    ],
+    [
+        "Stay at Bourse du Travail",
+        "(17:09, 18:45)",
+        [
+            "Bourse du Travail",
+            700037831
+        ]
+    ],
+    [
+        "Go to restaurant.",
+        "(19:17, 20:59)",
+        [
+            "Rouge Bis",
+            700034691
+        ]
+    ],
+    [
+        "Stay at Bourse du Travail.",
+        "(21:50, 23:05)",
+        [
+            "Bourse du Travail",
+            700037831
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "",
+            700031744
+        ]
+    ]
+]

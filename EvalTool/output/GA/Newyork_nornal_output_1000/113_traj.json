@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "USPS",
+            700005990
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:09)",
+        [
+            "La-Sani Grill",
+            700006351
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:03, 13:54)",
+        [
+            "La-Sani Grill",
+            700006351
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:27, 16:04)",
+        [
+            "La-Sani Grill",
+            700006351
+        ]
+    ],
+    [
+        "Connect with Friends/Family",
+        "(16:31, 18:00)",
+        [
+            "La-Sani Grill",
+            700006351
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:34, 20:12)",
+        [
+            "Trattoria Casa Di Isacco",
+            700008670
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(20:23, 21:51)",
+        [
+            "Tranzit",
+            700022442
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:47, 23:59)",
+        [
+            "Hell's Kitchen",
+            700004222
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "SkinLab",
+            700040086
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:00)",
+        [
+            "",
+            700019863
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:23, 18:05)",
+        [
+            "Afghan Kebab House",
+            700014647
+        ]
+    ],
+    [
+        "Spend time at Afghan Kebab House",
+        "(19:47, 21:03)",
+        [
+            "Afghan Kebab House",
+            700014647
+        ]
+    ],
+    [
+        "Spend time at Afghan Kebab House",
+        "(21:10, 23:27)",
+        [
+            "Afghan Kebab House",
+            700014647
+        ]
+    ],
+    [
+        "Stay at Afghan Kebab House",
+        "(23:40, 23:59)",
+        [
+            "Valley National Bank",
+            700014056
+        ]
+    ]
+]

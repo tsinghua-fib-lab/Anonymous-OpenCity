@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Peacock Lounge",
+            700005486
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:54)",
+        [
+            "Memphis Minnie's",
+            700000957
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 20:50)",
+        [
+            "",
+            700005478
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 22:28)",
+        [
+            "Peacock Lounge",
+            700005486
+        ]
+    ],
+    [
+        "Stay at the Peacock Lounge",
+        "(22:45, 23:59)",
+        [
+            "Peacock Lounge",
+            700005486
+        ]
+    ]
+]

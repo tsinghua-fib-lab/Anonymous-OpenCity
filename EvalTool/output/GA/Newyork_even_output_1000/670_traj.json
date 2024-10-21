@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002499
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 10:57)",
+        [
+            "",
+            700014827
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:41, 13:33)",
+        [
+            "Subway",
+            700005133
+        ]
+    ],
+    [
+        "Entertainment",
+        "(13:46, 15:11)",
+        [
+            "Subway",
+            700005133
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:44, 17:52)",
+        [
+            "New York Chinese Alliance Church",
+            700014828
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:48, 23:59)",
+        [
+            "",
+            700017075
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "New York Chinese Alliance Church",
+            700014828
+        ]
+    ]
+]

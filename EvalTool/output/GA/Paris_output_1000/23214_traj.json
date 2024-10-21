@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700028884
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:38)",
+        [
+            "L’Ancien Trocadéro",
+            700003833
+        ]
+    ],
+    [
+        "Next activity after outdoor activity.",
+        "(12:29, 14:08)",
+        [
+            "L’Ancien Trocadéro",
+            700003833
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(14:45, 16:42)",
+        [
+            "L’Ancien Trocadéro",
+            700003833
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:31, 19:04)",
+        [
+            "L’Ancien Trocadéro",
+            700003833
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 23:59)",
+        [
+            "Café Lulu’s",
+            700072875
+        ]
+    ]
+]

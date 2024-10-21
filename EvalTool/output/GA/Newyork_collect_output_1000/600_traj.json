@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:21)",
+        [
+            "Venchi",
+            700028579
+        ]
+    ],
+    [
+        "Brunch",
+        "(12:19, 13:52)",
+        [
+            "Venchi",
+            700028579
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:50, 16:23)",
+        [
+            "Venchi",
+            700028579
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:56, 20:00)",
+        [
+            "Chloe's Soft Serve Fruit Co.",
+            700007304
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:49, 20:07)",
+        [
+            "Chloe's Soft Serve Fruit Co.",
+            700007304
+        ]
+    ],
+    [
+        "Stay at Venchi",
+        "(21:50, 23:01)",
+        [
+            "Venchi",
+            700028579
+        ]
+    ],
+    [
+        "Stay at Venchi",
+        "(23:38, 23:59)",
+        [
+            "Chopt",
+            700019070
+        ]
+    ]
+]

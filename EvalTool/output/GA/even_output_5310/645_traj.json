@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "CVS Pharmacy",
+            700015709
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:00)",
+        [
+            "CVS Pharmacy",
+            700015709
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:12, 12:07)",
+        [
+            "Psychic Reading by Sophia",
+            700014949
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:12, 17:45)",
+        [
+            "",
+            700024797
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:17, 21:03)",
+        [
+            "Marchi's",
+            700003435
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(21:19, 23:04)",
+        [
+            "Yoi Ramen & Tea",
+            700025303
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:07, 23:59)",
+        [
+            "Professional Tae Kwon Do",
+            700014948
+        ]
+    ]
+]

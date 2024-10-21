@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Little Italy Pizza",
+            700039911
+        ]
+    ],
+    [
+        "Leisurely breakfast and coffee",
+        "(10:00, 11:58)",
+        [
+            "Squires Diner",
+            700009978
+        ]
+    ],
+    [
+        "Go for a workout or attend a yoga class for some physical activity and relaxation.",
+        "(12:13, 14:14)",
+        [
+            "Squires Diner",
+            700009978
+        ]
+    ],
+    [
+        "Go for a workout or attend a yoga class for some physical activity and relaxation.",
+        "(14:29, 16:00)",
+        [
+            "Squires Diner",
+            700009978
+        ]
+    ],
+    [
+        "Go for an afternoon of sports with friends.",
+        "(16:25, 18:02)",
+        [
+            "Squires Diner",
+            700009978
+        ]
+    ],
+    [
+        "Proceed to meet up with friends for an afternoon of sports.",
+        "(18:52, 20:22)",
+        [
+            "Little Italy Pizza",
+            700039911
+        ]
+    ],
+    [
+        "Proceeded to have leisurely dinner.",
+        "(20:34, 22:10)",
+        [
+            "Little Italy Pizza",
+            700039911
+        ]
+    ],
+    [
+        "Stay at Little Italy Pizza",
+        "(22:47, 23:39)",
+        [
+            "Little Italy Pizza",
+            700039911
+        ]
+    ],
+    [
+        "Proceed to have leisurely dinner.",
+        "(23:39, 23:59)",
+        [
+            "Little Italy Pizza",
+            700039911
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Atlantic Stage 2",
+            700009367
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:48)",
+        [
+            "Atlantic Stage 2",
+            700009367
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:18, 16:33)",
+        [
+            "Atlantic Stage 2",
+            700009367
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:37, 22:31)",
+        [
+            "Bank of America",
+            700004323
+        ]
+    ],
+    [
+        "Stay at current place.",
+        "(19:12, 20:42)",
+        [
+            "Bank of America",
+            700004323
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:30, 22:50)",
+        [
+            "Bank of America",
+            700004323
+        ]
+    ],
+    [
+        "Stay at current place.",
+        "(23:50, 23:59)",
+        [
+            "Atlantic Stage 2",
+            700009367
+        ]
+    ]
+]

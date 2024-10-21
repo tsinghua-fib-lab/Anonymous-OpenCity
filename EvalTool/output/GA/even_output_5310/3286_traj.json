@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "H&H Bagels",
+            700005181
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:01)",
+        [
+            "Banc",
+            700003900
+        ]
+    ],
+    [
+        "Catch Up on a Book or Hobby",
+        "(11:16, 12:23)",
+        [
+            "Banc",
+            700003900
+        ]
+    ],
+    [
+        "Catch Up on a Book or Hobby",
+        "(13:04, 14:25)",
+        [
+            "Banc",
+            700003900
+        ]
+    ],
+    [
+        "Catch Up on a Book or Hobby",
+        "(15:05, 16:36)",
+        [
+            "Banc",
+            700003900
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:29, 20:12)",
+        [
+            "",
+            700002955
+        ]
+    ],
+    [
+        "Stay at H&H Bagels.",
+        "(20:08, 21:37)",
+        [
+            "Banc",
+            700003900
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:54, 23:59)",
+        [
+            "Nobi Sushi",
+            700020948
+        ]
+    ]
+]

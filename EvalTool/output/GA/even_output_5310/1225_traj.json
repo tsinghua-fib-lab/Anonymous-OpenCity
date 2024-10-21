@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "",
+            700017184
+        ]
+    ],
+    [
+        "go to this place",
+        "(08:00, 09:43)",
+        [
+            "Angelina Paris",
+            700032207
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(11:54, 13:55)",
+        [
+            "Angelina Paris",
+            700032207
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(15:03, 16:53)",
+        [
+            "Angelina Paris",
+            700032207
+        ]
+    ],
+    [
+        "Dinner preparation & family time",
+        "(17:19, 19:00)",
+        [
+            "Angelina Paris",
+            700032207
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:14, 21:06)",
+        [
+            "Dos Toros Taqueria",
+            700013564
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:28, 23:04)",
+        [
+            "Angelina Paris",
+            700032207
+        ]
+    ],
+    [
+        "Go to Evening Wind Down",
+        "(23:08, 23:59)",
+        [
+            "Angelina Paris",
+            700032207
+        ]
+    ]
+]

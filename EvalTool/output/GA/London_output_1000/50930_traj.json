@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "St John's Estate",
+            700011879
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(10:00, 11:01)",
+        [
+            "Southwark Brewing",
+            700029115
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(11:40, 12:58)",
+        [
+            "Southwark Brewing",
+            700029115
+        ]
+    ],
+    [
+        "Engage in a hobby",
+        "(12:59, 14:34)",
+        [
+            "Tanner Street",
+            700009945
+        ]
+    ],
+    [
+        "Watch Sports or a TV Show",
+        "(15:04, 17:02)",
+        [
+            "Southwark Brewing",
+            700029115
+        ]
+    ],
+    [
+        "Engage in a hobby or activity (like reading or crafting)",
+        "(15:19, 16:50)",
+        [
+            "",
+            700004615
+        ]
+    ],
+    [
+        "Engage in a hobby or activity (like reading or crafting)",
+        "(17:32, 19:10)",
+        [
+            "Southwark Brewing",
+            700029115
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(19:37, 21:39)",
+        [
+            "Southwark Brewing",
+            700029115
+        ]
+    ],
+    [
+        "Stay at Southwark Brewing",
+        "(21:19, 23:10)",
+        [
+            "Southwark Brewing",
+            700029115
+        ]
+    ],
+    [
+        "Stay at Southwark Brewing.",
+        "(23:18, 23:59)",
+        [
+            "Southwark Brewing",
+            700029115
+        ]
+    ]
+]

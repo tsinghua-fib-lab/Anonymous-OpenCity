@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rowe Plastic Surgery",
+            700025404
+        ]
+    ],
+    [
+        "Visit a Museum or Art Gallery",
+        "(10:00, 11:25)",
+        [
+            "Café Carlyle",
+            700006567
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:24, 15:45)",
+        [
+            "The SisterYard",
+            700030489
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:48, 18:50)",
+        [
+            "",
+            700010258
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:32, 23:18)",
+        [
+            "",
+            700008265
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "",
+            700012936
+        ]
+    ]
+]

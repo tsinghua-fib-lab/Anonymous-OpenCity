@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CIC",
+            700053207
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:09)",
+        [
+            "CIC",
+            700053207
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:20, 13:22)",
+        [
+            "CIC",
+            700053207
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 15:47)",
+        [
+            "",
+            700049939
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:37, 21:08)",
+        [
+            "CIC",
+            700053207
+        ]
+    ],
+    [
+        "Catching up with friends over dinner",
+        "(21:47, 23:14)",
+        [
+            "",
+            700061511
+        ]
+    ],
+    [
+        "Catch up with friends over dinner.",
+        "(23:10, 23:59)",
+        [
+            "CIC",
+            700053207
+        ]
+    ]
+]

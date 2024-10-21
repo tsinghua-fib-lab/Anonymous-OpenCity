@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Profit II",
+            700006405
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:00, 10:57)",
+        [
+            "NYU Comprehensive Epilepsy Center",
+            700012455
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:55, 11:58)",
+        [
+            "NYU Comprehensive Epilepsy Center",
+            700012455
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:51, 16:57)",
+        [
+            "",
+            700000898
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(17:18, 18:40)",
+        [
+            "",
+            700003073
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 23:03)",
+        [
+            "",
+            700002117
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "",
+            700024799
+        ]
+    ]
+]

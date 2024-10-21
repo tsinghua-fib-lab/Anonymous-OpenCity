@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:15)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:35, 15:57)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:20, 17:59)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(18:04, 19:35)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 22:03)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ]
+]

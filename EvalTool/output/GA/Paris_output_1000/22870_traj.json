@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700053378
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:30)",
+        [
+            "Kinésithérapeute",
+            700021076
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 15:56)",
+        [
+            "L'Anvers du Décor",
+            700021072
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 19:56)",
+        [
+            "Sweet Rawmance",
+            700067839
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:02, 22:52)",
+        [
+            "",
+            700029969
+        ]
+    ],
+    [
+        "Stay at your current location.",
+        "(23:38, 23:59)",
+        [
+            "",
+            700029973
+        ]
+    ]
+]

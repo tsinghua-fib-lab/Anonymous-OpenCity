@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Strip House",
+            700034692
+        ]
+    ],
+    [
+        "Go for a walk in the park",
+        "(09:00, 09:56)",
+        [
+            "Strip House",
+            700034692
+        ]
+    ],
+    [
+        "Stay at Strip House",
+        "(10:58, 11:53)",
+        [
+            "",
+            700027429
+        ]
+    ],
+    [
+        "Continue staying at Strip House.",
+        "(12:47, 13:57)",
+        [
+            "Strip House",
+            700034692
+        ]
+    ],
+    [
+        "Stay at Strip House",
+        "(14:20, 17:07)",
+        [
+            "Strip House",
+            700034692
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:51, 21:04)",
+        [
+            "Fields Good Chicken",
+            700034078
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:17, 23:59)",
+        [
+            "",
+            700002139
+        ]
+    ],
+    [
+        "Stay at Strip House.",
+        "(22:00, 23:34)",
+        [
+            "Strip House",
+            700034692
+        ]
+    ],
+    [
+        "Stay at Strip House.",
+        "(23:36, 23:59)",
+        [
+            "Strip House",
+            700034692
+        ]
+    ]
+]

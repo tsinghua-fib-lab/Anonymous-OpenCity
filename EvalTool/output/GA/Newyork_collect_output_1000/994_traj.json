@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:05)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 16:35)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:20, 23:24)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "Stay at undefined",
+        "(23:36, 23:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

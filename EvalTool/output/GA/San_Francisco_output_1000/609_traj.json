@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Enterprise Brewing Company",
+            700013519
+        ]
+    ],
+    [
+        "Relax and watch a favorite TV show or movie",
+        "(09:00, 10:50)",
+        [
+            "Enterprise Brewing Company",
+            700013519
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:55, 15:45)",
+        [
+            "",
+            700007512
+        ]
+    ],
+    [
+        "Catch up with friends or family via phone or video call",
+        "(16:19, 17:05)",
+        [
+            "Enterprise Brewing Company",
+            700013519
+        ]
+    ],
+    [
+        "Catch up with friends or family via phone or video call",
+        "(17:40, 19:03)",
+        [
+            "Enterprise Brewing Company",
+            700013519
+        ]
+    ],
+    [
+        "Catch up with friends or family via phone or video call",
+        "(19:04, 20:42)",
+        [
+            "Enterprise Brewing Company",
+            700013519
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:59, 23:59)",
+        [
+            "Sightglass Coffee",
+            700001741
+        ]
+    ]
+]

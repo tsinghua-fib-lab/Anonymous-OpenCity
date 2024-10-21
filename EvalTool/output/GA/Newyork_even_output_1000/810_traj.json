@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002485
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:35)",
+        [
+            "",
+            700002485
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(11:09, 12:30)",
+        [
+            "",
+            700002485
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(12:52, 14:26)",
+        [
+            "Da Andrea",
+            700005683
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:15, 17:22)",
+        [
+            "",
+            700000738
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:37, 22:59)",
+        [
+            "Da Andrea",
+            700005683
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "NYSC",
+            700005684
+        ]
+    ]
+]

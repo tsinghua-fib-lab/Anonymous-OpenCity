@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001986
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 15:00)",
+        [
+            "USA Vein Clinic",
+            700015611
+        ]
+    ],
+    [
+        "1:30 PM - 3:00 PM: Visit a local art gallery or museum to explore and appreciate culture.",
+        "(14:16, 15:36)",
+        [
+            "USA Vein Clinic",
+            700015611
+        ]
+    ],
+    [
+        "Visit a local art gallery or museum to explore and appreciate culture.",
+        "(16:24, 17:59)",
+        [
+            "Moti Mahal Delux",
+            700006522
+        ]
+    ],
+    [
+        "Visit a local art gallery or museum",
+        "(18:55, 20:25)",
+        [
+            "Moti Mahal Delux",
+            700006522
+        ]
+    ],
+    [
+        "Visit a local art gallery or museum.",
+        "(20:59, 22:56)",
+        [
+            "Moti Mahal Delux",
+            700006522
+        ]
+    ],
+    [
+        "Stay at I Sodi",
+        "(22:49, 23:59)",
+        [
+            "",
+            700000768
+        ]
+    ]
+]

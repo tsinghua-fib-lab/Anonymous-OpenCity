@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:19)",
+        [
+            "Urban Meadow Cafe",
+            700031990
+        ]
+    ],
+    [
+        "Grocery shopping or errands",
+        "(15:40, 17:09)",
+        [
+            "Tamezin Club",
+            700041490
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:33, 19:59)",
+        [
+            "Pret A Manger",
+            700031365
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "Pret A Manger",
+            700031365
+        ]
+    ]
+]

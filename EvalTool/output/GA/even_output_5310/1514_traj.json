@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gregory's Coffee",
+            700007534
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 12:05)",
+        [
+            "Pret A Manger",
+            700003439
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:56, 14:54)",
+        [
+            "Pret A Manger",
+            700003439
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:20, 17:15)",
+        [
+            "Pret A Manger",
+            700003439
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(17:55, 19:10)",
+        [
+            "Pret A Manger",
+            700003439
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 23:59)",
+        [
+            "",
+            700019035
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "The Ainsworth Midtown",
+            700021731
+        ]
+    ]
+]

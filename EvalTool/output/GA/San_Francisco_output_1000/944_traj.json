@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010784
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:22)",
+        [
+            "Jackalope",
+            700004192
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:14, 13:17)",
+        [
+            "",
+            700009498
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(17:00, 18:10)",
+        [
+            "",
+            700010784
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(18:59, 19:53)",
+        [
+            "Jackalope",
+            700004192
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:35, 21:34)",
+        [
+            "",
+            700005112
+        ]
+    ]
+]

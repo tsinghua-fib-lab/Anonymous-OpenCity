@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010746
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:24)",
+        [
+            "",
+            700001936
+        ]
+    ],
+    [
+        "Engage in a Hobby or Craft",
+        "(13:26, 15:02)",
+        [
+            "",
+            700011964
+        ]
+    ],
+    [
+        "Socialize, Call a Friend or Family",
+        "(15:07, 16:00)",
+        [
+            "",
+            700010746
+        ]
+    ],
+    [
+        "Socialize, Call a Friend or Family",
+        "(16:44, 18:41)",
+        [
+            "",
+            700010746
+        ]
+    ],
+    [
+        "Prepare and Have Dinner",
+        "(18:54, 19:58)",
+        [
+            "Primo Pizza",
+            700004324
+        ]
+    ],
+    [
+        "Socialize, Call a Friend or Family",
+        "(20:33, 22:02)",
+        [
+            "KIPP San Francisco Bay Academy",
+            700005593
+        ]
+    ],
+    [
+        "Socialize, Call a Friend or Family",
+        "(21:05, 23:15)",
+        [
+            "",
+            700011006
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:05, 23:59)",
+        [
+            "KIPP San Francisco Bay Academy",
+            700005593
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700052427
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:18)",
+        [
+            "L'idéal Bar",
+            700074039
+        ]
+    ],
+    [
+        "Continue leisure time",
+        "(14:25, 15:52)",
+        [
+            "",
+            700052427
+        ]
+    ],
+    [
+        "Continue leisure time",
+        "(16:17, 18:05)",
+        [
+            "",
+            700018276
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:40, 20:01)",
+        [
+            "",
+            700031345
+        ]
+    ],
+    [
+        "Go to Au Vieux Paris d'Arcole and wind down.",
+        "(20:39, 22:06)",
+        [
+            "",
+            700052427
+        ]
+    ],
+    [
+        "Stay at Au Vieux Paris d'Arcole for winding down.",
+        "(22:53, 23:59)",
+        [
+            "",
+            700046627
+        ]
+    ]
+]

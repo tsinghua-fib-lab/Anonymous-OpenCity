@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005843
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:38)",
+        [
+            "Citi Bike - Broadway & West 51st Street",
+            700007977
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:50, 12:26)",
+        [
+            "Ellen's Stardust Diner",
+            700006091
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:45, 13:55)",
+        [
+            "",
+            700001587
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:31, 15:57)",
+        [
+            "Citi Bike - Broadway & West 51st Street",
+            700007977
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(16:10, 18:03)",
+        [
+            "",
+            700005843
+        ]
+    ],
+    [
+        "Next destination: Dinner Preparation",
+        "(18:29, 20:02)",
+        [
+            "",
+            700005843
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:10, 23:15)",
+        [
+            "Le Boite en Bois",
+            700020925
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:37, 23:59)",
+        [
+            "",
+            700002005
+        ]
+    ]
+]

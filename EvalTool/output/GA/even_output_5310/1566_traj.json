@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "RH Rooftop Restaurant",
+            700007298
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:34)",
+        [
+            "RH Rooftop Restaurant",
+            700007298
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 19:03)",
+        [
+            "Jack's Coffee",
+            700005699
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:36, 20:27)",
+        [
+            "Boom Boom Room",
+            700012318
+        ]
+    ],
+    [
+        "Stay at RH Rooftop Restaurant",
+        "(22:10, 23:42)",
+        [
+            "Go Next Door",
+            700030516
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:41, 23:59)",
+        [
+            "Valbella",
+            700005698
+        ]
+    ]
+]

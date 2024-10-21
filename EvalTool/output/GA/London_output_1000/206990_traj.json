@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:58)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:00, 13:05)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 18:17)",
+        [
+            "",
+            700063206
+        ]
+    ],
+    [
+        "Socialize",
+        "(17:09, 18:39)",
+        [
+            "Gezellig",
+            700011877
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:29, 21:13)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "Pizza Union Holborn",
+            700076123
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "",
+            700011095
+        ]
+    ]
+]

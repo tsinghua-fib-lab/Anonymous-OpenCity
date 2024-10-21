@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001738
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 11:07)",
+        [
+            "Dr. Smood",
+            700018165
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:52, 13:46)",
+        [
+            "Dr. Smood",
+            700018165
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:01, 15:55)",
+        [
+            "The Smith",
+            700009305
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:09, 17:50)",
+        [
+            "Scen",
+            700025738
+        ]
+    ],
+    [
+        "Dinner Preparation & Cooking",
+        "(18:21, 19:51)",
+        [
+            "",
+            700001738
+        ]
+    ],
+    [
+        "Dinner Preparation & Cooking",
+        "(20:59, 22:59)",
+        [
+            "Jazz Gallery",
+            700014521
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:58, 23:59)",
+        [
+            "Dr. Smood",
+            700018165
+        ]
+    ]
+]

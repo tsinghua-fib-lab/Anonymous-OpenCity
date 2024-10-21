@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Fields Good Chicken",
+            700021660
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:28)",
+        [
+            "",
+            700021653
+        ]
+    ],
+    [
+        "Watch a movie or catch up on your favorite TV shows.",
+        "(10:28, 11:50)",
+        [
+            "",
+            700018849
+        ]
+    ],
+    [
+        "Next activity after lunch",
+        "(12:27, 14:06)",
+        [
+            "Fields Good Chicken",
+            700021660
+        ]
+    ],
+    [
+        "You are currently at Fields Good Chicken.",
+        "(14:48, 16:55)",
+        [
+            "Bangia",
+            700021891
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:07, 21:57)",
+        [
+            "Fields Good Chicken",
+            700021660
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:41, 23:59)",
+        [
+            "",
+            700001334
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700017127
+        ]
+    ],
+    [
+        "Morning jog or walk in the park",
+        "(10:00, 11:02)",
+        [
+            "",
+            700017127
+        ]
+    ],
+    [
+        "Morning jog or walk in the park",
+        "(11:12, 12:34)",
+        [
+            "Caravaggio",
+            700019743
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:42, 19:14)",
+        [
+            "",
+            700008265
+        ]
+    ],
+    [
+        "Stay at Link NYC",
+        "(17:40, 19:15)",
+        [
+            "Caravaggio",
+            700019743
+        ]
+    ],
+    [
+        "Stay at Link NYC.",
+        "(19:39, 21:02)",
+        [
+            "Link NYC",
+            700017645
+        ]
+    ],
+    [
+        "Stay at Link NYC.",
+        "(21:11, 22:51)",
+        [
+            "Caravaggio",
+            700019743
+        ]
+    ],
+    [
+        "Stay at Link NYC.",
+        "(23:45, 23:59)",
+        [
+            "Caravaggio",
+            700019743
+        ]
+    ]
+]

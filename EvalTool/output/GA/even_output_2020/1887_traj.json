@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Son & Garden",
+            700000801
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the park nearby",
+        "(10:00, 10:54)",
+        [
+            "Vietnam House",
+            700005261
+        ]
+    ],
+    [
+        "Next, stay at Yummy Pizza.",
+        "(11:08, 13:10)",
+        [
+            "",
+            700009604
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:51, 15:36)",
+        [
+            "",
+            700009607
+        ]
+    ],
+    [
+        "Visit the local café for a comforting end to the day.",
+        "(19:39, 21:35)",
+        [
+            "Son & Garden",
+            700000801
+        ]
+    ],
+    [
+        "Stay at Son & Garden",
+        "(22:10, 23:15)",
+        [
+            "Son & Garden",
+            700000801
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "William E Colby Memorial Library",
+            700000437
+        ]
+    ]
+]

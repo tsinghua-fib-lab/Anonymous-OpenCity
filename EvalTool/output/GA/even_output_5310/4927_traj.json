@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Dolar Shop",
+            700023467
+        ]
+    ],
+    [
+        "Leisure Activity/Exercise",
+        "(10:00, 11:20)",
+        [
+            "Rubys",
+            700023466
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 16:15)",
+        [
+            "AMC Loews Village 7",
+            700008703
+        ]
+    ],
+    [
+        "Socialize",
+        "(16:42, 18:07)",
+        [
+            "Sundaes and Cones",
+            700000949
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 23:37)",
+        [
+            "AMC Loews Village 7",
+            700008703
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:51, 22:10)",
+        [
+            "Citi Bike - East 12th Street & 3rd Avenue",
+            700008022
+        ]
+    ],
+    [
+        "Next, stay at Citi Bike - East 12th Street & 3rd Avenue.",
+        "(23:36, 23:59)",
+        [
+            "Citi Bike - East 12th Street & 3rd Avenue",
+            700008022
+        ]
+    ]
+]

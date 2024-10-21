@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700020924
+        ]
+    ],
+    [
+        "Go for a light workout or brisk walk in the nearby park.",
+        "(10:00, 11:38)",
+        [
+            "Park Café",
+            700006578
+        ]
+    ],
+    [
+        "You have lunch at Park Café.",
+        "(12:15, 13:31)",
+        [
+            "Park Café",
+            700006578
+        ]
+    ],
+    [
+        "You stay at Park Café for a bit longer.",
+        "(13:33, 15:05)",
+        [
+            "Redeye Grill",
+            700006579
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 17:33)",
+        [
+            "New York Cardiac Diagnostic Center",
+            700016842
+        ]
+    ],
+    [
+        "Next gathering with friends.",
+        "(17:49, 18:55)",
+        [
+            "Starbucks",
+            700020924
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:35, 21:11)",
+        [
+            "",
+            700002005
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:59)",
+        [
+            "Chase",
+            700005034
+        ]
+    ]
+]

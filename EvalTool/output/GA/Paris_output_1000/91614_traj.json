@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Théâtre Du Gymnase : La Terrasse",
+            700070834
+        ]
+    ],
+    [
+        "Next activity to engage in is a morning leisure activity like reading a book or light exercise.",
+        "(10:00, 10:53)",
+        [
+            "Le Théâtre Du Gymnase : La Terrasse",
+            700070834
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:51, 11:59)",
+        [
+            "Delaville",
+            700006032
+        ]
+    ],
+    [
+        "Next activity to engage in is a morning leisure activity.",
+        "(12:35, 13:43)",
+        [
+            "Delaville",
+            700006032
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 17:20)",
+        [
+            "L'imprévu",
+            700019588
+        ]
+    ],
+    [
+        "Go to restaurant",
+        "(17:09, 18:45)",
+        [
+            "",
+            700019598
+        ]
+    ],
+    [
+        "Stay at Bourse du Travail.",
+        "(19:17, 20:56)",
+        [
+            "Delaville",
+            700006032
+        ]
+    ],
+    [
+        "Stay at Delaville.",
+        "(21:50, 23:29)",
+        [
+            "Delaville",
+            700006032
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "Rosie Lou",
+            700006033
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:05)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 11:41)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(15:49, 17:23)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:00, 19:28)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Wind Down & Relax",
+        "(19:28, 22:02)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:28, 23:59)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ]
+]

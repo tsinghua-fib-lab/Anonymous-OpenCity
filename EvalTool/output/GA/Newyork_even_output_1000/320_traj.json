@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700011238
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:42)",
+        [
+            "The Comfort Diner",
+            700006684
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 14:52)",
+        [
+            "Little Collins",
+            700020932
+        ]
+    ],
+    [
+        "Relax and watch a movie or series",
+        "(15:25, 16:51)",
+        [
+            "Gourmet 45",
+            700007789
+        ]
+    ],
+    [
+        "Prepare dinner and wind down.",
+        "(17:21, 19:54)",
+        [
+            "Seasoned Vegan Real Quick",
+            700021860
+        ]
+    ],
+    [
+        "Prepare dinner and wind down.",
+        "(21:03, 23:58)",
+        [
+            "",
+            700011238
+        ]
+    ],
+    [
+        "Next arrangement is to connect with friends for an outing.",
+        "(23:58, 23:59)",
+        [
+            "Gourmet 45",
+            700007789
+        ]
+    ]
+]

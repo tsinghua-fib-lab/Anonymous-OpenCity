@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003734
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:10)",
+        [
+            "",
+            700008095
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 13:09)",
+        [
+            "",
+            700007214
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:36, 16:16)",
+        [
+            "",
+            700007683
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:20, 17:51)",
+        [
+            "Golden Gate National Recreation Area Park Headquarters",
+            700003055
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:20, 20:48)",
+        [
+            "Maritime Research Center",
+            700005951
+        ]
+    ],
+    [
+        "Go to Chestnut Diner for light meal.",
+        "(23:58, 23:59)",
+        [
+            "",
+            700004120
+        ]
+    ]
+]

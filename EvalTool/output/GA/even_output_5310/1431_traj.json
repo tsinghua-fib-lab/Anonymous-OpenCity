@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 27th Street & 1st Avenue",
+            700008040
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park",
+        "(10:00, 10:56)",
+        [
+            "Citi Bike - East 27th Street & 1st Avenue",
+            700008040
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park from 11:00 AM to 12:00 PM.",
+        "(12:06, 13:14)",
+        [
+            "",
+            700020654
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park.",
+        "(13:11, 14:46)",
+        [
+            "",
+            700019555
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 20:17)",
+        [
+            "",
+            700019557
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 22:35)",
+        [
+            "",
+            700032013
+        ]
+    ],
+    [
+        "Go to 'Link NYC'",
+        "(23:31, 23:59)",
+        [
+            "",
+            700020657
+        ]
+    ]
+]

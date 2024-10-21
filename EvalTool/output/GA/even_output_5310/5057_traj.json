@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700032420
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:55)",
+        [
+            "Madina Halal Deli",
+            700039215
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 19:47)",
+        [
+            "Tarallucci e Vino",
+            700007748
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 17:24)",
+        [
+            "Tarallucci e Vino",
+            700007748
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:23, 22:04)",
+        [
+            "",
+            700032420
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(22:42, 23:59)",
+        [
+            "",
+            700032420
+        ]
+    ]
+]

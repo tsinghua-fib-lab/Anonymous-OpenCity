@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cocina Mayah Restaurant",
+            700010698
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:33)",
+        [
+            "Poc-Chuc",
+            700004983
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:20, 19:37)",
+        [
+            "",
+            700014194
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:40, 21:59)",
+        [
+            "The City Club",
+            700005964
+        ]
+    ],
+    [
+        "Sleep/Rest",
+        "(23:56, 23:59)",
+        [
+            "The City Club",
+            700005964
+        ]
+    ]
+]

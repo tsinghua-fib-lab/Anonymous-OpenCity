@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 25th Street & 2nd Avenue",
+            700008039
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:09)",
+        [
+            "Firecracker Wings",
+            700023829
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 13:42)",
+        [
+            "",
+            700011175
+        ]
+    ],
+    [
+        "Cook Dinner or Try a New Recipe",
+        "(18:36, 20:13)",
+        [
+            "Firecracker Wings",
+            700023829
+        ]
+    ],
+    [
+        "Watch a Movie or Game Night",
+        "(20:51, 22:30)",
+        [
+            "Citi Bike - East 25th Street & 2nd Avenue",
+            700008039
+        ]
+    ],
+    [
+        "Watch a Movie or Game Night",
+        "(22:26, 23:49)",
+        [
+            "Citi Bike - East 25th Street & 2nd Avenue",
+            700008039
+        ]
+    ]
+]

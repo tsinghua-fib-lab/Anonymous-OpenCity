@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tramway Diner",
+            700040592
+        ]
+    ],
+    [
+        "Wake up and relax",
+        "(10:00, 12:08)",
+        [
+            "Amaze",
+            700011528
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:41, 13:47)",
+        [
+            "Biscuits and Bath",
+            700030623
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:56, 16:53)",
+        [
+            "Biscuits and Bath",
+            700030623
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:19, 22:05)",
+        [
+            "",
+            700010700
+        ]
+    ],
+    [
+        "Wake up and relax",
+        "(22:35, 23:59)",
+        [
+            "Amaze",
+            700011528
+        ]
+    ]
+]

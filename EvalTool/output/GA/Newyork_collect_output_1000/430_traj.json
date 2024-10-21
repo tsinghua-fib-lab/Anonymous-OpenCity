@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:52)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:06, 15:17)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Personal Project/Study Time",
+        "(14:14, 15:51)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 18:12)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Watch TV/Relax",
+        "(20:30, 21:54)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700026963
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:51)",
+        [
+            "Vapiano",
+            700027579
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:28, 16:37)",
+        [
+            "La Maison de l'Aubrac",
+            700006834
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:46, 20:53)",
+        [
+            "",
+            700026963
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:55, 18:59)",
+        [
+            "Pub Élysée",
+            700020400
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:55, 21:47)",
+        [
+            "Champs Élysées Pierre Charron",
+            700003357
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(23:46, 23:59)",
+        [
+            "Champs-Élysées",
+            700003355
+        ]
+    ]
+]

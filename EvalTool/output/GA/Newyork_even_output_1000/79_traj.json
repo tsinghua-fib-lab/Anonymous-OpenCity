@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000880
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:54)",
+        [
+            "",
+            700000880
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:39, 17:25)",
+        [
+            "Ms. Yoo",
+            700014837
+        ]
+    ],
+    [
+        "Watch Sports / Entertainment",
+        "(16:35, 18:56)",
+        [
+            "Fierce Grace",
+            700005165
+        ]
+    ],
+    [
+        "Prepare Dinner & Wind Down",
+        "(19:24, 21:02)",
+        [
+            "Ms. Yoo",
+            700014837
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:50, 23:45)",
+        [
+            "Mr. Taka Ramen",
+            700008882
+        ]
+    ]
+]

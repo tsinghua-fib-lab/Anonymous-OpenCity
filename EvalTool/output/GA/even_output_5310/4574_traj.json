@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dig",
+            700022403
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:22)",
+        [
+            "",
+            700002147
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:16, 16:45)",
+        [
+            "Courant Institute of Mathematical Sciences",
+            700009497
+        ]
+    ],
+    [
+        "Afternoon Hobby",
+        "(16:17, 17:51)",
+        [
+            "Courant Institute of Mathematical Sciences",
+            700009497
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:52, 20:09)",
+        [
+            "Dig",
+            700022403
+        ]
+    ],
+    [
+        "Wind Down",
+        "(20:27, 22:09)",
+        [
+            "The GRID",
+            700004731
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "",
+            700002147
+        ]
+    ]
+]

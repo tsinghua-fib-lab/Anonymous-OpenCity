@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rural Ramen Bar",
+            700008797
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:09)",
+        [
+            "The Coffee Movement",
+            700008572
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:17, 18:18)",
+        [
+            "Rural Ramen Bar",
+            700008797
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:36, 20:08)",
+        [
+            "Chinese United Methodist Church",
+            700000219
+        ]
+    ],
+    [
+        "Next activity based on the daily plan",
+        "(18:20, 19:41)",
+        [
+            "By Me Boba Tea",
+            700008866
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:12, 23:59)",
+        [
+            "Sweetheart Cafe",
+            700008817
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:36, 23:59)",
+        [
+            "Buddha",
+            700004223
+        ]
+    ]
+]

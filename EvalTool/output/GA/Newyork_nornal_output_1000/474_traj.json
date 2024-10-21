@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tesla Supercharger",
+            700016580
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:09)",
+        [
+            "Tesla Supercharger",
+            700016580
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 16:18)",
+        [
+            "",
+            700024477
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:58, 18:00)",
+        [
+            "",
+            700011238
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:20, 20:50)",
+        [
+            "Sparks Steak House",
+            700008639
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:04, 23:12)",
+        [
+            "",
+            700000691
+        ]
+    ],
+    [
+        "Stay at Citi Bike",
+        "(23:34, 23:59)",
+        [
+            "Citi Bike - East 45th Street & 3rd Avenue",
+            700008049
+        ]
+    ]
+]

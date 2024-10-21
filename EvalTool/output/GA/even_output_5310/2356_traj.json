@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Black Press Coffee",
+            700030617
+        ]
+    ],
+    [
+        "Leisure Activity/Outdoor Time",
+        "(10:00, 12:06)",
+        [
+            "Citi Bike",
+            700039227
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:23, 16:59)",
+        [
+            "Citi Bike",
+            700039227
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(17:21, 18:55)",
+        [
+            "Citi Bike",
+            700039227
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:11, 22:54)",
+        [
+            "Citi Bike",
+            700039227
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(23:14, 23:59)",
+        [
+            "Citi Bike",
+            700039227
+        ]
+    ]
+]

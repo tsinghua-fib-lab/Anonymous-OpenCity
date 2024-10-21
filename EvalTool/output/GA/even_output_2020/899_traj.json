@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Neighbor's Corner",
+            700005955
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:39)",
+        [
+            "",
+            700014181
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 18:47)",
+        [
+            "",
+            700003641
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(16:37, 18:04)",
+        [
+            "German School of San Francisco",
+            700010715
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(18:17, 19:50)",
+        [
+            "German School of San Francisco",
+            700010715
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 23:59)",
+        [
+            "",
+            700008738
+        ]
+    ]
+]

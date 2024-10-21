@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700016751
+        ]
+    ],
+    [
+        "Wake Up and Relax",
+        "(09:00, 10:02)",
+        [
+            "Starbucks",
+            700016751
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:36, 11:58)",
+        [
+            "Starbucks",
+            700016751
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:05, 14:00)",
+        [
+            "Starbucks",
+            700016751
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:54, 16:09)",
+        [
+            "Starbucks",
+            700016751
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:19, 18:48)",
+        [
+            "",
+            700014711
+        ]
+    ],
+    [
+        "Go to Starbucks and spend time relaxing.",
+        "(20:28, 22:27)",
+        [
+            "Starbucks",
+            700016751
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:36, 23:59)",
+        [
+            "Equinox",
+            700012970
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rubys",
+            700023466
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:04)",
+        [
+            "Rubys",
+            700023466
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 14:20)",
+        [
+            "Sundaes and Cones",
+            700000949
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(16:09, 17:43)",
+        [
+            "Sundaes and Cones",
+            700000949
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(17:38, 18:36)",
+        [
+            "Sundaes and Cones",
+            700000949
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:31, 23:29)",
+        [
+            "",
+            700001418
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "",
+            700001418
+        ]
+    ]
+]

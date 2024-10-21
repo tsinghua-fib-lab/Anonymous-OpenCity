@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ritual Coffee Roasters",
+            700000819
+        ]
+    ],
+    [
+        "Wake Up and Brunch",
+        "(10:00, 11:34)",
+        [
+            "Ritual Coffee Roasters",
+            700000819
+        ]
+    ],
+    [
+        "Next activity based on daily plan.",
+        "(12:13, 13:44)",
+        [
+            "Postal Box",
+            700003149
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:21, 19:00)",
+        [
+            "The Marsh",
+            700003562
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(20:31, 22:04)",
+        [
+            "Esperpento",
+            700003013
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:54, 23:58)",
+        [
+            "",
+            700012072
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700014827
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 10:00)",
+        [
+            "Lena",
+            700005154
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(10:06, 11:39)",
+        [
+            "Lena",
+            700005154
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 17:47)",
+        [
+            "New York Chinese Alliance Church",
+            700014828
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:52, 18:12)",
+        [
+            "Lena",
+            700005154
+        ]
+    ],
+    [
+        "Dinner and Movie Night",
+        "(19:24, 22:01)",
+        [
+            "Vanessa's Dumpling House",
+            700003857
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "Williamsburg Pizza",
+            700022360
+        ]
+    ]
+]

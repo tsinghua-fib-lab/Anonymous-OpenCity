@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700037617
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 10:56)",
+        [
+            "",
+            700037615
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:59, 14:17)",
+        [
+            "Pret A Manger",
+            700003427
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 20:22)",
+        [
+            "Kindercare",
+            700006462
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:35, 23:16)",
+        [
+            "Park Avenue Tavern",
+            700003426
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "Park Avenue Tavern",
+            700003426
+        ]
+    ]
+]

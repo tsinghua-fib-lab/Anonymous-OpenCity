@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:09)",
+        [
+            "High School for Environmental Studies",
+            700006394
+        ]
+    ],
+    [
+        "Personal Projects/Reading",
+        "(10:57, 12:59)",
+        [
+            "High School for Environmental Studies",
+            700006394
+        ]
+    ],
+    [
+        "Continue Personal Projects/Reading",
+        "(12:24, 13:51)",
+        [
+            "High School for Environmental Studies",
+            700006394
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(14:42, 17:01)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:50, 22:15)",
+        [
+            "",
+            700030389
+        ]
+    ],
+    [
+        "Go to Your Working Place.",
+        "(23:00, 23:59)",
+        [
+            "High School for Environmental Studies",
+            700006394
+        ]
+    ]
+]

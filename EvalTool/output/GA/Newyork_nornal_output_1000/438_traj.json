@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "BLT Prime",
+            700017615
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:51)",
+        [
+            "Joe Coffee Company",
+            700013588
+        ]
+    ],
+    [
+        "Sports/Exercise",
+        "(11:31, 12:52)",
+        [
+            "Joe Coffee Company",
+            700013588
+        ]
+    ],
+    [
+        "Entertainment",
+        "(13:51, 15:09)",
+        [
+            "Joe Coffee Company",
+            700013588
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 21:33)",
+        [
+            "Joe & The Juice",
+            700017444
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:02, 23:59)",
+        [
+            "",
+            700000848
+        ]
+    ]
+]

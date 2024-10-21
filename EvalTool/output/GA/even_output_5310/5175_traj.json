@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dunkin'",
+            700008667
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(09:00, 10:32)",
+        [
+            "El Sabroso",
+            700013401
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:07, 12:07)",
+        [
+            "District Social",
+            700013399
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:10, 20:19)",
+        [
+            "White Castle",
+            700038112
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(20:08, 21:50)",
+        [
+            "Vanilla Gorilla Cafe",
+            700040542
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:23, 23:59)",
+        [
+            "Essen",
+            700020687
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "The Houndstooth Pub",
+            700006347
+        ]
+    ]
+]

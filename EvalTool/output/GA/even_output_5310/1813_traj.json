@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Two Boots Pizza",
+            700006545
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:03)",
+        [
+            "",
+            700011415
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:09, 13:15)",
+        [
+            "Silver Star",
+            700024376
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:47, 14:07)",
+        [
+            "Silver Star",
+            700024376
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(15:13, 17:06)",
+        [
+            "CVS Pharmacy",
+            700024375
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(17:06, 18:42)",
+        [
+            "Two Boots Pizza",
+            700006545
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 23:59)",
+        [
+            "Dr. Benjamin Paul",
+            700040418
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:51, 22:57)",
+        [
+            "Dr. Benjamin Paul",
+            700040418
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "Veterinary Emergency Group",
+            700014656
+        ]
+    ]
+]

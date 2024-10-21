@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030391
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:35)",
+        [
+            "",
+            700030397
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:23, 18:37)",
+        [
+            "",
+            700030440
+        ]
+    ],
+    [
+        "Next arrangement is Dinner and Family Time.",
+        "(18:48, 19:53)",
+        [
+            "",
+            700030391
+        ]
+    ],
+    [
+        "Dinner and Family Time",
+        "(21:00, 22:25)",
+        [
+            "",
+            700030392
+        ]
+    ],
+    [
+        "Dinner and Family Time",
+        "(23:25, 23:59)",
+        [
+            "Midtown Loft & Terrace",
+            700040572
+        ]
+    ]
+]

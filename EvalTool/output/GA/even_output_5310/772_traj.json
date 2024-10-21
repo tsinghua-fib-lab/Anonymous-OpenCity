@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002823
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:55)",
+        [
+            "CityMD",
+            700013539
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 16:29)",
+        [
+            "",
+            700001712
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:17, 23:59)",
+        [
+            "Citi Bike - East 52nd Street & 2nd Avenue",
+            700008055
+        ]
+    ],
+    [
+        "Stay at Tanoshi Sushi NYC",
+        "(22:52, 23:54)",
+        [
+            "East Side Animal Hospital",
+            700011457
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 52nd Street & 2nd Avenue",
+        "(23:58, 23:59)",
+        [
+            "Citi Bike - East 52nd Street & 2nd Avenue",
+            700008055
+        ]
+    ]
+]

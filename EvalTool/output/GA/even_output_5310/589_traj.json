@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003165
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:02)",
+        [
+            "New York Sports Club",
+            700016607
+        ]
+    ],
+    [
+        "Watch a movie or TV show",
+        "(16:03, 17:38)",
+        [
+            "",
+            700001894
+        ]
+    ],
+    [
+        "Prepare an early dinner",
+        "(18:22, 19:46)",
+        [
+            "New York Sports Club",
+            700016607
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:07, 23:48)",
+        [
+            "Goethe Institut",
+            700006178
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(23:23, 23:59)",
+        [
+            "Goethe Institut",
+            700006178
+        ]
+    ]
+]

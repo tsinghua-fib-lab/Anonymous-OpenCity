@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002733
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:24)",
+        [
+            "",
+            700038048
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:12, 15:23)",
+        [
+            "",
+            700038053
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:32, 16:35)",
+        [
+            "",
+            700038037
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 19:24)",
+        [
+            "",
+            700038044
+        ]
+    ],
+    [
+        "Meet friends at a park.",
+        "(15:59, 18:29)",
+        [
+            "Citi Bike - Catherine Street & Monroe Street",
+            700007990
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 20:05)",
+        [
+            "",
+            700038036
+        ]
+    ],
+    [
+        "Meet friends at a park.",
+        "(20:33, 22:23)",
+        [
+            "Citi Bike - Catherine Street & Monroe Street",
+            700007990
+        ]
+    ],
+    [
+        "Stay at Citi Bike - Catherine Street & Monroe Street.",
+        "(22:08, 23:59)",
+        [
+            "Citi Bike - Catherine Street & Monroe Street",
+            700007990
+        ]
+    ]
+]

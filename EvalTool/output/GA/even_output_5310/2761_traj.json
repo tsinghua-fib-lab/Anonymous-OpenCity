@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Credit Suisse Information Grandstand",
+            700018237
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:55)",
+        [
+            "",
+            700002972
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:53, 18:44)",
+        [
+            "",
+            700024974
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(17:17, 18:53)",
+        [
+            "Credit Suisse Information Grandstand",
+            700018237
+        ]
+    ],
+    [
+        "Next activity: Watch a Sports Game or Movie",
+        "(19:52, 21:59)",
+        [
+            "Credit Suisse Information Grandstand",
+            700018237
+        ]
+    ],
+    [
+        "Next activity: Watch a Sports Game or Movie.",
+        "(22:43, 23:59)",
+        [
+            "Credit Suisse Information Grandstand",
+            700018237
+        ]
+    ]
+]

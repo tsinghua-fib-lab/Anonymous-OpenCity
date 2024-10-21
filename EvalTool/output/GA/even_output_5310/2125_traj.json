@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005843
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:13)",
+        [
+            "Tavern on the Green public restrooms",
+            700007861
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:52, 14:10)",
+        [
+            "The Leopard at des Artistes",
+            700017538
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:44, 18:08)",
+        [
+            "The Leopard at des Artistes",
+            700017538
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:28, 20:05)",
+        [
+            "",
+            700005843
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 22:07)",
+        [
+            "Le Boite en Bois",
+            700020925
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(23:55, 23:59)",
+        [
+            "Thomas Drugs",
+            700006589
+        ]
+    ]
+]

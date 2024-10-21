@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001432
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:45)",
+        [
+            "Little Star Pizza",
+            700001409
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(12:57, 14:22)",
+        [
+            "Little Star Pizza",
+            700001409
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(15:14, 17:23)",
+        [
+            "Little Star Pizza",
+            700001409
+        ]
+    ],
+    [
+        "Family Time or Games Night",
+        "(18:06, 21:03)",
+        [
+            "Little Star Pizza",
+            700001409
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 23:30)",
+        [
+            "Jerusalem Church of God in Christ",
+            700000225
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(23:07, 23:59)",
+        [
+            "Little Star Pizza",
+            700001409
+        ]
+    ]
+]

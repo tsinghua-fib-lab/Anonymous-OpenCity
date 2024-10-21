@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Le Bistro Parisien",
+            700038162
+        ]
+    ],
+    [
+        "Stay at Le Bistro Parisien",
+        "(09:00, 10:29)",
+        [
+            "Le Bistro Parisien",
+            700038162
+        ]
+    ],
+    [
+        "Lunch",
+        "(11:01, 13:07)",
+        [
+            "",
+            700068673
+        ]
+    ],
+    [
+        "Continue Social Time",
+        "(13:59, 15:39)",
+        [
+            "Le Bistro Parisien",
+            700038162
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:48, 20:02)",
+        [
+            "",
+            700026032
+        ]
+    ],
+    [
+        "Stay at Le Bistro Parisien",
+        "(21:35, 22:45)",
+        [
+            "Casa Bilete Turn",
+            700016419
+        ]
+    ],
+    [
+        "Stay at Le Bistro Parisien",
+        "(23:03, 23:59)",
+        [
+            "Casa Bilete Turn",
+            700016419
+        ]
+    ]
+]

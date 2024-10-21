@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000660
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:02)",
+        [
+            "",
+            700000660
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:52, 14:02)",
+        [
+            "",
+            700009379
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:12, 17:06)",
+        [
+            "Citi Bike - E 50th St / Park Ave",
+            700035104
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:51, 22:01)",
+        [
+            "Pomme Palais Bakery and Coffee",
+            700016256
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:16, 22:50)",
+        [
+            "Sushiann",
+            700006483
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "",
+            700009379
+        ]
+    ]
+]

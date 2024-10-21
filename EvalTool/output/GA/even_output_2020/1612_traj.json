@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Boardroom",
+            700000431
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:01)",
+        [
+            "Rose Pistola",
+            700003404
+        ]
+    ],
+    [
+        "Current place: Rose Pistola. Stay for 1 hour 3 minutes.",
+        "(14:57, 15:55)",
+        [
+            "Caffè Roma",
+            700003390
+        ]
+    ],
+    [
+        "Current place: Rose Pistola. Stay for 1 hour 3 minutes.",
+        "(16:47, 18:10)",
+        [
+            "Caffè Roma",
+            700003390
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 22:16)",
+        [
+            "Rose Pistola",
+            700003404
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(22:33, 23:59)",
+        [
+            "",
+            700000426
+        ]
+    ]
+]

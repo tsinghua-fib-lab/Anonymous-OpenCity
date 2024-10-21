@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cafe La Noisette",
+            700005450
+        ]
+    ],
+    [
+        "11:00 AM - Morning Exercise",
+        "(10:00, 11:29)",
+        [
+            "Cafe La Noisette",
+            700005450
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:27, 17:35)",
+        [
+            "U.S. Bank",
+            700004340
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:02, 17:02)",
+        [
+            "Kid Power Park Community Garden",
+            700002458
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(21:06, 22:29)",
+        [
+            "Kid Power Park Community Garden",
+            700002458
+        ]
+    ],
+    [
+        "Stay at Cafe La Noisette",
+        "(23:23, 23:59)",
+        [
+            "U.S. Bank",
+            700004340
+        ]
+    ]
+]

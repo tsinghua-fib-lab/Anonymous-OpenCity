@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Café Olympia",
+            700039244
+        ]
+    ],
+    [
+        "Engage in a light workout or yoga session to start the day with energy.",
+        "(10:00, 11:40)",
+        [
+            "Café Olympia",
+            700039244
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 15:58)",
+        [
+            "",
+            700039238
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 17:11)",
+        [
+            "",
+            700039232
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:12, 19:37)",
+        [
+            "Taco Bell",
+            700034230
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 23:59)",
+        [
+            "The Fitz",
+            700007290
+        ]
+    ]
+]

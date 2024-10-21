@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Everyman Espresso",
+            700016578
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:01)",
+        [
+            "Han Dynasty",
+            700024440
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 20:14)",
+        [
+            "Ichibantei",
+            700036813
+        ]
+    ],
+    [
+        "Watch movie and relax",
+        "(21:05, 23:02)",
+        [
+            "Ichibantei",
+            700036813
+        ]
+    ],
+    [
+        "Keep watching the movie for a while longer.",
+        "(23:34, 23:59)",
+        [
+            "Ichibantei",
+            700036813
+        ]
+    ]
+]

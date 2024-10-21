@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Nam Kue School",
+            700000204
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:34)",
+        [
+            "",
+            700007376
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:09, 18:07)",
+        [
+            "Moongate Lounge",
+            700010416
+        ]
+    ],
+    [
+        "Meet friends or family for coffee or engage in an outdoor activity.",
+        "(17:10, 18:57)",
+        [
+            "Moongate Lounge",
+            700010416
+        ]
+    ],
+    [
+        "Go to Moongate Lounge",
+        "(19:22, 21:07)",
+        [
+            "Moongate Lounge",
+            700010416
+        ]
+    ],
+    [
+        "Go to Moongate Lounge",
+        "(21:57, 23:59)",
+        [
+            "Moongate Lounge",
+            700010416
+        ]
+    ],
+    [
+        "Stay at Moongate Lounge.",
+        "(23:58, 23:59)",
+        [
+            "Moongate Lounge",
+            700010416
+        ]
+    ]
+]

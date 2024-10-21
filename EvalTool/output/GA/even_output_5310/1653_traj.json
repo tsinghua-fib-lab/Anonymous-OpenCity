@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - West 20th Street & 7th Avenue",
+            700008205
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(09:00, 10:35)",
+        [
+            "Citi Bike - West 20th Street & 7th Avenue",
+            700008205
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 13:01)",
+        [
+            "Matto Espresso",
+            700014253
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:08, 15:21)",
+        [
+            "Jake's Saloon",
+            700004405
+        ]
+    ],
+    [
+        "Dinner Preparation and Relaxation",
+        "(18:59, 19:52)",
+        [
+            "Doughnut Plant",
+            700009549
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:55, 23:59)",
+        [
+            "The Cooper Still",
+            700030271
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:24, 23:59)",
+        [
+            "",
+            700020113
+        ]
+    ]
+]

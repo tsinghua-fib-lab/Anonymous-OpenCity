@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020061
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:44)",
+        [
+            "Shaffer’s",
+            700004332
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:12, 17:01)",
+        [
+            "Chipotle",
+            700004326
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:32, 17:27)",
+        [
+            "",
+            700002216
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 18:46)",
+        [
+            "New York City Laboratory School for Collaborative Studies",
+            700040565
+        ]
+    ],
+    [
+        "Visit a restaurant.",
+        "(15:59, 17:58)",
+        [
+            "Shaffer’s",
+            700004332
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 19:44)",
+        [
+            "Electric Burrito",
+            700040366
+        ]
+    ],
+    [
+        "Go out for lunch.",
+        "(20:33, 22:09)",
+        [
+            "Bank of America",
+            700004323
+        ]
+    ],
+    [
+        "Stay at Starbucks.",
+        "(22:08, 23:59)",
+        [
+            "Starbucks",
+            700004347
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "99¢ Pizza",
+            700022491
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:03)",
+        [
+            "Taco Mix",
+            700006694
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:41, 18:21)",
+        [
+            "Elements Preschool",
+            700038547
+        ]
+    ],
+    [
+        "You are currently at Taco Mix having lunch.",
+        "(20:11, 22:39)",
+        [
+            "La Contenta",
+            700027271
+        ]
+    ],
+    [
+        "Wind down for the evening by watching a movie or catching up on a series.",
+        "(22:59, 23:56)",
+        [
+            "99¢ Pizza",
+            700022491
+        ]
+    ]
+]

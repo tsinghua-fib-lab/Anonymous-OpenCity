@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Outta Sight Pizza",
+            700010213
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:31)",
+        [
+            "Golden Kim Tar Restaurant",
+            700010209
+        ]
+    ],
+    [
+        "Next sports/outdoor activities",
+        "(15:08, 16:36)",
+        [
+            "Golden Kim Tar Restaurant",
+            700010209
+        ]
+    ],
+    [
+        "Sports/Outdoor Activities",
+        "(17:32, 18:56)",
+        [
+            "U.S. Army Corps of Engineers",
+            700014267
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:45, 21:45)",
+        [
+            "Shovels Bar",
+            700002145
+        ]
+    ],
+    [
+        "Next sports/outdoor activities",
+        "(23:41, 23:59)",
+        [
+            "Shovels Bar",
+            700002145
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Temerarion",
+            700004350
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:47)",
+        [
+            "Jeannie's Deli",
+            700004325
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:20, 20:26)",
+        [
+            "Charm's",
+            700018523
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(20:04, 21:30)",
+        [
+            "Temerarion",
+            700004350
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(22:17, 23:43)",
+        [
+            "Temerarion",
+            700004350
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(23:55, 23:59)",
+        [
+            "el coco",
+            700018522
+        ]
+    ]
+]

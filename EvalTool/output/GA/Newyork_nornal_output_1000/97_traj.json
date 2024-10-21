@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Jonty Jacobs",
+            700005290
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:31)",
+        [
+            "Oslo Coffee Roasters",
+            700023339
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(14:44, 16:56)",
+        [
+            "Oslo Coffee Roasters",
+            700023339
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:19, 20:00)",
+        [
+            "",
+            700001569
+        ]
+    ],
+    [
+        "Next evening activities including social time",
+        "(20:10, 22:11)",
+        [
+            "Jonty Jacobs",
+            700005290
+        ]
+    ],
+    [
+        "Next evening activities including social time",
+        "(22:46, 23:59)",
+        [
+            "",
+            700001097
+        ]
+    ]
+]

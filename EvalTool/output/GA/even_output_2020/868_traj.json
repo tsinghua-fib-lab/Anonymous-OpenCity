@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Maxfield's House of Caffeine",
+            700003619
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:13)",
+        [
+            "Maxfield's House of Caffeine",
+            700003619
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 16:03)",
+        [
+            "",
+            700008317
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(16:37, 17:57)",
+        [
+            "Maxfield's House of Caffeine",
+            700003619
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(18:17, 20:09)",
+        [
+            "",
+            700008340
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 22:31)",
+        [
+            "",
+            700008331
+        ]
+    ]
+]

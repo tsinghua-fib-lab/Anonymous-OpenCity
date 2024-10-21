@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Madison Street & Pike Street",
+            700008165
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:42)",
+        [
+            "",
+            700038571
+        ]
+    ],
+    [
+        "Sports/Exercise",
+        "(11:31, 13:08)",
+        [
+            "",
+            700038566
+        ]
+    ],
+    [
+        "Entertainment",
+        "(13:51, 15:07)",
+        [
+            "Citi Bike - Madison Street & Pike Street",
+            700008165
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 17:02)",
+        [
+            "",
+            700038576
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:02, 23:59)",
+        [
+            "",
+            700038558
+        ]
+    ]
+]

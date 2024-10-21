@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(09:00, 10:25)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(10:43, 12:18)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(12:45, 13:52)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(14:51, 16:19)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Exercise",
+        "(16:45, 17:50)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:41, 22:00)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Exercise in iPark",
+        "(23:35, 23:59)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ]
+]

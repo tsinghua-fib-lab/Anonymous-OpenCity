@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bento NYC",
+            700015876
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:47)",
+        [
+            "Tipsy Shanghai",
+            700015711
+        ]
+    ],
+    [
+        "Late Afternoon Relaxation",
+        "(12:33, 14:11)",
+        [
+            "Tipsy Shanghai",
+            700015711
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:33, 16:51)",
+        [
+            "The Black Sheep",
+            700007840
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:33, 23:59)",
+        [
+            "",
+            700002913
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:39, 23:59)",
+        [
+            "",
+            700021868
+        ]
+    ]
+]

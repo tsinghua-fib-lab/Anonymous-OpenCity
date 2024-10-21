@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Müesi Cafe",
+            700005580
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 11:05)",
+        [
+            "Müesi Cafe",
+            700005580
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:43, 13:04)",
+        [
+            "Equinox Gym",
+            700002315
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 15:48)",
+        [
+            "",
+            700014115
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:04, 16:59)",
+        [
+            "Earthbar",
+            700005579
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:43, 19:09)",
+        [
+            "Contrada",
+            700004833
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:57, 23:45)",
+        [
+            "Bar None",
+            700005378
+        ]
+    ]
+]

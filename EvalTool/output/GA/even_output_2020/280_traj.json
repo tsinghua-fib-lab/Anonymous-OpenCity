@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:56)",
+        [
+            "",
+            700009439
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(11:27, 13:27)",
+        [
+            "",
+            700000638
+        ]
+    ],
+    [
+        "Next activity after brunch with friends",
+        "(14:05, 16:34)",
+        [
+            "",
+            700009545
+        ]
+    ],
+    [
+        "Next activity after brunch with friends",
+        "(16:50, 18:12)",
+        [
+            "",
+            700009813
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:12, 23:59)",
+        [
+            "",
+            700009546
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 23:59)",
+        [
+            "",
+            700009813
+        ]
+    ],
+    [
+        "Evening Relaxation & Planning for the Week",
+        "(22:56, 23:59)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ]
+]

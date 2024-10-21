@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000129
+        ]
+    ],
+    [
+        "Current place is Home and staying for Morning Exercise.",
+        "(10:00, 10:54)",
+        [
+            "",
+            700000129
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:29, 16:16)",
+        [
+            "",
+            700001588
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(12:46, 14:53)",
+        [
+            "",
+            700000129
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 20:04)",
+        [
+            "b on the go",
+            700010094
+        ]
+    ],
+    [
+        "Next is Leisure Activities.",
+        "(21:38, 23:41)",
+        [
+            "San Francisco Athletic Club",
+            700004906
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "",
+            700000784
+        ]
+    ]
+]

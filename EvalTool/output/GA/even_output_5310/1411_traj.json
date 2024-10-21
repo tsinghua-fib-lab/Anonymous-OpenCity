@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park",
+        "(10:00, 10:54)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park from 11:00 AM to 12:00 PM.",
+        "(12:06, 13:02)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park.",
+        "(13:11, 14:46)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 18:15)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 18:50)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Go to 'M&T Bank'",
+        "(23:31, 23:59)",
+        [
+            "",
+            700022517
+        ]
+    ]
+]

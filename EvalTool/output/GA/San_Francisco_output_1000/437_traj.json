@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005313
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:46)",
+        [
+            "Rainbow market",
+            700000859
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:25, 14:45)",
+        [
+            "Rainbow market",
+            700000859
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(17:28, 19:04)",
+        [
+            "Rainbow market",
+            700000859
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:55, 22:07)",
+        [
+            "Rainbow market",
+            700000859
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:45, 23:59)",
+        [
+            "",
+            700013593
+        ]
+    ]
+]

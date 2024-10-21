@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Altesi",
+            700019746
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:40)",
+        [
+            "Match 65",
+            700010063
+        ]
+    ],
+    [
+        "Afternoon Hobby",
+        "(14:23, 15:58)",
+        [
+            "Altesi",
+            700019746
+        ]
+    ],
+    [
+        "Head to Altesi for hobby time.",
+        "(16:25, 17:57)",
+        [
+            "Altesi",
+            700019746
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(18:07, 19:41)",
+        [
+            "Altesi",
+            700019746
+        ]
+    ],
+    [
+        "Stay at Altesi for hobby time",
+        "(20:36, 21:48)",
+        [
+            "Altesi",
+            700019746
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:29, 23:59)",
+        [
+            "Citi Bike - East 66th Street & Madison Avenue",
+            700010152
+        ]
+    ]
+]

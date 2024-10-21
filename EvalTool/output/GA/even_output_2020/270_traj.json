@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Interval",
+            700004117
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:09)",
+        [
+            "City College of San Francisco - Fort Mason Center",
+            700000402
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(11:27, 13:33)",
+        [
+            "SFMOMA Artists Gallery",
+            700004118
+        ]
+    ],
+    [
+        "Next activity after brunch with friends",
+        "(14:05, 16:26)",
+        [
+            "BATS Improv",
+            700003065
+        ]
+    ],
+    [
+        "Next activity after brunch with friends",
+        "(16:50, 18:19)",
+        [
+            "BATS Improv",
+            700003065
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:12, 23:59)",
+        [
+            "SFMOMA Artists Gallery",
+            700004118
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 21:57)",
+        [
+            "San Francisco Children's Art Center",
+            700004185
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(22:56, 23:59)",
+        [
+            "",
+            700004121
+        ]
+    ]
+]

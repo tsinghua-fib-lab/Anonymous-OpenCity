@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 5th Street & Avenue C",
+            700008052
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:00, 11:30)",
+        [
+            "Citi Bike - East 5th Street & Avenue C",
+            700008052
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:54, 16:56)",
+        [
+            "ABC Beer Co.",
+            700010916
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:43, 22:20)",
+        [
+            "",
+            700001928
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:27, 23:59)",
+        [
+            "",
+            700002793
+        ]
+    ]
+]

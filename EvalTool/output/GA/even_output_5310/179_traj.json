@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700006037
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(09:00, 09:52)",
+        [
+            "Da Adriano",
+            700033752
+        ]
+    ],
+    [
+        "Catch up on chores and errands",
+        "(10:13, 11:37)",
+        [
+            "Da Adriano",
+            700033752
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:46, 15:57)",
+        [
+            "Goldberg's Pharmacy",
+            700007629
+        ]
+    ],
+    [
+        "Watch a movie or TV show",
+        "(16:01, 18:09)",
+        [
+            "",
+            700006037
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 23:22)",
+        [
+            "Pizza Park",
+            700033902
+        ]
+    ]
+]

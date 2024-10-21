@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:16)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:38, 19:50)",
+        [
+            "",
+            700001612
+        ]
+    ],
+    [
+        "Stay at your current place and wind down with some light reading or meditation.",
+        "(20:47, 21:01)",
+        [
+            "Suboxone Treatment Clinic",
+            700006209
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 23:59)",
+        [
+            "Citizens of Gramercy",
+            700023459
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "McDonald's",
+            700011145
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 16:02)",
+        [
+            "",
+            700011154
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:09, 14:33)",
+        [
+            "",
+            700002708
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 19:58)",
+        [
+            "Sophie's Cuban",
+            700039400
+        ]
+    ],
+    [
+        "You decide to go to another place.",
+        "(19:27, 20:46)",
+        [
+            "Jue Lan",
+            700011152
+        ]
+    ],
+    [
+        "You stay at your current place.",
+        "(21:30, 23:05)",
+        [
+            "Jue Lan",
+            700011152
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:08, 23:59)",
+        [
+            "Boqueria Spanish Tapas",
+            700014311
+        ]
+    ]
+]

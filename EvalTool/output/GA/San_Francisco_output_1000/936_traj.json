@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700013443
+        ]
+    ],
+    [
+        "Go for a morning run or workout",
+        "(09:00, 10:04)",
+        [
+            "Muddy Waters",
+            700000695
+        ]
+    ],
+    [
+        "Shower and get ready for the day",
+        "(11:04, 12:55)",
+        [
+            "Muddy Waters",
+            700000695
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:27, 17:50)",
+        [
+            "Mission Workshop",
+            700002229
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(17:58, 19:03)",
+        [
+            "El Cafe Tazo",
+            700010701
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 23:59)",
+        [
+            "Panchitas",
+            700010703
+        ]
+    ],
+    [
+        "Go to El Toro and stay",
+        "(23:53, 23:59)",
+        [
+            "",
+            700000669
+        ]
+    ]
+]

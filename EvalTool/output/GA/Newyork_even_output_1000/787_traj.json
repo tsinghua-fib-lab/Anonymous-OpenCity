@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "CoCo Fresh Tea & Juice",
+            700013242
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:12)",
+        [
+            "",
+            700002080
+        ]
+    ],
+    [
+        "Stay at CoCo Fresh Tea & Juice.",
+        "(12:01, 13:30)",
+        [
+            "CityMD",
+            700004730
+        ]
+    ],
+    [
+        "Stay at CoCo Fresh Tea & Juice",
+        "(13:28, 14:57)",
+        [
+            "",
+            700003309
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:29, 16:51)",
+        [
+            "Honeybrains",
+            700011458
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:56, 22:55)",
+        [
+            "Le Basket",
+            700003308
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "",
+            700020915
+        ]
+    ]
+]

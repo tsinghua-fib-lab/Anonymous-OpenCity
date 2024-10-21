@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sparks Steak House",
+            700008639
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 13:16)",
+        [
+            "Capital One",
+            700008637
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:00, 16:39)",
+        [
+            "",
+            700011238
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:39, 19:35)",
+        [
+            "",
+            700011238
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(16:13, 18:05)",
+        [
+            "Sparks Steak House",
+            700008639
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:23, 20:50)",
+        [
+            "Aretsky's Patroon",
+            700007332
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "Quik Park Garage",
+            700008635
+        ]
+    ]
+]

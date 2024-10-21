@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000779
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:31)",
+        [
+            "Sweet Lime",
+            700005961
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:58, 16:41)",
+        [
+            "Compton's Coffee House",
+            700008749
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:48, 19:07)",
+        [
+            "Harry's Bar",
+            700008747
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:36, 23:27)",
+        [
+            "Harry's Bar",
+            700008747
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:01)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(11:58, 13:02)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:54, 15:28)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:51, 20:11)",
+        [
+            "",
+            700065950
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 23:59)",
+        [
+            "",
+            700065880
+        ]
+    ]
+]

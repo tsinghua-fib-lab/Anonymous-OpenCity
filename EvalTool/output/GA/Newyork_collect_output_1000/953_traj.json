@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "You will stay at AWOL Bar and Grill until 10:00 AM and then go for a walk.",
+        "(09:00, 10:25)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "Stay at current place: Sunflower Cafe",
+        "(10:26, 13:03)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 15:39)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:42, 19:54)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Go to 5ive Spice",
+        "(21:51, 23:10)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ]
+]

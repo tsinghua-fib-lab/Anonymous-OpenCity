@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:32)",
+        [
+            "",
+            700004911
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:33, 17:07)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:17, 19:47)",
+        [
+            "",
+            700004899
+        ]
+    ],
+    [
+        "Relaxation and TV Time",
+        "(19:30, 21:07)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "Relaxation and TV Time",
+        "(21:11, 22:56)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "Relaxation and TV Time",
+        "(23:56, 23:59)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009143
+        ]
+    ],
+    [
+        "Go for a Walk or Exercise",
+        "(10:00, 11:00)",
+        [
+            "Free Library at Benches Garden",
+            700003555
+        ]
+    ],
+    [
+        "Go for a Walk or Exercise",
+        "(11:05, 13:00)",
+        [
+            "Free Library at Benches Garden",
+            700003555
+        ]
+    ],
+    [
+        "Catch Up on Hobbies",
+        "(13:45, 15:44)",
+        [
+            "Free Library at Benches Garden",
+            700003555
+        ]
+    ],
+    [
+        "Catch Up on Hobbies",
+        "(16:08, 17:54)",
+        [
+            "Free Library at Benches Garden",
+            700003555
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:08, 22:07)",
+        [
+            "",
+            700000041
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(23:25, 23:59)",
+        [
+            "Peet's Coffee",
+            700005840
+        ]
+    ]
+]

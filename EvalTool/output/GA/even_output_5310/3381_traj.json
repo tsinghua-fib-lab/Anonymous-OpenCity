@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Old Man Hustle Comedy Bar",
+            700024367
+        ]
+    ],
+    [
+        "Go to the Old Man Hustle Comedy Bar.",
+        "(10:00, 12:33)",
+        [
+            "Old Man Hustle Comedy Bar",
+            700024367
+        ]
+    ],
+    [
+        "You have lunch at Old Man Hustle Comedy Bar.",
+        "(12:15, 13:23)",
+        [
+            "Old Man Hustle Comedy Bar",
+            700024367
+        ]
+    ],
+    [
+        "You stay at Old Man Hustle Comedy Bar.",
+        "(13:33, 15:12)",
+        [
+            "",
+            700001937
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 19:01)",
+        [
+            "North Dumpling",
+            700014305
+        ]
+    ],
+    [
+        "Next gathering with friends.",
+        "(17:49, 19:00)",
+        [
+            "Old Man Hustle Comedy Bar",
+            700024367
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:35, 21:46)",
+        [
+            "Pizza a Casa - Pizza School",
+            700005956
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:20)",
+        [
+            "",
+            700001879
+        ]
+    ]
+]

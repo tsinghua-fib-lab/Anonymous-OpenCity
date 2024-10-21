@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000045
+        ]
+    ],
+    [
+        "Next is Morning Exercise.",
+        "(10:00, 10:51)",
+        [
+            "Berlin Döner & Kebab House",
+            700008881
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:29, 14:26)",
+        [
+            "",
+            700010628
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(12:46, 14:42)",
+        [
+            "Berlin Döner & Kebab House",
+            700008881
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 20:16)",
+        [
+            "",
+            700008717
+        ]
+    ],
+    [
+        "Next is Outdoor Activity.",
+        "(21:38, 23:10)",
+        [
+            "Berlin Döner & Kebab House",
+            700008881
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "Farm:Table",
+            700006015
+        ]
+    ]
+]

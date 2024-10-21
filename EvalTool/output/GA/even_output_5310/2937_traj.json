@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Fulton Care Pharmacy",
+            700014893
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:06)",
+        [
+            "Fulton Care Pharmacy",
+            700014893
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:45, 16:50)",
+        [
+            "Lanzhou Ramen",
+            700014890
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(17:16, 18:53)",
+        [
+            "Lanzhou Ramen",
+            700014890
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:47, 21:22)",
+        [
+            "Lanzhou Ramen",
+            700014890
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(21:27, 23:03)",
+        [
+            "",
+            700009642
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:01, 23:59)",
+        [
+            "Fong On",
+            700023341
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "CVS Pharmacy",
+            700012248
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:04)",
+        [
+            "Wells Fargo",
+            700018096
+        ]
+    ],
+    [
+        "Personal Project or Hobby",
+        "(10:25, 12:10)",
+        [
+            "Wells Fargo",
+            700018096
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 16:01)",
+        [
+            "",
+            700002265
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:31, 22:52)",
+        [
+            "Osteria 57",
+            700039535
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:44, 23:59)",
+        [
+            "",
+            700007677
+        ]
+    ]
+]

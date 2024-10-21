@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002056
+        ]
+    ],
+    [
+        "Go for a walk or jog in the park.",
+        "(10:00, 11:02)",
+        [
+            "",
+            700002056
+        ]
+    ],
+    [
+        "Go for a walk or jog in the park",
+        "(11:52, 13:01)",
+        [
+            "Citi Bike - West 29th Street & 9th Avenue",
+            700019804
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:07, 14:57)",
+        [
+            "Cafe Bravo",
+            700016260
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 21:28)",
+        [
+            "",
+            700037732
+        ]
+    ],
+    [
+        "Wind down the day by playing board games or chatting with family/friends.",
+        "(21:52, 23:08)",
+        [
+            "Boqueria Soho",
+            700009196
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:34, 23:59)",
+        [
+            "",
+            700025806
+        ]
+    ]
+]

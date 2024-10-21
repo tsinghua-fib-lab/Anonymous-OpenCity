@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bemelmans Bar",
+            700009670
+        ]
+    ],
+    [
+        "Lunch",
+        "(10:00, 10:57)",
+        [
+            "",
+            700002649
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:38, 15:03)",
+        [
+            "SINY Dermatology",
+            700039302
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:01, 17:58)",
+        [
+            "Café Carlyle",
+            700006567
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:05, 21:03)",
+        [
+            "Three Guys",
+            700019742
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(21:16, 22:57)",
+        [
+            "Three Guys",
+            700019742
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "SINY Dermatology",
+            700039302
+        ]
+    ]
+]

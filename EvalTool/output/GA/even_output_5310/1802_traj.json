@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001514
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:47)",
+        [
+            "Veterinary Emergency Group",
+            700014656
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:09, 12:40)",
+        [
+            "Veterinary Emergency Group",
+            700014656
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:47, 14:25)",
+        [
+            "Veterinary Emergency Group",
+            700014656
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:13, 16:59)",
+        [
+            "Veterinary Emergency Group",
+            700014656
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(17:06, 18:51)",
+        [
+            "",
+            700001514
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 21:28)",
+        [
+            "",
+            700002309
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:51, 22:57)",
+        [
+            "",
+            700001514
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "",
+            700002309
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 10:53)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:30, 13:02)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Social Time",
+        "(13:33, 15:28)",
+        [
+            "Sacco Pizza",
+            700024593
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:52, 16:50)",
+        [
+            "Sacco Pizza",
+            700024593
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:12, 18:21)",
+        [
+            "Capital One",
+            700003472
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(18:23, 20:04)",
+        [
+            "Capital One",
+            700003472
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(20:57, 22:29)",
+        [
+            "Capital One",
+            700003472
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(23:22, 23:59)",
+        [
+            "Capital One",
+            700003472
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Otra",
+            700004208
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:58)",
+        [
+            "",
+            700005476
+        ]
+    ],
+    [
+        "Spend the afternoon reading or catching up on a hobby",
+        "(14:23, 15:46)",
+        [
+            "Mythic Pizza",
+            700000962
+        ]
+    ],
+    [
+        "Spend the afternoon reading or catching up on a hobby",
+        "(16:54, 17:53)",
+        [
+            "Otra",
+            700004208
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 20:15)",
+        [
+            "Memphis Minnie's",
+            700000957
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:04, 21:57)",
+        [
+            "Dumpling Union",
+            700001550
+        ]
+    ]
+]

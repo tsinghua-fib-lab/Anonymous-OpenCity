@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Pizza Zone N Grill",
+            700003194
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:39)",
+        [
+            "Pizza Zone N Grill",
+            700003194
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:35, 14:16)",
+        [
+            "Pizza Zone N Grill",
+            700003194
+        ]
+    ],
+    [
+        "Relaxation/Entertainment",
+        "(15:20, 16:50)",
+        [
+            "Pizza Zone N Grill",
+            700003194
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:42, 19:21)",
+        [
+            "Sushi Zone",
+            700002659
+        ]
+    ],
+    [
+        "Stay at place",
+        "(19:46, 21:24)",
+        [
+            "Pizza Zone N Grill",
+            700003194
+        ]
+    ],
+    [
+        "Stay at Pizza Zone N Grill",
+        "(21:48, 22:56)",
+        [
+            "Pizza Zone N Grill",
+            700003194
+        ]
+    ],
+    [
+        "Stay at Pizza Zone N Grill.",
+        "(23:50, 23:59)",
+        [
+            "Menya Kanemaru",
+            700003193
+        ]
+    ]
+]

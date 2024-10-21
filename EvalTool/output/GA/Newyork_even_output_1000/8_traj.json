@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Manny Cantor Center",
+            700006688
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:50)",
+        [
+            "Manny Cantor Center",
+            700006688
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:49, 16:23)",
+        [
+            "",
+            700021937
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:24, 18:04)",
+        [
+            "Manny Cantor Center",
+            700006688
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:55, 19:33)",
+        [
+            "Manny Cantor Center",
+            700006688
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:25, 23:17)",
+        [
+            "",
+            700021937
+        ]
+    ]
+]

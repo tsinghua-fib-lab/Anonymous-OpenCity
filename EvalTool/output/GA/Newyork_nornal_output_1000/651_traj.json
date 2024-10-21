@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020320
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:56)",
+        [
+            "Daivos Northern Italian Steakhouse",
+            700017238
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:38, 14:40)",
+        [
+            "Citi Bike - East 44th Street & Lexington Avenue",
+            700020308
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:16, 21:39)",
+        [
+            "Daivos Northern Italian Steakhouse",
+            700017238
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "",
+            700037641
+        ]
+    ]
+]

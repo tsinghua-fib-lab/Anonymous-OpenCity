@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010264
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:16)",
+        [
+            "",
+            700005700
+        ]
+    ],
+    [
+        "Read a Book or Listen to Music",
+        "(14:11, 16:00)",
+        [
+            "",
+            700010264
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:02, 17:26)",
+        [
+            "",
+            700000594
+        ]
+    ],
+    [
+        "Read a Book or Listen to Music",
+        "(21:35, 23:39)",
+        [
+            "",
+            700010264
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(23:45, 23:59)",
+        [
+            "Walgreens & Live Fit Gym Underground Parking Garage",
+            700001410
+        ]
+    ]
+]

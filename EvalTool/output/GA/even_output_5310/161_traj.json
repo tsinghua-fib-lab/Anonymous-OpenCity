@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sophie's Cuban Cuisine",
+            700016391
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:47)",
+        [
+            "Bamboo Sushi",
+            700039048
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:27, 18:05)",
+        [
+            "Bamboo Sushi",
+            700039048
+        ]
+    ],
+    [
+        "Go to a restaurant.",
+        "(19:50, 20:50)",
+        [
+            "Kuu",
+            700039049
+        ]
+    ],
+    [
+        "Attend a sports event or participate in a recreational activity.",
+        "(20:32, 22:10)",
+        [
+            "Kuu",
+            700039049
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "Citi Bike - 1st Avenue & East 68th Street",
+            700009343
+        ]
+    ]
+]

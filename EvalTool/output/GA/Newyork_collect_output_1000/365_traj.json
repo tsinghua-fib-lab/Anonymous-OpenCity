@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Go for a walk or do some light exercise",
+        "(10:00, 11:07)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Engage in a personal development activity",
+        "(11:49, 13:12)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Engage in a personal development activity",
+        "(13:22, 14:54)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Spend time with friends or family",
+        "(15:30, 18:09)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Spend time with friends or family",
+        "(18:38, 21:04)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Prepare a nice dinner",
+        "(21:38, 22:58)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ]
+]

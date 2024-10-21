@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Peabody Estate",
+            700012544
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:33)",
+        [
+            "Pimlico Gardens, Grosvenor Road",
+            700007682
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(13:23, 14:50)",
+        [
+            "Pimlico Gardens, Grosvenor Road",
+            700007682
+        ]
+    ],
+    [
+        "Go for a walk or partake in an outdoor activity",
+        "(15:35, 17:01)",
+        [
+            "Pimlico Gardens, Grosvenor Road",
+            700007682
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:34, 20:31)",
+        [
+            "Pimlico Gardens, Grosvenor Road",
+            700007682
+        ]
+    ],
+    [
+        "Stay at your current place.",
+        "(22:34, 23:59)",
+        [
+            "Pimlico Gardens, Grosvenor Road",
+            700007682
+        ]
+    ]
+]

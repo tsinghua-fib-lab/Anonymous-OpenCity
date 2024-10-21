@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003592
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:06)",
+        [
+            "Panini Cafe",
+            700012530
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:23, 14:03)",
+        [
+            "Panini Cafe",
+            700012530
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:31, 15:59)",
+        [
+            "Panini Cafe",
+            700012530
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:37, 18:07)",
+        [
+            "Panini Cafe",
+            700012530
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(18:20, 20:12)",
+        [
+            "NY Bagels & Cafe",
+            700010807
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(21:00, 23:00)",
+        [
+            "Panini Cafe",
+            700012530
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:09, 23:59)",
+        [
+            "NY Bagels & Cafe",
+            700010807
+        ]
+    ]
+]

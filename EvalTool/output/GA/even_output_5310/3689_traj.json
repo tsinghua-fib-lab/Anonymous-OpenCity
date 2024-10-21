@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700024620
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:13)",
+        [
+            "",
+            700024355
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:26, 17:07)",
+        [
+            "",
+            700024622
+        ]
+    ],
+    [
+        "Catch up with Friends or Family",
+        "(17:04, 18:56)",
+        [
+            "Citi Bike - Stanton St & Mangin St",
+            700008187
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 23:59)",
+        [
+            "Public School M188 The Island School",
+            700000020
+        ]
+    ]
+]

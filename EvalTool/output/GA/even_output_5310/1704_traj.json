@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ],
+    [
+        "11:00 AM - Morning Walk or Light Exercise",
+        "(10:00, 11:34)",
+        [
+            "",
+            700020823
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:54, 16:13)",
+        [
+            "",
+            700010440
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 20:27)",
+        [
+            "Citi Bike - West 29th Street & 9th Avenue",
+            700019804
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:10, 23:59)",
+        [
+            "",
+            700037744
+        ]
+    ]
+]

@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Blue Dog",
+            700007656
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:26)",
+        [
+            "The Roof",
+            700013140
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:35, 18:47)",
+        [
+            "Le Parker Meridien Burger",
+            700003564
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:42, 23:59)",
+        [
+            "Topaz",
+            700041047
+        ]
+    ]
+]

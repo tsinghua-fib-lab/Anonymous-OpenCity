@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010802
+        ]
+    ],
+    [
+        "Wake Up and Enjoy a Leisurely Breakfast",
+        "(10:00, 10:50)",
+        [
+            "Bay Wheels",
+            700010406
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:19, 14:46)",
+        [
+            "True Laurel",
+            700010876
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 16:21)",
+        [
+            "Sightglass Coffee",
+            700004272
+        ]
+    ],
+    [
+        "Next activity based on the plan.",
+        "(19:51, 20:59)",
+        [
+            "Rhea’s Cafe",
+            700005988
+        ]
+    ],
+    [
+        "Stay at home for reading/TV",
+        "(22:05, 23:37)",
+        [
+            "",
+            700009868
+        ]
+    ],
+    [
+        "Stay at home for reading/TV",
+        "(23:54, 23:59)",
+        [
+            "",
+            700010802
+        ]
+    ]
+]

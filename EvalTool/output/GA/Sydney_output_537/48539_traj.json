@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Light Brigade Hotel",
+            700006642
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:57)",
+        [
+            "Woollahra General Practice",
+            700003342
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:41, 13:51)",
+        [
+            "Woollahra General Practice",
+            700003342
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:56, 20:22)",
+        [
+            "",
+            700030527
+        ]
+    ],
+    [
+        "Errands/Personal Projects",
+        "(19:57, 20:56)",
+        [
+            "",
+            700029173
+        ]
+    ],
+    [
+        "Stay at Woollahra General Practice",
+        "(21:31, 23:04)",
+        [
+            "Woollahra General Practice",
+            700003342
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "14 Queen",
+            700011588
+        ]
+    ]
+]

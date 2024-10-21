@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Characters NYC Bar & Lounge",
+            700005960
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:20)",
+        [
+            "",
+            700000885
+        ]
+    ],
+    [
+        "Entertainment",
+        "(13:14, 14:38)",
+        [
+            "Iguana New York",
+            700015862
+        ]
+    ],
+    [
+        "Lunch",
+        "(15:40, 17:09)",
+        [
+            "Iguana New York",
+            700015862
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(17:51, 19:54)",
+        [
+            "Iguana New York",
+            700015862
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:59, 21:54)",
+        [
+            "",
+            700017974
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:57, 23:59)",
+        [
+            "La Esquina",
+            700006316
+        ]
+    ],
+    [
+        "Stay in current place for leisure",
+        "(23:52, 23:59)",
+        [
+            "Tanner Smith's",
+            700035149
+        ]
+    ]
+]

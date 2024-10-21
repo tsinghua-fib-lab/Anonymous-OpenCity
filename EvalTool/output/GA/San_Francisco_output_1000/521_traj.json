@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002430
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:47)",
+        [
+            "Blue Barn",
+            700007283
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:50, 15:40)",
+        [
+            "House of Sushi Teriyaki & Tempura",
+            700006483
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:26, 21:36)",
+        [
+            "The Buccaneer",
+            700002777
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:59)",
+        [
+            "House of Sushi Teriyaki & Tempura",
+            700006483
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike",
+            700028573
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby (11:00 AM - 12:30 PM)",
+        "(10:00, 11:27)",
+        [
+            "Citi Bike",
+            700028573
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby",
+        "(12:09, 13:51)",
+        [
+            "Citi Bike",
+            700028573
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:38, 16:03)",
+        [
+            "Citi Bike",
+            700028573
+        ]
+    ],
+    [
+        "Socialize or Chat with Friends",
+        "(16:41, 17:57)",
+        [
+            "Citi Bike",
+            700028573
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:26, 23:59)",
+        [
+            "",
+            700003079
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:13, 23:59)",
+        [
+            "",
+            700002224
+        ]
+    ]
+]

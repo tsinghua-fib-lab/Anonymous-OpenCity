@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "United States Post Office",
+            700005035
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:19)",
+        [
+            "",
+            700020928
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 13:19)",
+        [
+            "Equinox",
+            700003705
+        ]
+    ],
+    [
+        "Technical Reading or Online Course",
+        "(14:12, 15:55)",
+        [
+            "Equinox",
+            700003705
+        ]
+    ],
+    [
+        "Social Time with Friends/Virtual Hangout",
+        "(16:01, 18:02)",
+        [
+            "Equinox",
+            700003705
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:05, 19:36)",
+        [
+            "Sweetgreen",
+            700020927
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:46, 23:59)",
+        [
+            "",
+            700002824
+        ]
+    ]
+]

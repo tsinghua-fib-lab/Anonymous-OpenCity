@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:22)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(14:07, 15:16)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Creative Time",
+        "(15:56, 17:36)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Creative Time",
+        "(17:44, 19:56)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(20:36, 22:50)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ],
+    [
+        "Next, go to Sundays Well.",
+        "(23:47, 23:59)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003068
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:56)",
+        [
+            "Lucky",
+            700029808
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(12:49, 13:58)",
+        [
+            "Lucky",
+            700029808
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 18:28)",
+        [
+            "Soda Club",
+            700005414
+        ]
+    ],
+    [
+        "Dinner and TV Time",
+        "(19:27, 20:50)",
+        [
+            "Soda Club",
+            700005414
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 22:02)",
+        [
+            "Soda Club",
+            700005414
+        ]
+    ],
+    [
+        "Stay at Soda Club",
+        "(22:14, 23:59)",
+        [
+            "Soda Club",
+            700005414
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:09)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:12, 12:19)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:12, 17:24)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:17, 20:57)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(21:19, 23:07)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:07, 23:59)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ]
+]

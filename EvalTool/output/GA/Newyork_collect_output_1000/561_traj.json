@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 11:20)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:30, 12:51)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Social Time",
+        "(13:33, 15:34)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:52, 17:47)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:12, 23:05)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(18:23, 20:04)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Social Time",
+        "(20:57, 22:35)",
+        [
+            "",
+            700022517
+        ]
+    ],
+    [
+        "Social Time",
+        "(23:22, 23:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ]
+]

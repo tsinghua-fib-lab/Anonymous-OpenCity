@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Linden & Laguna",
+            700009521
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:21)",
+        [
+            "",
+            700002893
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 14:29)",
+        [
+            "",
+            700002892
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 15:18)",
+        [
+            "Urban Ritual",
+            700011000
+        ]
+    ],
+    [
+        "Current Place: Linden & Laguna; Stay Time: 0 hours 23 minutes",
+        "(20:23, 22:29)",
+        [
+            "Urban Ritual",
+            700011000
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(22:52, 23:59)",
+        [
+            "Patxi's",
+            700002387
+        ]
+    ]
+]

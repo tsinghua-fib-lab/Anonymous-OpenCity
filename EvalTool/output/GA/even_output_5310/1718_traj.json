@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "CityMD",
+            700020713
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 09:58)",
+        [
+            "CityMD",
+            700020713
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(10:15, 11:51)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ],
+    [
+        "Visit a Local Library or Community Center",
+        "(12:23, 13:51)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:33, 16:03)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:59, 22:51)",
+        [
+            "CityMD",
+            700020713
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(22:59, 23:59)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ]
+]

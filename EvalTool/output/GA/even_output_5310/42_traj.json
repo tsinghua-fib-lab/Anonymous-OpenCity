@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Baker Street Pub",
+            700009362
+        ]
+    ],
+    [
+        "Engage in a light workout or yoga session to start the day with energy.",
+        "(10:00, 11:29)",
+        [
+            "Baker Street Pub",
+            700009362
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 13:37)",
+        [
+            "",
+            700000768
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 17:23)",
+        [
+            "University Animal Hospital",
+            700041299
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:12, 20:06)",
+        [
+            "",
+            700001986
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 21:15)",
+        [
+            "",
+            700006037
+        ]
+    ]
+]

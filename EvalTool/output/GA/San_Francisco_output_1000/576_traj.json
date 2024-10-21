@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CVS Pharmacy",
+            700002111
+        ]
+    ],
+    [
+        "Next is Morning Exercise.",
+        "(10:00, 10:52)",
+        [
+            "Little Free Library",
+            700010486
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:29, 17:02)",
+        [
+            "",
+            700005924
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(12:46, 14:52)",
+        [
+            "Little Free Library",
+            700010486
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 19:53)",
+        [
+            "The Bento Guys",
+            700008624
+        ]
+    ],
+    [
+        "Next is Outdoor Activity.",
+        "(21:38, 23:04)",
+        [
+            "The Bento Guys",
+            700008624
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "",
+            700003662
+        ]
+    ]
+]

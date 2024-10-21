@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002737
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:08)",
+        [
+            "The Halal Guys",
+            700007889
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:34, 19:17)",
+        [
+            "The Halal Guys",
+            700007889
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:25, 20:36)",
+        [
+            "Artichoke Basille's Pizza",
+            700018142
+        ]
+    ],
+    [
+        "Stay at Artichoke Basille's Pizza",
+        "(23:24, 23:59)",
+        [
+            "14th Street Y - Childcare",
+            700007895
+        ]
+    ]
+]

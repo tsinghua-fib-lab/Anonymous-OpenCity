@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700019950
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:17)",
+        [
+            "Platinum Plus Cafe",
+            700032010
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(14:05, 16:02)",
+        [
+            "Platinum Plus Cafe",
+            700032010
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(16:00, 18:02)",
+        [
+            "Platinum Plus Cafe",
+            700032010
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(18:07, 20:13)",
+        [
+            "Platinum Plus Cafe",
+            700032010
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:03, 22:26)",
+        [
+            "Argo Tea",
+            700018001
+        ]
+    ]
+]

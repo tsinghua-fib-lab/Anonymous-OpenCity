@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "",
+            700036040
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(08:00, 09:20)",
+        [
+            "",
+            700036040
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:14, 12:05)",
+        [
+            "Super Bao",
+            700056335
+        ]
+    ],
+    [
+        "Leisure or Hobby Time",
+        "(12:12, 13:35)",
+        [
+            "Super Bao",
+            700056335
+        ]
+    ],
+    [
+        "Continue Leisure or Hobby Time",
+        "(13:46, 15:09)",
+        [
+            "Super Bao",
+            700056335
+        ]
+    ],
+    [
+        "Leisure or Hobby Time",
+        "(15:56, 17:22)",
+        [
+            "Shodai Matcha",
+            700042551
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:01, 19:50)",
+        [
+            "La Rêverie",
+            700017078
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:03, 22:53)",
+        [
+            "Relais Bastille",
+            700056237
+        ]
+    ]
+]

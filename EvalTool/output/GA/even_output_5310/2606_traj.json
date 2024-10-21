@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030799
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park.",
+        "(10:00, 10:56)",
+        [
+            "",
+            700030854
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park.",
+        "(11:03, 12:55)",
+        [
+            "",
+            700030799
+        ]
+    ],
+    [
+        "Spend some time reading a book or doing a hobby.",
+        "(13:36, 14:57)",
+        [
+            "",
+            700030799
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:43, 18:45)",
+        [
+            "",
+            700030801
+        ]
+    ],
+    [
+        "Stay at home",
+        "(19:32, 20:52)",
+        [
+            "",
+            700030799
+        ]
+    ],
+    [
+        "Wind down the day by watching a movie or binge-watching a series.",
+        "(21:30, 22:52)",
+        [
+            "",
+            700030799
+        ]
+    ],
+    [
+        "Stay at home",
+        "(23:32, 23:59)",
+        [
+            "",
+            700030799
+        ]
+    ]
+]

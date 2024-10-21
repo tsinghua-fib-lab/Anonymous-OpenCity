@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700034406
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:10)",
+        [
+            "",
+            700034406
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:45, 15:00)",
+        [
+            "Citi Bike - 6 Ave & Canal St",
+            700007939
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:16, 19:01)",
+        [
+            "Citi Bike - 6 Ave & Canal St",
+            700007939
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(19:47, 21:10)",
+        [
+            "Citi Bike - 6 Ave & Canal St",
+            700007939
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(21:27, 23:00)",
+        [
+            "",
+            700034404
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:01, 23:59)",
+        [
+            "",
+            700023893
+        ]
+    ]
+]

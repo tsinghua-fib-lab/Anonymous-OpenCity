@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Rumpus Room",
+            700004676
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 16:03)",
+        [
+            "The Rumpus Room",
+            700004676
+        ]
+    ],
+    [
+        "Engage in a hobby or read a book",
+        "(12:46, 13:56)",
+        [
+            "",
+            700010246
+        ]
+    ],
+    [
+        "Watch a movie or binge a TV series",
+        "(14:16, 17:18)",
+        [
+            "The Rumpus Room",
+            700004676
+        ]
+    ],
+    [
+        "Prepare and have dinner, followed by winding down",
+        "(18:06, 20:05)",
+        [
+            "The Rumpus Room",
+            700004676
+        ]
+    ],
+    [
+        "Prepare and have dinner, followed by winding down.",
+        "(20:02, 21:32)",
+        [
+            "Bay Area Smash Room",
+            700010252
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:56, 23:59)",
+        [
+            "",
+            700010250
+        ]
+    ]
+]

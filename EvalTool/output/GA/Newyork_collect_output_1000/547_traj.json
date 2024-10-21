@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 10:50)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:30, 12:58)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Social Time",
+        "(13:33, 15:33)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:52, 18:18)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:12, 20:15)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(18:23, 19:54)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(20:57, 22:28)",
+        [
+            "Thai V Express",
+            700017625
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(23:22, 23:59)",
+        [
+            "Coletta",
+            700015591
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hit Fit SF",
+            700010920
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:23)",
+        [
+            "Bike Kitchen",
+            700003047
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:35, 13:28)",
+        [
+            "True Laurel",
+            700010876
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:32, 19:09)",
+        [
+            "Bike Kitchen",
+            700003047
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:29, 23:59)",
+        [
+            "",
+            700000047
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(23:04, 23:59)",
+        [
+            "Flour + Water",
+            700002060
+        ]
+    ]
+]

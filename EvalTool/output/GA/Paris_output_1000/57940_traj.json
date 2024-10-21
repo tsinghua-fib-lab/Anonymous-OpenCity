@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Moncœur Belleville",
+            700001221
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:48)",
+        [
+            "Fontaine Wallace",
+            700003716
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:29, 14:52)",
+        [
+            "Fontaine Wallace",
+            700003716
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:37, 19:36)",
+        [
+            "Le Vieux Belleville",
+            700051781
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:28, 23:59)",
+        [
+            "Les Bols d'Antoine",
+            700009627
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York City Board of Higher Education Headquarters",
+            700000556
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:03)",
+        [
+            "New York City Board of Higher Education Headquarters",
+            700000556
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:11, 11:51)",
+        [
+            "New York City Board of Higher Education Headquarters",
+            700000556
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 17:15)",
+        [
+            "New York City Board of Higher Education Headquarters",
+            700000556
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 23:14)",
+        [
+            "",
+            700002644
+        ]
+    ],
+    [
+        "Evening Leisure Time",
+        "(20:40, 21:57)",
+        [
+            "",
+            700021651
+        ]
+    ],
+    [
+        "Evening Leisure Time",
+        "(22:06, 23:45)",
+        [
+            "",
+            700021645
+        ]
+    ],
+    [
+        "Evening Leisure Time",
+        "(23:35, 23:59)",
+        [
+            "",
+            700021643
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gold Bao",
+            700016733
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 11:01)",
+        [
+            "Gold Bao",
+            700016733
+        ]
+    ],
+    [
+        "Current place: Gold Bao, staying for brunch.",
+        "(11:34, 13:09)",
+        [
+            "Gold Bao",
+            700016733
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:38, 18:25)",
+        [
+            "",
+            700016221
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 19:15)",
+        [
+            "",
+            700002601
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:07, 23:26)",
+        [
+            "Möge Tee",
+            700024918
+        ]
+    ]
+]

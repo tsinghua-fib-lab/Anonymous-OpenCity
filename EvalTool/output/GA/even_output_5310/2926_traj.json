@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Brazilian Market NYC",
+            700039305
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:05)",
+        [
+            "Brazilian Market NYC",
+            700039305
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:45, 13:35)",
+        [
+            "",
+            700020598
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(17:16, 19:00)",
+        [
+            "Brazilian Market NYC",
+            700039305
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:47, 21:24)",
+        [
+            "Brazilian Market NYC",
+            700039305
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(21:27, 23:01)",
+        [
+            "Brazilian Market NYC",
+            700039305
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:01, 23:59)",
+        [
+            "Keys & Heels",
+            700023405
+        ]
+    ]
+]

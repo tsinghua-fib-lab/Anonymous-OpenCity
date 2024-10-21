@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Barrow's Pub",
+            700005292
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:58)",
+        [
+            "",
+            700002627
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(12:16, 14:03)",
+        [
+            "",
+            700001467
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:27, 16:03)",
+        [
+            "",
+            700001871
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 20:27)",
+        [
+            "",
+            700002457
+        ]
+    ],
+    [
+        "Home Relaxation",
+        "(21:14, 23:59)",
+        [
+            "Henrietta Hudson",
+            700014602
+        ]
+    ],
+    [
+        "Home Relaxation",
+        "(23:58, 23:59)",
+        [
+            "Henrietta Hudson",
+            700014602
+        ]
+    ]
+]

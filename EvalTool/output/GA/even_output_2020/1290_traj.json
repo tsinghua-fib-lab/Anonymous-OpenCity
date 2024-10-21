@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002889
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:06)",
+        [
+            "",
+            700002890
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 16:21)",
+        [
+            "Greater Jerusalem Baptist Church",
+            700000252
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 16:15)",
+        [
+            "",
+            700003756
+        ]
+    ],
+    [
+        "Current Place: Your Home; Stay Time: 0 hours 23 minutes",
+        "(20:23, 22:13)",
+        [
+            "Greater Jerusalem Baptist Church",
+            700000252
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(22:52, 23:59)",
+        [
+            "The Center SF Tea House",
+            700004695
+        ]
+    ]
+]

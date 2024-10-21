@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700010579
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:27)",
+        [
+            "Bank of America",
+            700017485
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:29, 13:30)",
+        [
+            "Bank of America",
+            700017485
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:23, 17:31)",
+        [
+            "",
+            700002583
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:26, 21:42)",
+        [
+            "Bank of America",
+            700017485
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:58, 23:59)",
+        [
+            "",
+            700002583
+        ]
+    ]
+]

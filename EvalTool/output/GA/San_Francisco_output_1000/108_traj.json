@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Louder",
+            700010154
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:03)",
+        [
+            "Angel Cafe & Deli",
+            700000147
+        ]
+    ],
+    [
+        "Continue Outdoor Activity",
+        "(12:14, 14:06)",
+        [
+            "Angel Cafe & Deli",
+            700000147
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(14:48, 16:02)",
+        [
+            "Angel Cafe & Deli",
+            700000147
+        ]
+    ],
+    [
+        "Continue Leisure Reading or Hobbies",
+        "(16:10, 17:49)",
+        [
+            "Angel Cafe & Deli",
+            700000147
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:48, 19:50)",
+        [
+            "724 Hookah Lounge",
+            700009493
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:15, 23:59)",
+        [
+            "Geary Club",
+            700001034
+        ]
+    ],
+    [
+        "Next arrangement considering your plan",
+        "(23:33, 23:59)",
+        [
+            "Louder",
+            700010154
+        ]
+    ]
+]

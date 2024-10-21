@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Finnegan's Wake Pub",
+            700006025
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:21)",
+        [
+            "B&B Bagels",
+            700030630
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 15:44)",
+        [
+            "Campagnola Restaurant",
+            700035807
+        ]
+    ],
+    [
+        "Visit a local community event, market, or park.",
+        "(17:49, 19:09)",
+        [
+            "",
+            700002551
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:19, 21:28)",
+        [
+            "",
+            700000935
+        ]
+    ]
+]

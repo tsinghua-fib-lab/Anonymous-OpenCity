@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001499
+        ]
+    ],
+    [
+        "10:00 AM - Wake up and have a leisurely breakfast",
+        "(10:00, 11:01)",
+        [
+            "Cafe de Casa",
+            700005575
+        ]
+    ],
+    [
+        "Next activity: Prepare lunch",
+        "(11:51, 13:18)",
+        [
+            "Cafe de Casa",
+            700005575
+        ]
+    ],
+    [
+        "Next activity: Prepare lunch",
+        "(13:05, 14:36)",
+        [
+            "Cafe de Casa",
+            700005575
+        ]
+    ],
+    [
+        "Current activity: Watch a sports game or favorite show.",
+        "(14:05, 15:43)",
+        [
+            "Cafe de Casa",
+            700005575
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:42, 19:48)",
+        [
+            "Marcello's Pizza",
+            700002181
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:57, 23:34)",
+        [
+            "Double Rainbow",
+            700002180
+        ]
+    ]
+]

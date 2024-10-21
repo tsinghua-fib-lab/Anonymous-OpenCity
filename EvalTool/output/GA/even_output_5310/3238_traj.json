@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - E 11 St & 1 Ave",
+            700008019
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:26)",
+        [
+            "Veniero's Pasticcera & Caffé",
+            700014312
+        ]
+    ],
+    [
+        "Visit Veniero's Pasticcera & Caffé.",
+        "(15:23, 17:00)",
+        [
+            "Pink's Cantina",
+            700017545
+        ]
+    ],
+    [
+        "Stay at Taco Bell Cantina.",
+        "(17:30, 18:50)",
+        [
+            "",
+            700002681
+        ]
+    ],
+    [
+        "After dinner, relax with some light music or a podcast until bedtime.",
+        "(19:31, 21:22)",
+        [
+            "Terencia S. Q. Conejero, D.D.S, MPH",
+            700017546
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "",
+            700002681
+        ]
+    ]
+]

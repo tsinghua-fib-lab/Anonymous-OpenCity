@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cafe Luka",
+            700026128
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:18)",
+        [
+            "",
+            700001650
+        ]
+    ],
+    [
+        "Afternoon Sports/Outdoor Activity",
+        "(16:12, 17:55)",
+        [
+            "Cafe Luka",
+            700026128
+        ]
+    ],
+    [
+        "Dinner Preparation/Cooking",
+        "(18:49, 20:02)",
+        [
+            "Cafe Luka",
+            700026128
+        ]
+    ],
+    [
+        "Wind Down & Movie Night",
+        "(20:40, 22:55)",
+        [
+            "Cafe Luka",
+            700026128
+        ]
+    ],
+    [
+        "next place for leisure time/creative activity since it's 23:05 and the movie night is already over.",
+        "(23:05, 23:59)",
+        [
+            "Cafe Luka",
+            700026128
+        ]
+    ]
+]

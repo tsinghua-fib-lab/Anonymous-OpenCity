@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008741
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:11)",
+        [
+            "Thai Chef",
+            700002208
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:10, 16:00)",
+        [
+            "German School of San Francisco",
+            700010715
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie.",
+        "(17:59, 19:25)",
+        [
+            "German School of San Francisco",
+            700010715
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie",
+        "(19:54, 21:01)",
+        [
+            "German School of San Francisco",
+            700010715
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie.",
+        "(21:08, 22:21)",
+        [
+            "German School of San Francisco",
+            700010715
+        ]
+    ],
+    [
+        "Wind down with quiet activities, such as meditation or prepping for the week ahead.",
+        "(21:53, 23:00)",
+        [
+            "Pasta Panino",
+            700013702
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "Oz Pizza",
+            700001916
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:21)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(11:42, 13:03)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 16:41)",
+        [
+            "Newton Street",
+            700020796
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:57, 22:09)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Next activity after current time 22:39 for Situation 1.",
+        "(22:39, 23:53)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Go home to rest at Dragon Court.",
+        "(23:58, 23:59)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ]
+]

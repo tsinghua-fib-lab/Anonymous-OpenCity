@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 19th Street & 3rd Avenue",
+            700008029
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:05)",
+        [
+            "Citi Bike - East 19th Street & 3rd Avenue",
+            700008029
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:52, 16:33)",
+        [
+            "RFX Studio",
+            700029596
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:15, 16:32)",
+        [
+            "Chito Gvrito",
+            700023081
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:44, 19:22)",
+        [
+            "RFX Studio",
+            700029596
+        ]
+    ],
+    [
+        "Relax at current place",
+        "(23:50, 23:59)",
+        [
+            "Sunburst Espresso Bar",
+            700006181
+        ]
+    ]
+]

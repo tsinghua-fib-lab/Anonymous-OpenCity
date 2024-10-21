@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011120
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park.",
+        "(10:00, 11:06)",
+        [
+            "",
+            700010535
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park.",
+        "(11:15, 12:44)",
+        [
+            "Eataly",
+            700022144
+        ]
+    ],
+    [
+        "Spend the afternoon watching a movie or binge-watching a series",
+        "(13:23, 16:01)",
+        [
+            "Eataly",
+            700022144
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:42, 18:56)",
+        [
+            "Eataly",
+            700022144
+        ]
+    ],
+    [
+        "Stay at Eataly",
+        "(20:32, 21:57)",
+        [
+            "Eataly",
+            700022144
+        ]
+    ],
+    [
+        "Stay at Eataly.",
+        "(22:25, 23:32)",
+        [
+            "Eataly",
+            700022144
+        ]
+    ],
+    [
+        "Stay at Eataly;",
+        "(23:35, 23:59)",
+        [
+            "Serra Alpina",
+            700006081
+        ]
+    ]
+]

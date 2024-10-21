@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700017122
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:26)",
+        [
+            "Zucchero e Pomodori",
+            700016362
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:56, 14:46)",
+        [
+            "Hospital for Special Surgery 75th Street Campus",
+            700035809
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:54, 17:27)",
+        [
+            "Subway",
+            700016562
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 22:29)",
+        [
+            "Eleanor Roosevelt High School",
+            700011817
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(22:08, 23:48)",
+        [
+            "Buena Onda Mescalera",
+            700030634
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:28, 23:59)",
+        [
+            "The Pony Bar",
+            700006042
+        ]
+    ]
+]

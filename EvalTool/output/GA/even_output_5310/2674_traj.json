@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Duane Reade",
+            700004329
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:53)",
+        [
+            "Duane Reade",
+            700004329
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:14, 13:58)",
+        [
+            "",
+            700011122
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:29, 16:03)",
+        [
+            "Hey Yuet",
+            700040165
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:52, 17:21)",
+        [
+            "Kame",
+            700034661
+        ]
+    ],
+    [
+        "Sports or Exercise",
+        "(17:53, 18:51)",
+        [
+            "Duane Reade",
+            700004329
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(19:54, 20:59)",
+        [
+            "McDonald's",
+            700004339
+        ]
+    ],
+    [
+        "Stay at Duane Reade and relax",
+        "(21:21, 22:46)",
+        [
+            "Duane Reade",
+            700004329
+        ]
+    ],
+    [
+        "Stay at Duane Reade and relax",
+        "(23:01, 23:59)",
+        [
+            "Duane Reade",
+            700004329
+        ]
+    ]
+]

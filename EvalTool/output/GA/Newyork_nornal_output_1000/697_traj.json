@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Coco Pizzaria",
+            700039033
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:10)",
+        [
+            "Duane Reade",
+            700030439
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:20, 18:33)",
+        [
+            "",
+            700010697
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 22:03)",
+        [
+            "",
+            700010703
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 23:59)",
+        [
+            "NYC Discount Pharmacy",
+            700030624
+        ]
+    ]
+]

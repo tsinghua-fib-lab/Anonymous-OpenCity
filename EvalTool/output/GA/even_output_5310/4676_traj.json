@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "CVS Pharmacy",
+            700022147
+        ]
+    ],
+    [
+        "Go for a walk in the park",
+        "(09:00, 10:08)",
+        [
+            "CVS Pharmacy",
+            700022147
+        ]
+    ],
+    [
+        "Stay at CVS Pharmacy",
+        "(10:58, 12:00)",
+        [
+            "Student Study Center",
+            700006391
+        ]
+    ],
+    [
+        "Continue staying at CVS Pharmacy.",
+        "(12:47, 14:02)",
+        [
+            "CVS Pharmacy",
+            700022147
+        ]
+    ],
+    [
+        "Stay at CVS Pharmacy",
+        "(14:20, 17:05)",
+        [
+            "CVS Pharmacy",
+            700022147
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:51, 20:04)",
+        [
+            "",
+            700003062
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:17, 23:59)",
+        [
+            "",
+            700002539
+        ]
+    ],
+    [
+        "Stay at CVS Pharmacy.",
+        "(22:00, 23:37)",
+        [
+            "CVS Pharmacy",
+            700022147
+        ]
+    ],
+    [
+        "Stay at CVS Pharmacy.",
+        "(23:36, 23:59)",
+        [
+            "CVS Pharmacy",
+            700022147
+        ]
+    ]
+]

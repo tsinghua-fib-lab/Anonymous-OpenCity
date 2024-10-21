@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Minus Celsius Ice Cream",
+            700019550
+        ]
+    ],
+    [
+        "Go for a walk or engage in some light exercise",
+        "(10:00, 11:01)",
+        [
+            "Bo Law Kung Fu",
+            700019350
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:14, 14:26)",
+        [
+            "Minus Celsius Ice Cream",
+            700019550
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:16, 18:20)",
+        [
+            "TD Bank",
+            700010784
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:20, 21:09)",
+        [
+            "",
+            700002698
+        ]
+    ]
+]

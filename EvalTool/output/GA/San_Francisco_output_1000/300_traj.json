@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700013926
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:50)",
+        [
+            "",
+            700013934
+        ]
+    ],
+    [
+        "Go to Presidio Pizza Company",
+        "(13:41, 15:00)",
+        [
+            "",
+            700002108
+        ]
+    ],
+    [
+        "Relax at the home base",
+        "(14:57, 15:53)",
+        [
+            "Starbucks",
+            700005116
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 22:37)",
+        [
+            "",
+            700000790
+        ]
+    ],
+    [
+        "Enjoy dinner at Ramen Izakaya Goku.",
+        "(20:41, 22:31)",
+        [
+            "",
+            700000072
+        ]
+    ],
+    [
+        "Enjoy dinner at Five Keys Housing Services.",
+        "(23:41, 23:59)",
+        [
+            "Wells Fargo",
+            700000663
+        ]
+    ]
+]

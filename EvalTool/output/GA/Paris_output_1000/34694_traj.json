@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "La Bûcherie",
+            700018813
+        ]
+    ],
+    [
+        "9:00 AM - Read or Study",
+        "(08:00, 08:58)",
+        [
+            "Le Petit Châtelet",
+            700041152
+        ]
+    ],
+    [
+        "Read or Study",
+        "(09:37, 11:04)",
+        [
+            "Jardin Notre-Dame",
+            700004588
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 15:17)",
+        [
+            "Le Shywawa",
+            700007796
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(15:55, 16:58)",
+        [
+            "Welcome to Istanbul",
+            700004589
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 23:34)",
+        [
+            "",
+            700062534
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "Jardin Notre-Dame",
+            700004588
+        ]
+    ]
+]

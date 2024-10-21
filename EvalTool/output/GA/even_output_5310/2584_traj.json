@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002153
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:37)",
+        [
+            "Pepe Giallo",
+            700015966
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:39, 11:52)",
+        [
+            "Pepe Giallo",
+            700015966
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:25, 13:52)",
+        [
+            "Citi Bike - W 22 St & 10 Ave",
+            700008208
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(14:03, 15:43)",
+        [
+            "Citi Bike - W 22 St & 10 Ave",
+            700008208
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 20:31)",
+        [
+            "Pepe Giallo",
+            700015966
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:08, 23:59)",
+        [
+            "Citi Bike - W 22 St & 10 Ave",
+            700008208
+        ]
+    ]
+]

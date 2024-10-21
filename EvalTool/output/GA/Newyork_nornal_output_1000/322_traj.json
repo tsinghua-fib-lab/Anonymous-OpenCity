@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mama's Pizza",
+            700026485
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:00, 11:05)",
+        [
+            "Roxy Diner",
+            700009545
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(11:31, 13:23)",
+        [
+            "Roxy Diner",
+            700009545
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(13:34, 15:55)",
+        [
+            "Roxy Diner",
+            700009545
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(16:17, 19:08)",
+        [
+            "Roxy Diner",
+            700009545
+        ]
+    ],
+    [
+        "Relax and Watch a Movie/TV Show",
+        "(20:06, 22:10)",
+        [
+            "Starbucks",
+            700003868
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(23:02, 23:59)",
+        [
+            "McDonald's",
+            700003867
+        ]
+    ]
+]

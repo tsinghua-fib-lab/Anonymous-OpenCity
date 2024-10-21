@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "One Medical",
+            700008751
+        ]
+    ],
+    [
+        "Wake Up and Relax",
+        "(10:00, 11:56)",
+        [
+            "HSBC",
+            700005042
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:14, 14:12)",
+        [
+            "HSBC",
+            700005042
+        ]
+    ],
+    [
+        "Visit a Cultural Venue",
+        "(14:27, 17:02)",
+        [
+            "",
+            700005045
+        ]
+    ],
+    [
+        "5:00 PM - 6:00 PM Grocery Shopping",
+        "(17:10, 18:08)",
+        [
+            "Latte Express",
+            700004416
+        ]
+    ],
+    [
+        "5:00 PM - 6:00 PM Grocery Shopping",
+        "(18:22, 19:39)",
+        [
+            "",
+            700008822
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:52, 21:05)",
+        [
+            "Latte Express",
+            700004416
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(21:43, 23:14)",
+        [
+            "Today Food",
+            700005020
+        ]
+    ],
+    [
+        "Stay at Latte Express",
+        "(23:36, 23:59)",
+        [
+            "Latte Express",
+            700004416
+        ]
+    ]
+]

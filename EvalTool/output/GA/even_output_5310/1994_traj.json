@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Duane Reade",
+            700012667
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:02)",
+        [
+            "Duane Reade",
+            700012667
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:11, 11:59)",
+        [
+            "Duane Reade",
+            700012667
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 17:28)",
+        [
+            "",
+            700020619
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 21:05)",
+        [
+            "ChargePoint",
+            700012433
+        ]
+    ],
+    [
+        "Evening Leisure Time",
+        "(20:40, 22:10)",
+        [
+            "",
+            700002370
+        ]
+    ],
+    [
+        "Evening Leisure Time",
+        "(22:06, 23:38)",
+        [
+            "",
+            700020599
+        ]
+    ],
+    [
+        "Evening Leisure Time",
+        "(23:35, 23:59)",
+        [
+            "the Blue Mezze Bar",
+            700023409
+        ]
+    ]
+]

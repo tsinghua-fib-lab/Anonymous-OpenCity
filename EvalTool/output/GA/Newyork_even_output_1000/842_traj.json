@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:51)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:34, 12:09)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:40, 14:00)",
+        [
+            "",
+            700022511
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:28, 15:58)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:19, 17:56)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Catch Up on a TV Show or Movie",
+        "(18:01, 19:53)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:10, 22:20)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:49, 23:59)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ]
+]

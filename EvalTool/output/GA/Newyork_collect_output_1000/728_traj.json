@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:19)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:05, 16:13)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:26, 18:05)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 21:28)",
+        [
+            "Orion Diner & Grill",
+            700014321
+        ]
+    ],
+    [
+        "Catch Up on Movies/TV Series",
+        "(21:26, 23:59)",
+        [
+            "Orion Diner & Grill",
+            700014321
+        ]
+    ]
+]

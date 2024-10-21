@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wells Fargo",
+            700004123
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:31)",
+        [
+            "",
+            700014101
+        ]
+    ],
+    [
+        "Outdoor Activities",
+        "(12:30, 14:57)",
+        [
+            "Wells Fargo",
+            700004123
+        ]
+    ],
+    [
+        "Outdoor Activities",
+        "(15:14, 17:01)",
+        [
+            "Wells Fargo",
+            700004123
+        ]
+    ],
+    [
+        "Outdoor Activities",
+        "(17:18, 19:03)",
+        [
+            "Wells Fargo",
+            700004123
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:03, 23:05)",
+        [
+            "GIO Gelati",
+            700008810
+        ]
+    ],
+    [
+        "Relax and Watch a Movie",
+        "(23:50, 23:59)",
+        [
+            "Flores",
+            700005578
+        ]
+    ]
+]

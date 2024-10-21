@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Italian Village Pizzeria & Restaurant",
+            700013981
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:19)",
+        [
+            "Dunkin'",
+            700016572
+        ]
+    ],
+    [
+        "Hobby Time or Creative Project",
+        "(14:08, 16:06)",
+        [
+            "",
+            700002291
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:07, 18:50)",
+        [
+            "",
+            700002291
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:37, 21:30)",
+        [
+            "Citibank",
+            700006021
+        ]
+    ],
+    [
+        "Go to Dunkin' and spend time there.",
+        "(23:19, 23:59)",
+        [
+            "Citibank",
+            700006021
+        ]
+    ]
+]

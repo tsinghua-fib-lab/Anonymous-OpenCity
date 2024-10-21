@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Pret A Manger",
+            700020632
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:26)",
+        [
+            "",
+            700019048
+        ]
+    ],
+    [
+        "Leisure Time/Watch TV",
+        "(13:25, 15:55)",
+        [
+            "Angela’s Sandwich Shop",
+            700011897
+        ]
+    ],
+    [
+        "Leisure Time/Watch TV",
+        "(15:58, 17:13)",
+        [
+            "Angela’s Sandwich Shop",
+            700011897
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:08, 19:21)",
+        [
+            "Angela’s Sandwich Shop",
+            700011897
+        ]
+    ],
+    [
+        "Visit Angela’s Sandwich Shop",
+        "(22:14, 23:44)",
+        [
+            "Angela’s Sandwich Shop",
+            700011897
+        ]
+    ]
+]

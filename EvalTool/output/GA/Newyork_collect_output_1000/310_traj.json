@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Read or Study",
+        "(10:00, 11:23)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Next activity after reading or studying.",
+        "(12:07, 13:45)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:05, 19:52)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:16, 23:59)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ]
+]

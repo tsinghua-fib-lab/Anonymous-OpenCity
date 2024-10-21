@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "KFC",
+            700029203
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:44)",
+        [
+            "Sushi Hub",
+            700027700
+        ]
+    ],
+    [
+        "Leisure/Personal Projects",
+        "(14:22, 16:50)",
+        [
+            "Sushi Hub",
+            700027700
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:37, 21:00)",
+        [
+            "Bella Vita",
+            700027827
+        ]
+    ],
+    [
+        "Stay at KFC",
+        "(22:41, 23:59)",
+        [
+            "Bella Vita",
+            700027827
+        ]
+    ]
+]

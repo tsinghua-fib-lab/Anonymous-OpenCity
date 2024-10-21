@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Matador",
+            700000907
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:08)",
+        [
+            "",
+            700000489
+        ]
+    ],
+    [
+        "Lunch Preparation and Eating",
+        "(13:09, 14:07)",
+        [
+            "Piraat Pizzeria & Rotisserie",
+            700004532
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 16:41)",
+        [
+            "Ryoko's",
+            700001574
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:41, 17:09)",
+        [
+            "",
+            700009995
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(17:17, 18:53)",
+        [
+            "Matador",
+            700000907
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:55, 23:21)",
+        [
+            "",
+            700007009
+        ]
+    ]
+]

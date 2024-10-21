@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030389
+        ]
+    ],
+    [
+        "Spend some time reading or browsing online",
+        "(10:00, 11:01)",
+        [
+            "",
+            700030727
+        ]
+    ],
+    [
+        "Continue reading or browsing online",
+        "(11:43, 12:57)",
+        [
+            "",
+            700030389
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 18:18)",
+        [
+            "",
+            700030393
+        ]
+    ],
+    [
+        "Meet up with friends or family for social time or go out for coffee.",
+        "(18:35, 20:08)",
+        [
+            "",
+            700030389
+        ]
+    ],
+    [
+        "Meet up with friends or family for social time or go out for coffee.",
+        "(20:11, 22:06)",
+        [
+            "",
+            700030390
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(22:55, 23:59)",
+        [
+            "",
+            700030389
+        ]
+    ]
+]

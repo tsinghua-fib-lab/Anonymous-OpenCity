@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "Enjoy breakfast",
+        "(10:00, 11:03)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "Stay in place at HealthSource Pharmacy & Health Food Store",
+        "(11:21, 13:02)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "Go for a leisurely walk or jog in the park",
+        "(13:41, 15:16)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "Enjoy breakfast",
+        "(16:22, 18:59)",
+        [
+            "Fiftyfourth Street Public Bath and Gymnasium",
+            700000555
+        ]
+    ],
+    [
+        "Go to Fiftyfourth Street Public Bath and Gymnasium.",
+        "(19:01, 20:55)",
+        [
+            "Fiftyfourth Street Public Bath and Gymnasium",
+            700000555
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:55, 23:59)",
+        [
+            "East Side Animal Hospital",
+            700011457
+        ]
+    ]
+]

@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Saint Laurent Café",
+            700057269
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:39)",
+        [
+            "Saint Laurent Café",
+            700057269
+        ]
+    ],
+    [
+        "Exercise/Leisure Walk",
+        "(11:58, 13:26)",
+        [
+            "Saint Laurent Café",
+            700057269
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:59, 15:24)",
+        [
+            "Zapi",
+            700068798
+        ]
+    ],
+    [
+        "Exercise/Leisure Walk",
+        "(15:57, 16:52)",
+        [
+            "Saint Laurent Café",
+            700057269
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:55, 18:51)",
+        [
+            "Saint Laurent Café",
+            700057269
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:03, 20:05)",
+        [
+            "Saint Laurent Café",
+            700057269
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:11, 21:19)",
+        [
+            "Saint Laurent Café",
+            700057269
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(21:43, 23:23)",
+        [
+            "",
+            700027789
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "",
+            700027789
+        ]
+    ]
+]

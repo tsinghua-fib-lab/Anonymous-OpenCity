@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Au Za'atar",
+            700011621
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:30)",
+        [
+            "",
+            700010700
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:47, 16:51)",
+        [
+            "Kiss My Slice Pizzaria",
+            700010701
+        ]
+    ],
+    [
+        "Current place: Your Home. Prepare dinner and enjoy it while listening to music or a podcast.",
+        "(19:22, 20:53)",
+        [
+            "eRxCity Pharmacy",
+            700025621
+        ]
+    ],
+    [
+        "Visit eRxCity Pharmacy.",
+        "(21:21, 22:58)",
+        [
+            "eRxCity Pharmacy",
+            700025621
+        ]
+    ],
+    [
+        "Go to the Animal Medical Center.",
+        "(23:09, 23:59)",
+        [
+            "Tyka Pharmacy",
+            700005306
+        ]
+    ]
+]

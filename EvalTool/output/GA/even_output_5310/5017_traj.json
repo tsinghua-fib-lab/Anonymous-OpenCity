@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002170
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:30)",
+        [
+            "La Colombe Coffee Roasters",
+            700013272
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:00, 20:45)",
+        [
+            "Citi Bike - W Broadway & Spring St",
+            700007818
+        ]
+    ],
+    [
+        "Household Chores",
+        "(16:53, 18:47)",
+        [
+            "Citi Bike - W Broadway & Spring St",
+            700007818
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:56, 20:33)",
+        [
+            "",
+            700011057
+        ]
+    ],
+    [
+        "Stay at Ess-a-Bagel",
+        "(23:20, 23:59)",
+        [
+            "Boqueria Soho",
+            700009196
+        ]
+    ]
+]

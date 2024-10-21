@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002850
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(09:00, 10:34)",
+        [
+            "",
+            700038595
+        ]
+    ],
+    [
+        "Next activity from reading",
+        "(10:41, 12:33)",
+        [
+            "",
+            700038594
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(13:11, 15:10)",
+        [
+            "",
+            700001561
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(15:33, 17:09)",
+        [
+            "La Mercerie",
+            700019240
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:22, 21:18)",
+        [
+            "Dunkin'",
+            700005150
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:21, 23:59)",
+        [
+            "",
+            700038586
+        ]
+    ]
+]

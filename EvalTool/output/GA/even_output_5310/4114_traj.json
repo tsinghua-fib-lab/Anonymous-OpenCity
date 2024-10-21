@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bagel Boss",
+            700006701
+        ]
+    ],
+    [
+        "Breakfast at 9:00 AM",
+        "(09:00, 09:50)",
+        [
+            "Bagel Boss",
+            700006701
+        ]
+    ],
+    [
+        "Reading/Relaxation from 11:00 AM to 12:30 PM",
+        "(10:56, 12:37)",
+        [
+            "Bagel Boss",
+            700006701
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:16, 15:13)",
+        [
+            "Chase",
+            700004182
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 22:54)",
+        [
+            "O'Hanlons Bar",
+            700016457
+        ]
+    ]
+]

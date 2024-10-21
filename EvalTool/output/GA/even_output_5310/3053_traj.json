@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Waverly Diner",
+            700004312
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast",
+        "(10:00, 11:04)",
+        [
+            "Waverly Diner",
+            700004312
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the park",
+        "(11:15, 12:37)",
+        [
+            "Waverly Diner",
+            700004312
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 18:18)",
+        [
+            "Waverly Diner",
+            700004312
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 22:49)",
+        [
+            "Chipotle",
+            700028801
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "Whynot",
+            700004946
+        ]
+    ]
+]

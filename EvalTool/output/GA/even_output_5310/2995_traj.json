@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700004184
+        ]
+    ],
+    [
+        "Engage in a morning workout or leisurely walk",
+        "(09:00, 10:03)",
+        [
+            "Dim Sum Go Go",
+            700005927
+        ]
+    ],
+    [
+        "current place: Starbucks; stay time:",
+        "(10:07, 11:36)",
+        [
+            "Tavern Kyclades",
+            700017084
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 15:20)",
+        [
+            "1 Av & E 14 St",
+            700011090
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 23:05)",
+        [
+            "",
+            700016458
+        ]
+    ],
+    [
+        "Stay at current place: Starbucks.",
+        "(20:15, 21:40)",
+        [
+            "Kati",
+            700007891
+        ]
+    ],
+    [
+        "Stay at Starbucks.",
+        "(21:49, 23:03)",
+        [
+            "Kati",
+            700007891
+        ]
+    ]
+]

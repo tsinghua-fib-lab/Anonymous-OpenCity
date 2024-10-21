@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Duane Reade",
+            700004140
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:40)",
+        [
+            "Duane Reade",
+            700004140
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:31, 14:06)",
+        [
+            "Duane Reade",
+            700004140
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 18:28)",
+        [
+            "Ajisai",
+            700013063
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:40, 23:45)",
+        [
+            "Westside Theatre",
+            700007262
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(23:56, 23:59)",
+        [
+            "Duane Reade",
+            700004140
+        ]
+    ]
+]

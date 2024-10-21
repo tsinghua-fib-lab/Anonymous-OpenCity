@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The UPS Store",
+            700004323
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:58)",
+        [
+            "",
+            700000495
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:57, 14:55)",
+        [
+            "",
+            700008967
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:28, 16:56)",
+        [
+            "",
+            700008677
+        ]
+    ],
+    [
+        "Social Activity",
+        "(17:57, 19:36)",
+        [
+            "Union Square Pizza & Kitchen",
+            700001087
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 21:10)",
+        [
+            "",
+            700008677
+        ]
+    ]
+]

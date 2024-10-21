@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700037648
+        ]
+    ],
+    [
+        "Workout or Outdoor Activity",
+        "(10:00, 11:23)",
+        [
+            "",
+            700020321
+        ]
+    ],
+    [
+        "Workout or Outdoor Activity",
+        "(12:14, 13:29)",
+        [
+            "Roberta’s Pizza",
+            700006478
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(14:42, 16:18)",
+        [
+            "",
+            700037648
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:28, 21:12)",
+        [
+            "Urbanspace Vanderbilt",
+            700010952
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:58, 22:25)",
+        [
+            "Urbanspace Vanderbilt",
+            700010952
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:34, 23:59)",
+        [
+            "Naples 45",
+            700003512
+        ]
+    ]
+]

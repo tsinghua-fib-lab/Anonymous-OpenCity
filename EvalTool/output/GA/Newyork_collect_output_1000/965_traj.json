@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:39)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "Next activity based on plan",
+        "(15:36, 17:02)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "Next activity based on plan",
+        "(17:49, 19:04)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "After dinner preparation / family time",
+        "(19:54, 20:50)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a TV series you’ve been wanting to see.",
+        "(21:17, 22:39)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:34, 23:59)",
+        [
+            "",
+            700022520
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030390
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:44)",
+        [
+            "",
+            700030407
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(14:29, 16:10)",
+        [
+            "La-Sani Grill",
+            700006351
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(16:37, 18:29)",
+        [
+            "La-Sani Grill",
+            700006351
+        ]
+    ],
+    [
+        "Prepare Dinner & Wind Down",
+        "(18:12, 19:45)",
+        [
+            "La-Sani Grill",
+            700006351
+        ]
+    ],
+    [
+        "Prepare for dinner & wind down.",
+        "(20:31, 21:56)",
+        [
+            "La-Sani Grill",
+            700006351
+        ]
+    ],
+    [
+        "Prepare Dinner & Wind Down",
+        "(22:15, 23:59)",
+        [
+            "La-Sani Grill",
+            700006351
+        ]
+    ],
+    [
+        "Prepare Dinner & Wind Down",
+        "(23:48, 23:59)",
+        [
+            "La-Sani Grill",
+            700006351
+        ]
+    ]
+]

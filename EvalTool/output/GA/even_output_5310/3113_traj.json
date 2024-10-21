@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700031123
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:26)",
+        [
+            "Cafe @ McNally Jackson Seaport",
+            700032510
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:43, 16:53)",
+        [
+            "Cafe @ McNally Jackson Seaport",
+            700032510
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:02, 18:29)",
+        [
+            "Cafe @ McNally Jackson Seaport",
+            700032510
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 22:21)",
+        [
+            "Blazing Saddles",
+            700007654
+        ]
+    ],
+    [
+        "Visit a fast food restaurant",
+        "(21:15, 22:47)",
+        [
+            "",
+            700031085
+        ]
+    ],
+    [
+        "Visit local cafe",
+        "(22:56, 23:59)",
+        [
+            "",
+            700031074
+        ]
+    ]
+]

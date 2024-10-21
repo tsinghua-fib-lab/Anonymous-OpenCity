@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020625
+        ]
+    ],
+    [
+        "Catch Up on Reading or Hobbies",
+        "(09:00, 10:56)",
+        [
+            "",
+            700020625
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 15:27)",
+        [
+            "Comic Strip Live",
+            700013271
+        ]
+    ],
+    [
+        "Social Time",
+        "(13:57, 15:03)",
+        [
+            "Comic Strip Live",
+            700013271
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:07, 16:55)",
+        [
+            "Comic Strip Live",
+            700013271
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:14, 18:45)",
+        [
+            "Starbucks",
+            700005980
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:19, 20:21)",
+        [
+            "",
+            700002395
+        ]
+    ],
+    [
+        "next arrangement considering your plan and current time",
+        "(23:07, 23:59)",
+        [
+            "",
+            700020624
+        ]
+    ]
+]

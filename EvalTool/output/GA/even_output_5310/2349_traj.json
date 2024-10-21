@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Cafe Boulud",
+            700015607
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(09:00, 10:03)",
+        [
+            "",
+            700008911
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(10:12, 11:46)",
+        [
+            "Cafe Boulud",
+            700015607
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 16:52)",
+        [
+            "SINY Dermatology",
+            700039302
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 22:45)",
+        [
+            "",
+            700011345
+        ]
+    ],
+    [
+        "Next go to Peter Dillon's for drinks and socializing.",
+        "(23:07, 23:59)",
+        [
+            "",
+            700011345
+        ]
+    ]
+]

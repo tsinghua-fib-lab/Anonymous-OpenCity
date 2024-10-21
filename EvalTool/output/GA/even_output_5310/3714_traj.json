@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Parkside Lounge",
+            700004037
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:46)",
+        [
+            "Clinton St. Baking Company",
+            700003451
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series.",
+        "(15:28, 18:00)",
+        [
+            "Clinton St. Baking Company",
+            700003451
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(16:54, 19:01)",
+        [
+            "Clinton St. Baking Company",
+            700003451
+        ]
+    ],
+    [
+        "Prepare and have dinner",
+        "(19:23, 21:03)",
+        [
+            "Clinton St. Baking Company",
+            700003451
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:49, 23:59)",
+        [
+            "Esciela Hispana Montessori",
+            700006698
+        ]
+    ]
+]

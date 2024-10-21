@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:35)",
+        [
+            "",
+            700035316
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:25, 15:55)",
+        [
+            "TD Bank",
+            700024872
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:40, 22:46)",
+        [
+            "",
+            700035316
+        ]
+    ],
+    [
+        "Stay at HealthSource Pharmacy & Health Food Store",
+        "(22:06, 23:14)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "Stay at HealthSource Pharmacy & Health Food Store",
+        "(23:51, 23:59)",
+        [
+            "Citibike",
+            700021679
+        ]
+    ]
+]

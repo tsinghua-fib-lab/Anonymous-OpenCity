@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009618
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:27)",
+        [
+            "Cafè Murano",
+            700005833
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(12:16, 13:36)",
+        [
+            "Cafè Murano",
+            700005833
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:30, 16:22)",
+        [
+            "",
+            700009526
+        ]
+    ],
+    [
+        "Relax at Umai Savory Hot Dogs.",
+        "(17:11, 19:06)",
+        [
+            "The Fillmore",
+            700000445
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:25, 23:59)",
+        [
+            "Boom Boom Room",
+            700004783
+        ]
+    ]
+]

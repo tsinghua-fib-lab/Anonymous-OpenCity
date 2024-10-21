@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700004968
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:39)",
+        [
+            "Carmine F. Vicino",
+            700000685
+        ]
+    ],
+    [
+        "2:00 PM - Outdoor Activity",
+        "(12:54, 14:01)",
+        [
+            "Bonita Taqueria Y Rotisserie",
+            700003076
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 19:17)",
+        [
+            "Presidio Theater",
+            700002291
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(16:19, 18:06)",
+        [
+            "Presidio Theater",
+            700002291
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 20:59)",
+        [
+            "Bonita Taqueria Y Rotisserie",
+            700003076
+        ]
+    ],
+    [
+        "Stay at current place",
+        "(19:53, 20:55)",
+        [
+            "Bonita Taqueria Y Rotisserie",
+            700003076
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:31, 23:59)",
+        [
+            "",
+            700004869
+        ]
+    ]
+]

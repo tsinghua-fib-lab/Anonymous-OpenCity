@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "LCL",
+            700004217
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:04)",
+        [
+            "Caisse d'Épargne",
+            700004211
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:34, 16:19)",
+        [
+            "Collège privé Saint-Pierre Saint-Jean",
+            700017145
+        ]
+    ],
+    [
+        "Prepare and have dinner, maybe trying out a new recipe or enjoying takeout.",
+        "(17:31, 18:54)",
+        [
+            "",
+            700026779
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:54, 23:59)",
+        [
+            "Pomme de Pain",
+            700004221
+        ]
+    ],
+    [
+        "Stay at LCL, preparing for the next day.",
+        "(23:55, 23:59)",
+        [
+            "LCL",
+            700004217
+        ]
+    ]
+]

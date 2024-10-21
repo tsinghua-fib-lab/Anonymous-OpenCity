@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002302
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:58)",
+        [
+            "People's Choice Pharmacy",
+            700003818
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 14:25)",
+        [
+            "Ost Cafe",
+            700009828
+        ]
+    ],
+    [
+        "Relaxation and Leisure Time",
+        "(14:34, 16:43)",
+        [
+            "",
+            700002302
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 18:48)",
+        [
+            "",
+            700002302
+        ]
+    ],
+    [
+        "Relaxation and Leisure Time",
+        "(22:07, 23:42)",
+        [
+            "",
+            700000987
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:55, 23:59)",
+        [
+            "Paul Taylor Dance Company",
+            700003814
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:36)",
+        [
+            "Erin's Pharmacy",
+            700005416
+        ]
+    ],
+    [
+        "Meet Friends or Family",
+        "(14:10, 16:17)",
+        [
+            "",
+            700001885
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:59, 18:30)",
+        [
+            "The Francis Kite Club",
+            700016984
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:33, 18:56)",
+        [
+            "The Francis Kite Club",
+            700016984
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:39, 21:24)",
+        [
+            "",
+            700001188
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "Ryan/NENA Comprehensive Heath Service Center",
+            700000264
+        ]
+    ]
+]

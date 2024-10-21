@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020171
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:00)",
+        [
+            "",
+            700020171
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:21, 14:54)",
+        [
+            "Taqueria St. Marks Place",
+            700013069
+        ]
+    ],
+    [
+        "Relax at home and watch TV or a movie",
+        "(13:52, 15:53)",
+        [
+            "",
+            700020171
+        ]
+    ],
+    [
+        "Relax at home and watch TV or a movie.",
+        "(16:36, 18:31)",
+        [
+            "Taqueria St. Marks Place",
+            700013069
+        ]
+    ],
+    [
+        "Relax at home and watch TV or a movie",
+        "(19:20, 20:55)",
+        [
+            "Taqueria St. Marks Place",
+            700013069
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:36, 23:27)",
+        [
+            "Stromboli Pizza",
+            700003452
+        ]
+    ]
+]

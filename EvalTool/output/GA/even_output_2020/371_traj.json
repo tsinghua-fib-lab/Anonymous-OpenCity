@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005488
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(10:00, 11:24)",
+        [
+            "Cafe International",
+            700000956
+        ]
+    ],
+    [
+        "Relax at Cafe International",
+        "(12:02, 13:29)",
+        [
+            "Cafe International",
+            700000956
+        ]
+    ],
+    [
+        "Relax at Cafe International",
+        "(14:25, 15:57)",
+        [
+            "VRV3 Studios",
+            700001548
+        ]
+    ],
+    [
+        "Relax at Cafe International",
+        "(16:10, 18:07)",
+        [
+            "",
+            700005488
+        ]
+    ],
+    [
+        "Attend a sports event or match",
+        "(19:01, 20:01)",
+        [
+            "Indian Oven",
+            700000958
+        ]
+    ],
+    [
+        "Relax at Cafe International",
+        "(21:02, 22:31)",
+        [
+            "Cafe International",
+            700000956
+        ]
+    ],
+    [
+        "Relax at Cafe International",
+        "(22:34, 23:59)",
+        [
+            "Cafe International",
+            700000956
+        ]
+    ]
+]

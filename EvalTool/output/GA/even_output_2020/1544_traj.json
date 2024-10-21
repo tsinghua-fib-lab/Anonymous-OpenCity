@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700013291
+        ]
+    ],
+    [
+        "Morning exercise",
+        "(09:00, 09:55)",
+        [
+            "Subpar Arcade",
+            700009149
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:30, 15:58)",
+        [
+            "",
+            700009922
+        ]
+    ],
+    [
+        "Leisure reading or hobbies",
+        "(11:59, 13:55)",
+        [
+            "Subpar Arcade",
+            700009149
+        ]
+    ],
+    [
+        "Afternoon entertainment",
+        "(14:22, 16:58)",
+        [
+            "Subpar Arcade",
+            700009149
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:28, 19:13)",
+        [
+            "",
+            700013294
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:48, 23:59)",
+        [
+            "",
+            700013299
+        ]
+    ]
+]

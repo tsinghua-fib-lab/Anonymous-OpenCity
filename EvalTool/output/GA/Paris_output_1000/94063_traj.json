@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Restaurant du Musée d'Orsay",
+            700066636
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:20)",
+        [
+            "Café de la Gare",
+            700066635
+        ]
+    ],
+    [
+        "Exercise/Leisure Walk",
+        "(11:58, 13:30)",
+        [
+            "",
+            700003563
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:59, 15:29)",
+        [
+            "Café de la Gare",
+            700066635
+        ]
+    ],
+    [
+        "Exercise/Leisure Walk",
+        "(15:57, 17:04)",
+        [
+            "Café de la Gare",
+            700066635
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:55, 18:54)",
+        [
+            "Café de la Gare",
+            700066635
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:03, 20:15)",
+        [
+            "Café de la Gare",
+            700066635
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:11, 21:18)",
+        [
+            "Café de la Gare",
+            700066635
+        ]
+    ],
+    [
+        "Stay",
+        "(21:43, 23:59)",
+        [
+            "Café de la Gare",
+            700066635
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "",
+            700030241
+        ]
+    ]
+]

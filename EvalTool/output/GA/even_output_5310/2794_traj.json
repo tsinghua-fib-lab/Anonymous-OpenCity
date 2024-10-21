@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Josie's",
+            700011085
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:11)",
+        [
+            "Sixth Street Haunted House",
+            700016161
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:41, 17:11)",
+        [
+            "",
+            700014758
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:25, 17:00)",
+        [
+            "Blink Fitness",
+            700014760
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:36, 18:40)",
+        [
+            "Blink Fitness",
+            700014760
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 22:12)",
+        [
+            "",
+            700014750
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(22:47, 23:59)",
+        [
+            "",
+            700014762
+        ]
+    ]
+]

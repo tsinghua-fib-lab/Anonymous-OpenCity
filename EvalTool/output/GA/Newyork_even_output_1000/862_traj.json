@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002164
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(09:00, 10:35)",
+        [
+            "",
+            700002164
+        ]
+    ],
+    [
+        "Personal Project/Study Time",
+        "(10:49, 12:56)",
+        [
+            "One Two Thai",
+            700007488
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:52, 13:53)",
+        [
+            "Al Horno",
+            700024902
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:12, 18:57)",
+        [
+            "2nd Ave Deli",
+            700008340
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 20:03)",
+        [
+            "",
+            700002043
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:12, 23:59)",
+        [
+            "Lucky Lyndon",
+            700024903
+        ]
+    ]
+]

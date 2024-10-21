@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001146
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:32)",
+        [
+            "Sushi on North Beach - Katsu",
+            700000458
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:47, 16:20)",
+        [
+            "",
+            700003568
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(16:43, 18:00)",
+        [
+            "",
+            700001146
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(18:04, 19:27)",
+        [
+            "Piccolo Forno",
+            700005334
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(20:20, 22:00)",
+        [
+            "Bodega Wine Bar",
+            700008569
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(22:28, 23:48)",
+        [
+            "Bodega Wine Bar",
+            700008569
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "Bodega Wine Bar",
+            700008569
+        ]
+    ]
+]

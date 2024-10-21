@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008357
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:38)",
+        [
+            "",
+            700010240
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(12:57, 14:24)",
+        [
+            "Tenderheart",
+            700010605
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(15:14, 17:04)",
+        [
+            "Tenderheart",
+            700010605
+        ]
+    ],
+    [
+        "Family Time or Games Night",
+        "(18:06, 20:52)",
+        [
+            "Tenderheart",
+            700010605
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 23:40)",
+        [
+            "The Rumpus Room",
+            700004676
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(23:07, 23:59)",
+        [
+            "The Rumpus Room",
+            700004676
+        ]
+    ]
+]

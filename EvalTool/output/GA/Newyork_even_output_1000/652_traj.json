@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hawa Smoothies",
+            700022492
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 10:55)",
+        [
+            "Hawa Smoothies",
+            700022492
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:41, 13:35)",
+        [
+            "The Delancey",
+            700022121
+        ]
+    ],
+    [
+        "Entertainment",
+        "(13:46, 15:13)",
+        [
+            "The Delancey",
+            700022121
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:44, 19:16)",
+        [
+            "Hawa Smoothies",
+            700022492
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:48, 23:31)",
+        [
+            "",
+            700022493
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "Bluestockings",
+            700019286
+        ]
+    ]
+]

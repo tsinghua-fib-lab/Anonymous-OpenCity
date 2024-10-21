@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Rustic Table ",
+            700008764
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(09:00, 09:50)",
+        [
+            "Rustic Table ",
+            700008764
+        ]
+    ],
+    [
+        "Catch up on chores and errands",
+        "(10:13, 11:47)",
+        [
+            "Rustic Table ",
+            700008764
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:46, 15:21)",
+        [
+            "Avis",
+            700006365
+        ]
+    ],
+    [
+        "Catch up on chores and errands",
+        "(16:01, 17:51)",
+        [
+            "Walter's Cottage",
+            700029119
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 21:54)",
+        [
+            "Pio Pio",
+            700008433
+        ]
+    ]
+]

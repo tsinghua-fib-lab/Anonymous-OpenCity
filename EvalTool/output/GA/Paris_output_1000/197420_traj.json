@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020972
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:21)",
+        [
+            "",
+            700042467
+        ]
+    ],
+    [
+        "Exercise/Leisure Walk",
+        "(11:58, 13:34)",
+        [
+            "La Station Rambuteau",
+            700002972
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:59, 15:36)",
+        [
+            "",
+            700016944
+        ]
+    ],
+    [
+        "Exercise/Leisure Walk",
+        "(15:57, 16:59)",
+        [
+            "",
+            700002682
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:55, 19:07)",
+        [
+            "La Station Rambuteau",
+            700002972
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:03, 20:22)",
+        [
+            "La Station Rambuteau",
+            700002972
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:11, 21:21)",
+        [
+            "La Station Rambuteau",
+            700002972
+        ]
+    ],
+    [
+        "Stay",
+        "(21:43, 23:59)",
+        [
+            "",
+            700002682
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "La Station Rambuteau",
+            700002972
+        ]
+    ]
+]

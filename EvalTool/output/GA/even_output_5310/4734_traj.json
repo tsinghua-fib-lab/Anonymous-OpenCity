@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001713
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:36)",
+        [
+            "Welcome to the Johnsons",
+            700008956
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:42, 13:58)",
+        [
+            "Charrua Uruguayan Restaurant",
+            700011901
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:55, 18:02)",
+        [
+            "Bel Fries",
+            700033765
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:27, 23:35)",
+        [
+            "Caffè Vita",
+            700014800
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "Wolfnights",
+            700009096
+        ]
+    ]
+]

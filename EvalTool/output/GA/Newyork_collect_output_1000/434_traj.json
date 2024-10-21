@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:05)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:06, 11:46)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Personal Project/Study Time",
+        "(14:14, 15:36)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 19:22)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Watch TV/Relax",
+        "(20:30, 22:07)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ]
+]

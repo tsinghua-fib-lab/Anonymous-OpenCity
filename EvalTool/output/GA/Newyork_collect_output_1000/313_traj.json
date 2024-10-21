@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Leisure Reading or Catching Up on News",
+        "(10:00, 11:25)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Leisure Reading or Catching Up on News",
+        "(11:39, 12:52)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:37, 15:30)",
+        [
+            "",
+            700022520
+        ]
+    ],
+    [
+        "Outdoor Activity/Sport",
+        "(15:59, 17:04)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:43, 20:42)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 23:59)",
+        [
+            "Auto Motion",
+            700018140
+        ]
+    ]
+]

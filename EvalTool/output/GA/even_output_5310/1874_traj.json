@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mexiterranean Grill",
+            700030631
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:58)",
+        [
+            "B&B Bagels",
+            700030630
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 13:34)",
+        [
+            "Bombay Chowk",
+            700030629
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:57, 20:05)",
+        [
+            "Campagnola Restaurant",
+            700035807
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:29, 23:59)",
+        [
+            "Oda House",
+            700030654
+        ]
+    ]
+]

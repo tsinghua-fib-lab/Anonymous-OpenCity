@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ben's Pizzeria",
+            700007507
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:31)",
+        [
+            "Old Rabbit Club",
+            700031759
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:01, 14:29)",
+        [
+            "Old Rabbit Club",
+            700031759
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends/Family",
+        "(15:27, 18:06)",
+        [
+            "Old Rabbit Club",
+            700031759
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:00, 19:37)",
+        [
+            "Old Rabbit Club",
+            700031759
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:41, 21:39)",
+        [
+            "Old Rabbit Club",
+            700031759
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(22:32, 23:59)",
+        [
+            "Caffe Reggio",
+            700007669
+        ]
+    ]
+]

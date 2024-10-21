@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Nailour Estate",
+            700009182
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:34)",
+        [
+            "The Breakout",
+            700003946
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(11:42, 12:49)",
+        [
+            "The Breakout",
+            700003946
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 19:00)",
+        [
+            "",
+            700066194
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:57, 18:27)",
+        [
+            "Ideo's",
+            700004839
+        ]
+    ],
+    [
+        "Next activity after current time 22:39 for Situation 2.",
+        "(22:39, 23:51)",
+        [
+            "Doyles Tavern",
+            700002204
+        ]
+    ],
+    [
+        "Go to Doyles Tavern to unwind.",
+        "(23:58, 23:59)",
+        [
+            "Doyles Tavern",
+            700002204
+        ]
+    ]
+]

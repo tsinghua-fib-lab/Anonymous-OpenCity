@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030406
+        ]
+    ],
+    [
+        "Have breakfast",
+        "(09:00, 10:05)",
+        [
+            "",
+            700030406
+        ]
+    ],
+    [
+        "Read a book or catch up on some shows",
+        "(10:03, 11:34)",
+        [
+            "",
+            700030406
+        ]
+    ],
+    [
+        "Read a book or catch up on some shows",
+        "(11:33, 13:03)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "Next activity is having lunch.",
+        "(13:37, 14:59)",
+        [
+            "",
+            700030406
+        ]
+    ],
+    [
+        "Next activity is having lunch.",
+        "(15:18, 16:50)",
+        [
+            "",
+            700030406
+        ]
+    ],
+    [
+        "Meet friends or family for coffee or a casual hangout",
+        "(17:00, 18:35)",
+        [
+            "Venchi",
+            700028579
+        ]
+    ],
+    [
+        "Meet friends or family for coffee or a casual hangout",
+        "(18:34, 19:56)",
+        [
+            "Venchi",
+            700028579
+        ]
+    ],
+    [
+        "Wind down with dinner and watch a movie at home",
+        "(20:55, 22:04)",
+        [
+            "",
+            700030406
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:49, 23:59)",
+        [
+            "",
+            700030416
+        ]
+    ]
+]

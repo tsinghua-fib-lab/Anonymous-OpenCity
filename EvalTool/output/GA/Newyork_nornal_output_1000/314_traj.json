@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700027318
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:56)",
+        [
+            "",
+            700027331
+        ]
+    ],
+    [
+        "Explore a New Skill or Project",
+        "(15:29, 17:30)",
+        [
+            "Afficionado Coffee Roasters",
+            700023331
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(17:16, 19:07)",
+        [
+            "Afficionado Coffee Roasters",
+            700023331
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:39, 21:00)",
+        [
+            "Afficionado Coffee Roasters",
+            700023331
+        ]
+    ],
+    [
+        "Current place is Afficionado Coffee Roasters, stay longer.",
+        "(21:39, 23:16)",
+        [
+            "Afficionado Coffee Roasters",
+            700023331
+        ]
+    ],
+    [
+        "Next, you will sleep at Afficionado Coffee Roasters.",
+        "(23:25, 23:59)",
+        [
+            "Afficionado Coffee Roasters",
+            700023331
+        ]
+    ]
+]

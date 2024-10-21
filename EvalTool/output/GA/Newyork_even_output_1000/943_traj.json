@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - West 24th Street & 7th Avenue",
+            700008210
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:24)",
+        [
+            "Citi Bike - West 24th Street & 7th Avenue",
+            700008210
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:22, 15:30)",
+        [
+            "",
+            700020113
+        ]
+    ],
+    [
+        "Meal Prep for the Week",
+        "(13:53, 15:17)",
+        [
+            "Citi Bike - West 24th Street & 7th Avenue",
+            700008210
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 19:46)",
+        [
+            "",
+            700020119
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 22:05)",
+        [
+            "",
+            700020114
+        ]
+    ],
+    [
+        "Visit The Bean",
+        "(23:40, 23:59)",
+        [
+            "ViVi Bubble Tea",
+            700014882
+        ]
+    ]
+]

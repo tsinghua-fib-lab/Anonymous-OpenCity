@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of America",
+            700008790
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:48)",
+        [
+            "Citizens Bank",
+            700003473
+        ]
+    ],
+    [
+        "Personal Development",
+        "(12:19, 14:10)",
+        [
+            "Citizens Bank",
+            700003473
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:58, 17:33)",
+        [
+            "Bank of America",
+            700008790
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:09, 23:59)",
+        [
+            "CVS Pharmacy",
+            700006625
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "Chase",
+            700020878
+        ]
+    ]
+]

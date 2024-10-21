@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700027341
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:51)",
+        [
+            "Brasserie Maison Rouge",
+            700023330
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:36, 15:11)",
+        [
+            "Brasserie Maison Rouge",
+            700023330
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:14, 16:56)",
+        [
+            "Brasserie Maison Rouge",
+            700023330
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:08, 22:56)",
+        [
+            "",
+            700056287
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "La maison rouge",
+            700070416
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Apotheco Pharmacy",
+            700021514
+        ]
+    ],
+    [
+        "Exercise or outdoor activity",
+        "(10:00, 10:54)",
+        [
+            "Mexico Lindo",
+            700006222
+        ]
+    ],
+    [
+        "Read or engage in a hobby",
+        "(11:21, 12:50)",
+        [
+            "Tipsy Scoop Barlour",
+            700010987
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:52, 19:25)",
+        [
+            "Thai V Express",
+            700017625
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 21:54)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "Socialize or connect with friends",
+        "(23:36, 23:59)",
+        [
+            "Thai V Express",
+            700017625
+        ]
+    ]
+]

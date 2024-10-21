@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001495
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:08)",
+        [
+            "Papatzu Mexican Restaurant",
+            700013753
+        ]
+    ],
+    [
+        "Relax and Read/Watch TV",
+        "(10:40, 12:41)",
+        [
+            "Caput Mundi",
+            700025920
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:00, 14:27)",
+        [
+            "Lucia Pizza",
+            700005275
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:46, 19:52)",
+        [
+            "Lucia Pizza",
+            700005275
+        ]
+    ],
+    [
+        "Wind Down and Plan for the Week",
+        "(18:57, 19:51)",
+        [
+            "Papatzu Mexican Restaurant",
+            700013753
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:51, 23:59)",
+        [
+            "",
+            700011131
+        ]
+    ]
+]

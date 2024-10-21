@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002865
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(09:00, 10:39)",
+        [
+            "Citi Bike",
+            700020025
+        ]
+    ],
+    [
+        "Explore a Local Event or Market",
+        "(10:50, 12:30)",
+        [
+            "Citi Bike",
+            700020025
+        ]
+    ],
+    [
+        "Explore a Local Event or Market",
+        "(12:57, 14:25)",
+        [
+            "Citi Bike",
+            700020025
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:38, 15:51)",
+        [
+            "",
+            700023769
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:47, 23:36)",
+        [
+            "",
+            700023788
+        ]
+    ]
+]

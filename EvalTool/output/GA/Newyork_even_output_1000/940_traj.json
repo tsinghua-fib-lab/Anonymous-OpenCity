@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700024477
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:33)",
+        [
+            "",
+            700024477
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:22, 13:23)",
+        [
+            "The Picnic Basket",
+            700011723
+        ]
+    ],
+    [
+        "Meal Prep for the Week",
+        "(13:53, 15:22)",
+        [
+            "The Picnic Basket",
+            700011723
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 17:14)",
+        [
+            "Ess-a-Bagel",
+            700031535
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 23:23)",
+        [
+            "Smith & Wollensky",
+            700003447
+        ]
+    ],
+    [
+        "Visit Smith & Wollensky",
+        "(23:40, 23:59)",
+        [
+            "Smith & Wollensky",
+            700003447
+        ]
+    ]
+]

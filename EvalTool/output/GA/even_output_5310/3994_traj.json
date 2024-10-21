@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700007672
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:42)",
+        [
+            "Lenny's",
+            700006977
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:03, 14:42)",
+        [
+            "Joffrey Ballet School",
+            700009189
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:04, 19:20)",
+        [
+            "",
+            700029793
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:22, 20:53)",
+        [
+            "Medrite Urgen Care",
+            700028800
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:51, 23:59)",
+        [
+            "Medrite Urgen Care",
+            700028800
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Hao Noodle",
+            700018289
+        ]
+    ]
+]

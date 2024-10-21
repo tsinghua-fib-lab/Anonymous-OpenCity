@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "WarrenPeace",
+            700024646
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:26)",
+        [
+            "",
+            700036768
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:00, 15:33)",
+        [
+            "",
+            700002641
+        ]
+    ],
+    [
+        "Go to Dinner Preparation",
+        "(18:39, 20:03)",
+        [
+            "WarrenPeace",
+            700024646
+        ]
+    ],
+    [
+        "Go to Relaxation and TV Time",
+        "(20:06, 22:02)",
+        [
+            "WarrenPeace",
+            700024646
+        ]
+    ],
+    [
+        "Stay at WarrenPeace",
+        "(22:12, 23:59)",
+        [
+            "WarrenPeace",
+            700024646
+        ]
+    ]
+]

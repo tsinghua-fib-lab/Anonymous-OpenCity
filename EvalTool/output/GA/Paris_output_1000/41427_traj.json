@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Café de la Paix",
+            700006874
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:33)",
+        [
+            "Café de la Paix",
+            700006874
+        ]
+    ],
+    [
+        "Social Time",
+        "(11:50, 14:00)",
+        [
+            "Bar Du Lycee",
+            700032861
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:10, 19:51)",
+        [
+            "Atelier 103",
+            700000432
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:49, 23:59)",
+        [
+            "",
+            700063932
+        ]
+    ]
+]

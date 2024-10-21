@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chipotle",
+            700018341
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:13)",
+        [
+            "",
+            700018322
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:20, 13:49)",
+        [
+            "Plant Blossom",
+            700010774
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 19:02)",
+        [
+            "Bagel Market",
+            700008313
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(18:06, 19:31)",
+        [
+            "Bagel Market",
+            700008313
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:56, 21:22)",
+        [
+            "",
+            700000759
+        ]
+    ],
+    [
+        "Evening Wind-down",
+        "(23:35, 23:59)",
+        [
+            "Chipotle",
+            700018341
+        ]
+    ]
+]

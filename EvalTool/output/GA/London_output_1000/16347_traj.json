@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Leisure Activities or Sports",
+        "(09:00, 11:10)",
+        [
+            "G-Coffee Beans",
+            700050800
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:07, 16:49)",
+        [
+            "",
+            700051030
+        ]
+    ],
+    [
+        "Socializing/Visiting Friends",
+        "(17:00, 18:21)",
+        [
+            "",
+            700047123
+        ]
+    ],
+    [
+        "Socializing/Visiting Friends",
+        "(19:27, 21:05)",
+        [
+            "G-Coffee Beans",
+            700050800
+        ]
+    ],
+    [
+        "Socializing/Visiting Friends",
+        "(21:31, 22:53)",
+        [
+            "",
+            700047101
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:12, 23:59)",
+        [
+            "",
+            700047123
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike",
+            700020538
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(09:00, 10:35)",
+        [
+            "Link NYC",
+            700020542
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:36, 16:06)",
+        [
+            "",
+            700019800
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 16:49)",
+        [
+            "Uncle Nick's Restaurant",
+            700004352
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:56, 16:31)",
+        [
+            "Link NYC",
+            700020386
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:25, 21:10)",
+        [
+            "",
+            700019800
+        ]
+    ],
+    [
+        "Stay at Uncle Nick's Restaurant",
+        "(22:35, 23:59)",
+        [
+            "Link NYC",
+            700020386
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Walters",
+            700018643
+        ]
+    ]
+]

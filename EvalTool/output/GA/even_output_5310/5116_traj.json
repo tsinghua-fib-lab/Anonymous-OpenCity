@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000690
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(10:00, 11:22)",
+        [
+            "",
+            700001385
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(11:09, 13:09)",
+        [
+            "Boris and Horton",
+            700012364
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:32, 15:06)",
+        [
+            "Boris and Horton",
+            700012364
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:01, 20:04)",
+        [
+            "",
+            700001410
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:17, 22:55)",
+        [
+            "",
+            700000690
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:16, 23:59)",
+        [
+            "Au Za'atar",
+            700012362
+        ]
+    ]
+]

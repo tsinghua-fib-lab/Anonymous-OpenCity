@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Stage Werx",
+            700010685
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(10:00, 11:09)",
+        [
+            "Joyride Pizza",
+            700008389
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(11:05, 13:07)",
+        [
+            "Joyride Pizza",
+            700008389
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:30, 14:50)",
+        [
+            "Joyride Pizza",
+            700008389
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:57, 16:27)",
+        [
+            "Joyride Pizza",
+            700008389
+        ]
+    ],
+    [
+        "Afternoon Sports",
+        "(16:47, 18:16)",
+        [
+            "",
+            700000669
+        ]
+    ],
+    [
+        "Continue with Dinner Preparation and Meal",
+        "(18:13, 19:51)",
+        [
+            "Joyride Pizza",
+            700008389
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 23:59)",
+        [
+            "Little Star Pizza",
+            700000117
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "",
+            700008218
+        ]
+    ]
+]

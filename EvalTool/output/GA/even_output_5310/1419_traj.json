@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:39)",
+        [
+            "Song Yu, DPM",
+            700023820
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 16:30)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:22, 17:14)",
+        [
+            "Flavor's House",
+            700021997
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 21:59)",
+        [
+            "Song Yu, DPM",
+            700023820
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:22, 23:59)",
+        [
+            "",
+            700022505
+        ]
+    ]
+]

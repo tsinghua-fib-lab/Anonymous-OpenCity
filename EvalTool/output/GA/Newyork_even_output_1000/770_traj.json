@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bait and Hook",
+            700004187
+        ]
+    ],
+    [
+        "Walk or Jog",
+        "(10:00, 11:08)",
+        [
+            "",
+            700014224
+        ]
+    ],
+    [
+        "Go for a Walk or Jog",
+        "(11:40, 13:10)",
+        [
+            "Artichoke Basille's Pizza",
+            700018142
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:22, 15:06)",
+        [
+            "Artichoke Basille's Pizza",
+            700018142
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:14, 18:18)",
+        [
+            "",
+            700002911
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 23:59)",
+        [
+            "",
+            700002981
+        ]
+    ]
+]

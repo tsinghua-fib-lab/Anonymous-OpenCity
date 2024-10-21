@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bond 45",
+            700006084
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:57)",
+        [
+            "Starbucks",
+            700014120
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:49, 16:03)",
+        [
+            "Starbucks",
+            700014120
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:48, 20:56)",
+        [
+            "The View Restaurant & Lounge",
+            700009094
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:57, 23:59)",
+        [
+            "Blue Fin",
+            700006104
+        ]
+    ]
+]

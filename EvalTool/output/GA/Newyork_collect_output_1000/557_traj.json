@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:57)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:32, 15:55)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:19, 18:07)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:39, 20:02)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:48, 21:58)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ]
+]

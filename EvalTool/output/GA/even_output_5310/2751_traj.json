@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Manhattan Parking Group",
+            700040473
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:11)",
+        [
+            "Birch Coffee",
+            700014364
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:53, 14:35)",
+        [
+            "Manhattan Parking Group",
+            700040473
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(17:17, 18:56)",
+        [
+            "Birch Coffee",
+            700014364
+        ]
+    ],
+    [
+        "Next activity: Watch a Sports Game or Movie",
+        "(19:52, 21:54)",
+        [
+            "Birch Coffee",
+            700014364
+        ]
+    ],
+    [
+        "Current place: Manhattan Parking Group, Stay Time.",
+        "(22:43, 23:59)",
+        [
+            "Manhattan Parking Group",
+            700040473
+        ]
+    ]
+]

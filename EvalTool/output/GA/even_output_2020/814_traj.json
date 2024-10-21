@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wonderdog Rescue",
+            700014193
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(10:00, 10:58)",
+        [
+            "",
+            700008295
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(11:05, 13:06)",
+        [
+            "Mission Hunan Restaurant",
+            700002985
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:30, 14:59)",
+        [
+            "Mission Hunan Restaurant",
+            700002985
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:57, 16:17)",
+        [
+            "Mission Hunan Restaurant",
+            700002985
+        ]
+    ],
+    [
+        "Afternoon Sports",
+        "(16:47, 18:10)",
+        [
+            "Aramex",
+            700004336
+        ]
+    ],
+    [
+        "Continue with Dinner Preparation and Meal",
+        "(18:13, 20:06)",
+        [
+            "Vallartas Taco Bar",
+            700004337
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 23:59)",
+        [
+            "Western Donut Chinese Food",
+            700004338
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "Taqueria Los Cayotes",
+            700004681
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Maria Mulata Colombian Restaurant & Bar",
+            700039369
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:06)",
+        [
+            "",
+            700017442
+        ]
+    ],
+    [
+        "Afternoon Sports/Outdoor Activity",
+        "(16:12, 18:08)",
+        [
+            "BLT Prime",
+            700017615
+        ]
+    ],
+    [
+        "Dinner Preparation/Cooking",
+        "(18:49, 19:58)",
+        [
+            "BLT Prime",
+            700017615
+        ]
+    ],
+    [
+        "Wind Down & Movie Night",
+        "(20:40, 23:05)",
+        [
+            "BLT Prime",
+            700017615
+        ]
+    ],
+    [
+        "stay at BLT Prime since there isn't enough time to go elsewhere.",
+        "(23:05, 23:59)",
+        [
+            "BLT Prime",
+            700017615
+        ]
+    ]
+]

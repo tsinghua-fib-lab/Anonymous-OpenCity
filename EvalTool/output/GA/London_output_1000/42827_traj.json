@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:12)",
+        [
+            "",
+            700011092
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:05, 19:53)",
+        [
+            "",
+            700063392
+        ]
+    ],
+    [
+        "Watch TV/Movies",
+        "(17:33, 19:03)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Watch TV/Movies",
+        "(18:57, 20:13)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Watch TV/Movies",
+        "(20:57, 22:04)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Spend time with family/friends",
+        "(22:51, 23:59)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000630
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(10:00, 10:52)",
+        [
+            "Capo's",
+            700005007
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(11:32, 12:59)",
+        [
+            "Mona Lisa",
+            700002083
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 16:33)",
+        [
+            "Cassava",
+            700005002
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:12, 20:08)",
+        [
+            "Mona Lisa",
+            700005004
+        ]
+    ],
+    [
+        "Evening Relaxation and Wind Down",
+        "(20:30, 23:59)",
+        [
+            "",
+            700000630
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "Caffè Greco",
+            700002816
+        ]
+    ]
+]

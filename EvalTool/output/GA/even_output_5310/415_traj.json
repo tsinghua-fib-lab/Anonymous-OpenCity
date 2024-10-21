@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700017620
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:59)",
+        [
+            "",
+            700000666
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(11:21, 13:00)",
+        [
+            "",
+            700016559
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:43, 17:20)",
+        [
+            "",
+            700017620
+        ]
+    ],
+    [
+        "Lunch with Family/Friends",
+        "(17:55, 19:04)",
+        [
+            "Yefsi Estiatorio",
+            700017619
+        ]
+    ],
+    [
+        "Lunch with Family/Friends",
+        "(19:24, 20:52)",
+        [
+            "Yefsi Estiatorio",
+            700017619
+        ]
+    ],
+    [
+        "Dinner & Prepare for the Week",
+        "(21:45, 23:40)",
+        [
+            "Yefsi Estiatorio",
+            700017619
+        ]
+    ],
+    [
+        "Afternoon Movie or TV Series",
+        "(23:48, 23:59)",
+        [
+            "Le Moulin à Café",
+            700020976
+        ]
+    ]
+]

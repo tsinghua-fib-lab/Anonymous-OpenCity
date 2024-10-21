@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Capital One",
+            700004302
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(09:00, 09:56)",
+        [
+            "Chase",
+            700004306
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(10:12, 11:33)",
+        [
+            "Chase",
+            700004306
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 17:52)",
+        [
+            "Capital One",
+            700004302
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 21:08)",
+        [
+            "Lavo",
+            700006388
+        ]
+    ],
+    [
+        "Next, go to Maki Maki Sushi for a delicious sushi dinner.",
+        "(23:07, 23:59)",
+        [
+            "Citibank",
+            700006004
+        ]
+    ]
+]

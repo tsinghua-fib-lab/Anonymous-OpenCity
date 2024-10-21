@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700013068
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:41)",
+        [
+            "",
+            700013068
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:37, 12:16)",
+        [
+            "My Father’s Kitchen",
+            700004903
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(12:30, 13:58)",
+        [
+            "My Father’s Kitchen",
+            700004903
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(14:36, 16:31)",
+        [
+            "My Father’s Kitchen",
+            700004903
+        ]
+    ],
+    [
+        "Family/Friends Hangout",
+        "(17:24, 18:49)",
+        [
+            "",
+            700000782
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:28, 23:59)",
+        [
+            "El Burrito Express",
+            700005282
+        ]
+    ],
+    [
+        "Go to My Father’s Kitchen",
+        "(20:42, 22:07)",
+        [
+            "My Father’s Kitchen",
+            700004903
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "",
+            700013068
+        ]
+    ]
+]

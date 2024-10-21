@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000972
+        ]
+    ],
+    [
+        "Exercise Session",
+        "(09:00, 09:59)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ],
+    [
+        "Exercise Session",
+        "(10:22, 11:59)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:37, 14:00)",
+        [
+            "Shukette",
+            700006166
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:25, 15:55)",
+        [
+            "",
+            700000972
+        ]
+    ],
+    [
+        "Prep for the Week",
+        "(16:55, 17:50)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(18:21, 19:54)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(20:40, 22:05)",
+        [
+            "Shukette",
+            700006166
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(23:09, 23:59)",
+        [
+            "Rite Aid",
+            700004407
+        ]
+    ]
+]

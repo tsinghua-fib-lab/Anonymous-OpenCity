@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Felice",
+            700024260
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:14)",
+        [
+            "",
+            700001459
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:25, 12:01)",
+        [
+            "Felice",
+            700024260
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:27, 18:17)",
+        [
+            "Saint Stephen of Hungary Church",
+            700000277
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(16:23, 17:58)",
+        [
+            "Saint Stephen of Hungary Church",
+            700000277
+        ]
+    ],
+    [
+        "Visit a Cultural Event",
+        "(19:03, 21:01)",
+        [
+            "",
+            700001459
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:44, 23:59)",
+        [
+            "",
+            700011511
+        ]
+    ]
+]

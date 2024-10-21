@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Boiler Room",
+            700011743
+        ]
+    ],
+    [
+        "Wake Up and Leisurely Breakfast",
+        "(10:00, 12:10)",
+        [
+            "",
+            700003124
+        ]
+    ],
+    [
+        "Wake Up and Leisurely Breakfast",
+        "(12:32, 14:32)",
+        [
+            "",
+            700002761
+        ]
+    ],
+    [
+        "Next activity after lunch with friends",
+        "(15:01, 17:01)",
+        [
+            "East Side Church of Christ",
+            700004738
+        ]
+    ],
+    [
+        "Relax and Watch a Movie",
+        "(17:25, 19:07)",
+        [
+            "Iglesia de Cristo",
+            700004736
+        ]
+    ],
+    [
+        "Relax and Watch a Movie",
+        "(19:27, 21:06)",
+        [
+            "The Bean",
+            700004735
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(20:54, 22:29)",
+        [
+            "Bar Verde",
+            700015579
+        ]
+    ],
+    [
+        "Next activity after dinner preparation.",
+        "(23:09, 23:59)",
+        [
+            "Double Zero",
+            700008945
+        ]
+    ]
+]

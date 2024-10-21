@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700031165
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:10)",
+        [
+            "",
+            700031166
+        ]
+    ],
+    [
+        "Have lunch",
+        "(12:31, 13:51)",
+        [
+            "",
+            700031159
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 17:26)",
+        [
+            "",
+            700031160
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:13, 20:05)",
+        [
+            "Citi Bike - South Street & Pike Street",
+            700031161
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:01, 23:59)",
+        [
+            "",
+            700031174
+        ]
+    ],
+    [
+        "Next arrangement is to connect with friends or family.",
+        "(22:54, 23:59)",
+        [
+            "",
+            700031165
+        ]
+    ]
+]

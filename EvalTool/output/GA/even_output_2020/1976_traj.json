@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Inca Juice & Sandwiches",
+            700014030
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:03)",
+        [
+            "Cha Cha Cha",
+            700005325
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:05, 14:08)",
+        [
+            "El Corazón Café",
+            700014033
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:46, 16:00)",
+        [
+            "Café de Olla",
+            700012291
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:12, 22:01)",
+        [
+            "Arabian Nights",
+            700014034
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:08, 23:59)",
+        [
+            "Restaurante Hermelinda",
+            700014026
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Lazy Bear",
+            700004855
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Bank St & Washington St",
+            700007956
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:53)",
+        [
+            "",
+            700001837
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:51, 12:13)",
+        [
+            "",
+            700001606
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:24, 17:08)",
+        [
+            "Wallsé",
+            700014449
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(17:45, 20:09)",
+        [
+            "Citi Bike - Bank St & Washington St",
+            700007956
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 23:59)",
+        [
+            "",
+            700000748
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "XO Kitchen",
+            700014426
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:01)",
+        [
+            "Alrite Pharmacy",
+            700005144
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:25, 16:27)",
+        [
+            "",
+            700025370
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:26, 22:57)",
+        [
+            "XO Kitchen",
+            700014426
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:01, 23:59)",
+        [
+            "XO Kitchen",
+            700014426
+        ]
+    ]
+]

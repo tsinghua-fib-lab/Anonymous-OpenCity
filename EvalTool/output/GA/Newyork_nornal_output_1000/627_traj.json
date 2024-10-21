@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002370
+        ]
+    ],
+    [
+        "Leisure Activity: Read / Relax",
+        "(09:00, 10:28)",
+        [
+            "Citi Bike",
+            700020600
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:58, 14:14)",
+        [
+            "Our New Place",
+            700024817
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(17:25, 19:00)",
+        [
+            "Our New Place",
+            700024817
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:32, 21:08)",
+        [
+            "Our New Place",
+            700024817
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(21:33, 23:42)",
+        [
+            "",
+            700020618
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(23:30, 23:59)",
+        [
+            "Our New Place",
+            700024817
+        ]
+    ]
+]

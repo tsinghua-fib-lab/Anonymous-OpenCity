@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009293
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:29)",
+        [
+            "CityMD",
+            700013538
+        ]
+    ],
+    [
+        "Moving to next activity.",
+        "(12:33, 14:39)",
+        [
+            "CityMD",
+            700013538
+        ]
+    ],
+    [
+        "stay at current place",
+        "(14:35, 15:56)",
+        [
+            "CityMD",
+            700013538
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:46, 21:54)",
+        [
+            "Juice Generation",
+            700006321
+        ]
+    ],
+    [
+        "Current place: Juice Generation",
+        "(21:42, 23:05)",
+        [
+            "Juice Generation",
+            700006321
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Robert",
+            700037593
+        ]
+    ]
+]

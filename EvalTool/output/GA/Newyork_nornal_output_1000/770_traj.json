@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Hungry Ghost",
+            700011625
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:36)",
+        [
+            "1803 NYC",
+            700019706
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:34, 13:01)",
+        [
+            "1803 NYC",
+            700019706
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:54, 15:09)",
+        [
+            "1803 NYC",
+            700019706
+        ]
+    ],
+    [
+        "Next activity after Leisure Time",
+        "(15:40, 16:56)",
+        [
+            "1803 NYC",
+            700019706
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 18:27)",
+        [
+            "Fresh Curry",
+            700019704
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 20:24)",
+        [
+            "Fresh Curry",
+            700019704
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "Akimoto Sushi",
+            700019703
+        ]
+    ]
+]

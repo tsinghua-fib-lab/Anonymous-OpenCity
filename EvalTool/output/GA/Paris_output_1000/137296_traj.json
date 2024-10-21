@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700055203
+        ]
+    ],
+    [
+        "Next activity to engage in is a morning leisure activity like reading a book or light exercise.",
+        "(10:00, 10:53)",
+        [
+            "",
+            700055203
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:51, 12:00)",
+        [
+            "",
+            700013716
+        ]
+    ],
+    [
+        "Next activity to engage in is a morning leisure activity.",
+        "(12:35, 13:40)",
+        [
+            "",
+            700055203
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 18:35)",
+        [
+            "IRCAM",
+            700003472
+        ]
+    ],
+    [
+        "Go to restaurant",
+        "(17:09, 18:39)",
+        [
+            "Pho Banh Cuon 14",
+            700029191
+        ]
+    ],
+    [
+        "Go to restaurant at Amoné.",
+        "(19:17, 20:58)",
+        [
+            "Le Parvis - Beaubourg",
+            700004827
+        ]
+    ],
+    [
+        "Stay at",
+        "(21:50, 22:53)",
+        [
+            "",
+            700055203
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "Le Jardin de Thé",
+            700024690
+        ]
+    ]
+]

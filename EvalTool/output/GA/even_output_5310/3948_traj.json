@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000938
+        ]
+    ],
+    [
+        "Go for a walk in the nearby park.",
+        "(10:00, 11:07)",
+        [
+            "",
+            700003121
+        ]
+    ],
+    [
+        "Continue with the walk in the nearby park.",
+        "(11:26, 11:58)",
+        [
+            "Blind Tiger",
+            700007437
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:52, 17:58)",
+        [
+            "",
+            700002432
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 19:27)",
+        [
+            "John's of Bleecker St",
+            700003339
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 23:32)",
+        [
+            "",
+            700002432
+        ]
+    ],
+    [
+        "Head to late-night Ramen at Takashi.",
+        "(23:25, 23:59)",
+        [
+            "Barrow Street Nursery School",
+            700000459
+        ]
+    ]
+]

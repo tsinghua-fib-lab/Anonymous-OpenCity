@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001227
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(09:00, 09:59)",
+        [
+            "Nuestra Senora De Guadalupe Church",
+            700000205
+        ]
+    ],
+    [
+        "Catch up on household chores",
+        "(10:54, 12:06)",
+        [
+            "Nuestra Senora De Guadalupe Church",
+            700000205
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 14:59)",
+        [
+            "Comprehensive Dental Care",
+            700004019
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:37, 20:23)",
+        [
+            "",
+            700010556
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 21:37)",
+        [
+            "Ma's Dim Sum & Cafe",
+            700004197
+        ]
+    ],
+    [
+        "Next place after catching up on household chores in Situation_4",
+        "(23:03, 23:59)",
+        [
+            "Comprehensive Dental Care",
+            700004019
+        ]
+    ]
+]

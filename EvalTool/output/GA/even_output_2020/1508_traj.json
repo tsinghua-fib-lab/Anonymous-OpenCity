@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Diamond Cafe",
+            700001751
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:38)",
+        [
+            "Diamond Cafe",
+            700001751
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:54, 14:42)",
+        [
+            "The Rabbit Hole Theater Company",
+            700006198
+        ]
+    ],
+    [
+        "Social Time",
+        "(14:57, 16:50)",
+        [
+            "The Rabbit Hole Theater Company",
+            700006198
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 23:02)",
+        [
+            "Aesthetic Dentistry of Noe Valley",
+            700001754
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700002466
+        ]
+    ]
+]

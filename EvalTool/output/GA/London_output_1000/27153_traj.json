@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Next activity after breakfast",
+        "(09:00, 09:50)",
+        [
+            "",
+            700054512
+        ]
+    ],
+    [
+        "Next activity after breakfast",
+        "(10:38, 12:32)",
+        [
+            "",
+            700054512
+        ]
+    ],
+    [
+        "Next activity after lunch in a cafe.",
+        "(12:44, 13:56)",
+        [
+            "Drury Lane",
+            700007413
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 15:30)",
+        [
+            "",
+            700064343
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:49, 20:16)",
+        [
+            "",
+            700064300
+        ]
+    ],
+    [
+        "next arrangement after watching a movie or series",
+        "(20:43, 22:03)",
+        [
+            "Guanabara",
+            700007412
+        ]
+    ],
+    [
+        "Stay at Guanabara",
+        "(22:41, 23:54)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "next arrangement after watching a movie or series",
+        "(23:54, 23:59)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ]
+]

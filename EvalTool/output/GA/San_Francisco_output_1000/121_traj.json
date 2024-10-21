@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010479
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:06)",
+        [
+            "Bank of America",
+            700003209
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(12:57, 14:20)",
+        [
+            "Bank of America",
+            700003207
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(15:14, 17:07)",
+        [
+            "Bank of America",
+            700003207
+        ]
+    ],
+    [
+        "Family Time or Games Night",
+        "(18:06, 21:07)",
+        [
+            "Bank of America",
+            700003207
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 23:59)",
+        [
+            "Bank of America",
+            700003209
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(23:07, 23:59)",
+        [
+            "Bank of America",
+            700003207
+        ]
+    ]
+]

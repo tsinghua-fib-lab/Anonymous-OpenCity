@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Old Country Coffee",
+            700023811
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:25)",
+        [
+            "Citi Bike – W 33rd Street & 10th Avenue",
+            700024897
+        ]
+    ],
+    [
+        "Afternoon Hobby",
+        "(14:23, 15:58)",
+        [
+            "Citi Bike – W 33rd Street & 10th Avenue",
+            700024897
+        ]
+    ],
+    [
+        "Head to Old Country Coffee for social time.",
+        "(16:25, 17:54)",
+        [
+            "Old Country Coffee",
+            700023811
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:07, 19:47)",
+        [
+            "Old Country Coffee",
+            700023811
+        ]
+    ],
+    [
+        "Stay at Old Country Coffee",
+        "(20:36, 21:39)",
+        [
+            "Old Country Coffee",
+            700023811
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:29, 23:59)",
+        [
+            "Chase",
+            700023813
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 10:56)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:34, 13:05)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:47, 15:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 20:52)",
+        [
+            "Planet Organic",
+            700021489
+        ]
+    ],
+    [
+        "Wawa",
+        "(20:33, 21:55)",
+        [
+            "Devonshire Terrace",
+            700019972
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:55, 23:59)",
+        [
+            "Mac and Wild",
+            700030294
+        ]
+    ]
+]

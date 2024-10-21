@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Haight Street Dental",
+            700004205
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:22)",
+        [
+            "Ken",
+            700004202
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:16, 14:06)",
+        [
+            "Ken",
+            700004202
+        ]
+    ],
+    [
+        "Exercise",
+        "(14:32, 16:04)",
+        [
+            "Ken",
+            700004202
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:49, 21:01)",
+        [
+            "Bus Stop Pizza",
+            700004204
+        ]
+    ],
+    [
+        "Watch TV or Movie",
+        "(21:28, 22:31)",
+        [
+            "Bus Stop Pizza",
+            700004204
+        ]
+    ],
+    [
+        "Watch TV or Movie",
+        "(22:40, 23:37)",
+        [
+            "",
+            700002918
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "San Francisco Prosthetic Orthotix Service, Inc.",
+            700004782
+        ]
+    ]
+]

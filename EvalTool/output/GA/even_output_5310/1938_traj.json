@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "NR",
+            700017567
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:07)",
+        [
+            "Campagnola Restaurant",
+            700035807
+        ]
+    ],
+    [
+        "Community event or volunteer",
+        "(13:08, 15:00)",
+        [
+            "Campagnola Restaurant",
+            700035807
+        ]
+    ],
+    [
+        "Community event or volunteer",
+        "(16:04, 19:00)",
+        [
+            "Campagnola Restaurant",
+            700035807
+        ]
+    ],
+    [
+        "Current Place: Campagnola Restaurant",
+        "(19:27, 21:07)",
+        [
+            "Oda House",
+            700030654
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:40, 23:12)",
+        [
+            "Sasabune",
+            700030652
+        ]
+    ]
+]

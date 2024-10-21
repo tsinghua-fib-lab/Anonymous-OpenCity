@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Clay Medical Pharmacy",
+            700001072
+        ]
+    ],
+    [
+        "Go for a walk in the local park.",
+        "(10:00, 11:04)",
+        [
+            "Chinatown Community Children's Center",
+            700013911
+        ]
+    ],
+    [
+        "Go for a walk in the local park",
+        "(10:56, 12:01)",
+        [
+            "",
+            700010513
+        ]
+    ],
+    [
+        "Lunch at home, preparing something simple.",
+        "(12:00, 12:58)",
+        [
+            "Clay Medical Pharmacy",
+            700001072
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 16:35)",
+        [
+            "Hang Ah Restaurant",
+            700005136
+        ]
+    ],
+    [
+        "Stay at Clay Medical Pharmacy for reading.",
+        "(17:05, 18:52)",
+        [
+            "Chinese Central High School",
+            700000281
+        ]
+    ],
+    [
+        "Stay at Clay Medical Pharmacy for reading.",
+        "(19:08, 20:53)",
+        [
+            "Clay Medical Pharmacy",
+            700001072
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:35, 23:59)",
+        [
+            "",
+            700008764
+        ]
+    ]
+]

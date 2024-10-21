@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Northwell Health-GoHealth Urgent Care",
+            700013558
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:05)",
+        [
+            "Northwell Health-GoHealth Urgent Care",
+            700013558
+        ]
+    ],
+    [
+        "Attend to Personal Projects or Hobbies",
+        "(10:12, 12:12)",
+        [
+            "Northwell Health-GoHealth Urgent Care",
+            700013558
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:12, 15:21)",
+        [
+            "Wanpo Tea Shop",
+            700038331
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:17, 20:56)",
+        [
+            "Northwell Health-GoHealth Urgent Care",
+            700013558
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(21:19, 22:56)",
+        [
+            "",
+            700002316
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:07, 23:59)",
+        [
+            "",
+            700001674
+        ]
+    ]
+]

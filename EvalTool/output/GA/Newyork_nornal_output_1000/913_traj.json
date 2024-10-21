@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018896
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:48)",
+        [
+            "",
+            700018896
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(14:42, 15:55)",
+        [
+            "ChargePoint",
+            700012429
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(16:25, 18:39)",
+        [
+            "",
+            700018896
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(18:50, 20:00)",
+        [
+            "ChargePoint",
+            700012429
+        ]
+    ],
+    [
+        "Stay at ChargePoint",
+        "(20:05, 21:33)",
+        [
+            "ChargePoint",
+            700012429
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:46, 23:59)",
+        [
+            "Nature's Cure Pharmacy",
+            700015710
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "",
+            700018896
+        ]
+    ]
+]

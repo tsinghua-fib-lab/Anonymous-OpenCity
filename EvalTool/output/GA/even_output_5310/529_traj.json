@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020623
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 10:54)",
+        [
+            "Ellie's",
+            700021791
+        ]
+    ],
+    [
+        "You are currently at Ellie's.",
+        "(11:03, 11:56)",
+        [
+            "Agora",
+            700020620
+        ]
+    ],
+    [
+        "Go for a relaxing walk in a local park.",
+        "(12:36, 14:12)",
+        [
+            "Anita La Mamma del Gelato",
+            700024251
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 18:42)",
+        [
+            "Starbucks",
+            700005980
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 21:50)",
+        [
+            "H&H Midtown Bagels East",
+            700012538
+        ]
+    ],
+    [
+        "Stay at Ellie's",
+        "(20:18, 21:52)",
+        [
+            "",
+            700020618
+        ]
+    ],
+    [
+        "Stay at Ellie's.",
+        "(22:48, 23:58)",
+        [
+            "ChargePoint",
+            700012433
+        ]
+    ],
+    [
+        "Stay at unspecified location.",
+        "(23:43, 23:59)",
+        [
+            "Chick-fil-a",
+            700041024
+        ]
+    ]
+]

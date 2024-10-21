@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010010
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:50)",
+        [
+            "Bank of America",
+            700000539
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:10, 16:15)",
+        [
+            "Fanoos",
+            700003103
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie.",
+        "(17:59, 19:19)",
+        [
+            "Fanoos",
+            700003103
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie",
+        "(19:54, 20:56)",
+        [
+            "Fanoos",
+            700003103
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie.",
+        "(21:08, 22:20)",
+        [
+            "Fanoos",
+            700003103
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie.",
+        "(21:53, 22:52)",
+        [
+            "",
+            700010010
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "Walgreens",
+            700000486
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:03)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:00, 12:56)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 18:27)",
+        [
+            "Planet Organic",
+            700021489
+        ]
+    ],
+    [
+        "Socialize",
+        "(17:09, 18:33)",
+        [
+            "Planet Organic",
+            700021489
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:29, 21:00)",
+        [
+            "Anise",
+            700019970
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 22:57)",
+        [
+            "Appennino",
+            700019571
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Bean About Town",
+            700038039
+        ]
+    ]
+]

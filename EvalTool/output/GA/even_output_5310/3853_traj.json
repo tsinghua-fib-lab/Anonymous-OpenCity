@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003099
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:35)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ],
+    [
+        "3:00 PM - 5:00 PM Outdoor Activities or Sports",
+        "(16:30, 18:25)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(18:22, 20:02)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(20:46, 22:05)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(22:36, 23:59)",
+        [
+            "",
+            700003053
+        ]
+    ]
+]

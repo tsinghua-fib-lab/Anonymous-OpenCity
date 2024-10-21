@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001161
+        ]
+    ],
+    [
+        "Leisurely Stroll or Exercise",
+        "(10:00, 11:29)",
+        [
+            "",
+            700001161
+        ]
+    ],
+    [
+        "Leisurely Stroll or Exercise",
+        "(11:27, 14:07)",
+        [
+            "",
+            700001161
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(13:09, 15:01)",
+        [
+            "Anthology Film Archives",
+            700003891
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:56, 19:22)",
+        [
+            "",
+            700002263
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(20:15, 22:22)",
+        [
+            "Citi Bike - East 2nd Street & 2nd Avenue",
+            700008030
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "Rosie's",
+            700012413
+        ]
+    ]
+]

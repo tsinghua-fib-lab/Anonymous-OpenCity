@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:04)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Watch a Movie/Series",
+        "(16:18, 17:57)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(18:32, 19:55)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Plan for the Week Ahead",
+        "(21:11, 22:55)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:38, 23:59)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "First Federal Savings of San Rafael",
+            700000678
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:19)",
+        [
+            "Bay Wheels",
+            700010411
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:07, 15:56)",
+        [
+            "Fuel 24:7",
+            700001200
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:37, 13:06)",
+        [
+            "Fuel 24:7",
+            700001200
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:20, 19:50)",
+        [
+            "",
+            700000975
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 22:58)",
+        [
+            "Bay Wheels",
+            700010411
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "Asa Sushi",
+            700000679
+        ]
+    ]
+]

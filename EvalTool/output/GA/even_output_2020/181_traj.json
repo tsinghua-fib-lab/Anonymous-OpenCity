@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "All Spice",
+            700003099
+        ]
+    ],
+    [
+        "Go for a workout or engage in a sport",
+        "(10:00, 11:28)",
+        [
+            "450 Sutter parking",
+            700003095
+        ]
+    ],
+    [
+        "Go for a workout or engage in a sport.",
+        "(11:46, 13:13)",
+        [
+            "",
+            700012986
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:50, 17:07)",
+        [
+            "McDonald's",
+            700005087
+        ]
+    ],
+    [
+        "Wind down the evening with a book or listening to music.",
+        "(19:20, 20:50)",
+        [
+            "McDonald's",
+            700005087
+        ]
+    ],
+    [
+        "Wind down the evening with a book or listening to music.",
+        "(21:41, 23:00)",
+        [
+            "450 Sutter parking",
+            700003095
+        ]
+    ],
+    [
+        "Stay at home and wind down the evening with a book or listening to music.",
+        "(23:36, 23:59)",
+        [
+            "All Spice",
+            700003099
+        ]
+    ]
+]

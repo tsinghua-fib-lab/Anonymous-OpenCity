@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sidney Hillman Playground",
+            700000415
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:37)",
+        [
+            "Columbia Pizza",
+            700006251
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:46, 16:18)",
+        [
+            "",
+            700021862
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:08, 18:55)",
+        [
+            "Citi Bike - Rivington Street & Ridge Street",
+            700008171
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:34, 22:11)",
+        [
+            "Rivington Pizza",
+            700009177
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:22, 23:59)",
+        [
+            "",
+            700011048
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002733
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 15:54)",
+        [
+            "",
+            700038040
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(11:25, 12:59)",
+        [
+            "",
+            700038051
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(13:23, 15:01)",
+        [
+            "",
+            700038040
+        ]
+    ],
+    [
+        "Light Exercise",
+        "(15:14, 16:44)",
+        [
+            "Bocca Di Bacco",
+            700008977
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:44, 19:10)",
+        [
+            "Capital One",
+            700003472
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(20:03, 21:37)",
+        [
+            "Bocca Di Bacco",
+            700008977
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(21:48, 23:00)",
+        [
+            "Bocca Di Bacco",
+            700008977
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(23:35, 23:59)",
+        [
+            "Bocca Di Bacco",
+            700008977
+        ]
+    ]
+]

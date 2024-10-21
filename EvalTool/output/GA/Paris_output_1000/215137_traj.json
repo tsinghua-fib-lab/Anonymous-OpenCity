@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Siena",
+            700019450
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:25)",
+        [
+            "Inavoué",
+            700060149
+        ]
+    ],
+    [
+        "Do Some Light Household Chores",
+        "(16:32, 18:02)",
+        [
+            "",
+            700037127
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 22:23)",
+        [
+            "Marché Saint-Honoré",
+            700037750
+        ]
+    ],
+    [
+        "Go to Mojito Habana for a fun dining experience.",
+        "(20:54, 21:51)",
+        [
+            "Inavoué",
+            700060149
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(22:08, 23:07)",
+        [
+            "Marché Saint-Honoré",
+            700005836
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:26, 23:59)",
+        [
+            "Marché Saint-Honoré",
+            700005836
+        ]
+    ]
+]

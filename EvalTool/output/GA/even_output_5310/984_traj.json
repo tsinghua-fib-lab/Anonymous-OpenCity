@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Botaniste",
+            700020926
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:12)",
+        [
+            "Maman",
+            700020923
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:58, 17:12)",
+        [
+            "The Casbah",
+            700030490
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:35, 17:59)",
+        [
+            "Dig",
+            700006588
+        ]
+    ],
+    [
+        "Relaxation",
+        "(21:03, 22:41)",
+        [
+            "The Migrant Kitchen",
+            700016762
+        ]
+    ],
+    [
+        "Relaxation",
+        "(22:43, 23:59)",
+        [
+            "The Migrant Kitchen",
+            700016762
+        ]
+    ]
+]

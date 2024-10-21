@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Madison Street & Pike Street",
+            700008165
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:03)",
+        [
+            "",
+            700038512
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(11:27, 12:49)",
+        [
+            "Citi Bike - Madison Street & Pike Street",
+            700008165
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(13:39, 15:09)",
+        [
+            "Citi Bike - Madison Street & Pike Street",
+            700008165
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:53, 17:50)",
+        [
+            "Citi Bike - Madison Street & Pike Street",
+            700008165
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:26, 21:56)",
+        [
+            "",
+            700038518
+        ]
+    ],
+    [
+        "Watch a Sports Game or Movie",
+        "(23:00, 23:59)",
+        [
+            "",
+            700038566
+        ]
+    ]
+]

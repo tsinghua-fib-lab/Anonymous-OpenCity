@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rocking Horse Cafe",
+            700004345
+        ]
+    ],
+    [
+        "Outdoor Walk or Jog",
+        "(10:00, 11:05)",
+        [
+            "Rocking Horse Cafe",
+            700004345
+        ]
+    ],
+    [
+        "Outdoor Walk or Jog",
+        "(11:06, 12:57)",
+        [
+            "Rocking Horse Cafe",
+            700004345
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:40, 16:02)",
+        [
+            "16 Handles",
+            700005855
+        ]
+    ],
+    [
+        "Relaxation & Self-Care",
+        "(16:54, 18:00)",
+        [
+            "Rocking Horse Cafe",
+            700004345
+        ]
+    ],
+    [
+        "Dinner Preparation or Dining Out",
+        "(18:51, 20:24)",
+        [
+            "LOULOU",
+            700004335
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:25, 23:46)",
+        [
+            "LOULOU",
+            700004335
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:48, 23:59)",
+        [
+            "Rocking Horse Cafe",
+            700004345
+        ]
+    ]
+]

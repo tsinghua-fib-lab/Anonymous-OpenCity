@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Participate in an outdoor activity or sport, like playing basketball or going for a bike ride.",
+        "(10:00, 11:35)",
+        [
+            "Pod",
+            700020143
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:47, 15:02)",
+        [
+            "Old Bengal Bar",
+            700029330
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 21:16)",
+        [
+            "New Street Police Garage",
+            700020377
+        ]
+    ],
+    [
+        "Stay at New Street Police Garage",
+        "(20:01, 22:00)",
+        [
+            "New Street Police Garage",
+            700020377
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:49, 23:59)",
+        [
+            "Franco Manca",
+            700032154
+        ]
+    ]
+]

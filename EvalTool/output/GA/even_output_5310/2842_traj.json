@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005851
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:00, 11:03)",
+        [
+            "HSBC",
+            700006144
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:55, 11:59)",
+        [
+            "MatchaBar",
+            700009376
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:51, 17:45)",
+        [
+            "Pierre Loti",
+            700009377
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(17:18, 18:56)",
+        [
+            "Pierre Loti",
+            700009377
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 20:34)",
+        [
+            "Blue Ginger",
+            700005844
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "Dunkin'",
+            700005846
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:07)",
+        [
+            "",
+            700022517
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:15, 14:07)",
+        [
+            "",
+            700022511
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a TV series, taking some time to unwind and enjoy entertainment.",
+        "(16:58, 17:57)",
+        [
+            "",
+            700022517
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a TV series, taking some time to unwind and enjoy entertainment.",
+        "(18:02, 20:06)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Spend time at Mughlai",
+        "(20:40, 23:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Sleep at Mughlai",
+        "(23:01, 23:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

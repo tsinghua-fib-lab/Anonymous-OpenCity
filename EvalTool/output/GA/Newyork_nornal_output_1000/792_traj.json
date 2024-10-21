@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Phoenix Garden",
+            700007839
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(10:00, 12:00)",
+        [
+            "Food Station",
+            700013892
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(12:10, 14:02)",
+        [
+            "Food Station",
+            700013892
+        ]
+    ],
+    [
+        "Downtime/Watch TV",
+        "(14:32, 16:39)",
+        [
+            "Phoenix Garden",
+            700007839
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:21, 23:02)",
+        [
+            "",
+            700009317
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:35, 19:52)",
+        [
+            "",
+            700011159
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:15, 23:59)",
+        [
+            "",
+            700011840
+        ]
+    ]
+]

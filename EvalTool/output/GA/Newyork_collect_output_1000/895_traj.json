@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:21)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Entertainment Time",
+        "(16:24, 18:06)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Stay at Roma Pizza",
+        "(18:20, 19:22)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 23:59)",
+        [
+            "Kenneth A. Mercer, MD",
+            700023846
+        ]
+    ]
+]

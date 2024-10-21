@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Propagation",
+            700008672
+        ]
+    ],
+    [
+        "Go for a walk at a local park or engage in some light exercise.",
+        "(09:00, 10:33)",
+        [
+            "",
+            700000588
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:08, 15:11)",
+        [
+            "City Aikido",
+            700010381
+        ]
+    ],
+    [
+        "Visit City Aikido.",
+        "(16:02, 17:37)",
+        [
+            "City Aikido",
+            700010381
+        ]
+    ],
+    [
+        "Enjoy your time at City Aikido.",
+        "(17:45, 19:06)",
+        [
+            "City Aikido",
+            700010381
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 23:59)",
+        [
+            "Zipcar",
+            700000589
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:39, 23:59)",
+        [
+            "",
+            700010113
+        ]
+    ]
+]

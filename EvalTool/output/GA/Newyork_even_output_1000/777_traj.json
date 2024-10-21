@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002018
+        ]
+    ],
+    [
+        "Go for a run or workout at the gym.",
+        "(10:00, 10:57)",
+        [
+            "",
+            700002018
+        ]
+    ],
+    [
+        "Go for a run or workout at the gym",
+        "(11:55, 13:00)",
+        [
+            "Farmers & the Fish",
+            700018124
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:37, 17:38)",
+        [
+            "Bank of America",
+            700018127
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:43, 21:39)",
+        [
+            "",
+            700002637
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:26, 23:39)",
+        [
+            "",
+            700018131
+        ]
+    ]
+]

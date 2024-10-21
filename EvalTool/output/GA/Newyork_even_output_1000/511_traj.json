@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "First Republic Bank",
+            700006569
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:44)",
+        [
+            "",
+            700016433
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:30, 18:17)",
+        [
+            "Dunkin'",
+            700015280
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(15:46, 17:10)",
+        [
+            "Angelina Paris",
+            700032207
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:04, 18:53)",
+        [
+            "Angelina Paris",
+            700032207
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:13, 23:06)",
+        [
+            "Pick-A-Bagel",
+            700007545
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:50, 23:59)",
+        [
+            "",
+            700015398
+        ]
+    ]
+]

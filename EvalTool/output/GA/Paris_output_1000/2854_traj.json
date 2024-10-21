@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pharmacie Générale",
+            700002945
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:20)",
+        [
+            "Da May Fa",
+            700069611
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:52, 13:22)",
+        [
+            "Da May Fa",
+            700069611
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:22, 18:26)",
+        [
+            "Le Mirliton",
+            700018523
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 18:08)",
+        [
+            "Nars",
+            700034750
+        ]
+    ],
+    [
+        "Relaxation Time at Home",
+        "(18:20, 20:02)",
+        [
+            "Pharmacie Générale",
+            700002945
+        ]
+    ],
+    [
+        "Relaxation Time at Home",
+        "(20:34, 21:54)",
+        [
+            "Atelier Théâtre de Montmartre",
+            700069613
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:59)",
+        [
+            "",
+            700003204
+        ]
+    ]
+]

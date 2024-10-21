@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013860
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:00)",
+        [
+            "Le Pain Quotidien",
+            700007820
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends",
+        "(13:51, 15:15)",
+        [
+            "Le Pain Quotidien",
+            700007820
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 19:41)",
+        [
+            "sathya sai",
+            700009055
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:16, 21:33)",
+        [
+            "sathya sai",
+            700009055
+        ]
+    ],
+    [
+        "Next activity based on Situation 3",
+        "(22:47, 23:59)",
+        [
+            "sathya sai",
+            700009055
+        ]
+    ]
+]

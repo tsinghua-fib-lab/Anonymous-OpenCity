@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Broadway & West 58th Street",
+            700007980
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:56)",
+        [
+            "Le Pain Quotidien",
+            700003457
+        ]
+    ],
+    [
+        "Current place: unknown, stay until 2:00 PM for lunch",
+        "(12:39, 14:35)",
+        [
+            "",
+            700026449
+        ]
+    ],
+    [
+        "Stay until 2:00 PM",
+        "(15:33, 17:28)",
+        [
+            "Le Pain Quotidien",
+            700003457
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:49, 23:11)",
+        [
+            "Chase",
+            700020878
+        ]
+    ],
+    [
+        "Travel to Sarabeth's for evening snacks.",
+        "(20:49, 22:13)",
+        [
+            "",
+            700026444
+        ]
+    ],
+    [
+        "Stay at Sarabeth's for evening snacks.",
+        "(22:41, 23:59)",
+        [
+            "",
+            700026447
+        ]
+    ]
+]

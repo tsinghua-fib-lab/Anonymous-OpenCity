@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030388
+        ]
+    ],
+    [
+        "Go for a walk or light jog in the park",
+        "(09:00, 09:53)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "Go for a walk or light jog in the park",
+        "(10:10, 11:38)",
+        [
+            "",
+            700030388
+        ]
+    ],
+    [
+        "Spend some time reading or catching up on personal projects.",
+        "(11:56, 13:32)",
+        [
+            "Chase",
+            700005785
+        ]
+    ],
+    [
+        "Engage in a fun recreational activity.",
+        "(13:37, 15:15)",
+        [
+            "Chase",
+            700005785
+        ]
+    ],
+    [
+        "Engage in a fun recreational activity.",
+        "(15:37, 17:06)",
+        [
+            "Balthazar",
+            700007822
+        ]
+    ],
+    [
+        "Relax and watch a movie or binge-watch a TV series.",
+        "(17:53, 19:10)",
+        [
+            "Balthazar",
+            700007822
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 23:59)",
+        [
+            "",
+            700003125
+        ]
+    ]
+]

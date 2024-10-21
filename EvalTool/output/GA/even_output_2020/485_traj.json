@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000680
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:39)",
+        [
+            "Original Buffalo Wings",
+            700002284
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:33, 12:10)",
+        [
+            "",
+            700002283
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(13:00, 14:33)",
+        [
+            "causwells burgers",
+            700007466
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:20, 18:23)",
+        [
+            "The UPS Store",
+            700000684
+        ]
+    ],
+    [
+        "Watch a Movie/TV Series",
+        "(18:58, 20:40)",
+        [
+            "tacolicious",
+            700004975
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 23:51)",
+        [
+            "Squat & Gobble",
+            700000683
+        ]
+    ]
+]

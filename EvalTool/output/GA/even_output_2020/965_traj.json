@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CityCarShare",
+            700001197
+        ]
+    ],
+    [
+        "11:00 AM - Exercise",
+        "(10:00, 11:30)",
+        [
+            "Zipcar",
+            700001203
+        ]
+    ],
+    [
+        "go",
+        "(11:43, 13:16)",
+        [
+            "Final final",
+            700005886
+        ]
+    ],
+    [
+        "Next activity planned: Leisure Activity.",
+        "(13:19, 14:58)",
+        [
+            "Final final",
+            700005886
+        ]
+    ],
+    [
+        "Next activity planned: Leisure Activity;",
+        "(15:28, 17:08)",
+        [
+            "Final final",
+            700005886
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:11, 23:59)",
+        [
+            "",
+            700000680
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:02, 23:19)",
+        [
+            "Fuel 24:7",
+            700001200
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001201
+        ]
+    ],
+    [
+        "Stay at Kui Shin Bo 2",
+        "(10:00, 11:04)",
+        [
+            "",
+            700001241
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:50, 14:14)",
+        [
+            "Kopiku",
+            700004970
+        ]
+    ],
+    [
+        "Stay at Kopiku",
+        "(13:53, 14:56)",
+        [
+            "Kopiku",
+            700004970
+        ]
+    ],
+    [
+        "Currently at: Kopiku, stay time.",
+        "(15:53, 17:02)",
+        [
+            "Bay Wheels",
+            700009442
+        ]
+    ],
+    [
+        "Currently at: Petit Explorer, stay time.",
+        "(18:06, 20:10)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:46, 23:59)",
+        [
+            "Vikings Giant Subs",
+            700004972
+        ]
+    ]
+]

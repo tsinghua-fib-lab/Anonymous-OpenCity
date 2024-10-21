@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700006559
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:30)",
+        [
+            "Domino's",
+            700034870
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:57, 12:03)",
+        [
+            "The Pony Bar",
+            700006042
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:19, 13:28)",
+        [
+            "Zucchero e Pomodori",
+            700016362
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 19:41)",
+        [
+            "Buena Onda Mescalera",
+            700030634
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:51, 20:25)",
+        [
+            "NR",
+            700017567
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(20:20, 21:30)",
+        [
+            "Hospital for Special Surgery clinic",
+            700039246
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(22:44, 23:59)",
+        [
+            "Hospital for Special Surgery clinic",
+            700039246
+        ]
+    ]
+]

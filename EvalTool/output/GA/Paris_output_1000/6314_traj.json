@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005698
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:16)",
+        [
+            "",
+            700059781
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:34, 14:46)",
+        [
+            "",
+            700003030
+        ]
+    ],
+    [
+        "Social Time",
+        "(14:01, 16:10)",
+        [
+            "Place du Colonel Fabien",
+            700004343
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:48, 18:10)",
+        [
+            "Place du Colonel Fabien",
+            700004343
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:27, 20:02)",
+        [
+            "Place du Colonel Fabien",
+            700004343
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:40, 23:59)",
+        [
+            "",
+            700005698
+        ]
+    ]
+]

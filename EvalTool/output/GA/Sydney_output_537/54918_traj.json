@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Macquarie Hotel",
+            700020861
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:57)",
+        [
+            "Macquarie Hotel",
+            700020861
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:36, 17:43)",
+        [
+            "Macquarie Hotel",
+            700020861
+        ]
+    ],
+    [
+        "Prepare a Simple Dinner",
+        "(18:23, 19:56)",
+        [
+            "Macquarie Hotel",
+            700020861
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:56, 23:43)",
+        [
+            "Australia Post Parcel Locker",
+            700020878
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "Liverpool Academy of Music",
+            700020886
+        ]
+    ]
+]

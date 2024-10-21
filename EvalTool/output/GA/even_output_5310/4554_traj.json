@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Union Square Green Market",
+            700003346
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:33)",
+        [
+            "Citi Bike - East 17th Street & Broadway",
+            700008028
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:16, 15:47)",
+        [
+            "",
+            700005795
+        ]
+    ],
+    [
+        "Afternoon Hobby",
+        "(16:17, 17:57)",
+        [
+            "Union Square Green Market",
+            700003346
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:52, 20:05)",
+        [
+            "Union Square Green Market",
+            700003346
+        ]
+    ],
+    [
+        "Wind Down",
+        "(20:27, 21:54)",
+        [
+            "",
+            700002363
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "Juice Generation",
+            700016868
+        ]
+    ]
+]

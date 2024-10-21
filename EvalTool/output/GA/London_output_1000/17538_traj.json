@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Peabody Hammersmith Estate",
+            700011400
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:10)",
+        [
+            "Peabody Hammersmith Estate",
+            700011400
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:44, 15:26)",
+        [
+            "Distillers",
+            700008224
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:42, 21:59)",
+        [
+            "Duke of Cornwall",
+            700008223
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(22:00, 23:31)",
+        [
+            "Peabody Hammersmith Estate",
+            700011400
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(23:42, 23:59)",
+        [
+            "Peabody Hammersmith Estate",
+            700011400
+        ]
+    ]
+]

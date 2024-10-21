@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Aura's",
+            700038762
+        ]
+    ],
+    [
+        "Enjoy leisurely breakfast with coffee.",
+        "(10:00, 11:00)",
+        [
+            "Strangelove Bar NYC",
+            700023385
+        ]
+    ],
+    [
+        "Enjoy leisurely breakfast with coffee",
+        "(11:52, 13:50)",
+        [
+            "Strangelove Bar NYC",
+            700023385
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:07, 16:56)",
+        [
+            "Manhattan Sikh Center",
+            700016448
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 20:31)",
+        [
+            "Cafe Luce",
+            700038182
+        ]
+    ],
+    [
+        "Wind down the day by playing board games or chatting with family/friends.",
+        "(21:52, 23:10)",
+        [
+            "Cafe Luce",
+            700038182
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:34, 23:59)",
+        [
+            "",
+            700025744
+        ]
+    ]
+]

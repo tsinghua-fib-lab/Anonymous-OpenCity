@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700004347
+        ]
+    ],
+    [
+        "Free Time or Personal Project",
+        "(09:00, 10:54)",
+        [
+            "Starbucks",
+            700004347
+        ]
+    ],
+    [
+        "Free Time or Personal Project",
+        "(11:45, 14:07)",
+        [
+            "Starbucks",
+            700004347
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:07, 19:58)",
+        [
+            "Citi Bike",
+            700008202
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 19:21)",
+        [
+            "",
+            700004356
+        ]
+    ],
+    [
+        "Visit a local restaurant for dinner",
+        "(20:11, 22:32)",
+        [
+            "",
+            700004356
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:45, 23:52)",
+        [
+            "Grand Sichuan Eastern",
+            700004334
+        ]
+    ]
+]

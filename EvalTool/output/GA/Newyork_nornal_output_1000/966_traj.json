@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003084
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:34)",
+        [
+            "Da Silvano",
+            700006539
+        ]
+    ],
+    [
+        "Go for a morning jog or yoga session to start the day with some physical activity.",
+        "(12:09, 13:44)",
+        [
+            "Da Silvano",
+            700006539
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 19:09)",
+        [
+            "Délice & Sarrasin",
+            700035848
+        ]
+    ],
+    [
+        "Stay at Délice & Sarrasin",
+        "(17:59, 19:01)",
+        [
+            "Blue Ribbon Restaurant",
+            700005279
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:33, 23:51)",
+        [
+            "Délice & Sarrasin",
+            700035848
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "",
+            700020349
+        ]
+    ]
+]

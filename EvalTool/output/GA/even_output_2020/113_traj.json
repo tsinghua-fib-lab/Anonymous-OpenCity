@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Falafel City",
+            700005195
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:39)",
+        [
+            "Falafel City",
+            700005195
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:56, 12:54)",
+        [
+            "Falafel City",
+            700005195
+        ]
+    ],
+    [
+        "Transitioning from Brunch with Friends",
+        "(13:22, 14:43)",
+        [
+            "The TL Cafe and Laundromat",
+            700010155
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:48, 18:05)",
+        [
+            "Zombie Village",
+            700001863
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:25, 23:59)",
+        [
+            "The Library",
+            700009309
+        ]
+    ],
+    [
+        "Go to The Library.",
+        "(22:11, 23:59)",
+        [
+            "The Library",
+            700009309
+        ]
+    ]
+]

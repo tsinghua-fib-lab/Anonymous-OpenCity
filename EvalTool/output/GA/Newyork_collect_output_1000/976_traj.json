@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:42)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:36, 15:00)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:54, 15:58)",
+        [
+            "Craft + Carry",
+            700020944
+        ]
+    ],
+    [
+        "Relax with a movie or binge-watch a series on your favorite streaming platform.",
+        "(19:16, 20:57)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Relax with a movie or binge-watch a series",
+        "(21:47, 23:17)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Relax with a movie or binge-watch a series",
+        "(23:35, 23:59)",
+        [
+            "iPark",
+            700018136
+        ]
+    ]
+]

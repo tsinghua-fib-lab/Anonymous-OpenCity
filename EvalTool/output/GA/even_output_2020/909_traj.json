@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sushi Zone",
+            700002659
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:24)",
+        [
+            "Chinese American International School",
+            700000223
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:12, 17:23)",
+        [
+            "Sessions Training Center",
+            700011078
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:00, 20:31)",
+        [
+            "",
+            700008683
+        ]
+    ],
+    [
+        "Wind down the day by reading a book or listening to music",
+        "(22:38, 23:59)",
+        [
+            "Sushi Zone",
+            700002659
+        ]
+    ]
+]

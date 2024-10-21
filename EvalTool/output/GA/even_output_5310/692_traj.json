@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003593
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:01)",
+        [
+            "",
+            700011137
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:23, 13:38)",
+        [
+            "NY Bagels & Cafe",
+            700010807
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:31, 16:00)",
+        [
+            "NY Bagels & Cafe",
+            700010807
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:37, 18:08)",
+        [
+            "NY Bagels & Cafe",
+            700010807
+        ]
+    ],
+    [
+        "Dinner Preparation & Cooking",
+        "(18:20, 20:13)",
+        [
+            "NY Bagels & Cafe",
+            700010807
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(21:00, 22:50)",
+        [
+            "NY Bagels & Cafe",
+            700010807
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:09, 23:59)",
+        [
+            "Starbucks",
+            700024683
+        ]
+    ]
+]

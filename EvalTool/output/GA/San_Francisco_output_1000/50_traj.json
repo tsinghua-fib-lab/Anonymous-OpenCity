@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Portsmouth Square Plaza Garage",
+            700000839
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:36)",
+        [
+            "Sam Wo's",
+            700001332
+        ]
+    ],
+    [
+        "Lunch Preparation and Eating",
+        "(12:03, 13:13)",
+        [
+            "Portsmouth Square Plaza Garage",
+            700000839
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 15:45)",
+        [
+            "Hotpot Champ",
+            700012510
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:39, 23:47)",
+        [
+            "Oolong Noodles",
+            700003837
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:31, 23:59)",
+        [
+            "Portsmouth Square Plaza Garage",
+            700000839
+        ]
+    ]
+]

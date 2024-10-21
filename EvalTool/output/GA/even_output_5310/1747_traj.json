@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700025676
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(10:00, 11:00)",
+        [
+            "",
+            700010698
+        ]
+    ],
+    [
+        "Read a book or enjoy a podcast",
+        "(11:52, 12:53)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "Read a book or enjoy a podcast",
+        "(13:43, 14:57)",
+        [
+            "",
+            700025676
+        ]
+    ],
+    [
+        "Read a book or enjoy a podcast",
+        "(15:20, 17:02)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 20:17)",
+        [
+            "",
+            700010700
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:07, 23:59)",
+        [
+            "NYC Discount Pharmacy",
+            700030624
+        ]
+    ]
+]

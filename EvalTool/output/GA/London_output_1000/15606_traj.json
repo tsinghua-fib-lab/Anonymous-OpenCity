@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:54)",
+        [
+            "",
+            700059878
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:59, 12:54)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:04, 14:58)",
+        [
+            "Recycling Bins",
+            700014848
+        ]
+    ],
+    [
+        "Relaxation and TV/Movies",
+        "(15:45, 17:48)",
+        [
+            "Recycling Bins",
+            700014848
+        ]
+    ],
+    [
+        "Light Dinner Preparation and Family Time",
+        "(18:18, 20:10)",
+        [
+            "",
+            700017167
+        ]
+    ],
+    [
+        "Light Dinner Preparation and Family Time",
+        "(20:33, 21:23)",
+        [
+            "",
+            700008249
+        ]
+    ],
+    [
+        "Evening Reflection and Planning",
+        "(22:22, 23:53)",
+        [
+            "Recycling Bins",
+            700014848
+        ]
+    ],
+    [
+        "Evening Reflection and Planning",
+        "(23:53, 23:59)",
+        [
+            "",
+            700017167
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sachi",
+            700006456
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:03)",
+        [
+            "Sachi",
+            700006456
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:14, 14:39)",
+        [
+            "Six Happiness",
+            700017843
+        ]
+    ],
+    [
+        "Lunch",
+        "(15:40, 17:06)",
+        [
+            "Townhouse Diner",
+            700006707
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(17:51, 20:06)",
+        [
+            "Townhouse Diner",
+            700006707
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:59, 23:59)",
+        [
+            "",
+            700011030
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:57, 23:08)",
+        [
+            "Sai Gon Dep",
+            700017844
+        ]
+    ],
+    [
+        "Next place and engage",
+        "(23:52, 23:59)",
+        [
+            "Six Happiness",
+            700017843
+        ]
+    ]
+]

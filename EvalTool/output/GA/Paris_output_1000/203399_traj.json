@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700067237
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:48)",
+        [
+            "Les Tours de Notre-Dame",
+            700002410
+        ]
+    ],
+    [
+        "Continue leisure time",
+        "(14:25, 15:55)",
+        [
+            "Les Tours de Notre-Dame",
+            700002410
+        ]
+    ],
+    [
+        "Continue leisure time",
+        "(16:17, 18:03)",
+        [
+            "Les Tours de Notre-Dame",
+            700002410
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:40, 20:00)",
+        [
+            "Les Tours de Notre-Dame",
+            700002410
+        ]
+    ],
+    [
+        "Go to Le Petit Cardinal and wind down.",
+        "(20:39, 22:16)",
+        [
+            "",
+            700005752
+        ]
+    ],
+    [
+        "Stay at Les Tours de Notre-Dame for leisure.",
+        "(22:53, 23:59)",
+        [
+            "Les Tours de Notre-Dame",
+            700002410
+        ]
+    ]
+]

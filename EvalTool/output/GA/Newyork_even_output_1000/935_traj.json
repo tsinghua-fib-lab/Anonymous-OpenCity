@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - 9th Avenue & West 22nd Street",
+            700007945
+        ]
+    ],
+    [
+        "Lunch",
+        "(10:00, 10:50)",
+        [
+            "",
+            700002525
+        ]
+    ],
+    [
+        "Lunch",
+        "(11:57, 13:05)",
+        [
+            "Blossom- Chelsea",
+            700008701
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:04, 15:51)",
+        [
+            "Blossom- Chelsea",
+            700008701
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:46, 20:35)",
+        [
+            "",
+            700002757
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(23:30, 23:59)",
+        [
+            "La Bergamote",
+            700011350
+        ]
+    ]
+]

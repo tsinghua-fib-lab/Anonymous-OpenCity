@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:51)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:35, 16:09)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:20, 17:44)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(18:04, 22:42)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 23:59)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ]
+]

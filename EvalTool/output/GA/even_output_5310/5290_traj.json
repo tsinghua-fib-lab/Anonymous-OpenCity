@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Carmine's",
+            700006498
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:37)",
+        [
+            "Hard Rock Cafe",
+            700003256
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:41, 17:51)",
+        [
+            "Guy’s American Kitchen & Bar",
+            700010785
+        ]
+    ],
+    [
+        "You are currently at Hard Rock Cafe enjoying a meal.",
+        "(20:11, 22:46)",
+        [
+            "",
+            700026588
+        ]
+    ],
+    [
+        "Wind down for the evening by watching a movie or catching up on a series.",
+        "(22:59, 23:59)",
+        [
+            "",
+            700026591
+        ]
+    ]
+]

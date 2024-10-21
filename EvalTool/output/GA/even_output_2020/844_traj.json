@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Holy Family Day Home",
+            700002289
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(10:00, 10:59)",
+        [
+            "Holy Family Day Home",
+            700002289
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(11:05, 12:50)",
+        [
+            "Deja Vu Pizza & Pasta",
+            700010622
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:30, 14:55)",
+        [
+            "Deja Vu Pizza & Pasta",
+            700010622
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:57, 16:29)",
+        [
+            "Deja Vu Pizza & Pasta",
+            700010622
+        ]
+    ],
+    [
+        "Afternoon Sports",
+        "(16:47, 18:14)",
+        [
+            "Angie's",
+            700004777
+        ]
+    ],
+    [
+        "Continue with Dinner Preparation and Meal",
+        "(18:13, 20:06)",
+        [
+            "Deja Vu Pizza & Pasta",
+            700010622
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 22:56)",
+        [
+            "Salmon Bar",
+            700002469
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "Boys & Girls Club",
+            700010808
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "West End Sidings Estate",
+            700010380
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 11:58)",
+        [
+            "West End Sidings Estate",
+            700010380
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:10, 14:14)",
+        [
+            "West End Sidings Estate",
+            700010380
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:45, 18:05)",
+        [
+            "",
+            700010200
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:15, 23:46)",
+        [
+            "Curled Leaf",
+            700080642
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:22, 23:59)",
+        [
+            "",
+            700019260
+        ]
+    ]
+]

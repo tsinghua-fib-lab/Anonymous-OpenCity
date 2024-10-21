@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:37)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:57, 18:22)",
+        [
+            "Street Taco",
+            700006239
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:29, 21:57)",
+        [
+            "Thai V Express",
+            700017625
+        ]
+    ],
+    [
+        "Relax at home watching TV",
+        "(23:37, 23:59)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ]
+]

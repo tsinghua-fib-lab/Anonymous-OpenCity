@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001629
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:00, 11:40)",
+        [
+            "",
+            700001629
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(11:50, 13:21)",
+        [
+            "Last Rites",
+            700003646
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:22, 16:17)",
+        [
+            "Il Casaro Pizzeria",
+            700009176
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:48, 22:51)",
+        [
+            "",
+            700013250
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "2175 Market Street",
+            700014423
+        ]
+    ]
+]

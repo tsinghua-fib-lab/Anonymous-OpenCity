@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Akira",
+            700005338
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:34)",
+        [
+            "",
+            700001240
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:32, 14:02)",
+        [
+            "Akira",
+            700005338
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:59, 18:22)",
+        [
+            "Saint Gregory Nyssen Episcopal Church",
+            700000265
+        ]
+    ],
+    [
+        "Visit a Local Market or Shopping",
+        "(19:49, 21:15)",
+        [
+            "Bay Area Smile",
+            700010167
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Taxi Stand at Holiday Inn Golden Gateway",
+            700009948
+        ]
+    ]
+]

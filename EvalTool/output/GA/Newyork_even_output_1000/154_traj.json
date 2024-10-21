@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "San Carlo Osteria Piemonte",
+            700016760
+        ]
+    ],
+    [
+        "Go for a Brunch with Friends",
+        "(09:00, 10:39)",
+        [
+            "San Carlo Osteria Piemonte",
+            700016760
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:04, 16:09)",
+        [
+            "Bistro les Amis",
+            700023859
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 21:41)",
+        [
+            "Famous Ben's Pizza",
+            700022207
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(18:21, 19:42)",
+        [
+            "Dominique Ansel Bakery",
+            700008550
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:57, 21:19)",
+        [
+            "San Carlo Osteria Piemonte",
+            700016760
+        ]
+    ],
+    [
+        "Go to Dominique Ansel Bakery from Dinner Preparation and Family Time.",
+        "(22:13, 23:47)",
+        [
+            "Dominique Ansel Bakery",
+            700008550
+        ]
+    ],
+    [
+        "Go to Dominique Ansel Bakery",
+        "(23:49, 23:59)",
+        [
+            "Dominique Ansel Bakery",
+            700008550
+        ]
+    ]
+]

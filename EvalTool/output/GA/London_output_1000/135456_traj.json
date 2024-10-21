@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(10:00, 10:57)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(11:51, 12:59)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Read or catch up on leisure activities",
+        "(13:45, 15:11)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Relax and unwind",
+        "(16:06, 17:27)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Prepare and have dinner",
+        "(17:55, 18:58)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 23:59)",
+        [
+            "Fitness First",
+            700019570
+        ]
+    ],
+    [
+        "Relax and unwind",
+        "(21:19, 23:18)",
+        [
+            "Fitness First",
+            700019570
+        ]
+    ],
+    [
+        "Relax and unwind",
+        "(23:15, 23:59)",
+        [
+            "Fitness First",
+            700019570
+        ]
+    ]
+]

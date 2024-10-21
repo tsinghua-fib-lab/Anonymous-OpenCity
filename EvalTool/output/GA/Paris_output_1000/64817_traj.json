@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:32)",
+        [
+            "",
+            700004278
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(14:28, 16:18)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(17:26, 18:55)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:40, 22:10)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(22:19, 23:59)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ]
+]

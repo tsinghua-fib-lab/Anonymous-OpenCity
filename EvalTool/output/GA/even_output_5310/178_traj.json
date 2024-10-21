@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700006037
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(09:00, 10:07)",
+        [
+            "Unique Green",
+            700041296
+        ]
+    ],
+    [
+        "Catch up on chores and errands",
+        "(10:13, 11:45)",
+        [
+            "Unique Green",
+            700041296
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:46, 15:29)",
+        [
+            "",
+            700006037
+        ]
+    ],
+    [
+        "Watch a movie or TV show",
+        "(16:01, 18:05)",
+        [
+            "",
+            700001045
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 21:53)",
+        [
+            "Sophie's Cuban Cuisine",
+            700016391
+        ]
+    ]
+]

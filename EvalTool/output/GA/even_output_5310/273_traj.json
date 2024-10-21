@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018008
+        ]
+    ],
+    [
+        "Morning Relaxation",
+        "(10:00, 11:29)",
+        [
+            "",
+            700018008
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:40, 13:07)",
+        [
+            "",
+            700018008
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:19, 14:58)",
+        [
+            "Link NYC",
+            700017644
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 20:32)",
+        [
+            "Citi Bike - East 68th Street & Madison Avenue",
+            700021682
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 19:10)",
+        [
+            "Citi Bike - East 68th Street & Madison Avenue",
+            700021682
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:31, 23:59)",
+        [
+            "",
+            700017870
+        ]
+    ],
+    [
+        "Enjoy a movie at Producers Club Theaters and Bar.",
+        "(23:28, 23:59)",
+        [
+            "Link NYC",
+            700017688
+        ]
+    ]
+]

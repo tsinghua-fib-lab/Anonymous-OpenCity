@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020153
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:20)",
+        [
+            "McDonald's",
+            700005280
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 14:29)",
+        [
+            "",
+            700020153
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:02, 22:22)",
+        [
+            "Five Guys Fresh Pizza",
+            700016618
+        ]
+    ],
+    [
+        "Stay at Five Guys Fresh Pizza",
+        "(23:36, 23:59)",
+        [
+            "Five Guys Fresh Pizza",
+            700016618
+        ]
+    ]
+]

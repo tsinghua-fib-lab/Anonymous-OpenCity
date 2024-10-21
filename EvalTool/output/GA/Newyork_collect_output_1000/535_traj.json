@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:22)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Reading or Learning Time",
+        "(11:17, 13:06)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 19:18)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:18, 20:12)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(20:58, 23:02)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "Auto Motion",
+            700018140
+        ]
+    ]
+]

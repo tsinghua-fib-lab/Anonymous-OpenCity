@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Steep Brew",
+            700005900
+        ]
+    ],
+    [
+        "Go for a Walk or Exercise",
+        "(10:00, 11:01)",
+        [
+            "Next Level Burger",
+            700011024
+        ]
+    ],
+    [
+        "Go for a Walk or Exercise",
+        "(11:05, 12:55)",
+        [
+            "Next Level Burger",
+            700011024
+        ]
+    ],
+    [
+        "Catch Up on Hobbies",
+        "(13:45, 15:43)",
+        [
+            "Next Level Burger",
+            700011024
+        ]
+    ],
+    [
+        "Catch Up on Hobbies",
+        "(16:08, 18:05)",
+        [
+            "Next Level Burger",
+            700011024
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:08, 23:01)",
+        [
+            "",
+            700013188
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(23:25, 23:59)",
+        [
+            "Next Level Burger",
+            700011024
+        ]
+    ]
+]

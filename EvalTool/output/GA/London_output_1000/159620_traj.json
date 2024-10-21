@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 11:57)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:10, 14:00)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:45, 18:48)",
+        [
+            "",
+            700019759
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:15, 22:14)",
+        [
+            "Zipcar Van",
+            700015811
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:22, 23:59)",
+        [
+            "",
+            700065313
+        ]
+    ]
+]

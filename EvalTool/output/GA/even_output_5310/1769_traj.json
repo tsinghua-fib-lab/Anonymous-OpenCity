@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Club A Steakhouse",
+            700030620
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(10:00, 11:56)",
+        [
+            "The Blasket",
+            700031417
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:45, 13:07)",
+        [
+            "The Blasket",
+            700031417
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:51, 19:39)",
+        [
+            "",
+            700001294
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:37, 22:55)",
+        [
+            "Mr Chow",
+            700006414
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:39, 23:59)",
+        [
+            "Lin's Gourmet",
+            700031416
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(23:48, 23:59)",
+        [
+            "Club A Steakhouse",
+            700030620
+        ]
+    ]
+]

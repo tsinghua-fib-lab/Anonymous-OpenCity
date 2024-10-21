@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700074085
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:20)",
+        [
+            "",
+            700074086
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:08, 12:00)",
+        [
+            "",
+            700074085
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(17:37, 19:11)",
+        [
+            "",
+            700074085
+        ]
+    ],
+    [
+        "Spend time at Le Pop-up du Label",
+        "(19:11, 20:37)",
+        [
+            "Le Pop-up du Label",
+            700004422
+        ]
+    ],
+    [
+        "Next arrangement for Situation 4",
+        "(21:05, 22:34)",
+        [
+            "Le Pop-up du Label",
+            700004422
+        ]
+    ],
+    [
+        "Next arrangement for Situation 4",
+        "(22:47, 23:59)",
+        [
+            "Le Pop-up du Label",
+            700004422
+        ]
+    ],
+    [
+        "Stay",
+        "(23:58, 23:59)",
+        [
+            "Le Pop-up du Label",
+            700004422
+        ]
+    ]
+]

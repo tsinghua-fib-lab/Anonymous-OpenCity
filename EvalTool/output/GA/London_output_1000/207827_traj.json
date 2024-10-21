@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Have breakfast",
+        "(09:00, 10:08)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "stay",
+        "(10:40, 12:01)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "stay",
+        "(13:04, 14:14)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "stay at Hola Paella",
+        "(14:38, 16:07)",
+        [
+            "Appennino",
+            700019571
+        ]
+    ],
+    [
+        "Next hobby activity",
+        "(17:03, 19:09)",
+        [
+            "",
+            700025354
+        ]
+    ],
+    [
+        "Next creative hobby activity",
+        "(19:06, 20:54)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Creative hobby activity",
+        "(21:32, 23:59)",
+        [
+            "Pitt Cue",
+            700025948
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:23, 23:59)",
+        [
+            "",
+            700020450
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700012717
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:08)",
+        [
+            "",
+            700012717
+        ]
+    ],
+    [
+        "Go to McDonald's",
+        "(11:29, 13:05)",
+        [
+            "Saint-Honoré - Musée du Louvre",
+            700040654
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:38, 15:24)",
+        [
+            "",
+            700012717
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:54, 17:05)",
+        [
+            "Saint-Honoré - Musée du Louvre",
+            700040654
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:14, 19:10)",
+        [
+            "Saint-Honoré - Musée du Louvre",
+            700040654
+        ]
+    ],
+    [
+        "Stay at Saint-Honoré - Musée du Louvre",
+        "(19:58, 21:22)",
+        [
+            "Saint-Honoré - Musée du Louvre",
+            700040654
+        ]
+    ],
+    [
+        "Stay at Saint-Honoré - Musée du Louvre.",
+        "(21:33, 23:10)",
+        [
+            "Saint-Honoré - Musée du Louvre",
+            700040654
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "Les Aigles",
+            700022260
+        ]
+    ]
+]

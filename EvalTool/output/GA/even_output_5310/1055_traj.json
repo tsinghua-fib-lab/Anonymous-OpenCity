@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000801
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:02)",
+        [
+            "Walgreens",
+            700017553
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 15:35)",
+        [
+            "Walgreens",
+            700017553
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:51, 20:28)",
+        [
+            "Starbucks",
+            700017554
+        ]
+    ],
+    [
+        "Movie Night",
+        "(21:30, 22:51)",
+        [
+            "Walgreens",
+            700017553
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:43, 23:59)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ]
+]

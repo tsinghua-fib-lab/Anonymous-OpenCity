@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "FDNY Engine 8/Ladder 2/Battalion 8",
+            700000530
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:24)",
+        [
+            "Duane Reade",
+            700020312
+        ]
+    ],
+    [
+        "Household chores.",
+        "(15:31, 17:06)",
+        [
+            "Duane Reade",
+            700020312
+        ]
+    ],
+    [
+        "Household Chores",
+        "(17:14, 19:54)",
+        [
+            "Duane Reade",
+            700020312
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(19:20, 20:46)",
+        [
+            "Duane Reade",
+            700020312
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 23:59)",
+        [
+            "FDNY Engine 8/Ladder 2/Battalion 8",
+            700000530
+        ]
+    ]
+]

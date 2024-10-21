@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002846
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:06)",
+        [
+            "Cafe Kitsune",
+            700034623
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:01, 17:38)",
+        [
+            "Dante",
+            700021858
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(18:26, 19:56)",
+        [
+            "Dante",
+            700021858
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:41, 20:48)",
+        [
+            "",
+            700001049
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(21:10, 23:10)",
+        [
+            "Cafe Kitsune",
+            700034623
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(23:12, 23:59)",
+        [
+            "Cafe Kitsune",
+            700034623
+        ]
+    ]
+]

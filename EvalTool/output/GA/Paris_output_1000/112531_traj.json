@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Le Point Ephémère",
+            700000738
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:15)",
+        [
+            "Maison de la vie associative et citoyenne du 10e arrondissement",
+            700016866
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:08, 14:16)",
+        [
+            "",
+            700024650
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:05, 18:28)",
+        [
+            "",
+            700024650
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:45, 23:14)",
+        [
+            "",
+            700047241
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:53, 23:59)",
+        [
+            "",
+            700072960
+        ]
+    ]
+]

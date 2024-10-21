@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Live Fit Gym",
+            700005119
+        ]
+    ],
+    [
+        "Go for a walk at a local park or engage in some light exercise.",
+        "(09:00, 10:20)",
+        [
+            "Bite",
+            700008883
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:08, 12:23)",
+        [
+            "Bite",
+            700008883
+        ]
+    ],
+    [
+        "Go have coffee or tea",
+        "(16:02, 17:24)",
+        [
+            "Aces",
+            700000492
+        ]
+    ],
+    [
+        "Enjoy your time at Aces.",
+        "(17:45, 19:18)",
+        [
+            "Aces",
+            700000492
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 20:45)",
+        [
+            "",
+            700000762
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:39, 23:59)",
+        [
+            "",
+            700008704
+        ]
+    ]
+]

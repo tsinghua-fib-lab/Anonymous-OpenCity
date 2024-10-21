@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Spuntino",
+            700004753
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:08)",
+        [
+            "La Boulange",
+            700000890
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(11:02, 13:06)",
+        [
+            "La Boulange",
+            700000890
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(13:20, 14:29)",
+        [
+            "La Boulange",
+            700000890
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:29, 16:03)",
+        [
+            "La Boulange",
+            700000890
+        ]
+    ],
+    [
+        "Engage in a leisure activity.",
+        "(16:24, 17:47)",
+        [
+            "La Boulange",
+            700000890
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:16, 19:55)",
+        [
+            "Chief Sullivan's",
+            700004986
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "La Boulange",
+            700000890
+        ]
+    ]
+]

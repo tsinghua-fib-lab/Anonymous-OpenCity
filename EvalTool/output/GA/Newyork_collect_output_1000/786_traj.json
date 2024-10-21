@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(09:00, 10:53)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:03, 14:00)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "Leisure or Hobby Time.",
+        "(12:48, 14:48)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:32, 20:39)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Socializing with Friends or Family",
+        "(19:06, 20:54)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "Socializing with Friends or Family",
+        "(22:01, 23:29)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Dinner Preparation or Dining Out",
+        "(23:53, 23:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sam Sunny",
+            700000270
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(10:00, 10:59)",
+        [
+            "Concorde Medical Group",
+            700023816
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(11:05, 12:14)",
+        [
+            "Concorde Medical Group",
+            700023816
+        ]
+    ],
+    [
+        "Leisure Activity (Reading/Watching TV)",
+        "(12:40, 13:57)",
+        [
+            "Concorde Medical Group",
+            700023816
+        ]
+    ],
+    [
+        "Community or Social Activity",
+        "(14:12, 15:48)",
+        [
+            "Concorde Medical Group",
+            700023816
+        ]
+    ],
+    [
+        "Afternoon Snack and Downtime",
+        "(16:21, 18:06)",
+        [
+            "Sam Sunny",
+            700000270
+        ]
+    ],
+    [
+        "Community or Social Activity",
+        "(18:36, 20:02)",
+        [
+            "Concorde Medical Group",
+            700023816
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 21:51)",
+        [
+            "Lena's Italian Kitchen",
+            700014950
+        ]
+    ]
+]

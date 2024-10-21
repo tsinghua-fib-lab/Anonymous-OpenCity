@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700007742
+        ]
+    ],
+    [
+        "Move to Place 7 at 11:00 AM",
+        "(10:00, 12:09)",
+        [
+            "Quay Espresso Bar",
+            700008385
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:28, 15:06)",
+        [
+            "Quay Seafood",
+            700006942
+        ]
+    ],
+    [
+        "Move to Quay Seafood",
+        "(15:23, 17:04)",
+        [
+            "Quay Seafood",
+            700006942
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:40, 21:37)",
+        [
+            "",
+            700007741
+        ]
+    ],
+    [
+        "Go to JB's Bar and Grill for a meal.",
+        "(20:02, 22:25)",
+        [
+            "",
+            700007741
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "",
+            700006640
+        ]
+    ]
+]

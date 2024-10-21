@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700003763
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:17)",
+        [
+            "Chelsea Market Passage",
+            700007255
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 15:38)",
+        [
+            "",
+            700031466
+        ]
+    ],
+    [
+        "Relax and watch a movie or series",
+        "(15:25, 17:01)",
+        [
+            "Citi Bike - 10 Av / W 14 St @ The High Line",
+            700008199
+        ]
+    ],
+    [
+        "Relax and watch a movie or series.",
+        "(17:21, 20:01)",
+        [
+            "The Standard Ice Rink",
+            700008653
+        ]
+    ],
+    [
+        "Relax and watch a movie or series.",
+        "(21:03, 23:07)",
+        [
+            "The Standard Ice Rink",
+            700008653
+        ]
+    ],
+    [
+        "Next arrangement is to stay where you are and prep for the next day.",
+        "(23:58, 23:59)",
+        [
+            "Shake Shack",
+            700040169
+        ]
+    ]
+]

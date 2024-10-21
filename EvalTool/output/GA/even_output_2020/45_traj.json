@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Lady Luck Cafe",
+            700008864
+        ]
+    ],
+    [
+        "Lunch Preparation & Eating",
+        "(10:00, 11:05)",
+        [
+            "Hong Kong Clay Pot Restaurant",
+            700003010
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:31, 13:31)",
+        [
+            "Red's Place",
+            700004235
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:22, 19:09)",
+        [
+            "Lady Luck Cafe",
+            700008864
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:30, 20:59)",
+        [
+            "Lady Luck Cafe",
+            700008864
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:12, 23:59)",
+        [
+            "",
+            700009340
+        ]
+    ]
+]

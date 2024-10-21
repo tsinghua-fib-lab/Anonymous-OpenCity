@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of America",
+            700000644
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:25)",
+        [
+            "Fueling Station",
+            700002064
+        ]
+    ],
+    [
+        "Relaxation/Entertainment",
+        "(14:38, 16:04)",
+        [
+            "Fueling Station",
+            700002064
+        ]
+    ],
+    [
+        "Cooking and Preparing Dinner",
+        "(16:22, 18:19)",
+        [
+            "Fueling Station",
+            700002064
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:15, 20:48)",
+        [
+            "Fiorella Polk Street",
+            700004277
+        ]
+    ],
+    [
+        "Next Arrangements: Go to Fueling Station",
+        "(20:14, 21:54)",
+        [
+            "Aux Delices Vietnamese Restaurant",
+            700002087
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:31, 23:59)",
+        [
+            "Tonic",
+            700000643
+        ]
+    ]
+]

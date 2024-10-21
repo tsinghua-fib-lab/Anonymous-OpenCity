@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:01)",
+        [
+            "",
+            700068292
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(14:04, 16:36)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "Socialize with friends or family",
+        "(17:24, 19:04)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 21:31)",
+        [
+            "",
+            700004899
+        ]
+    ],
+    [
+        "Situation_8",
+        "(22:46, 23:59)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "Go to Starbucks",
+        "(23:47, 23:59)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ]
+]

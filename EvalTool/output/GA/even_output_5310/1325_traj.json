@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "CVS Pharmacy",
+            700038287
+        ]
+    ],
+    [
+        "next_activity",
+        "(09:00, 10:09)",
+        [
+            "",
+            700014633
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:52, 12:00)",
+        [
+            "Citi Bike - Broadway & East 14th Street",
+            700007968
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:44, 18:12)",
+        [
+            "Citi Bike - Broadway & East 14th Street",
+            700007968
+        ]
+    ],
+    [
+        "Stay and continue Leisure Reading.",
+        "(17:14, 19:06)",
+        [
+            "Citi Bike - Broadway & East 14th Street",
+            700007968
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 23:04)",
+        [
+            "",
+            700001222
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:54, 23:04)",
+        [
+            "Mount Sinai Urgent Care Center",
+            700013560
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Broadway & West 53rd Street",
+            700007978
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:18)",
+        [
+            "PNC Bank",
+            700016361
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(11:21, 13:09)",
+        [
+            "Citi Bike - Broadway & West 53rd Street",
+            700007978
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:43, 17:53)",
+        [
+            "",
+            700017977
+        ]
+    ],
+    [
+        "Grocery Shopping or Errands",
+        "(17:55, 19:07)",
+        [
+            "Citi Bike - Broadway & West 53rd Street",
+            700007978
+        ]
+    ],
+    [
+        "Grocery Shopping or Errands",
+        "(19:24, 20:51)",
+        [
+            "Angelo's Pizza",
+            700016360
+        ]
+    ],
+    [
+        "Grocery Shopping or Errands",
+        "(21:45, 23:48)",
+        [
+            "Pret A Manger",
+            700015019
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(23:48, 23:59)",
+        [
+            "PHD Terrace",
+            700006317
+        ]
+    ]
+]

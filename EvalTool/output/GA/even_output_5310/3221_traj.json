@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700036880
+        ]
+    ],
+    [
+        "Go for a morning walk or jog in a nearby park to enjoy the fresh air.",
+        "(10:00, 11:40)",
+        [
+            "",
+            700036886
+        ]
+    ],
+    [
+        "Go for a morning walk or jog in a nearby park to enjoy the fresh air.",
+        "(11:42, 13:35)",
+        [
+            "",
+            700036880
+        ]
+    ],
+    [
+        "Attend a yoga or fitness class to recharge and relax.",
+        "(12:58, 14:28)",
+        [
+            "",
+            700036878
+        ]
+    ],
+    [
+        "Attend a yoga or fitness class to recharge and relax.",
+        "(14:52, 16:13)",
+        [
+            "Zona Tribeca",
+            700018642
+        ]
+    ],
+    [
+        "Spend more time reading a book or catching up on a series at home.",
+        "(16:47, 17:52)",
+        [
+            "Zona Tribeca",
+            700018642
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:09, 19:48)",
+        [
+            "Karpov Orthodontics",
+            700009204
+        ]
+    ],
+    [
+        "Stay at Zona Tribeca.",
+        "(23:44, 23:59)",
+        [
+            "Zona Tribeca",
+            700018642
+        ]
+    ]
+]

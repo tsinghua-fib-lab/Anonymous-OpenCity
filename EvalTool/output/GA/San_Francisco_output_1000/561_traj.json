@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fino Bar & Restaurant",
+            700005210
+        ]
+    ],
+    [
+        "Next is Morning Exercise.",
+        "(10:00, 11:10)",
+        [
+            "",
+            700012998
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:29, 17:30)",
+        [
+            "Chaat Cafe Express",
+            700002339
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(12:46, 14:56)",
+        [
+            "Chaat Cafe Express",
+            700002339
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 17:57)",
+        [
+            "Coco",
+            700008763
+        ]
+    ],
+    [
+        "Stay at your current place.",
+        "(21:38, 23:14)",
+        [
+            "",
+            700012984
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "",
+            700009196
+        ]
+    ]
+]

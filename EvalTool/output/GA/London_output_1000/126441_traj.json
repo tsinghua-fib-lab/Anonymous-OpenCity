@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:05)",
+        [
+            "Zizzi",
+            700016408
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:14, 12:21)",
+        [
+            "Zizzi",
+            700016408
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:40, 15:18)",
+        [
+            "",
+            700018211
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:48, 17:10)",
+        [
+            "",
+            700008934
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:45, 23:59)",
+        [
+            "Gourmet Burger Kitchen",
+            700008926
+        ]
+    ]
+]

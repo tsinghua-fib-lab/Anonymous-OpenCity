@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700033271
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:25)",
+        [
+            "GrandLo Cafe",
+            700022906
+        ]
+    ],
+    [
+        "Leisure Activity: Movie or Reading",
+        "(11:38, 13:20)",
+        [
+            "Nakamura",
+            700013752
+        ]
+    ],
+    [
+        "Leisure Activity: Movie or Reading",
+        "(14:14, 16:02)",
+        [
+            "Nakamura",
+            700013752
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(16:43, 18:22)",
+        [
+            "",
+            700021893
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 21:03)",
+        [
+            "Hawa Smoothies",
+            700022492
+        ]
+    ]
+]

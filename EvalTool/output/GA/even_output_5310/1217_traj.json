@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "NYPD 9 PCT",
+            700004363
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:35)",
+        [
+            "NYPD 9 PCT",
+            700004363
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 15:27)",
+        [
+            "",
+            700002297
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(13:00, 14:24)",
+        [
+            "NYPD 9 PCT",
+            700004363
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:29, 18:54)",
+        [
+            "",
+            700002297
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(17:15, 18:40)",
+        [
+            "NYPD 9 PCT",
+            700004363
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:04, 20:42)",
+        [
+            "NYPD 9 PCT",
+            700004363
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:40, 22:05)",
+        [
+            "",
+            700002965
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(23:03, 23:59)",
+        [
+            "Lilly's Shakes & Crepes",
+            700021554
+        ]
+    ]
+]

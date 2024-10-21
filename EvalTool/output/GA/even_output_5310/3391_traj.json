@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700021863
+        ]
+    ],
+    [
+        "Stay at the postal relay box.",
+        "(10:00, 12:40)",
+        [
+            "",
+            700021863
+        ]
+    ],
+    [
+        "You stay at the postal relay box.",
+        "(12:15, 13:33)",
+        [
+            "Citi Bike - E 2 St & Avenue C",
+            700008032
+        ]
+    ],
+    [
+        "You stay at the postal relay box.",
+        "(13:33, 15:09)",
+        [
+            "Citi Bike - E 2 St & Avenue C",
+            700008032
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 16:27)",
+        [
+            "",
+            700003081
+        ]
+    ],
+    [
+        "Laid back Sunday plans.",
+        "(17:49, 20:13)",
+        [
+            "",
+            700002428
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:35, 21:18)",
+        [
+            "The Francis Kite Club",
+            700016984
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:39)",
+        [
+            "Casa Adela",
+            700011044
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Zona Rosa",
+            700013878
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:09)",
+        [
+            "Cafe de Casa",
+            700005575
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 15:42)",
+        [
+            "Pizzalicious",
+            700002182
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(16:37, 17:58)",
+        [
+            "CORE MVMT",
+            700013877
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(18:17, 20:03)",
+        [
+            "CORE MVMT",
+            700013877
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 23:59)",
+        [
+            "Cafe de Casa",
+            700005575
+        ]
+    ]
+]

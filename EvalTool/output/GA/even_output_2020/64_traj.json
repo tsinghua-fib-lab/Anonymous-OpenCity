@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700013329
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:24)",
+        [
+            "",
+            700013328
+        ]
+    ],
+    [
+        "Errands or Grocery Shopping",
+        "(13:47, 15:04)",
+        [
+            "",
+            700013327
+        ]
+    ],
+    [
+        "Errands or Grocery Shopping",
+        "(16:07, 18:09)",
+        [
+            "The Howard",
+            700013324
+        ]
+    ],
+    [
+        "Errands or Grocery Shopping",
+        "(18:21, 20:19)",
+        [
+            "The Howard",
+            700013324
+        ]
+    ],
+    [
+        "Get ready and head to The Howard",
+        "(20:55, 22:16)",
+        [
+            "The Howard",
+            700013324
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(22:13, 23:36)",
+        [
+            "",
+            700013326
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "",
+            700011585
+        ]
+    ]
+]

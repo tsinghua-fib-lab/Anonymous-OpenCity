@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Lunch",
+        "(10:00, 11:02)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "11:26 AM - 1:00 PM",
+        "(11:26, 12:58)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:43, 14:34)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Spend some time on a hobby, such as painting, playing music, or working on a DIY project.",
+        "(19:29, 21:03)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:18, 23:59)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:10, 23:59)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ]
+]

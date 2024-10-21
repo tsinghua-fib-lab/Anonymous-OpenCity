@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700003303
+        ]
+    ],
+    [
+        "Go for a morning walk or jog in a nearby park.",
+        "(09:00, 09:58)",
+        [
+            "",
+            700029752
+        ]
+    ],
+    [
+        "Read a book or catch up on a favorite podcast.",
+        "(11:00, 12:20)",
+        [
+            "Starbucks",
+            700003303
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:39, 17:04)",
+        [
+            "The Dunes Club",
+            700030613
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:54, 19:11)",
+        [
+            "Bravo",
+            700039856
+        ]
+    ],
+    [
+        "Current place and stay time after visiting Bravo.",
+        "(22:16, 23:46)",
+        [
+            "Bravo",
+            700039856
+        ]
+    ],
+    [
+        "Current place and stay time at Bravo.",
+        "(23:55, 23:59)",
+        [
+            "Bravo",
+            700039856
+        ]
+    ]
+]

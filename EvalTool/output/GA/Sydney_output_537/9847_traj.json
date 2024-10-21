@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700026314
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 11:09)",
+        [
+            "",
+            700026314
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:12, 12:34)",
+        [
+            "ONE",
+            700019752
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:58, 14:32)",
+        [
+            "Pho Padstow",
+            700019773
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:32, 16:01)",
+        [
+            "Pho Padstow",
+            700019773
+        ]
+    ],
+    [
+        "Socialize with Friends/Family",
+        "(16:47, 18:26)",
+        [
+            "",
+            700026314
+        ]
+    ],
+    [
+        "Socialize with Friends/Family",
+        "(18:51, 20:29)",
+        [
+            "",
+            700026314
+        ]
+    ],
+    [
+        "Socialize with Friends/Family",
+        "(21:18, 22:41)",
+        [
+            "",
+            700026314
+        ]
+    ],
+    [
+        "Stay at home and relax or prepare for sleep.",
+        "(23:12, 23:59)",
+        [
+            "",
+            700026314
+        ]
+    ]
+]

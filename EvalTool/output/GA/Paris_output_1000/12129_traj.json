@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Haussmann Galeries Lafayette",
+            700005031
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:36)",
+        [
+            "Haussmann Galeries Lafayette",
+            700005031
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 15:55)",
+        [
+            "",
+            700012615
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 20:39)",
+        [
+            "Starving Club Galeries Lafayette Gourmet",
+            700069730
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:02, 23:05)",
+        [
+            "Le Cube Bar",
+            700034323
+        ]
+    ],
+    [
+        "Stay at Le Cube Bar.",
+        "(23:38, 23:59)",
+        [
+            "",
+            700010240
+        ]
+    ]
+]

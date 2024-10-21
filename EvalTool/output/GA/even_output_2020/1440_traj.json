@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005718
+        ]
+    ],
+    [
+        "Wake Up and Brunch",
+        "(10:00, 11:30)",
+        [
+            "",
+            700005718
+        ]
+    ],
+    [
+        "Next activity based on daily plan.",
+        "(12:13, 13:33)",
+        [
+            "Bottega",
+            700003560
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:21, 18:01)",
+        [
+            "Beretta",
+            700001296
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(20:31, 21:51)",
+        [
+            "The Marsh",
+            700003562
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:54, 23:59)",
+        [
+            "Boogaloos",
+            700010171
+        ]
+    ]
+]

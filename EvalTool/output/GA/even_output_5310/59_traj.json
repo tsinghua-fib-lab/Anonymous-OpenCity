@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hendrickson's",
+            700036809
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:50)",
+        [
+            "Merchants Cigar Bar",
+            700006521
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:41, 17:31)",
+        [
+            "",
+            700006036
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:56, 16:47)",
+        [
+            "Merchants Cigar Bar",
+            700006521
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:19, 21:32)",
+        [
+            "India Palace",
+            700007628
+        ]
+    ],
+    [
+        "Wake up and relax",
+        "(22:35, 23:59)",
+        [
+            "India Palace",
+            700007628
+        ]
+    ]
+]

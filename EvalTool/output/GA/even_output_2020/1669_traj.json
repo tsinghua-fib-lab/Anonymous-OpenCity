@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Abrazo",
+            700001592
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:18)",
+        [
+            "",
+            700003735
+        ]
+    ],
+    [
+        "Relaxation/Entertainment",
+        "(14:38, 15:59)",
+        [
+            "Abrazo",
+            700001592
+        ]
+    ],
+    [
+        "Cooking and Preparing Dinner",
+        "(16:22, 18:27)",
+        [
+            "Abrazo",
+            700001592
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:15, 20:57)",
+        [
+            "",
+            700007727
+        ]
+    ],
+    [
+        "Next Arrangements: Stay at Abrazo",
+        "(20:14, 21:44)",
+        [
+            "Abrazo",
+            700001592
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:31, 23:59)",
+        [
+            "",
+            700003763
+        ]
+    ]
+]

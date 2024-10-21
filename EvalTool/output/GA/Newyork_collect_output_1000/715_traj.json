@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(10:00, 11:56)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:41, 17:01)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(16:35, 18:05)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(17:57, 19:09)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 21:09)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ]
+]

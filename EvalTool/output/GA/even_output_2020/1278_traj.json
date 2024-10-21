@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The UPS Store",
+            700001791
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:07)",
+        [
+            "Osher Salon",
+            700008157
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:19, 16:38)",
+        [
+            "",
+            700008346
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:37, 22:28)",
+        [
+            "Tucker Theater",
+            700008160
+        ]
+    ],
+    [
+        "Go to RT Rotisserie",
+        "(20:33, 22:06)",
+        [
+            "RT Rotisserie",
+            700006137
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(22:33, 23:59)",
+        [
+            "RT Rotisserie",
+            700006137
+        ]
+    ]
+]

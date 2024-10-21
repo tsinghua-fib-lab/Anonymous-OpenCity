@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Budget",
+            700008342
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby",
+        "(10:00, 11:50)",
+        [
+            "Budget",
+            700008342
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby",
+        "(12:12, 13:50)",
+        [
+            "Budget",
+            700008342
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 15:56)",
+        [
+            "",
+            700002031
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 21:02)",
+        [
+            "",
+            700001930
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:32, 22:06)",
+        [
+            "Citi Bike - East 31st Street & 3rd Avenue",
+            700005961
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:19, 23:59)",
+        [
+            "Norma",
+            700010575
+        ]
+    ],
+    [
+        "Stay at Budget",
+        "(23:57, 23:59)",
+        [
+            "Norma",
+            700010575
+        ]
+    ]
+]

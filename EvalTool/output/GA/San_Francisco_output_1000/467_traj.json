@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Yasmin",
+            700002476
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:10)",
+        [
+            "Project Juice",
+            700005335
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(16:19, 18:54)",
+        [
+            "Yasmin",
+            700002476
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:34, 20:06)",
+        [
+            "Yasmin",
+            700002476
+        ]
+    ],
+    [
+        "Stay at Yasmin.",
+        "(20:40, 22:17)",
+        [
+            "Yasmin",
+            700002476
+        ]
+    ],
+    [
+        "Stay at Yasmin.",
+        "(23:28, 23:59)",
+        [
+            "Yasmin",
+            700002476
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002852
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:51)",
+        [
+            "Weill Cornell Internal Medicine Associates at Wright",
+            700016569
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 16:53)",
+        [
+            "Chabad of Upper East Side",
+            700007375
+        ]
+    ],
+    [
+        "Dinner Preparation & Meal",
+        "(18:46, 20:53)",
+        [
+            "East Side Bagel Cafe",
+            700016568
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:10, 23:59)",
+        [
+            "",
+            700002852
+        ]
+    ]
+]

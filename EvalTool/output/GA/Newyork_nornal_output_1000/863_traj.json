@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700003845
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:17)",
+        [
+            "Blackstone Coffee Roaster",
+            700023338
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:35, 15:35)",
+        [
+            "Blackstone Coffee Roaster",
+            700023338
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:40, 17:09)",
+        [
+            "",
+            700001763
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:53, 23:31)",
+        [
+            "Katana Kitten",
+            700023796
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 23:59)",
+        [
+            "",
+            700003204
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "RedFarm",
+            700014435
+        ]
+    ]
+]

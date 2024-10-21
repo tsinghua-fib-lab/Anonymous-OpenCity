@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700013068
+        ]
+    ],
+    [
+        "next place",
+        "(09:00, 10:32)",
+        [
+            "The Robert W. Wilson MCC Theater Space",
+            700037351
+        ]
+    ],
+    [
+        "Next activity based on the schedule",
+        "(10:37, 12:31)",
+        [
+            "Citi Bike - W 53 St & 10 Ave",
+            700008233
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:48, 14:29)",
+        [
+            "Citi Bike - W 53 St & 10 Ave",
+            700008233
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a favorite series to relax and have some entertainment.",
+        "(16:35, 18:03)",
+        [
+            "La Bergamote",
+            700014611
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:54, 22:13)",
+        [
+            "La Bergamote",
+            700014611
+        ]
+    ],
+    [
+        "Stay at Small Door Veterinary",
+        "(22:22, 23:47)",
+        [
+            "",
+            700013067
+        ]
+    ],
+    [
+        "Stay at Small Door Veterinary.",
+        "(23:52, 23:59)",
+        [
+            "LaVista Pizza",
+            700029830
+        ]
+    ]
+]

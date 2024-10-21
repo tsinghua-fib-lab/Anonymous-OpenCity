@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Scopo Divino",
+            700003666
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(09:00, 11:10)",
+        [
+            "b Patisserie",
+            700010932
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:33, 12:59)",
+        [
+            "b Patisserie",
+            700010932
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(13:56, 14:57)",
+        [
+            "b Patisserie",
+            700010932
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(15:10, 17:04)",
+        [
+            "b Patisserie",
+            700010932
+        ]
+    ],
+    [
+        "Cook Dinner",
+        "(17:05, 18:51)",
+        [
+            "Scopo Divino",
+            700003666
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:37, 21:11)",
+        [
+            "Scopo Divino",
+            700003666
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:42, 23:20)",
+        [
+            "Scopo Divino",
+            700003666
+        ]
+    ],
+    [
+        "Continue Evening Relaxation",
+        "(23:20, 23:59)",
+        [
+            "Scopo Divino",
+            700003666
+        ]
+    ]
+]

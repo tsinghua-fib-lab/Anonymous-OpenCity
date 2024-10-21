@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(10:00, 12:06)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:41, 17:21)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(16:35, 18:02)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(17:57, 19:08)",
+        [
+            "Thai V Express",
+            700017625
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 23:46)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ]
+]

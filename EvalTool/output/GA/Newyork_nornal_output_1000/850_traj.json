@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Wells Fargo",
+            700018487
+        ]
+    ],
+    [
+        "Next in the plan.",
+        "(09:00, 09:55)",
+        [
+            "Rite Aid",
+            700018486
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:46, 13:37)",
+        [
+            "Wells Fargo",
+            700018487
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 17:21)",
+        [
+            "Bright Horizons",
+            700021524
+        ]
+    ],
+    [
+        "Attend cooking session for dinner preparation.",
+        "(18:09, 19:40)",
+        [
+            "Bright Horizons",
+            700021524
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(20:22, 21:50)",
+        [
+            "Bright Horizons",
+            700021524
+        ]
+    ],
+    [
+        "Stay at La Vera Pizza",
+        "(22:12, 23:59)",
+        [
+            "Crab Du Jour Xpress Cajun",
+            700012368
+        ]
+    ]
+]

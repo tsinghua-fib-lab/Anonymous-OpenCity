@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005600
+        ]
+    ],
+    [
+        "Next arrangement after breakfast.",
+        "(10:00, 11:09)",
+        [
+            "Steiner Street Station",
+            700000396
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 16:10)",
+        [
+            "Progress",
+            700004850
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:31, 22:14)",
+        [
+            "Boba Guys",
+            700005683
+        ]
+    ],
+    [
+        "Stay at your current location.",
+        "(22:14, 23:53)",
+        [
+            "Panda Express",
+            700005827
+        ]
+    ]
+]

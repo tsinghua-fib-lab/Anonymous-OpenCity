@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hao Noodle",
+            700016042
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(10:00, 10:55)",
+        [
+            "Hao Noodle",
+            700016042
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:21, 16:57)",
+        [
+            "Terremoto Coffee",
+            700018620
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:50, 14:57)",
+        [
+            "",
+            700005850
+        ]
+    ],
+    [
+        "Dinner Preparation & Eating",
+        "(17:59, 19:07)",
+        [
+            "Terremoto Coffee",
+            700018620
+        ]
+    ],
+    [
+        "Wind Down with Family/Friends or Reading",
+        "(19:42, 21:47)",
+        [
+            "Hao Noodle",
+            700016042
+        ]
+    ],
+    [
+        "Wind Down with Family/Friends or Reading",
+        "(22:10, 23:59)",
+        [
+            "",
+            700030087
+        ]
+    ]
+]

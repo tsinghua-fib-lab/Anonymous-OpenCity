@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001641
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:19)",
+        [
+            "",
+            700000757
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:38, 14:14)",
+        [
+            "Citi Bike - E 9 St & Avenue C",
+            700008063
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(14:36, 16:46)",
+        [
+            "Citi Bike - E 9 St & Avenue C",
+            700008063
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 20:18)",
+        [
+            "",
+            700000757
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(20:32, 22:11)",
+        [
+            "Fit Our Way",
+            700018149
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(22:21, 23:59)",
+        [
+            "Fit Our Way",
+            700018149
+        ]
+    ]
+]

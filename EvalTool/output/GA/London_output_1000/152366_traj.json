@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Clem Attlee Estate",
+            700011309
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(10:00, 11:24)",
+        [
+            "Clem Attlee Estate",
+            700011309
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(12:16, 13:54)",
+        [
+            "Clem Attlee Estate",
+            700011309
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:02, 18:33)",
+        [
+            "",
+            700070312
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:23, 23:28)",
+        [
+            "",
+            700055438
+        ]
+    ],
+    [
+        "Next activity after leisure time",
+        "(23:58, 23:59)",
+        [
+            "VeganE",
+            700041865
+        ]
+    ]
+]

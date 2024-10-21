@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:56)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:42, 16:47)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 21:03)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "Stay at Fitzgerald's Pub.",
+        "(19:35, 21:34)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Stay at Fitzgerald's Pub",
+        "(21:44, 23:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "",
+            700000911
+        ]
+    ]
+]

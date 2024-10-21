@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Peet's Coffee",
+            700005201
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:13)",
+        [
+            "Cumaica",
+            700002743
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:25, 16:56)",
+        [
+            "",
+            700000640
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(17:28, 18:58)",
+        [
+            "Orangetheory Fitness",
+            700010448
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:55, 21:54)",
+        [
+            "Orangetheory Fitness",
+            700010448
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:45, 23:59)",
+        [
+            "",
+            700000564
+        ]
+    ]
+]

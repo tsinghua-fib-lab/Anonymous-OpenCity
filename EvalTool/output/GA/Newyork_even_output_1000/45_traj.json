@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700003885
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:20)",
+        [
+            "Starbucks",
+            700003885
+        ]
+    ],
+    [
+        "Relax & Read",
+        "(11:15, 12:25)",
+        [
+            "Starbucks",
+            700003885
+        ]
+    ],
+    [
+        "Relax & Read",
+        "(12:25, 13:56)",
+        [
+            "Starbucks",
+            700003885
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:12, 17:10)",
+        [
+            "Starbucks",
+            700003885
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:23, 18:46)",
+        [
+            "USA Shaolin Temple",
+            700009324
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 23:59)",
+        [
+            "Congee Village",
+            700014318
+        ]
+    ]
+]

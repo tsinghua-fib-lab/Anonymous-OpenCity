@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700045170
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:14)",
+        [
+            "École Diagonale",
+            700054435
+        ]
+    ],
+    [
+        "Explore educational activities at École Diagonale.",
+        "(11:33, 12:56)",
+        [
+            "École Diagonale",
+            700054435
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 17:34)",
+        [
+            "L'Escarpolette",
+            700054436
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:21, 21:05)",
+        [
+            "Taiyaki",
+            700022491
+        ]
+    ],
+    [
+        "Stay at École Diagonale.",
+        "(21:07, 22:42)",
+        [
+            "Taiyaki",
+            700022491
+        ]
+    ],
+    [
+        "Visit Taiyaki.",
+        "(23:10, 23:59)",
+        [
+            "Taiyaki",
+            700022491
+        ]
+    ]
+]

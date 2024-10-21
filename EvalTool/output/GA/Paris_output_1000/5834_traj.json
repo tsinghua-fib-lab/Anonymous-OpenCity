@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700029830
+        ]
+    ],
+    [
+        "Stay at Ticket Validator",
+        "(09:00, 12:02)",
+        [
+            "",
+            700029830
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:12, 14:00)",
+        [
+            "",
+            700029820
+        ]
+    ],
+    [
+        "Stay at Ticket Validator",
+        "(12:30, 14:06)",
+        [
+            "",
+            700005672
+        ]
+    ],
+    [
+        "Reading or enjoying a hobby at home",
+        "(14:22, 15:48)",
+        [
+            "",
+            700029830
+        ]
+    ],
+    [
+        "Reading or enjoying a hobby at home",
+        "(16:14, 17:59)",
+        [
+            "McDonald's",
+            700003416
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 19:41)",
+        [
+            "Tacos",
+            700073367
+        ]
+    ],
+    [
+        "Toilettes des Tuileries",
+        "(21:28, 23:08)",
+        [
+            "L'Étoile 1903",
+            700003408
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "L'Étoile 1903",
+            700003408
+        ]
+    ]
+]

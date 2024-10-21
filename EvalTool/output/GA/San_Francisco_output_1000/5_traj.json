@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Venticello",
+            700005060
+        ]
+    ],
+    [
+        "10:00 AM - Wake up and have a leisurely breakfast",
+        "(10:00, 11:02)",
+        [
+            "Venticello",
+            700005060
+        ]
+    ],
+    [
+        "Next activity: Go for a walk in the nearby park",
+        "(11:51, 12:51)",
+        [
+            "",
+            700008910
+        ]
+    ],
+    [
+        "Next activity: Watch a sports game or favorite show",
+        "(13:05, 13:56)",
+        [
+            "Venticello",
+            700005060
+        ]
+    ],
+    [
+        "Current activity: Watch a sports game or favorite show.",
+        "(14:05, 15:26)",
+        [
+            "Venticello",
+            700005060
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:42, 21:30)",
+        [
+            "",
+            700008915
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:57, 23:59)",
+        [
+            "",
+            700008911
+        ]
+    ]
+]

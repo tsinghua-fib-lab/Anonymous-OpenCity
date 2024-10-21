@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Noe Valley Spa",
+            700006195
+        ]
+    ],
+    [
+        "Go for a walk or do some light exercise in the park.",
+        "(09:00, 09:55)",
+        [
+            "Bank of America",
+            700003207
+        ]
+    ],
+    [
+        "Hobby or creative activity",
+        "(10:31, 12:05)",
+        [
+            "Bank of America",
+            700003209
+        ]
+    ],
+    [
+        "Hobby or creative activity",
+        "(12:15, 13:35)",
+        [
+            "Bank of America",
+            700003209
+        ]
+    ],
+    [
+        "Stay at Patxi's Pizza to have lunch.",
+        "(13:59, 15:25)",
+        [
+            "The Valley Tavern",
+            700001771
+        ]
+    ],
+    [
+        "Stay at The Valley Tavern.",
+        "(15:57, 16:51)",
+        [
+            "The Valley Tavern",
+            700001771
+        ]
+    ],
+    [
+        "Stay at The Valley Tavern.",
+        "(16:57, 18:00)",
+        [
+            "The Valley Tavern",
+            700001771
+        ]
+    ],
+    [
+        "Stay at The Valley Tavern.",
+        "(18:24, 19:53)",
+        [
+            "Noe Valley Spa",
+            700006195
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 22:49)",
+        [
+            "The Valley Tavern",
+            700001771
+        ]
+    ]
+]

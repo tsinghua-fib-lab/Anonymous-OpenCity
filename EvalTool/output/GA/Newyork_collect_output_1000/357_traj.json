@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:01)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 14:54)",
+        [
+            "",
+            700022519
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(14:54, 16:24)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "Hobby Time/Creative Project",
+        "(17:04, 18:40)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "Hobby Time/Creative Project",
+        "(19:18, 20:56)",
+        [
+            "New China",
+            700016574
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 23:59)",
+        [
+            "",
+            700002711
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Shadmoor",
+            700020480
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:08)",
+        [
+            "The Shadmoor",
+            700020480
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:56, 16:47)",
+        [
+            "The Pita Grill",
+            700011530
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:04, 16:12)",
+        [
+            "",
+            700002506
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 23:59)",
+        [
+            "",
+            700001294
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "The Pita Grill",
+            700011530
+        ]
+    ]
+]

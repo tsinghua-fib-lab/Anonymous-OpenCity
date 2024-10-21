@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008331
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(09:00, 10:09)",
+        [
+            "Saint Matthews Lutheran Church",
+            700001632
+        ]
+    ],
+    [
+        "Catch up on household chores",
+        "(10:54, 11:56)",
+        [
+            "Saint Matthews Lutheran Church",
+            700001632
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 17:26)",
+        [
+            "Elixir",
+            700000067
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:37, 16:45)",
+        [
+            "Shell",
+            700000069
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 23:30)",
+        [
+            "Boys & Girls Club",
+            700010808
+        ]
+    ],
+    [
+        "Next place after meeting up with friends or family in Situation_2",
+        "(23:03, 23:59)",
+        [
+            "Boys & Girls Club",
+            700010808
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:53)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:09, 16:07)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:55, 18:22)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Relaxation & Wind Down",
+        "(19:15, 21:06)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill",
+        "(21:40, 23:04)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill",
+        "(23:53, 23:59)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ]
+]

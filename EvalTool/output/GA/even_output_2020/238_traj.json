@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Redwood Credit Union",
+            700010691
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:56)",
+        [
+            "USPS Fox Plaza",
+            700006147
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 14:00)",
+        [
+            "",
+            700011048
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:27, 21:11)",
+        [
+            "Redwood Credit Union",
+            700010691
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "Black Box Virtual Reality Gym",
+            700010733
+        ]
+    ]
+]

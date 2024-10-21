@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Read or Study",
+        "(10:00, 11:22)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "Next activity after reading or studying.",
+        "(12:07, 13:35)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:05, 19:05)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:16, 23:59)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ]
+]

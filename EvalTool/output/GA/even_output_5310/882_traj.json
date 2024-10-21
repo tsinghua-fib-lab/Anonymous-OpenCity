@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cafe Luka",
+            700026128
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:55)",
+        [
+            "Matto",
+            700035432
+        ]
+    ],
+    [
+        "Relaxation/Reading Time",
+        "(12:39, 14:17)",
+        [
+            "Texas Rotisserie Grill & BBQ",
+            700030626
+        ]
+    ],
+    [
+        "Relaxation/Reading Time",
+        "(14:33, 16:10)",
+        [
+            "Cafe Luka",
+            700026128
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:20, 19:12)",
+        [
+            "Dig",
+            700022401
+        ]
+    ],
+    [
+        "Wind Down/Watch TV or Movies",
+        "(20:42, 22:02)",
+        [
+            "Chase",
+            700006017
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:16, 23:59)",
+        [
+            "Finnegan's Wake Pub",
+            700006025
+        ]
+    ]
+]

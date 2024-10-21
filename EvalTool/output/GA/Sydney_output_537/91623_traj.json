@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700028868
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast.",
+        "(09:00, 10:07)",
+        [
+            "",
+            700026334
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 13:02)",
+        [
+            "",
+            700026422
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 19:11)",
+        [
+            "",
+            700026334
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast.",
+        "(18:43, 20:45)",
+        [
+            "Sensory Lab",
+            700019972
+        ]
+    ],
+    [
+        "Relax at home, watch a movie or catch up on a TV series.",
+        "(20:54, 22:04)",
+        [
+            "Sensory Lab",
+            700019972
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "",
+            700026254
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Centre d'Études Supérieures Alternées en Communication",
+            700018527
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:21)",
+        [
+            "Bistrot littéraire Les Cascades",
+            700041861
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:34, 18:27)",
+        [
+            "Le Voltigeur",
+            700051907
+        ]
+    ],
+    [
+        "Prepare and have dinner, maybe trying out a new recipe or enjoying takeout.",
+        "(17:31, 19:14)",
+        [
+            "Le Voltigeur",
+            700051907
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:54, 21:28)",
+        [
+            "",
+            700032502
+        ]
+    ],
+    [
+        "Prepare for the next day using your current surroundings.",
+        "(23:55, 23:59)",
+        [
+            "Le Voltigeur",
+            700051907
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "All'Antico Vinaio",
+            700024528
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:37)",
+        [
+            "John's Pizza",
+            700010181
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:09, 13:15)",
+        [
+            "John's Pizza",
+            700010181
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:47, 14:16)",
+        [
+            "",
+            700011437
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(15:13, 16:53)",
+        [
+            "Roxy Diner",
+            700009545
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(17:06, 18:46)",
+        [
+            "",
+            700002110
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 23:59)",
+        [
+            "Daniela Trattoria",
+            700006541
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:51, 23:04)",
+        [
+            "Daniela Trattoria",
+            700006541
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "",
+            700011437
+        ]
+    ]
+]

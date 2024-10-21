@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Regent's Park Estate",
+            700006201
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 12:05)",
+        [
+            "",
+            700075346
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:29, 13:59)",
+        [
+            "",
+            700075378
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:53, 20:15)",
+        [
+            "Albany Street Police Station",
+            700002925
+        ]
+    ],
+    [
+        "Evening Wrap-Up with a Book or Podcast",
+        "(19:58, 20:55)",
+        [
+            "Albany Street Police Station",
+            700002925
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:05, 22:14)",
+        [
+            "",
+            700072708
+        ]
+    ],
+    [
+        "Evening Wrap-Up with a Book or Podcast",
+        "(22:48, 23:59)",
+        [
+            "Albany Street Police Station",
+            700002925
+        ]
+    ]
+]

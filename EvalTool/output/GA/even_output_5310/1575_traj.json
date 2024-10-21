@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike",
+            700021663
+        ]
+    ],
+    [
+        "Go for a morning walk or jog in a nearby park.",
+        "(09:00, 09:56)",
+        [
+            "Tenho Ramen",
+            700011507
+        ]
+    ],
+    [
+        "Read a book or catch up on a favorite podcast.",
+        "(11:00, 12:36)",
+        [
+            "",
+            700002811
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:39, 14:56)",
+        [
+            "Little Alley",
+            700000694
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:54, 22:04)",
+        [
+            "",
+            700006409
+        ]
+    ],
+    [
+        "Current place and stay time after visiting Little Alley.",
+        "(22:16, 23:50)",
+        [
+            "Little Alley",
+            700000694
+        ]
+    ],
+    [
+        "Current place and stay time at Little Alley.",
+        "(23:55, 23:59)",
+        [
+            "Little Alley",
+            700000694
+        ]
+    ]
+]

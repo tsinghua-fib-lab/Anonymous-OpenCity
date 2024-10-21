@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Madison Restaurant",
+            700011537
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:20)",
+        [
+            "Fiftyfourth Street Public Bath and Gymnasium",
+            700000555
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(12:23, 14:02)",
+        [
+            "Madison Restaurant",
+            700011537
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:49, 14:54)",
+        [
+            "",
+            700035316
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:14, 20:37)",
+        [
+            "Madison Restaurant",
+            700011537
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:04, 21:34)",
+        [
+            "",
+            700003173
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:03, 23:10)",
+        [
+            "",
+            700010703
+        ]
+    ],
+    [
+        "Sleep at HealthSource Pharmacy & Health Food Store",
+        "(23:31, 23:59)",
+        [
+            "Sushi Ginza",
+            700006518
+        ]
+    ]
+]

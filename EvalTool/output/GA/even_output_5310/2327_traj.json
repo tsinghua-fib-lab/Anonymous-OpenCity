@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "TD Bank",
+            700009342
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:15)",
+        [
+            "$1.50 Pizza",
+            700016867
+        ]
+    ],
+    [
+        "Outdoor Activities or Sports",
+        "(15:10, 16:42)",
+        [
+            "",
+            700001152
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(17:46, 19:10)",
+        [
+            "August Gatherings",
+            700009333
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:11, 21:47)",
+        [
+            "",
+            700002679
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:48, 23:59)",
+        [
+            "McDonald's",
+            700012052
+        ]
+    ]
+]

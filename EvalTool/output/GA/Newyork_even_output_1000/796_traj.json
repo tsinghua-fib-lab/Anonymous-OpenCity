@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700025795
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:15)",
+        [
+            "Swift Hibernian Lounge",
+            700003237
+        ]
+    ],
+    [
+        "Stay at Swift Hibernian Lounge.",
+        "(12:01, 13:38)",
+        [
+            "Crunch Fitness",
+            700008752
+        ]
+    ],
+    [
+        "Stay at Swift Hibernian Lounge",
+        "(13:28, 15:04)",
+        [
+            "Short Stories",
+            700024917
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:29, 16:54)",
+        [
+            "Phebes",
+            700003351
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:56, 23:02)",
+        [
+            "Current Coffee",
+            700023840
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "Crunch Fitness",
+            700008752
+        ]
+    ]
+]

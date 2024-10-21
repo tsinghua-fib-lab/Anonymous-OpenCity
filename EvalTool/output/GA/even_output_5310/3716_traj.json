@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Clinton St. Baking Company",
+            700003451
+        ]
+    ],
+    [
+        "10:00 AM - Go for a Walk",
+        "(09:00, 10:04)",
+        [
+            "Clinton St. Baking Company",
+            700003451
+        ]
+    ],
+    [
+        "11:00 AM - Enjoy a Hobby",
+        "(10:11, 11:42)",
+        [
+            "Clinton St. Baking Company",
+            700003451
+        ]
+    ],
+    [
+        "Prepare Lunch",
+        "(12:39, 13:36)",
+        [
+            "Clinton St. Baking Company",
+            700003451
+        ]
+    ],
+    [
+        "Prepare Lunch",
+        "(13:30, 15:00)",
+        [
+            "Clinton St. Baking Company",
+            700003451
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:09, 18:49)",
+        [
+            "The Mayfly",
+            700006700
+        ]
+    ],
+    [
+        "Outdoor Sports or Exercise",
+        "(16:23, 18:02)",
+        [
+            "Mughlai Indian Cuisine",
+            700010055
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:23, 19:35)",
+        [
+            "Heaven's Hot Bagel",
+            700009571
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "Clinton St. Baking Company",
+            700003451
+        ]
+    ]
+]

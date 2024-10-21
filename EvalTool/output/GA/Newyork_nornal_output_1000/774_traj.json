@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Hutch and Waldo",
+            700029521
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:22)",
+        [
+            "H&H Midtown Bagels East",
+            700012538
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(11:34, 13:44)",
+        [
+            "H&H Midtown Bagels East",
+            700012538
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:54, 15:01)",
+        [
+            "",
+            700020618
+        ]
+    ],
+    [
+        "Next activity after Leisure Time",
+        "(15:40, 17:02)",
+        [
+            "Citi Bike",
+            700020621
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 22:47)",
+        [
+            "",
+            700002395
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 21:54)",
+        [
+            "Chick-fil-a",
+            700041024
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "Starbucks",
+            700022211
+        ]
+    ]
+]

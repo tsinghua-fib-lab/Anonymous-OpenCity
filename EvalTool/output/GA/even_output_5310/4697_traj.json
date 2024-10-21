@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "BLT Burger",
+            700008870
+        ]
+    ],
+    [
+        "Go for a walk in the park",
+        "(09:00, 09:51)",
+        [
+            "BLT Burger",
+            700008870
+        ]
+    ],
+    [
+        "Stay at BLT Burger",
+        "(10:58, 12:00)",
+        [
+            "E.A.K Ramen",
+            700012247
+        ]
+    ],
+    [
+        "Stay at BLT Burger for a bit longer.",
+        "(12:47, 13:56)",
+        [
+            "BLT Burger",
+            700008870
+        ]
+    ],
+    [
+        "Stay at BLT Burger",
+        "(14:20, 16:55)",
+        [
+            "BLT Burger",
+            700008870
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:51, 21:47)",
+        [
+            "Citi Bike - West 13th Street & 6th Avenue",
+            700008197
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:17, 23:18)",
+        [
+            "Citi Bike - West 13th Street & 6th Avenue",
+            700008197
+        ]
+    ],
+    [
+        "Stay at BLT Burger.",
+        "(22:00, 23:34)",
+        [
+            "BLT Burger",
+            700008870
+        ]
+    ],
+    [
+        "Stay at BLT Burger.",
+        "(23:36, 23:59)",
+        [
+            "BLT Burger",
+            700008870
+        ]
+    ]
+]

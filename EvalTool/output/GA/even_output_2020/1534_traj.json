@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Marigold Cafe",
+            700012790
+        ]
+    ],
+    [
+        "Morning exercise",
+        "(09:00, 09:57)",
+        [
+            "",
+            700014117
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:30, 16:19)",
+        [
+            "Trick Dog",
+            700004201
+        ]
+    ],
+    [
+        "Leisure reading or hobbies",
+        "(11:59, 14:02)",
+        [
+            "Trick Dog",
+            700004201
+        ]
+    ],
+    [
+        "Afternoon entertainment",
+        "(14:22, 16:56)",
+        [
+            "Trick Dog",
+            700004201
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:28, 18:38)",
+        [
+            "Mijoté",
+            700007133
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:48, 23:59)",
+        [
+            "El Faro",
+            700002038
+        ]
+    ]
+]

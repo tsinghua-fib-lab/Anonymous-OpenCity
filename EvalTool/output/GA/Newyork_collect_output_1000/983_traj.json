@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:15)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:36, 13:44)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:54, 19:50)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "Relax with a movie or binge-watch a series on your favorite streaming platform.",
+        "(19:16, 21:09)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Relax with a movie or binge-watch a series",
+        "(21:47, 23:20)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Relax with a movie or binge-watch a series",
+        "(23:35, 23:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

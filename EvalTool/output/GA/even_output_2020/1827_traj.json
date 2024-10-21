@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Royale",
+            700004669
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:57)",
+        [
+            "Angel Cafe & Deli",
+            700000147
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:47, 16:44)",
+        [
+            "Geary Club",
+            700001034
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:47, 17:57)",
+        [
+            "Geary Club",
+            700001034
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 23:59)",
+        [
+            "SachBao Nhac",
+            700010916
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(22:39, 23:59)",
+        [
+            "Kokio Republic",
+            700003440
+        ]
+    ]
+]

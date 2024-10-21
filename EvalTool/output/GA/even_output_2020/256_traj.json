@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Old Siam",
+            700013885
+        ]
+    ],
+    [
+        "Move to Leisure Activity",
+        "(10:00, 11:33)",
+        [
+            "Taxi Stand at Hotel Nikko",
+            700009883
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:45, 17:46)",
+        [
+            "Miyabiya Sushi and Grill",
+            700001078
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a favorite series.",
+        "(18:23, 19:54)",
+        [
+            "Miyabiya Sushi and Grill",
+            700001078
+        ]
+    ],
+    [
+        "Continue current activity until watching a movie or binge-watch a series.",
+        "(20:51, 22:02)",
+        [
+            "Miyabiya Sushi and Grill",
+            700001078
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:10, 23:59)",
+        [
+            "",
+            700008951
+        ]
+    ]
+]

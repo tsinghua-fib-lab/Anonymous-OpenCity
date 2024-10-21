@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Eli's Night Shift",
+            700019740
+        ]
+    ],
+    [
+        "Next activity in daily plan.",
+        "(09:00, 09:58)",
+        [
+            "Chopt",
+            700017446
+        ]
+    ],
+    [
+        "Next activity in daily plan",
+        "(10:24, 12:07)",
+        [
+            "Chopt",
+            700017446
+        ]
+    ],
+    [
+        "Next activity in daily plan.",
+        "(12:10, 14:06)",
+        [
+            "Chopt",
+            700017446
+        ]
+    ],
+    [
+        "Stay at Chopt",
+        "(14:05, 16:08)",
+        [
+            "Chopt",
+            700017446
+        ]
+    ],
+    [
+        "Stay at Chopt.",
+        "(16:30, 18:00)",
+        [
+            "Chopt",
+            700017446
+        ]
+    ],
+    [
+        "Stay at Chopt.",
+        "(18:42, 20:22)",
+        [
+            "Chopt",
+            700017446
+        ]
+    ],
+    [
+        "Stay at Eli's Night Shift.",
+        "(20:14, 22:05)",
+        [
+            "Noz Market",
+            700019736
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "",
+            700000948
+        ]
+    ]
+]

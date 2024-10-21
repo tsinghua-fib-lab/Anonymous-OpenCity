@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Saint James Place & Pearl Street",
+            700008183
+        ]
+    ],
+    [
+        "Breakfast at Citi Bike - Saint James Place & Pearl Street",
+        "(10:00, 11:08)",
+        [
+            "Citi Bike - East 39th Street & 2nd Avenue",
+            700008045
+        ]
+    ],
+    [
+        "Go for a morning jog or walk in the park",
+        "(11:54, 11:59)",
+        [
+            "icon 24hr Parking",
+            700010474
+        ]
+    ],
+    [
+        "Go for a morning jog or walk in the park",
+        "(12:52, 14:00)",
+        [
+            "Citi Bike - East 39th Street & 2nd Avenue",
+            700008045
+        ]
+    ],
+    [
+        "Go for a morning jog or walk in the park",
+        "(14:27, 15:29)",
+        [
+            "Citi Bike - East 39th Street & 2nd Avenue",
+            700008045
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 17:48)",
+        [
+            "El Pote Español",
+            700006708
+        ]
+    ],
+    [
+        "Winding down with a movie or TV show at home",
+        "(21:43, 23:05)",
+        [
+            "El Pote Español",
+            700006708
+        ]
+    ],
+    [
+        "Wind down with a movie or TV show at home.",
+        "(23:45, 23:59)",
+        [
+            "El Pote Español",
+            700006708
+        ]
+    ]
+]

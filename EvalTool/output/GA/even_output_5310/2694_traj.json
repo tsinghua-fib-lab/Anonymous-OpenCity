@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020515
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:02)",
+        [
+            "",
+            700020515
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:14, 14:00)",
+        [
+            "United States Post Office",
+            700011121
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:29, 16:01)",
+        [
+            "",
+            700020515
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(15:52, 17:25)",
+        [
+            "United States Post Office",
+            700011121
+        ]
+    ],
+    [
+        "Sports or Exercise",
+        "(17:53, 18:57)",
+        [
+            "Kame",
+            700034661
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(19:54, 20:58)",
+        [
+            "",
+            700013852
+        ]
+    ],
+    [
+        "Stay at United States Post Office for leisure time",
+        "(21:21, 23:00)",
+        [
+            "",
+            700020540
+        ]
+    ],
+    [
+        "Stay at United States Post Office for leisure time",
+        "(23:01, 23:59)",
+        [
+            "United States Post Office",
+            700011121
+        ]
+    ]
+]

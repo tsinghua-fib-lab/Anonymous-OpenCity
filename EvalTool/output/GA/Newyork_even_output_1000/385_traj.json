@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700019875
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(09:00, 10:32)",
+        [
+            "Kiss My Slice",
+            700007536
+        ]
+    ],
+    [
+        "Next activity after Leisure Reading or Hobby Time",
+        "(10:31, 12:21)",
+        [
+            "Kiss My Slice",
+            700007536
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:21, 15:23)",
+        [
+            "Blue Maiz Kitchen",
+            700019200
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:52, 19:41)",
+        [
+            "Pret A Manger",
+            700013410
+        ]
+    ],
+    [
+        "Stay in the current place for relaxation.",
+        "(19:22, 21:58)",
+        [
+            "",
+            700019875
+        ]
+    ],
+    [
+        "Stay in the current place for relaxation.",
+        "(22:35, 23:59)",
+        [
+            "KungFu Kitchen",
+            700009843
+        ]
+    ]
+]

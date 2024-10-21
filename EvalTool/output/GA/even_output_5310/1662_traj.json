@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - 1st Avenue & East 44th Street",
+            700007791
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(09:00, 10:26)",
+        [
+            "Citi Bike - 1st Avenue & East 44th Street",
+            700007791
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 14:04)",
+        [
+            "",
+            700023764
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:08, 17:29)",
+        [
+            "",
+            700023785
+        ]
+    ],
+    [
+        "Dinner Preparation and Relaxation",
+        "(18:59, 20:09)",
+        [
+            "",
+            700023765
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:55, 22:25)",
+        [
+            "",
+            700023786
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:24, 23:59)",
+        [
+            "",
+            700023756
+        ]
+    ]
+]

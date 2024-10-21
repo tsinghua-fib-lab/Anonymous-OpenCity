@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001184
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:19)",
+        [
+            "",
+            700002712
+        ]
+    ],
+    [
+        "Creative Work Session",
+        "(12:35, 13:52)",
+        [
+            "Stone Street Coffee Company",
+            700014509
+        ]
+    ],
+    [
+        "Creative Work Session",
+        "(14:49, 15:58)",
+        [
+            "Chelsea Royal Care Pharmacy",
+            700004412
+        ]
+    ],
+    [
+        "Creative Work Session",
+        "(16:14, 17:58)",
+        [
+            "Chelsea Royal Care Pharmacy",
+            700004412
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(18:20, 19:58)",
+        [
+            "Chelsea Royal Care Pharmacy",
+            700004412
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(20:59, 22:00)",
+        [
+            "Chelsea Royal Care Pharmacy",
+            700004412
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:27, 23:59)",
+        [
+            "Tipsy Parson",
+            700004411
+        ]
+    ]
+]

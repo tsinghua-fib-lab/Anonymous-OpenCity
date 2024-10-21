@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700019282
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 09:58)",
+        [
+            "",
+            700019283
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:17, 12:57)",
+        [
+            "Citi Bike - East 14th Street & Avenue B",
+            700008024
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:58, 15:27)",
+        [
+            "",
+            700019283
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(17:38, 19:13)",
+        [
+            "M & J",
+            700005347
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 22:03)",
+        [
+            "Hibachi Express",
+            700018144
+        ]
+    ],
+    [
+        "Stay at Your Home",
+        "(23:38, 23:59)",
+        [
+            "",
+            700019282
+        ]
+    ]
+]

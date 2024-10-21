@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001476
+        ]
+    ],
+    [
+        "Go for a morning walk or light exercise",
+        "(09:00, 09:56)",
+        [
+            "New Arc Chicken",
+            700017085
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(10:16, 11:28)",
+        [
+            "Citi Bike",
+            700024346
+        ]
+    ],
+    [
+        "Continue current plan.",
+        "(12:25, 13:56)",
+        [
+            "Citi Bike",
+            700024346
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(14:18, 16:03)",
+        [
+            "New Arc Chicken",
+            700017085
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:31, 19:08)",
+        [
+            "",
+            700017616
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 21:12)",
+        [
+            "",
+            700007890
+        ]
+    ],
+    [
+        "Stay at New Arc Chicken.",
+        "(23:39, 23:59)",
+        [
+            "New Arc Chicken",
+            700017085
+        ]
+    ]
+]

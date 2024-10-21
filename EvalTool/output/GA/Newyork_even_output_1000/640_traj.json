@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Broad St & Bridge St",
+            700007965
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:31)",
+        [
+            "",
+            700031329
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:30, 15:05)",
+        [
+            "Bombay Cuisine",
+            700004045
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 21:55)",
+        [
+            "Subway",
+            700009801
+        ]
+    ],
+    [
+        "Stay at Citi Bike - Broad St & Bridge St and enjoy your leisure time.",
+        "(21:23, 23:08)",
+        [
+            "Citi Bike - Broad St & Bridge St",
+            700007965
+        ]
+    ],
+    [
+        "Stay at Citi Bike - Madison Street & Montgomery Street",
+        "(23:17, 23:59)",
+        [
+            "Citi Bike - Broad St & Bridge St",
+            700007965
+        ]
+    ]
+]

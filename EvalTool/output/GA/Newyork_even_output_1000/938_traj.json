@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The World Bar",
+            700015052
+        ]
+    ],
+    [
+        "Exercise Session",
+        "(09:00, 10:05)",
+        [
+            "",
+            700008427
+        ]
+    ],
+    [
+        "Exercise Session",
+        "(10:22, 11:54)",
+        [
+            "The World Bar",
+            700015052
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:37, 14:01)",
+        [
+            "Citi Bike - East 47th Street & 1st Avenue",
+            700008050
+        ]
+    ],
+    [
+        "Socializing or Errands",
+        "(14:25, 16:27)",
+        [
+            "Starbucks",
+            700009781
+        ]
+    ],
+    [
+        "Prep for the Week",
+        "(16:55, 18:00)",
+        [
+            "The World Bar",
+            700015052
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(18:21, 19:53)",
+        [
+            "The World Bar",
+            700015052
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(20:40, 22:03)",
+        [
+            "",
+            700030727
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(23:09, 23:59)",
+        [
+            "The World Bar",
+            700015052
+        ]
+    ]
+]

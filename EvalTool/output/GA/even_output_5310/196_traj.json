@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001156
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:38)",
+        [
+            "Duane Reade",
+            700005977
+        ]
+    ],
+    [
+        "Spend the afternoon catching up on a favorite TV show or reading a book",
+        "(14:25, 16:24)",
+        [
+            "",
+            700001156
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:29, 17:56)",
+        [
+            "",
+            700001800
+        ]
+    ],
+    [
+        "Wind down with a movie or game night.",
+        "(20:33, 21:50)",
+        [
+            "CityMD",
+            700013537
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:59)",
+        [
+            "Padoca Bakery",
+            700032490
+        ]
+    ]
+]

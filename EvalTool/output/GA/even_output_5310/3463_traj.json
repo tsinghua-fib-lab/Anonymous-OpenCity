@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Avenue D & E 12 St",
+            700007952
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 09:57)",
+        [
+            "Citi Bike - Avenue D & E 12 St",
+            700007952
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:22, 15:46)",
+        [
+            "",
+            700003598
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:21, 16:32)",
+        [
+            "",
+            700025347
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:58, 19:48)",
+        [
+            "Citi Bike - Avenue D & E 12 St",
+            700007952
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:34, 22:01)",
+        [
+            "",
+            700002984
+        ]
+    ]
+]

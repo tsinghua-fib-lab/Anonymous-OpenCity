@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:09)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:33, 13:08)",
+        [
+            "",
+            700027174
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:19, 18:08)",
+        [
+            "Appennino",
+            700019571
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:30, 20:59)",
+        [
+            "Appennino",
+            700019571
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 19:32)",
+        [
+            "",
+            700022172
+        ]
+    ],
+    [
+        "Catch Up on TV or Movies",
+        "(20:02, 21:27)",
+        [
+            "Anise",
+            700019970
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:59)",
+        [
+            "Fish Market",
+            700019574
+        ]
+    ]
+]

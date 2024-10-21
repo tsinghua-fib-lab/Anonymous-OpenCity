@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700040624
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:03)",
+        [
+            "",
+            700040624
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:01, 12:36)",
+        [
+            "The Butcher’s Daughter",
+            700012523
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:42, 14:08)",
+        [
+            "The Butcher’s Daughter",
+            700012523
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 18:54)",
+        [
+            "",
+            700001295
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:20, 19:07)",
+        [
+            "The Butcher’s Daughter",
+            700012523
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:44, 23:12)",
+        [
+            "Citi Bike - Bank St & Hudson St",
+            700007955
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:50, 23:59)",
+        [
+            "Bleecker Playground",
+            700009378
+        ]
+    ]
+]

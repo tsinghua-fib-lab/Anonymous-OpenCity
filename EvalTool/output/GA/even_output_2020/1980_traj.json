@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The TL Cafe and Laundromat",
+            700010155
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:53)",
+        [
+            "Chutney",
+            700001685
+        ]
+    ],
+    [
+        "Relaxing Afternoon",
+        "(14:00, 15:58)",
+        [
+            "The TL Cafe and Laundromat",
+            700010155
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 19:08)",
+        [
+            "The Library",
+            700009309
+        ]
+    ],
+    [
+        "Wind Down & Prepare for the Week",
+        "(21:12, 22:56)",
+        [
+            "The TL Cafe and Laundromat",
+            700010155
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "Red Chilli",
+            700006059
+        ]
+    ]
+]

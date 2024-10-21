@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kurant",
+            700014226
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:56)",
+        [
+            "DimSum Garden",
+            700040589
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:10, 15:22)",
+        [
+            "Chase",
+            700024967
+        ]
+    ],
+    [
+        "Relax and Unwind",
+        "(16:11, 17:55)",
+        [
+            "Chase",
+            700024967
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:29, 23:59)",
+        [
+            "Lin's Gourmet",
+            700031416
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "LaVista Pizza",
+            700030618
+        ]
+    ]
+]

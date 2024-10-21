@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Well",
+            700010643
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:50)",
+        [
+            "Amour Vert",
+            700005919
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 13:10)",
+        [
+            "Walgreens",
+            700000682
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:36, 15:58)",
+        [
+            "Amour Vert",
+            700005919
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:20, 17:42)",
+        [
+            "Amour Vert",
+            700005919
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:20, 20:05)",
+        [
+            "Marina Theatre",
+            700002046
+        ]
+    ],
+    [
+        "Go to Amour Vert for relaxation.",
+        "(23:58, 23:59)",
+        [
+            "Amour Vert",
+            700005919
+        ]
+    ]
+]

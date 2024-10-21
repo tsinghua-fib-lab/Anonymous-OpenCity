@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Les Galeries",
+            700028901
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the nearby park",
+        "(10:00, 11:03)",
+        [
+            "",
+            700011945
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the nearby park",
+        "(11:06, 13:10)",
+        [
+            "Les Galeries",
+            700028901
+        ]
+    ],
+    [
+        "Explore a local art exhibit or museum",
+        "(14:05, 15:29)",
+        [
+            "Les Galeries",
+            700028901
+        ]
+    ],
+    [
+        "Explore a local art exhibit or museum",
+        "(16:19, 18:01)",
+        [
+            "Les Galeries",
+            700028901
+        ]
+    ],
+    [
+        "Stay at Les Galeries",
+        "(18:09, 19:45)",
+        [
+            "Le Comptoir Moka",
+            700028900
+        ]
+    ],
+    [
+        "Stay at Les Galeries.",
+        "(19:48, 20:55)",
+        [
+            "",
+            700028897
+        ]
+    ],
+    [
+        "Stay at Les Galeries.",
+        "(21:02, 22:57)",
+        [
+            "Les Galeries",
+            700028901
+        ]
+    ],
+    [
+        "Stay at Les Galeries",
+        "(23:37, 23:59)",
+        [
+            "Les Galeries",
+            700028901
+        ]
+    ]
+]

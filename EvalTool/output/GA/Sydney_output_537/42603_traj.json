@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "JB's Bar and Grill",
+            700014468
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:00)",
+        [
+            "",
+            700030006
+        ]
+    ],
+    [
+        "Leisure Time / Hobbies",
+        "(11:20, 13:01)",
+        [
+            "The Secret Alley",
+            700014780
+        ]
+    ],
+    [
+        "Leisure Time / Hobbies",
+        "(13:47, 15:09)",
+        [
+            "Xing Fu Tang",
+            700024775
+        ]
+    ],
+    [
+        "Leisure Time / Hobbies",
+        "(15:23, 16:53)",
+        [
+            "Xing Fu Tang",
+            700024775
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:12, 20:58)",
+        [
+            "",
+            700013987
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:54, 23:59)",
+        [
+            "Messina",
+            700013988
+        ]
+    ]
+]

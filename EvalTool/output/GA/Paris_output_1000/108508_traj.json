@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Plaza",
+            700013023
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:01)",
+        [
+            "La Toscane",
+            700011287
+        ]
+    ],
+    [
+        "Engaging in a hobby or reading a book.",
+        "(16:34, 18:02)",
+        [
+            "Chicken Street",
+            700009150
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a TV series at home.",
+        "(19:01, 21:05)",
+        [
+            "Le Plaza",
+            700013023
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:59)",
+        [
+            "",
+            700066890
+        ]
+    ]
+]

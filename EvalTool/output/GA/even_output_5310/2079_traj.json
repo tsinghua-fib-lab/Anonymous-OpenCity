@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Pain Quotidien",
+            700019661
+        ]
+    ],
+    [
+        "Free Time / Relax",
+        "(10:00, 11:36)",
+        [
+            "Le Pain Quotidien",
+            700019661
+        ]
+    ],
+    [
+        "Free Time / Relax",
+        "(11:31, 13:28)",
+        [
+            "Atlantic Grill",
+            700006585
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:07, 18:32)",
+        [
+            "Le Pain Quotidien",
+            700019661
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:55, 20:35)",
+        [
+            "Shun Lee",
+            700007586
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:00, 23:04)",
+        [
+            "",
+            700003015
+        ]
+    ]
+]

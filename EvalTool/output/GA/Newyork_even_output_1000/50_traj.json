@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700024621
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:23)",
+        [
+            "",
+            700024621
+        ]
+    ],
+    [
+        "Relax & Read",
+        "(11:15, 12:27)",
+        [
+            "Citi Bike - Stanton St & Mangin St",
+            700008187
+        ]
+    ],
+    [
+        "Relax & Read",
+        "(12:25, 14:00)",
+        [
+            "Citi Bike - Stanton St & Mangin St",
+            700008187
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:12, 17:06)",
+        [
+            "Citi Bike - Stanton St & Mangin St",
+            700008187
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:23, 20:58)",
+        [
+            "",
+            700024621
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 23:09)",
+        [
+            "",
+            700024624
+        ]
+    ]
+]

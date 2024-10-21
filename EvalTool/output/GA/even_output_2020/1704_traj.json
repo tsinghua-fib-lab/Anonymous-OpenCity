@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bell Tower",
+            700005337
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:07)",
+        [
+            "The Crepe House",
+            700002742
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(13:02, 14:28)",
+        [
+            "The Crepe House",
+            700002742
+        ]
+    ],
+    [
+        "Lunch",
+        "(15:18, 16:46)",
+        [
+            "The Crepe House",
+            700002742
+        ]
+    ],
+    [
+        "Meet Friends or Family",
+        "(17:39, 19:17)",
+        [
+            "The Crepe House",
+            700002742
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:34, 20:56)",
+        [
+            "Lutheran Church of the Holy Chapel",
+            700000230
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(21:21, 23:00)",
+        [
+            "Lutheran Church of the Holy Chapel",
+            700000230
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:39, 23:59)",
+        [
+            "Saint Lukes Episcopal Church",
+            700000266
+        ]
+    ]
+]

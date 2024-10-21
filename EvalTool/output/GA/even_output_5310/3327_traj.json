@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010340
+        ]
+    ],
+    [
+        "Prepare and Have Breakfast",
+        "(10:00, 11:34)",
+        [
+            "",
+            700010340
+        ]
+    ],
+    [
+        "Home",
+        "(11:59, 14:02)",
+        [
+            "",
+            700010340
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 18:57)",
+        [
+            "Royal Orthodontics",
+            700023464
+        ]
+    ],
+    [
+        "Relaxation/Watch a Movie",
+        "(15:50, 16:52)",
+        [
+            "Royal Orthodontics",
+            700023464
+        ]
+    ],
+    [
+        "Relaxation/Watch a Movie",
+        "(17:08, 18:36)",
+        [
+            "Royal Orthodontics",
+            700023464
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:07, 23:41)",
+        [
+            "Citi Bike - East 20th Street & 2nd Avenue",
+            700008033
+        ]
+    ],
+    [
+        "Relaxation/Watch a Movie",
+        "(23:51, 23:59)",
+        [
+            "",
+            700010340
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Executive Order",
+            700001735
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:44)",
+        [
+            "",
+            700011520
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:42, 17:07)",
+        [
+            "",
+            700005820
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(18:05, 19:53)",
+        [
+            "Executive Order",
+            700001735
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(20:26, 21:54)",
+        [
+            "",
+            700011522
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:39)",
+        [
+            "",
+            700011521
+        ]
+    ]
+]

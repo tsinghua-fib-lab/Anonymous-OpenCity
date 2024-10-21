@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Fresco Pizza Grill Shawerma",
+            700007996
+        ]
+    ],
+    [
+        "Morning exercise (jogging or gym)",
+        "(09:00, 09:55)",
+        [
+            "CorePower Yoga",
+            700000964
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:22, 16:02)",
+        [
+            "",
+            700009181
+        ]
+    ],
+    [
+        "Watch a movie or attend a live event",
+        "(16:32, 18:07)",
+        [
+            "",
+            700014162
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:31, 23:33)",
+        [
+            "Chef Joe's Culinary Salon",
+            700010133
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "",
+            700009121
+        ]
+    ]
+]

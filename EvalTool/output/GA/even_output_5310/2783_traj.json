@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Crif Dogs",
+            700022189
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:54)",
+        [
+            "Starbucks",
+            700012367
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:10, 15:44)",
+        [
+            "Crif Dogs",
+            700022189
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:14, 18:23)",
+        [
+            "Augers Well",
+            700022412
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:29, 23:56)",
+        [
+            "Augers Well",
+            700022412
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "Tacos Morelos",
+            700010942
+        ]
+    ]
+]

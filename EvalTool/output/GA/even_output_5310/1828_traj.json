@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002110
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(10:00, 10:57)",
+        [
+            "",
+            700002110
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(11:44, 13:38)",
+        [
+            "",
+            700002110
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:12, 17:22)",
+        [
+            "O'Casey's Irish Bar",
+            700006089
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(18:20, 19:59)",
+        [
+            "Carve: Unique Sandwich",
+            700009442
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(20:36, 22:00)",
+        [
+            "Daniela Trattoria",
+            700006541
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:13, 23:59)",
+        [
+            "O'Casey's Irish Bar",
+            700006089
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "All'Antico Vinaio",
+            700024528
+        ]
+    ]
+]

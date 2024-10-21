@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011175
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park",
+        "(10:00, 10:53)",
+        [
+            "The Accorn School",
+            700024882
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park from 11:00 AM to 12:00 PM.",
+        "(12:06, 13:15)",
+        [
+            "",
+            700002402
+        ]
+    ],
+    [
+        "Have lunch at a new restaurant with friends at 12:30 PM.",
+        "(13:11, 14:45)",
+        [
+            "",
+            700019557
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 20:14)",
+        [
+            "",
+            700019553
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 20:44)",
+        [
+            "",
+            700020657
+        ]
+    ],
+    [
+        "Go to 'Oishi Bay'",
+        "(23:31, 23:59)",
+        [
+            "",
+            700019555
+        ]
+    ]
+]

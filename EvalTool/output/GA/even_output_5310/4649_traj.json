@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000878
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:38)",
+        [
+            "",
+            700001215
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:09, 14:45)",
+        [
+            "Amorino",
+            700009620
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 20:59)",
+        [
+            "Gerlateria Gentile",
+            700007659
+        ]
+    ],
+    [
+        "You stay at your current place.",
+        "(19:27, 21:22)",
+        [
+            "Gerlateria Gentile",
+            700007659
+        ]
+    ],
+    [
+        "You stay at your current place.",
+        "(21:30, 22:51)",
+        [
+            "Gerlateria Gentile",
+            700007659
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:08, 23:59)",
+        [
+            "El Cantinero",
+            700014259
+        ]
+    ]
+]

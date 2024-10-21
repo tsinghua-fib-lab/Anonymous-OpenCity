@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700026963
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:55)",
+        [
+            "Pub Elysees",
+            700068957
+        ]
+    ],
+    [
+        "Stay at Pub Elysees and have a drink or snack.",
+        "(11:33, 13:04)",
+        [
+            "Pub Elysees",
+            700068957
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 16:19)",
+        [
+            "",
+            700001938
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:21, 18:59)",
+        [
+            "Le Madam",
+            700015096
+        ]
+    ],
+    [
+        "Stay at Pub Elysees.",
+        "(21:07, 22:44)",
+        [
+            "Le Madam",
+            700015096
+        ]
+    ],
+    [
+        "Visit Torre di pizza.",
+        "(23:10, 23:59)",
+        [
+            "Pub Elysees",
+            700068957
+        ]
+    ]
+]

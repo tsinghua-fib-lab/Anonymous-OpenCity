@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006037
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:55)",
+        [
+            "TD Bank",
+            700006033
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:27, 18:31)",
+        [
+            "Vitahealth Apothecary",
+            700041297
+        ]
+    ],
+    [
+        "Attend a sports event or participate in a recreational activity.",
+        "(19:50, 20:53)",
+        [
+            "",
+            700040420
+        ]
+    ],
+    [
+        "Attend a sports event or participate in a recreational activity.",
+        "(20:32, 21:59)",
+        [
+            "",
+            700002039
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "Little Italy Pizza",
+            700024873
+        ]
+    ]
+]

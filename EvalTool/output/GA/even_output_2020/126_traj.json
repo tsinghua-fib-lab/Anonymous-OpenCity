@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Pawn Shop",
+            700009349
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(09:00, 10:03)",
+        [
+            "Erik Erikson Library",
+            700004904
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(10:41, 12:01)",
+        [
+            "Erik Erikson Library",
+            700004904
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:16, 13:53)",
+        [
+            "Erik Erikson Library",
+            700004904
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:31, 16:10)",
+        [
+            "Erik Erikson Library",
+            700004904
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:22, 18:32)",
+        [
+            "",
+            700011514
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:04, 21:34)",
+        [
+            "",
+            700005817
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:59)",
+        [
+            "",
+            700005821
+        ]
+    ]
+]

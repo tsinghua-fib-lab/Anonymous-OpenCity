@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "2175 Market Street",
+            700014423
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:09)",
+        [
+            "Sancha Sushi",
+            700009129
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:27, 16:29)",
+        [
+            "Sancha Sushi",
+            700009129
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:39, 19:47)",
+        [
+            "Sancha Sushi",
+            700009129
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(22:00, 23:59)",
+        [
+            "Sancha Sushi",
+            700009129
+        ]
+    ],
+    [
+        "Stay at McCormick & Kuleto‘s Seafood & Steaks",
+        "(23:53, 23:59)",
+        [
+            "Red Jade",
+            700009177
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002610
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 10:10)",
+        [
+            "",
+            700002610
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:26, 15:16)",
+        [
+            "Lenwich",
+            700007281
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:48, 17:51)",
+        [
+            "",
+            700018228
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(18:44, 20:05)",
+        [
+            "",
+            700002610
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(20:33, 22:09)",
+        [
+            "Guantanamera",
+            700011295
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:36, 23:59)",
+        [
+            "Little Italy Pizza",
+            700039911
+        ]
+    ]
+]

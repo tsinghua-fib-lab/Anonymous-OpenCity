@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Psychic Readings",
+            700038128
+        ]
+    ],
+    [
+        "Engage in a morning workout or leisurely walk",
+        "(09:00, 09:56)",
+        [
+            "Saltwater Coffee",
+            700023335
+        ]
+    ],
+    [
+        "current place: Psychic Readings; stay time:",
+        "(10:07, 11:31)",
+        [
+            "Saltwater Coffee",
+            700023335
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 13:08)",
+        [
+            "Hearth",
+            700010344
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 19:21)",
+        [
+            "Sao Mai",
+            700005934
+        ]
+    ],
+    [
+        "Stay at current place: Saltwater Coffee.",
+        "(20:15, 21:38)",
+        [
+            "Hearth",
+            700010344
+        ]
+    ],
+    [
+        "Stay at Saltwater Coffee.",
+        "(21:49, 23:07)",
+        [
+            "Hearth",
+            700010344
+        ]
+    ]
+]

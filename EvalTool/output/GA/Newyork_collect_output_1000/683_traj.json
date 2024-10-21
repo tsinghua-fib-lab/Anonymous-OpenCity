@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Go for a refreshing walk or light exercise.",
+        "(10:00, 10:50)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Stay where you are and read a book or catch up on personal interests.",
+        "(11:14, 12:58)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Stay at iPark to relax and enjoy some free time.",
+        "(14:05, 16:02)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:27, 19:30)",
+        [
+            "",
+            700002113
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:08, 23:59)",
+        [
+            "",
+            700018138
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank Hotel",
+            700003993
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:50)",
+        [
+            "Bob's Chemist Newtown",
+            700003994
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:36, 17:39)",
+        [
+            "Bank Hotel",
+            700003993
+        ]
+    ],
+    [
+        "Prepare a Simple Dinner",
+        "(18:23, 20:05)",
+        [
+            "Bank Hotel",
+            700003993
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:56, 23:59)",
+        [
+            "Black Star Pastry & Café",
+            700004007
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "Beach Burrito Company",
+            700004005
+        ]
+    ]
+]

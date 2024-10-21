@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Müesi Cafe",
+            700005580
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:00, 11:02)",
+        [
+            "Müesi Cafe",
+            700005580
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(11:05, 12:54)",
+        [
+            "Müesi Cafe",
+            700005580
+        ]
+    ],
+    [
+        "Relaxation and Leisure Reading",
+        "(13:30, 15:05)",
+        [
+            "Müesi Cafe",
+            700005580
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:48, 20:30)",
+        [
+            "GIO Gelati",
+            700008810
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 22:19)",
+        [
+            "",
+            700008809
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:59)",
+        [
+            "California Institute of Fashion",
+            700000280
+        ]
+    ]
+]

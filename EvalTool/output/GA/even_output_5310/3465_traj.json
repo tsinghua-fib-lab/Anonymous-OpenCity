@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Avenue D & E 12 St",
+            700007952
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:32)",
+        [
+            "Citi Bike - Avenue D & E 12 St",
+            700007952
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:34, 12:10)",
+        [
+            "Citi Bike - Avenue D & E 12 St",
+            700007952
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:54, 15:10)",
+        [
+            "",
+            700017755
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:45, 20:21)",
+        [
+            "",
+            700003058
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:48, 20:51)",
+        [
+            "Citi Bike - Avenue D & E 12 St",
+            700007952
+        ]
+    ],
+    [
+        "Relaxing Evening Routine",
+        "(21:52, 22:59)",
+        [
+            "",
+            700019562
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "",
+            700019561
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700019104
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:57)",
+        [
+            "Yonah Shimmel Knish Bakery",
+            700004503
+        ]
+    ],
+    [
+        "Lunch and Relaxation",
+        "(11:38, 13:12)",
+        [
+            "Yonah Shimmel Knish Bakery",
+            700004503
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:44, 16:13)",
+        [
+            "Fools Gold",
+            700009785
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(17:07, 19:08)",
+        [
+            "The Late Late",
+            700005164
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:22, 21:51)",
+        [
+            "The Late Late",
+            700005164
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:42, 23:59)",
+        [
+            "Fossetta",
+            700009040
+        ]
+    ]
+]

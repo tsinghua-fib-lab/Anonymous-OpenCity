@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Capital Restaurant",
+            700004691
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:52)",
+        [
+            "Capital Restaurant",
+            700004691
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:48, 13:27)",
+        [
+            "Moongate Lounge",
+            700010416
+        ]
+    ],
+    [
+        "Hobby/Creative Time",
+        "(12:57, 14:06)",
+        [
+            "Moongate Lounge",
+            700010416
+        ]
+    ],
+    [
+        "Social Time",
+        "(14:46, 16:26)",
+        [
+            "Moongate Lounge",
+            700010416
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:52, 18:05)",
+        [
+            "Bank of America",
+            700001067
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:29, 20:07)",
+        [
+            "Moongate Lounge",
+            700010416
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:10, 23:59)",
+        [
+            "Mister Jiu's",
+            700004746
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:36, 23:59)",
+        [
+            "Cool Tea Bar",
+            700005993
+        ]
+    ]
+]

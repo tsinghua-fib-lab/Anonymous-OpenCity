@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Burger Co",
+            700004319
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(10:00, 10:56)",
+        [
+            "Mehanata Bulgarian Bar",
+            700014793
+        ]
+    ],
+    [
+        "Read a book or enjoy a podcast",
+        "(11:52, 13:07)",
+        [
+            "Mehanata Bulgarian Bar",
+            700014793
+        ]
+    ],
+    [
+        "Read a book or enjoy a podcast",
+        "(13:43, 14:50)",
+        [
+            "Mehanata Bulgarian Bar",
+            700014793
+        ]
+    ],
+    [
+        "Read a book or enjoy a podcast",
+        "(15:20, 16:50)",
+        [
+            "Mehanata Bulgarian Bar",
+            700014793
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 19:22)",
+        [
+            "Ramen Ishida",
+            700011527
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:07, 23:59)",
+        [
+            "Los Feliz",
+            700014795
+        ]
+    ]
+]

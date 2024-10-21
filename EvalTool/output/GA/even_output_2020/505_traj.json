@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fox and Lion Bread Company",
+            700011328
+        ]
+    ],
+    [
+        "next activity after breakfast",
+        "(10:00, 11:59)",
+        [
+            "",
+            700000707
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:27, 14:02)",
+        [
+            "Hinodeya",
+            700008544
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:01, 18:16)",
+        [
+            "Kippu",
+            700001861
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(15:52, 17:54)",
+        [
+            "Hinodeya",
+            700008544
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:01, 22:19)",
+        [
+            "",
+            700008668
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:55, 23:59)",
+        [
+            "Ramen Yamadaya",
+            700008545
+        ]
+    ]
+]

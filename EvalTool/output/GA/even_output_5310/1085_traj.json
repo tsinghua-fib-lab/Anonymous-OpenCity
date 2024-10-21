@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Flame",
+            700006116
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:53)",
+        [
+            "Masseria Caffé & Bakery",
+            700006400
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 13:31)",
+        [
+            "",
+            700002784
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:51, 20:18)",
+        [
+            "Masseria Caffé & Bakery",
+            700006400
+        ]
+    ],
+    [
+        "Movie Night",
+        "(21:30, 23:04)",
+        [
+            "Masseria Caffé & Bakery",
+            700006400
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:43, 23:59)",
+        [
+            "The Dental Office of Dr. Ronald Birnbaum",
+            700007280
+        ]
+    ]
+]

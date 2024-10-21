@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700021863
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:48)",
+        [
+            "",
+            700021864
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:25, 14:49)",
+        [
+            "",
+            700022434
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:06, 17:52)",
+        [
+            "Kennedy Chicken",
+            700022201
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(20:23, 21:52)",
+        [
+            "Kennedy Chicken",
+            700022201
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(22:13, 23:59)",
+        [
+            "Citi Bike - Pitt St & Stanton St",
+            700008166
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Cooke School and Institute Lower School",
+            700006429
+        ]
+    ]
+]

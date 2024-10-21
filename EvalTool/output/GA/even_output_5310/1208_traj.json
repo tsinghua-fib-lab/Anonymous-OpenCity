@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002567
+        ]
+    ],
+    [
+        "11:00 AM - Go for a walk in a nearby park",
+        "(10:00, 10:55)",
+        [
+            "Lure Fishbar",
+            700010851
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:33, 15:55)",
+        [
+            "Panther Coffee",
+            700039252
+        ]
+    ],
+    [
+        "5:00 PM - Play some sports or games (like basketball or video games)",
+        "(16:14, 17:36)",
+        [
+            "Citi Bike",
+            700028573
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:26, 23:59)",
+        [
+            "",
+            700002924
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Elements Bar & Grill",
+            700027790
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:59)",
+        [
+            "Elements Bar & Grill",
+            700027790
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 14:17)",
+        [
+            "Artspace",
+            700004568
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:42, 18:05)",
+        [
+            "Artspace",
+            700004568
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:30, 22:48)",
+        [
+            "",
+            700032550
+        ]
+    ],
+    [
+        "Family Game Night",
+        "(20:33, 22:07)",
+        [
+            "Artspace",
+            700004568
+        ]
+    ],
+    [
+        "Family Game Night",
+        "(22:10, 23:42)",
+        [
+            "Elements Bar & Grill",
+            700027790
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Foodoomooloo",
+            700027766
+        ]
+    ]
+]

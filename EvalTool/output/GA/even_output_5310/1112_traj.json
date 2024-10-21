@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013926
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:08)",
+        [
+            "Tipsy Parson",
+            700004411
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:56, 13:50)",
+        [
+            "Tipsy Parson",
+            700004411
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:32, 17:37)",
+        [
+            "",
+            700002333
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(20:24, 21:55)",
+        [
+            "Tipsy Parson",
+            700004411
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:11, 23:59)",
+        [
+            "Stone Street Coffee Company",
+            700014509
+        ]
+    ]
+]

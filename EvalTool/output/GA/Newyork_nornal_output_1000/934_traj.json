@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Centre St & Chambers St",
+            700007992
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:34)",
+        [
+            "",
+            700033673
+        ]
+    ],
+    [
+        "1:30 PM - 3:00 PM: Visit a local art gallery or museum to explore and appreciate culture.",
+        "(14:16, 15:55)",
+        [
+            "",
+            700022896
+        ]
+    ],
+    [
+        "Head out for an evening walk.",
+        "(16:24, 18:27)",
+        [
+            "",
+            700034771
+        ]
+    ],
+    [
+        "Head out for an evening walk",
+        "(18:55, 19:51)",
+        [
+            "Citi Bike - Centre St & Chambers St",
+            700007992
+        ]
+    ],
+    [
+        "Stay at the bike rental.",
+        "(20:59, 23:38)",
+        [
+            "Citi Bike - Centre St & Chambers St",
+            700007992
+        ]
+    ],
+    [
+        "Stay at Citi Bike - Centre St & Chambers St",
+        "(22:49, 23:59)",
+        [
+            "Citi Bike - Centre St & Chambers St",
+            700007992
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ess-a-Bagel",
+            700023332
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 11:01)",
+        [
+            "Ess-a-Bagel",
+            700023332
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:20, 16:58)",
+        [
+            "Proong Noodle Bar",
+            700025847
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:22, 22:29)",
+        [
+            "",
+            700009106
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(22:35, 23:59)",
+        [
+            "Ess-a-Bagel",
+            700023332
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "60 Riverside Blvd",
+            700018472
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(09:00, 10:27)",
+        [
+            "Starbucks",
+            700026514
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(11:16, 13:10)",
+        [
+            "Starbucks",
+            700026514
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 17:17)",
+        [
+            "Apple Bank",
+            700005936
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:52, 17:05)",
+        [
+            "Apple Bank",
+            700005936
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:00, 17:52)",
+        [
+            "Apple Bank",
+            700005936
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 22:51)",
+        [
+            "Connolly's",
+            700007355
+        ]
+    ],
+    [
+        "Evening Wind-down",
+        "(23:30, 23:59)",
+        [
+            "",
+            700018806
+        ]
+    ]
+]

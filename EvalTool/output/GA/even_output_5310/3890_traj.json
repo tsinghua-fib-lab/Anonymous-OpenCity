@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bank of America",
+            700017485
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:10)",
+        [
+            "Starbucks",
+            700010579
+        ]
+    ],
+    [
+        "Relaxation and Reading",
+        "(10:49, 11:56)",
+        [
+            "Soft Swerve",
+            700015892
+        ]
+    ],
+    [
+        "Engage in a fun afternoon activity",
+        "(13:00, 15:06)",
+        [
+            "Soft Swerve",
+            700015892
+        ]
+    ],
+    [
+        "Engage in a fun afternoon activity",
+        "(15:07, 17:16)",
+        [
+            "Soft Swerve",
+            700015892
+        ]
+    ],
+    [
+        "Dinner Preparation or Dining Out.",
+        "(17:33, 19:05)",
+        [
+            "",
+            700002450
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:01, 23:59)",
+        [
+            "Starbucks",
+            700010579
+        ]
+    ],
+    [
+        "Evening Leisure",
+        "(22:04, 23:43)",
+        [
+            "",
+            700002868
+        ]
+    ],
+    [
+        "Evening Leisure",
+        "(23:32, 23:59)",
+        [
+            "Turkish Kitchen",
+            700008587
+        ]
+    ]
+]

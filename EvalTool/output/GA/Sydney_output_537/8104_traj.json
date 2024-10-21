@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Korean Street Food",
+            700013943
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:42)",
+        [
+            "",
+            700005005
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:17, 15:36)",
+        [
+            "Korean Street Food",
+            700013943
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:04, 17:46)",
+        [
+            "Broaster Chicken",
+            700013348
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:01, 20:16)",
+        [
+            "Gloria Jean's Coffee",
+            700002016
+        ]
+    ],
+    [
+        "Current place: Macchina Espresso, stay time: 1 hour",
+        "(20:47, 22:09)",
+        [
+            "Korean Street Food",
+            700013943
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:24, 23:59)",
+        [
+            "Lemon Tree",
+            700014467
+        ]
+    ]
+]

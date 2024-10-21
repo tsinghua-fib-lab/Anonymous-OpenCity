@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mulberry Pharmacy",
+            700014454
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:49)",
+        [
+            "Bodhi",
+            700008516
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(14:20, 16:20)",
+        [
+            "Bodhi",
+            700008516
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:58, 22:29)",
+        [
+            "Bodhi",
+            700008516
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 20:59)",
+        [
+            "Dr. Clark",
+            700012142
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Appethaize",
+            700014723
+        ]
+    ]
+]

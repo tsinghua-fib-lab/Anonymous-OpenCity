@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Lucky",
+            700029808
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:16)",
+        [
+            "Ninth Street Espresso",
+            700013666
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 18:30)",
+        [
+            "Soda Club",
+            700005414
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(15:56, 17:33)",
+        [
+            "Lucky",
+            700029808
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:06, 20:08)",
+        [
+            "Lucky",
+            700029808
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:45, 23:59)",
+        [
+            "Lucky",
+            700029808
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:21, 23:59)",
+        [
+            "",
+            700001765
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002083
+        ]
+    ],
+    [
+        "Engage in a recreational activity, such as going for a jog or a bike ride in a nearby park.",
+        "(10:00, 12:10)",
+        [
+            "",
+            700000420
+        ]
+    ],
+    [
+        "Next activity based on the plan.",
+        "(12:33, 14:40)",
+        [
+            "Soho Room",
+            700009183
+        ]
+    ],
+    [
+        "Attend a leisurely activity, like visiting a museum, art gallery, or catching a matinee movie.",
+        "(14:55, 17:00)",
+        [
+            "",
+            700003206
+        ]
+    ],
+    [
+        "Attend a leisurely activity",
+        "(17:08, 18:59)",
+        [
+            "Soho Room",
+            700009183
+        ]
+    ],
+    [
+        "Attend a leisurely activity.",
+        "(19:14, 20:56)",
+        [
+            "Soho Room",
+            700009183
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:50, 23:08)",
+        [
+            "Soho Room",
+            700009183
+        ]
+    ]
+]

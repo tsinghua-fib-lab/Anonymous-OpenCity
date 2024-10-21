@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rosemary's Pantry",
+            700026188
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 10:54)",
+        [
+            "Tal Bagels",
+            700012537
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:54, 13:22)",
+        [
+            "Tal Bagels",
+            700012537
+        ]
+    ],
+    [
+        "Stay at Rosemary's Pantry",
+        "(14:30, 15:59)",
+        [
+            "Grill 21",
+            700025848
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(17:27, 18:53)",
+        [
+            "Rosemary's Pantry",
+            700026188
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 20th Street & FDR Drive",
+        "(19:29, 20:58)",
+        [
+            "Frank's Trattoria",
+            700025849
+        ]
+    ],
+    [
+        "Stay at Rosemary's Pantry",
+        "(21:24, 22:33)",
+        [
+            "Grill 21",
+            700025848
+        ]
+    ],
+    [
+        "Stay at Rosemary's Pantry",
+        "(22:54, 23:59)",
+        [
+            "Grill 21",
+            700025848
+        ]
+    ]
+]

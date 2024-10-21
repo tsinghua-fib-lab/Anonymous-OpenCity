@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bluestone Lane",
+            700008804
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:39)",
+        [
+            "",
+            700000900
+        ]
+    ],
+    [
+        "2:00 PM - Outdoor Activity",
+        "(12:54, 14:34)",
+        [
+            "",
+            700003339
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 19:48)",
+        [
+            "Obscenity Bar & Lounge",
+            700005104
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:19, 18:40)",
+        [
+            "Obscenity Bar & Lounge",
+            700005104
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 23:59)",
+        [
+            "Lori's Diner",
+            700001603
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:53, 21:09)",
+        [
+            "Taxi Stand at Marriott Union Square",
+            700009889
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:31, 23:59)",
+        [
+            "",
+            700008714
+        ]
+    ]
+]

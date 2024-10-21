@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:39)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:09, 15:34)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:55, 17:29)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "Relaxation & Wind Down",
+        "(19:15, 20:56)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill",
+        "(21:40, 23:07)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill",
+        "(23:53, 23:59)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ]
+]

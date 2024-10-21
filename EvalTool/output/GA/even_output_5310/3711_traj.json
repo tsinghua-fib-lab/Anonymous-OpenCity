@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Parkside Lounge",
+            700004037
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:29)",
+        [
+            "Cornerstone Cafe",
+            700004481
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:17, 13:56)",
+        [
+            "Cornerstone Cafe",
+            700004481
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:43, 16:03)",
+        [
+            "Cornerstone Cafe",
+            700004481
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:23, 17:49)",
+        [
+            "Eastpoint",
+            700019572
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(20:25, 22:10)",
+        [
+            "Eastpoint",
+            700019572
+        ]
+    ],
+    [
+        "Stay at Eastpoint",
+        "(22:45, 23:59)",
+        [
+            "Poco",
+            700008391
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Five Iron Golf",
+            700013241
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:01)",
+        [
+            "",
+            700002152
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(16:12, 17:59)",
+        [
+            "Five Iron Golf",
+            700013241
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(18:51, 19:54)",
+        [
+            "Five Iron Golf",
+            700013241
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:59, 22:26)",
+        [
+            "",
+            700002152
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "Steve Alper DMD",
+            700003795
+        ]
+    ]
+]

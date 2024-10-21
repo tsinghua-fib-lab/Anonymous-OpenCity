@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700044910
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:56)",
+        [
+            "",
+            700053888
+        ]
+    ],
+    [
+        "Watch a Movie",
+        "(14:32, 16:09)",
+        [
+            "Mordu",
+            700058225
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:03, 17:53)",
+        [
+            "Auditorium Saint-Germain",
+            700014525
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(20:43, 21:57)",
+        [
+            "Auditorium Saint-Germain",
+            700014525
+        ]
+    ],
+    [
+        "Situation 4",
+        "(22:24, 23:59)",
+        [
+            "Auditorium Saint-Germain",
+            700014525
+        ]
+    ],
+    [
+        "Stay at Auditorium Saint-Germain for a winding down",
+        "(23:56, 23:59)",
+        [
+            "Auditorium Saint-Germain",
+            700014525
+        ]
+    ]
+]

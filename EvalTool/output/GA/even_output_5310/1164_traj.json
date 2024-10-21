@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Peoples Pharmacy",
+            700039536
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:24)",
+        [
+            "Ten Ren",
+            700013298
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 15:11)",
+        [
+            "",
+            700037867
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 21:01)",
+        [
+            "Canal Pharmacy",
+            700014902
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:59, 23:45)",
+        [
+            "Canal Pharmacy",
+            700014902
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:26, 23:59)",
+        [
+            "",
+            700037871
+        ]
+    ]
+]

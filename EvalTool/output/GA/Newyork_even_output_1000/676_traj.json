@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Parkside Lounge",
+            700004037
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:06)",
+        [
+            "Mughlai Indian Cuisine",
+            700010055
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(11:12, 12:23)",
+        [
+            "Mughlai Indian Cuisine",
+            700010055
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(12:40, 13:59)",
+        [
+            "Mughlai Indian Cuisine",
+            700010055
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:05, 17:11)",
+        [
+            "Parkside Lounge",
+            700004037
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:41, 23:59)",
+        [
+            "Pause Cafe",
+            700004036
+        ]
+    ]
+]

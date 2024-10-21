@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700018079
+        ]
+    ],
+    [
+        "Next, proceed to Outdoor Exercise or Sports Activity.",
+        "(09:00, 10:39)",
+        [
+            "",
+            700018073
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping",
+        "(11:03, 12:39)",
+        [
+            "",
+            700018079
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping from USPS.",
+        "(13:12, 15:15)",
+        [
+            "",
+            700018077
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping.",
+        "(14:56, 17:00)",
+        [
+            "USPS",
+            700010321
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 21:12)",
+        [
+            "",
+            700018082
+        ]
+    ],
+    [
+        "Stay",
+        "(21:26, 23:32)",
+        [
+            "USPS",
+            700010321
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "",
+            700018075
+        ]
+    ]
+]

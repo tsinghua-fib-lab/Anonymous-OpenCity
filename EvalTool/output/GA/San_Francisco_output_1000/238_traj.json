@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Open House",
+            700013314
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:44)",
+        [
+            "",
+            700008309
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(14:37, 17:15)",
+        [
+            "Bank of America",
+            700009580
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 21:48)",
+        [
+            "Bob Ross LGBT Senior Center",
+            700013315
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:58, 23:59)",
+        [
+            "",
+            700008309
+        ]
+    ]
+]

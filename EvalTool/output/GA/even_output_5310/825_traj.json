@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ritz Diner",
+            700006524
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 11:01)",
+        [
+            "Ritz Diner",
+            700006524
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:49, 13:18)",
+        [
+            "Merchants Cigar Bar",
+            700006521
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 19:32)",
+        [
+            "Shaken Not Stirred",
+            700006520
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 21:01)",
+        [
+            "Ohm Center",
+            700036807
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 21:57)",
+        [
+            "Ohm Center",
+            700036807
+        ]
+    ],
+    [
+        "Stay at Ohm Center",
+        "(23:45, 23:59)",
+        [
+            "Ohm Center",
+            700036807
+        ]
+    ]
+]

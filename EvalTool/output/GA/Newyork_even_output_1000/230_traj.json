@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Nature's Cure Pharmacy",
+            700015710
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:36)",
+        [
+            "El Parador Café",
+            700003606
+        ]
+    ],
+    [
+        "Enjoy a long leisurely session at El Parador Café",
+        "(11:29, 13:09)",
+        [
+            "El Parador Café",
+            700003606
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:12, 15:41)",
+        [
+            "Yoonkao Thai",
+            700008430
+        ]
+    ],
+    [
+        "Watch Sports/Game",
+        "(18:28, 19:56)",
+        [
+            "Profit II",
+            700006405
+        ]
+    ],
+    [
+        "You are at Yoonkao Thai. It's 20:33 and you can stay here more time.",
+        "(20:33, 22:39)",
+        [
+            "Yoonkao Thai",
+            700008430
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "Ginza",
+            700013041
+        ]
+    ]
+]

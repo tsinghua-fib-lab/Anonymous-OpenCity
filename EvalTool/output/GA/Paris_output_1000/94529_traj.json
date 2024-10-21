@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700067237
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 11:07)",
+        [
+            "Change Master",
+            700034767
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:27, 13:02)",
+        [
+            "Change Master",
+            700034767
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:04, 14:28)",
+        [
+            "Change Master",
+            700034767
+        ]
+    ],
+    [
+        "Afternoon Sports Activity",
+        "(15:17, 17:06)",
+        [
+            "Change Master",
+            700034767
+        ]
+    ],
+    [
+        "Afternoon Sports Activity",
+        "(16:53, 17:52)",
+        [
+            "",
+            700036583
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:41, 21:32)",
+        [
+            "Notre-Dame",
+            700006309
+        ]
+    ],
+    [
+        "Next Place After Leisure Time",
+        "(23:37, 23:59)",
+        [
+            "",
+            700025214
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002602
+        ]
+    ],
+    [
+        "Go for a walk in the nearby park.",
+        "(10:00, 10:55)",
+        [
+            "Hamburger America",
+            700040371
+        ]
+    ],
+    [
+        "Go for a walk in the nearby park.",
+        "(11:26, 12:51)",
+        [
+            "12 Chairs",
+            700006255
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:52, 14:10)",
+        [
+            "Mori",
+            700039642
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 17:19)",
+        [
+            "Comodo",
+            700006254
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 21:06)",
+        [
+            "Emmett's",
+            700006536
+        ]
+    ],
+    [
+        "Head to 7th Street Burger.",
+        "(23:25, 23:59)",
+        [
+            "Cooke Center Academy",
+            700006247
+        ]
+    ]
+]

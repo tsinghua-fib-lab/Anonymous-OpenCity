@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700016565
+        ]
+    ],
+    [
+        "Go for a refreshing morning walk or jog in a nearby park to enjoy the outdoors and stay active.",
+        "(10:00, 11:26)",
+        [
+            "Chase",
+            700007373
+        ]
+    ],
+    [
+        "Go for a refreshing morning walk or jog in a nearby park to enjoy the outdoors and stay active.",
+        "(12:02, 13:34)",
+        [
+            "Chase",
+            700007373
+        ]
+    ],
+    [
+        "Continue reading a book or catching up on podcasts at home.",
+        "(13:35, 15:09)",
+        [
+            "Chase",
+            700007373
+        ]
+    ],
+    [
+        "Engage in a recreational activity, such as playing a sport, joining a fitness class, or visiting a local museum.",
+        "(15:26, 16:54)",
+        [
+            "Chase",
+            700007373
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:32, 20:48)",
+        [
+            "Citibank",
+            700006021
+        ]
+    ],
+    [
+        "Situation_10",
+        "(23:03, 23:59)",
+        [
+            "Citibank",
+            700006021
+        ]
+    ]
+]

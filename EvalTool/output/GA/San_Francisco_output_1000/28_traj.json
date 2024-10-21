@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Mill",
+            700002649
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:36)",
+        [
+            "The Mill",
+            700002649
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby",
+        "(11:03, 12:32)",
+        [
+            "",
+            700002932
+        ]
+    ],
+    [
+        "Social Time with Friends/Family",
+        "(13:02, 15:55)",
+        [
+            "The Mill",
+            700002649
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:51, 18:34)",
+        [
+            "Ju-ni Sushi Bar",
+            700001552
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:54, 23:59)",
+        [
+            "",
+            700002931
+        ]
+    ]
+]

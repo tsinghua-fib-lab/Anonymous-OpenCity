@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Heirloom Cafe",
+            700002062
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:10)",
+        [
+            "Hua Zang Si",
+            700001809
+        ]
+    ],
+    [
+        "Continue Outdoor Activity",
+        "(12:14, 14:03)",
+        [
+            "Hua Zang Si",
+            700001809
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(14:48, 16:07)",
+        [
+            "Hua Zang Si",
+            700001809
+        ]
+    ],
+    [
+        "Continue Leisure Reading or Hobbies",
+        "(16:10, 17:52)",
+        [
+            "Hua Zang Si",
+            700001809
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:48, 19:51)",
+        [
+            "Heirloom Cafe",
+            700002062
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:15, 23:29)",
+        [
+            "George Moscone Elementary",
+            700000176
+        ]
+    ],
+    [
+        "Next arrangement considering your plan",
+        "(23:33, 23:59)",
+        [
+            "Heirloom Cafe",
+            700002062
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Beque",
+            700008685
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 11:07)",
+        [
+            "Marufuku Ramen",
+            700008690
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:10, 12:28)",
+        [
+            "",
+            700008699
+        ]
+    ],
+    [
+        "Participate in a fun sports activity, such as tennis or a group fitness class.",
+        "(17:58, 19:31)",
+        [
+            "",
+            700008687
+        ]
+    ],
+    [
+        "Wind down the day by watching a movie or reading a book.",
+        "(20:12, 22:38)",
+        [
+            "Beque",
+            700008685
+        ]
+    ],
+    [
+        "Stay at Beque",
+        "(23:39, 23:59)",
+        [
+            "Beque",
+            700008685
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Jinshan Cafe",
+            700014406
+        ]
+    ],
+    [
+        "Morning Exercise or Outdoor Activity",
+        "(10:00, 11:32)",
+        [
+            "Sushi Boat Restaurant",
+            700007378
+        ]
+    ],
+    [
+        "Late Afternoon Hobby or Sport",
+        "(12:17, 13:47)",
+        [
+            "Sushi Boat Restaurant",
+            700007378
+        ]
+    ],
+    [
+        "Relax and Unwind with a Book or Movie",
+        "(14:30, 16:08)",
+        [
+            "Sushi Boat Restaurant",
+            700007378
+        ]
+    ],
+    [
+        "Late Afternoon Hobby or Sport",
+        "(16:26, 17:48)",
+        [
+            "Sushi Boat Restaurant",
+            700007378
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 21:16)",
+        [
+            "",
+            700000617
+        ]
+    ]
+]

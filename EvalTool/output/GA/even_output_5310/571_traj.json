@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011180
+        ]
+    ],
+    [
+        "Workout",
+        "(10:00, 11:32)",
+        [
+            "Citi Bike - East 19th Street & 3rd Avenue",
+            700008029
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:27, 16:30)",
+        [
+            "Gramercy Park",
+            700004032
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:33, 16:00)",
+        [
+            "Gramercy Park",
+            700004032
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 19:15)",
+        [
+            "Eleni's Goods",
+            700020716
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 23:48)",
+        [
+            "Paddy Maguire's",
+            700018483
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:48, 23:59)",
+        [
+            "Sushi Dairo",
+            700019489
+        ]
+    ]
+]

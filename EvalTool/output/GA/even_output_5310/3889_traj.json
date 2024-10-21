@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000850
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(10:00, 10:54)",
+        [
+            "Pizza Pot Pies",
+            700011970
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(11:05, 12:07)",
+        [
+            "Pizza Pot Pies",
+            700011970
+        ]
+    ],
+    [
+        "Leisure Activity (Reading/Watching TV)",
+        "(12:40, 13:55)",
+        [
+            "Pizza Pot Pies",
+            700011970
+        ]
+    ],
+    [
+        "Community or Social Activity",
+        "(14:12, 15:38)",
+        [
+            "Pizza Pot Pies",
+            700011970
+        ]
+    ],
+    [
+        "Community or Social Activity",
+        "(16:21, 18:01)",
+        [
+            "",
+            700000850
+        ]
+    ],
+    [
+        "Community or Social Activity",
+        "(18:36, 20:13)",
+        [
+            "Pizza Pot Pies",
+            700011970
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 23:59)",
+        [
+            "JoJo's Philosophy Bar and Grill",
+            700005071
+        ]
+    ]
+]

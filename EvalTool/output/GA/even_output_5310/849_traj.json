@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "University Animal Hospital",
+            700041299
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:22)",
+        [
+            "",
+            700040420
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:38, 14:03)",
+        [
+            "University Animal Hospital",
+            700041299
+        ]
+    ],
+    [
+        "Continue watching a movie or series.",
+        "(14:10, 16:02)",
+        [
+            "University Animal Hospital",
+            700041299
+        ]
+    ],
+    [
+        "Continue watching a movie or series",
+        "(16:24, 18:22)",
+        [
+            "University Animal Hospital",
+            700041299
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 21:05)",
+        [
+            "",
+            700040420
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:40, 22:06)",
+        [
+            "",
+            700002039
+        ]
+    ]
+]

@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003058
+        ]
+    ],
+    [
+        "Enjoy breakfast",
+        "(10:00, 10:58)",
+        [
+            "",
+            700003058
+        ]
+    ],
+    [
+        "Stay at your home.",
+        "(11:47, 12:57)",
+        [
+            "Citi Bike - E 9 St & Avenue C",
+            700008063
+        ]
+    ],
+    [
+        "Stay at your home.",
+        "(13:37, 14:49)",
+        [
+            "Citi Bike - E 9 St & Avenue C",
+            700008063
+        ]
+    ],
+    [
+        "Stay at your home.",
+        "(15:11, 16:32)",
+        [
+            "Citi Bike - E 9 St & Avenue C",
+            700008063
+        ]
+    ],
+    [
+        "Stay at 9th St Espresso",
+        "(17:03, 18:41)",
+        [
+            "The Wayland",
+            700014143
+        ]
+    ],
+    [
+        "Stay at 9th St Espresso.",
+        "(18:57, 19:49)",
+        [
+            "The Wayland",
+            700014143
+        ]
+    ],
+    [
+        "Stay at 9th St Espresso.",
+        "(20:23, 22:01)",
+        [
+            "The Wayland",
+            700014143
+        ]
+    ],
+    [
+        "Stay at 9th St Espresso",
+        "(22:17, 23:19)",
+        [
+            "The Wayland",
+            700014143
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "Bobby's Night Out",
+            700018148
+        ]
+    ]
+]

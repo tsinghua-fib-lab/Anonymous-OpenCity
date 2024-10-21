@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:31)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Reading or Learning Time",
+        "(11:17, 13:04)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 16:48)",
+        [
+            "Citi Bike - East 25th Street & 2nd Avenue",
+            700008039
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:18, 23:35)",
+        [
+            "Kenneth A. Mercer, MD",
+            700023846
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(20:58, 23:06)",
+        [
+            "",
+            700011173
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "Citi Bike - East 25th Street & 2nd Avenue",
+            700008039
+        ]
+    ]
+]

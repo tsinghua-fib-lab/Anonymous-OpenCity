@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Caffè Palermo",
+            700019419
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:58)",
+        [
+            "Gelso & Grand",
+            700011932
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:30, 16:10)",
+        [
+            "Benito One",
+            700008895
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 19:10)",
+        [
+            "",
+            700025297
+        ]
+    ],
+    [
+        "Head to Saint Stephen of Hungary Church after dinner.",
+        "(21:23, 23:32)",
+        [
+            "L' Amore",
+            700010068
+        ]
+    ],
+    [
+        "Head to Saint Stephen of Hungary Church",
+        "(23:17, 23:59)",
+        [
+            "Da Nico",
+            700014660
+        ]
+    ]
+]

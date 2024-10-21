@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "McDonald's",
+            700013550
+        ]
+    ],
+    [
+        "Workout",
+        "(10:00, 11:22)",
+        [
+            "ProHEALTH Urgent Care",
+            700013549
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:27, 13:50)",
+        [
+            "Rite Way Drugs & Surgicals",
+            700025845
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:33, 16:02)",
+        [
+            "Rite Way Drugs & Surgicals",
+            700025845
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 21:08)",
+        [
+            "Starbucks",
+            700019509
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 23:59)",
+        [
+            "Citi Bike - East 23rd Street & 1st Avenue",
+            700008036
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(22:48, 23:59)",
+        [
+            "",
+            700017694
+        ]
+    ]
+]

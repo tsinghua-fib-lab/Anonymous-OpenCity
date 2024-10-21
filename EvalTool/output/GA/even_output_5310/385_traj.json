@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Via Quadronno",
+            700019744
+        ]
+    ],
+    [
+        "Next, proceed to Outdoor Exercise or Sports Activity.",
+        "(09:00, 10:33)",
+        [
+            "",
+            700017534
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping",
+        "(11:03, 12:35)",
+        [
+            "Via Quadronno",
+            700019744
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping from Via Quadronno.",
+        "(13:12, 15:09)",
+        [
+            "",
+            700012938
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping.",
+        "(14:56, 17:06)",
+        [
+            "Via Quadronno",
+            700019744
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 18:50)",
+        [
+            "Facial Plastic Surgery Group of NYC",
+            700028602
+        ]
+    ],
+    [
+        "Stay",
+        "(21:26, 23:52)",
+        [
+            "Via Quadronno",
+            700019744
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Ralph's Coffee",
+            700015286
+        ]
+    ]
+]

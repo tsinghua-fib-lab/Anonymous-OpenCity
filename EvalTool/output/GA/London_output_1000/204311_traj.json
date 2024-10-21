@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:21)",
+        [
+            "Appennino",
+            700019571
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 15:36)",
+        [
+            "Mac and Wild",
+            700030294
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:44, 17:32)",
+        [
+            "Café Luca",
+            700055102
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(20:06, 22:06)",
+        [
+            "Bank of Ceylon",
+            700020328
+        ]
+    ],
+    [
+        "Stay at the current place.",
+        "(22:01, 23:19)",
+        [
+            "",
+            700053557
+        ]
+    ],
+    [
+        "Go to Taste Of AsiA for dinner",
+        "(23:36, 23:59)",
+        [
+            "",
+            700025352
+        ]
+    ]
+]

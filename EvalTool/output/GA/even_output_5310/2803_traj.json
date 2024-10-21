@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kung Fu Tea/TKK Fried Chicken",
+            700032002
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:00, 11:10)",
+        [
+            "New York Sports Clubs",
+            700018117
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:55, 11:55)",
+        [
+            "New York Sports Clubs",
+            700018117
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:51, 16:26)",
+        [
+            "New York Sports Clubs",
+            700018117
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(17:18, 18:53)",
+        [
+            "New York Sports Clubs",
+            700018117
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 23:11)",
+        [
+            "",
+            700018501
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "Dos Toros Taqueria",
+            700013567
+        ]
+    ]
+]

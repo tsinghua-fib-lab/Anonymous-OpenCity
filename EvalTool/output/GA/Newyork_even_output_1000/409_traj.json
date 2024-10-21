@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - East 67th Street & Park Avenue",
+            700017921
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:00)",
+        [
+            "",
+            700000928
+        ]
+    ],
+    [
+        "Afternoon Hobby",
+        "(14:23, 16:02)",
+        [
+            "Citi Bike - East 67th Street & Park Avenue",
+            700017921
+        ]
+    ],
+    [
+        "Head to Citi Bike - East 67th Street & Park Avenue for hobby time.",
+        "(16:25, 18:06)",
+        [
+            "Citi Bike - East 67th Street & Park Avenue",
+            700017921
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(18:07, 19:35)",
+        [
+            "Citi Bike - East 67th Street & Park Avenue",
+            700017921
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 67th Street & Park Avenue for hobby time",
+        "(20:36, 21:36)",
+        [
+            "Citi Bike - East 67th Street & Park Avenue",
+            700017921
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:29, 23:59)",
+        [
+            "Dominican Academy",
+            700000281
+        ]
+    ]
+]

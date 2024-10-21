@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "McDonald's",
+            700006066
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:03)",
+        [
+            "Paris Victor Hugo / Montevideo",
+            700003942
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 18:07)",
+        [
+            "Giulio Rebellato",
+            700029028
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:27, 18:59)",
+        [
+            "Crédit Mutuel",
+            700006064
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:12, 23:16)",
+        [
+            "McDonald's",
+            700006066
+        ]
+    ]
+]

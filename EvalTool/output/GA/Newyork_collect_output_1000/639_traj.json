@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 12:10)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(12:00, 13:32)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:42, 14:50)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ],
+    [
+        "Next activity",
+        "(18:37, 20:07)",
+        [
+            "",
+            700001612
+        ]
+    ],
+    [
+        "Next activity",
+        "(20:23, 21:52)",
+        [
+            "Small Door Veterinary",
+            700023462
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:59)",
+        [
+            "Ralph's Italian Ices",
+            700006208
+        ]
+    ]
+]

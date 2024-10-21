@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sticky's",
+            700018512
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:49)",
+        [
+            "Chopt",
+            700018511
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:09, 14:38)",
+        [
+            "Chopt",
+            700018511
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 20:25)",
+        [
+            "",
+            700026367
+        ]
+    ],
+    [
+        "You decide to go to another place.",
+        "(19:27, 20:53)",
+        [
+            "Blue Bottle Coffee",
+            700016217
+        ]
+    ],
+    [
+        "You stay at your current place.",
+        "(21:30, 22:55)",
+        [
+            "Blue Bottle Coffee",
+            700016217
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:08, 23:59)",
+        [
+            "",
+            700001380
+        ]
+    ]
+]

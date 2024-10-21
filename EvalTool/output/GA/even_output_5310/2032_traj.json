@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citibank",
+            700003460
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:46)",
+        [
+            "Bluebird London NYC",
+            700027375
+        ]
+    ],
+    [
+        "Moving to next activity.",
+        "(12:33, 14:37)",
+        [
+            "Bluebird London NYC",
+            700027375
+        ]
+    ],
+    [
+        "continue with the plan",
+        "(14:35, 16:29)",
+        [
+            "Sushi Damo",
+            700003462
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:46, 18:11)",
+        [
+            "Per Se",
+            700008565
+        ]
+    ],
+    [
+        "Current place: Per Se",
+        "(21:42, 23:21)",
+        [
+            "Per Se",
+            700008565
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Porter House Bar and Grill",
+            700009178
+        ]
+    ]
+]

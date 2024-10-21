@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ritm - Champs Elysées",
+            700060235
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:55)",
+        [
+            "",
+            700026960
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(12:45, 13:57)",
+        [
+            "",
+            700026952
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 17:08)",
+        [
+            "Pharmacie Anglaise des Champs-Élysées",
+            700003356
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 23:59)",
+        [
+            "Ritm - Champs Elysées",
+            700060235
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Omakase",
+            700003289
+        ]
+    ],
+    [
+        "Exercise (1 hour)",
+        "(10:00, 11:09)",
+        [
+            "Omakase",
+            700003289
+        ]
+    ],
+    [
+        "Exercise (1 hour)",
+        "(12:01, 14:52)",
+        [
+            "Saffron 685",
+            700003275
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 17:33)",
+        [
+            "Starbucks",
+            700001879
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(17:43, 18:44)",
+        [
+            "Starbucks",
+            700001879
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:18, 20:25)",
+        [
+            "Starbucks",
+            700001879
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:01, 22:35)",
+        [
+            "Starbucks",
+            700001879
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(22:27, 23:48)",
+        [
+            "Starbucks",
+            700001879
+        ]
+    ]
+]

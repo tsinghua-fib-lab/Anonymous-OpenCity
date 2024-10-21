@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Lenwich",
+            700024968
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:08)",
+        [
+            "Equinox",
+            700008521
+        ]
+    ],
+    [
+        "Leisure Reading / Hobby Time",
+        "(10:32, 13:08)",
+        [
+            "Equinox",
+            700008521
+        ]
+    ],
+    [
+        "Leisure Reading / Hobby Time",
+        "(13:39, 15:17)",
+        [
+            "Equinox",
+            700008521
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:49, 17:03)",
+        [
+            "Equinox",
+            700008521
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(16:55, 17:50)",
+        [
+            "Equinox",
+            700008521
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:09, 23:48)",
+        [
+            "",
+            700010338
+        ]
+    ],
+    [
+        "Dinner and Prepare for the Week",
+        "(21:52, 23:13)",
+        [
+            "",
+            700025746
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:38, 23:59)",
+        [
+            "ChargePoint",
+            700012434
+        ]
+    ]
+]

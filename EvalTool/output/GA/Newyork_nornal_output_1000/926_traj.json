@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citibank",
+            700004183
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(09:00, 10:23)",
+        [
+            "Chase",
+            700004182
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(11:16, 13:07)",
+        [
+            "Chase",
+            700004182
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 17:54)",
+        [
+            "Dunkin'",
+            700004185
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:52, 17:00)",
+        [
+            "Bagel Boss",
+            700006701
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:00, 18:02)",
+        [
+            "Chase",
+            700004182
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 19:29)",
+        [
+            "USPS",
+            700017695
+        ]
+    ],
+    [
+        "Evening Wind-down",
+        "(23:30, 23:59)",
+        [
+            "USPS",
+            700017695
+        ]
+    ]
+]

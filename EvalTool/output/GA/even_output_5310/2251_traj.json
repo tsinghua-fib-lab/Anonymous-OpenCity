@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002334
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:40)",
+        [
+            "",
+            700001367
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(12:10, 13:35)",
+        [
+            "Citi Bike - West 27th Street & 7th Avenue",
+            700007842
+        ]
+    ],
+    [
+        "Enjoy a Leisure Activity",
+        "(13:49, 15:39)",
+        [
+            "Citi Bike - West 27th Street & 7th Avenue",
+            700007842
+        ]
+    ],
+    [
+        "Watch a Movie/TV Series",
+        "(16:37, 18:06)",
+        [
+            "Citi Bike - West 27th Street & 7th Avenue",
+            700007842
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 23:15)",
+        [
+            "",
+            700020524
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:45, 22:06)",
+        [
+            "Citi Bike - West 27th Street & 7th Avenue",
+            700007842
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:37, 23:59)",
+        [
+            "",
+            700020541
+        ]
+    ]
+]

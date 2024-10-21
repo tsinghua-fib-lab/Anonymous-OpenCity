@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002898
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:27)",
+        [
+            "",
+            700005613
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:49, 14:55)",
+        [
+            "",
+            700006126
+        ]
+    ],
+    [
+        "Stay at the current place",
+        "(13:08, 14:57)",
+        [
+            "Bruno's Pizzeria",
+            700005606
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:24, 16:31)",
+        [
+            "Bruno's Pizzeria",
+            700005606
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:55, 17:57)",
+        [
+            "Panda Express",
+            700005827
+        ]
+    ],
+    [
+        "Coffee Break",
+        "(18:20, 19:32)",
+        [
+            "Panda Express",
+            700005827
+        ]
+    ],
+    [
+        "Watch a TV show or play board games with family/friends.",
+        "(20:49, 22:23)",
+        [
+            "Wells Fargo",
+            700002144
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:59)",
+        [
+            "",
+            700006126
+        ]
+    ]
+]

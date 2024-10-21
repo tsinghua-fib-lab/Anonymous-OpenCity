@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Pitt St & Stanton St",
+            700008166
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:07)",
+        [
+            "Citi Bike - E 2 St & Avenue C",
+            700008032
+        ]
+    ],
+    [
+        "Leisure reading or a walk outside",
+        "(11:54, 13:58)",
+        [
+            "",
+            700001034
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(13:28, 14:30)",
+        [
+            "Citi Bike - E 2 St & Avenue C",
+            700008032
+        ]
+    ],
+    [
+        "Engage in a hobby or craft",
+        "(15:30, 16:55)",
+        [
+            "Nuyorican Poets Cafe",
+            700030182
+        ]
+    ],
+    [
+        "Spend time with friends or family",
+        "(18:03, 19:38)",
+        [
+            "Citi Bike - Pitt St & Stanton St",
+            700008166
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 20:52)",
+        [
+            "Kennedy Chicken",
+            700022201
+        ]
+    ]
+]

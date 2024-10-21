@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002648
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:18)",
+        [
+            "Starbucks",
+            700007885
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:33, 20:09)",
+        [
+            "For U",
+            700007887
+        ]
+    ],
+    [
+        "Attend a sports event or game",
+        "(18:10, 20:42)",
+        [
+            "Thai Delight",
+            700023080
+        ]
+    ],
+    [
+        "Wind down with a movie or TV show",
+        "(20:55, 22:24)",
+        [
+            "RFX Studio",
+            700029596
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "Sathi",
+            700017783
+        ]
+    ]
+]

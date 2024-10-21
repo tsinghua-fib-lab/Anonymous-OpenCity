@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:53)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 16:38)",
+        [
+            "Au Za'atar",
+            700011621
+        ]
+    ],
+    [
+        "Relaxation and Entertainment",
+        "(17:34, 19:05)",
+        [
+            "Neary’s",
+            700010786
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 23:18)",
+        [
+            "",
+            700010697
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 23:11)",
+        [
+            "Au Za'atar",
+            700011621
+        ]
+    ]
+]

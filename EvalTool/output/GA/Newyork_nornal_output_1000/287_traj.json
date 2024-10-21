@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700006164
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:01)",
+        [
+            "",
+            700006164
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:28, 15:20)",
+        [
+            "10th Avenue Pizza & Cafe",
+            700014558
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(18:21, 19:49)",
+        [
+            "Citi Bike - West 26th Street & 10th Avenue",
+            700008212
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(20:29, 22:00)",
+        [
+            "10th Avenue Pizza & Cafe",
+            700014558
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:41, 23:59)",
+        [
+            "Chase",
+            700004316
+        ]
+    ]
+]

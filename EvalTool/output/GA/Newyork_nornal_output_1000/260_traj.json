@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "B&W Deli & Pizzeria",
+            700011111
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:58)",
+        [
+            "",
+            700001155
+        ]
+    ],
+    [
+        "grab a quick bite",
+        "(12:52, 13:59)",
+        [
+            "",
+            700002385
+        ]
+    ],
+    [
+        "Spend time on a personal project or hobby.",
+        "(14:07, 16:57)",
+        [
+            "",
+            700037713
+        ]
+    ],
+    [
+        "Stay at Starbucks for some quiet moments while you prepare for the week ahead.",
+        "(17:17, 19:04)",
+        [
+            "",
+            700037724
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 20:28)",
+        [
+            "",
+            700037727
+        ]
+    ],
+    [
+        "Stay at B&W Deli & Pizzeria.",
+        "(23:21, 23:59)",
+        [
+            "",
+            700037723
+        ]
+    ]
+]

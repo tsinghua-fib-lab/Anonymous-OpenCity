@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tacos Morelos",
+            700010942
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:34)",
+        [
+            "",
+            700000637
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:53, 17:35)",
+        [
+            "Lucy's Bar",
+            700033747
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(17:17, 19:00)",
+        [
+            "",
+            700001875
+        ]
+    ],
+    [
+        "Current place: Lucy's Bar, Stay Time",
+        "(19:52, 20:52)",
+        [
+            "Superiority Burger",
+            700014919
+        ]
+    ],
+    [
+        "Next activity: Watch a Sports Game or Movie.",
+        "(22:43, 23:59)",
+        [
+            "",
+            700001875
+        ]
+    ]
+]

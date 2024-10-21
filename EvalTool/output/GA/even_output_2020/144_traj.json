@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700012058
+        ]
+    ],
+    [
+        "Reading or catching up on news/articles",
+        "(10:00, 11:07)",
+        [
+            "South Park Cafe",
+            700000110
+        ]
+    ],
+    [
+        "Reading or catching up on news/articles",
+        "(11:33, 13:03)",
+        [
+            "South Park Cafe",
+            700000110
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:02, 18:13)",
+        [
+            "",
+            700005670
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 21:04)",
+        [
+            "",
+            700012057
+        ]
+    ]
+]

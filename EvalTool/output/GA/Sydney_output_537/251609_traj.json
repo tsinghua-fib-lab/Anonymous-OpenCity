@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chatime",
+            700011311
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:34)",
+        [
+            "",
+            700021857
+        ]
+    ],
+    [
+        "Watch a Sports Game",
+        "(13:42, 15:33)",
+        [
+            "Star Hotel",
+            700000151
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:54, 20:04)",
+        [
+            "Star Hotel",
+            700000151
+        ]
+    ],
+    [
+        "Wind Down with TV or Movies",
+        "(19:26, 21:34)",
+        [
+            "Chatime",
+            700011311
+        ]
+    ],
+    [
+        "Wind Down with TV or Movies",
+        "(21:32, 23:03)",
+        [
+            "Chatime",
+            700011311
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "Asian Food Court",
+            700013571
+        ]
+    ]
+]

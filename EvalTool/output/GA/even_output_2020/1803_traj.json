@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000491
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:33)",
+        [
+            "Chisme Cantina",
+            700005899
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:10, 17:32)",
+        [
+            "Cup of Joy",
+            700002515
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie.",
+        "(17:59, 19:35)",
+        [
+            "Papa John's",
+            700009351
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie",
+        "(19:54, 20:47)",
+        [
+            "Crostini & Java",
+            700001113
+        ]
+    ],
+    [
+        "Wind down with quiet activities, such as meditation or prepping for the week ahead.",
+        "(21:08, 22:01)",
+        [
+            "",
+            700000491
+        ]
+    ],
+    [
+        "Wind down with quiet activities, such as meditation or prepping for the week ahead.",
+        "(21:53, 22:58)",
+        [
+            "Lapisara",
+            700008705
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "Chuy's Fiestas Taqueria II",
+            700005841
+        ]
+    ]
+]

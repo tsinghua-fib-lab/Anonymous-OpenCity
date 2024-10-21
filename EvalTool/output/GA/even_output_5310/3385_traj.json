@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700024249
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:28)",
+        [
+            "Cafe Katja",
+            700007393
+        ]
+    ],
+    [
+        "Leisure Activity/Outdoor Time",
+        "(15:08, 16:47)",
+        [
+            "",
+            700024246
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:39, 18:05)",
+        [
+            "",
+            700024249
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(18:29, 19:53)",
+        [
+            "Tesla Supercharger",
+            700016581
+        ]
+    ],
+    [
+        "Cook Dinner",
+        "(20:09, 21:48)",
+        [
+            "",
+            700024249
+        ]
+    ],
+    [
+        "Wind Down and Read/Reflection Time",
+        "(21:54, 22:53)",
+        [
+            "Cafe Katja",
+            700007393
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(23:46, 23:59)",
+        [
+            "",
+            700024249
+        ]
+    ]
+]

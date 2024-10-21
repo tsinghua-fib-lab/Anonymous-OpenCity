@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700055381
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:03)",
+        [
+            "",
+            700055381
+        ]
+    ],
+    [
+        "Attend a local art exhibition or market.",
+        "(11:29, 13:02)",
+        [
+            "Jouannault - Cheese Shop",
+            700002869
+        ]
+    ],
+    [
+        "Continue with hobby time",
+        "(13:30, 14:50)",
+        [
+            "Chez Taeko",
+            700065941
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:27, 17:07)",
+        [
+            "L’Estaminet des Enfants Rouges",
+            700000883
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 19:28)",
+        [
+            "Les Enfants Rouges",
+            700000059
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:23, 23:59)",
+        [
+            "Le Troisième Café",
+            700018968
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iThai",
+            700008706
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:13)",
+        [
+            "iThai",
+            700008706
+        ]
+    ],
+    [
+        "Enjoy a meal at iThai",
+        "(13:41, 15:01)",
+        [
+            "iThai",
+            700008706
+        ]
+    ],
+    [
+        "Enjoy a meal at iThai",
+        "(14:57, 15:53)",
+        [
+            "iThai",
+            700008706
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 21:50)",
+        [
+            "Cafe Bean",
+            700008860
+        ]
+    ],
+    [
+        "Grab dessert at Cafe Bean.",
+        "(20:41, 22:51)",
+        [
+            "Cafe Bean",
+            700008860
+        ]
+    ],
+    [
+        "Enjoy dinner at Cafe Bean.",
+        "(23:41, 23:59)",
+        [
+            "Cafe Bean",
+            700008860
+        ]
+    ]
+]

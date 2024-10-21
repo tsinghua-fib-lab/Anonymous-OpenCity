@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Panda Wok 01",
+            700022493
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:33)",
+        [
+            "Panda Wok 01",
+            700022493
+        ]
+    ],
+    [
+        "Lunch",
+        "(11:50, 13:44)",
+        [
+            "La Muraille du Phénix",
+            700007057
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:10, 19:49)",
+        [
+            "Pharmacie du Panthéon",
+            700017943
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:49, 22:34)",
+        [
+            "Bambou",
+            700010484
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AOC",
+            700011125
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:28)",
+        [
+            "The Garret",
+            700008982
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:15, 15:43)",
+        [
+            "L'accolade",
+            700016379
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(13:43, 15:07)",
+        [
+            "Hungry Ghost Coffee",
+            700027191
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(16:01, 18:07)",
+        [
+            "Hungry Ghost Coffee",
+            700027191
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:20, 21:14)",
+        [
+            "Panca",
+            700009047
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "Two Boots",
+            700030493
+        ]
+    ]
+]

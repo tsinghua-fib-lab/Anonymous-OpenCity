@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:03)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:38, 21:09)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Stay at your current place and wind down with some light reading or meditation.",
+        "(20:47, 21:02)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 23:59)",
+        [
+            "",
+            700001774
+        ]
+    ]
+]

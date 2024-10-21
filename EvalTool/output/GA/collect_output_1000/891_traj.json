@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030391
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:25)",
+        [
+            "",
+            700030392
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:54, 14:06)",
+        [
+            "",
+            700030395
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(16:04, 18:08)",
+        [
+            "",
+            700030391
+        ]
+    ],
+    [
+        "Stay at Home to Watch a Movie or TV Show",
+        "(19:03, 21:08)",
+        [
+            "",
+            700030391
+        ]
+    ],
+    [
+        "Go to Afternoon Leisure Activity",
+        "(20:15, 22:04)",
+        [
+            "",
+            700030391
+        ]
+    ],
+    [
+        "Continue Watching a Movie or TV Show",
+        "(22:44, 23:59)",
+        [
+            "",
+            700030391
+        ]
+    ]
+]

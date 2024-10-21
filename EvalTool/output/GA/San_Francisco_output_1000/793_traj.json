@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700007787
+        ]
+    ],
+    [
+        "Morning exercise (jogging or gym)",
+        "(09:00, 10:08)",
+        [
+            "Foreign Cinema",
+            700002290
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:22, 12:30)",
+        [
+            "La Copa Loca",
+            700012863
+        ]
+    ],
+    [
+        "Watch a movie or attend a live event",
+        "(16:32, 17:50)",
+        [
+            "El Techo",
+            700004853
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:31, 23:29)",
+        [
+            "La Taza Restaurant and Bar",
+            700010799
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Foreign Cinema",
+            700002290
+        ]
+    ]
+]

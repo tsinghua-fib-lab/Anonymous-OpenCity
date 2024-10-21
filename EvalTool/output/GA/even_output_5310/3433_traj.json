@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sushi Kai",
+            700017612
+        ]
+    ],
+    [
+        "Wake Up and Leisurely Breakfast",
+        "(10:00, 11:54)",
+        [
+            "Madame Vo",
+            700014034
+        ]
+    ],
+    [
+        "Wake Up and Leisurely Breakfast",
+        "(12:32, 14:34)",
+        [
+            "Madame Vo",
+            700014034
+        ]
+    ],
+    [
+        "Next activity after lunch with friends",
+        "(15:01, 16:56)",
+        [
+            "Madame Vo",
+            700014034
+        ]
+    ],
+    [
+        "Relax and Watch a Movie",
+        "(17:25, 19:09)",
+        [
+            "Chikalicious",
+            700011539
+        ]
+    ],
+    [
+        "Relax and Watch a Movie",
+        "(19:27, 21:02)",
+        [
+            "La Cabra",
+            700023337
+        ]
+    ],
+    [
+        "Relax and Watch a Movie",
+        "(20:54, 22:29)",
+        [
+            "La Cabra",
+            700023337
+        ]
+    ],
+    [
+        "Next activity after dinner preparation.",
+        "(23:09, 23:59)",
+        [
+            "Chase",
+            700005777
+        ]
+    ]
+]

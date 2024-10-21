@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700046867
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:23)",
+        [
+            "Aprium Pharmacie Porte de Brancion",
+            700011416
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 18:42)",
+        [
+            "Le Ciel Bleu",
+            700009542
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:01, 22:56)",
+        [
+            "Le Ciel Bleu",
+            700009542
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "",
+            700052623
+        ]
+    ]
+]

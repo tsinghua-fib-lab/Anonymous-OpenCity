@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Martuni's",
+            700000006
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:35)",
+        [
+            "Sushi Zone",
+            700002659
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:35, 14:30)",
+        [
+            "Sushi Zone",
+            700002659
+        ]
+    ],
+    [
+        "Relaxation/Entertainment",
+        "(15:20, 17:04)",
+        [
+            "Sushi Zone",
+            700002659
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:42, 19:17)",
+        [
+            "Sushi Zone",
+            700002659
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(19:46, 21:25)",
+        [
+            "Sushi Zone",
+            700002659
+        ]
+    ],
+    [
+        "Stay at Sushi Zone",
+        "(21:48, 23:03)",
+        [
+            "Sushi Zone",
+            700002659
+        ]
+    ],
+    [
+        "Stay at Sushi Zone.",
+        "(23:50, 23:59)",
+        [
+            "Bank of America",
+            700009580
+        ]
+    ]
+]

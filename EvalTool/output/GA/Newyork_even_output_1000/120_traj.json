@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Smith",
+            700015835
+        ]
+    ],
+    [
+        "Go for a Brunch with Friends",
+        "(09:00, 10:40)",
+        [
+            "The Smith",
+            700015835
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:04, 15:18)",
+        [
+            "",
+            700001610
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 17:34)",
+        [
+            "",
+            700002566
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(18:21, 20:00)",
+        [
+            "The Smith",
+            700015835
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:57, 21:37)",
+        [
+            "The Smith",
+            700015835
+        ]
+    ],
+    [
+        "Go to The Smith from Dinner Preparation and Family Time.",
+        "(22:13, 23:33)",
+        [
+            "The Smith",
+            700015835
+        ]
+    ],
+    [
+        "Stay at The Smith",
+        "(23:49, 23:59)",
+        [
+            "The Smith",
+            700015835
+        ]
+    ]
+]

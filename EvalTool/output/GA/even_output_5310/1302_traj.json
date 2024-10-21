@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 19th Street & 3rd Avenue",
+            700008029
+        ]
+    ],
+    [
+        "Leisurely Breakfast",
+        "(10:00, 11:35)",
+        [
+            "Citi Bike - East 19th Street & 3rd Avenue",
+            700008029
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:34, 13:55)",
+        [
+            "Paddy Maguire's",
+            700018483
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:47, 15:54)",
+        [
+            "Passport Health Gramercy Park Travel Clinic",
+            700025936
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 21:27)",
+        [
+            "Plug Uglies",
+            700020717
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:36, 23:59)",
+        [
+            "",
+            700000977
+        ]
+    ]
+]

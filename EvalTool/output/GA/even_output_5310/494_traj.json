@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Burger Joint",
+            700006305
+        ]
+    ],
+    [
+        "Morning Exercise from 10:00 AM to 11:00 AM",
+        "(09:00, 10:10)",
+        [
+            "Burger Joint",
+            700006305
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:14, 12:28)",
+        [
+            "Burger Joint",
+            700006305
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:47, 15:58)",
+        [
+            "",
+            700002796
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(19:23, 21:04)",
+        [
+            "Chopt",
+            700006309
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "Estiatorio Milos",
+            700006310
+        ]
+    ]
+]

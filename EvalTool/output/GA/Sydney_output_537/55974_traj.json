@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700016653
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:27)",
+        [
+            "Ampol",
+            700015527
+        ]
+    ],
+    [
+        "Relaxation and Leisure Reading",
+        "(13:08, 15:01)",
+        [
+            "Ampol",
+            700015527
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:30, 17:06)",
+        [
+            "",
+            700016653
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(18:02, 19:40)",
+        [
+            "McCafé",
+            700004681
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 23:59)",
+        [
+            "McDonald's",
+            700004680
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Seven Hills Veterinary Clinic",
+            700007052
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700004683
+        ]
+    ]
+]

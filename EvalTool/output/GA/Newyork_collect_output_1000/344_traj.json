@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(09:00, 10:28)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Lunch Break",
+        "(10:43, 11:43)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "Exercise",
+        "(12:45, 13:53)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "Afternoon Leisure Activities",
+        "(14:51, 16:24)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "Exercise",
+        "(16:45, 18:10)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:41, 20:17)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ],
+    [
+        "Study at So Gong Dong",
+        "(23:35, 23:59)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ]
+]

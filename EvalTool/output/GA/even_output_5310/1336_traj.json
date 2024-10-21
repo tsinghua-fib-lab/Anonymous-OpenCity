@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - East 16th Street & Irving Place",
+            700008027
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:38)",
+        [
+            "",
+            700001964
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:35, 11:57)",
+        [
+            "Citi Bike - East 16th Street & Irving Place",
+            700008027
+        ]
+    ],
+    [
+        "stay at Citi Bike - East 16th Street & Irving Place",
+        "(12:49, 14:17)",
+        [
+            "Citi Bike - East 16th Street & Irving Place",
+            700008027
+        ]
+    ],
+    [
+        "Watch Favorite TV Show or Movie",
+        "(14:27, 15:52)",
+        [
+            "Citi Bike - East 16th Street & Irving Place",
+            700008027
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 17:23)",
+        [
+            "Citi Bike - East 16th Street & Irving Place",
+            700008027
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:37, 23:59)",
+        [
+            "New York Sports Club",
+            700016607
+        ]
+    ]
+]

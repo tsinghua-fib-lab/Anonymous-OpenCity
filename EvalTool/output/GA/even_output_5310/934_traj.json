@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Brooklyn Diner",
+            700003479
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:44)",
+        [
+            "Weill Recital Hall",
+            700009118
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:35, 16:50)",
+        [
+            "Kaplan",
+            700041045
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:42, 23:59)",
+        [
+            "Kaplan",
+            700041045
+        ]
+    ]
+]

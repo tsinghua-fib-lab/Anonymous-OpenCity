@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Commonwealth Bank",
+            700005938
+        ]
+    ],
+    [
+        "Go for a morning walk",
+        "(09:00, 10:05)",
+        [
+            "",
+            700013171
+        ]
+    ],
+    [
+        "Engage in a hobby",
+        "(10:18, 11:28)",
+        [
+            "Commonwealth Bank",
+            700005938
+        ]
+    ],
+    [
+        "Hobby",
+        "(12:07, 13:52)",
+        [
+            "Commonwealth Bank",
+            700005938
+        ]
+    ],
+    [
+        "Engage in hobby",
+        "(14:14, 16:06)",
+        [
+            "Commonwealth Bank",
+            700005938
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(16:43, 18:09)",
+        [
+            "Commonwealth Bank",
+            700005938
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:30, 20:25)",
+        [
+            "Avis",
+            700008641
+        ]
+    ],
+    [
+        "go to Avis",
+        "(23:49, 23:59)",
+        [
+            "Avis",
+            700008641
+        ]
+    ]
+]

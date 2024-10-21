@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Lunch",
+        "(10:00, 11:04)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "11:26 AM - 1:00 PM",
+        "(11:26, 13:08)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:43, 18:53)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Prepare a nice dinner, possibly trying out a new recipe or cooking together with others.",
+        "(19:29, 20:49)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:18, 23:10)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:10, 23:59)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ]
+]

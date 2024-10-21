@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CityPop",
+            700004245
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:00)",
+        [
+            "Mymy",
+            700003062
+        ]
+    ],
+    [
+        "Engage in a fun outdoor activity or sports",
+        "(12:30, 14:09)",
+        [
+            "Mymy",
+            700003062
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(14:29, 15:56)",
+        [
+            "Mymy",
+            700003062
+        ]
+    ],
+    [
+        "Engage in a fun outdoor activity or sports",
+        "(16:49, 18:23)",
+        [
+            "Mymy",
+            700003062
+        ]
+    ],
+    [
+        "Dinner Reservations",
+        "(19:10, 20:34)",
+        [
+            "CityPop",
+            700004245
+        ]
+    ],
+    [
+        "Dinner Reservations",
+        "(21:25, 22:51)",
+        [
+            "CVS Pharmacy",
+            700002111
+        ]
+    ],
+    [
+        "Movie Night",
+        "(22:54, 23:59)",
+        [
+            "CityPop",
+            700004245
+        ]
+    ]
+]

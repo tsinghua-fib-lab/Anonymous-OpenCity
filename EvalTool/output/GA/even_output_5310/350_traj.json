@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700018083
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:09)",
+        [
+            "Central Gospel Chapel",
+            700000276
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:56, 18:15)",
+        [
+            "Maria Mulata Colombian Restaurant & Bar",
+            700039369
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:11, 23:11)",
+        [
+            "",
+            700017182
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "",
+            700018079
+        ]
+    ]
+]

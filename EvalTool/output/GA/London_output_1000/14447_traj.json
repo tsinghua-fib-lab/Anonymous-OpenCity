@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:52)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(12:57, 14:06)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:44, 17:04)",
+        [
+            "",
+            700004104
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:20, 19:53)",
+        [
+            "",
+            700004104
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "",
+            700023758
+        ]
+    ]
+]

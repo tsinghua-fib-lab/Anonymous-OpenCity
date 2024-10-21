@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chinese American International School",
+            700000223
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park",
+        "(10:00, 11:09)",
+        [
+            "Bank of America",
+            700009580
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:50, 13:46)",
+        [
+            "Bob Ross LGBT Senior Center",
+            700013315
+        ]
+    ],
+    [
+        "Go to Bank of America",
+        "(13:53, 14:59)",
+        [
+            "Bank of America",
+            700009580
+        ]
+    ],
+    [
+        "Next place: Lunch at Bank of America.",
+        "(15:53, 17:10)",
+        [
+            "Bank of America",
+            700009580
+        ]
+    ],
+    [
+        "Currently at: Bank of America, stay time.",
+        "(18:06, 20:07)",
+        [
+            "Bank of America",
+            700009580
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:46, 23:14)",
+        [
+            "Sessions Training Center",
+            700011078
+        ]
+    ]
+]

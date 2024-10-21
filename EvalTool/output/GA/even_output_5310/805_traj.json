@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Lenwich",
+            700024968
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 11:00)",
+        [
+            "Pizza Hut",
+            700009624
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:49, 13:39)",
+        [
+            "Ruth's Chris Steak House",
+            700009643
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 18:13)",
+        [
+            "Nanking",
+            700006503
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 21:56)",
+        [
+            "Tad’s Steakhouse",
+            700015873
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 22:46)",
+        [
+            "",
+            700005913
+        ]
+    ],
+    [
+        "Stay at Lenwich",
+        "(23:45, 23:59)",
+        [
+            "Lenwich",
+            700024968
+        ]
+    ]
+]

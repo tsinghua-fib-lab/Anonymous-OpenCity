@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "",
+            700001817
+        ]
+    ],
+    [
+        "go to this place",
+        "(08:00, 10:49)",
+        [
+            "Bobwhite Lunch and Supper Counter",
+            700010778
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(11:54, 13:57)",
+        [
+            "Bobwhite Lunch and Supper Counter",
+            700010778
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(15:03, 16:54)",
+        [
+            "Bobwhite Lunch and Supper Counter",
+            700010778
+        ]
+    ],
+    [
+        "Dinner preparation & family time",
+        "(17:19, 18:53)",
+        [
+            "Bobwhite Lunch and Supper Counter",
+            700010778
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:14, 20:55)",
+        [
+            "",
+            700001181
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:28, 22:55)",
+        [
+            "Bobwhite Lunch and Supper Counter",
+            700010778
+        ]
+    ],
+    [
+        "Go to Evening Wind Down",
+        "(23:08, 23:59)",
+        [
+            "Bobwhite Lunch and Supper Counter",
+            700010778
+        ]
+    ]
+]

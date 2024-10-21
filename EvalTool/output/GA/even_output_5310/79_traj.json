@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Daniello's",
+            700014652
+        ]
+    ],
+    [
+        "Wake up and relax",
+        "(10:00, 12:01)",
+        [
+            "The Blasket",
+            700031417
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:41, 13:51)",
+        [
+            "Moonstruck Eatery",
+            700030621
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:56, 16:57)",
+        [
+            "Moonstruck Eatery",
+            700030621
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:19, 19:43)",
+        [
+            "LaVista Pizza",
+            700030618
+        ]
+    ],
+    [
+        "Wake up and relax",
+        "(22:35, 23:59)",
+        [
+            "Moonstruck Eatery",
+            700030621
+        ]
+    ]
+]

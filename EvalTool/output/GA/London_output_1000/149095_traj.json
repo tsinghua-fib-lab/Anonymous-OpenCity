@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 09:59)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Stay at Devonshire Square",
+        "(10:40, 11:53)",
+        [
+            "",
+            700020450
+        ]
+    ],
+    [
+        "Stay at Devonshire Square",
+        "(12:49, 13:59)",
+        [
+            "Fitness First",
+            700019570
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(14:22, 16:21)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Relax and enjoy a movie",
+        "(16:44, 19:31)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:44, 23:59)",
+        [
+            "",
+            700027174
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:17, 23:59)",
+        [
+            "Devonshire Terrace",
+            700019972
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "Appennino",
+            700019571
+        ]
+    ]
+]

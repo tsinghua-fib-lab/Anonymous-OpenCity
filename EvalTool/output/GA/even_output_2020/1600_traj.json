@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001314
+        ]
+    ],
+    [
+        "Current place: Home. Stay time: 1 hour.",
+        "(10:00, 11:01)",
+        [
+            "Quince",
+            700002080
+        ]
+    ],
+    [
+        "Go to Quince for lunch.",
+        "(11:57, 13:29)",
+        [
+            "Quince",
+            700002080
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:36, 15:15)",
+        [
+            "Quince",
+            700002080
+        ]
+    ],
+    [
+        "Participate in a recreational activity.",
+        "(15:45, 17:22)",
+        [
+            "",
+            700001314
+        ]
+    ],
+    [
+        "Participate in a recreational activity.",
+        "(17:31, 18:52)",
+        [
+            "Broadway Studios",
+            700002076
+        ]
+    ],
+    [
+        "Next activity: Relax or read a book.",
+        "(19:29, 21:03)",
+        [
+            "",
+            700001314
+        ]
+    ],
+    [
+        "Relaxing at Broadway Studios after watching a movie.",
+        "(21:47, 23:11)",
+        [
+            "Broadway Studios",
+            700002076
+        ]
+    ],
+    [
+        "You will stay at Broadway Studios.",
+        "(23:46, 23:59)",
+        [
+            "Broadway Studios",
+            700002076
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008632
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:52)",
+        [
+            "Randolph's Bar & Lounge",
+            700014628
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:56, 12:51)",
+        [
+            "Benoit",
+            700007350
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:19, 18:52)",
+        [
+            "La Bonne Soupe",
+            700009199
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(19:41, 22:20)",
+        [
+            "Pret A Manger",
+            700027355
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:59, 23:59)",
+        [
+            "Pret A Manger",
+            700027355
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010852
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:30)",
+        [
+            "",
+            700008305
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:26, 15:30)",
+        [
+            "",
+            700001498
+        ]
+    ],
+    [
+        "Watch a Movie/Show",
+        "(15:05, 16:50)",
+        [
+            "Starbucks",
+            700009200
+        ]
+    ],
+    [
+        "Watch a Movie/Show",
+        "(16:58, 18:21)",
+        [
+            "Starbucks",
+            700009200
+        ]
+    ],
+    [
+        "Hobbies/Projects",
+        "(18:52, 19:58)",
+        [
+            "Starbucks",
+            700009200
+        ]
+    ],
+    [
+        "Hobbies/Projects",
+        "(21:00, 22:30)",
+        [
+            "Starbucks",
+            700009200
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:11, 23:59)",
+        [
+            "El Castillito Taqueria",
+            700001265
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013183
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:35)",
+        [
+            "",
+            700013191
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:18, 18:47)",
+        [
+            "",
+            700013190
+        ]
+    ],
+    [
+        "Shopping Trip",
+        "(15:49, 17:13)",
+        [
+            "San Francisco Center for the Book (SFCB)",
+            700006917
+        ]
+    ],
+    [
+        "Shopping Trip",
+        "(18:01, 19:36)",
+        [
+            "San Francisco Center for the Book (SFCB)",
+            700006917
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(20:13, 21:47)",
+        [
+            "",
+            700013183
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(22:35, 23:59)",
+        [
+            "",
+            700013183
+        ]
+    ]
+]

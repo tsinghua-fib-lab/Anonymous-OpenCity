@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000763
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:07)",
+        [
+            "",
+            700000763
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:10, 14:07)",
+        [
+            "",
+            700000763
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 17:10)",
+        [
+            "Jackalope",
+            700004192
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:48, 19:05)",
+        [
+            "",
+            700000763
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(19:25, 20:54)",
+        [
+            "Jackalope",
+            700004192
+        ]
+    ],
+    [
+        "Relaxation and TV Watching",
+        "(21:54, 23:01)",
+        [
+            "El Super Burrito",
+            700001109
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:05, 23:59)",
+        [
+            "El Super Burrito",
+            700001109
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:42)",
+        [
+            "",
+            700059873
+        ]
+    ],
+    [
+        "Have lunch and catch up with friends or family.",
+        "(12:25, 13:53)",
+        [
+            "",
+            700059876
+        ]
+    ],
+    [
+        "Have lunch and catch up with friends or family.",
+        "(14:18, 15:50)",
+        [
+            "The Pigalle Club",
+            700008906
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(16:15, 17:39)",
+        [
+            "The Pigalle Club",
+            700008906
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 22:00)",
+        [
+            "Piggy's",
+            700033897
+        ]
+    ],
+    [
+        "Stay at Piggy's",
+        "(22:41, 23:59)",
+        [
+            "",
+            700020843
+        ]
+    ]
+]

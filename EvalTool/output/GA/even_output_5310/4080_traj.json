@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001062
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 11:34)",
+        [
+            "TD Bank",
+            700003805
+        ]
+    ],
+    [
+        "Next activity from your home.",
+        "(12:09, 13:39)",
+        [
+            "HSBC",
+            700006144
+        ]
+    ],
+    [
+        "Next activity from your home",
+        "(14:10, 15:42)",
+        [
+            "HSBC",
+            700006144
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 18:26)",
+        [
+            "Grace's",
+            700019203
+        ]
+    ],
+    [
+        "Relax at Home",
+        "(18:10, 19:47)",
+        [
+            "Xi'an Famous Foods",
+            700007295
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:44, 23:59)",
+        [
+            "",
+            700005851
+        ]
+    ],
+    [
+        "Relax at Home",
+        "(23:52, 23:59)",
+        [
+            "Bank of America",
+            700004323
+        ]
+    ]
+]

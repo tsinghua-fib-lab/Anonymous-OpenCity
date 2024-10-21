@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018500
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:09)",
+        [
+            "Dos Toros Taqueria",
+            700013564
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:34, 14:05)",
+        [
+            "Dos Toros Taqueria",
+            700013564
+        ]
+    ],
+    [
+        "Hobby or Craft",
+        "(14:45, 16:20)",
+        [
+            "Dos Toros Taqueria",
+            700013564
+        ]
+    ],
+    [
+        "Hobby or Craft",
+        "(16:51, 18:02)",
+        [
+            "Dos Toros Taqueria",
+            700013564
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 22:19)",
+        [
+            "Pastrami Queen",
+            700010458
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:48, 23:10)",
+        [
+            "Dos Toros Taqueria",
+            700013564
+        ]
+    ],
+    [
+        "You are currently at Dos Toros Taqueria and will stay for 1 hour and 17 minutes.",
+        "(23:49, 23:59)",
+        [
+            "Pastrami Queen",
+            700010458
+        ]
+    ]
+]

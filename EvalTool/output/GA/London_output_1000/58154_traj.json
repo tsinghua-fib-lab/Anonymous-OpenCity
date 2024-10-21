@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:15)",
+        [
+            "",
+            700065791
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:20, 18:23)",
+        [
+            "Sphinx Hall",
+            700050004
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:13, 22:31)",
+        [
+            "Tasty Wings",
+            700050018
+        ]
+    ],
+    [
+        "Stay at Tachbrook Estate and relax",
+        "(23:06, 23:59)",
+        [
+            "Tasty Wings",
+            700050018
+        ]
+    ]
+]

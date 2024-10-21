@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ollie's To Go",
+            700023407
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:35)",
+        [
+            "Mighty Quinn's",
+            700017557
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:31, 17:02)",
+        [
+            "",
+            700020825
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 22:33)",
+        [
+            "Uva Next Door",
+            700023406
+        ]
+    ],
+    [
+        "Stay at Ollie's To Go and prepare for dinner.",
+        "(23:59, 23:59)",
+        [
+            "Mighty Quinn's",
+            700017557
+        ]
+    ]
+]

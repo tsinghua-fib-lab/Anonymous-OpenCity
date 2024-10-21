@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "Enjoy breakfast",
+        "(10:00, 11:01)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "Stay in place at HealthSource Pharmacy & Health Food Store",
+        "(11:21, 12:50)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "Stay in place",
+        "(13:41, 15:28)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "Enjoy breakfast",
+        "(16:22, 18:47)",
+        [
+            "Fiftyfourth Street Public Bath and Gymnasium",
+            700000555
+        ]
+    ],
+    [
+        "Go to Fiftyfourth Street Public Bath and Gymnasium.",
+        "(19:01, 21:07)",
+        [
+            "Fiftyfourth Street Public Bath and Gymnasium",
+            700000555
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:55, 23:59)",
+        [
+            "Constance Baker Motley Recreation Center 54",
+            700009820
+        ]
+    ]
+]

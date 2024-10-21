@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Pondicheri",
+            700009082
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:44)",
+        [
+            "Nomad",
+            700010267
+        ]
+    ],
+    [
+        "Stay at Pondicheri.",
+        "(12:01, 13:39)",
+        [
+            "The Smith",
+            700009305
+        ]
+    ],
+    [
+        "Stay at Pondicheri",
+        "(13:28, 15:07)",
+        [
+            "",
+            700014537
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:29, 16:54)",
+        [
+            "Izakaya NoMad",
+            700007385
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:56, 23:59)",
+        [
+            "The Little Beet",
+            700018164
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "INDAY",
+            700009262
+        ]
+    ]
+]

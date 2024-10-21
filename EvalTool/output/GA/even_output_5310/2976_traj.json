@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Suffolk Street & Stanton Street",
+            700008189
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:42)",
+        [
+            "Little Free Library",
+            700024938
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 16:31)",
+        [
+            "Balvanera",
+            700006697
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:02, 19:21)",
+        [
+            "Caveat",
+            700013366
+        ]
+    ],
+    [
+        "Stay at Citi Bike - Suffolk Street & Stanton Street",
+        "(23:36, 23:59)",
+        [
+            "Caveat",
+            700013366
+        ]
+    ]
+]

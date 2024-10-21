@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:52)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(13:55, 14:55)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:59, 17:32)",
+        [
+            "",
+            700022506
+        ]
+    ],
+    [
+        "Next, Wind Down with TV or Relaxing Activities",
+        "(19:09, 21:55)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Wind Down with TV or Relaxing Activities",
+        "(22:59, 23:59)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Next, Wind Down with TV or Relaxing Activities",
+        "(23:57, 23:59)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Blue Sky Restaurant",
+            700011104
+        ]
+    ],
+    [
+        "Current place: Blue Sky Restaurant. Stay time: 1 hour.",
+        "(10:00, 11:07)",
+        [
+            "San Francisco Chinese Baptist Church",
+            700000270
+        ]
+    ],
+    [
+        "Go to San Francisco Chinese Baptist Church for cultural appreciation.",
+        "(11:57, 13:33)",
+        [
+            "San Francisco Chinese Baptist Church",
+            700000270
+        ]
+    ],
+    [
+        "Cultural Appreciation",
+        "(13:36, 15:04)",
+        [
+            "San Francisco Chinese Baptist Church",
+            700000270
+        ]
+    ],
+    [
+        "Participate in a recreational activity.",
+        "(15:45, 17:11)",
+        [
+            "Spuntino",
+            700004753
+        ]
+    ],
+    [
+        "Recreational activity.",
+        "(17:31, 18:51)",
+        [
+            "Spuntino",
+            700004753
+        ]
+    ],
+    [
+        "Next activity: Yoga class or similar.",
+        "(19:29, 20:50)",
+        [
+            "Mario's Bohemian Cigar Store Cafe",
+            700003389
+        ]
+    ],
+    [
+        "Relaxing at home after yoga class.",
+        "(21:47, 22:52)",
+        [
+            "Blue Sky Restaurant",
+            700011104
+        ]
+    ],
+    [
+        "You will stay at Frankie’s Java House.",
+        "(23:46, 23:59)",
+        [
+            "Enter the Cafe",
+            700002280
+        ]
+    ]
+]

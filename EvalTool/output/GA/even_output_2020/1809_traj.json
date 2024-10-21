@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009795
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:50)",
+        [
+            "",
+            700005115
+        ]
+    ],
+    [
+        "Lunch Preparation and Eating",
+        "(13:09, 14:03)",
+        [
+            "",
+            700009795
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 19:04)",
+        [
+            "Chisme Cantina",
+            700005899
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:41, 17:01)",
+        [
+            "Chisme Cantina",
+            700005899
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(17:17, 18:39)",
+        [
+            "Bite",
+            700008883
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:55, 23:57)",
+        [
+            "",
+            700008882
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700038336
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:53)",
+        [
+            "",
+            700038336
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:45, 16:28)",
+        [
+            "",
+            700038336
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(17:16, 18:56)",
+        [
+            "Citi Bike - South Street & Pike Street",
+            700031161
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:47, 21:16)",
+        [
+            "Citi Bike - South Street & Pike Street",
+            700031161
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(21:27, 23:03)",
+        [
+            "Citi Bike - South Street & Pike Street",
+            700031161
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:01, 23:59)",
+        [
+            "",
+            700031174
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:43)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:51, 12:34)",
+        [
+            "",
+            700022515
+        ]
+    ],
+    [
+        "Exploring a Local Attraction",
+        "(13:58, 15:35)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "Explore a Local Attraction",
+        "(15:36, 17:06)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:58, 22:16)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "Stay at Icon Parking",
+        "(22:57, 23:59)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "QBar",
+            700002184
+        ]
+    ],
+    [
+        "Breakfast at home.",
+        "(10:00, 11:03)",
+        [
+            "Gyro Xpress",
+            700004871
+        ]
+    ],
+    [
+        "Go for a mid-morning walk or light jog in the park",
+        "(11:55, 13:05)",
+        [
+            "Marcello's Pizza",
+            700002181
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 16:40)",
+        [
+            "SoulCycle",
+            700004060
+        ]
+    ],
+    [
+        "Spend time at home",
+        "(17:27, 18:53)",
+        [
+            "Magnet",
+            700002206
+        ]
+    ],
+    [
+        "Stay at home",
+        "(19:19, 20:48)",
+        [
+            "QBar",
+            700002184
+        ]
+    ],
+    [
+        "Spend time at home",
+        "(21:23, 22:48)",
+        [
+            "QBar",
+            700002184
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Thailand Restaurant",
+            700000879
+        ]
+    ]
+]

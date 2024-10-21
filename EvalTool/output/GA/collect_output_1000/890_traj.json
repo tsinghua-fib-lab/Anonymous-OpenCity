@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:50)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:56, 11:53)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:17, 14:18)",
+        [
+            "FedEx",
+            700010936
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:32, 19:59)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "Wind Down",
+        "(20:24, 21:58)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ],
+    [
+        "Wind Down",
+        "(22:46, 23:59)",
+        [
+            "",
+            700030405
+        ]
+    ]
+]

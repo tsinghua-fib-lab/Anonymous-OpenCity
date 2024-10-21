@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Curry Nest",
+            700018711
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:13)",
+        [
+            "The Hayberry",
+            700021570
+        ]
+    ],
+    [
+        "Relaxation and Leisure Reading",
+        "(13:08, 15:04)",
+        [
+            "Curry Nest",
+            700018711
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:30, 18:05)",
+        [
+            "",
+            700028878
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(18:02, 19:29)",
+        [
+            "Luho",
+            700018640
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 23:59)",
+        [
+            "",
+            700028843
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:32)",
+        [
+            "Le Bouchon",
+            700018633
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700028843
+        ]
+    ]
+]

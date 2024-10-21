@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:13)",
+        [
+            "Bleecker Playground",
+            700009378
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:16, 18:04)",
+        [
+            "Bus Stop Cafe",
+            700014180
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(16:57, 18:37)",
+        [
+            "Bus Stop Cafe",
+            700014180
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(18:28, 19:51)",
+        [
+            "Bus Stop Cafe",
+            700014180
+        ]
+    ],
+    [
+        "Dinner with Family or Friends",
+        "(20:13, 21:40)",
+        [
+            "Bus Stop Cafe",
+            700014180
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(22:27, 23:59)",
+        [
+            "Bus Stop Cafe",
+            700014180
+        ]
+    ]
+]

@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001777
+        ]
+    ],
+    [
+        "Leisure Reading or Learning Time",
+        "(09:00, 10:22)",
+        [
+            "",
+            700001777
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:34, 14:14)",
+        [
+            "KGB Bar",
+            700008751
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(11:58, 13:09)",
+        [
+            "KGB Bar",
+            700008751
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(13:58, 15:35)",
+        [
+            "KGB Bar",
+            700008751
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:12, 19:41)",
+        [
+            "DokoDemo",
+            700014160
+        ]
+    ],
+    [
+        "Wind Down and Reflect on the Day",
+        "(19:24, 20:54)",
+        [
+            "DokoDemo",
+            700014160
+        ]
+    ],
+    [
+        "Wind Down and Reflect on the Day",
+        "(21:07, 22:17)",
+        [
+            "DokoDemo",
+            700014160
+        ]
+    ],
+    [
+        "Wind Down and Reflect on the Day",
+        "(22:31, 23:59)",
+        [
+            "DokoDemo",
+            700014160
+        ]
+    ],
+    [
+        "Wind Down and Reflect on the Day",
+        "(23:54, 23:59)",
+        [
+            "DokoDemo",
+            700014160
+        ]
+    ]
+]

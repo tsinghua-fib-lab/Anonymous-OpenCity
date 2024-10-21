@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kate's Kitchen",
+            700000954
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(10:00, 11:10)",
+        [
+            "Seniore's Pizza",
+            700005489
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:51, 12:57)",
+        [
+            "Metro Caffe",
+            700000960
+        ]
+    ],
+    [
+        "Outdoor Activities",
+        "(13:50, 15:44)",
+        [
+            "Metro Caffe",
+            700000960
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 18:43)",
+        [
+            "CVS Pharmacy",
+            700002579
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:57, 23:59)",
+        [
+            "Iza Ramen",
+            700003677
+        ]
+    ]
+]

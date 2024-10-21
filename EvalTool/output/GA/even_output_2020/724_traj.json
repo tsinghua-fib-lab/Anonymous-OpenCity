@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "North Beach Pizza",
+            700000454
+        ]
+    ],
+    [
+        "Exercise (1 hour)",
+        "(10:00, 11:03)",
+        [
+            "North Beach Pizza",
+            700000454
+        ]
+    ],
+    [
+        "Exercise (1 hour)",
+        "(12:01, 14:53)",
+        [
+            "North Beach Pizza",
+            700000454
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 19:30)",
+        [
+            "Savoy Tivoli",
+            700009175
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(17:43, 18:38)",
+        [
+            "Savoy Tivoli",
+            700009175
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:18, 20:22)",
+        [
+            "Savoy Tivoli",
+            700009175
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:01, 22:31)",
+        [
+            "Savoy Tivoli",
+            700009175
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(22:27, 23:59)",
+        [
+            "Savoy Tivoli",
+            700009175
+        ]
+    ]
+]

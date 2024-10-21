@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:29)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(11:42, 13:18)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 16:20)",
+        [
+            "",
+            700014757
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:57, 21:09)",
+        [
+            "",
+            700064700
+        ]
+    ],
+    [
+        "Next activity after current time 22:39 for Situation 6.",
+        "(22:39, 23:59)",
+        [
+            "",
+            700006252
+        ]
+    ],
+    [
+        "Head to Chicken Shop for a meal.",
+        "(23:58, 23:59)",
+        [
+            "",
+            700063207
+        ]
+    ]
+]

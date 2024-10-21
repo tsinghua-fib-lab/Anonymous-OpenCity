@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Zara Pizza",
+            700022359
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:02)",
+        [
+            "Zara Pizza",
+            700022359
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:45, 11:53)",
+        [
+            "Zara Pizza",
+            700022359
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:14, 13:55)",
+        [
+            "Zara Pizza",
+            700022359
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:00, 17:24)",
+        [
+            "American Indian Community House",
+            700016368
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:14, 21:29)",
+        [
+            "",
+            700023674
+        ]
+    ],
+    [
+        "Go to Zara Pizza",
+        "(22:10, 23:32)",
+        [
+            "Zara Pizza",
+            700022359
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "Mictlān",
+            700007398
+        ]
+    ]
+]

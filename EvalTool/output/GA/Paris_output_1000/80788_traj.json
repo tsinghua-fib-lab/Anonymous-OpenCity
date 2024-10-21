@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010395
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:25)",
+        [
+            "",
+            700010388
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:16, 11:57)",
+        [
+            "",
+            700010395
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:34, 14:12)",
+        [
+            "Place de la République - Temple",
+            700038492
+        ]
+    ],
+    [
+        "Engage in a leisure activity",
+        "(14:59, 17:01)",
+        [
+            "Place de la République - Temple",
+            700038492
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(17:08, 18:34)",
+        [
+            "Place de la République - Temple",
+            700038492
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(18:54, 20:07)",
+        [
+            "Place de la République - Temple",
+            700038492
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:06, 21:08)",
+        [
+            "Place de la République - Temple",
+            700038492
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:17, 22:39)",
+        [
+            "Place de la République - Temple",
+            700038492
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(23:03, 23:59)",
+        [
+            "Place de la République - Temple",
+            700038492
+        ]
+    ]
+]

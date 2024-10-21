@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002184
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:21)",
+        [
+            "Citi Bike",
+            700007944
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:31, 13:30)",
+        [
+            "Citi Bike",
+            700007944
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(13:38, 15:38)",
+        [
+            "Citi Bike",
+            700007944
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 22:01)",
+        [
+            "",
+            700014511
+        ]
+    ],
+    [
+        "Currently at a casual setting, ready for dinner.",
+        "(18:55, 20:30)",
+        [
+            "",
+            700002431
+        ]
+    ],
+    [
+        "Dinner Reservation",
+        "(20:28, 22:00)",
+        [
+            "",
+            700002929
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:46, 23:59)",
+        [
+            "",
+            700000677
+        ]
+    ]
+]

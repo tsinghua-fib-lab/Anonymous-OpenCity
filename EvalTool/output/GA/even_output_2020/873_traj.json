@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Verve Coffee Roasters",
+            700006032
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:02)",
+        [
+            "Last Rites",
+            700003646
+        ]
+    ],
+    [
+        "Brunch with friends",
+        "(11:11, 12:50)",
+        [
+            "Last Rites",
+            700003646
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 14:34)",
+        [
+            "El Castillito Taqueria",
+            700001265
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 17:05)",
+        [
+            "Wells Fargo",
+            700000855
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 23:59)",
+        [
+            "Wells Fargo",
+            700000855
+        ]
+    ]
+]

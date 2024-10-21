@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006037
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:32)",
+        [
+            "Dunkin'",
+            700006549
+        ]
+    ],
+    [
+        "Spend the afternoon catching up on a favorite TV show or reading a book",
+        "(14:25, 16:08)",
+        [
+            "Chamoun's Way",
+            700006550
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:29, 19:29)",
+        [
+            "",
+            700040419
+        ]
+    ],
+    [
+        "Wind down with a movie or game night.",
+        "(20:33, 22:08)",
+        [
+            "Vitahealth Apothecary",
+            700041297
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:59)",
+        [
+            "Citi Bike - 1st Avenue & East 68th Street",
+            700009343
+        ]
+    ]
+]

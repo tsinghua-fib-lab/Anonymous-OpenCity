@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mama Shelter",
+            700016166
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:15)",
+        [
+            "La Flèche d'Or",
+            700006057
+        ]
+    ],
+    [
+        "Next activity is Relaxation/Free Time",
+        "(15:00, 16:57)",
+        [
+            "",
+            700010745
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:49, 20:40)",
+        [
+            "",
+            700010746
+        ]
+    ],
+    [
+        "Wind Down with Entertainment",
+        "(20:21, 21:53)",
+        [
+            "",
+            700016159
+        ]
+    ],
+    [
+        "Relaxation/Free Time",
+        "(22:49, 23:59)",
+        [
+            "Mama Shelter",
+            700016166
+        ]
+    ]
+]

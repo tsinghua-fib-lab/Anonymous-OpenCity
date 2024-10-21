@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Emmy Squared",
+            700008309
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(09:00, 09:59)",
+        [
+            "Duane Reade",
+            700008311
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(10:14, 11:43)",
+        [
+            "Duane Reade",
+            700008311
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 13:31)",
+        [
+            "",
+            700018109
+        ]
+    ],
+    [
+        "Outdoor Sports",
+        "(16:49, 18:09)",
+        [
+            "",
+            700001258
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(18:04, 19:58)",
+        [
+            "Emmy Squared",
+            700008309
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:28, 22:04)",
+        [
+            "Citi Bike",
+            700038086
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(22:34, 23:59)",
+        [
+            "",
+            700018100
+        ]
+    ]
+]

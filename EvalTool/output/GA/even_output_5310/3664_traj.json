@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Joey Bats Café",
+            700014832
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 09:59)",
+        [
+            "Joey Bats Café",
+            700014832
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(10:06, 11:45)",
+        [
+            "Joey Bats Café",
+            700014832
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 14:32)",
+        [
+            "Antler Beer & Wine Dispensary",
+            700014830
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:52, 17:54)",
+        [
+            "Antler Beer & Wine Dispensary",
+            700014830
+        ]
+    ],
+    [
+        "Dinner and Movie Night",
+        "(19:24, 22:00)",
+        [
+            "Joey Bats Café",
+            700014832
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "Sea of Galilee Church",
+            700014829
+        ]
+    ]
+]

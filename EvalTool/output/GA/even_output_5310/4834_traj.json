@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700039850
+        ]
+    ],
+    [
+        "Leisurely Reading or TV",
+        "(10:00, 10:55)",
+        [
+            "",
+            700039850
+        ]
+    ],
+    [
+        "Leisurely Reading or TV",
+        "(11:33, 12:56)",
+        [
+            "",
+            700039850
+        ]
+    ],
+    [
+        "Lunch Preparation and Meal",
+        "(13:34, 15:35)",
+        [
+            "",
+            700038026
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(16:06, 18:08)",
+        [
+            "",
+            700039850
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(18:54, 20:28)",
+        [
+            "",
+            700039850
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(21:24, 22:59)",
+        [
+            "",
+            700039850
+        ]
+    ],
+    [
+        "Stay at Vending Machine",
+        "(23:39, 23:59)",
+        [
+            "Citi Bike - Saint James Place & Pearl Street",
+            700008183
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Walgreens",
+            700005118
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:02)",
+        [
+            "Walgreens",
+            700005118
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:13, 11:53)",
+        [
+            "",
+            700013280
+        ]
+    ],
+    [
+        "Household Chores",
+        "(11:53, 13:08)",
+        [
+            "Walgreens",
+            700005118
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(13:46, 15:55)",
+        [
+            "Walgreens",
+            700005118
+        ]
+    ],
+    [
+        "Social Time or Community Engagement",
+        "(16:37, 18:06)",
+        [
+            "Walgreens",
+            700005118
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(19:07, 20:51)",
+        [
+            "Walgreens",
+            700005118
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(21:13, 22:42)",
+        [
+            "Walgreens",
+            700005118
+        ]
+    ],
+    [
+        "Stay at Walgreens",
+        "(23:24, 23:59)",
+        [
+            "Walgreens",
+            700005118
+        ]
+    ]
+]

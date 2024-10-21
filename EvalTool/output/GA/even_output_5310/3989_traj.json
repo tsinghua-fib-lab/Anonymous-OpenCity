@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Banc",
+            700003900
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(09:00, 10:35)",
+        [
+            "Hummus Kitchen",
+            700004869
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:39, 16:18)",
+        [
+            "",
+            700002955
+        ]
+    ],
+    [
+        "Leisure Reading/TV Time",
+        "(16:27, 18:09)",
+        [
+            "Hummus Kitchen",
+            700004869
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(18:54, 19:51)",
+        [
+            "Hummus Kitchen",
+            700004869
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(20:29, 22:03)",
+        [
+            "Citi Bike - East 31st Street & 3rd Avenue",
+            700005961
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:18, 23:44)",
+        [
+            "Birch Coffee",
+            700009668
+        ]
+    ]
+]

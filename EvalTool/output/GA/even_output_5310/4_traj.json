@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Church Cafe Outside",
+            700016242
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:44)",
+        [
+            "National Bank of Kuwait",
+            700013646
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:27, 20:00)",
+        [
+            "",
+            700002558
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:28, 23:59)",
+        [
+            "Rooftop Bar",
+            700009130
+        ]
+    ]
+]

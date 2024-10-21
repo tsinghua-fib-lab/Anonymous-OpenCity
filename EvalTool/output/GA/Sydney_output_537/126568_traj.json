@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700006447
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:10)",
+        [
+            "National Dental Care",
+            700012404
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:46, 12:08)",
+        [
+            "National Dental Care",
+            700012404
+        ]
+    ],
+    [
+        "Exercise",
+        "(12:35, 13:56)",
+        [
+            "National Dental Care",
+            700012404
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:35, 16:02)",
+        [
+            "National Dental Care",
+            700012404
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 22:10)",
+        [
+            "Luxe",
+            700012402
+        ]
+    ],
+    [
+        "Dinner & Prepare for the Week",
+        "(19:24, 20:45)",
+        [
+            "Corso Brio",
+            700012306
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(21:50, 23:22)",
+        [
+            "Luxe",
+            700012402
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(23:13, 23:59)",
+        [
+            "Old Town",
+            700012302
+        ]
+    ]
+]

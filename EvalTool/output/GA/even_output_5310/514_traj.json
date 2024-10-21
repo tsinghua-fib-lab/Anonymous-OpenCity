@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Hutch and Waldo",
+            700029521
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:20)",
+        [
+            "Citi Bike",
+            700020621
+        ]
+    ],
+    [
+        "Entertainment",
+        "(13:14, 14:38)",
+        [
+            "",
+            700002395
+        ]
+    ],
+    [
+        "Lunch",
+        "(15:40, 17:17)",
+        [
+            "San Matteo Pizzeria e Cucina",
+            700015199
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(17:51, 20:08)",
+        [
+            "San Matteo Pizzeria e Cucina",
+            700015199
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:59, 22:59)",
+        [
+            "Citi Bike",
+            700020621
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:57, 23:59)",
+        [
+            "Ellie's",
+            700021791
+        ]
+    ],
+    [
+        "Next place and activity",
+        "(23:52, 23:59)",
+        [
+            "Citi Bike",
+            700020621
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Washington Square E",
+            700008244
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:29)",
+        [
+            "Citi Bike - Washington Square E",
+            700008244
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:48, 12:02)",
+        [
+            "Citi Bike - Washington Square E",
+            700008244
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:37, 14:10)",
+        [
+            "Citi Bike - Washington Square E",
+            700008244
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:48, 15:58)",
+        [
+            "Citi Bike - Washington Square E",
+            700008244
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(16:10, 17:38)",
+        [
+            "Citi Bike - Washington Square E",
+            700008244
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:30, 22:42)",
+        [
+            "",
+            700036341
+        ]
+    ],
+    [
+        "Stay at Citi Bike - Washington Square E",
+        "(23:29, 23:59)",
+        [
+            "Citi Bike - Washington Square E",
+            700008244
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rite Aid",
+            700003959
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:10)",
+        [
+            "Citi Bike - West 13th Street & 6th Avenue",
+            700008197
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:30, 21:38)",
+        [
+            "Chipotle",
+            700014354
+        ]
+    ],
+    [
+        "Stay at Citi Bike - West 13th Street & 6th Avenue.",
+        "(21:04, 23:10)",
+        [
+            "Citi Bike - West 13th Street & 6th Avenue",
+            700008197
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:13, 23:59)",
+        [
+            "",
+            700001038
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014655
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:40)",
+        [
+            "MPG Parking",
+            700040444
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 18:02)",
+        [
+            "Gotham Café",
+            700016395
+        ]
+    ],
+    [
+        "Watch a Movie/TV Series",
+        "(21:52, 23:05)",
+        [
+            "Gotham Café",
+            700016395
+        ]
+    ],
+    [
+        "Watch a Movie/TV Series",
+        "(23:05, 23:59)",
+        [
+            "Gotham Café",
+            700016395
+        ]
+    ]
+]

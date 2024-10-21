@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Spend some time reading or catching up on the latest news/articles",
+        "(10:00, 10:57)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Go for a walk or exercise session.",
+        "(11:46, 13:06)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Engage in a personal hobby or creative activity",
+        "(13:30, 14:53)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 19:35)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Stay at iPark and relax.",
+        "(17:44, 19:02)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 23:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Stay at iPark",
+        "(23:49, 23:59)",
+        [
+            "iPark",
+            700018136
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Breslin",
+            700010855
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 11:35)",
+        [
+            "The Breslin",
+            700010855
+        ]
+    ],
+    [
+        "Next activity from The Breslin",
+        "(12:09, 13:32)",
+        [
+            "Chandni Restaurant",
+            700013618
+        ]
+    ],
+    [
+        "Next activity from The Breslin",
+        "(14:10, 15:49)",
+        [
+            "Chandni Restaurant",
+            700013618
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 19:55)",
+        [
+            "Café au bon gout",
+            700003238
+        ]
+    ],
+    [
+        "Relax at Home",
+        "(18:10, 19:41)",
+        [
+            "Chandni Restaurant",
+            700013618
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:44, 23:51)",
+        [
+            "Zaytinya",
+            700024997
+        ]
+    ],
+    [
+        "Relax at Home",
+        "(23:52, 23:59)",
+        [
+            "Chandni Restaurant",
+            700013618
+        ]
+    ]
+]

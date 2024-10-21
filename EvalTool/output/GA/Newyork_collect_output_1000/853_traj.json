@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:27)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(13:55, 14:55)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:59, 17:59)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Next, Wind Down with TV or Relaxing Activities",
+        "(19:09, 21:58)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "Wind Down with TV or Relaxing Activities",
+        "(22:59, 23:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Next, Wind Down with TV or Relaxing Activities",
+        "(23:57, 23:59)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ]
+]

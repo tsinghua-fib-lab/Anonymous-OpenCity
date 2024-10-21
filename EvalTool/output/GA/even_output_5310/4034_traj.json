@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Cellar Dog",
+            700007357
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:45)",
+        [
+            "Wilfie & Nell",
+            700009425
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 13:25)",
+        [
+            "Stonewall Inn",
+            700000472
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:50, 18:56)",
+        [
+            "Stonewall Inn",
+            700000472
+        ]
+    ],
+    [
+        "Next activity after dinner.",
+        "(19:21, 21:00)",
+        [
+            "Two Boots",
+            700030493
+        ]
+    ],
+    [
+        "Go to 787 Coffee.",
+        "(21:53, 23:07)",
+        [
+            "Via Carota",
+            700005291
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "Panca",
+            700009047
+        ]
+    ]
+]

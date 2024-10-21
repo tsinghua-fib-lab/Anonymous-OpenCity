@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "Noz Market",
+            700019736
+        ]
+    ],
+    [
+        "go to this place",
+        "(08:00, 12:28)",
+        [
+            "Sushi Noz",
+            700019735
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(11:54, 13:53)",
+        [
+            "Sushi Noz",
+            700019735
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(15:03, 17:10)",
+        [
+            "Sushi Noz",
+            700019735
+        ]
+    ],
+    [
+        "Dinner preparation & family time",
+        "(17:19, 18:48)",
+        [
+            "Sushi Noz",
+            700019735
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:14, 20:59)",
+        [
+            "Sushi Noz",
+            700019735
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:28, 23:03)",
+        [
+            "Sushi Noz",
+            700019735
+        ]
+    ],
+    [
+        "Go to Evening Wind Down",
+        "(23:08, 23:59)",
+        [
+            "Sushi Noz",
+            700019735
+        ]
+    ]
+]

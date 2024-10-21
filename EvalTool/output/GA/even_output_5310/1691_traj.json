@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Barracuda Bar",
+            700015366
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:15)",
+        [
+            "Dim Sum Chelsea",
+            700004346
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:20, 18:58)",
+        [
+            "",
+            700020098
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(20:04, 21:39)",
+        [
+            "Dim Sum Chelsea",
+            700004346
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(22:17, 23:55)",
+        [
+            "Dim Sum Chelsea",
+            700004346
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(23:55, 23:59)",
+        [
+            "New London Pharmacy",
+            700004342
+        ]
+    ]
+]

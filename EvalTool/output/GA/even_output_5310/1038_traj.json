@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Flywheel Sports",
+            700009259
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 16:55)",
+        [
+            "Flywheel Sports",
+            700009259
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(11:25, 13:04)",
+        [
+            "Citi Bike",
+            700040608
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(13:23, 14:55)",
+        [
+            "",
+            700020081
+        ]
+    ],
+    [
+        "Light Exercise",
+        "(15:14, 16:57)",
+        [
+            "",
+            700002554
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:44, 22:46)",
+        [
+            "",
+            700001144
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(20:03, 21:43)",
+        [
+            "",
+            700001960
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(21:48, 23:06)",
+        [
+            "Hollywood Diner",
+            700004495
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(23:35, 23:59)",
+        [
+            "Hollywood Diner",
+            700004495
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700003040
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:49)",
+        [
+            "",
+            700040624
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(12:08, 14:03)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:17, 16:08)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(16:27, 17:55)",
+        [
+            "The Butcher’s Daughter",
+            700012523
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:49, 22:43)",
+        [
+            "Citi Bike - Bank St & Hudson St",
+            700007955
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "",
+            700040624
+        ]
+    ]
+]

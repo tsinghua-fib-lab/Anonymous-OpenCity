@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014511
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:36)",
+        [
+            "Citi Bike",
+            700018517
+        ]
+    ],
+    [
+        "Creative Work Session",
+        "(12:35, 13:53)",
+        [
+            "Citi Bike",
+            700018517
+        ]
+    ],
+    [
+        "Creative Work Session",
+        "(14:49, 16:10)",
+        [
+            "Stella’s Pizza",
+            700014510
+        ]
+    ],
+    [
+        "Creative Work Session",
+        "(16:14, 18:05)",
+        [
+            "Stella’s Pizza",
+            700014510
+        ]
+    ],
+    [
+        "Creative Work Session",
+        "(18:20, 20:01)",
+        [
+            "",
+            700002970
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(20:59, 22:09)",
+        [
+            "Bathtub Gin",
+            700014508
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:27, 23:59)",
+        [
+            "",
+            700000822
+        ]
+    ]
+]

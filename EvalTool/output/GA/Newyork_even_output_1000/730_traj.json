@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Double Zero",
+            700008945
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:24)",
+        [
+            "",
+            700002623
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 18:24)",
+        [
+            "The Bean",
+            700004735
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(15:56, 17:32)",
+        [
+            "Double Zero",
+            700008945
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:06, 19:56)",
+        [
+            "Double Zero",
+            700008945
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:45, 23:59)",
+        [
+            "",
+            700003061
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:21, 23:59)",
+        [
+            "",
+            700002623
+        ]
+    ]
+]

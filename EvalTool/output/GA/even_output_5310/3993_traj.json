@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700007674
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 12:03)",
+        [
+            "Lenny's",
+            700006977
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(12:16, 14:10)",
+        [
+            "Shmoné",
+            700003754
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:27, 15:56)",
+        [
+            "Tue Thai Food",
+            700004947
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 18:04)",
+        [
+            "Quality Eats",
+            700018026
+        ]
+    ],
+    [
+        "Home Relaxation",
+        "(21:14, 23:59)",
+        [
+            "",
+            700001296
+        ]
+    ],
+    [
+        "Home Relaxation",
+        "(23:58, 23:59)",
+        [
+            "Quality Eats",
+            700018026
+        ]
+    ]
+]

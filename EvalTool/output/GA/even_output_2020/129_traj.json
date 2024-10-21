@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Barbary Coast",
+            700005933
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:13)",
+        [
+            "The Pawn Shop",
+            700009349
+        ]
+    ],
+    [
+        "Reading",
+        "(15:13, 17:03)",
+        [
+            "The Pawn Shop",
+            700009349
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:50, 18:56)",
+        [
+            "Mezzanine",
+            700002056
+        ]
+    ],
+    [
+        "Stay at Barbary Coast.",
+        "(23:52, 23:59)",
+        [
+            "Barbary Coast",
+            700005933
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chipotle",
+            700005838
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:16)",
+        [
+            "Bravo Pizza",
+            700005836
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 17:27)",
+        [
+            "McDonald's",
+            700005837
+        ]
+    ],
+    [
+        "Participate in a fun recreational activity, like playing a sport or board games.",
+        "(16:43, 18:10)",
+        [
+            "Citi Bike - East 41st Street & Madison Avenue",
+            700018903
+        ]
+    ],
+    [
+        "Participate in a fun recreational activity, like playing a sport or board games.",
+        "(18:12, 19:56)",
+        [
+            "Citi Bike - East 41st Street & Madison Avenue",
+            700018903
+        ]
+    ],
+    [
+        "End the day with some entertainment, watching something enjoyable.",
+        "(20:58, 22:20)",
+        [
+            "Chick-fil-A",
+            700014549
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:21, 23:59)",
+        [
+            "Pera",
+            700003502
+        ]
+    ]
+]

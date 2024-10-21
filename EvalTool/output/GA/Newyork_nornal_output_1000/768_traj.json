@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Blue Bottle Coffee",
+            700012916
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:38)",
+        [
+            "Panera Bread",
+            700004773
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:34, 13:04)",
+        [
+            "Blue Bottle Coffee",
+            700012916
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:54, 15:06)",
+        [
+            "Blue Bottle Coffee",
+            700012916
+        ]
+    ],
+    [
+        "Next activity after Leisure Time",
+        "(15:40, 17:10)",
+        [
+            "P.F. Chang's",
+            700009145
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 20:03)",
+        [
+            "",
+            700001908
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 20:45)",
+        [
+            "Lenwich",
+            700004765
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "",
+            700001908
+        ]
+    ]
+]

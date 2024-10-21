@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "USPS",
+            700016435
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:33)",
+        [
+            "",
+            700018482
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:16, 18:38)",
+        [
+            "",
+            700015398
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(16:57, 17:51)",
+        [
+            "USPS",
+            700016435
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(18:28, 19:54)",
+        [
+            "USPS",
+            700016435
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(20:13, 21:37)",
+        [
+            "USPS",
+            700016435
+        ]
+    ],
+    [
+        "Dinner with Family or Friends",
+        "(22:27, 23:59)",
+        [
+            "Dunkin'",
+            700015280
+        ]
+    ]
+]

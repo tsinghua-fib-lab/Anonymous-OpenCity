@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "La-Sani Grill",
+            700006351
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(09:00, 09:54)",
+        [
+            "La-Sani Grill",
+            700006351
+        ]
+    ],
+    [
+        "Catch up on chores and errands",
+        "(10:13, 11:48)",
+        [
+            "La-Sani Grill",
+            700006351
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:46, 16:50)",
+        [
+            "Mercato",
+            700003884
+        ]
+    ],
+    [
+        "Catch up on chores and errands",
+        "(16:01, 17:52)",
+        [
+            "UFC Chicken",
+            700011404
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 23:59)",
+        [
+            "",
+            700018024
+        ]
+    ]
+]

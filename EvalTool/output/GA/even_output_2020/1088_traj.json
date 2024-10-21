@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008005
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(09:00, 10:59)",
+        [
+            "24 Hour Fitness",
+            700000693
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:33, 12:51)",
+        [
+            "24 Hour Fitness",
+            700000693
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(13:56, 14:54)",
+        [
+            "24 Hour Fitness",
+            700000693
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(15:10, 17:08)",
+        [
+            "24 Hour Fitness",
+            700000693
+        ]
+    ],
+    [
+        "Cook Dinner",
+        "(17:05, 19:04)",
+        [
+            "24 Hour Fitness",
+            700000693
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:37, 21:02)",
+        [
+            "24 Hour Fitness",
+            700000693
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:42, 23:13)",
+        [
+            "24 Hour Fitness",
+            700000693
+        ]
+    ],
+    [
+        "Stay at 24 Hour Fitness",
+        "(23:20, 23:59)",
+        [
+            "24 Hour Fitness",
+            700000693
+        ]
+    ]
+]

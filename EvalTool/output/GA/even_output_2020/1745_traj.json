@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Blue Bottle",
+            700004354
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:39)",
+        [
+            "",
+            700008172
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(13:02, 14:28)",
+        [
+            "Wells Fargo",
+            700000578
+        ]
+    ],
+    [
+        "Lunch",
+        "(15:18, 16:40)",
+        [
+            "Wells Fargo",
+            700000578
+        ]
+    ],
+    [
+        "Lunch",
+        "(17:39, 19:19)",
+        [
+            "Per Diem",
+            700001846
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:34, 21:04)",
+        [
+            "Proper Food",
+            700010184
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(21:21, 22:51)",
+        [
+            "Chase",
+            700005130
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:39, 23:59)",
+        [
+            "Caffe Ambrosia",
+            700009153
+        ]
+    ]
+]

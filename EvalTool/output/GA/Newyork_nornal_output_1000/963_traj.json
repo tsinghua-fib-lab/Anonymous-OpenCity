@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Juice Generation",
+            700018116
+        ]
+    ],
+    [
+        "Engage in a hobby or interest, such as programming, reading technical articles, or working on a personal project.",
+        "(10:00, 11:54)",
+        [
+            "Juice Generation",
+            700018116
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:49, 17:01)",
+        [
+            "",
+            700002250
+        ]
+    ],
+    [
+        "Engage in a hobby or interest, such as programming, reading technical articles, or working on a personal project.",
+        "(15:47, 17:40)",
+        [
+            "Andiamo Pizza",
+            700020218
+        ]
+    ],
+    [
+        "Prepare and have dinner, either solo or with family/friends, making it a social occasion if possible.",
+        "(18:26, 20:02)",
+        [
+            "Andiamo Pizza",
+            700020218
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:59, 23:30)",
+        [
+            "New York Sports Clubs",
+            700018117
+        ]
+    ]
+]

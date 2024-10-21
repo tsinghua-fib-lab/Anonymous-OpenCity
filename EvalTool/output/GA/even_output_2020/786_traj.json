@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Jolt",
+            700013047
+        ]
+    ],
+    [
+        "Next, you will engage in morning exercise.",
+        "(09:00, 10:06)",
+        [
+            "Jolt",
+            700013047
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:03, 13:43)",
+        [
+            "",
+            700011393
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:38, 19:43)",
+        [
+            "",
+            700009212
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:12, 21:23)",
+        [
+            "Kiss My Seoul",
+            700006038
+        ]
+    ]
+]

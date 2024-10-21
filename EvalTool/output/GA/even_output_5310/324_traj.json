@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Matto Espresso",
+            700021913
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:25)",
+        [
+            "",
+            700020611
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:23, 16:54)",
+        [
+            "",
+            700014658
+        ]
+    ],
+    [
+        "Spend time at Rangoli",
+        "(19:47, 20:54)",
+        [
+            "Rangoli",
+            700021722
+        ]
+    ],
+    [
+        "Spend time at Rangoli",
+        "(21:10, 23:28)",
+        [
+            "Rangoli",
+            700021722
+        ]
+    ],
+    [
+        "Stay at Rangoli",
+        "(23:40, 23:59)",
+        [
+            "Javelina",
+            700017385
+        ]
+    ]
+]

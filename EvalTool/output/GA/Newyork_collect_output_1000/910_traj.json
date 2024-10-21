@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Next workout session",
+        "(09:00, 10:13)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Next workout session",
+        "(10:28, 12:35)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Next leisure activity",
+        "(13:29, 15:05)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Next leisure activity",
+        "(16:01, 18:05)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Stay at Sunflower Cafe",
+        "(18:08, 19:40)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 21:09)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 22:40)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "Stay at Sunflower Cafe",
+        "(23:04, 23:59)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ]
+]

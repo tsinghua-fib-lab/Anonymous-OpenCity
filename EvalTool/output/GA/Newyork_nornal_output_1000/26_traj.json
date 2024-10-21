@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Il Gusto Pizza",
+            700023843
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 10:52)",
+        [
+            "Il Gusto Pizza",
+            700023843
+        ]
+    ],
+    [
+        "Continue exercising at Il Gusto Pizza.",
+        "(11:17, 12:54)",
+        [
+            "Il Gusto Pizza",
+            700023843
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:42, 19:02)",
+        [
+            "Iglesia Universal del Reino de Dios",
+            700029015
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:29, 21:50)",
+        [
+            "",
+            700003061
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:10, 23:59)",
+        [
+            "",
+            700000741
+        ]
+    ]
+]

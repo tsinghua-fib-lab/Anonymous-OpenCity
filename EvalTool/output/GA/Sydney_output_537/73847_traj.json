@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Pendolino",
+            700003692
+        ]
+    ],
+    [
+        "Engage in a personal project.",
+        "(09:00, 10:33)",
+        [
+            "Pendolino",
+            700003692
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 14:47)",
+        [
+            "",
+            700021420
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 17:15)",
+        [
+            "",
+            700026532
+        ]
+    ],
+    [
+        "Engage in a workout session.",
+        "(18:43, 20:03)",
+        [
+            "",
+            700021428
+        ]
+    ],
+    [
+        "Relax at home, watch a movie or catch up on a TV series.",
+        "(20:54, 21:53)",
+        [
+            "Pendolino",
+            700003692
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "Pendolino",
+            700003692
+        ]
+    ]
+]

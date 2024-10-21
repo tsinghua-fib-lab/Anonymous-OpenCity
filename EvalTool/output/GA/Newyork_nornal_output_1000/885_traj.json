@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ace Bar",
+            700016599
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:14)",
+        [
+            "",
+            700020211
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:25, 12:02)",
+        [
+            "Ace Bar",
+            700016599
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:27, 15:30)",
+        [
+            "",
+            700025309
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(16:23, 18:10)",
+        [
+            "Ace Bar",
+            700016599
+        ]
+    ],
+    [
+        "Watch a Movie or Binge a Series",
+        "(19:03, 20:57)",
+        [
+            "Sixth Street Haunted House",
+            700016161
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:44, 23:59)",
+        [
+            "",
+            700025305
+        ]
+    ]
+]

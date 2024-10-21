@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002202
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:23)",
+        [
+            "",
+            700003205
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:58, 12:26)",
+        [
+            "",
+            700002824
+        ]
+    ],
+    [
+        "Continue Leisure Reading or Hobbies",
+        "(14:03, 16:07)",
+        [
+            "",
+            700002202
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(16:02, 18:10)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:51, 23:25)",
+        [
+            "Thomas Drugs",
+            700006589
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(23:44, 23:59)",
+        [
+            "",
+            700005037
+        ]
+    ]
+]

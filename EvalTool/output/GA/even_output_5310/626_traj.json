@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "Walk or light workout in a nearby park",
+        "(09:00, 11:04)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:42, 13:55)",
+        [
+            "Dunkin'",
+            700024685
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 20:06)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:05, 23:46)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ]
+]

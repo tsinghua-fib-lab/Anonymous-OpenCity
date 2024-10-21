@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Rolf's",
+            700006200
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:25)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:01, 15:05)",
+        [
+            "Diner 24",
+            700004207
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends/Family",
+        "(15:27, 17:07)",
+        [
+            "Diner 24",
+            700004207
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:00, 19:20)",
+        [
+            "",
+            700003053
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:41, 21:48)",
+        [
+            "",
+            700017443
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(22:32, 23:59)",
+        [
+            "",
+            700022507
+        ]
+    ]
+]

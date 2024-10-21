@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Church Key",
+            700001736
+        ]
+    ],
+    [
+        "Stay at Church Key and enjoy breakfast.",
+        "(10:00, 11:22)",
+        [
+            "Bocce Cafe",
+            700000121
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:55, 12:50)",
+        [
+            "Maykadeh Persian Restaurant",
+            700000122
+        ]
+    ],
+    [
+        "Stay at Church Key",
+        "(15:48, 17:18)",
+        [
+            "Maykadeh Persian Restaurant",
+            700000122
+        ]
+    ],
+    [
+        "Stay at Church Key and engage in a hobby.",
+        "(17:29, 18:55)",
+        [
+            "Church Key",
+            700001736
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 22:28)",
+        [
+            "Dupont Thai",
+            700000120
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:03)",
+        [
+            "",
+            700022519
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(12:22, 13:43)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:20, 18:24)",
+        [
+            "Seven Sins",
+            700006201
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(16:34, 18:12)",
+        [
+            "Seven Sins",
+            700006201
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(18:39, 20:07)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 21:56)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "Lunch time",
+        "(22:51, 23:44)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ]
+]

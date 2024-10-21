@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Moulin Rouge",
+            700000162
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:06)",
+        [
+            "Moulin Rouge",
+            700000162
+        ]
+    ],
+    [
+        "Next activity is Relaxation/Free Time",
+        "(15:00, 17:04)",
+        [
+            "Moulin Rouge",
+            700000162
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:49, 23:11)",
+        [
+            "",
+            700003223
+        ]
+    ],
+    [
+        "Wind Down with Entertainment",
+        "(20:21, 22:00)",
+        [
+            "Moulin Rouge",
+            700000162
+        ]
+    ],
+    [
+        "Relaxation/Free Time",
+        "(22:49, 23:50)",
+        [
+            "Moulin Rouge",
+            700000162
+        ]
+    ]
+]

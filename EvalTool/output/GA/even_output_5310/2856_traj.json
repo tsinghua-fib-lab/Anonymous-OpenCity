@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002650
+        ]
+    ],
+    [
+        "Enjoy breakfast",
+        "(10:00, 10:53)",
+        [
+            "",
+            700002650
+        ]
+    ],
+    [
+        "Go for a leisurely walk or jog in the park",
+        "(11:21, 13:02)",
+        [
+            "icon 24hr Parking",
+            700009858
+        ]
+    ],
+    [
+        "Spend time reading a book or catching up on a hobby",
+        "(13:41, 15:28)",
+        [
+            "",
+            700002650
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(16:22, 18:09)",
+        [
+            "",
+            700002650
+        ]
+    ],
+    [
+        "Enjoy dinner and unwind by watching TV or chatting with family.",
+        "(19:01, 21:07)",
+        [
+            "",
+            700002650
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:55, 23:59)",
+        [
+            "",
+            700023300
+        ]
+    ]
+]

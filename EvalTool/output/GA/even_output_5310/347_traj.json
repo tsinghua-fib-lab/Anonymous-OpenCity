@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003086
+        ]
+    ],
+    [
+        "Light Exercise",
+        "(10:00, 10:55)",
+        [
+            "",
+            700003086
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:35, 13:32)",
+        [
+            "Abace Sushi",
+            700009835
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:51, 15:29)",
+        [
+            "Kimura",
+            700039912
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:43, 18:46)",
+        [
+            "Mamoun's Falafel",
+            700023633
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 23:59)",
+        [
+            "Streecha Ukrainian Kitchen",
+            700008787
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 22:32)",
+        [
+            "B&H Dairy",
+            700015688
+        ]
+    ]
+]

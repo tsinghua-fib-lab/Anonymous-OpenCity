@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003207
+        ]
+    ],
+    [
+        "Outdoor Walk/Exercise",
+        "(10:00, 10:57)",
+        [
+            "Pink's Cantina",
+            700026925
+        ]
+    ],
+    [
+        "Outdoor Walk/Exercise",
+        "(11:02, 12:01)",
+        [
+            "Banzarbar",
+            700017019
+        ]
+    ],
+    [
+        "Lunch Preparation",
+        "(12:17, 13:57)",
+        [
+            "PlantShed",
+            700004732
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 16:07)",
+        [
+            "Café Habana",
+            700007829
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:28, 23:41)",
+        [
+            "",
+            700001331
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:14, 23:59)",
+        [
+            "",
+            700001788
+        ]
+    ]
+]

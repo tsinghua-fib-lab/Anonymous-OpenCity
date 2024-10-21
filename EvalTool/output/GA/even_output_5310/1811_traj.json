@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Duane Reade",
+            700005977
+        ]
+    ],
+    [
+        "Go for a morning walk or jog in the park.",
+        "(10:00, 11:00)",
+        [
+            "",
+            700001512
+        ]
+    ],
+    [
+        "Go for a morning walk or jog in the park.",
+        "(11:13, 13:06)",
+        [
+            "Duane Reade",
+            700005977
+        ]
+    ],
+    [
+        "Stay at Duane Reade.",
+        "(13:40, 15:20)",
+        [
+            "Duane Reade",
+            700005977
+        ]
+    ],
+    [
+        "Stay at Duane Reade.",
+        "(15:13, 16:55)",
+        [
+            "Duane Reade",
+            700005977
+        ]
+    ],
+    [
+        "Stay at tasti D-lite.",
+        "(17:45, 19:08)",
+        [
+            "Saint Vincent Ferrer School",
+            700000273
+        ]
+    ],
+    [
+        "Stay at Saint Vincent Ferrer School.",
+        "(19:13, 20:33)",
+        [
+            "Saint Vincent Ferrer School",
+            700000273
+        ]
+    ],
+    [
+        "Stay at Saint Vincent Ferrer School.",
+        "(20:49, 22:31)",
+        [
+            "",
+            700014706
+        ]
+    ],
+    [
+        "Stay at tasti D-lite.",
+        "(22:44, 23:59)",
+        [
+            "Saint Vincent Ferrer School",
+            700000273
+        ]
+    ]
+]

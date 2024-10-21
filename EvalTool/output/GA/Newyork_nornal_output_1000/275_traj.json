@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001764
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:27)",
+        [
+            "",
+            700020138
+        ]
+    ],
+    [
+        "meet at cafe",
+        "(12:52, 13:52)",
+        [
+            "FIKA 7th Avenue",
+            700008328
+        ]
+    ],
+    [
+        "Spend time on a personal project or hobby.",
+        "(14:07, 17:08)",
+        [
+            "FIKA 7th Avenue",
+            700008328
+        ]
+    ],
+    [
+        "Stay at Rubby Pizzeria Restaurant for some quiet moments while you prepare for the week ahead.",
+        "(17:17, 19:05)",
+        [
+            "",
+            700010062
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 22:28)",
+        [
+            "",
+            700020074
+        ]
+    ],
+    [
+        "Stay at FIKA 7th Avenue.",
+        "(23:21, 23:59)",
+        [
+            "Peter McManus Cafe",
+            700017925
+        ]
+    ]
+]

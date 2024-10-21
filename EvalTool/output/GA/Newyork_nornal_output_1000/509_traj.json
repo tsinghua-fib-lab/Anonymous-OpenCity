@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citibank",
+            700006044
+        ]
+    ],
+    [
+        "Outdoor Activity/Exercise",
+        "(09:00, 10:32)",
+        [
+            "Supreme Restaurant",
+            700011129
+        ]
+    ],
+    [
+        "Catch Up on Reading/Personal Development",
+        "(11:01, 12:55)",
+        [
+            "Supreme Restaurant",
+            700011129
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:56, 16:12)",
+        [
+            "United Orient Bank",
+            700025622
+        ]
+    ],
+    [
+        "Grocery Shopping/Errands",
+        "(19:20, 20:42)",
+        [
+            "Penguin Ice Cream",
+            700019766
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:10, 22:25)",
+        [
+            "3 Dessert Cafe",
+            700040061
+        ]
+    ]
+]

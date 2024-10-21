@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006449
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:34)",
+        [
+            "Daniel's Bagels",
+            700013543
+        ]
+    ],
+    [
+        "Dinner and Family Time",
+        "(11:20, 12:46)",
+        [
+            "One Medical",
+            700033968
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(13:51, 15:15)",
+        [
+            "",
+            700006449
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(16:07, 18:11)",
+        [
+            "Sai Gon Dep",
+            700017844
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:16, 19:39)",
+        [
+            "",
+            700006449
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:56, 23:43)",
+        [
+            "Daniel's Bagels",
+            700013543
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "One Medical",
+            700033968
+        ]
+    ]
+]

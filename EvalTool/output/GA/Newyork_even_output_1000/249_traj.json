@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700029753
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:45)",
+        [
+            "",
+            700029753
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:30, 21:35)",
+        [
+            "Medical Ear Piercing Clinics",
+            700010838
+        ]
+    ],
+    [
+        "Stay at NYPD 6 PCT.",
+        "(21:04, 22:54)",
+        [
+            "Bonchon Chicken",
+            700004007
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:13, 23:59)",
+        [
+            "Walgreens",
+            700009306
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chinatown Restaurant",
+            700001069
+        ]
+    ],
+    [
+        "Wake Up and Relax",
+        "(10:00, 11:58)",
+        [
+            "",
+            700009329
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:14, 14:12)",
+        [
+            "Grant Place",
+            700004225
+        ]
+    ],
+    [
+        "Visit a Cultural Venue",
+        "(14:27, 17:00)",
+        [
+            "",
+            700009335
+        ]
+    ],
+    [
+        "5:00 PM - 6:00 PM Grocery Shopping",
+        "(17:10, 18:07)",
+        [
+            "",
+            700009335
+        ]
+    ],
+    [
+        "5:00 PM - 6:00 PM Grocery Shopping",
+        "(18:22, 19:38)",
+        [
+            "Grand Palace Restaurant",
+            700005140
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:52, 21:00)",
+        [
+            "Grand Palace Restaurant",
+            700005140
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(21:43, 23:04)",
+        [
+            "Grand Palace Restaurant",
+            700005140
+        ]
+    ],
+    [
+        "Stay at Grant Place",
+        "(23:36, 23:59)",
+        [
+            "",
+            700009341
+        ]
+    ]
+]

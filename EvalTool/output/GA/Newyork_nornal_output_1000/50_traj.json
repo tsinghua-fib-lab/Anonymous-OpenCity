@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020617
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:31)",
+        [
+            "Stumble Inn",
+            700006558
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:11, 14:18)",
+        [
+            "",
+            700020590
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(14:33, 16:08)",
+        [
+            "Centro Pizza",
+            700021721
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:05, 18:06)",
+        [
+            "Centro Pizza",
+            700021721
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:39, 23:28)",
+        [
+            "",
+            700020607
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(23:38, 23:59)",
+        [
+            "Stumble Inn",
+            700006558
+        ]
+    ]
+]

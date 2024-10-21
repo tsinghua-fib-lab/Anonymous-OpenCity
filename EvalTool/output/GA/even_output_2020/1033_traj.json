@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hillwood Academic Day Schol",
+            700005469
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 10:55)",
+        [
+            "Hillwood Academic Day Schol",
+            700005469
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:43, 12:59)",
+        [
+            "Box Kitchen",
+            700007486
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 15:05)",
+        [
+            "",
+            700000702
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:04, 17:12)",
+        [
+            "The Hub",
+            700002311
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:43, 19:19)",
+        [
+            "",
+            700011517
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:57, 22:43)",
+        [
+            "",
+            700011516
+        ]
+    ]
+]

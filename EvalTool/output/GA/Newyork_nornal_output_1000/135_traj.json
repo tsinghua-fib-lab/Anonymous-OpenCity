@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011682
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:06)",
+        [
+            "Starbucks",
+            700008593
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:03, 13:57)",
+        [
+            "Starbucks",
+            700008593
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:27, 16:00)",
+        [
+            "Starbucks",
+            700008593
+        ]
+    ],
+    [
+        "Connect with Friends/Family",
+        "(16:31, 18:11)",
+        [
+            "Starbucks",
+            700008593
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:34, 20:05)",
+        [
+            "",
+            700001297
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(20:23, 21:57)",
+        [
+            "Studio Anya",
+            700009149
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:47, 23:59)",
+        [
+            "Citi Bike - West 25th Street & 6th Avenue",
+            700008211
+        ]
+    ]
+]

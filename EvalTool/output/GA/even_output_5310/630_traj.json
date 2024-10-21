@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020657
+        ]
+    ],
+    [
+        "Go for a relaxing walk or hike in a nearby park.",
+        "(10:00, 11:39)",
+        [
+            "",
+            700019554
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:30, 17:13)",
+        [
+            "",
+            700032013
+        ]
+    ],
+    [
+        "Engage in a fun sports activity, like playing tennis or cycling.",
+        "(18:24, 20:05)",
+        [
+            "Citi Bike - East 27th Street & 1st Avenue",
+            700008040
+        ]
+    ],
+    [
+        "Wind down with a movie or TV show at home.",
+        "(20:06, 22:30)",
+        [
+            "Citi Bike - East 27th Street & 1st Avenue",
+            700008040
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 27th Street & 1st Avenue",
+        "(22:53, 23:59)",
+        [
+            "Citi Bike - East 27th Street & 1st Avenue",
+            700008040
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 27th Street & 1st Avenue",
+        "(23:43, 23:59)",
+        [
+            "Citi Bike - East 27th Street & 1st Avenue",
+            700008040
+        ]
+    ]
+]

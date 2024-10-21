@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001044
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:55)",
+        [
+            "Dim Sum Palace",
+            700004725
+        ]
+    ],
+    [
+        "Continue with Morning Walk or Light Exercise",
+        "(10:35, 11:54)",
+        [
+            "Dim Sum Palace",
+            700004725
+        ]
+    ],
+    [
+        "Continue with Reading or Pursue a Hobby",
+        "(12:54, 14:09)",
+        [
+            "Dim Sum Palace",
+            700004725
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:15, 16:09)",
+        [
+            "Dim Sum Palace",
+            700004725
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(16:57, 18:31)",
+        [
+            "Dim Sum Palace",
+            700004725
+        ]
+    ],
+    [
+        "Continue Visit Friends or Family",
+        "(18:03, 19:50)",
+        [
+            "Dim Sum Palace",
+            700004725
+        ]
+    ],
+    [
+        "Stay at Dim Sum Palace",
+        "(19:57, 22:04)",
+        [
+            "Dim Sum Palace",
+            700004725
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:20, 22:58)",
+        [
+            "",
+            700002574
+        ]
+    ]
+]

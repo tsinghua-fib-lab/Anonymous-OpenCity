@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:03)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:00, 12:06)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 15:58)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Current activity: Stay at AWOL Bar and Grill for dinner and movie night",
+        "(18:05, 22:09)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:13, 23:27)",
+        [
+            "",
+            700002180
+        ]
+    ]
+]

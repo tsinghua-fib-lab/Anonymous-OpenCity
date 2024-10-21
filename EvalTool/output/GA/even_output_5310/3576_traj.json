@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700012160
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:16)",
+        [
+            "",
+            700012161
+        ]
+    ],
+    [
+        "Hobby Time or Creative Project",
+        "(14:08, 16:02)",
+        [
+            "",
+            700012158
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:07, 19:29)",
+        [
+            "NY $1.50 Fresh Pizza",
+            700024347
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:37, 19:46)",
+        [
+            "",
+            700012160
+        ]
+    ],
+    [
+        "Go to NY $1.50 Fresh Pizza and spend time there.",
+        "(23:19, 23:59)",
+        [
+            "NY $1.50 Fresh Pizza",
+            700024347
+        ]
+    ]
+]

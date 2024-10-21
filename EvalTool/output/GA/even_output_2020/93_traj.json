@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Johnny Foley's Irish House",
+            700001086
+        ]
+    ],
+    [
+        "Have breakfast",
+        "(10:00, 11:37)",
+        [
+            "Union Square Pizza & Kitchen",
+            700001087
+        ]
+    ],
+    [
+        "Stay at Johnny Foley's Irish House.",
+        "(12:00, 13:36)",
+        [
+            "Union Square Pizza & Kitchen",
+            700001087
+        ]
+    ],
+    [
+        "Stay at Johnny Foley's Irish House.",
+        "(14:30, 16:27)",
+        [
+            "Union Square Pizza & Kitchen",
+            700001087
+        ]
+    ],
+    [
+        "Stay at Johnny Foley's Irish House",
+        "(17:18, 18:58)",
+        [
+            "Union Square Pizza & Kitchen",
+            700001087
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 23:59)",
+        [
+            "Anzu Restaurant",
+            700001061
+        ]
+    ],
+    [
+        "Stay at Johnny Foley's Irish House.",
+        "(22:34, 23:59)",
+        [
+            "Anzu Restaurant",
+            700001061
+        ]
+    ]
+]

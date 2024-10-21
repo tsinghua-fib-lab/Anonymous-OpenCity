@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Woods Polk Station",
+            700003160
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:50)",
+        [
+            "Royal Ground Coffee",
+            700002092
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:43, 14:23)",
+        [
+            "Royal Ground Coffee",
+            700002092
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(15:09, 17:08)",
+        [
+            "Royal Ground Coffee",
+            700002092
+        ]
+    ],
+    [
+        "Hobby or Creative Time",
+        "(17:18, 18:59)",
+        [
+            "The Royal Oak",
+            700000646
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(20:00, 21:38)",
+        [
+            "The Royal Oak",
+            700000646
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:05, 23:59)",
+        [
+            "Hummus Mediterranean Kitchen",
+            700001052
+        ]
+    ]
+]

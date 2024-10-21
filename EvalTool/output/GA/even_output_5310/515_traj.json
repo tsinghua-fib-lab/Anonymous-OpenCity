@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "16 Handles",
+            700024252
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:26)",
+        [
+            "Starbucks",
+            700005980
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:14, 14:52)",
+        [
+            "Starbucks",
+            700005980
+        ]
+    ],
+    [
+        "Lunch",
+        "(15:40, 17:12)",
+        [
+            "Yuka Japanese",
+            700011572
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(17:51, 19:50)",
+        [
+            "Yuka Japanese",
+            700011572
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:59, 22:43)",
+        [
+            "",
+            700020618
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:57, 23:59)",
+        [
+            "Yuka Japanese",
+            700011572
+        ]
+    ],
+    [
+        "Next place and activity",
+        "(23:52, 23:59)",
+        [
+            "Yuka Japanese",
+            700011572
+        ]
+    ]
+]

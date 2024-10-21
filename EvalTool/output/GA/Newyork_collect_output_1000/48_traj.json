@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Enjoy some leisure activities, such as reading or listening to music.",
+        "(10:00, 11:27)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Enjoy some leisure activities, such as reading or listening to music.",
+        "(11:39, 14:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Keep enjoying leisure activities.",
+        "(14:55, 15:51)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "watch a movie or catch up on a TV series",
+        "(16:07, 18:08)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Stay at New York Comedy Club",
+        "(18:05, 19:33)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Stay at New York Comedy Club",
+        "(19:41, 21:06)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:21, 23:59)",
+        [
+            "Orion Diner & Grill",
+            700014321
+        ]
+    ],
+    [
+        "Go to Roma Pizza.",
+        "(23:33, 23:59)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ]
+]

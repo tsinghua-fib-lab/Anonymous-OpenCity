@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pharmacie 24",
+            700018029
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:35)",
+        [
+            "Crèche de l'Étoile",
+            700054956
+        ]
+    ],
+    [
+        "Socializing",
+        "(16:32, 18:02)",
+        [
+            "Pharmacie 24",
+            700018029
+        ]
+    ],
+    [
+        "Socializing",
+        "(18:21, 20:07)",
+        [
+            "Secret Square",
+            700013839
+        ]
+    ],
+    [
+        "Socializing",
+        "(20:16, 21:49)",
+        [
+            "Pharmacie 24",
+            700018029
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:23, 23:59)",
+        [
+            "Secret Square",
+            700013839
+        ]
+    ],
+    [
+        "Socializing",
+        "(23:42, 23:59)",
+        [
+            "Mademoiselle",
+            700013840
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Spot Dessert Bar",
+            700040373
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:08)",
+        [
+            "Dumpling N' Dips",
+            700029777
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:47, 18:20)",
+        [
+            "Dumpling N' Dips",
+            700029777
+        ]
+    ],
+    [
+        "Current place: Dumpling N' Dips. Enjoy the restaurant's offerings.",
+        "(19:22, 21:03)",
+        [
+            "New Vibe Yoga",
+            700016407
+        ]
+    ],
+    [
+        "Stay in place: Dumpling N' Dips.",
+        "(21:21, 22:49)",
+        [
+            "Tokyo Taiyaki",
+            700040372
+        ]
+    ],
+    [
+        "Go to Dumpling N' Dips for dessert.",
+        "(23:09, 23:59)",
+        [
+            "Udon St Marks",
+            700040376
+        ]
+    ]
+]

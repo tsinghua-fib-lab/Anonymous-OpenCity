@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Delancey",
+            700022121
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:40)",
+        [
+            "Kings Co Imperial LES",
+            700022292
+        ]
+    ],
+    [
+        "Mid-Morning Leisure Activity",
+        "(12:21, 14:20)",
+        [
+            "Kings Co Imperial LES",
+            700022292
+        ]
+    ],
+    [
+        "Afternoon Sports/Outdoor Activity",
+        "(14:51, 16:06)",
+        [
+            "Nakamura",
+            700013752
+        ]
+    ],
+    [
+        "Afternoon Sports/Outdoor Activity",
+        "(15:56, 17:04)",
+        [
+            "Nakamura",
+            700013752
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(17:57, 19:09)",
+        [
+            "The Delancey",
+            700022121
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 21:01)",
+        [
+            "",
+            700022955
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(23:19, 23:59)",
+        [
+            "The Delancey",
+            700022121
+        ]
+    ]
+]

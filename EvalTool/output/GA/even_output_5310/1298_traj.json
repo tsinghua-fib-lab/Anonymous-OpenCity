@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Walgreens",
+            700017553
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:24)",
+        [
+            "Esquire Pharmacy",
+            700026187
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:35, 18:58)",
+        [
+            "",
+            700006702
+        ]
+    ],
+    [
+        "Have dinner and relax",
+        "(17:30, 19:04)",
+        [
+            "Walgreens",
+            700017553
+        ]
+    ],
+    [
+        "Stay at Walgreens",
+        "(19:22, 20:56)",
+        [
+            "Walgreens",
+            700017553
+        ]
+    ],
+    [
+        "Stay at Walgreens",
+        "(21:11, 22:47)",
+        [
+            "Walgreens",
+            700017553
+        ]
+    ],
+    [
+        "Stay at Walgreens.",
+        "(23:16, 23:59)",
+        [
+            "Ess-a-Bagel",
+            700023332
+        ]
+    ]
+]

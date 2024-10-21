@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009102
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:00)",
+        [
+            "",
+            700013546
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:35, 14:15)",
+        [
+            "",
+            700009103
+        ]
+    ],
+    [
+        "Relaxation/Entertainment",
+        "(15:20, 17:06)",
+        [
+            "",
+            700013549
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:42, 19:13)",
+        [
+            "Juana Briones, Pioneer Settler of Yerba Buena",
+            700009111
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(19:46, 21:07)",
+        [
+            "",
+            700013551
+        ]
+    ],
+    [
+        "Stay at Unspecified Location",
+        "(21:48, 22:52)",
+        [
+            "",
+            700009098
+        ]
+    ],
+    [
+        "Stay at Unspecified Location.",
+        "(23:50, 23:59)",
+        [
+            "United States Post Office North Beach Station",
+            700000394
+        ]
+    ]
+]

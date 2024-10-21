@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fishmarket",
+            700039214
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:26)",
+        [
+            "",
+            700001828
+        ]
+    ],
+    [
+        "Current place: Fishmarket, stay until 2:00 PM for lunch",
+        "(12:39, 14:36)",
+        [
+            "Tompkins Square Bagels",
+            700008973
+        ]
+    ],
+    [
+        "Stay at Fishmarket until 2:00 PM",
+        "(15:33, 17:27)",
+        [
+            "Westville East",
+            700008894
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:49, 20:39)",
+        [
+            "",
+            700002946
+        ]
+    ],
+    [
+        "Stay at Fishmarket for another hour.",
+        "(20:49, 21:55)",
+        [
+            "Fishmarket",
+            700039214
+        ]
+    ],
+    [
+        "Stay at Fishmarket for relaxation.",
+        "(22:41, 23:59)",
+        [
+            "Fishmarket",
+            700039214
+        ]
+    ]
+]

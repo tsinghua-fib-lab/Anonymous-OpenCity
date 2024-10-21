@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700017136
+        ]
+    ],
+    [
+        "Go for a walk or light exercise from 11:00 AM to 12:00 PM",
+        "(10:00, 10:57)",
+        [
+            "",
+            700017136
+        ]
+    ],
+    [
+        "Go for a walk or light exercise from 11:00 AM to 12:00 PM",
+        "(12:03, 13:03)",
+        [
+            "Diamond Braces",
+            700019105
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 19:09)",
+        [
+            "Xi'an Famous Foods",
+            700008568
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:32, 23:59)",
+        [
+            "Cock & Bull",
+            700016198
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:55)",
+        [
+            "Sophie’s",
+            700011234
+        ]
+    ]
+]

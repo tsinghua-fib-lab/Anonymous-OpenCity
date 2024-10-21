@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Paulson Center Residential College",
+            700028206
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:35)",
+        [
+            "Paulson Center Residential College",
+            700028206
+        ]
+    ],
+    [
+        "Move to Outdoor Activity",
+        "(11:15, 12:44)",
+        [
+            "",
+            700002303
+        ]
+    ],
+    [
+        "Relax & Entertainment",
+        "(13:51, 15:30)",
+        [
+            "Paulson Center Residential College",
+            700028206
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:34, 21:20)",
+        [
+            "",
+            700001715
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:28, 19:53)",
+        [
+            "Chipotle",
+            700008935
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:48, 23:59)",
+        [
+            "",
+            700000926
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "",
+            700001375
+        ]
+    ]
+]

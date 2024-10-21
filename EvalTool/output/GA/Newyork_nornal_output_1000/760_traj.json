@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ave C Pharmacy",
+            700005412
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:09)",
+        [
+            "",
+            700001760
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:35, 15:26)",
+        [
+            "The Plaza Food Hall",
+            700010951
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:40, 19:16)",
+        [
+            "",
+            700034865
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:53, 22:15)",
+        [
+            "",
+            700034862
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 23:10)",
+        [
+            "Citi Bike - Grand Army Plaza & Central Park South",
+            700008084
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "",
+            700034854
+        ]
+    ]
+]

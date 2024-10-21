@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bagel Boss",
+            700006701
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:51)",
+        [
+            "CVS Pharmacy",
+            700004181
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 19:07)",
+        [
+            "US Post Office",
+            700021998
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:24, 20:44)",
+        [
+            "US Post Office",
+            700021998
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:54, 22:31)",
+        [
+            "US Post Office",
+            700021998
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:56, 23:59)",
+        [
+            "14th Street Y - Childcare",
+            700007895
+        ]
+    ]
+]

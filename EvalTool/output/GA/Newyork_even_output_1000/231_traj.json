@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mikado",
+            700018156
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:41)",
+        [
+            "Dan & John's Wings",
+            700011618
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 17:00)",
+        [
+            "",
+            700002203
+        ]
+    ],
+    [
+        "Social or Leisure Activities",
+        "(14:49, 16:51)",
+        [
+            "Dan & John's Wings",
+            700011618
+        ]
+    ],
+    [
+        "Social or Leisure Activities",
+        "(16:54, 18:59)",
+        [
+            "McDonald's",
+            700010937
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:18, 23:59)",
+        [
+            "",
+            700020038
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:09, 23:59)",
+        [
+            "",
+            700020036
+        ]
+    ]
+]

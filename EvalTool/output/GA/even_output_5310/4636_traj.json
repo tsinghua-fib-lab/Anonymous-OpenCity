@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tappo",
+            700005959
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:37)",
+        [
+            "",
+            700011682
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:24, 16:14)",
+        [
+            "",
+            700011682
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(17:53, 19:00)",
+        [
+            "The Corner Cafe",
+            700008595
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(19:41, 20:45)",
+        [
+            "The Corner Cafe",
+            700008595
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(21:53, 22:53)",
+        [
+            "The Corner Cafe",
+            700008595
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:12, 23:59)",
+        [
+            "Chase",
+            700003487
+        ]
+    ]
+]

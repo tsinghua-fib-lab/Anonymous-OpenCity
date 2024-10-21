@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:36, 13:09)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:54, 19:28)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Relax with a movie or binge-watch a series on your favorite streaming platform.",
+        "(19:16, 20:51)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Relax with a movie or binge-watch a series",
+        "(21:47, 23:22)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Relax with a movie or binge-watch a series",
+        "(23:35, 23:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ]
+]

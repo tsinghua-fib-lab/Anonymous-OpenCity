@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Lallisse",
+            700008461
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:59)",
+        [
+            "Zipcar",
+            700008341
+        ]
+    ],
+    [
+        "Outdoor Activities or Sports",
+        "(15:10, 16:46)",
+        [
+            "Zipcar",
+            700008341
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(17:46, 18:56)",
+        [
+            "Citi Bike - East 31st Street & 3rd Avenue",
+            700005961
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:11, 23:46)",
+        [
+            "Ruby's Cafe",
+            700004868
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:48, 23:59)",
+        [
+            "Van Leeuwen",
+            700016573
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:53)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Explore a Hobby",
+        "(10:26, 11:58)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:36, 17:37)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(18:33, 19:56)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:33, 23:11)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ]
+]

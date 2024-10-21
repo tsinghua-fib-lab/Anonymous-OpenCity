@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "Go for a walk in the nearby park.",
+        "(10:00, 10:57)",
+        [
+            "7th Street Burger",
+            700015362
+        ]
+    ],
+    [
+        "Continue with the walk in the nearby park.",
+        "(11:26, 12:02)",
+        [
+            "7th Street Burger",
+            700015362
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:52, 16:07)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 17:48)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 20:17)",
+        [
+            "7th Street Burger",
+            700015362
+        ]
+    ],
+    [
+        "Spend time at Matto Espresso.",
+        "(23:25, 23:59)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ]
+]

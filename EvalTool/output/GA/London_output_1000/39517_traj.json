@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:09)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:00, 12:54)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 16:40)",
+        [
+            "",
+            700011091
+        ]
+    ],
+    [
+        "Socialize",
+        "(17:09, 18:35)",
+        [
+            "Gezellig",
+            700011877
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:29, 21:03)",
+        [
+            "",
+            700011095
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:58)",
+        [
+            "Motorcycle parking",
+            700082469
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Gezellig",
+            700011877
+        ]
+    ]
+]

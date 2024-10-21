@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700060990
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:22)",
+        [
+            "",
+            700060994
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:49, 13:50)",
+        [
+            "Sambre et Meuse",
+            700043919
+        ]
+    ],
+    [
+        "Afternoon Leisure",
+        "(14:21, 16:56)",
+        [
+            "Sambre et Meuse",
+            700043919
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(17:40, 19:04)",
+        [
+            "Sambre et Meuse",
+            700043919
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:48, 23:59)",
+        [
+            "Maxi pharma Sambre et Meuse",
+            700015679
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:43, 23:59)",
+        [
+            "Au Café 39",
+            700035838
+        ]
+    ],
+    [
+        "Go to Au Café 39.",
+        "(23:48, 23:59)",
+        [
+            "Au Café 39",
+            700035838
+        ]
+    ]
+]

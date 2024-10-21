@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002097
+        ]
+    ],
+    [
+        "Next will be brunch at Citi Bike - Bank St & Hudson St.",
+        "(10:00, 11:28)",
+        [
+            "Citi Bike - Bank St & Hudson St",
+            700007955
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:18, 13:38)",
+        [
+            "Citi Bike - Bank St & Hudson St",
+            700007955
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(14:12, 15:46)",
+        [
+            "Citi Bike - Bank St & Hudson St",
+            700007955
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:47, 18:07)",
+        [
+            "Citi Bike - Bank St & Hudson St",
+            700007955
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:06, 19:54)",
+        [
+            "Citi Bike - Bank St & Hudson St",
+            700007955
+        ]
+    ],
+    [
+        "Family or Friends Gathering",
+        "(20:33, 22:00)",
+        [
+            "Citi Bike - Bank St & Hudson St",
+            700007955
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:52, 23:59)",
+        [
+            "Made in New York Pizza",
+            700027989
+        ]
+    ]
+]

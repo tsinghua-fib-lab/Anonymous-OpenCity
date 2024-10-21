@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mr. Taka Ramen",
+            700008882
+        ]
+    ],
+    [
+        "Engage in a morning workout or leisurely walk",
+        "(09:00, 10:07)",
+        [
+            "Mr. Taka Ramen",
+            700008882
+        ]
+    ],
+    [
+        "current place: Mr. Taka Ramen; stay time:",
+        "(10:07, 11:39)",
+        [
+            "Bareburger LES",
+            700016232
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 15:44)",
+        [
+            "Bareburger LES",
+            700016232
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 21:14)",
+        [
+            "Hair of the dog",
+            700017607
+        ]
+    ],
+    [
+        "Stay at current place: Mr. Taka Ramen.",
+        "(20:15, 22:23)",
+        [
+            "Hair of the dog",
+            700017607
+        ]
+    ],
+    [
+        "Stay at Mr. Taka Ramen.",
+        "(21:49, 23:08)",
+        [
+            "Hair of the dog",
+            700017607
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chase",
+            700020878
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:33)",
+        [
+            "Le Pain Quotidien",
+            700003457
+        ]
+    ],
+    [
+        "Leisure Time/Watch TV",
+        "(13:25, 15:52)",
+        [
+            "Le Pain Quotidien",
+            700003457
+        ]
+    ],
+    [
+        "Leisure Time/Watch TV",
+        "(15:58, 17:15)",
+        [
+            "Marea",
+            700019757
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:08, 19:53)",
+        [
+            "",
+            700026445
+        ]
+    ],
+    [
+        "Stay at Chase",
+        "(22:14, 23:44)",
+        [
+            "Chase",
+            700020878
+        ]
+    ]
+]

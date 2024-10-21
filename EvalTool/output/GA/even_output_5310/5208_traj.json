@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Nuan Xin Rice Roll",
+            700019760
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 10:51)",
+        [
+            "Nuan Xin Rice Roll",
+            700019760
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:01, 12:41)",
+        [
+            "Nuan Xin Rice Roll",
+            700019760
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:57, 14:05)",
+        [
+            "Nuan Xin Rice Roll",
+            700019760
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:30, 16:05)",
+        [
+            "Nuan Xin Rice Roll",
+            700019760
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:45, 20:02)",
+        [
+            "Steam House",
+            700019761
+        ]
+    ],
+    [
+        "Visit friends or family",
+        "(20:09, 21:34)",
+        [
+            "Steam House",
+            700019761
+        ]
+    ],
+    [
+        "Go to visit friends or family",
+        "(21:48, 23:43)",
+        [
+            "S. Wan Cafe",
+            700019762
+        ]
+    ],
+    [
+        "Visit friends or family",
+        "(23:43, 23:59)",
+        [
+            "S. Wan Cafe",
+            700019762
+        ]
+    ]
+]

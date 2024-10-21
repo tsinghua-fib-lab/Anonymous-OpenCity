@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700071993
+        ]
+    ],
+    [
+        "Next activity to engage in is a morning leisure activity like reading a book or light exercise.",
+        "(10:00, 11:06)",
+        [
+            "",
+            700071993
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:51, 11:51)",
+        [
+            "",
+            700025576
+        ]
+    ],
+    [
+        "Next activity to engage in is a morning leisure activity.",
+        "(12:35, 13:36)",
+        [
+            "",
+            700029831
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 17:19)",
+        [
+            "",
+            700071993
+        ]
+    ],
+    [
+        "Go to café",
+        "(17:09, 18:41)",
+        [
+            "",
+            700029818
+        ]
+    ],
+    [
+        "Go to restaurant at Al Solito Posto.",
+        "(19:17, 21:10)",
+        [
+            "",
+            700012083
+        ]
+    ],
+    [
+        "Stay at",
+        "(21:50, 23:01)",
+        [
+            "",
+            700071993
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "L'Étoile 1903",
+            700003408
+        ]
+    ]
+]

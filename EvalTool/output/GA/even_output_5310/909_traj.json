@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Oslo Coffee Roasters",
+            700009550
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:17)",
+        [
+            "Hospital for Special Surgery 75th Street Campus",
+            700035809
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:43, 18:15)",
+        [
+            "Subway",
+            700016562
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:49, 20:19)",
+        [
+            "SLim Dental Kids",
+            700016563
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:59)",
+        [
+            "Tanoshi Sushi NYC",
+            700016389
+        ]
+    ]
+]

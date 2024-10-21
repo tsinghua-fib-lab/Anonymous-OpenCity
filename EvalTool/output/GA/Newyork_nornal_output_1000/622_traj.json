@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "NY Kids Club",
+            700006234
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:30)",
+        [
+            "Handcraft",
+            700006233
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:02, 12:36)",
+        [
+            "Handcraft",
+            700006233
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 16:40)",
+        [
+            "The Gem Saloon",
+            700011140
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:08, 19:05)",
+        [
+            "",
+            700024801
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(16:18, 17:38)",
+        [
+            "NY Kids Club",
+            700006234
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 23:33)",
+        [
+            "",
+            700006232
+        ]
+    ],
+    [
+        "stay",
+        "(23:20, 23:59)",
+        [
+            "NY Kids Club",
+            700006234
+        ]
+    ]
+]

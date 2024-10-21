@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:00, 11:05)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(11:26, 13:05)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:55, 15:51)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Continue Free Time/Relaxation",
+        "(16:29, 17:54)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:49, 20:14)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Free Time/Relaxation",
+        "(20:24, 21:57)",
+        [
+            "",
+            700011095
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:27, 23:59)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ]
+]

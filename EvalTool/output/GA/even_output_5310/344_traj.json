@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000920
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:47)",
+        [
+            "Lilly's",
+            700014819
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:23, 16:38)",
+        [
+            "",
+            700014817
+        ]
+    ],
+    [
+        "Spend time at Lilly's",
+        "(19:47, 20:53)",
+        [
+            "Leon Bakery",
+            700009834
+        ]
+    ],
+    [
+        "Spend time at Leon Bakery",
+        "(21:10, 23:41)",
+        [
+            "Leon Bakery",
+            700009834
+        ]
+    ],
+    [
+        "Stay at Lilly's",
+        "(23:40, 23:59)",
+        [
+            "Casa Agave",
+            700009837
+        ]
+    ]
+]

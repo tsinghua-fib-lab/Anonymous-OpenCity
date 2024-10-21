@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030016
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:41)",
+        [
+            "Maison du Knafé",
+            700023536
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:50, 16:30)",
+        [
+            "Maison du Knafé",
+            700023536
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby",
+        "(14:20, 16:13)",
+        [
+            "Maison du Knafé",
+            700023536
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:02, 18:11)",
+        [
+            "La Travesia",
+            700039157
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:33, 23:59)",
+        [
+            "Le Petit Bleu",
+            700038856
+        ]
+    ]
+]

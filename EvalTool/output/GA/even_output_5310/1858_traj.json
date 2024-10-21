@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700024998
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:09)",
+        [
+            "",
+            700035721
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 17:11)",
+        [
+            "",
+            700035722
+        ]
+    ],
+    [
+        "Visit a local community event, market, or park.",
+        "(17:49, 19:13)",
+        [
+            "",
+            700024999
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:19, 23:59)",
+        [
+            "Weill Cornell Medical College",
+            700000029
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700054089
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:26)",
+        [
+            "BNP Paribas",
+            700033463
+        ]
+    ],
+    [
+        "Engaging in a hobby or reading a book.",
+        "(16:34, 18:05)",
+        [
+            "",
+            700054087
+        ]
+    ],
+    [
+        "Meet friends for coffee or a light snack.",
+        "(19:01, 20:26)",
+        [
+            "BNP Paribas",
+            700033463
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:59)",
+        [
+            "",
+            700050821
+        ]
+    ]
+]

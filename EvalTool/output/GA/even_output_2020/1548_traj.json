@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Foghorn Coffee",
+            700009923
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:23)",
+        [
+            "Foghorn Coffee",
+            700009923
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:54, 15:36)",
+        [
+            "",
+            700013299
+        ]
+    ],
+    [
+        "Social Time",
+        "(14:57, 16:42)",
+        [
+            "Ghirardelli Chocolate Experience",
+            700008811
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 22:47)",
+        [
+            "",
+            700013295
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700009922
+        ]
+    ]
+]

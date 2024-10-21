@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - East 20th Street & FDR Drive",
+            700008034
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:32)",
+        [
+            "",
+            700017727
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:34, 13:14)",
+        [
+            "Citi Bike - East 20th Street & FDR Drive",
+            700008034
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:54, 15:04)",
+        [
+            "Citi Bike - East 20th Street & FDR Drive",
+            700008034
+        ]
+    ],
+    [
+        "Next activity after Leisure Time",
+        "(15:40, 17:02)",
+        [
+            "Tír na nÓg, Times Square",
+            700013408
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 20:06)",
+        [
+            "The Robert Blackburn Printmaking Workshop (RBPMW)",
+            700007640
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 22:20)",
+        [
+            "Tír na nÓg, Times Square",
+            700013408
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "Sky Room",
+            700017108
+        ]
+    ]
+]

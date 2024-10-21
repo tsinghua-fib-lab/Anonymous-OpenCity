@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Shalman Dentistry",
+            700024432
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(09:00, 09:59)",
+        [
+            "Moshava Coffee",
+            700028897
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(10:34, 11:58)",
+        [
+            "Moshava Coffee",
+            700028897
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 17:11)",
+        [
+            "Solidcore",
+            700028895
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:09, 20:00)",
+        [
+            "Solidcore",
+            700028895
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:02, 23:38)",
+        [
+            "Arts and Crafts Beer Parlor",
+            700008981
+        ]
+    ],
+    [
+        "Stay in Shalman Dentistry.",
+        "(23:50, 23:59)",
+        [
+            "South of the Clouds",
+            700018264
+        ]
+    ]
+]

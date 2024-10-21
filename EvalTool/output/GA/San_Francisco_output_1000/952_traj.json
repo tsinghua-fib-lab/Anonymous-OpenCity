@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700012982
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:18)",
+        [
+            "ENTRANCE Parking (2nd Floor)",
+            700003132
+        ]
+    ],
+    [
+        "Start personal project or hobby",
+        "(11:41, 13:40)",
+        [
+            "",
+            700012982
+        ]
+    ],
+    [
+        "Spend time on a personal project or hobby.",
+        "(13:55, 14:56)",
+        [
+            "",
+            700012982
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 19:17)",
+        [
+            "McDonald's",
+            700005087
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 23:12)",
+        [
+            "Sutter Street Cafe",
+            700004524
+        ]
+    ],
+    [
+        "Stay at Sutter Street Cafe",
+        "(23:19, 23:59)",
+        [
+            "Sutter Street Cafe",
+            700004524
+        ]
+    ]
+]

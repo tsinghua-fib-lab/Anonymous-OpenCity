@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030404
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:55)",
+        [
+            "",
+            700030399
+        ]
+    ],
+    [
+        "Lunch with friends or family.",
+        "(13:14, 14:46)",
+        [
+            "Buffalo Wild Wings",
+            700015643
+        ]
+    ],
+    [
+        "Lunch with friends or family.",
+        "(15:04, 16:26)",
+        [
+            "Buffalo Wild Wings",
+            700015643
+        ]
+    ],
+    [
+        "Go out for a fun afternoon activity.",
+        "(16:56, 18:20)",
+        [
+            "Buffalo Wild Wings",
+            700015643
+        ]
+    ],
+    [
+        "Go out for a fun afternoon activity",
+        "(19:16, 20:55)",
+        [
+            "Buffalo Wild Wings",
+            700015643
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:43, 23:18)",
+        [
+            "Cafe Edison",
+            700006540
+        ]
+    ]
+]

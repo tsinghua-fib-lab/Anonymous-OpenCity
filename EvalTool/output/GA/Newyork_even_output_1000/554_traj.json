@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700018307
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:06)",
+        [
+            "P.J. Clarke’s",
+            700019639
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(12:39, 14:04)",
+        [
+            "P.J. Clarke’s",
+            700019639
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:59, 16:04)",
+        [
+            "P.J. Clarke’s",
+            700019639
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(16:46, 18:10)",
+        [
+            "P.J. Clarke’s",
+            700019639
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:29, 22:21)",
+        [
+            "Citi Bike - West 63rd Street & Columbus Avenue",
+            700018167
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700018303
+        ]
+    ]
+]

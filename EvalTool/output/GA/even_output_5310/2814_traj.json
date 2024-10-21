@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018896
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:56)",
+        [
+            "ChargePoint",
+            700012429
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:10, 14:23)",
+        [
+            "CVS Pharmacy",
+            700008443
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(18:05, 19:26)",
+        [
+            "CVS Pharmacy",
+            700008443
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(20:27, 22:08)",
+        [
+            "CVS Pharmacy",
+            700008443
+        ]
+    ],
+    [
+        "Stay at CVS Pharmacy",
+        "(22:53, 23:59)",
+        [
+            "CVS Pharmacy",
+            700008443
+        ]
+    ]
+]

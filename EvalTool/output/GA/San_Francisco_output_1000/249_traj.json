@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fort Point Beer Company",
+            700008874
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:53)",
+        [
+            "",
+            700008246
+        ]
+    ],
+    [
+        "Dinner Prep and Relaxation",
+        "(14:37, 16:13)",
+        [
+            "Mosto",
+            700005222
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 20:54)",
+        [
+            "Yasmin",
+            700002476
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:58, 23:59)",
+        [
+            "Regalito",
+            700004391
+        ]
+    ]
+]

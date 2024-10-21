@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000762
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:10)",
+        [
+            "Commonwealth",
+            700000698
+        ]
+    ],
+    [
+        "Relaxation and Leisure Reading",
+        "(13:08, 15:06)",
+        [
+            "Commonwealth",
+            700000698
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:30, 17:44)",
+        [
+            "",
+            700000722
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(18:02, 19:36)",
+        [
+            "Commonwealth",
+            700000698
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 21:34)",
+        [
+            "",
+            700030359
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:56)",
+        [
+            "",
+            700030352
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700030354
+        ]
+    ]
+]

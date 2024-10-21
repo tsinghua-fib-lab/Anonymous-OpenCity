@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Seismic Joint Café",
+            700003057
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:06)",
+        [
+            "Grumpy's Restaurant Pub",
+            700000410
+        ]
+    ],
+    [
+        "Stay at Grumpy's Restaurant Pub.",
+        "(11:38, 14:07)",
+        [
+            "The Battery",
+            700013459
+        ]
+    ],
+    [
+        "Stay at Grumpy's Restaurant Pub",
+        "(14:30, 16:00)",
+        [
+            "The Battery",
+            700013459
+        ]
+    ],
+    [
+        "Stay at Grumpy's Restaurant Pub.",
+        "(16:11, 17:46)",
+        [
+            "The Battery",
+            700013459
+        ]
+    ],
+    [
+        "Stay at current location.",
+        "(18:26, 20:57)",
+        [
+            "Starbucks",
+            700002082
+        ]
+    ],
+    [
+        "Stay at Starbucks",
+        "(20:30, 22:03)",
+        [
+            "Starbucks",
+            700002082
+        ]
+    ],
+    [
+        "Stay at Grumpy's Restaurant Pub",
+        "(22:33, 23:43)",
+        [
+            "The Battery",
+            700013459
+        ]
+    ],
+    [
+        "Stay at The Battery",
+        "(23:46, 23:59)",
+        [
+            "The Battery",
+            700013459
+        ]
+    ]
+]

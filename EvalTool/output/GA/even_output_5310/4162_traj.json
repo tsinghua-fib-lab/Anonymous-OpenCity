@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020038
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:00)",
+        [
+            "ChargePoint",
+            700012447
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 18:11)",
+        [
+            "",
+            700020038
+        ]
+    ],
+    [
+        "Relax with personal hobbies",
+        "(17:08, 19:07)",
+        [
+            "",
+            700020038
+        ]
+    ],
+    [
+        "Relax with personal hobbies",
+        "(19:11, 21:05)",
+        [
+            "",
+            700020038
+        ]
+    ],
+    [
+        "Wind down with a movie or binge-watch a series.",
+        "(21:33, 23:09)",
+        [
+            "McDonald's",
+            700010937
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Mikado",
+            700018156
+        ]
+    ]
+]

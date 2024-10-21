@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mee's Noodle",
+            700014650
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:07)",
+        [
+            "Remi Flower & Coffee",
+            700038109
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:14, 17:02)",
+        [
+            "Mee's Noodle",
+            700014650
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:40, 22:09)",
+        [
+            "",
+            700010339
+        ]
+    ],
+    [
+        "Late Afternoon Relaxation",
+        "(21:27, 23:59)",
+        [
+            "",
+            700040428
+        ]
+    ],
+    [
+        "Watch a Movie or Play Video Games",
+        "(23:20, 23:59)",
+        [
+            "",
+            700002319
+        ]
+    ]
+]

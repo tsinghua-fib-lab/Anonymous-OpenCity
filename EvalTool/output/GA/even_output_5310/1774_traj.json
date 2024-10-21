@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "NAYA Mezze & Grill",
+            700015957
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:00)",
+        [
+            "NAYA Mezze & Grill",
+            700015957
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:22, 16:48)",
+        [
+            "",
+            700025746
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 20:01)",
+        [
+            "Citi Bike - East 55th Street & 2nd Avenue",
+            700008057
+        ]
+    ],
+    [
+        "Stay at NAYA Mezze & Grill",
+        "(23:35, 23:59)",
+        [
+            "NAYA Mezze & Grill",
+            700015957
+        ]
+    ]
+]

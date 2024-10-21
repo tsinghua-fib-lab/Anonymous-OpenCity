@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700014344
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:03)",
+        [
+            "Grata Thai",
+            700023414
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:12, 13:56)",
+        [
+            "Grata Thai",
+            700023414
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:46, 16:08)",
+        [
+            "Grata Thai",
+            700023414
+        ]
+    ],
+    [
+        "Creative Hobby or Personal Project",
+        "(16:51, 18:29)",
+        [
+            "Grata Thai",
+            700023414
+        ]
+    ],
+    [
+        "Stay at Duane Reade",
+        "(18:50, 20:04)",
+        [
+            "Quantum Leap",
+            700015176
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:09, 21:50)",
+        [
+            "Merchants Cigar Bar",
+            700006521
+        ]
+    ],
+    [
+        "Stay at Merchants Cigar Bar",
+        "(22:20, 23:51)",
+        [
+            "Merchants Cigar Bar",
+            700006521
+        ]
+    ],
+    [
+        "Stay at Merchants Cigar Bar",
+        "(23:51, 23:59)",
+        [
+            "Merchants Cigar Bar",
+            700006521
+        ]
+    ]
+]

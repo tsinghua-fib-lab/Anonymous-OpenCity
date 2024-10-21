@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "University Animal Hospital",
+            700041299
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:51)",
+        [
+            "University Animal Hospital",
+            700041299
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:49, 14:32)",
+        [
+            "Vitahealth Apothecary",
+            700041297
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 18:55)",
+        [
+            "",
+            700001045
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 21:09)",
+        [
+            "Chamoun's Way",
+            700006550
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 23:59)",
+        [
+            "",
+            700040421
+        ]
+    ],
+    [
+        "Stay at Chamoun's Way",
+        "(23:45, 23:59)",
+        [
+            "Little Italy Pizza",
+            700024873
+        ]
+    ]
+]

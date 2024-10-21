@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030401
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(09:00, 10:05)",
+        [
+            "",
+            700030401
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(09:55, 11:07)",
+        [
+            "",
+            700030401
+        ]
+    ],
+    [
+        "Lunch and Catching Up with Friends",
+        "(11:18, 12:52)",
+        [
+            "",
+            700003004
+        ]
+    ],
+    [
+        "Lunch and Catching Up with Friends",
+        "(13:36, 15:57)",
+        [
+            "Llama San",
+            700019657
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:26, 18:41)",
+        [
+            "Citi Bike - Washington Pl & 6 Ave",
+            700008242
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:26, 23:13)",
+        [
+            "Waverly Diner",
+            700004312
+        ]
+    ],
+    [
+        "Afternoon Leisure",
+        "(23:28, 23:59)",
+        [
+            "Waverly Diner",
+            700004312
+        ]
+    ]
+]

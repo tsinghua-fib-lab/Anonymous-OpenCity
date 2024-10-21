@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mojito Habana",
+            700037069
+        ]
+    ],
+    [
+        "Brunch with Friends/Family",
+        "(10:00, 12:01)",
+        [
+            "Les Maréchaux",
+            700037068
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:37, 14:26)",
+        [
+            "Le Duplex",
+            700033258
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:30, 18:30)",
+        [
+            "Pharmacie Cavanna",
+            700003878
+        ]
+    ],
+    [
+        "Dinner",
+        "(19:46, 20:55)",
+        [
+            "Pharmacie Cavanna",
+            700003878
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:13, 23:59)",
+        [
+            "",
+            700071987
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:20, 23:59)",
+        [
+            "",
+            700008236
+        ]
+    ]
+]

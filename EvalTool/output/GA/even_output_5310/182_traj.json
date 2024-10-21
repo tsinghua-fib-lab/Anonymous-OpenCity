@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - 11th Avenue & West 41st Street",
+            700007928
+        ]
+    ],
+    [
+        "Brunch",
+        "(09:00, 09:53)",
+        [
+            "Citi Bike - 11th Avenue & West 41st Street",
+            700007928
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:44, 15:24)",
+        [
+            "Kings of Kobe",
+            700023212
+        ]
+    ],
+    [
+        "Sports",
+        "(16:17, 17:45)",
+        [
+            "",
+            700033473
+        ]
+    ],
+    [
+        "Stay at Kings of Kobe",
+        "(18:34, 20:29)",
+        [
+            "",
+            700033475
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(20:40, 21:51)",
+        [
+            "",
+            700033477
+        ]
+    ],
+    [
+        "Stay at Kings of Kobe",
+        "(22:51, 23:59)",
+        [
+            "Kings of Kobe",
+            700023212
+        ]
+    ]
+]

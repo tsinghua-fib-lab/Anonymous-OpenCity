@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001018
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(09:00, 10:28)",
+        [
+            "Health Wise Pharmacy",
+            700016564
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(10:56, 12:34)",
+        [
+            "Health Wise Pharmacy",
+            700016564
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:27, 14:53)",
+        [
+            "Health Wise Pharmacy",
+            700016564
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:59, 16:34)",
+        [
+            "Health Wise Pharmacy",
+            700016564
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:33, 20:52)",
+        [
+            "Jupioca",
+            700033869
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(22:34, 23:59)",
+        [
+            "Jupioca",
+            700033869
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:45, 23:59)",
+        [
+            "Bagels & Co.",
+            700016561
+        ]
+    ]
+]

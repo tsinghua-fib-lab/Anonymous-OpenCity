@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010246
+        ]
+    ],
+    [
+        "Leisure Reading or Podcast",
+        "(09:00, 09:55)",
+        [
+            "",
+            700026326
+        ]
+    ],
+    [
+        "Leisure Reading or Podcast",
+        "(10:34, 11:53)",
+        [
+            "",
+            700010246
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 16:44)",
+        [
+            "",
+            700030980
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:09, 20:25)",
+        [
+            "Verbrugghen Hall",
+            700008921
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(21:51, 23:01)",
+        [
+            "Verbrugghen Hall",
+            700008921
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(23:15, 23:59)",
+        [
+            "Verbrugghen Hall",
+            700008921
+        ]
+    ]
+]

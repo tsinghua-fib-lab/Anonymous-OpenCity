@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike",
+            700023925
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(09:00, 11:38)",
+        [
+            "Empanada Mama",
+            700029819
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 15:14)",
+        [
+            "Chick-N-Smash",
+            700005925
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:46, 18:16)",
+        [
+            "Starbucks",
+            700004184
+        ]
+    ],
+    [
+        "Relaxing Evening at Home",
+        "(21:06, 23:05)",
+        [
+            "Citi Bike",
+            700023925
+        ]
+    ],
+    [
+        "Relaxing Evening at Home",
+        "(23:11, 23:59)",
+        [
+            "Citi Bike",
+            700023925
+        ]
+    ]
+]

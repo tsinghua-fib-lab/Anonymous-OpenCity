@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "StuyFitness on 20th",
+            700028439
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:31)",
+        [
+            "StuyFitness on 20th",
+            700028439
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:25, 14:11)",
+        [
+            "Little Free Library",
+            700019281
+        ]
+    ],
+    [
+        "Relaxing Afternoon",
+        "(17:10, 19:18)",
+        [
+            "StuyFitness on 20th",
+            700028439
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:32, 21:07)",
+        [
+            "",
+            700017715
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:31, 23:56)",
+        [
+            "",
+            700017708
+        ]
+    ]
+]

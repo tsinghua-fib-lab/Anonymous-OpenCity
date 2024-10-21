@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005985
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast and coffee.",
+        "(10:00, 11:07)",
+        [
+            "Chipotle",
+            700017950
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:45, 12:36)",
+        [
+            "Chipotle",
+            700017950
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 18:16)",
+        [
+            "",
+            700021976
+        ]
+    ],
+    [
+        "Stay at home.",
+        "(18:22, 20:05)",
+        [
+            "Kennedy Child Study Center",
+            700000274
+        ]
+    ],
+    [
+        "Stay at home.",
+        "(20:10, 22:05)",
+        [
+            "",
+            700005985
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "Chipotle",
+            700017950
+        ]
+    ]
+]

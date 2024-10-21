@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:30)",
+        [
+            "",
+            700004907
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:56, 18:38)",
+        [
+            "Starbucks",
+            700070801
+        ]
+    ],
+    [
+        "Relaxation & Wind Down",
+        "(19:33, 20:50)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "Relaxation & Wind Down",
+        "(21:16, 23:08)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "Relaxation & Wind Down",
+        "(23:19, 23:59)",
+        [
+            "Le Café Marly",
+            700000049
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "Next Plan",
+        "(10:00, 11:30)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:54, 13:07)",
+        [
+            "",
+            700059880
+        ]
+    ],
+    [
+        "Next Activity",
+        "(13:58, 15:32)",
+        [
+            "",
+            700040262
+        ]
+    ],
+    [
+        "Meet up with friends for coffee or a casual outing.",
+        "(16:11, 18:05)",
+        [
+            "",
+            700071301
+        ]
+    ],
+    [
+        "Socialize",
+        "(18:52, 20:17)",
+        [
+            "Casse Croute",
+            700030531
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:45, 21:52)",
+        [
+            "Omoide",
+            700036092
+        ]
+    ],
+    [
+        "Socialize",
+        "(22:25, 23:53)",
+        [
+            "Casse Croute",
+            700030531
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "",
+            700056689
+        ]
+    ]
+]

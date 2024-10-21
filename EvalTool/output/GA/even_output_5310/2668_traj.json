@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cafe Alice",
+            700017589
+        ]
+    ],
+    [
+        "Go for a walk or light exercise from 11:00 AM to 12:00 PM",
+        "(10:00, 10:52)",
+        [
+            "Cafe Alice",
+            700017589
+        ]
+    ],
+    [
+        "Go for a walk or light exercise from 11:00 AM to 12:00 PM",
+        "(12:03, 13:12)",
+        [
+            "Cafe Alice",
+            700017589
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 15:22)",
+        [
+            "Starbucks",
+            700006485
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:32, 21:11)",
+        [
+            "Citi Bike - 5th Avenue & East 48th Street",
+            700019181
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Katsu Hama",
+            700004509
+        ]
+    ]
+]

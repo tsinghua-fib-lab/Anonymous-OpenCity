@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Neighbor's Corner",
+            700005955
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:58)",
+        [
+            "Philz Coffee",
+            700000411
+        ]
+    ],
+    [
+        "Brunch with friends",
+        "(11:11, 12:48)",
+        [
+            "Philz Coffee",
+            700000411
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 18:00)",
+        [
+            "Folk",
+            700006199
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 20:49)",
+        [
+            "Noe Valley Courts",
+            700001210
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 22:14)",
+        [
+            "Dash",
+            700001749
+        ]
+    ]
+]

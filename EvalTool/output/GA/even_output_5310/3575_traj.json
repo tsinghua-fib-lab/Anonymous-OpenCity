@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "ad hoc collective coffee + shoppe",
+            700016018
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:39)",
+        [
+            "Jack's Stir Brew Coffee",
+            700031418
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 21:21)",
+        [
+            "Wogies",
+            700005686
+        ]
+    ],
+    [
+        "Evening Relaxation (6:30 PM - 9:00 PM)",
+        "(20:21, 23:00)",
+        [
+            "Gottino Enoteca Salumeria",
+            700011390
+        ]
+    ],
+    [
+        "Current time is 23:24. The daily plan is finished, and it's time to sleep.",
+        "(23:24, 23:32)",
+        [
+            "ad hoc collective coffee + shoppe",
+            700016018
+        ]
+    ],
+    [
+        "Next arrangement after visiting Jack's Stir Brew Coffee",
+        "(23:40, 23:59)",
+        [
+            "Club Pilates",
+            700034826
+        ]
+    ]
+]

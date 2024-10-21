@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010479
+        ]
+    ],
+    [
+        "Light Exercise or Walk",
+        "(09:00, 10:09)",
+        [
+            "The Little Chihuahua",
+            700003676
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:51, 13:34)",
+        [
+            "Vive La Tarte",
+            700006197
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:38, 14:59)",
+        [
+            "Vive La Tarte",
+            700006197
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:54, 19:35)",
+        [
+            "Bank of America",
+            700003209
+        ]
+    ],
+    [
+        "Go to Bank of America",
+        "(21:12, 22:53)",
+        [
+            "Bank of America",
+            700003207
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:54, 23:59)",
+        [
+            "Subs, Inc.",
+            700001748
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020590
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:04)",
+        [
+            "",
+            700020607
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 19:35)",
+        [
+            "Centro Pizza",
+            700021721
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 20:58)",
+        [
+            "Stumble Inn",
+            700006558
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:23, 22:58)",
+        [
+            "",
+            700003028
+        ]
+    ],
+    [
+        "Evening Wind Down with Reading",
+        "(22:03, 23:40)",
+        [
+            "Mel's Burger Bar",
+            700019508
+        ]
+    ],
+    [
+        "Evening Wind Down with Reading",
+        "(23:58, 23:59)",
+        [
+            "Centro Pizza",
+            700021721
+        ]
+    ]
+]

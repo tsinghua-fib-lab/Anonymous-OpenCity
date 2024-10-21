@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ralph's Coffee",
+            700015286
+        ]
+    ],
+    [
+        "Next, proceed to Outdoor Exercise or Sports Activity.",
+        "(09:00, 10:36)",
+        [
+            "",
+            700012937
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping",
+        "(11:03, 12:37)",
+        [
+            "",
+            700017534
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping from Ralph's Coffee.",
+        "(13:12, 15:18)",
+        [
+            "",
+            700017127
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping.",
+        "(14:56, 17:03)",
+        [
+            "USPS",
+            700017134
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 20:28)",
+        [
+            "",
+            700012546
+        ]
+    ],
+    [
+        "Outdoor Exercise or Sports Activity",
+        "(21:26, 22:36)",
+        [
+            "",
+            700012546
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "",
+            700017140
+        ]
+    ]
+]

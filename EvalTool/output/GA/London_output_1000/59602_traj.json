@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Next activity after breakfast",
+        "(09:00, 10:07)",
+        [
+            "Tamezin Club",
+            700041490
+        ]
+    ],
+    [
+        "Next activity after breakfast",
+        "(10:38, 12:37)",
+        [
+            "Lo Spuntino",
+            700030808
+        ]
+    ],
+    [
+        "Next activity in a restaurant.",
+        "(12:44, 14:00)",
+        [
+            "Lo Spuntino",
+            700030808
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 17:54)",
+        [
+            "Queens Skate Dine Bowl",
+            700001046
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:49, 20:18)",
+        [
+            "Meat Liquor",
+            700030806
+        ]
+    ],
+    [
+        "next arrangement after leisure reading",
+        "(20:43, 22:04)",
+        [
+            "Queens Skate Dine Bowl",
+            700001046
+        ]
+    ],
+    [
+        "Go to Chelsea Studios for relaxing",
+        "(22:41, 23:49)",
+        [
+            "New Fortune Cookie",
+            700033005
+        ]
+    ],
+    [
+        "next arrangement after lunch",
+        "(23:54, 23:59)",
+        [
+            "New Fortune Cookie",
+            700033005
+        ]
+    ]
+]

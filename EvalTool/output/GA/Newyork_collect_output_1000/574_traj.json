@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Lunch",
+        "(10:00, 10:53)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "11:26 AM - 1:00 PM",
+        "(11:26, 12:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:43, 18:24)",
+        [
+            "",
+            700022517
+        ]
+    ],
+    [
+        "Wind down the day with board games or a friendly gathering, enjoying snacks and drinks.",
+        "(19:29, 21:04)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:18, 23:59)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:10, 23:59)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ]
+]

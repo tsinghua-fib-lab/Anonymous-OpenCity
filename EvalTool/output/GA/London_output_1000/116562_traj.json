@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Regent's Park Estate",
+            700006201
+        ]
+    ],
+    [
+        "Go for a walk in the park or engage in some light exercise.",
+        "(10:00, 11:00)",
+        [
+            "",
+            700075377
+        ]
+    ],
+    [
+        "Go for a walk in the park or engage in some light exercise.",
+        "(11:55, 12:04)",
+        [
+            "",
+            700075341
+        ]
+    ],
+    [
+        "Spend some time reading or relaxing at home.",
+        "(12:46, 13:51)",
+        [
+            "",
+            700075383
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(14:41, 16:00)",
+        [
+            "",
+            700075378
+        ]
+    ],
+    [
+        "Play sports or engage in a recreational activity with friends.",
+        "(16:49, 18:18)",
+        [
+            "",
+            700048181
+        ]
+    ],
+    [
+        "Play sports or engage in a recreational activity with friends.",
+        "(18:34, 20:02)",
+        [
+            "",
+            700033809
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 23:25)",
+        [
+            "",
+            700006374
+        ]
+    ]
+]

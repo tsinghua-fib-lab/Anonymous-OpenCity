@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pret A Manger",
+            700016182
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:03)",
+        [
+            "",
+            700009379
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:16, 20:01)",
+        [
+            "Citi Bike - E 50th St / Park Ave",
+            700035104
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(16:57, 17:50)",
+        [
+            "Citi Bike - E 50th St / Park Ave",
+            700035104
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(18:28, 19:59)",
+        [
+            "Citi Bike - E 50th St / Park Ave",
+            700035104
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(20:13, 21:36)",
+        [
+            "Pret A Manger",
+            700016182
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(22:27, 23:59)",
+        [
+            "Inside Park at St. Beet’s",
+            700016243
+        ]
+    ]
+]

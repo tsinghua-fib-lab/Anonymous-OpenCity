@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700025797
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:57)",
+        [
+            "El Grillito",
+            700036814
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:09, 14:37)",
+        [
+            "Cooper Square Veterinary Hospital",
+            700040461
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 18:11)",
+        [
+            "The Standard",
+            700016385
+        ]
+    ],
+    [
+        "You decide to go to another place.",
+        "(19:27, 21:06)",
+        [
+            "Cooper Square Veterinary Hospital",
+            700040461
+        ]
+    ],
+    [
+        "You stay at your current place.",
+        "(21:30, 23:05)",
+        [
+            "Cooper Square Veterinary Hospital",
+            700040461
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:08, 23:59)",
+        [
+            "",
+            700001584
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Jour & Nuit Culture",
+            700060879
+        ]
+    ],
+    [
+        "Outdoor Activity/Exercise",
+        "(10:00, 11:06)",
+        [
+            "Jour & Nuit Culture",
+            700060879
+        ]
+    ],
+    [
+        "Outdoor Activity/Exercise",
+        "(11:25, 13:23)",
+        [
+            "Jour & Nuit Culture",
+            700060879
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 20:11)",
+        [
+            "Foou",
+            700060881
+        ]
+    ],
+    [
+        "Hobby/Creative Time",
+        "(16:50, 18:25)",
+        [
+            "Foou",
+            700060881
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:41, 23:15)",
+        [
+            "",
+            700058290
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "",
+            700062536
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Aesthetic Dentistry of Noe Valley",
+            700001754
+        ]
+    ],
+    [
+        "Morning Routine",
+        "(10:00, 11:32)",
+        [
+            "Dash",
+            700001749
+        ]
+    ],
+    [
+        "Next activity after morning routine",
+        "(12:18, 13:41)",
+        [
+            "",
+            700014425
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:07, 17:13)",
+        [
+            "Subs, Inc.",
+            700001748
+        ]
+    ],
+    [
+        "Shopping",
+        "(18:06, 19:58)",
+        [
+            "Aesthetic Dentistry of Noe Valley",
+            700001754
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:03, 22:31)",
+        [
+            "The UPS Store",
+            700001763
+        ]
+    ]
+]

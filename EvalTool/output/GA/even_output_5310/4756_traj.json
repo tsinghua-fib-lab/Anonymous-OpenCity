@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike",
+            700031469
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:41)",
+        [
+            "",
+            700024198
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(12:45, 14:09)",
+        [
+            "Citi Bike",
+            700031469
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:42, 15:58)",
+        [
+            "Citi Bike",
+            700031469
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:36, 18:21)",
+        [
+            "The Tippler",
+            700006137
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:25, 19:44)",
+        [
+            "Hearth on the High Line",
+            700016902
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 23:59)",
+        [
+            "Miznon",
+            700023334
+        ]
+    ]
+]

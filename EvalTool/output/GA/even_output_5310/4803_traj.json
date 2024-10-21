@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Think Coffee",
+            700011151
+        ]
+    ],
+    [
+        "Engage in a recreational activity, such as going for a jog or a bike ride in a nearby park.",
+        "(10:00, 11:50)",
+        [
+            "Think Coffee",
+            700011151
+        ]
+    ],
+    [
+        "Stay longer at BluePearl.",
+        "(12:33, 13:51)",
+        [
+            "PhotoManhattan",
+            700010934
+        ]
+    ],
+    [
+        "Attend a leisurely activity, like visiting a museum, art gallery, or catching a matinee movie.",
+        "(14:55, 16:54)",
+        [
+            "PhotoManhattan",
+            700010934
+        ]
+    ],
+    [
+        "Attend a leisurely activity",
+        "(17:08, 19:07)",
+        [
+            "PhotoManhattan",
+            700010934
+        ]
+    ],
+    [
+        "Attend a leisurely activity.",
+        "(19:14, 21:03)",
+        [
+            "",
+            700011629
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:50, 23:59)",
+        [
+            "",
+            700001520
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mount Sinai Medical Center Chinatown",
+            700028531
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:02)",
+        [
+            "Mount Sinai Medical Center Chinatown",
+            700028531
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 13:52)",
+        [
+            "Centre Care Phamacy",
+            700005312
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 16:37)",
+        [
+            "",
+            700025021
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:49, 21:41)",
+        [
+            "The Blonde",
+            700017481
+        ]
+    ]
+]

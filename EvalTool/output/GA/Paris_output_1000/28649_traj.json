@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700032156
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 11:26)",
+        [
+            "",
+            700032156
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(11:38, 13:11)",
+        [
+            "Pharmacie du Marché Montorgueil",
+            700013705
+        ]
+    ],
+    [
+        "Afternoon Sports/Exercise",
+        "(13:29, 15:00)",
+        [
+            "Café du Centre",
+            700035520
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(15:38, 17:04)",
+        [
+            "Café du Centre",
+            700035520
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:27, 19:05)",
+        [
+            "",
+            700032156
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:39, 23:59)",
+        [
+            "",
+            700073115
+        ]
+    ]
+]

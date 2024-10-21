@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "McDonald's",
+            700002913
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the nearby park",
+        "(10:00, 11:07)",
+        [
+            "",
+            700062780
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the nearby park",
+        "(11:06, 12:54)",
+        [
+            "Grom",
+            700004509
+        ]
+    ],
+    [
+        "Explore a local art exhibit or museum",
+        "(14:05, 15:43)",
+        [
+            "Le Cercle Luxembourg",
+            700060246
+        ]
+    ],
+    [
+        "Explore a local art exhibit or museum",
+        "(16:19, 17:57)",
+        [
+            "Grom",
+            700004509
+        ]
+    ],
+    [
+        "Stay at McDonald's",
+        "(18:09, 19:46)",
+        [
+            "Le Cercle Luxembourg",
+            700060246
+        ]
+    ],
+    [
+        "Stay at McDonald's.",
+        "(19:48, 20:50)",
+        [
+            "Le Cercle Luxembourg",
+            700060246
+        ]
+    ],
+    [
+        "Stay at McDonald's.",
+        "(21:02, 22:54)",
+        [
+            "BoBoQ",
+            700060245
+        ]
+    ],
+    [
+        "Stay at McDonald's",
+        "(23:37, 23:59)",
+        [
+            "Taboulé",
+            700020210
+        ]
+    ]
+]

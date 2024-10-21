@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005990
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:11)",
+        [
+            "Roam Artisan Burgers",
+            700005463
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:34, 19:33)",
+        [
+            "Roam Artisan Burgers",
+            700005463
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 22:06)",
+        [
+            "Extreme Pizza",
+            700005697
+        ]
+    ]
+]

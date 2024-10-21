@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbelly",
+            700002214
+        ]
+    ],
+    [
+        "Outdoor Activity Followed by Lunch with Friends",
+        "(10:00, 11:35)",
+        [
+            "Alex Fitness",
+            700000875
+        ]
+    ],
+    [
+        "Outdoor Activity Followed by Lunch with Friends",
+        "(11:43, 13:18)",
+        [
+            "Alex Fitness",
+            700000875
+        ]
+    ],
+    [
+        "Outdoor Activity Followed by Lunch with Friends",
+        "(14:08, 16:16)",
+        [
+            "Alex Fitness",
+            700000875
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(16:22, 17:58)",
+        [
+            "Alex Fitness",
+            700000875
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(18:53, 20:26)",
+        [
+            "Starbelly",
+            700002214
+        ]
+    ],
+    [
+        "Stay at Starbelly.",
+        "(20:26, 22:01)",
+        [
+            "Dumpling House",
+            700010736
+        ]
+    ],
+    [
+        "Stay at Woodhouse Fish Co.",
+        "(22:58, 23:59)",
+        [
+            "Dinosaurs",
+            700001890
+        ]
+    ],
+    [
+        "Stay at Woodhouse Fish Co.",
+        "(23:56, 23:59)",
+        [
+            "Bank of the West",
+            700003293
+        ]
+    ]
+]

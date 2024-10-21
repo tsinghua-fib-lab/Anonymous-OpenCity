@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:20)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Personal Development",
+        "(11:15, 12:52)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Lunch and Leisure",
+        "(13:29, 15:05)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Lunch and Leisure",
+        "(15:34, 17:03)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 23:31)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Stay at Sucker Punch",
+        "(23:43, 23:59)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ]
+]

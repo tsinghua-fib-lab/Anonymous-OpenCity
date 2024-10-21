@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of Baroda",
+            700003431
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:10)",
+        [
+            "",
+            700000893
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:47, 19:42)",
+        [
+            "Bank of Baroda",
+            700003431
+        ]
+    ],
+    [
+        "Catching Up on Emails/Planning for the Week",
+        "(17:28, 19:00)",
+        [
+            "Bank of Baroda",
+            700003431
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 23:58)",
+        [
+            "Equinox",
+            700035211
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700003840
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:56)",
+        [
+            "West Village Veterinary Hospital",
+            700014263
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:51, 12:19)",
+        [
+            "McKenna’s Bar",
+            700019202
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:24, 17:04)",
+        [
+            "West Village Veterinary Hospital",
+            700014263
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(17:45, 19:51)",
+        [
+            "West Village Veterinary Hospital",
+            700014263
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 23:59)",
+        [
+            "Grace's",
+            700019203
+        ]
+    ]
+]

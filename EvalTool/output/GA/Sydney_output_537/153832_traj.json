@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Szechuan Garden",
+            700004387
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:05)",
+        [
+            "Osaka Teppanyaki",
+            700004401
+        ]
+    ],
+    [
+        "Relaxation/Watch a Movie",
+        "(14:22, 17:01)",
+        [
+            "Osaka Teppanyaki",
+            700004401
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:37, 18:12)",
+        [
+            "",
+            700000932
+        ]
+    ],
+    [
+        "Stay at Osaka Teppanyaki",
+        "(22:41, 23:59)",
+        [
+            "Zambrero",
+            700018632
+        ]
+    ]
+]

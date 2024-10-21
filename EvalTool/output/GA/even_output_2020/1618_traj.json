@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bay Wheels",
+            700008843
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:11)",
+        [
+            "Noren Izakaya",
+            700005085
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(10:50, 12:09)",
+        [
+            "Noren Izakaya",
+            700005085
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:07, 14:28)",
+        [
+            "Noren Izakaya",
+            700005085
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:07, 16:34)",
+        [
+            "Noren Izakaya",
+            700005085
+        ]
+    ],
+    [
+        "Dinner and Family Time",
+        "(17:17, 18:50)",
+        [
+            "",
+            700000624
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:48, 23:59)",
+        [
+            "Washington Square Bar & Grill",
+            700000464
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:36, 23:59)",
+        [
+            "",
+            700000626
+        ]
+    ]
+]

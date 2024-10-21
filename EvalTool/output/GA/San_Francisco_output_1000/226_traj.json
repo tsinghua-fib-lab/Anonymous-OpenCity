@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Great Saigon",
+            700003977
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:59)",
+        [
+            "",
+            700008191
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:14, 16:21)",
+        [
+            "Trestle",
+            700003885
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:16, 18:47)",
+        [
+            "",
+            700008191
+        ]
+    ],
+    [
+        "Stay at Trestle.",
+        "(19:11, 21:09)",
+        [
+            "Trestle",
+            700003885
+        ]
+    ],
+    [
+        "Next, stay at The Salvation Army Ray and Joan Kroc Corps Community Center.",
+        "(21:57, 23:00)",
+        [
+            "EastWest Unibank",
+            700003891
+        ]
+    ],
+    [
+        "Next, go to Great Saigon.",
+        "(23:46, 23:59)",
+        [
+            "Great Saigon",
+            700003977
+        ]
+    ]
+]

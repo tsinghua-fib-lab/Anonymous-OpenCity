@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "As is NYC",
+            700009726
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(10:00, 10:59)",
+        [
+            "",
+            700001117
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 17:12)",
+        [
+            "",
+            700001953
+        ]
+    ],
+    [
+        "Stay at Atlas Social Club",
+        "(17:22, 18:57)",
+        [
+            "DBL",
+            700006367
+        ]
+    ],
+    [
+        "Wind down with relaxation time",
+        "(19:45, 21:09)",
+        [
+            "Queen of Sheba",
+            700006115
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:54, 23:59)",
+        [
+            "",
+            700016401
+        ]
+    ]
+]

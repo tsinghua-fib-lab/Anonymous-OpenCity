@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002935
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:13)",
+        [
+            "",
+            700006404
+        ]
+    ],
+    [
+        "Spend the afternoon catching up on a favorite TV show or reading a book",
+        "(14:25, 16:08)",
+        [
+            "",
+            700010403
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:29, 21:38)",
+        [
+            "",
+            700002407
+        ]
+    ],
+    [
+        "Wind down with a movie or game night.",
+        "(20:33, 22:02)",
+        [
+            "",
+            700033478
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:59)",
+        [
+            "Blazing Saddles Pier 84",
+            700008555
+        ]
+    ]
+]

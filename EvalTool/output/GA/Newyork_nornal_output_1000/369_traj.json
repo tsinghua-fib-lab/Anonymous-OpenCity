@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700034730
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:02)",
+        [
+            "Birch Coffee",
+            700014372
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:50, 12:59)",
+        [
+            "Birch Coffee",
+            700014372
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:28, 15:02)",
+        [
+            "Birch Coffee",
+            700014372
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:11, 17:17)",
+        [
+            "",
+            700034738
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(17:21, 18:52)",
+        [
+            "",
+            700034742
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 22:53)",
+        [
+            "",
+            700034744
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "",
+            700034736
+        ]
+    ]
+]

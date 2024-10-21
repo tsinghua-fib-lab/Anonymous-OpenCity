@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008004
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 11:00)",
+        [
+            "",
+            700008005
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:03, 13:49)",
+        [
+            "Mel's Kitchen",
+            700001047
+        ]
+    ],
+    [
+        "Participate in a recreational activity.",
+        "(13:59, 14:54)",
+        [
+            "",
+            700012216
+        ]
+    ],
+    [
+        "Participate in recreational activity.",
+        "(15:27, 17:29)",
+        [
+            "",
+            700010677
+        ]
+    ],
+    [
+        "Stay at Mel's Kitchen",
+        "(17:40, 19:03)",
+        [
+            "Napoli Pizza",
+            700001102
+        ]
+    ],
+    [
+        "Stay at Mel's Kitchen;",
+        "(20:02, 21:10)",
+        [
+            "Napoli Pizza",
+            700001102
+        ]
+    ],
+    [
+        "Stay at Mel's Kitchen.",
+        "(21:55, 23:02)",
+        [
+            "",
+            700005112
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:39, 23:59)",
+        [
+            "Barley",
+            700009688
+        ]
+    ]
+]

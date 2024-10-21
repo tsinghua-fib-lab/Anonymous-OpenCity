@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Texas Rotisserie Grill & BBQ",
+            700030626
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:32)",
+        [
+            "Citibank",
+            700006020
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 19:53)",
+        [
+            "Sokol Hall",
+            700038178
+        ]
+    ],
+    [
+        "Family or Friend Time",
+        "(20:13, 22:59)",
+        [
+            "Sokol Hall",
+            700038178
+        ]
+    ],
+    [
+        "Sleep at home.",
+        "(23:44, 23:59)",
+        [
+            "Sokol Hall",
+            700038178
+        ]
+    ]
+]

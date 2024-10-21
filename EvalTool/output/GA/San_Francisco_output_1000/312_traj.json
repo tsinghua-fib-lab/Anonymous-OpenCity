@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005464
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:18)",
+        [
+            "",
+            700009921
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 17:52)",
+        [
+            "",
+            700004696
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:59)",
+        [
+            "Subpar Arcade",
+            700009149
+        ]
+    ],
+    [
+        "Stay at the Subpar Miniature Golf",
+        "(22:45, 23:59)",
+        [
+            "Subpar Miniature Golf",
+            700009152
+        ]
+    ]
+]

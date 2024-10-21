@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008006
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 11:04)",
+        [
+            "",
+            700009529
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:03, 15:27)",
+        [
+            "Tommy's Joynt",
+            700000592
+        ]
+    ],
+    [
+        "Participate in a recreational activity.",
+        "(13:59, 14:53)",
+        [
+            "",
+            700010672
+        ]
+    ],
+    [
+        "Participate in recreational activity.",
+        "(15:27, 17:24)",
+        [
+            "",
+            700008005
+        ]
+    ],
+    [
+        "Stay at Tommy's Joynt",
+        "(17:40, 19:13)",
+        [
+            "",
+            700010672
+        ]
+    ],
+    [
+        "Stay at Tommy's Joynt;",
+        "(20:02, 21:31)",
+        [
+            "Ike's Love and Sandwiches",
+            700008834
+        ]
+    ],
+    [
+        "Stay at Tommy's Joynt.",
+        "(21:55, 23:14)",
+        [
+            "Hanaro",
+            700001042
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:39, 23:59)",
+        [
+            "Hanaro",
+            700001042
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Rustic Cafe",
+            700007746
+        ]
+    ],
+    [
+        "Wake Up & Breakfast",
+        "(10:00, 11:10)",
+        [
+            "The Rustic Cafe",
+            700007746
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:58, 12:06)",
+        [
+            "The Rustic Cafe",
+            700007746
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:19, 18:23)",
+        [
+            "Down N' Out",
+            700011933
+        ]
+    ],
+    [
+        "Watch a Sports Game/TV Show",
+        "(19:03, 21:06)",
+        [
+            "",
+            700022397
+        ]
+    ],
+    [
+        "watching TV",
+        "(21:26, 23:04)",
+        [
+            "",
+            700024507
+        ]
+    ],
+    [
+        "Watching TV",
+        "(23:41, 23:59)",
+        [
+            "C3 Church",
+            700007764
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001018
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:24)",
+        [
+            "Yefsi Estiatorio",
+            700017619
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:57, 11:59)",
+        [
+            "Yefsi Estiatorio",
+            700017619
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:19, 16:12)",
+        [
+            "",
+            700016565
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 20:10)",
+        [
+            "",
+            700002291
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:51, 20:19)",
+        [
+            "",
+            700002852
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(20:20, 21:49)",
+        [
+            "Sushi of Gari",
+            700007374
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(22:44, 23:59)",
+        [
+            "Maruzzella",
+            700016571
+        ]
+    ]
+]

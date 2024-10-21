@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001927
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:33)",
+        [
+            "Starbucks",
+            700006098
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:12, 13:21)",
+        [
+            "Red Poke",
+            700016230
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:32, 15:47)",
+        [
+            "TD Bank",
+            700003853
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 16:55)",
+        [
+            "The Polynesian",
+            700017475
+        ]
+    ],
+    [
+        "Relax at a café.",
+        "(15:59, 18:38)",
+        [
+            "Zillions Pizza",
+            700040621
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 22:30)",
+        [
+            "At nine Restaurant & Bar",
+            700008666
+        ]
+    ],
+    [
+        "Relax at a café.",
+        "(20:33, 21:54)",
+        [
+            "Starbucks",
+            700006098
+        ]
+    ],
+    [
+        "Stay at At nine Restaurant & Bar.",
+        "(22:08, 23:59)",
+        [
+            "At nine Restaurant & Bar",
+            700008666
+        ]
+    ]
+]

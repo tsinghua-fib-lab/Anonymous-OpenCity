@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tacos Grand Central",
+            700006706
+        ]
+    ],
+    [
+        "Catch Up on Reading or Hobbies",
+        "(09:00, 11:05)",
+        [
+            "Tacos Grand Central",
+            700006706
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 16:02)",
+        [
+            "Sachi",
+            700006456
+        ]
+    ],
+    [
+        "Social Time",
+        "(13:57, 14:50)",
+        [
+            "Sachi",
+            700006456
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:07, 17:01)",
+        [
+            "",
+            700016166
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:14, 18:38)",
+        [
+            "",
+            700006448
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:19, 22:15)",
+        [
+            "",
+            700011030
+        ]
+    ],
+    [
+        "next arrangement considering your plan and current time",
+        "(23:07, 23:59)",
+        [
+            "NYC Dental Center",
+            700015027
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rite Aid",
+            700008774
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:24)",
+        [
+            "",
+            700013054
+        ]
+    ],
+    [
+        "Go for a morning jog or yoga session to start the day with some physical activity.",
+        "(12:09, 13:40)",
+        [
+            "Rite Aid",
+            700008774
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 16:59)",
+        [
+            "Bank of America",
+            700007505
+        ]
+    ],
+    [
+        "Stay at Bank of America",
+        "(17:59, 19:06)",
+        [
+            "Bank of America",
+            700007505
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:33, 23:59)",
+        [
+            "Lillie‘s",
+            700017018
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "Carnegie Diner & Cafe",
+            700031409
+        ]
+    ]
+]

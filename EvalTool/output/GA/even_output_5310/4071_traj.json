@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001178
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 11:28)",
+        [
+            "Duane Reade",
+            700004369
+        ]
+    ],
+    [
+        "Next activity from Duane Reade",
+        "(12:09, 13:32)",
+        [
+            "Bagel and More",
+            700004367
+        ]
+    ],
+    [
+        "Next activity from Duane Reade",
+        "(14:10, 15:46)",
+        [
+            "Bagel and More",
+            700004367
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 21:20)",
+        [
+            "",
+            700001178
+        ]
+    ],
+    [
+        "Relax at Home",
+        "(18:10, 19:36)",
+        [
+            "Chelsea Juice",
+            700040383
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:44, 22:59)",
+        [
+            "Citi Bike - West 13th Street & 7th Avenue",
+            700008198
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(23:52, 23:59)",
+        [
+            "",
+            700020093
+        ]
+    ]
+]

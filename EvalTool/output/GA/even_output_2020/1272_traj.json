@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sugar Lounge",
+            700004072
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 10:52)",
+        [
+            "",
+            700002881
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:33, 14:23)",
+        [
+            "Zenpo Sushi",
+            700010159
+        ]
+    ],
+    [
+        "Exercise",
+        "(15:14, 16:47)",
+        [
+            "",
+            700002881
+        ]
+    ],
+    [
+        "Outdoor Walk or Sports",
+        "(17:10, 18:35)",
+        [
+            "Monsieur Benjamin",
+            700007836
+        ]
+    ],
+    [
+        "Leisure Activity before Relaxing at Home",
+        "(18:39, 20:18)",
+        [
+            "Chez Maman",
+            700003664
+        ]
+    ],
+    [
+        "Leisure Activity before Relaxing at Home",
+        "(20:05, 21:39)",
+        [
+            "Monsieur Benjamin",
+            700007836
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:52)",
+        [
+            "",
+            700002882
+        ]
+    ]
+]

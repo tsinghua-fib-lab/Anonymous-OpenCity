@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "V-Nam Cafe",
+            700005169
+        ]
+    ],
+    [
+        "Morning Routine",
+        "(10:00, 11:05)",
+        [
+            "V-Nam Cafe",
+            700005169
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:59, 13:46)",
+        [
+            "V-Nam Cafe",
+            700005169
+        ]
+    ],
+    [
+        "Prepare and Have Lunch",
+        "(14:32, 15:59)",
+        [
+            "V-Nam Cafe",
+            700005169
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:06, 23:03)",
+        [
+            "East 1st Street & 1st Avenue",
+            700025321
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "the Grayson",
+            700008819
+        ]
+    ]
+]

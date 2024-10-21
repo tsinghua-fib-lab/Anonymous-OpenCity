@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of America",
+            700010165
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 12:09)",
+        [
+            "Cassidy’s",
+            700007352
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:42, 13:53)",
+        [
+            "Cassidy’s",
+            700007352
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 17:00)",
+        [
+            "Bites of Xi’an",
+            700023161
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(17:19, 18:52)",
+        [
+            "Bites of Xi’an",
+            700023161
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:00, 20:59)",
+        [
+            "Bank of America",
+            700010165
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:50, 23:59)",
+        [
+            "Astro Restaurant",
+            700006311
+        ]
+    ]
+]

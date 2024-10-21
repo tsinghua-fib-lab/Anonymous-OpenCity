@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Black Tap Burger & Fries",
+            700011432
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:53)",
+        [
+            "Avis",
+            700005901
+        ]
+    ],
+    [
+        "Stay at Avis",
+        "(15:50, 17:00)",
+        [
+            "Public School 69",
+            700000052
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:38, 20:06)",
+        [
+            "Chopt",
+            700006309
+        ]
+    ],
+    [
+        "Stay at Black Tap Burger & Fries",
+        "(23:00, 23:59)",
+        [
+            "Black Tap Burger & Fries",
+            700011432
+        ]
+    ]
+]

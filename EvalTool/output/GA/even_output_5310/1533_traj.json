@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Lan Larb Esan",
+            700013040
+        ]
+    ],
+    [
+        "11:00 AM - 12:30 PM",
+        "(10:00, 11:26)",
+        [
+            "CVS Pharmacy",
+            700008443
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:00, 15:31)",
+        [
+            "Baby Bo's Cantina",
+            700008431
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:42, 16:34)",
+        [
+            "Chipotle",
+            700008432
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:18, 21:13)",
+        [
+            "Rocky's Pizzeria",
+            700012411
+        ]
+    ],
+    [
+        "Spend time at Rocky's Pizzeria.",
+        "(19:45, 20:54)",
+        [
+            "Starbucks",
+            700003607
+        ]
+    ],
+    [
+        "Spend time at Rocky's Pizzeria.",
+        "(21:08, 22:40)",
+        [
+            "Rocky's Pizzeria",
+            700012411
+        ]
+    ],
+    [
+        "Spend time.",
+        "(22:49, 23:56)",
+        [
+            "Midtown Animal Hospital",
+            700019412
+        ]
+    ],
+    [
+        "Stay at Midtown Animal Hospital.",
+        "(23:53, 23:59)",
+        [
+            "Midtown Animal Hospital",
+            700019412
+        ]
+    ]
+]

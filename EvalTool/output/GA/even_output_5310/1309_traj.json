@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Manhattan Indian Flavor",
+            700006191
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:20)",
+        [
+            "Posto",
+            700006194
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:40, 15:07)",
+        [
+            "Public School 40",
+            700000294
+        ]
+    ],
+    [
+        "Leisure Activity (2:00 PM - 4:00 PM)",
+        "(15:51, 17:00)",
+        [
+            "Public School 40",
+            700000294
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:20, 19:04)",
+        [
+            "Public School 40",
+            700000294
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:50, 22:55)",
+        [
+            "L'Angeletto",
+            700006193
+        ]
+    ]
+]

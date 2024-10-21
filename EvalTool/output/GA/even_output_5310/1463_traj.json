@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - 2nd Avenue & East 31st Street",
+            700007929
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:22)",
+        [
+            "",
+            700024797
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:45, 13:10)",
+        [
+            "Citi Bike - 2nd Avenue & East 31st Street",
+            700007929
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:41, 15:15)",
+        [
+            "Citi Bike - 2nd Avenue & East 31st Street",
+            700007929
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:58, 21:08)",
+        [
+            "",
+            700000908
+        ]
+    ],
+    [
+        "Dinner at Home",
+        "(19:36, 21:09)",
+        [
+            "",
+            700032012
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(21:55, 23:02)",
+        [
+            "Hill and Bay",
+            700009476
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "Dunkin' Donuts/Baskin Robbins",
+            700006339
+        ]
+    ]
+]

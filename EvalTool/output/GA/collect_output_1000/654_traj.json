@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030401
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:56)",
+        [
+            "",
+            700030401
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:56, 13:32)",
+        [
+            "Five & Dime",
+            700019712
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:48, 14:23)",
+        [
+            "Five & Dime",
+            700019712
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:41, 16:43)",
+        [
+            "Five & Dime",
+            700019712
+        ]
+    ],
+    [
+        "Personal Project/ Hobby",
+        "(17:08, 18:33)",
+        [
+            "",
+            700022173
+        ]
+    ],
+    [
+        "Personal Project/ Hobby",
+        "(18:39, 19:59)",
+        [
+            "Five & Dime",
+            700019712
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(20:58, 22:28)",
+        [
+            "Five & Dime",
+            700019712
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:42, 23:59)",
+        [
+            "",
+            700035523
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "B & Co",
+            700011506
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001313
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:00, 12:06)",
+        [
+            "",
+            700009480
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 16:22)",
+        [
+            "",
+            700000865
+        ]
+    ],
+    [
+        "Relaxation and Leisure",
+        "(18:32, 20:08)",
+        [
+            "Citi bike - 3rd Avenue & East 72nd Street",
+            700017450
+        ]
+    ],
+    [
+        "Relaxation and Leisure",
+        "(20:25, 22:09)",
+        [
+            "Citi bike - 3rd Avenue & East 72nd Street",
+            700017450
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:26, 23:59)",
+        [
+            "Seamore's",
+            700021736
+        ]
+    ]
+]

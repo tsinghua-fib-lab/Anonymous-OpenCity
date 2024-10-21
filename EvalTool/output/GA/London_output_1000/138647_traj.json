@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Fenwick Estate",
+            700007782
+        ]
+    ],
+    [
+        "Relax and watch TV or a movie",
+        "(09:00, 11:00)",
+        [
+            "",
+            700016848
+        ]
+    ],
+    [
+        "Relax and watch TV or a movie",
+        "(10:01, 12:01)",
+        [
+            "Cafe Cairo",
+            700031046
+        ]
+    ],
+    [
+        "Relax and watch TV or a movie",
+        "(12:18, 14:09)",
+        [
+            "Cafe Cairo",
+            700031046
+        ]
+    ],
+    [
+        "Relax and watch TV or a movie",
+        "(14:55, 16:59)",
+        [
+            "Cafe Cairo",
+            700031046
+        ]
+    ],
+    [
+        "Spend time with family or friends",
+        "(17:30, 19:28)",
+        [
+            "Cafe Cairo",
+            700031046
+        ]
+    ],
+    [
+        "Have dinner and unwind",
+        "(19:27, 20:54)",
+        [
+            "Alba",
+            700000566
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:33, 23:15)",
+        [
+            "The Old Bird",
+            700060991
+        ]
+    ],
+    [
+        "Relax and watch TV or a movie",
+        "(23:56, 23:59)",
+        [
+            "Cafe Cairo",
+            700031046
+        ]
+    ]
+]

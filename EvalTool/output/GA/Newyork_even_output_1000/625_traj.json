@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002302
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:23)",
+        [
+            "El Castillo De Jagua",
+            700003816
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:59, 13:07)",
+        [
+            "El Castillo De Jagua",
+            700003816
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:25, 14:57)",
+        [
+            "El Castillo De Jagua",
+            700003816
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:12, 18:02)",
+        [
+            "Wing Hing",
+            700003819
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:43, 23:53)",
+        [
+            "A-1 Pizza",
+            700003820
+        ]
+    ],
+    [
+        "Continue at Wing Hing for dinner",
+        "(22:26, 23:46)",
+        [
+            "Wing Hing",
+            700003819
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "",
+            700031272
+        ]
+    ]
+]

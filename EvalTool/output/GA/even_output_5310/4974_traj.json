@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "12 Corners",
+            700009270
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:06)",
+        [
+            "HumanCare",
+            700005138
+        ]
+    ],
+    [
+        "Leisure Reading or Casual Walk",
+        "(11:27, 13:05)",
+        [
+            "HumanCare",
+            700005138
+        ]
+    ],
+    [
+        "Leisure Reading or Casual Walk",
+        "(13:39, 15:13)",
+        [
+            "HumanCare",
+            700005138
+        ]
+    ],
+    [
+        "Leisure Reading or Casual Walk",
+        "(15:53, 17:02)",
+        [
+            "Puglia",
+            700019422
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:26, 19:11)",
+        [
+            "Vincent's",
+            700011128
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(23:00, 23:59)",
+        [
+            "HumanCare",
+            700005138
+        ]
+    ]
+]

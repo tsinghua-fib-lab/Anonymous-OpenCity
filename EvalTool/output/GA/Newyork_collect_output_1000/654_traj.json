@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Morning Routine (10:00 AM - 11:00 AM)",
+        "(10:00, 11:50)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 15:39)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(15:17, 16:49)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:28, 20:25)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ]
+]

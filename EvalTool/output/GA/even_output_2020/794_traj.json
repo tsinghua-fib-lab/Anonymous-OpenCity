@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chorus Hall",
+            700010620
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:36)",
+        [
+            "",
+            700000703
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:56, 11:52)",
+        [
+            "Blue Bottle Coffee",
+            700010072
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:08, 16:01)",
+        [
+            "",
+            700007231
+        ]
+    ],
+    [
+        "Socialize",
+        "(16:32, 18:09)",
+        [
+            "Peet's Coffee",
+            700005201
+        ]
+    ],
+    [
+        "Socialize",
+        "(18:48, 20:03)",
+        [
+            "11th Street Dojo",
+            700007235
+        ]
+    ],
+    [
+        "Socialize",
+        "(20:10, 21:13)",
+        [
+            "11th Street Dojo",
+            700007235
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:59)",
+        [
+            "Shanghai China Restaurant",
+            700007230
+        ]
+    ]
+]

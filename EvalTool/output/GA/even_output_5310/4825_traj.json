@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Supper",
+            700013457
+        ]
+    ],
+    [
+        "Leisurely Reading or TV",
+        "(10:00, 11:00)",
+        [
+            "Supper",
+            700013457
+        ]
+    ],
+    [
+        "Leisurely Reading or TV",
+        "(11:33, 12:57)",
+        [
+            "Supper",
+            700013457
+        ]
+    ],
+    [
+        "Lunch Preparation and Meal",
+        "(13:34, 15:33)",
+        [
+            "",
+            700020201
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(16:06, 17:57)",
+        [
+            "Supper",
+            700013457
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(18:54, 20:14)",
+        [
+            "Supper",
+            700013457
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(21:24, 22:55)",
+        [
+            "Supper",
+            700013457
+        ]
+    ],
+    [
+        "Stay at Supper",
+        "(23:39, 23:59)",
+        [
+            "Supper",
+            700013457
+        ]
+    ]
+]

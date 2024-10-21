@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "York Road Estate",
+            700011813
+        ]
+    ],
+    [
+        "Next activity after breakfast",
+        "(09:00, 09:58)",
+        [
+            "The Keen Group",
+            700021407
+        ]
+    ],
+    [
+        "Next activity after breakfast",
+        "(10:38, 12:41)",
+        [
+            "Curry Leaves",
+            700021288
+        ]
+    ],
+    [
+        "Next activity in a cafe.",
+        "(12:44, 14:03)",
+        [
+            "Curry Leaves",
+            700021288
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 15:59)",
+        [
+            "",
+            700012268
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:49, 19:09)",
+        [
+            "",
+            700070185
+        ]
+    ],
+    [
+        "next arrangement after lunch",
+        "(20:43, 22:11)",
+        [
+            "",
+            700036868
+        ]
+    ],
+    [
+        "Stay at Tudor Rose Court",
+        "(22:41, 23:59)",
+        [
+            "",
+            700070185
+        ]
+    ],
+    [
+        "next arrangement after leisure reading",
+        "(23:54, 23:59)",
+        [
+            "Curry Leaves",
+            700021288
+        ]
+    ]
+]

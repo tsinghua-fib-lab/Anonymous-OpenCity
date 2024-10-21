@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030397
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:51)",
+        [
+            "Hawa Smoothie",
+            700015136
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:10, 14:05)",
+        [
+            "",
+            700008453
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(15:04, 17:28)",
+        [
+            "Action Car Rental",
+            700008452
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:48, 19:10)",
+        [
+            "Hawa Smoothie",
+            700015136
+        ]
+    ],
+    [
+        "Stay at Current Place",
+        "(19:54, 20:55)",
+        [
+            "",
+            700030397
+        ]
+    ],
+    [
+        "Stay at Current Place",
+        "(21:51, 23:05)",
+        [
+            "",
+            700030397
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "",
+            700030393
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "George Moscone Elementary",
+            700000176
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:36)",
+        [
+            "Mutiny Radio.fm",
+            700010912
+        ]
+    ],
+    [
+        "Outdoor Activity / Exercise",
+        "(13:33, 15:35)",
+        [
+            "Dona Teres Market",
+            700006005
+        ]
+    ],
+    [
+        "Outdoor Activity / Exercise",
+        "(16:11, 17:33)",
+        [
+            "Flour + Water",
+            700002060
+        ]
+    ],
+    [
+        "Gourmet Dinner Preparation",
+        "(18:04, 19:32)",
+        [
+            "George Moscone Elementary",
+            700000176
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:04, 23:59)",
+        [
+            "Mutiny Radio.fm",
+            700010912
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "",
+            700000047
+        ]
+    ]
+]

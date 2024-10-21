@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sweet Moment",
+            700010489
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:36)",
+        [
+            "XO Taste",
+            700020715
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:25, 18:10)",
+        [
+            "Sweet Moment",
+            700010489
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:26, 23:10)",
+        [
+            "Sweet Moment",
+            700010489
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:01, 23:59)",
+        [
+            "Sweet Moment",
+            700010489
+        ]
+    ]
+]

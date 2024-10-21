@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Park Place & Church Street",
+            700027024
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:14)",
+        [
+            "",
+            700036784
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:01, 19:26)",
+        [
+            "",
+            700035526
+        ]
+    ],
+    [
+        "Spend time with family or friends",
+        "(16:48, 17:51)",
+        [
+            "Little Italy Pizza",
+            700019711
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 19:50)",
+        [
+            "B & Co",
+            700011506
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "",
+            700035521
+        ]
+    ]
+]

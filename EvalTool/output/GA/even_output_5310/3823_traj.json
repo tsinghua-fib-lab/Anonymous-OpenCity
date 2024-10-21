@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Prime Produce",
+            700031619
+        ]
+    ],
+    [
+        "Take a Morning Walk or Attend a Yoga Class",
+        "(09:00, 10:28)",
+        [
+            "Tacuba Cantina Mexicana",
+            700022445
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 14:39)",
+        [
+            "Kings of Kobe",
+            700023213
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:53, 17:58)",
+        [
+            "Yakitori Torishin",
+            700006465
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(19:05, 20:39)",
+        [
+            "Tacuba Cantina Mexicana",
+            700022445
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 23:59)",
+        [
+            "El Centro",
+            700006320
+        ]
+    ]
+]

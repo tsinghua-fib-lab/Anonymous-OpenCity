@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700021862
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:25)",
+        [
+            "Citi Bike - E 2 St & Avenue C",
+            700008032
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series.",
+        "(15:28, 18:09)",
+        [
+            "",
+            700002730
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(16:54, 19:01)",
+        [
+            "Citi Bike - E 2 St & Avenue C",
+            700008032
+        ]
+    ],
+    [
+        "Prepare and have dinner",
+        "(19:23, 20:52)",
+        [
+            "Citi Bike - E 2 St & Avenue C",
+            700008032
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:49, 23:59)",
+        [
+            "Yoli",
+            700005415
+        ]
+    ]
+]

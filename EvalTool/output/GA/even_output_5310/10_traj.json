@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700023006
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:07)",
+        [
+            "Bank of America",
+            700015916
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(12:52, 15:22)",
+        [
+            "Lenwich",
+            700015917
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:12, 18:37)",
+        [
+            "Pat LaFrieda Meat Purveyors",
+            700014596
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:51, 23:04)",
+        [
+            "",
+            700006359
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:16, 22:37)",
+        [
+            "Lenwich",
+            700015917
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "",
+            700037841
+        ]
+    ]
+]

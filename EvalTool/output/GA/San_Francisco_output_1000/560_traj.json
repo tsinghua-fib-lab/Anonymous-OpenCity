@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Supremo's Pizza",
+            700004964
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:04)",
+        [
+            "Tú Lan",
+            700000452
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:27, 18:13)",
+        [
+            "Montesacro",
+            700010533
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:43, 22:13)",
+        [
+            "",
+            700010240
+        ]
+    ],
+    [
+        "Stay at Supremo's Pizza",
+        "(22:08, 23:41)",
+        [
+            "Montesacro",
+            700010533
+        ]
+    ],
+    [
+        "Stay at Supremo's Pizza",
+        "(23:52, 23:59)",
+        [
+            "Montesacro",
+            700010533
+        ]
+    ]
+]

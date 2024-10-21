@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bar Six",
+            700012222
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:10)",
+        [
+            "Asami Sushi",
+            700012246
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 14:16)",
+        [
+            "Chipotle",
+            700014354
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 22:35)",
+        [
+            "Asami Sushi",
+            700012246
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:59, 21:24)",
+        [
+            "Bar Six",
+            700012222
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:26, 23:59)",
+        [
+            "Five Guys",
+            700007439
+        ]
+    ]
+]

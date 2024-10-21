@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Proong Noodle Bar",
+            700025847
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:47)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:45, 14:05)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:39, 15:55)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 19:42)",
+        [
+            "Ess-a-Bagel",
+            700023332
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:48, 21:03)",
+        [
+            "Ess-a-Bagel",
+            700023332
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:49, 22:10)",
+        [
+            "Ess-a-Bagel",
+            700023332
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "",
+            700001705
+        ]
+    ]
+]

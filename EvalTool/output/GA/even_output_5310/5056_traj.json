@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001621
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:18)",
+        [
+            "Madina Halal Deli",
+            700039215
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 15:51)",
+        [
+            "11th Street Community Library",
+            700023629
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 18:48)",
+        [
+            "",
+            700032420
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:23, 22:05)",
+        [
+            "",
+            700001621
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(22:42, 23:59)",
+        [
+            "",
+            700001621
+        ]
+    ]
+]

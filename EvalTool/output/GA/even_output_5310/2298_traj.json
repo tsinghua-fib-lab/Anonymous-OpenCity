@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002644
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 11:24)",
+        [
+            "",
+            700002644
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:06, 13:28)",
+        [
+            "",
+            700002644
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:22, 15:40)",
+        [
+            "",
+            700021646
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(17:42, 19:02)",
+        [
+            "",
+            700021645
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 22:56)",
+        [
+            "Carl Schurz Park",
+            700003572
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(21:38, 23:14)",
+        [
+            "",
+            700021644
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(23:48, 23:59)",
+        [
+            "",
+            700021636
+        ]
+    ]
+]

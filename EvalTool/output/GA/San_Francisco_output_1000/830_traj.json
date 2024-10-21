@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Persona",
+            700008795
+        ]
+    ],
+    [
+        "Exercise or outdoor activity",
+        "(09:00, 10:03)",
+        [
+            "",
+            700007009
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:08, 12:01)",
+        [
+            "Stookey's Club Moderne",
+            700008671
+        ]
+    ],
+    [
+        "Hobby time or creative activities",
+        "(14:07, 16:17)",
+        [
+            "Jasmin's",
+            700001602
+        ]
+    ],
+    [
+        "Hobby time or creative activities",
+        "(16:13, 18:04)",
+        [
+            "",
+            700007381
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:35, 23:59)",
+        [
+            "Roxanne Cafe",
+            700001601
+        ]
+    ],
+    [
+        "Stay at Roxanne Cafe",
+        "(22:27, 23:59)",
+        [
+            "Roxanne Cafe",
+            700001601
+        ]
+    ],
+    [
+        "Stay at Roxanne Cafe",
+        "(23:54, 23:59)",
+        [
+            "Roxanne Cafe",
+            700001601
+        ]
+    ]
+]

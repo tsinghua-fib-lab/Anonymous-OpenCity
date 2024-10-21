@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:41)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:35, 16:12)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:20, 17:41)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(18:04, 19:53)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 23:59)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Dunkin'",
+            700024685
+        ]
+    ]
+]

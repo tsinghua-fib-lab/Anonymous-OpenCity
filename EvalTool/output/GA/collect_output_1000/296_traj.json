@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030394
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:53)",
+        [
+            "",
+            700027189
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:31, 13:10)",
+        [
+            "",
+            700027189
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:47, 15:03)",
+        [
+            "Hank’s Pizza",
+            700014013
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:28, 16:53)",
+        [
+            "Hank’s Pizza",
+            700014013
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:42, 19:22)",
+        [
+            "Hank’s Pizza",
+            700014013
+        ]
+    ],
+    [
+        "Evening Relaxation & Wind Down",
+        "(19:45, 21:59)",
+        [
+            "",
+            700030394
+        ]
+    ],
+    [
+        "Evening Relaxation & Wind Down",
+        "(22:55, 23:59)",
+        [
+            "",
+            700030394
+        ]
+    ]
+]

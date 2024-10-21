@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:47)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:05, 16:03)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Wind Down and Relax",
+        "(16:26, 18:08)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 20:44)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Catch Up on Movies/TV Series",
+        "(21:26, 23:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ]
+]

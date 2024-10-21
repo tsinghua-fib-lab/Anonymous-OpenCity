@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700022436
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:06)",
+        [
+            "49 Columbia Newsstand & Luncheonette",
+            700024990
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:46, 17:40)",
+        [
+            "",
+            700022436
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:34, 20:05)",
+        [
+            "",
+            700021864
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:05, 22:32)",
+        [
+            "Cooke School and Institute Lower School",
+            700006429
+        ]
+    ],
+    [
+        "Go to Avenue D Pizza.",
+        "(23:25, 23:59)",
+        [
+            "Our Lady of Sorrows School",
+            700000191
+        ]
+    ]
+]

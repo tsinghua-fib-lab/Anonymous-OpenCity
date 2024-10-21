@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020140
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 09:52)",
+        [
+            "",
+            700020139
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:58, 14:00)",
+        [
+            "",
+            700020139
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:52, 13:25)",
+        [
+            "Peter McManus Cafe",
+            700017925
+        ]
+    ],
+    [
+        "Leisure and Entertainment",
+        "(14:15, 15:25)",
+        [
+            "",
+            700020075
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:33, 19:37)",
+        [
+            "",
+            700001764
+        ]
+    ],
+    [
+        "Stay at 'Peter McManus Cafe' for a relaxed dinner.",
+        "(22:25, 23:53)",
+        [
+            "Peter McManus Cafe",
+            700017925
+        ]
+    ]
+]

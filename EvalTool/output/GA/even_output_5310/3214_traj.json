@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003184
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:40)",
+        [
+            "Maya Mezcal",
+            700008980
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:43, 14:14)",
+        [
+            "Maya Mezcal",
+            700008980
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:45, 18:03)",
+        [
+            "Bread and Stone",
+            700041292
+        ]
+    ],
+    [
+        "Sports/Leisure Activity",
+        "(16:44, 17:55)",
+        [
+            "Bread and Stone",
+            700041292
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:07, 23:59)",
+        [
+            "Bread and Stone",
+            700041292
+        ]
+    ],
+    [
+        "Sports/Leisure Activity",
+        "(23:19, 23:59)",
+        [
+            "The Izakaya NYC",
+            700040214
+        ]
+    ]
+]

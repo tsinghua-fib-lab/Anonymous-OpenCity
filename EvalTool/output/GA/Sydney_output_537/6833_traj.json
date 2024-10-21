@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Zeta Bar",
+            700008637
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:02)",
+        [
+            "Lower Ground Food Gallery",
+            700023255
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 12:00)",
+        [
+            "Oporto",
+            700012808
+        ]
+    ],
+    [
+        "Next, you will visit 'Oporto'.",
+        "(12:23, 13:59)",
+        [
+            "Oporto",
+            700012808
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:23, 18:24)",
+        [
+            "Jim's malaysia",
+            700023262
+        ]
+    ],
+    [
+        "Engage in a hobby (e.g., reading, gaming, or crafting)",
+        "(17:26, 19:02)",
+        [
+            "",
+            700021426
+        ]
+    ],
+    [
+        "Stay at Zeta Bar.",
+        "(19:43, 21:48)",
+        [
+            "Grounds of the City",
+            700009707
+        ]
+    ],
+    [
+        "Stay at Zeta Bar.",
+        "(22:01, 23:28)",
+        [
+            "Zeta Bar",
+            700008637
+        ]
+    ],
+    [
+        "Stay at Zeta Bar",
+        "(23:25, 23:59)",
+        [
+            "Fishbowl",
+            700023258
+        ]
+    ]
+]

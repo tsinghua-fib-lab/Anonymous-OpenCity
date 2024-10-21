@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dentist office",
+            700001958
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:28)",
+        [
+            "Dentist office",
+            700001958
+        ]
+    ],
+    [
+        "Catch Up on Personal Projects or Hobbies",
+        "(11:02, 13:58)",
+        [
+            "Dentist office",
+            700001958
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:43, 17:26)",
+        [
+            "",
+            700008969
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(18:00, 20:05)",
+        [
+            "Dentist office",
+            700001958
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(19:40, 21:19)",
+        [
+            "Dentist office",
+            700001958
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(22:24, 23:59)",
+        [
+            "",
+            700009935
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(23:50, 23:59)",
+        [
+            "Dentist office",
+            700001958
+        ]
+    ]
+]

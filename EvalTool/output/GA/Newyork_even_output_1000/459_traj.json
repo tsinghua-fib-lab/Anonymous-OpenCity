@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "School of Rock",
+            700035810
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:26)",
+        [
+            "Kossar's Bagels & Bialys",
+            700033870
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 16:08)",
+        [
+            "Bagels & Co.",
+            700016561
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 16:33)",
+        [
+            "",
+            700000666
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:23, 23:25)",
+        [
+            "Gracie Square Hospital",
+            700000396
+        ]
+    ],
+    [
+        "Evening Wind Down with Reading",
+        "(22:03, 23:25)",
+        [
+            "Zucchero e Pomodori",
+            700016362
+        ]
+    ],
+    [
+        "Evening Wind Down with Reading",
+        "(23:58, 23:59)",
+        [
+            "Gracie Square Hospital",
+            700000396
+        ]
+    ]
+]

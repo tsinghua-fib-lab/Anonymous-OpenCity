@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "McDonald's",
+            700006548
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:27)",
+        [
+            "Chipotle",
+            700017949
+        ]
+    ],
+    [
+        "Social Time or Hobbies",
+        "(10:38, 12:47)",
+        [
+            "FedEx Office",
+            700035431
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:37, 16:08)",
+        [
+            "FedEx Office",
+            700035431
+        ]
+    ],
+    [
+        "Social Time or Hobbies",
+        "(15:27, 16:54)",
+        [
+            "Kuu",
+            700039049
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(17:13, 19:03)",
+        [
+            "Chipotle",
+            700017949
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:30, 20:53)",
+        [
+            "Starbucks",
+            700006554
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 22:31)",
+        [
+            "Le Gourmet",
+            700035430
+        ]
+    ]
+]

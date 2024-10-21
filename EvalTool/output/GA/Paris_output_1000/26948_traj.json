@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Haltes-garderie municipale",
+            700000013
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:25)",
+        [
+            "Maison de la Justice et du Droit",
+            700026367
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:34, 16:57)",
+        [
+            "",
+            700020960
+        ]
+    ],
+    [
+        "Prepare and have dinner, maybe trying out a new recipe or enjoying takeout.",
+        "(17:31, 18:51)",
+        [
+            "Maison de la Justice et du Droit",
+            700026367
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:54, 21:35)",
+        [
+            "",
+            700065485
+        ]
+    ],
+    [
+        "Prepare for the next day using your current surroundings.",
+        "(23:55, 23:59)",
+        [
+            "Maison de la Justice et du Droit",
+            700026367
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Manhattan Mailroom",
+            700006574
+        ]
+    ],
+    [
+        "Morning Exercise from 10:00 AM to 11:00 AM",
+        "(09:00, 10:15)",
+        [
+            "Manhattan Mailroom",
+            700006574
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:14, 12:47)",
+        [
+            "Coffee Shop",
+            700041023
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:47, 19:09)",
+        [
+            "Le Pain Quotidien",
+            700024261
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(19:23, 20:51)",
+        [
+            "Ralph's Italian Ices",
+            700024259
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "QUATORZE bis",
+            700024258
+        ]
+    ]
+]

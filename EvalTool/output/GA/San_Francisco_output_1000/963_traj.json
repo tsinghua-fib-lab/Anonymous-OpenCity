@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bus Stop",
+            700004822
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:58)",
+        [
+            "",
+            700008809
+        ]
+    ],
+    [
+        "Start personal project or hobby",
+        "(11:41, 13:35)",
+        [
+            "Bus Stop",
+            700004822
+        ]
+    ],
+    [
+        "Spend time on a personal project or hobby.",
+        "(13:55, 15:10)",
+        [
+            "Flores",
+            700005578
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 21:20)",
+        [
+            "",
+            700014100
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 22:51)",
+        [
+            "Starbucks",
+            700005467
+        ]
+    ],
+    [
+        "Stay at Bus Stop",
+        "(23:19, 23:59)",
+        [
+            "Starbucks",
+            700005467
+        ]
+    ]
+]

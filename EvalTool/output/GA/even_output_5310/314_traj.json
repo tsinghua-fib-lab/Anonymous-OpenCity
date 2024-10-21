@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Murphy's Law",
+            700035436
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:33)",
+        [
+            "Pret A Manger",
+            700041303
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:23, 21:08)",
+        [
+            "",
+            700024999
+        ]
+    ],
+    [
+        "Stay at Pret A Manger",
+        "(19:47, 20:57)",
+        [
+            "Pret A Manger",
+            700041303
+        ]
+    ],
+    [
+        "Spend time at Pret A Manger",
+        "(21:10, 23:26)",
+        [
+            "Pret A Manger",
+            700041303
+        ]
+    ],
+    [
+        "Stay at Pret A Manger",
+        "(23:40, 23:59)",
+        [
+            "Rice N Beans",
+            700008995
+        ]
+    ]
+]

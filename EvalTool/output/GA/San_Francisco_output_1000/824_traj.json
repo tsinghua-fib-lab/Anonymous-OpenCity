@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Fillmore",
+            700000445
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:00, 12:00)",
+        [
+            "The Fillmore",
+            700000445
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(11:51, 13:19)",
+        [
+            "The Fillmore",
+            700000445
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(13:50, 15:23)",
+        [
+            "The Fillmore",
+            700000445
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:51, 17:05)",
+        [
+            "Panda Express",
+            700005827
+        ]
+    ],
+    [
+        "Watching Sports or TV",
+        "(19:28, 21:07)",
+        [
+            "Panda Express",
+            700005827
+        ]
+    ],
+    [
+        "Watching Sports or TV",
+        "(21:29, 23:23)",
+        [
+            "State Bird Provisions",
+            700004803
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "Fillmore Billiards",
+            700006057
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:03)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:21, 19:24)",
+        [
+            "",
+            700022506
+        ]
+    ],
+    [
+        "prepare dinner and wind down",
+        "(20:43, 22:03)",
+        [
+            "Ampersand",
+            700006110
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill",
+        "(22:21, 23:55)",
+        [
+            "Ampersand",
+            700006110
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "",
+            700000977
+        ]
+    ]
+]

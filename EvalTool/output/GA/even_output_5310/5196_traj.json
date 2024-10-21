@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700024471
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:06)",
+        [
+            "McDonald's",
+            700015251
+        ]
+    ],
+    [
+        "Household chores.",
+        "(15:31, 16:59)",
+        [
+            "New York Luncheonette",
+            700009443
+        ]
+    ],
+    [
+        "Household Chores",
+        "(17:14, 19:39)",
+        [
+            "New York Luncheonette",
+            700009443
+        ]
+    ],
+    [
+        "Household Chores",
+        "(19:20, 20:59)",
+        [
+            "New York Luncheonette",
+            700009443
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 23:33)",
+        [
+            "UrbanSpace",
+            700006474
+        ]
+    ]
+]

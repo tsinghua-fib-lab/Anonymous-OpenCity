@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Weill Cornell Medical College",
+            700000029
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:38)",
+        [
+            "New York Presbyterian Alexandra Cohen Hospital for Women and Newborns",
+            700041298
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:27, 15:13)",
+        [
+            "",
+            700035721
+        ]
+    ],
+    [
+        "Go to a restaurant.",
+        "(19:50, 20:58)",
+        [
+            "Murphy's Law",
+            700035436
+        ]
+    ],
+    [
+        "Attend a sports event or participate in a recreational activity.",
+        "(20:32, 21:58)",
+        [
+            "Hypertension Center",
+            700035437
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:29)",
+        [
+            "FedEx Office",
+            700035431
+        ]
+    ]
+]

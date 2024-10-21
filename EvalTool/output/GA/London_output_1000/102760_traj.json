@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pearscroft Estate",
+            700016438
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:31)",
+        [
+            "",
+            700001348
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(12:51, 14:26)",
+        [
+            "",
+            700054457
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 18:05)",
+        [
+            "",
+            700049819
+        ]
+    ],
+    [
+        "Evening Leisure Activities",
+        "(20:34, 21:55)",
+        [
+            "",
+            700021457
+        ]
+    ],
+    [
+        "Evening Leisure Activities",
+        "(22:53, 23:59)",
+        [
+            "Royal Wharf Market",
+            700051943
+        ]
+    ]
+]

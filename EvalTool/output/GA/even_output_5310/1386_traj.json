@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 20th Street & FDR Drive",
+            700008034
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 10:52)",
+        [
+            "",
+            700017729
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:54, 13:22)",
+        [
+            "Citi Bike - East 20th Street & FDR Drive",
+            700008034
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 20th Street & FDR Drive",
+        "(14:30, 16:39)",
+        [
+            "",
+            700017714
+        ]
+    ],
+    [
+        "Entertainment",
+        "(17:27, 18:57)",
+        [
+            "",
+            700017709
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 20th Street & FDR Drive",
+        "(19:29, 20:59)",
+        [
+            "Stuyvesant Cove Ferry Station",
+            700016688
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 20th Street & FDR Drive",
+        "(21:24, 22:17)",
+        [
+            "Stuyvesant Cove Ferry Station",
+            700016688
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 20th Street & FDR Drive",
+        "(22:54, 23:59)",
+        [
+            "Stuyvesant Cove Ferry Station",
+            700016688
+        ]
+    ]
+]

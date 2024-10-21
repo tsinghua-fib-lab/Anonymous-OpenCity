@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700017438
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:53)",
+        [
+            "BLT Prime",
+            700017615
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:43, 18:50)",
+        [
+            "Melody's Piano Bar",
+            700017618
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:33, 23:59)",
+        [
+            "Melody's Piano Bar",
+            700017618
+        ]
+    ]
+]

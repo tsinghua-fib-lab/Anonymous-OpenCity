@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700003885
+        ]
+    ],
+    [
+        "Relax at home and catch up on a TV series.",
+        "(09:00, 11:01)",
+        [
+            "",
+            700003885
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 14:24)",
+        [
+            "Bob's Chemist Newtown",
+            700003994
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 19:12)",
+        [
+            "",
+            700023558
+        ]
+    ],
+    [
+        "Enjoy dinner and socialize.",
+        "(18:43, 19:51)",
+        [
+            "",
+            700027743
+        ]
+    ],
+    [
+        "Relax at home, watch a movie or catch up on a TV series.",
+        "(20:54, 22:00)",
+        [
+            "Beach Burrito Company",
+            700004005
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "Tokyo Lamington",
+            700029711
+        ]
+    ]
+]

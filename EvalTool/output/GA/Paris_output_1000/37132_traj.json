@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700012594
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:11)",
+        [
+            "Société Générale",
+            700002541
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:33, 17:05)",
+        [
+            "Société Générale",
+            700002541
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:17, 19:54)",
+        [
+            "Société Générale",
+            700002541
+        ]
+    ],
+    [
+        "Relaxation and TV Time",
+        "(19:30, 20:58)",
+        [
+            "Société Générale",
+            700002541
+        ]
+    ],
+    [
+        "Relaxation and TV Time",
+        "(21:11, 23:08)",
+        [
+            "Société Générale",
+            700002541
+        ]
+    ],
+    [
+        "Relaxation and TV Time",
+        "(23:56, 23:59)",
+        [
+            "Société Générale",
+            700002541
+        ]
+    ]
+]

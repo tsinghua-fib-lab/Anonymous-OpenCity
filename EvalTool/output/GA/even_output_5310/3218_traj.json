@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Van Leeuwen Ice Cream",
+            700004525
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:53)",
+        [
+            "Maya Mezcal",
+            700008980
+        ]
+    ],
+    [
+        "Spend time at Maya Mezcal for a longer visit.",
+        "(15:23, 17:01)",
+        [
+            "Maya Mezcal",
+            700008980
+        ]
+    ],
+    [
+        "Continue binge-watching at a café.",
+        "(17:30, 18:56)",
+        [
+            "Wonderland Bar",
+            700041293
+        ]
+    ],
+    [
+        "After dinner, relax with some light music or a podcast until bedtime.",
+        "(19:31, 20:41)",
+        [
+            "Maya Mezcal",
+            700008980
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "",
+            700003184
+        ]
+    ]
+]

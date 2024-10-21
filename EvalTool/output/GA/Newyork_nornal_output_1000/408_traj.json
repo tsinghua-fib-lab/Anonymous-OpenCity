@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700031055
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:06)",
+        [
+            "",
+            700031060
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 16:26)",
+        [
+            "",
+            700031057
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:24, 20:51)",
+        [
+            "Citi Bike - Cleveland Pl & Spring St",
+            700007998
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:54, 22:17)",
+        [
+            "Citi Bike - Cleveland Pl & Spring St",
+            700007998
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:56, 23:59)",
+        [
+            "Joe & The Juice",
+            700025818
+        ]
+    ]
+]

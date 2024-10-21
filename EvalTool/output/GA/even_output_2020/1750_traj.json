@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "McDonald's",
+            700005087
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:55)",
+        [
+            "Sutter Street Cafe",
+            700004524
+        ]
+    ],
+    [
+        "Engage in a fun outdoor activity or sports",
+        "(12:30, 13:57)",
+        [
+            "My Doctor Medical Group",
+            700002341
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(14:29, 16:10)",
+        [
+            "My Doctor Medical Group",
+            700002341
+        ]
+    ],
+    [
+        "Engage in a fun outdoor activity or sports",
+        "(16:49, 18:29)",
+        [
+            "My Doctor Medical Group",
+            700002341
+        ]
+    ],
+    [
+        "Dinner Reservations",
+        "(19:10, 20:38)",
+        [
+            "Four-Fifty Sutter Pharmacy",
+            700003097
+        ]
+    ],
+    [
+        "Dinner Reservations",
+        "(21:25, 22:46)",
+        [
+            "450 Sutter parking",
+            700003095
+        ]
+    ],
+    [
+        "Movie Night",
+        "(22:54, 23:59)",
+        [
+            "Taxi Stand at Marriott Union Square",
+            700009889
+        ]
+    ]
+]

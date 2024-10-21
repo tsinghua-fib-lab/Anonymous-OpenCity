@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Cozy Cafe",
+            700010961
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(09:00, 09:51)",
+        [
+            "Cozy Cafe",
+            700010961
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:11, 15:47)",
+        [
+            "The Royale",
+            700004669
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:08, 17:22)",
+        [
+            "",
+            700008704
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:34, 22:30)",
+        [
+            "Farm:Table",
+            700006015
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:52, 23:59)",
+        [
+            "Chisme Cantina",
+            700005899
+        ]
+    ]
+]

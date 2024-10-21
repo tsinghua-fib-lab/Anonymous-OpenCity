@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dr. Mohammad Rimawi",
+            700020019
+        ]
+    ],
+    [
+        "Stay at Dr. Mohammad Rimawi",
+        "(10:00, 11:58)",
+        [
+            "Dr. Mohammad Rimawi",
+            700020019
+        ]
+    ],
+    [
+        "Stay at Dr. Mohammad Rimawi",
+        "(11:40, 13:20)",
+        [
+            "Dr. Mohammad Rimawi",
+            700020019
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:22, 15:47)",
+        [
+            "Coffeed",
+            700011150
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:14, 17:27)",
+        [
+            "",
+            700001960
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 23:59)",
+        [
+            "",
+            700001960
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Fault Radio",
+            700011111
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:49)",
+        [
+            "Hinodeya Downtown",
+            700007907
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:05, 14:41)",
+        [
+            "Hinodeya Downtown",
+            700007907
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:56, 17:38)",
+        [
+            "Tokyo Express: Teriyaki House",
+            700005018
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:48, 18:59)",
+        [
+            "550 California Street Parking Garage",
+            700014130
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:58, 20:59)",
+        [
+            "Fault Radio",
+            700011111
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:19, 23:59)",
+        [
+            "Fault Radio",
+            700011111
+        ]
+    ]
+]

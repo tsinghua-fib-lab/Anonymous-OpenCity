@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030392
+        ]
+    ],
+    [
+        "Spend some time reading or browsing online",
+        "(10:00, 10:53)",
+        [
+            "",
+            700030406
+        ]
+    ],
+    [
+        "Enjoy coffee at Marathon Coffee.",
+        "(11:43, 12:51)",
+        [
+            "Marathon Coffee",
+            700039312
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 18:37)",
+        [
+            "",
+            700010698
+        ]
+    ],
+    [
+        "Enjoy coffee at Marathon Coffee.",
+        "(18:35, 20:10)",
+        [
+            "",
+            700025676
+        ]
+    ],
+    [
+        "Wind down with a movie or reading.",
+        "(20:11, 21:58)",
+        [
+            "",
+            700030392
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(22:55, 23:59)",
+        [
+            "",
+            700030392
+        ]
+    ]
+]

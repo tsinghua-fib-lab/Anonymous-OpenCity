@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001930
+        ]
+    ],
+    [
+        "Staying at Home",
+        "(09:00, 10:28)",
+        [
+            "",
+            700001930
+        ]
+    ],
+    [
+        "Staying at Home",
+        "(10:08, 11:31)",
+        [
+            "Bond Vet",
+            700010576
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:33, 12:50)",
+        [
+            "Bond Vet",
+            700010576
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:37, 17:48)",
+        [
+            "Citi Bike - East 31st Street & 3rd Avenue",
+            700005961
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:34, 18:41)",
+        [
+            "Icon Parking",
+            700008822
+        ]
+    ],
+    [
+        "Next activity: Social Time",
+        "(17:41, 19:08)",
+        [
+            "Citi Bike - East 31st Street & 3rd Avenue",
+            700005961
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 23:59)",
+        [
+            "Dan & John's Wings",
+            700020946
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "Craft + Carry",
+            700002556
+        ]
+    ]
+]

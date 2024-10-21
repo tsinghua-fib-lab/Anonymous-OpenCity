@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Deutsche Bank",
+            700003414
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:11)",
+        [
+            "Tend",
+            700004069
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:46, 14:04)",
+        [
+            "Conwell Coffee Hall",
+            700039838
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:08, 19:27)",
+        [
+            "The Little Beet",
+            700023755
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:34, 22:12)",
+        [
+            "Selene's",
+            700009753
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:22, 23:59)",
+        [
+            "",
+            700027304
+        ]
+    ]
+]

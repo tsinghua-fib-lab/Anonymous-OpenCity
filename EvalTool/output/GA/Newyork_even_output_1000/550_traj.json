@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Duane Reade",
+            700003430
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:27)",
+        [
+            "Duane Reade",
+            700003430
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:59, 12:57)",
+        [
+            "Duane Reade",
+            700003430
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:25, 15:08)",
+        [
+            "Duane Reade",
+            700003430
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:12, 20:28)",
+        [
+            "",
+            700019036
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:43, 22:00)",
+        [
+            "HSBC",
+            700003433
+        ]
+    ],
+    [
+        "Next activity after movie/TV show marathon",
+        "(22:26, 23:32)",
+        [
+            "Duane Reade",
+            700003430
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "",
+            700019036
+        ]
+    ]
+]

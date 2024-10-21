@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Lenz's Delicatessen",
+            700018000
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:54)",
+        [
+            "Lenz's Delicatessen",
+            700018000
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(14:06, 16:09)",
+        [
+            "Little Free Library",
+            700023699
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:53, 21:38)",
+        [
+            "",
+            700021959
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:35, 23:59)",
+        [
+            "",
+            700023704
+        ]
+    ]
+]

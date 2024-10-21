@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wok in the Clouds",
+            700015894
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:58)",
+        [
+            "Sally's Bar",
+            700008418
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:11, 17:11)",
+        [
+            "Sally's Bar",
+            700008418
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:19, 20:49)",
+        [
+            "Pongal",
+            700010954
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:42, 23:29)",
+        [
+            "Dhaba",
+            700010953
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:31, 23:59)",
+        [
+            "Kailash Parbat",
+            700006242
+        ]
+    ]
+]

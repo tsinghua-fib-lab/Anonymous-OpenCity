@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700025796
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:18)",
+        [
+            "",
+            700025794
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(10:26, 12:51)",
+        [
+            "",
+            700025795
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(12:51, 14:01)",
+        [
+            "Swift Hibernian Lounge",
+            700003237
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:57, 15:49)",
+        [
+            "Swift Hibernian Lounge",
+            700003237
+        ]
+    ],
+    [
+        "Leisure activity at Swift Hibernian Lounge",
+        "(15:47, 16:55)",
+        [
+            "Swift Hibernian Lounge",
+            700003237
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:15, 20:04)",
+        [
+            "Jolene",
+            700023863
+        ]
+    ],
+    [
+        "Stay at Swift Hibernian Lounge (Situation 3)",
+        "(22:27, 23:59)",
+        [
+            "Swift Hibernian Lounge",
+            700003237
+        ]
+    ],
+    [
+        "Stay at Swift Hibernian Lounge (Situation 3)",
+        "(23:57, 23:59)",
+        [
+            "Sunday C&C Eatery",
+            700036816
+        ]
+    ]
+]

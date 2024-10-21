@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Read or Study",
+        "(10:00, 11:28)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Next activity after reading or studying.",
+        "(12:07, 13:38)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:05, 19:24)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:16, 23:21)",
+        [
+            "",
+            700000911
+        ]
+    ]
+]

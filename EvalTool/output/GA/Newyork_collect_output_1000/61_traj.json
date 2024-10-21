@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:31)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:01, 16:59)",
+        [
+            "N25 Nitro Tea & Coffee",
+            700023445
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:56, 19:16)",
+        [
+            "N25 Nitro Tea & Coffee",
+            700023445
+        ]
+    ],
+    [
+        "Next activity based on daily plan",
+        "(20:16, 21:51)",
+        [
+            "Mango Mango Dessert",
+            700014428
+        ]
+    ],
+    [
+        "Next activity based on daily plan",
+        "(22:22, 23:59)",
+        [
+            "Szechuan Mountain House - 川山甲",
+            700023444
+        ]
+    ]
+]

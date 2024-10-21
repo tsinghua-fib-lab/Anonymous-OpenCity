@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 12:09)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:10, 14:11)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:45, 17:26)",
+        [
+            "",
+            700024475
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:15, 23:05)",
+        [
+            "Lemongrass Kitchen",
+            700014789
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:22, 23:59)",
+        [
+            "Capeesh",
+            700025479
+        ]
+    ]
+]

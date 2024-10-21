@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Blue Seafood Bar",
+            700017505
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(10:00, 11:56)",
+        [
+            "Blue Seafood Bar",
+            700017505
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:43, 18:19)",
+        [
+            "Citi Bike - West 54th Street & 9th Avenue",
+            700008234
+        ]
+    ],
+    [
+        "Leisure Time/Entertainment",
+        "(15:08, 17:59)",
+        [
+            "Citi Bike - West 54th Street & 9th Avenue",
+            700008234
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:58, 23:59)",
+        [
+            "",
+            700007387
+        ]
+    ],
+    [
+        "Leisure Time/Entertainment",
+        "(21:41, 22:37)",
+        [
+            "",
+            700002071
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "Alvin Ailey American Dance Theater",
+            700019874
+        ]
+    ]
+]

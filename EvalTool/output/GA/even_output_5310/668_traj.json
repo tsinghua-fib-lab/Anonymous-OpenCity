@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Subway",
+            700004311
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:40)",
+        [
+            "Subway",
+            700004311
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:31, 17:21)",
+        [
+            "Citi Bike - West 13th Street & 7th Avenue",
+            700008198
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:22, 17:39)",
+        [
+            "",
+            700020029
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:15, 23:59)",
+        [
+            "",
+            700020031
+        ]
+    ],
+    [
+        "Current Place: Subway, Stay Time: 1 hour 30 minutes",
+        "(23:38, 23:59)",
+        [
+            "Chama Mama",
+            700023404
+        ]
+    ]
+]

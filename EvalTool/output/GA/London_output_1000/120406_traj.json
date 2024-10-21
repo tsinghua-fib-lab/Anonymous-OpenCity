@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Relax and Read",
+        "(09:00, 10:04)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Relax and Read",
+        "(10:08, 12:05)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:46, 18:30)",
+        [
+            "",
+            700027174
+        ]
+    ],
+    [
+        "Dinner and Family Time",
+        "(18:14, 19:56)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Post-Dinner Relaxation",
+        "(20:46, 22:21)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:05, 23:59)",
+        [
+            "Pitt Cue",
+            700025948
+        ]
+    ]
+]

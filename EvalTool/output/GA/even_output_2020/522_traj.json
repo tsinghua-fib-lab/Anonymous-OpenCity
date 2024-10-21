@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002917
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:00)",
+        [
+            "",
+            700007815
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:24, 16:19)",
+        [
+            "",
+            700007805
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:36, 17:52)",
+        [
+            "Cleaver Memorial Church of God in Christ",
+            700000321
+        ]
+    ],
+    [
+        "stay",
+        "(23:05, 23:59)",
+        [
+            "Cleaver Memorial Church of God in Christ",
+            700000321
+        ]
+    ]
+]

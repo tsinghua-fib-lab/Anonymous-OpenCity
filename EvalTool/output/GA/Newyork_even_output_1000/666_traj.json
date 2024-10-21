@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001799
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:36)",
+        [
+            "Bank of America",
+            700014796
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(11:12, 12:40)",
+        [
+            "Bank of America",
+            700014796
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(12:40, 13:54)",
+        [
+            "Bank of America",
+            700014796
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:05, 19:20)",
+        [
+            "375° Thrice Cooked Fries",
+            700014799
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:41, 23:58)",
+        [
+            "Essex Pizza",
+            700021889
+        ]
+    ]
+]

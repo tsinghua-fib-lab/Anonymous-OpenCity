@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013449
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:09)",
+        [
+            "UCSF dental school clinic",
+            700001272
+        ]
+    ],
+    [
+        "Stay at UCSF dental school clinic.",
+        "(13:12, 14:41)",
+        [
+            "",
+            700008309
+        ]
+    ],
+    [
+        "Stay at UCSF dental school clinic.",
+        "(15:37, 17:15)",
+        [
+            "EzCare Clinic",
+            700007430
+        ]
+    ],
+    [
+        "Stay at UCSF Dental School Clinic",
+        "(18:00, 19:29)",
+        [
+            "",
+            700008325
+        ]
+    ],
+    [
+        "Stay at UCSF dental school clinic",
+        "(19:51, 21:10)",
+        [
+            "",
+            700008309
+        ]
+    ],
+    [
+        "Stay at UCSF dental school clinic",
+        "(21:19, 22:55)",
+        [
+            "",
+            700008309
+        ]
+    ],
+    [
+        "Stay at UCSF dental school clinic",
+        "(23:04, 23:59)",
+        [
+            "The Orbit Room",
+            700000848
+        ]
+    ]
+]

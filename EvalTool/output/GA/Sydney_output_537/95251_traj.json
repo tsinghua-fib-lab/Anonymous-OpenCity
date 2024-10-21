@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005018
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:52)",
+        [
+            "",
+            700022575
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 16:41)",
+        [
+            "Peace Harmony",
+            700006513
+        ]
+    ],
+    [
+        "Stay at 'Peace Harmony'.",
+        "(12:23, 14:05)",
+        [
+            "Peace Harmony",
+            700006513
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:23, 18:55)",
+        [
+            "Kingsleys Australian Steakhouse",
+            700008253
+        ]
+    ],
+    [
+        "Engage in a hobby (e.g., reading, gaming, or crafting)",
+        "(17:26, 18:56)",
+        [
+            "Since I Left You",
+            700005784
+        ]
+    ],
+    [
+        "Stay at Since I Left You.",
+        "(19:43, 21:48)",
+        [
+            "Lobo Plantation",
+            700008297
+        ]
+    ],
+    [
+        "Stay at Since I Left You.",
+        "(22:01, 23:21)",
+        [
+            "Since I Left You",
+            700005784
+        ]
+    ],
+    [
+        "Stay at Since I Left You",
+        "(23:25, 23:59)",
+        [
+            "Since I Left You",
+            700005784
+        ]
+    ]
+]

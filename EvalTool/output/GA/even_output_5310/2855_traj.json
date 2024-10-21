@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "icon 24hr Parking",
+            700009858
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:20)",
+        [
+            "",
+            700023597
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(12:23, 13:48)",
+        [
+            "",
+            700035025
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:49, 17:10)",
+        [
+            "",
+            700035014
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:14, 20:46)",
+        [
+            "icon 24hr Parking",
+            700009858
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:04, 21:38)",
+        [
+            "icon 24hr Parking",
+            700009858
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:03, 23:59)",
+        [
+            "",
+            700002650
+        ]
+    ],
+    [
+        "Sleep at icon 24hr Parking",
+        "(23:31, 23:59)",
+        [
+            "icon 24hr Parking",
+            700009858
+        ]
+    ]
+]

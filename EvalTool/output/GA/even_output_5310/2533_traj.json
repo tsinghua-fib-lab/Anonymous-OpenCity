@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000824
+        ]
+    ],
+    [
+        "Outdoor Walk or Jog",
+        "(10:00, 11:10)",
+        [
+            "Slate",
+            700007827
+        ]
+    ],
+    [
+        "Outdoor Walk or Jog",
+        "(11:06, 13:00)",
+        [
+            "",
+            700002750
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:40, 16:17)",
+        [
+            "Starbucks",
+            700016701
+        ]
+    ],
+    [
+        "Relaxation & Self-Care",
+        "(16:54, 18:05)",
+        [
+            "Starbucks",
+            700016701
+        ]
+    ],
+    [
+        "Dinner Preparation or Dining Out",
+        "(18:51, 20:21)",
+        [
+            "Grandma’s Home",
+            700039839
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:25, 23:59)",
+        [
+            "Slate",
+            700007827
+        ]
+    ],
+    [
+        "Dinner Preparation or Dining Out",
+        "(23:48, 23:59)",
+        [
+            "Bank of America",
+            700006153
+        ]
+    ]
+]

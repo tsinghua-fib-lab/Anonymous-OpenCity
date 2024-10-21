@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:42)",
+        [
+            "",
+            700018138
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:26, 12:44)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Lunch and Leisure Time",
+        "(13:01, 14:37)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(15:17, 16:59)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:18, 18:58)",
+        [
+            "",
+            700018659
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(19:15, 20:57)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(21:31, 22:57)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(23:15, 23:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ]
+]

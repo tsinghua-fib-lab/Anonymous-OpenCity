@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003116
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:22)",
+        [
+            "",
+            700009222
+        ]
+    ],
+    [
+        "Current place: unknown, stay until 2:00 PM for lunch",
+        "(12:39, 14:29)",
+        [
+            "Citi Bike - Central Park South & 6th Avenue",
+            700007541
+        ]
+    ],
+    [
+        "Stay until 2:00 PM",
+        "(15:33, 17:32)",
+        [
+            "Citi Bike - Central Park South & 6th Avenue",
+            700007541
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:49, 19:25)",
+        [
+            "",
+            700003574
+        ]
+    ],
+    [
+        "Stay at Keys & Heels for relaxation.",
+        "(20:49, 22:04)",
+        [
+            "",
+            700018173
+        ]
+    ],
+    [
+        "Stay at Uva Next Door for drinks.",
+        "(22:41, 23:59)",
+        [
+            "Citi Bike - Central Park South & 6th Avenue",
+            700007541
+        ]
+    ]
+]

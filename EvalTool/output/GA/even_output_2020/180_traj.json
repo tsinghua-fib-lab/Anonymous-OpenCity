@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Uncle Vito's Pizzeria",
+            700003101
+        ]
+    ],
+    [
+        "Go for a workout or engage in a sport",
+        "(10:00, 11:22)",
+        [
+            "",
+            700008710
+        ]
+    ],
+    [
+        "Go for a workout or engage in a sport.",
+        "(11:46, 13:11)",
+        [
+            "Un-Scripted Theater Company®",
+            700003064
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:50, 14:45)",
+        [
+            "Pacific Cocktail Haven",
+            700004851
+        ]
+    ],
+    [
+        "Wind down the evening with a book or listening to music.",
+        "(19:20, 20:50)",
+        [
+            "Pacific Cocktail Haven",
+            700004851
+        ]
+    ],
+    [
+        "Wind down the evening with a book or listening to music.",
+        "(21:41, 22:56)",
+        [
+            "Pacific Cocktail Haven",
+            700004851
+        ]
+    ],
+    [
+        "Stay at home and wind down the evening with a book or listening to music.",
+        "(23:36, 23:59)",
+        [
+            "Obscenity Bar & Lounge",
+            700005104
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Northwell Health-GoHealth Urgent Care",
+            700013557
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:58)",
+        [
+            "",
+            700021676
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:43, 16:49)",
+        [
+            "",
+            700002503
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:49, 21:50)",
+        [
+            "OM",
+            700023446
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:59)",
+        [
+            "Starbucks",
+            700007376
+        ]
+    ]
+]

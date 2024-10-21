@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:51)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:08, 11:17)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Continue with Personal Projects or Hobbies",
+        "(11:27, 13:10)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Continue with Personal Projects or Hobbies",
+        "(13:39, 15:16)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Continue with Outdoor Activity or Sports.",
+        "(15:16, 17:08)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Continue with Outdoor Activity or Sports.",
+        "(17:17, 18:57)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:09, 21:46)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:13, 23:59)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ]
+]

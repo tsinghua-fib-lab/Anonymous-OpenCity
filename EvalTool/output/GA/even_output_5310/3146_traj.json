@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Public School MO94",
+            700000405
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(09:00, 10:27)",
+        [
+            "Public School MO94",
+            700000405
+        ]
+    ],
+    [
+        "Lunch",
+        "(10:56, 12:57)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 15:38)",
+        [
+            "Public School MO94",
+            700000405
+        ]
+    ],
+    [
+        "Lunch",
+        "(17:55, 19:23)",
+        [
+            "Public School M188 The Island School",
+            700000020
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(20:23, 21:47)",
+        [
+            "Public School M188 The Island School",
+            700000020
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:39, 23:30)",
+        [
+            "",
+            700011045
+        ]
+    ]
+]

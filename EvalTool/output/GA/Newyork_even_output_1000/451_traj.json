@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gotham Archery",
+            700015005
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:54)",
+        [
+            "Tesla Supercharger",
+            700016581
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 16:47)",
+        [
+            "Lucky King Bakery",
+            700019349
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 17:04)",
+        [
+            "Smoove Ice Cream & Kulu Desserts",
+            700005433
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:23, 21:42)",
+        [
+            "Bo Law Kung Fu",
+            700019350
+        ]
+    ],
+    [
+        "Evening Wind Down with Reading",
+        "(22:03, 23:40)",
+        [
+            "Kodawari",
+            700037448
+        ]
+    ],
+    [
+        "Evening Wind Down with Reading",
+        "(23:58, 23:59)",
+        [
+            "",
+            700028265
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Urban Hawker",
+            700027588
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:00)",
+        [
+            "Gregory’s coffee",
+            700032007
+        ]
+    ],
+    [
+        "meet up with friends or family for coffee",
+        "(12:52, 13:53)",
+        [
+            "Gregory’s coffee",
+            700032007
+        ]
+    ],
+    [
+        "Spend time on a personal project or hobby.",
+        "(14:07, 16:50)",
+        [
+            "Gregory’s coffee",
+            700032007
+        ]
+    ],
+    [
+        "Meet up with friends or family for coffee or a light snack at a nearby café.",
+        "(17:17, 18:57)",
+        [
+            "Gregory’s coffee",
+            700032007
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 23:03)",
+        [
+            "",
+            700002776
+        ]
+    ],
+    [
+        "Stay at Rubby Pizzeria Restaurant.",
+        "(23:21, 23:59)",
+        [
+            "Urban Hawker",
+            700027588
+        ]
+    ]
+]

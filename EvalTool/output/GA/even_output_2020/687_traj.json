@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mission Hill Saloon",
+            700004521
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:10)",
+        [
+            "Bobo’s Cafe",
+            700013345
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:33, 13:07)",
+        [
+            "The Morris",
+            700004942
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:55, 18:45)",
+        [
+            "",
+            700000031
+        ]
+    ],
+    [
+        "Go to The Morris",
+        "(19:52, 21:00)",
+        [
+            "Asiento",
+            700003033
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:05, 23:59)",
+        [
+            "True Laurel",
+            700010876
+        ]
+    ]
+]

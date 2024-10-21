@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010787
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:32)",
+        [
+            "Zabar Art Library",
+            700017366
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:31, 13:58)",
+        [
+            "Zabar Art Library",
+            700017366
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 19:47)",
+        [
+            "",
+            700018006
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:40, 22:33)",
+        [
+            "Dominican Academy",
+            700000281
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(23:56, 23:59)",
+        [
+            "Zabar Art Library",
+            700017366
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bondi Wholefoods",
+            700010488
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:34)",
+        [
+            "",
+            700009098
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:41, 16:05)",
+        [
+            "Blacksmith",
+            700006028
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:56, 19:56)",
+        [
+            "",
+            700002736
+        ]
+    ],
+    [
+        "Errands/Personal Projects",
+        "(19:57, 21:07)",
+        [
+            "Bondi Wholefoods",
+            700010488
+        ]
+    ],
+    [
+        "Have dinner",
+        "(21:31, 23:07)",
+        [
+            "Nada's Restaurant",
+            700010511
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Fatima's",
+            700010512
+        ]
+    ]
+]

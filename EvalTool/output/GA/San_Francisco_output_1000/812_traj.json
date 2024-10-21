@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wells Fargo",
+            700003285
+        ]
+    ],
+    [
+        "go for a relaxing walk in the park",
+        "(10:00, 11:06)",
+        [
+            "",
+            700000650
+        ]
+    ],
+    [
+        "You are currently at Wells Fargo.",
+        "(11:12, 12:46)",
+        [
+            "Tai Chi Restaurant",
+            700002099
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:53, 14:25)",
+        [
+            "Tai Chi Restaurant",
+            700002099
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 19:03)",
+        [
+            "Tai Chi Restaurant",
+            700002099
+        ]
+    ],
+    [
+        "You are currently at Wells Fargo.",
+        "(21:27, 22:52)",
+        [
+            "Tai Chi Restaurant",
+            700002099
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(23:57, 23:59)",
+        [
+            "Tai Chi Restaurant",
+            700002099
+        ]
+    ]
+]

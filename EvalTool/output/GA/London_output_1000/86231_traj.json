@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Reading or Personal Development",
+        "(09:00, 10:25)",
+        [
+            "",
+            700019759
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:13, 15:16)",
+        [
+            "Zipcar Van",
+            700015811
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:23, 21:36)",
+        [
+            "",
+            700024464
+        ]
+    ],
+    [
+        "Stay at Tudor Rose Court.",
+        "(22:48, 23:59)",
+        [
+            "Zipcar Van",
+            700015811
+        ]
+    ]
+]

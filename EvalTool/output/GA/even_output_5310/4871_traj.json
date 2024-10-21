@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Zazzy's Pizza",
+            700015899
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:37)",
+        [
+            "Zazzy's Pizza",
+            700015899
+        ]
+    ],
+    [
+        "next outdoor activities",
+        "(12:10, 13:45)",
+        [
+            "Mr Purple",
+            700009205
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:27, 18:20)",
+        [
+            "Zazzy's Pizza",
+            700015899
+        ]
+    ],
+    [
+        "Relaxation and Leisure",
+        "(16:55, 17:53)",
+        [
+            "Arlene's Grocery",
+            700005419
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:50, 23:59)",
+        [
+            "",
+            700002510
+        ]
+    ],
+    [
+        "Stay at Chomp Chomp",
+        "(23:40, 23:59)",
+        [
+            "Citi Bike - Allen Street & East Houston Street",
+            700007949
+        ]
+    ]
+]

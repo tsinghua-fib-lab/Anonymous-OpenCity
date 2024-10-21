@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700039226
+        ]
+    ],
+    [
+        "Go for a morning walk or light jog",
+        "(09:00, 10:22)",
+        [
+            "Citi Bike",
+            700039222
+        ]
+    ],
+    [
+        "Spend some time at Citi Bike.",
+        "(10:38, 11:58)",
+        [
+            "Citi Bike",
+            700039222
+        ]
+    ],
+    [
+        "Spend some time on a hobby or personal project, such as coding, designing, or crafting.",
+        "(12:07, 13:28)",
+        [
+            "Citi Bike",
+            700039222
+        ]
+    ],
+    [
+        "Stay at Citi Bike.",
+        "(14:11, 15:45)",
+        [
+            "Citi Bike",
+            700039222
+        ]
+    ],
+    [
+        "Stay at Citi Bike.",
+        "(16:40, 18:11)",
+        [
+            "Citi Bike",
+            700039222
+        ]
+    ],
+    [
+        "Stay at Citi Bike.",
+        "(18:27, 19:55)",
+        [
+            "Citi Bike",
+            700039222
+        ]
+    ],
+    [
+        "Stay at Bluestone Lane",
+        "(20:35, 23:23)",
+        [
+            "Smile Direct Club",
+            700006529
+        ]
+    ],
+    [
+        "Stay at Citi Bike",
+        "(23:28, 23:59)",
+        [
+            "Citi Bike",
+            700039222
+        ]
+    ]
+]

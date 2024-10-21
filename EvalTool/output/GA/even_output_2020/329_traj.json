@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Franklin Street Apartments",
+            700009446
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:20)",
+        [
+            "Lutheran Church of the Holy Chapel",
+            700000230
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:44, 13:01)",
+        [
+            "Lutheran Church of the Holy Chapel",
+            700000230
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:15, 14:32)",
+        [
+            "Amélie",
+            700002805
+        ]
+    ],
+    [
+        "Participate in some activities at Lutheran Church of the Holy Chapel.",
+        "(17:10, 18:40)",
+        [
+            "Amélie",
+            700002805
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:23, 23:01)",
+        [
+            "",
+            700009527
+        ]
+    ],
+    [
+        "Participate in some activities at Lutheran Church of the Holy Chapel.",
+        "(23:40, 23:59)",
+        [
+            "Lutheran Church of the Holy Chapel",
+            700000230
+        ]
+    ]
+]

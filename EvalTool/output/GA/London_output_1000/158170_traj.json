@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:54)",
+        [
+            "",
+            700054512
+        ]
+    ],
+    [
+        "Have lunch and catch up with friends or family.",
+        "(12:25, 14:04)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Have lunch and catch up with friends or family.",
+        "(14:18, 15:51)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(16:15, 17:45)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 23:50)",
+        [
+            "",
+            700054512
+        ]
+    ],
+    [
+        "Stay at Dragon Court",
+        "(22:41, 23:59)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ]
+]

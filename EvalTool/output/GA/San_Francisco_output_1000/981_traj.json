@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "World Class Boxing",
+            700005823
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:39)",
+        [
+            "",
+            700008298
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(12:59, 14:00)",
+        [
+            "World Class Boxing",
+            700005823
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 19:26)",
+        [
+            "",
+            700014194
+        ]
+    ],
+    [
+        "Watch TV or relax before bed",
+        "(20:35, 21:53)",
+        [
+            "Cocina Mayah Restaurant",
+            700010698
+        ]
+    ],
+    [
+        "Next activity after relaxing day",
+        "(22:24, 23:50)",
+        [
+            "Cocina Mayah Restaurant",
+            700010698
+        ]
+    ],
+    [
+        "Next activity after relaxing day",
+        "(23:46, 23:59)",
+        [
+            "Cocina Mayah Restaurant",
+            700010698
+        ]
+    ]
+]

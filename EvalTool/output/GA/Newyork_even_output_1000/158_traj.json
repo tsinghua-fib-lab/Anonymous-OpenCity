@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The UPS Store",
+            700005266
+        ]
+    ],
+    [
+        "Morning walk or light exercise.",
+        "(09:00, 09:53)",
+        [
+            "The UPS Store",
+            700005266
+        ]
+    ],
+    [
+        "Go for a morning walk or light exercise.",
+        "(10:21, 11:56)",
+        [
+            "The UPS Store",
+            700005266
+        ]
+    ],
+    [
+        "Spend some time reading or catching up on the news",
+        "(12:21, 13:50)",
+        [
+            "The UPS Store",
+            700005266
+        ]
+    ],
+    [
+        "Spend some time reading or catching up on the news",
+        "(14:07, 16:02)",
+        [
+            "The UPS Store",
+            700005266
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:53, 19:42)",
+        [
+            "Dunkin'",
+            700007520
+        ]
+    ],
+    [
+        "Spend engaging in a fun hobby or creative activity.",
+        "(19:14, 21:09)",
+        [
+            "Chipotle",
+            700007348
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:10, 23:59)",
+        [
+            "Chipotle",
+            700007348
+        ]
+    ]
+]

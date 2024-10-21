@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:39)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:51, 13:31)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "Exploring a Local Attraction",
+        "(13:58, 15:35)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(15:36, 17:15)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:58, 23:34)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Stay at So Gong Dong",
+        "(22:57, 23:59)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ]
+]

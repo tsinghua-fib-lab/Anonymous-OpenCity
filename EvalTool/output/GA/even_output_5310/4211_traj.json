@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Church Street Boxing",
+            700019792
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:42)",
+        [
+            "Church Street Boxing",
+            700019792
+        ]
+    ],
+    [
+        "Leisure Reading/TV",
+        "(15:41, 17:01)",
+        [
+            "Church Street Boxing",
+            700019792
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:59, 23:41)",
+        [
+            "",
+            700019791
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "",
+            700018839
+        ]
+    ]
+]

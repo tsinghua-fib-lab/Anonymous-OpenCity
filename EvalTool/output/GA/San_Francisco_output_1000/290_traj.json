@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013599
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:57)",
+        [
+            "Walgreens",
+            700005118
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 20:09)",
+        [
+            "",
+            700007362
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 21:53)",
+        [
+            "Taxi Stand at Marriott Fisherman's Wharf (along North Point Street)",
+            700009953
+        ]
+    ],
+    [
+        "Stay at the Taxi Stand at Marriott Fisherman's Wharf",
+        "(22:45, 23:59)",
+        [
+            "",
+            700007496
+        ]
+    ]
+]

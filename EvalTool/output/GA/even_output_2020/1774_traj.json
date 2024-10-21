@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Karahi House",
+            700001132
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:50)",
+        [
+            "Victor's Pizzeria & Restaurant",
+            700001126
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:09, 16:51)",
+        [
+            "Providence",
+            700001118
+        ]
+    ],
+    [
+        "Meet friends or family for coffee or engage in an outdoor activity.",
+        "(17:10, 19:01)",
+        [
+            "Fresco Pizza Grill Shawerma",
+            700007996
+        ]
+    ],
+    [
+        "Go to Fresco Pizza Grill Shawerma",
+        "(19:22, 20:55)",
+        [
+            "Fresco Pizza Grill Shawerma",
+            700007996
+        ]
+    ],
+    [
+        "Go to Fresco Pizza Grill Shawerma",
+        "(21:57, 23:56)",
+        [
+            "Fresco Pizza Grill Shawerma",
+            700007996
+        ]
+    ],
+    [
+        "Stay at Fresco Pizza Grill Shawerma.",
+        "(23:58, 23:59)",
+        [
+            "Fresco Pizza Grill Shawerma",
+            700007996
+        ]
+    ]
+]

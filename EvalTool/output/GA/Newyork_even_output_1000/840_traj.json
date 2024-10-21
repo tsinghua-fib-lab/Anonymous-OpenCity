@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001491
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:40)",
+        [
+            "The Broken Shaker",
+            700006214
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:54, 18:37)",
+        [
+            "Smile To Go",
+            700016866
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(16:00, 17:07)",
+        [
+            "",
+            700001491
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(17:00, 18:10)",
+        [
+            "CoCo Fresh Tea & Juice",
+            700003973
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(18:22, 19:50)",
+        [
+            "",
+            700001491
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(20:24, 22:05)",
+        [
+            "",
+            700002337
+        ]
+    ],
+    [
+        "next arrangement after 22:51",
+        "(22:51, 23:59)",
+        [
+            "Frank's Pizza",
+            700004205
+        ]
+    ]
+]

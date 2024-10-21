@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Caedmon School",
+            700007377
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:28)",
+        [
+            "",
+            700002503
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(11:47, 13:08)",
+        [
+            "The Caedmon School",
+            700007377
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 19:10)",
+        [
+            "",
+            700040440
+        ]
+    ],
+    [
+        "Grocery Shopping/Errands",
+        "(15:30, 17:02)",
+        [
+            "The Caedmon School",
+            700007377
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:47, 20:44)",
+        [
+            "Starbucks",
+            700007376
+        ]
+    ],
+    [
+        "Stay at Starbucks.",
+        "(23:17, 23:59)",
+        [
+            "Starbucks",
+            700007376
+        ]
+    ]
+]

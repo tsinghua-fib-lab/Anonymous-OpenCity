@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "787 Coffee",
+            700015588
+        ]
+    ],
+    [
+        "Go for a run or workout at the gym.",
+        "(10:00, 11:30)",
+        [
+            "Kingston Hall",
+            700010019
+        ]
+    ],
+    [
+        "Go for a run or workout at the gym",
+        "(11:55, 12:58)",
+        [
+            "Kingston Hall",
+            700010019
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:37, 15:03)",
+        [
+            "Decibel",
+            700024693
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:43, 23:33)",
+        [
+            "Downtown Social",
+            700024688
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:26, 23:59)",
+        [
+            "Uluh",
+            700025690
+        ]
+    ]
+]

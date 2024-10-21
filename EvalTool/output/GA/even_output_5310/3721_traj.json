@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Our Lady of Sorrows School",
+            700000191
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:18)",
+        [
+            "Citi Bike - E 2 St & Avenue C",
+            700008032
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:17, 13:52)",
+        [
+            "",
+            700014770
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:43, 16:04)",
+        [
+            "Link NYC",
+            700021675
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:23, 20:44)",
+        [
+            "Koku Ramen",
+            700023640
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(20:25, 22:03)",
+        [
+            "Koku Ramen",
+            700023640
+        ]
+    ],
+    [
+        "Stay at Koku Ramen",
+        "(22:45, 23:59)",
+        [
+            "Hong Chun Cheon Dak Galbi",
+            700023638
+        ]
+    ]
+]

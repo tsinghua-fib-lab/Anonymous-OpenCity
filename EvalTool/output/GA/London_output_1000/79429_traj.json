@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:32)",
+        [
+            "Pitt Cue",
+            700025948
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 14:59)",
+        [
+            "",
+            700003238
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:03, 18:00)",
+        [
+            "Enoteca da Luca",
+            700019572
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:04, 23:59)",
+        [
+            "Pitt Cue",
+            700025948
+        ]
+    ]
+]

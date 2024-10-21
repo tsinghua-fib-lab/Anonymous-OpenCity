@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The World Bar",
+            700015052
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:50)",
+        [
+            "Community Board Six Manhattan",
+            700009867
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:11, 15:30)",
+        [
+            "",
+            700030733
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:19, 21:42)",
+        [
+            "",
+            700030730
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:42, 23:59)",
+        [
+            "Community Board Six Manhattan",
+            700009867
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:31, 23:59)",
+        [
+            "",
+            700030727
+        ]
+    ]
+]

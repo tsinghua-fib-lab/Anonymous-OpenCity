@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pasteur",
+            700005318
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:00, 11:23)",
+        [
+            "Pho Thanh Hoai",
+            700014455
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:08, 15:19)",
+        [
+            "Citi Bike - Bayard Street & Baxter Street",
+            700007959
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 17:49)",
+        [
+            "",
+            700037586
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:57, 22:19)",
+        [
+            "",
+            700037547
+        ]
+    ],
+    [
+        "Dinner Preparation/Cooking",
+        "(19:21, 19:52)",
+        [
+            "Pasteur",
+            700005318
+        ]
+    ],
+    [
+        "Dinner Preparation/Cooking",
+        "(20:29, 21:50)",
+        [
+            "Chinatown Community Fridge & Pantry",
+            700026441
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:50, 23:59)",
+        [
+            "Thai Son",
+            700014720
+        ]
+    ]
+]

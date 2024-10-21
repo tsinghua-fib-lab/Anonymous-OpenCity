@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Williamsburg Pizza",
+            700023649
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:05)",
+        [
+            "Williamsburg Pizza",
+            700023649
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:24, 11:54)",
+        [
+            "Zest Ramen",
+            700019348
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:58, 15:07)",
+        [
+            "",
+            700001428
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:18, 19:50)",
+        [
+            "Williamsburg Pizza",
+            700023649
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(20:28, 23:59)",
+        [
+            "Williamsburg Pizza",
+            700023649
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(21:35, 22:50)",
+        [
+            "Williamsburg Pizza",
+            700023649
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(23:04, 23:59)",
+        [
+            "Williamsburg Pizza",
+            700023649
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003086
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:00, 12:00)",
+        [
+            "",
+            700001906
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 14:30)",
+        [
+            "Casa Agave",
+            700009837
+        ]
+    ],
+    [
+        "Relaxation and Leisure",
+        "(18:32, 20:12)",
+        [
+            "Casa Agave",
+            700009837
+        ]
+    ],
+    [
+        "Relaxation and Leisure",
+        "(20:25, 22:07)",
+        [
+            "Casa Agave",
+            700009837
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:26, 23:59)",
+        [
+            "Abace Sushi",
+            700009835
+        ]
+    ]
+]

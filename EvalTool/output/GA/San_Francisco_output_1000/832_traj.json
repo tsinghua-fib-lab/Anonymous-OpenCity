@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Moka Coffee",
+            700001133
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:00, 11:00)",
+        [
+            "Moka Coffee",
+            700001133
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(11:51, 13:23)",
+        [
+            "Moka Coffee",
+            700001133
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(13:50, 15:24)",
+        [
+            "Moka Coffee",
+            700001133
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:51, 18:34)",
+        [
+            "Live Fit Gym",
+            700000656
+        ]
+    ],
+    [
+        "Watching Sports or TV",
+        "(19:28, 20:55)",
+        [
+            "Live Fit Gym",
+            700000656
+        ]
+    ],
+    [
+        "Watching Sports or TV",
+        "(21:29, 23:12)",
+        [
+            "Kozy Kar",
+            700006027
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "Hoi.An",
+            700001136
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Burger Co",
+            700004319
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:43)",
+        [
+            "Chase",
+            700004320
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:14, 16:49)",
+        [
+            "",
+            700001934
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:40, 18:26)",
+        [
+            "Chase",
+            700004320
+        ]
+    ],
+    [
+        "Late Afternoon Relaxation",
+        "(21:27, 23:59)",
+        [
+            "",
+            700001322
+        ]
+    ],
+    [
+        "Late Afternoon Relaxation",
+        "(23:20, 23:59)",
+        [
+            "New York Burger Co",
+            700004319
+        ]
+    ]
+]

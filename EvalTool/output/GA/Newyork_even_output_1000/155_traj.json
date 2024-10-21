@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Cooke Center Academy",
+            700006247
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:01)",
+        [
+            "",
+            700006259
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(11:37, 13:11)",
+        [
+            "Go Noodle",
+            700039313
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 18:55)",
+        [
+            "",
+            700030115
+        ]
+    ],
+    [
+        "Watch a Movie/TV Series",
+        "(16:10, 18:10)",
+        [
+            "",
+            700030124
+        ]
+    ],
+    [
+        "Watch a Movie/TV Series",
+        "(18:39, 20:03)",
+        [
+            "",
+            700030124
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(20:23, 21:49)",
+        [
+            "Sasabune Express",
+            700040591
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:08, 23:59)",
+        [
+            "Go Noodle",
+            700039313
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:55, 23:59)",
+        [
+            "Go Noodle",
+            700039313
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Raspoutine",
+            700046622
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:23)",
+        [
+            "",
+            700048312
+        ]
+    ],
+    [
+        "Engage in a hobby or creative activity.",
+        "(15:58, 16:50)",
+        [
+            "Raspoutine",
+            700046622
+        ]
+    ],
+    [
+        "Stay engaging in a hobby or creative activity.",
+        "(17:48, 19:05)",
+        [
+            "Raspoutine",
+            700046622
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:58, 23:07)",
+        [
+            "",
+            700008159
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "",
+            700012022
+        ]
+    ]
+]

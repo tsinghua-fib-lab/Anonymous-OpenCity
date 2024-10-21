@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002898
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:41)",
+        [
+            "",
+            700002896
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:19, 17:30)",
+        [
+            "",
+            700005612
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:37, 20:28)",
+        [
+            "",
+            700005618
+        ]
+    ],
+    [
+        "Stay at The Fillmore Street Cafe",
+        "(20:33, 21:54)",
+        [
+            "The Fillmore Street Cafe",
+            700002343
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(22:33, 23:59)",
+        [
+            "The Fillmore Street Cafe",
+            700002343
+        ]
+    ]
+]

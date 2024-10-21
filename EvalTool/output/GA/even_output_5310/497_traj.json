@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Burger Joint",
+            700006305
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:01)",
+        [
+            "The Roof",
+            700013140
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:35, 13:52)",
+        [
+            "The Roof",
+            700013140
+        ]
+    ],
+    [
+        "Personal Hobbies or DIY Projects",
+        "(14:57, 16:08)",
+        [
+            "The Roof",
+            700013140
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:15, 17:54)",
+        [
+            "The Roof",
+            700013140
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 23:22)",
+        [
+            "",
+            700009291
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "",
+            700025742
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700007376
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:16)",
+        [
+            "Saint Stephen of Hungary School",
+            700000297
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:19, 17:23)",
+        [
+            "Saint Stephen of Hungary School",
+            700000297
+        ]
+    ],
+    [
+        "Relax and Watch a Movie",
+        "(16:18, 17:47)",
+        [
+            "",
+            700021610
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:55, 20:36)",
+        [
+            "Emack & Bolio's",
+            700008954
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:51, 23:59)",
+        [
+            "Zaab PuTawn",
+            700014840
+        ]
+    ]
+]

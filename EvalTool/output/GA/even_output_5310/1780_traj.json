@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002289
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:00)",
+        [
+            "Moti Mahal Delux",
+            700006522
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:10, 16:16)",
+        [
+            "Baker Street Pub",
+            700009362
+        ]
+    ],
+    [
+        "Relax and Unwind",
+        "(16:11, 18:09)",
+        [
+            "India Palace",
+            700007628
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:29, 22:29)",
+        [
+            "",
+            700006036
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "Ritz Diner",
+            700006524
+        ]
+    ]
+]

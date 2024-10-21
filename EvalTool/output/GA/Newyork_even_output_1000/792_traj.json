@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 24th Street & Park Avenue South",
+            700008037
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:34)",
+        [
+            "Manhattan Cardiovascular Associates",
+            700009346
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:19, 13:12)",
+        [
+            "Park Avenue Summer",
+            700017458
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:56, 17:07)",
+        [
+            "",
+            700001047
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:18, 23:59)",
+        [
+            "Park Avenue Autumn",
+            700017456
+        ]
+    ]
+]

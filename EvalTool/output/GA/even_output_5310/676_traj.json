@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700021668
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:07)",
+        [
+            "Dunkin' Donuts/Baskin Robbins",
+            700015289
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:26, 17:56)",
+        [
+            "One Two Thai",
+            700007488
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 20:32)",
+        [
+            "Le Parisien",
+            700008336
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:28, 19:02)",
+        [
+            "Le Parisien",
+            700008336
+        ]
+    ],
+    [
+        "Go to Hole In The Wall.",
+        "(19:04, 20:37)",
+        [
+            "Phoshime",
+            700008338
+        ]
+    ],
+    [
+        "Go to Phoshime",
+        "(21:09, 22:46)",
+        [
+            "Phoshime",
+            700008338
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "Matto Espresso",
+            700008339
+        ]
+    ]
+]

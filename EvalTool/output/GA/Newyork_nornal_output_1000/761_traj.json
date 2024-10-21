@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Manhattan Cardiovascular Associates",
+            700009346
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:37)",
+        [
+            "",
+            700026434
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:34, 13:12)",
+        [
+            "Manhattan Cardiovascular Associates",
+            700009346
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:54, 15:05)",
+        [
+            "Manhattan Cardiovascular Associates",
+            700009346
+        ]
+    ],
+    [
+        "Next activity after Leisure Time",
+        "(15:40, 17:09)",
+        [
+            "Manhattan Eye Specialists",
+            700010048
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 22:04)",
+        [
+            "",
+            700001047
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 23:06)",
+        [
+            "",
+            700001547
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "",
+            700002037
+        ]
+    ]
+]

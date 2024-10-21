@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001563
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:06)",
+        [
+            "",
+            700002663
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(12:59, 13:52)",
+        [
+            "MoMo",
+            700018125
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 19:57)",
+        [
+            "",
+            700002328
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(20:51, 22:25)",
+        [
+            "MoMo",
+            700018125
+        ]
+    ],
+    [
+        "Stay at Gupshup",
+        "(22:44, 23:59)",
+        [
+            "Daily Provisions",
+            700013079
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:50, 23:59)",
+        [
+            "Daily Provisions",
+            700013079
+        ]
+    ]
+]

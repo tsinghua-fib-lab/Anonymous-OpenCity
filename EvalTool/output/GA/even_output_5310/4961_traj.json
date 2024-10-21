@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001013
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:29)",
+        [
+            "",
+            700020208
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(13:53, 15:23)",
+        [
+            "",
+            700001180
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(15:19, 16:59)",
+        [
+            "",
+            700001180
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(16:32, 17:55)",
+        [
+            "Emmy Squared",
+            700017946
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 22:43)",
+        [
+            "The Chippery",
+            700027738
+        ]
+    ],
+    [
+        "Stay at Emmy Squared",
+        "(20:27, 21:48)",
+        [
+            "Dunkin Donuts",
+            700039853
+        ]
+    ],
+    [
+        "Stay at Emmy Squared",
+        "(22:17, 23:43)",
+        [
+            "Hunan Slurp",
+            700014417
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "Caravan of Dreams",
+            700009031
+        ]
+    ]
+]

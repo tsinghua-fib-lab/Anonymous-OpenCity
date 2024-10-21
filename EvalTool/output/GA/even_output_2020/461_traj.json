@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010266
+        ]
+    ],
+    [
+        "Breakfast at home.",
+        "(10:00, 10:56)",
+        [
+            "Central Gardens",
+            700002143
+        ]
+    ],
+    [
+        "Go for a mid-morning walk or light jog in the park",
+        "(11:55, 12:55)",
+        [
+            "",
+            700010265
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 16:58)",
+        [
+            "",
+            700005703
+        ]
+    ],
+    [
+        "Spend time at home",
+        "(17:27, 18:53)",
+        [
+            "",
+            700010265
+        ]
+    ],
+    [
+        "Stay at Central Gardens",
+        "(19:19, 20:51)",
+        [
+            "Central Gardens",
+            700002143
+        ]
+    ],
+    [
+        "Spend time at home",
+        "(21:23, 23:11)",
+        [
+            "Central Gardens",
+            700002143
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "",
+            700010266
+        ]
+    ]
+]

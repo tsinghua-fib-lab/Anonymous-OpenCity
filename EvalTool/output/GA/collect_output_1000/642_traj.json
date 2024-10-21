@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:55)",
+        [
+            "Citi Bike - Barclay St & Church St",
+            700007810
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(12:17, 14:08)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(14:53, 16:46)",
+        [
+            "Citi Bike - Barclay St & Church St",
+            700007810
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:13, 22:13)",
+        [
+            "",
+            700036762
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(22:03, 23:57)",
+        [
+            "Citi Bike - Barclay St & Church St",
+            700007810
+        ]
+    ]
+]

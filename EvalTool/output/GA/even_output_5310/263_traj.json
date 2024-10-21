@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "M & Pizza",
+            700030590
+        ]
+    ],
+    [
+        "Morning Relaxation",
+        "(10:00, 11:32)",
+        [
+            "M & Pizza",
+            700030590
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:40, 12:58)",
+        [
+            "M & Pizza",
+            700030590
+        ]
+    ],
+    [
+        "Brunch",
+        "(13:19, 15:15)",
+        [
+            "M & Pizza",
+            700030590
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 17:26)",
+        [
+            "Marseille",
+            700004137
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 20:15)",
+        [
+            "Etcetera Etcetera",
+            700031747
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:31, 23:42)",
+        [
+            "Tim Ho Wan",
+            700026579
+        ]
+    ],
+    [
+        "Stay at Westway Diner for a late-night meal or dessert.",
+        "(23:28, 23:59)",
+        [
+            "Westway Diner",
+            700004138
+        ]
+    ]
+]

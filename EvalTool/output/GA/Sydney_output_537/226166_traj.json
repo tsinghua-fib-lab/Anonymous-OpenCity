@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Central Food Market",
+            700012096
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:00)",
+        [
+            "",
+            700006390
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(15:48, 17:53)",
+        [
+            "Central Food Market",
+            700012096
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:56, 23:59)",
+        [
+            "",
+            700013298
+        ]
+    ],
+    [
+        "Wind Down and Reflect",
+        "(20:48, 22:39)",
+        [
+            "Central Food Market",
+            700012096
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:12, 23:59)",
+        [
+            "",
+            700031276
+        ]
+    ]
+]

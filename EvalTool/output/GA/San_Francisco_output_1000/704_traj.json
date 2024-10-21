@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mo's Grill",
+            700000463
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 09:54)",
+        [
+            "Il Casaro Pizzeria",
+            700005472
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:07, 14:13)",
+        [
+            "Yarsa",
+            700005009
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:29, 18:21)",
+        [
+            "Maggie McGarrys",
+            700006897
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:50, 20:27)",
+        [
+            "Mo's Grill",
+            700000463
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:59)",
+        [
+            "Chubby Noodle",
+            700001681
+        ]
+    ]
+]

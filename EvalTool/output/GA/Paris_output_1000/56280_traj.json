@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bibliothèque Benoîte Groult",
+            700015613
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:53)",
+        [
+            "Bibliothèque Benoîte Groult",
+            700015613
+        ]
+    ],
+    [
+        "Go to Bibliothèque Benoîte Groult",
+        "(11:29, 12:53)",
+        [
+            "Bibliothèque Benoîte Groult",
+            700015613
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:38, 15:38)",
+        [
+            "",
+            700047781
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:54, 17:09)",
+        [
+            "Bibliothèque Benoîte Groult",
+            700015613
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:14, 19:05)",
+        [
+            "École élémentaire Jean Zay",
+            700024718
+        ]
+    ],
+    [
+        "Stay at École élémentaire Jean Zay",
+        "(19:58, 20:54)",
+        [
+            "Bibliothèque Benoîte Groult",
+            700015613
+        ]
+    ],
+    [
+        "Stay at École élémentaire Jean Zay.",
+        "(21:33, 23:07)",
+        [
+            "Bibliothèque Benoîte Groult",
+            700015613
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "Parking Gaité-Montparnasse",
+            700000064
+        ]
+    ]
+]

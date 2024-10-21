@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chase",
+            700004320
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:25)",
+        [
+            "Citi Bike - W 22 St & 10 Ave",
+            700008208
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 13:12)",
+        [
+            "Intelligentsia Café",
+            700040204
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(13:00, 14:06)",
+        [
+            "Citi Bike - W 22 St & 10 Ave",
+            700008208
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:29, 18:18)",
+        [
+            "",
+            700001322
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(17:15, 18:53)",
+        [
+            "Chase",
+            700004320
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:04, 20:42)",
+        [
+            "Chase",
+            700004320
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:40, 22:19)",
+        [
+            "Chase",
+            700004320
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(23:03, 23:59)",
+        [
+            "",
+            700031225
+        ]
+    ]
+]

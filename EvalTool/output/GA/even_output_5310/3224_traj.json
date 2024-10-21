@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700036882
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:41)",
+        [
+            "",
+            700036878
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:43, 14:18)",
+        [
+            "Zona Tribeca",
+            700018642
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:45, 17:20)",
+        [
+            "",
+            700036888
+        ]
+    ],
+    [
+        "Sports/Leisure Activity",
+        "(16:44, 18:05)",
+        [
+            "Zona Tribeca",
+            700018642
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:07, 23:27)",
+        [
+            "Zona Tribeca",
+            700018642
+        ]
+    ],
+    [
+        "Sports/Leisure Activity",
+        "(23:19, 23:59)",
+        [
+            "Karpov Orthodontics",
+            700009204
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700054788
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:25)",
+        [
+            "Le Perchoir",
+            700072647
+        ]
+    ],
+    [
+        "Enjoy leisure activities.",
+        "(12:13, 14:14)",
+        [
+            "Le Perchoir",
+            700072647
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 16:11)",
+        [
+            "La Serre",
+            700072646
+        ]
+    ],
+    [
+        "Enjoy leisure activities.",
+        "(20:47, 22:12)",
+        [
+            "La Serre",
+            700072646
+        ]
+    ],
+    [
+        "Stay at Five Guys.",
+        "(22:45, 23:59)",
+        [
+            "",
+            700011354
+        ]
+    ],
+    [
+        "Stay at Rosa Bonheur.",
+        "(23:56, 23:59)",
+        [
+            "Pizza Pasta Cosy",
+            700060529
+        ]
+    ]
+]

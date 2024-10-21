@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:46)",
+        [
+            "Aldersgate Street",
+            700011522
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(13:23, 14:50)",
+        [
+            "",
+            700071188
+        ]
+    ],
+    [
+        "Stay at your current place",
+        "(15:35, 17:08)",
+        [
+            "",
+            700033019
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:34, 21:24)",
+        [
+            "Aldersgate Street",
+            700011522
+        ]
+    ],
+    [
+        "Go out to Aldersgate Street.",
+        "(22:34, 23:59)",
+        [
+            "Aldersgate Street",
+            700011522
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030414
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 09:59)",
+        [
+            "",
+            700030413
+        ]
+    ],
+    [
+        "Lunch with friends or family.",
+        "(13:14, 14:46)",
+        [
+            "",
+            700037074
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a TV series.",
+        "(15:04, 16:43)",
+        [
+            "",
+            700037075
+        ]
+    ],
+    [
+        "Go out for a fun afternoon activity.",
+        "(16:56, 18:29)",
+        [
+            "",
+            700030414
+        ]
+    ],
+    [
+        "Go out for a fun afternoon activity",
+        "(19:16, 20:46)",
+        [
+            "",
+            700030403
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:43, 23:59)",
+        [
+            "",
+            700030400
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:01)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:17, 15:24)",
+        [
+            "",
+            700018908
+        ]
+    ],
+    [
+        "Go to 7th Street Burger",
+        "(18:40, 19:51)",
+        [
+            "7th Street Burger",
+            700025937
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:57)",
+        [
+            "Maestro Pasta",
+            700040209
+        ]
+    ]
+]

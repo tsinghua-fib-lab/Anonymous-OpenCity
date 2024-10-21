@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bist",
+            700020246
+        ]
+    ],
+    [
+        "Current place and extended stay",
+        "(10:00, 11:24)",
+        [
+            "Bist",
+            700020246
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:02, 17:17)",
+        [
+            "",
+            700066852
+        ]
+    ],
+    [
+        "Current place with extended stay.",
+        "(15:07, 16:29)",
+        [
+            "",
+            700064020
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:46, 19:33)",
+        [
+            "Bist",
+            700020246
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:18, 23:00)",
+        [
+            "Dr Nancy Salzman",
+            700042482
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:07, 23:59)",
+        [
+            "",
+            700072142
+        ]
+    ]
+]

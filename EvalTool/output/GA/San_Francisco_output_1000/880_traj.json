@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000762
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(09:00, 09:59)",
+        [
+            "",
+            700000762
+        ]
+    ],
+    [
+        "Catch up on household chores",
+        "(10:54, 11:57)",
+        [
+            "",
+            700000762
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 13:56)",
+        [
+            "",
+            700008802
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:37, 19:38)",
+        [
+            "",
+            700000471
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 22:36)",
+        [
+            "",
+            700008802
+        ]
+    ],
+    [
+        "Next place after watching a movie or TV show in Situation_1",
+        "(23:03, 23:59)",
+        [
+            "",
+            700008802
+        ]
+    ]
+]

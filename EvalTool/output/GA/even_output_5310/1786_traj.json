@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002917
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:27)",
+        [
+            "Citi Bike - 1st Avenue & East 62nd Street",
+            700021683
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:25, 12:56)",
+        [
+            "Citi Bike - 1st Avenue & East 62nd Street",
+            700021683
+        ]
+    ],
+    [
+        "Engage in a hobby or TV shows.",
+        "(13:17, 14:57)",
+        [
+            "Citi Bike - 1st Avenue & East 62nd Street",
+            700021683
+        ]
+    ],
+    [
+        "Hobby or TV Shows",
+        "(15:39, 18:19)",
+        [
+            "Buddy's Dog Den",
+            700040261
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 20:16)",
+        [
+            "",
+            700030119
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 21:30)",
+        [
+            "",
+            700030123
+        ]
+    ],
+    [
+        "Stay at Citi Bike - 1st Avenue & East 62nd Street",
+        "(23:46, 23:59)",
+        [
+            "",
+            700030120
+        ]
+    ]
+]

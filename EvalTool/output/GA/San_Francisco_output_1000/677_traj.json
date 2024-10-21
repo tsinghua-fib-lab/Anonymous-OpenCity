@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Saint Brigid School",
+            700000262
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(09:00, 10:34)",
+        [
+            "",
+            700001239
+        ]
+    ],
+    [
+        "You are currently at Saint Brigid School and it's 11:35 AM.",
+        "(11:35, 13:38)",
+        [
+            "Saint Brigid School",
+            700000262
+        ]
+    ],
+    [
+        "Visit an Art Exhibit or Museum",
+        "(14:24, 16:19)",
+        [
+            "",
+            700001233
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:50, 19:56)",
+        [
+            "",
+            700000525
+        ]
+    ],
+    [
+        "Late Afternoon Shopping",
+        "(18:19, 19:47)",
+        [
+            "",
+            700000525
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:23, 22:55)",
+        [
+            "Up For Dayz",
+            700010667
+        ]
+    ],
+    [
+        "Late Afternoon Shopping",
+        "(23:56, 23:59)",
+        [
+            "The Crepe House",
+            700002742
+        ]
+    ]
+]

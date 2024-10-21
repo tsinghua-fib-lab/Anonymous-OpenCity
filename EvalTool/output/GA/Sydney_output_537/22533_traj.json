@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700021814
+        ]
+    ],
+    [
+        "Leisure Reading/TV",
+        "(10:00, 11:39)",
+        [
+            "",
+            700021814
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:36, 15:08)",
+        [
+            "",
+            700003106
+        ]
+    ],
+    [
+        "Next arrangement: Leisure Reading/TV",
+        "(13:48, 15:10)",
+        [
+            "Mad mex",
+            700007137
+        ]
+    ],
+    [
+        "Next arrangement: Outdoor Activity",
+        "(15:47, 16:53)",
+        [
+            "Chemist Warehouse",
+            700025152
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(17:29, 18:28)",
+        [
+            "",
+            700004497
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:48, 23:59)",
+        [
+            "",
+            700030566
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Pitaya",
+            700048625
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:21)",
+        [
+            "Crêperie des Canettes",
+            700057381
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:58, 19:26)",
+        [
+            "Sidi Des Prés",
+            700058187
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:30, 21:00)",
+        [
+            "Pizzeria Positano",
+            700048609
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:54, 23:59)",
+        [
+            "La Cave Saint-Germain",
+            700048606
+        ]
+    ]
+]

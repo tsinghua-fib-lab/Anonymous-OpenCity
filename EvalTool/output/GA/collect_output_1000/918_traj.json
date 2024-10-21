@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030394
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:37)",
+        [
+            "",
+            700030389
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:24, 17:04)",
+        [
+            "",
+            700030389
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(20:39, 22:13)",
+        [
+            "Hospital for Special Surgery",
+            700011667
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(22:33, 23:36)",
+        [
+            "Hospital for Special Surgery",
+            700011667
+        ]
+    ],
+    [
+        "Stay at home",
+        "(23:56, 23:59)",
+        [
+            "",
+            700030394
+        ]
+    ]
+]

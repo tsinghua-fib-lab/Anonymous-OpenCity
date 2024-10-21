@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Blossom Du Jour",
+            700013066
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:25)",
+        [
+            "Blossom Du Jour",
+            700013066
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:06, 14:03)",
+        [
+            "Blossom Du Jour",
+            700013066
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:45, 16:33)",
+        [
+            "Blossom Du Jour",
+            700013066
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 19:32)",
+        [
+            "Gallo Nero",
+            700004112
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:09, 22:33)",
+        [
+            "Swift Eats",
+            700013051
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "ViVi Bubble Tea",
+            700013064
+        ]
+    ]
+]

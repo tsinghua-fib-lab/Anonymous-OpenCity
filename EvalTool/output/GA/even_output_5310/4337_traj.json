@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gena's Grill",
+            700005930
+        ]
+    ],
+    [
+        "Outdoor Walk/Exercise",
+        "(10:00, 10:51)",
+        [
+            "Broadway Cafe",
+            700003546
+        ]
+    ],
+    [
+        "Outdoor Walk/Exercise",
+        "(11:02, 11:59)",
+        [
+            "Broadway Cafe",
+            700003546
+        ]
+    ],
+    [
+        "Lunch Preparation",
+        "(12:17, 13:54)",
+        [
+            "Broadway Cafe",
+            700003546
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 17:34)",
+        [
+            "Num Pang",
+            700008598
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:28, 23:59)",
+        [
+            "",
+            700001191
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:14, 23:59)",
+        [
+            "Latin American Restaurant",
+            700005954
+        ]
+    ]
+]

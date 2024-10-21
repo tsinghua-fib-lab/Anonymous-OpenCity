@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 4th Street & 2nd Avenue",
+            700008046
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 11:02)",
+        [
+            "Citi Bike - East 4th Street & 2nd Avenue",
+            700008046
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:59, 14:58)",
+        [
+            "Double Zero",
+            700008945
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:09, 16:31)",
+        [
+            "The Gray Mare",
+            700023457
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:19, 21:03)",
+        [
+            "Citi Bike - East 4th Street & 2nd Avenue",
+            700008046
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:21, 22:47)",
+        [
+            "Desi Stop",
+            700026604
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 4th Street & 2nd Avenue.",
+        "(23:27, 23:59)",
+        [
+            "Citi Bike - East 4th Street & 2nd Avenue",
+            700008046
+        ]
+    ]
+]

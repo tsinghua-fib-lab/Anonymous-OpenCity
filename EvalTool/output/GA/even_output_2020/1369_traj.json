@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chef Joe's Culinary Salon",
+            700010133
+        ]
+    ],
+    [
+        "Go for a Walk or Light Exercise",
+        "(10:00, 10:56)",
+        [
+            "",
+            700009121
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(12:05, 14:03)",
+        [
+            "",
+            700009120
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:53, 15:22)",
+        [
+            "",
+            700007932
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:32, 23:59)",
+        [
+            "",
+            700000946
+        ]
+    ]
+]

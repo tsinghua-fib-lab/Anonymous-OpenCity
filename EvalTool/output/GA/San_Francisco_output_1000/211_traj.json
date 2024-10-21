@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Enterprise Brewing Company",
+            700013519
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 15:06)",
+        [
+            "Sightglass Coffee",
+            700001741
+        ]
+    ],
+    [
+        "Next sports/outdoor activities",
+        "(15:08, 16:37)",
+        [
+            "Sightglass Coffee",
+            700001741
+        ]
+    ],
+    [
+        "Sports/Outdoor Activities",
+        "(17:32, 19:00)",
+        [
+            "",
+            700008857
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:45, 23:10)",
+        [
+            "",
+            700013967
+        ]
+    ],
+    [
+        "Next sports/outdoor activities",
+        "(23:41, 23:59)",
+        [
+            "Deli Board",
+            700001849
+        ]
+    ]
+]

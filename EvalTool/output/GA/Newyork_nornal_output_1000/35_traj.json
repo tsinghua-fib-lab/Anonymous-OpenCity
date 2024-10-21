@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001192
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:28)",
+        [
+            "Beijing",
+            700008324
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(15:59, 17:01)",
+        [
+            "",
+            700001192
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(17:29, 19:02)",
+        [
+            "Citi Bike - West 56th Street & 10th Avenue",
+            700008235
+        ]
+    ],
+    [
+        "Socializing with Friends/Family",
+        "(19:26, 20:54)",
+        [
+            "The Jin",
+            700008322
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(22:02, 23:59)",
+        [
+            "High School for Environmental Studies",
+            700006394
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(23:33, 23:59)",
+        [
+            "Citi Bike - West 56th Street & 10th Avenue",
+            700008235
+        ]
+    ]
+]

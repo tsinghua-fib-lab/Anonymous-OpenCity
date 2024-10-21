@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002423
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:33)",
+        [
+            "",
+            700012160
+        ]
+    ],
+    [
+        "Late coffee break at Elephand and Castle",
+        "(11:29, 13:56)",
+        [
+            "Elephant and Castle",
+            700005688
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:12, 19:00)",
+        [
+            "Wogies",
+            700005686
+        ]
+    ],
+    [
+        "Dinner Preparation and Evening Relaxation",
+        "(18:28, 19:50)",
+        [
+            "",
+            700002423
+        ]
+    ],
+    [
+        "You are at Elephant and Castle. It's 20:33 and you can stay here more time.",
+        "(20:33, 22:29)",
+        [
+            "",
+            700002423
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:55)",
+        [
+            "",
+            700011067
+        ]
+    ]
+]

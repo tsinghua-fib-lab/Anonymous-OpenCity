@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Café de New York",
+            700021627
+        ]
+    ],
+    [
+        "Outdoor Activity or Brunch with Friends",
+        "(10:00, 11:57)",
+        [
+            "Café de New York",
+            700021627
+        ]
+    ],
+    [
+        "Outdoor Activity or Brunch with Friends",
+        "(12:15, 14:02)",
+        [
+            "Café de New York",
+            700021627
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 18:42)",
+        [
+            "Restaurant Yang",
+            700003389
+        ]
+    ],
+    [
+        "Wind Down with TV or Relaxation",
+        "(21:28, 23:01)",
+        [
+            "Restaurant Yang",
+            700003389
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:54, 23:59)",
+        [
+            "Go Sushi",
+            700013612
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Fellini Coffee",
+            700006149
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(09:00, 10:28)",
+        [
+            "Fellini Coffee",
+            700006149
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 13:57)",
+        [
+            "Momofuku Nishi",
+            700009104
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:08, 19:18)",
+        [
+            "Barracuda Bar",
+            700015366
+        ]
+    ],
+    [
+        "Dinner Preparation and Relaxation",
+        "(18:59, 19:52)",
+        [
+            "Fellini Coffee",
+            700006149
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:55, 23:59)",
+        [
+            "",
+            700031459
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:24, 23:59)",
+        [
+            "Walgreens",
+            700008794
+        ]
+    ]
+]

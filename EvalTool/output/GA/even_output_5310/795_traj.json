@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006038
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:06)",
+        [
+            "",
+            700006038
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:34, 14:14)",
+        [
+            "Sweetgreen",
+            700006555
+        ]
+    ],
+    [
+        "Hobby or Craft",
+        "(14:45, 16:14)",
+        [
+            "Sweetgreen",
+            700006555
+        ]
+    ],
+    [
+        "Hobby or Craft",
+        "(16:51, 18:05)",
+        [
+            "Sweetgreen",
+            700006555
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 22:18)",
+        [
+            "Just Salad",
+            700038522
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:48, 23:03)",
+        [
+            "",
+            700006038
+        ]
+    ],
+    [
+        "You are currently at an undefined location and will stay for 1 hour and 12 minutes.",
+        "(23:49, 23:59)",
+        [
+            "Sweetgreen",
+            700006555
+        ]
+    ]
+]

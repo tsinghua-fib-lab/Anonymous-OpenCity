@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Beijing",
+            700008324
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:52)",
+        [
+            "",
+            700002332
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:30, 16:25)",
+        [
+            "Rubby Pizzeria Restaurant",
+            700006397
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(15:46, 17:10)",
+        [
+            "Bagel Market",
+            700008313
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:04, 19:09)",
+        [
+            "Bagel Market",
+            700008313
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:13, 23:59)",
+        [
+            "Le Soleil",
+            700018342
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:50, 23:59)",
+        [
+            "Beijing",
+            700008324
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Duane Reade",
+            700004190
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:31)",
+        [
+            "CityMD",
+            700007872
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:35, 12:10)",
+        [
+            "CityMD",
+            700007872
+        ]
+    ],
+    [
+        "go to CityMD",
+        "(12:49, 14:09)",
+        [
+            "CityMD",
+            700007872
+        ]
+    ],
+    [
+        "Watch Favorite TV Show or Movie",
+        "(14:27, 15:58)",
+        [
+            "CityMD",
+            700007872
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 22:09)",
+        [
+            "MooMooCha",
+            700023465
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:37, 23:59)",
+        [
+            "IHOP",
+            700004188
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "ADANOSGRILL",
+            700031923
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:01)",
+        [
+            "Gong Cha",
+            700031924
+        ]
+    ],
+    [
+        "Grocery Shopping and Errands",
+        "(14:04, 15:32)",
+        [
+            "ADANOSGRILL",
+            700031923
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 22:04)",
+        [
+            "Gong Cha",
+            700031924
+        ]
+    ],
+    [
+        "Grocery Shopping and Errands",
+        "(21:28, 22:59)",
+        [
+            "ADANOSGRILL",
+            700031923
+        ]
+    ],
+    [
+        "Stay at ADANOSGRILL",
+        "(23:23, 23:59)",
+        [
+            "Gong Cha",
+            700031924
+        ]
+    ]
+]

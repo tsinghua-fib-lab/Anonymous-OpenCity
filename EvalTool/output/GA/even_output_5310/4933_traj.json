@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Current Coffee",
+            700023840
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:21)",
+        [
+            "Il Buco Alimentari",
+            700023862
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:15, 14:20)",
+        [
+            "Misirizzi",
+            700023919
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:35, 20:14)",
+        [
+            "",
+            700025791
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:32, 20:40)",
+        [
+            "Crunch Fitness",
+            700008752
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(23:17, 23:59)",
+        [
+            "",
+            700002381
+        ]
+    ]
+]

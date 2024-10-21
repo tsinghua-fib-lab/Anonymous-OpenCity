@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Public School 14",
+            700000036
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:34)",
+        [
+            "Starbucks",
+            700010579
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 15:57)",
+        [
+            "",
+            700001897
+        ]
+    ],
+    [
+        "Entertainment",
+        "(16:51, 18:31)",
+        [
+            "Turkish Kitchen",
+            700008587
+        ]
+    ],
+    [
+        "Stay at NYC Pizza Kitchen",
+        "(19:17, 20:07)",
+        [
+            "NYC Pizza Kitchen",
+            700006240
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 23:40)",
+        [
+            "",
+            700002450
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "bb.q Chicken",
+            700009137
+        ]
+    ]
+]

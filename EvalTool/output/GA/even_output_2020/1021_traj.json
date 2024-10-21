@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Marina Submarine",
+            700007319
+        ]
+    ],
+    [
+        "Go for a workout or a jog",
+        "(10:00, 10:57)",
+        [
+            "Marina Submarine",
+            700007319
+        ]
+    ],
+    [
+        "Go for a workout or a jog",
+        "(11:03, 12:13)",
+        [
+            "Marina Submarine",
+            700007319
+        ]
+    ],
+    [
+        "Go for a workout or a jog",
+        "(12:46, 13:37)",
+        [
+            "Marina Submarine",
+            700007319
+        ]
+    ],
+    [
+        "Visit a local farmers' market or boutique shops",
+        "(14:04, 15:14)",
+        [
+            "",
+            700014115
+        ]
+    ],
+    [
+        "Stay at Home",
+        "(15:23, 17:15)",
+        [
+            "Marina Submarine",
+            700007319
+        ]
+    ],
+    [
+        "Stay at Marina Submarine",
+        "(17:05, 17:57)",
+        [
+            "The Postal Chase",
+            700002644
+        ]
+    ],
+    [
+        "Stay at Marina Submarine",
+        "(18:48, 20:22)",
+        [
+            "Rooster & Rice",
+            700005074
+        ]
+    ],
+    [
+        "Stay at Marina Submarine",
+        "(21:06, 22:27)",
+        [
+            "Rooster & Rice",
+            700005074
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:03, 23:59)",
+        [
+            "Cellar Door",
+            700002304
+        ]
+    ]
+]

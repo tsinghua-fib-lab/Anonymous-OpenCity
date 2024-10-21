@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Felice",
+            700024260
+        ]
+    ],
+    [
+        "Next activity in daily plan.",
+        "(09:00, 10:00)",
+        [
+            "Felice",
+            700024260
+        ]
+    ],
+    [
+        "Next activity in daily plan",
+        "(10:24, 11:53)",
+        [
+            "Felice",
+            700024260
+        ]
+    ],
+    [
+        "Next activity in daily plan.",
+        "(12:10, 14:10)",
+        [
+            "Felice",
+            700024260
+        ]
+    ],
+    [
+        "Stay at Bar Felice",
+        "(14:05, 15:57)",
+        [
+            "Bar Felice",
+            700024255
+        ]
+    ],
+    [
+        "Go for dinner at Felice.",
+        "(16:30, 18:40)",
+        [
+            "Felice",
+            700024260
+        ]
+    ],
+    [
+        "Stay at Felice.",
+        "(18:42, 20:03)",
+        [
+            "Felice",
+            700024260
+        ]
+    ],
+    [
+        "Stay at Felice.",
+        "(20:14, 22:30)",
+        [
+            "Felice",
+            700024260
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "",
+            700001376
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010697
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:30)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:56, 13:11)",
+        [
+            "ChargePoint",
+            700012432
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:04, 17:06)",
+        [
+            "ChargePoint",
+            700012432
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:18, 20:05)",
+        [
+            "ChargePoint",
+            700012432
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:44, 22:59)",
+        [
+            "",
+            700010697
+        ]
+    ]
+]

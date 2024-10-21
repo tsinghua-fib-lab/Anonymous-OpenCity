@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001372
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:39)",
+        [
+            "",
+            700001446
+        ]
+    ],
+    [
+        "Meet friends for coffee or drinks at a café.",
+        "(11:13, 12:49)",
+        [
+            "Mama'a Bar",
+            700005171
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:18, 16:21)",
+        [
+            "Cornerstone Cafe",
+            700004481
+        ]
+    ],
+    [
+        "Stay at Mama'a Bar.",
+        "(15:41, 17:33)",
+        [
+            "Eastpoint",
+            700019572
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 22:54)",
+        [
+            "Poco",
+            700008391
+        ]
+    ],
+    [
+        "Stay at Poco.",
+        "(23:25, 23:59)",
+        [
+            "Poco",
+            700008391
+        ]
+    ]
+]

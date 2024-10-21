@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:25)",
+        [
+            "",
+            700021645
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:40, 14:08)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "Lunch at Chapin School",
+        "(14:24, 15:45)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:34, 18:11)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "Stay at Chapin School",
+        "(18:12, 19:34)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "Stay at Chapin School",
+        "(20:04, 22:35)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:53, 23:59)",
+        [
+            "",
+            700021645
+        ]
+    ]
+]

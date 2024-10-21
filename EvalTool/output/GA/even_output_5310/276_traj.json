@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700018004
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 10:03)",
+        [
+            "Bel Ami Cafe",
+            700017236
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:15, 11:52)",
+        [
+            "Bel Ami Cafe",
+            700017236
+        ]
+    ],
+    [
+        "Relaxation and Reading",
+        "(12:05, 13:36)",
+        [
+            "Bel Ami Cafe",
+            700017236
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(13:49, 16:02)",
+        [
+            "Bel Ami Cafe",
+            700017236
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:07, 19:04)",
+        [
+            "Avena",
+            700019745
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:02, 22:44)",
+        [
+            "Delacorte Musical Clock",
+            700007537
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "",
+            700040415
+        ]
+    ]
+]

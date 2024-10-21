@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Osso Steakhouse",
+            700010413
+        ]
+    ],
+    [
+        "Have breakfast",
+        "(10:00, 10:53)",
+        [
+            "Osso Steakhouse",
+            700010413
+        ]
+    ],
+    [
+        "Next is the morning jog or walk in the park.",
+        "(11:30, 12:20)",
+        [
+            "Osso Steakhouse",
+            700010413
+        ]
+    ],
+    [
+        "Have lunch at a favorite restaurant",
+        "(12:29, 13:53)",
+        [
+            "Osso Steakhouse",
+            700010413
+        ]
+    ],
+    [
+        "Spend time reading a book or catching up on a favorite TV series.",
+        "(15:00, 16:21)",
+        [
+            "Osso Steakhouse",
+            700010413
+        ]
+    ],
+    [
+        "Go to Osso Steakhouse for leisure after reading",
+        "(17:04, 18:33)",
+        [
+            "Osso Steakhouse",
+            700010413
+        ]
+    ],
+    [
+        "Stay at Osso Steakhouse.",
+        "(19:43, 21:07)",
+        [
+            "Osso Steakhouse",
+            700010413
+        ]
+    ],
+    [
+        "Stay at Osso Steakhouse until 11:00 pm",
+        "(21:57, 23:04)",
+        [
+            "Osso Steakhouse",
+            700010413
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "",
+            700008848
+        ]
+    ]
+]

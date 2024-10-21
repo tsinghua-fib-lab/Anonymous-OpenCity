@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002918
+        ]
+    ],
+    [
+        "Wake Up and Enjoy a Leisurely Breakfast",
+        "(10:00, 10:50)",
+        [
+            "",
+            700002918
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:19, 15:25)",
+        [
+            "The Page",
+            700000005
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 18:11)",
+        [
+            "Powder Shaved Snow",
+            700004203
+        ]
+    ],
+    [
+        "Next activity based on the plan.",
+        "(19:51, 21:15)",
+        [
+            "Q's Sandwich Shop",
+            700012105
+        ]
+    ],
+    [
+        "Stay at home for reading/TV",
+        "(22:05, 23:44)",
+        [
+            "Powder Shaved Snow",
+            700004203
+        ]
+    ],
+    [
+        "Stay at Powder Shaved Snow",
+        "(23:54, 23:59)",
+        [
+            "Powder Shaved Snow",
+            700004203
+        ]
+    ]
+]

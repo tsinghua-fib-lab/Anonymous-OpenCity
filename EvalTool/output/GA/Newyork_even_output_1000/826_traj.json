@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Link NYC",
+            700019945
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:28)",
+        [
+            "Soft Swerve",
+            700015892
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(14:13, 16:05)",
+        [
+            "NY Kids Club",
+            700006234
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:04, 21:55)",
+        [
+            "NY Kids Club",
+            700006234
+        ]
+    ],
+    [
+        "Next place for leisure",
+        "(22:00, 23:25)",
+        [
+            "NY Kids Club",
+            700006234
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "",
+            700006232
+        ]
+    ]
+]

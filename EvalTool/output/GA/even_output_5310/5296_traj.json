@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700019867
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:25)",
+        [
+            "Buca di Beppo",
+            700009546
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:44, 14:08)",
+        [
+            "Buca di Beppo",
+            700009546
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:07, 16:03)",
+        [
+            "Buca di Beppo",
+            700009546
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(16:06, 18:01)",
+        [
+            "Buca di Beppo",
+            700009546
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:05, 19:50)",
+        [
+            "Ben & Jerry's",
+            700006606
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(20:36, 23:00)",
+        [
+            "Minskoff Theatre",
+            700003778
+        ]
+    ],
+    [
+        "Stay at the current place (Mamoun's Falafel) enjoying dinner.",
+        "(23:06, 23:59)",
+        [
+            "",
+            700026599
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike",
+            700020886
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:52)",
+        [
+            "",
+            700019019
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 17:30)",
+        [
+            "",
+            700007449
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(15:56, 17:30)",
+        [
+            "Citi Bike",
+            700020886
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:06, 20:05)",
+        [
+            "Citi Bike",
+            700020886
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:45, 23:35)",
+        [
+            "",
+            700019023
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:21, 23:59)",
+        [
+            "",
+            700019026
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Moka Coffee",
+            700001133
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:37)",
+        [
+            "Moka Coffee",
+            700001133
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:14, 13:57)",
+        [
+            "Moka Coffee",
+            700001133
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:30, 15:56)",
+        [
+            "",
+            700010683
+        ]
+    ],
+    [
+        "Afternoon Movie",
+        "(16:47, 18:03)",
+        [
+            "Moka Coffee",
+            700001133
+        ]
+    ],
+    [
+        "Early Dinner Preparation",
+        "(18:21, 19:47)",
+        [
+            "Moka Coffee",
+            700001133
+        ]
+    ],
+    [
+        "Relax with a Book or Music",
+        "(19:50, 20:47)",
+        [
+            "Moka Coffee",
+            700001133
+        ]
+    ],
+    [
+        "Relax with a Book or Music",
+        "(21:36, 22:56)",
+        [
+            "Moka Coffee",
+            700001133
+        ]
+    ],
+    [
+        "Relax with a Book or Music",
+        "(23:27, 23:59)",
+        [
+            "Moka Coffee",
+            700001133
+        ]
+    ]
+]

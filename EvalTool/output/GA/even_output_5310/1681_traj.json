@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011238
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:34)",
+        [
+            "Barnes Bistro",
+            700006422
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:20, 17:09)",
+        [
+            "Tesla Supercharger",
+            700016580
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(20:04, 21:34)",
+        [
+            "Starbucks",
+            700040281
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(22:17, 23:54)",
+        [
+            "Starbucks",
+            700040281
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(23:55, 23:59)",
+        [
+            "",
+            700020322
+        ]
+    ]
+]

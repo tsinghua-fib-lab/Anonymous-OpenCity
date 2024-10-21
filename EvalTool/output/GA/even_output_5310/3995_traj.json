@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Semma",
+            700030709
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:42)",
+        [
+            "Zazzy's Pizza",
+            700023549
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:03, 14:35)",
+        [
+            "Semma",
+            700030709
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:04, 16:30)",
+        [
+            "",
+            700012159
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:22, 21:05)",
+        [
+            "Roasting Plant",
+            700005694
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:51, 23:59)",
+        [
+            "Zazzy's Pizza",
+            700023549
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "",
+            700011067
+        ]
+    ]
+]

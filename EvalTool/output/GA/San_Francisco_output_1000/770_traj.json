@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Royal Ground Coffee",
+            700002092
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:09)",
+        [
+            "Street",
+            700006484
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:07, 12:52)",
+        [
+            "House of Sushi Teriyaki & Tempura",
+            700006483
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:37, 14:40)",
+        [
+            "",
+            700002269
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:20, 18:59)",
+        [
+            "Rouge Night Club",
+            700002096
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 21:33)",
+        [
+            "",
+            700000650
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "",
+            700000650
+        ]
+    ]
+]

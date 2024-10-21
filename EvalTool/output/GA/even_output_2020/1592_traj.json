@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010896
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:20)",
+        [
+            "",
+            700012356
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(11:33, 13:07)",
+        [
+            "",
+            700012381
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(13:30, 14:54)",
+        [
+            "Ferry Building Gate D",
+            700001911
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:39, 21:07)",
+        [
+            "",
+            700012375
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:00, 23:59)",
+        [
+            "",
+            700012380
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700012385
+        ]
+    ]
+]

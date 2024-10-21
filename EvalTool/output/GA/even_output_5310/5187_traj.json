@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "San Loco",
+            700011084
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:21)",
+        [
+            "ABC Beer Co.",
+            700010916
+        ]
+    ],
+    [
+        "Household chores.",
+        "(15:31, 17:05)",
+        [
+            "ABC Beer Co.",
+            700010916
+        ]
+    ],
+    [
+        "Household Chores",
+        "(17:14, 19:53)",
+        [
+            "ABC Beer Co.",
+            700010916
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(19:20, 20:40)",
+        [
+            "ABC Beer Co.",
+            700010916
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 23:59)",
+        [
+            "",
+            700001710
+        ]
+    ]
+]

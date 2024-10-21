@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001248
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:28)",
+        [
+            "Apple Bank",
+            700010689
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 13:56)",
+        [
+            "Dunkin'",
+            700007520
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 19:10)",
+        [
+            "Unregular Pizza",
+            700028771
+        ]
+    ],
+    [
+        "Watch Sports/Game",
+        "(15:46, 17:55)",
+        [
+            "Bravo Pizza",
+            700007522
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:47, 19:40)",
+        [
+            "Apple Bank",
+            700010689
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:09, 22:45)",
+        [
+            "New York Sports Club",
+            700016607
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:55, 23:59)",
+        [
+            "",
+            700001894
+        ]
+    ]
+]

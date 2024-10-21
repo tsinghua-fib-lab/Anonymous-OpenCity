@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002666
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 10:58)",
+        [
+            "Blue Sky Restaurant",
+            700011104
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(11:02, 13:09)",
+        [
+            "Blue Sky Restaurant",
+            700011104
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(13:20, 14:25)",
+        [
+            "Blue Sky Restaurant",
+            700011104
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:29, 16:01)",
+        [
+            "Blue Sky Restaurant",
+            700011104
+        ]
+    ],
+    [
+        "Engage in a leisure activity.",
+        "(16:24, 17:48)",
+        [
+            "Blue Sky Restaurant",
+            700011104
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:16, 21:57)",
+        [
+            "Little Garden",
+            700002037
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "San Francisco Chinese Baptist Church",
+            700000270
+        ]
+    ]
+]

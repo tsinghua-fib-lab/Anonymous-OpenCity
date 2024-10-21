@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Veritable",
+            700014653
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:32)",
+        [
+            "Silver Star",
+            700024376
+        ]
+    ],
+    [
+        "Morning Routine",
+        "(11:13, 13:09)",
+        [
+            "Silver Star",
+            700024376
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:15, 16:12)",
+        [
+            "",
+            700014654
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 17:29)",
+        [
+            "CVS Pharmacy",
+            700024375
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 23:49)",
+        [
+            "",
+            700001514
+        ]
+    ],
+    [
+        "Evening Wind Down and Relaxation",
+        "(22:33, 23:54)",
+        [
+            "CVS Pharmacy",
+            700024375
+        ]
+    ],
+    [
+        "Evening Wind Down and Relaxation",
+        "(23:56, 23:59)",
+        [
+            "CVS Pharmacy",
+            700024375
+        ]
+    ]
+]

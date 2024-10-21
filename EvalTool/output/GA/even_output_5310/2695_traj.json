@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020556
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:04)",
+        [
+            "",
+            700020556
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:14, 13:59)",
+        [
+            "Walters",
+            700018643
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:29, 16:10)",
+        [
+            "Tempest Bar",
+            700004392
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(15:52, 17:17)",
+        [
+            "Green Blend",
+            700018645
+        ]
+    ],
+    [
+        "Sports or Exercise",
+        "(17:53, 18:50)",
+        [
+            "",
+            700020555
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(19:54, 20:53)",
+        [
+            "",
+            700020515
+        ]
+    ],
+    [
+        "Stay at the Chelsea Bell for dinner and relaxation",
+        "(21:21, 22:54)",
+        [
+            "Magnet Theater",
+            700006170
+        ]
+    ],
+    [
+        "Stay at Magnet Theater for dinner and relaxation",
+        "(23:01, 23:59)",
+        [
+            "Magnet Theater",
+            700006170
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006013
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:00)",
+        [
+            "Quality Italian",
+            700020631
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:55, 16:41)",
+        [
+            "",
+            700002365
+        ]
+    ],
+    [
+        "Outdoor Time",
+        "(17:12, 18:58)",
+        [
+            "Quality Italian",
+            700020631
+        ]
+    ],
+    [
+        "Dinner and Prepare for the Week",
+        "(19:35, 20:56)",
+        [
+            "Burger Joint",
+            700006305
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(22:03, 23:59)",
+        [
+            "Topaz",
+            700041047
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(23:54, 23:59)",
+        [
+            "Russian Tea Room",
+            700003571
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Colomba Coffee",
+            700013973
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 09:50)",
+        [
+            "Colomba Coffee",
+            700013973
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:33, 12:09)",
+        [
+            "Melody's Piano Bar",
+            700017618
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 13:16)",
+        [
+            "Central Gospel Chapel",
+            700000276
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:44, 23:10)",
+        [
+            "",
+            700018077
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(20:28, 22:21)",
+        [
+            "Colomba Coffee",
+            700013973
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:10, 23:59)",
+        [
+            "",
+            700018482
+        ]
+    ]
+]

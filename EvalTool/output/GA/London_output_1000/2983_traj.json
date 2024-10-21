@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:21)",
+        [
+            "Urban Meadow Cafe",
+            700031990
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(11:22, 12:58)",
+        [
+            "Urban Meadow Cafe",
+            700031990
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:34, 15:05)",
+        [
+            "",
+            700022698
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:54, 16:22)",
+        [
+            "",
+            700027725
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:48, 23:59)",
+        [
+            "",
+            700022765
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "",
+            700022754
+        ]
+    ]
+]

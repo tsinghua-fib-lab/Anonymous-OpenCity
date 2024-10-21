@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "American Bar",
+            700028575
+        ]
+    ],
+    [
+        "Have breakfast",
+        "(10:00, 11:37)",
+        [
+            "American Bar",
+            700028575
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 13:13)",
+        [
+            "The Happiest Hour",
+            700023214
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 23:59)",
+        [
+            "Joffrey Ballet School",
+            700009189
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "",
+            700002212
+        ]
+    ]
+]

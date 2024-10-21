@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:57)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Personal Project/Study Time",
+        "(10:29, 12:23)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:43, 15:04)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:23, 17:45)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:56, 23:27)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ]
+]

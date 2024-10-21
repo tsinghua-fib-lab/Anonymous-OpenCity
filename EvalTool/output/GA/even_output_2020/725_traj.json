@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chubby Noodle",
+            700001681
+        ]
+    ],
+    [
+        "Exercise (1 hour)",
+        "(10:00, 11:06)",
+        [
+            "Chubby Noodle",
+            700001681
+        ]
+    ],
+    [
+        "Exercise (1 hour)",
+        "(12:01, 15:04)",
+        [
+            "Chubby Noodle",
+            700001681
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 18:59)",
+        [
+            "The Saloon",
+            700001682
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(17:43, 18:40)",
+        [
+            "The Saloon",
+            700001682
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:18, 20:24)",
+        [
+            "The Saloon",
+            700001682
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:01, 22:31)",
+        [
+            "The Saloon",
+            700001682
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(22:27, 23:59)",
+        [
+            "The Saloon",
+            700001682
+        ]
+    ]
+]

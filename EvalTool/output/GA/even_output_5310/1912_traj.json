@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001018
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:03)",
+        [
+            "Chase",
+            700007373
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:35, 18:56)",
+        [
+            "Citibank",
+            700006021
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:51, 20:49)",
+        [
+            "Plug Uglies",
+            700024871
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:59, 22:13)",
+        [
+            "Italian Village Pizzeria & Restaurant",
+            700013981
+        ]
+    ]
+]

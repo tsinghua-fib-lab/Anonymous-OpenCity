@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008845
+        ]
+    ],
+    [
+        "Current place: Yummy BBQ Kitchen. Stay time: 1 hour.",
+        "(10:00, 10:59)",
+        [
+            "Firenze by Night",
+            700003972
+        ]
+    ],
+    [
+        "Go to Firenze by Night for lunch.",
+        "(11:57, 13:33)",
+        [
+            "Firenze by Night",
+            700003972
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:36, 15:10)",
+        [
+            "Firenze by Night",
+            700003972
+        ]
+    ],
+    [
+        "Participate in a recreational activity.",
+        "(15:45, 17:13)",
+        [
+            "The Stinking Rose",
+            700002825
+        ]
+    ],
+    [
+        "Participate in a recreational activity.",
+        "(17:31, 18:51)",
+        [
+            "The Stinking Rose",
+            700002825
+        ]
+    ],
+    [
+        "Next activity: Discuss your day or future plans.",
+        "(19:29, 20:52)",
+        [
+            "Hi-Way",
+            700005006
+        ]
+    ],
+    [
+        "Relaxing at the Stinking Rose after participating in a recreational activity.",
+        "(21:47, 23:12)",
+        [
+            "The Stinking Rose",
+            700002825
+        ]
+    ],
+    [
+        "You will stay at The Stinking Rose.",
+        "(23:46, 23:59)",
+        [
+            "The Stinking Rose",
+            700002825
+        ]
+    ]
+]

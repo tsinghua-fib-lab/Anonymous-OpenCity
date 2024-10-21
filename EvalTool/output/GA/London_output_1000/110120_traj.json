@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Regent's Park Estate",
+            700006201
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:58)",
+        [
+            "",
+            700072708
+        ]
+    ],
+    [
+        "Leisure Activities/Reading",
+        "(10:38, 12:01)",
+        [
+            "Longford Street",
+            700009992
+        ]
+    ],
+    [
+        "Leisure Activities/Reading",
+        "(12:28, 14:04)",
+        [
+            "",
+            700072708
+        ]
+    ],
+    [
+        "Leisure Activities/Reading",
+        "(14:20, 18:15)",
+        [
+            "Longford Street",
+            700009992
+        ]
+    ],
+    [
+        "Early Evening Socializing",
+        "(17:59, 19:38)",
+        [
+            "The Morden Brook",
+            700014575
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 23:59)",
+        [
+            "Kingfish",
+            700037957
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "",
+            700037970
+        ]
+    ]
+]

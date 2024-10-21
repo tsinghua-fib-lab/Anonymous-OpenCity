@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700024477
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 09:55)",
+        [
+            "Starbucks",
+            700040281
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:26, 12:22)",
+        [
+            "Barnes Bistro",
+            700006422
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:48, 17:45)",
+        [
+            "Barnes Bistro",
+            700006422
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(18:44, 19:54)",
+        [
+            "Citibank",
+            700008638
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(20:33, 22:02)",
+        [
+            "Citibank",
+            700008638
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:36, 23:59)",
+        [
+            "Gourmet 45",
+            700007789
+        ]
+    ]
+]

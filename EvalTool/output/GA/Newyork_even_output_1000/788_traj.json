@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700026136
+        ]
+    ],
+    [
+        "Walk or Jog",
+        "(10:00, 11:05)",
+        [
+            "Citi Bike - LaGuardia Pl & W 3 St",
+            700008108
+        ]
+    ],
+    [
+        "Go for a Walk or Jog",
+        "(11:40, 13:01)",
+        [
+            "Citi Bike - LaGuardia Pl & W 3 St",
+            700008108
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:22, 19:14)",
+        [
+            "",
+            700020357
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:14, 18:38)",
+        [
+            "Citi Bike - LaGuardia Pl & W 3 St",
+            700008108
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 22:09)",
+        [
+            "",
+            700002612
+        ]
+    ]
+]

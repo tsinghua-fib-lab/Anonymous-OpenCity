@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700013125
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(09:00, 10:24)",
+        [
+            "Citi Bike - West 22nd Street & 8th Avenue",
+            700008209
+        ]
+    ],
+    [
+        "Explore a Local Event or Market",
+        "(10:50, 12:11)",
+        [
+            "Citi Bike - West 22nd Street & 8th Avenue",
+            700008209
+        ]
+    ],
+    [
+        "Explore a Local Event or Market",
+        "(12:57, 14:31)",
+        [
+            "Citi Bike - West 22nd Street & 8th Avenue",
+            700008209
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:38, 19:40)",
+        [
+            "",
+            700020101
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:47, 23:59)",
+        [
+            "Fle-Fle Grill",
+            700006162
+        ]
+    ]
+]

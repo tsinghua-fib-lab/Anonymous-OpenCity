@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002393
+        ]
+    ],
+    [
+        "Next will be brunch at Starbucks.",
+        "(10:00, 11:21)",
+        [
+            "Starbucks",
+            700014344
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:18, 13:57)",
+        [
+            "Starbucks",
+            700014344
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(14:12, 16:00)",
+        [
+            "Starbucks",
+            700014344
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:47, 18:11)",
+        [
+            "Starbucks",
+            700014344
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:06, 20:03)",
+        [
+            "Starbucks",
+            700014344
+        ]
+    ],
+    [
+        "Family or Friends Gathering",
+        "(20:33, 22:08)",
+        [
+            "Starbucks",
+            700014344
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:52, 23:59)",
+        [
+            "",
+            700001444
+        ]
+    ]
+]

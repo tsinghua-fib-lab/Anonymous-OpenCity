@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "ABA Turkish Restaurant",
+            700008791
+        ]
+    ],
+    [
+        "Wake Up & Breakfast",
+        "(09:00, 10:04)",
+        [
+            "ABA Turkish Restaurant",
+            700008791
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:12, 11:38)",
+        [
+            "",
+            700009293
+        ]
+    ],
+    [
+        "Movie or TV Show",
+        "(14:56, 16:04)",
+        [
+            "",
+            700001200
+        ]
+    ],
+    [
+        "Movie or TV Show",
+        "(17:02, 18:31)",
+        [
+            "ABA Turkish Restaurant",
+            700008791
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 20:45)",
+        [
+            "Subway",
+            700008316
+        ]
+    ],
+    [
+        "Dinner Prep & Family Time",
+        "(22:18, 23:45)",
+        [
+            "Duane Reade",
+            700008317
+        ]
+    ],
+    [
+        "Dinner Prep & Family Time",
+        "(23:48, 23:59)",
+        [
+            "Bluebird London NYC",
+            700027375
+        ]
+    ]
+]

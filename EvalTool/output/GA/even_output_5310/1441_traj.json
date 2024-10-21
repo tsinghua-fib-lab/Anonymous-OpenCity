@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Awe Sum Dim Sum",
+            700028539
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park",
+        "(10:00, 11:02)",
+        [
+            "Awe Sum Dim Sum",
+            700028539
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park from 11:00 AM to 12:00 PM.",
+        "(12:06, 13:14)",
+        [
+            "Ampersand",
+            700006110
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park.",
+        "(13:11, 14:37)",
+        [
+            "Awe Sum Dim Sum",
+            700028539
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 17:38)",
+        [
+            "Craft + Carry",
+            700020944
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 22:48)",
+        [
+            "Molly's",
+            700011135
+        ]
+    ],
+    [
+        "Go to 'Craft + Carry'",
+        "(23:31, 23:59)",
+        [
+            "Craft + Carry",
+            700020944
+        ]
+    ]
+]

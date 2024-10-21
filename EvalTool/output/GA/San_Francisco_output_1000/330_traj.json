@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Fuel 24:7",
+            700001200
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:28)",
+        [
+            "Mezes Kitchen & Wine Bar",
+            700003082
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:05, 14:43)",
+        [
+            "",
+            700004968
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:56, 17:02)",
+        [
+            "United Studios Of Self Defense",
+            700003780
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:48, 21:33)",
+        [
+            "Carmine F. Vicino",
+            700000685
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:58, 21:09)",
+        [
+            "Fuel 24:7",
+            700001200
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:19, 23:20)",
+        [
+            "Bay Wheels",
+            700010060
+        ]
+    ]
+]

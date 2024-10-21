@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001817
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 12:07)",
+        [
+            "Kafana",
+            700008851
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 13:25)",
+        [
+            "",
+            700001307
+        ]
+    ],
+    [
+        "Have lunch at a nice restaurant with friends",
+        "(15:46, 16:39)",
+        [
+            "Kafana",
+            700008851
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:00, 19:27)",
+        [
+            "Ayat",
+            700041143
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:48)",
+        [
+            "ABC Beer Co.",
+            700010916
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(22:14, 23:47)",
+        [
+            "Kafana",
+            700008851
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(23:47, 23:59)",
+        [
+            "Ayat",
+            700041143
+        ]
+    ]
+]

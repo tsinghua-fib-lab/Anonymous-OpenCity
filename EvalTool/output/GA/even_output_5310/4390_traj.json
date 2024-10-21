@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700037017
+        ]
+    ],
+    [
+        "Wake up, enjoy a leisurely breakfast, and catch up on the news or read a book.",
+        "(09:00, 10:02)",
+        [
+            "",
+            700037017
+        ]
+    ],
+    [
+        "Grow food plants",
+        "(10:49, 12:26)",
+        [
+            "",
+            700037039
+        ]
+    ],
+    [
+        "Enjoy some light work or planning for the week ahead.",
+        "(12:34, 14:04)",
+        [
+            "",
+            700037019
+        ]
+    ],
+    [
+        "Spend some time at a café, relaxing and possibly doing some light work or planning for the week ahead.",
+        "(14:30, 15:54)",
+        [
+            "",
+            700037032
+        ]
+    ],
+    [
+        "Visit the café for light work or planning.",
+        "(16:03, 17:30)",
+        [
+            "",
+            700037040
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:08, 21:43)",
+        [
+            "",
+            700037017
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "",
+            700037039
+        ]
+    ]
+]

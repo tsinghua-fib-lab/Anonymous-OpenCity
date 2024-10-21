@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Atlantic Theater",
+            700000568
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:03)",
+        [
+            "Public School 11",
+            700000033
+        ]
+    ],
+    [
+        "Outdoor Activity (Walk in the Park)",
+        "(12:03, 13:12)",
+        [
+            "Atlantic Theater",
+            700000568
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 16:45)",
+        [
+            "",
+            700000822
+        ]
+    ],
+    [
+        "Spend quality time with family or friends, or engage in your hobby.",
+        "(19:32, 21:05)",
+        [
+            "Atlantic Theater",
+            700000568
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:00, 23:59)",
+        [
+            "",
+            700002333
+        ]
+    ]
+]

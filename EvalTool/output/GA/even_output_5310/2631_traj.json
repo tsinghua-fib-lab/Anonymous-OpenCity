@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sullivan Street bakery",
+            700006167
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:24)",
+        [
+            "FIKA 9th Avenue",
+            700008331
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:46, 16:36)",
+        [
+            "FIKA 9th Avenue",
+            700008331
+        ]
+    ],
+    [
+        "Dinner Reservation",
+        "(17:24, 18:54)",
+        [
+            "FIKA 9th Avenue",
+            700008331
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 23:58)",
+        [
+            "Famous Original Ray's Pizza",
+            700004404
+        ]
+    ]
+]

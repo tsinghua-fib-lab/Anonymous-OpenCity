@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700019178
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:32)",
+        [
+            "Link NYC",
+            700017688
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:56, 15:07)",
+        [
+            "",
+            700017137
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:54, 18:43)",
+        [
+            "",
+            700017130
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 20:31)",
+        [
+            "",
+            700012546
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(22:08, 23:35)",
+        [
+            "Citi Bike - East 68th Street & Madison Avenue",
+            700021682
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:28, 23:59)",
+        [
+            "Citi Bike - East 68th Street & Madison Avenue",
+            700021682
+        ]
+    ]
+]

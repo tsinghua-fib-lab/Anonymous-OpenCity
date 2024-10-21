@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700017439
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:36)",
+        [
+            "Central Gospel Chapel",
+            700000276
+        ]
+    ],
+    [
+        "Afternoon Sports/Outdoor Activity",
+        "(16:12, 17:58)",
+        [
+            "Central Gospel Chapel",
+            700000276
+        ]
+    ],
+    [
+        "Dinner Preparation/Cooking",
+        "(18:49, 19:50)",
+        [
+            "Central Gospel Chapel",
+            700000276
+        ]
+    ],
+    [
+        "Wind Down & Movie Night",
+        "(20:40, 23:00)",
+        [
+            "Central Gospel Chapel",
+            700000276
+        ]
+    ],
+    [
+        "next place for leisure time/creative activity since it's 23:05 and the movie night is already over.",
+        "(23:05, 23:59)",
+        [
+            "Central Gospel Chapel",
+            700000276
+        ]
+    ]
+]

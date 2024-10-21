@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000562
+        ]
+    ],
+    [
+        "Go for a walk or bike ride in a nearby park to enjoy the fresh air and some light exercise.",
+        "(09:00, 10:35)",
+        [
+            "",
+            700008349
+        ]
+    ],
+    [
+        "Go for a walk or bike ride in a nearby park to enjoy the fresh air and some light exercise.",
+        "(10:47, 11:56)",
+        [
+            "Intersection for the Arts",
+            700006647
+        ]
+    ],
+    [
+        "1:00 PM - 3:00 PM",
+        "(12:30, 14:07)",
+        [
+            "Intersection for the Arts",
+            700006647
+        ]
+    ],
+    [
+        "Go to Intersection for the Arts.",
+        "(14:13, 15:35)",
+        [
+            "Intersection for the Arts",
+            700006647
+        ]
+    ],
+    [
+        "Afternoon Leisure",
+        "(15:59, 18:01)",
+        [
+            "Intersection for the Arts",
+            700006647
+        ]
+    ],
+    [
+        "Afternoon Leisure",
+        "(18:23, 20:06)",
+        [
+            "Intersection for the Arts",
+            700006647
+        ]
+    ],
+    [
+        "Afternoon Leisure",
+        "(20:51, 22:48)",
+        [
+            "Intersection for the Arts",
+            700006647
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:20, 23:59)",
+        [
+            "",
+            700006656
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "14th Street Y – Sports Center",
+            700007896
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 16:02)",
+        [
+            "Empanada Mama",
+            700029819
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 14:37)",
+        [
+            "Citi Bike",
+            700024346
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:02, 20:10)",
+        [
+            "14th Street Y – Sports Center",
+            700007896
+        ]
+    ],
+    [
+        "Stay at 14th Street Y – Sports Center",
+        "(23:36, 23:59)",
+        [
+            "Empanada Mama",
+            700029819
+        ]
+    ]
+]

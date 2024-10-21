@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bay Wheels",
+            700009442
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:57)",
+        [
+            "",
+            700009439
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 17:27)",
+        [
+            "",
+            700013306
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(16:37, 18:11)",
+        [
+            "Bay Wheels",
+            700009442
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(18:17, 20:06)",
+        [
+            "Bay Wheels",
+            700009442
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 23:59)",
+        [
+            "",
+            700009439
+        ]
+    ]
+]

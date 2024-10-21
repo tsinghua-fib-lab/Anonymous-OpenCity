@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Verve Coffee Roasters",
+            700006032
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(09:00, 10:33)",
+        [
+            "Verve Coffee Roasters",
+            700006032
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:20, 12:51)",
+        [
+            "Walgreens & Live Fit Gym Underground Parking Garage",
+            700001410
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:21, 20:09)",
+        [
+            "Il Casaro Pizzeria",
+            700009176
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:00, 23:59)",
+        [
+            "Churchill",
+            700005706
+        ]
+    ]
+]

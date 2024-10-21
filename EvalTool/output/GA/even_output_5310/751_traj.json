@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002197
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:01)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:46, 14:53)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 16:10)",
+        [
+            "Txikito",
+            700004676
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 22:21)",
+        [
+            "FIKA 9th Avenue",
+            700008331
+        ]
+    ]
+]

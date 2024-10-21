@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Two Boots Pizza",
+            700006545
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:01)",
+        [
+            "",
+            700002311
+        ]
+    ],
+    [
+        "Stay at Two Boots Pizza",
+        "(12:24, 13:46)",
+        [
+            "M565 Urban Academy Laboratory High School",
+            700000412
+        ]
+    ],
+    [
+        "Stay at Two Boots Pizza",
+        "(13:56, 15:31)",
+        [
+            "M565 Urban Academy Laboratory High School",
+            700000412
+        ]
+    ],
+    [
+        "Stay at Two Boots Pizza",
+        "(15:39, 16:39)",
+        [
+            "Two Boots Pizza",
+            700006545
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:39, 20:15)",
+        [
+            "Two Boots Pizza",
+            700006545
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 22:10)",
+        [
+            "",
+            700011415
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:09, 23:59)",
+        [
+            "Pizza Park",
+            700033902
+        ]
+    ]
+]

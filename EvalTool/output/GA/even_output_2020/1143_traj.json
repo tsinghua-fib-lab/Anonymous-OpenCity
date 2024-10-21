@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bay Wheels",
+            700012246
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:58)",
+        [
+            "",
+            700000781
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:58, 18:17)",
+        [
+            "",
+            700000597
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:48, 18:58)",
+        [
+            "Pete's Deli & Cafe",
+            700004902
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:36, 23:59)",
+        [
+            "Round Medical Supply and Uniforms",
+            700005182
+        ]
+    ]
+]

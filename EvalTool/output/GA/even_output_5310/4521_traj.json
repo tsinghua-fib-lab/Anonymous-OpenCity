@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Follia",
+            700009140
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 16:07)",
+        [
+            "Joe Junior",
+            700009124
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:33, 18:51)",
+        [
+            "Citi Bike - East 15th Street & 3rd Avenue",
+            700008025
+        ]
+    ],
+    [
+        "Wind down with a movie or TV show",
+        "(18:10, 20:48)",
+        [
+            "Starbucks",
+            700007885
+        ]
+    ],
+    [
+        "Wind down with a movie or TV show",
+        "(20:55, 22:47)",
+        [
+            "Starbucks",
+            700007885
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "",
+            700002709
+        ]
+    ]
+]

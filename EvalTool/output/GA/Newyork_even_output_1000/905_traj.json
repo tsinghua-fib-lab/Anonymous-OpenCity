@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700003526
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:53)",
+        [
+            "Starbucks",
+            700003526
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:23, 14:01)",
+        [
+            "Starbucks",
+            700003526
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:32, 16:37)",
+        [
+            "McDonald's",
+            700003494
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(16:54, 18:01)",
+        [
+            "Citi Bike - East 41st Street & Madison Avenue",
+            700018903
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 21:32)",
+        [
+            "Subway",
+            700003535
+        ]
+    ],
+    [
+        "Wind Down & Plan for the Week Ahead",
+        "(20:24, 21:46)",
+        [
+            "Andaz",
+            700003536
+        ]
+    ],
+    [
+        "Win Down & Plan for the Week Ahead",
+        "(21:50, 23:06)",
+        [
+            "Andaz",
+            700003536
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:07, 23:59)",
+        [
+            "",
+            700013859
+        ]
+    ]
+]

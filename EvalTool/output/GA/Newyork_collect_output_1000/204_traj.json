@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Leisure Activity or Exercise",
+        "(10:00, 11:38)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Go to Dog & Bone",
+        "(11:27, 13:36)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 15:29)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:26, 20:01)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 22:48)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(23:46, 23:59)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ]
+]

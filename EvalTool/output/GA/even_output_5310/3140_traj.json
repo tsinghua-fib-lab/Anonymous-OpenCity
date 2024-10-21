@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Public School MO94",
+            700000405
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:41)",
+        [
+            "",
+            700001824
+        ]
+    ],
+    [
+        "Personal Leisure Time",
+        "(15:02, 17:36)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ],
+    [
+        "Personal Leisure Time",
+        "(18:04, 19:59)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:40, 21:02)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:17, 23:09)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ],
+    [
+        "Stay at Dental Place.",
+        "(23:30, 23:59)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ]
+]

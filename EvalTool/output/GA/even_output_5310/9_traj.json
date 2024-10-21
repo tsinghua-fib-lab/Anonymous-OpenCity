@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "CVS Pharmacy",
+            700006016
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:08)",
+        [
+            "CVS Pharmacy",
+            700006016
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:56, 18:22)",
+        [
+            "Four Seasons",
+            700003419
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:48, 17:56)",
+        [
+            "Four Seasons",
+            700003419
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:17, 19:56)",
+        [
+            "Four Seasons",
+            700003419
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 23:59)",
+        [
+            "The Lobster Club",
+            700015167
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:38, 23:59)",
+        [
+            "CVS Pharmacy",
+            700006016
+        ]
+    ]
+]

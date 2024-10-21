@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Akiko's",
+            700004373
+        ]
+    ],
+    [
+        "Morning Exercise or Outdoor Activity",
+        "(10:00, 11:28)",
+        [
+            "Akiko's",
+            700004373
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(12:17, 13:40)",
+        [
+            "",
+            700008814
+        ]
+    ],
+    [
+        "Relax and Unwind with a Book or Movie",
+        "(14:30, 16:06)",
+        [
+            "",
+            700002136
+        ]
+    ],
+    [
+        "Late Afternoon Hobby or Sport",
+        "(16:26, 18:04)",
+        [
+            "Hot Yoga",
+            700014397
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 23:59)",
+        [
+            "",
+            700012989
+        ]
+    ]
+]

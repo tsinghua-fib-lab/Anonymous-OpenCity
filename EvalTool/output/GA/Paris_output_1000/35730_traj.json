@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Café de la Paix",
+            700006874
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:18)",
+        [
+            "Pharmacie de l'Opéra",
+            700018112
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:08, 15:36)",
+        [
+            "Comptoir Change Opera",
+            700065421
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(17:37, 19:11)",
+        [
+            "BRED",
+            700033600
+        ]
+    ],
+    [
+        "Spend time at Café des Banques",
+        "(19:11, 20:40)",
+        [
+            "Le Relais Paris Opéra",
+            700027151
+        ]
+    ],
+    [
+        "Next arrangement for Situation 2",
+        "(21:05, 22:19)",
+        [
+            "Le Relais Paris Opéra",
+            700027151
+        ]
+    ],
+    [
+        "Next arrangement for Situation 2",
+        "(22:47, 23:51)",
+        [
+            "Le Relais Paris Opéra",
+            700027151
+        ]
+    ],
+    [
+        "Stay",
+        "(23:58, 23:59)",
+        [
+            "Café de la Paix",
+            700006874
+        ]
+    ]
+]

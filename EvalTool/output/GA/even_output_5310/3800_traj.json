@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020039
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:50)",
+        [
+            "McDonald's",
+            700010937
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:32, 15:04)",
+        [
+            "",
+            700020041
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:41, 17:19)",
+        [
+            "Rehoboth Spa Lounge",
+            700006393
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:58, 20:43)",
+        [
+            "McDonald's",
+            700010937
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:25, 23:07)",
+        [
+            "Mikado",
+            700018156
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Rite Aid",
+            700003959
+        ]
+    ]
+]

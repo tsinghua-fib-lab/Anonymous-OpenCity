@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sun Hing Lung Co",
+            700014159
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:24)",
+        [
+            "",
+            700038447
+        ]
+    ],
+    [
+        "You are currently at Sun Hing Lung Co",
+        "(12:17, 13:39)",
+        [
+            "",
+            700000711
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:17, 18:34)",
+        [
+            "Sun Hing Lung Co",
+            700014159
+        ]
+    ],
+    [
+        "Prepare a nice dinner at home",
+        "(18:32, 20:00)",
+        [
+            "Sun Hing Lung Co",
+            700014159
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:00, 23:59)",
+        [
+            "",
+            700038459
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(22:49, 23:59)",
+        [
+            "Sun Hing Lung Co",
+            700014159
+        ]
+    ]
+]

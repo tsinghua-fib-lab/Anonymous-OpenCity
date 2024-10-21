@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Goldberg's Pharmacy",
+            700007629
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(09:00, 10:38)",
+        [
+            "Da Adriano",
+            700033752
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(11:23, 13:00)",
+        [
+            "Da Adriano",
+            700033752
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 16:57)",
+        [
+            "USA Vein Clinic",
+            700015611
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:39, 21:53)",
+        [
+            "",
+            700001986
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(23:41, 23:59)",
+        [
+            "Goldberg's Pharmacy",
+            700007629
+        ]
+    ]
+]

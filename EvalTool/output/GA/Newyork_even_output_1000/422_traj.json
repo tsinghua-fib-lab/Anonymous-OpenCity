@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700038886
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:48)",
+        [
+            "Dig",
+            700022401
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 16:07)",
+        [
+            "Chase",
+            700006017
+        ]
+    ],
+    [
+        "Next activity after social activity",
+        "(16:56, 18:25)",
+        [
+            "Chase",
+            700006017
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(19:18, 21:50)",
+        [
+            "Texas Rotisserie Grill & BBQ",
+            700030626
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:29, 23:59)",
+        [
+            "The Little Beet",
+            700039218
+        ]
+    ]
+]

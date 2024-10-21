@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:00, 11:31)",
+        [
+            "ChargePoint",
+            700012450
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(11:56, 13:49)",
+        [
+            "ChargePoint",
+            700012450
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(14:16, 16:41)",
+        [
+            "Chirp",
+            700008376
+        ]
+    ],
+    [
+        "Dinner Preparation or Takeout",
+        "(16:26, 17:54)",
+        [
+            "Patiala Indian Grill",
+            700008702
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 23:35)",
+        [
+            "Skylight Diner",
+            700003747
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:33, 23:59)",
+        [
+            "",
+            700037719
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:58, 23:59)",
+        [
+            "",
+            700037712
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(10:00, 11:51)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:34, 14:13)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:25, 18:02)",
+        [
+            "7th Street Burger",
+            700015362
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:16, 23:59)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Café Qui Parle",
+            700027763
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:05)",
+        [
+            "Lepic - Armée d'Orient",
+            700044377
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:39, 15:58)",
+        [
+            "Montmartre Galabru",
+            700065021
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 18:13)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 22:34)",
+        [
+            "Le Nazir",
+            700026173
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:21, 23:59)",
+        [
+            "Un Zèbre à Montmartre",
+            700027068
+        ]
+    ]
+]

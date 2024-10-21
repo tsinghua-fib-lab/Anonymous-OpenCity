@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tesla Supercharger",
+            700016580
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 16:02)",
+        [
+            "",
+            700011238
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:23, 18:31)",
+        [
+            "Capital One",
+            700008637
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:05, 22:27)",
+        [
+            "Curry and Tandoor",
+            700008636
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:43, 23:05)",
+        [
+            "Tesla Supercharger",
+            700016580
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:55, 23:59)",
+        [
+            "Tesla Supercharger",
+            700016580
+        ]
+    ]
+]

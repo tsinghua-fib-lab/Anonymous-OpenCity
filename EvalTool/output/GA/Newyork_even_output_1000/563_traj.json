@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020056
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(09:00, 10:29)",
+        [
+            "",
+            700020056
+        ]
+    ],
+    [
+        "Next activity after Leisure Reading or Hobby Time",
+        "(10:31, 12:25)",
+        [
+            "Pick A Bagel",
+            700018339
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:21, 13:39)",
+        [
+            "",
+            700020222
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:52, 23:05)",
+        [
+            "",
+            700020052
+        ]
+    ],
+    [
+        "Next activity after Relaxing Evening.",
+        "(19:22, 21:52)",
+        [
+            "",
+            700000664
+        ]
+    ],
+    [
+        "Stay in the current place for relaxation.",
+        "(22:35, 23:43)",
+        [
+            "Pick A Bagel",
+            700018339
+        ]
+    ]
+]

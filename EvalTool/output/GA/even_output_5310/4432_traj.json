@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Reader & Advisor Evana",
+            700029591
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:45)",
+        [
+            "Battle of Tables",
+            700029590
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(15:25, 17:03)",
+        [
+            "The Garret Coctelería",
+            700008409
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:33, 19:07)",
+        [
+            "Casa Bocada",
+            700019636
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:08, 20:55)",
+        [
+            "Casa Bocada",
+            700019636
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:57, 22:54)",
+        [
+            "",
+            700002379
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:53, 23:59)",
+        [
+            "Nom Wah Nolita",
+            700004792
+        ]
+    ]
+]

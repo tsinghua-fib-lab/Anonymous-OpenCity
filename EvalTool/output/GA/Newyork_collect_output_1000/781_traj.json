@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Workout session at home",
+        "(09:00, 10:23)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(11:02, 12:18)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Next arrangement from Mughlai",
+        "(12:35, 14:06)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 16:50)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Next arrangement from Mughlai",
+        "(17:22, 19:15)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(19:53, 21:10)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:32, 23:59)",
+        [
+            "Little Basil",
+            700006236
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:51)",
+        [
+            "Poke Bowl",
+            700034062
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:17, 16:19)",
+        [
+            "CVS Pharmacy",
+            700003978
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:00, 18:57)",
+        [
+            "Poke Bowl",
+            700034062
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:45, 23:59)",
+        [
+            "CVS Pharmacy",
+            700003978
+        ]
+    ]
+]

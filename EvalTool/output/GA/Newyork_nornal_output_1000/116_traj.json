@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700028322
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:12)",
+        [
+            "",
+            700028258
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(14:44, 17:00)",
+        [
+            "",
+            700005790
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:19, 22:30)",
+        [
+            "",
+            700028264
+        ]
+    ],
+    [
+        "Next evening activities including social time",
+        "(20:10, 22:15)",
+        [
+            "Wayla",
+            700040291
+        ]
+    ],
+    [
+        "Current place and stay time",
+        "(22:46, 23:59)",
+        [
+            "",
+            700028331
+        ]
+    ]
+]

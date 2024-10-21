@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Go Noodle",
+            700039313
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:38)",
+        [
+            "Au Za'atar",
+            700011621
+        ]
+    ],
+    [
+        "Go for a morning jog or yoga session to start the day with some physical activity.",
+        "(12:09, 13:44)",
+        [
+            "Go Noodle",
+            700039313
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 16:41)",
+        [
+            "Sutton Bar Room",
+            700011531
+        ]
+    ],
+    [
+        "Stay at Sutton Bar Room",
+        "(17:59, 18:55)",
+        [
+            "Au Za'atar",
+            700011621
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:33, 22:40)",
+        [
+            "",
+            700010703
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "",
+            700010697
+        ]
+    ]
+]

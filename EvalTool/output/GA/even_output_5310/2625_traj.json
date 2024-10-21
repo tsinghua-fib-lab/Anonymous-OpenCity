@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of America",
+            700003505
+        ]
+    ],
+    [
+        "Outdoor Walk or Workout",
+        "(10:00, 11:23)",
+        [
+            "",
+            700009408
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:28, 15:34)",
+        [
+            "LA Fonda Del Sol",
+            700003506
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:04, 21:37)",
+        [
+            "",
+            700023934
+        ]
+    ],
+    [
+        "Wind Down & Family Time",
+        "(20:47, 21:54)",
+        [
+            "LA Fonda Del Sol",
+            700003506
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:59)",
+        [
+            "Naples 45",
+            700003512
+        ]
+    ]
+]

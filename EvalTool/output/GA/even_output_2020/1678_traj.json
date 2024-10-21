@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "SSAL",
+            700004275
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:14)",
+        [
+            "Project Juice",
+            700002094
+        ]
+    ],
+    [
+        "Relaxation/Entertainment",
+        "(14:38, 16:02)",
+        [
+            "Project Juice",
+            700002094
+        ]
+    ],
+    [
+        "Cooking and Preparing Dinner",
+        "(16:22, 18:25)",
+        [
+            "Project Juice",
+            700002094
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:15, 20:44)",
+        [
+            "Fiorella Polk Street",
+            700004277
+        ]
+    ],
+    [
+        "Next Arrangements: Go to Project Juice",
+        "(20:14, 22:12)",
+        [
+            "Project Juice",
+            700002094
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:31, 23:59)",
+        [
+            "Blue Barn",
+            700007283
+        ]
+    ]
+]

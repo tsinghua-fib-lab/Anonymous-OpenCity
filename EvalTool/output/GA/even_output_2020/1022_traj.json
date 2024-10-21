@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rooster & Rice",
+            700005074
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 10:53)",
+        [
+            "Rooster & Rice",
+            700005074
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:43, 13:04)",
+        [
+            "Shake Shack",
+            700007070
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 17:18)",
+        [
+            "Contrada",
+            700004833
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:04, 16:58)",
+        [
+            "Contrada",
+            700004833
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:43, 19:08)",
+        [
+            "Shake Shack",
+            700007070
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:57, 23:59)",
+        [
+            "Mauna Loa Cocktails",
+            700002643
+        ]
+    ]
+]

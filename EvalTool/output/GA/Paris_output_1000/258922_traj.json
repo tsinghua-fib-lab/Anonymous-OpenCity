@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pierre Charron - Champs-Elysées",
+            700044245
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:37)",
+        [
+            "Pierre Charron - Champs-Elysées",
+            700044245
+        ]
+    ],
+    [
+        "Exercise/Leisure Walk",
+        "(11:58, 13:34)",
+        [
+            "Pierre Charron - Champs-Elysées",
+            700044245
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:59, 15:30)",
+        [
+            "Le Pain Quotidien",
+            700036322
+        ]
+    ],
+    [
+        "Exercise/Leisure Walk",
+        "(15:57, 17:08)",
+        [
+            "Pierre Charron - Champs-Elysées",
+            700044245
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:55, 18:56)",
+        [
+            "Le Pain Quotidien",
+            700036322
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:03, 20:15)",
+        [
+            "Le Pain Quotidien",
+            700036322
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:11, 21:26)",
+        [
+            "Le Pain Quotidien",
+            700036322
+        ]
+    ],
+    [
+        "Stay",
+        "(21:43, 23:59)",
+        [
+            "Le Pain Quotidien",
+            700036322
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "Five Guys",
+            700003448
+        ]
+    ]
+]

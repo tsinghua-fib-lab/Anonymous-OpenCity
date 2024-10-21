@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Jimmy John's",
+            700005150
+        ]
+    ],
+    [
+        "Go for a walk in the local park.",
+        "(10:00, 11:03)",
+        [
+            "",
+            700013835
+        ]
+    ],
+    [
+        "Stay at Local park",
+        "(10:56, 11:51)",
+        [
+            "",
+            700000511
+        ]
+    ],
+    [
+        "Taking a break at Local park.",
+        "(12:00, 13:07)",
+        [
+            "",
+            700005171
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 17:13)",
+        [
+            "University of Phoenix",
+            700000512
+        ]
+    ],
+    [
+        "Stay at Jimmy John's for reading.",
+        "(17:05, 18:53)",
+        [
+            "University of Phoenix",
+            700000512
+        ]
+    ],
+    [
+        "Stay at Clay Medical Pharmacy for reading.",
+        "(19:08, 20:51)",
+        [
+            "First Republic Bank",
+            700000513
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:35, 23:44)",
+        [
+            "",
+            700013833
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:03)",
+        [
+            "Newton Street",
+            700020796
+        ]
+    ],
+    [
+        "Reading/Creative Time",
+        "(14:59, 17:02)",
+        [
+            "Newton Street",
+            700020796
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 21:41)",
+        [
+            "",
+            700063466
+        ]
+    ],
+    [
+        "Reading/Creative Time",
+        "(19:53, 21:31)",
+        [
+            "Caffè Nero",
+            700004089
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:46, 23:59)",
+        [
+            "",
+            700023876
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700063385
+        ]
+    ]
+]

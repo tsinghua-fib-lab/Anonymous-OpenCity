@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:33)",
+        [
+            "",
+            700009439
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 16:56)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:36, 16:04)",
+        [
+            "",
+            700009439
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:20, 17:51)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:20, 20:25)",
+        [
+            "Torraku Ramen",
+            700009796
+        ]
+    ],
+    [
+        "Go to Torraku Ramen for light meal.",
+        "(23:58, 23:59)",
+        [
+            "Torraku Ramen",
+            700009796
+        ]
+    ]
+]

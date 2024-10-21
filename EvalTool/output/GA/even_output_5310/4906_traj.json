@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Caffé Bene",
+            700005342
+        ]
+    ],
+    [
+        "Leisure Activity/Exercise",
+        "(10:00, 11:35)",
+        [
+            "Planet Fitness",
+            700014256
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 16:36)",
+        [
+            "",
+            700002850
+        ]
+    ],
+    [
+        "Socialize",
+        "(16:42, 17:57)",
+        [
+            "Caffé Bene",
+            700005342
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 20:34)",
+        [
+            "",
+            700002517
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:51, 22:46)",
+        [
+            "Poke Bowl",
+            700016234
+        ]
+    ],
+    [
+        "Next, stay at Poke Bowl.",
+        "(23:36, 23:59)",
+        [
+            "Poke Bowl",
+            700016234
+        ]
+    ]
+]

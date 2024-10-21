@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002241
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:29)",
+        [
+            "Regal Union Square Stadium 14",
+            700004229
+        ]
+    ],
+    [
+        "Relaxing Time",
+        "(12:19, 14:00)",
+        [
+            "",
+            700001222
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:56, 18:22)",
+        [
+            "",
+            700026308
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:18, 23:59)",
+        [
+            "Citi Bike - Broadway & East 14th Street",
+            700007968
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700018225
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 15:08)",
+        [
+            "Soup Kitchen",
+            700006318
+        ]
+    ],
+    [
+        "Stay at Soup Kitchen until 1 PM.",
+        "(11:28, 12:57)",
+        [
+            "Soup Kitchen",
+            700006318
+        ]
+    ],
+    [
+        "Decide to stay at Soup Kitchen until 1 PM.",
+        "(13:19, 15:08)",
+        [
+            "Soup Kitchen",
+            700006318
+        ]
+    ],
+    [
+        "Stay at Soup Kitchen until 1 PM.",
+        "(15:46, 17:40)",
+        [
+            "Soup Kitchen",
+            700006318
+        ]
+    ],
+    [
+        "Continue to hobby time.",
+        "(18:27, 19:57)",
+        [
+            "Soup Kitchen",
+            700006318
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 23:59)",
+        [
+            "",
+            700007284
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "Nocello",
+            700007287
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sanctuary T",
+            700014564
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:45)",
+        [
+            "",
+            700003167
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:31, 17:39)",
+        [
+            "",
+            700003167
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 23:56)",
+        [
+            "Maison Close",
+            700003855
+        ]
+    ],
+    [
+        "Stay at Sanctuary T and enjoy a late night drink.",
+        "(23:59, 23:59)",
+        [
+            "Sanctuary T",
+            700014564
+        ]
+    ]
+]

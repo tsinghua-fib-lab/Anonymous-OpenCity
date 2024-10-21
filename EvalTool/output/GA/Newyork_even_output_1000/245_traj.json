@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Talea",
+            700040509
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:14)",
+        [
+            "",
+            700002878
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(10:26, 12:56)",
+        [
+            "Talea",
+            700040509
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(12:51, 14:11)",
+        [
+            "Talea",
+            700040509
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:57, 15:49)",
+        [
+            "Talea",
+            700040509
+        ]
+    ],
+    [
+        "Engage in a creative writing session at Talea",
+        "(15:47, 16:58)",
+        [
+            "Talea",
+            700040509
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:15, 20:40)",
+        [
+            "Do Not Feed Alligators",
+            700040457
+        ]
+    ],
+    [
+        "Stay at Talea (Situation 6)",
+        "(22:27, 23:49)",
+        [
+            "Talea",
+            700040509
+        ]
+    ],
+    [
+        "Stay at Talea (Situation 6)",
+        "(23:57, 23:59)",
+        [
+            "Northfork",
+            700020677
+        ]
+    ]
+]

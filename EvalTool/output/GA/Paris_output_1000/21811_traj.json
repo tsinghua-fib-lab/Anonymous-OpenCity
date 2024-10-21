@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Société Générale",
+            700005972
+        ]
+    ],
+    [
+        "Outdoor Activity/Sport",
+        "(10:00, 12:01)",
+        [
+            "Société Générale",
+            700005972
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:53, 16:26)",
+        [
+            "Le Relais de la Jatte",
+            700005215
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(17:20, 18:58)",
+        [
+            "Société Générale",
+            700005972
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:48, 22:05)",
+        [
+            "",
+            700005961
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:49, 23:26)",
+        [
+            "In Paradiso",
+            700004801
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:46, 23:59)",
+        [
+            "",
+            700032698
+        ]
+    ]
+]

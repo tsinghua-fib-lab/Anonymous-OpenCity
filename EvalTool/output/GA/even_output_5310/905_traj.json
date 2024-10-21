@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "2nd Ave Deli",
+            700014920
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:16)",
+        [
+            "Jones Wood Foundry",
+            700030635
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:35, 18:42)",
+        [
+            "USPS",
+            700006043
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:42, 23:15)",
+        [
+            "Weill Cornell Internal Medicine Associates at Wright",
+            700016569
+        ]
+    ]
+]

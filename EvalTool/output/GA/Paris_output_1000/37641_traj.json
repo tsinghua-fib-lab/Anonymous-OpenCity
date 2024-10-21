@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700067237
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:21)",
+        [
+            "Au Vieux Paris d'Arcole",
+            700002412
+        ]
+    ],
+    [
+        "Continue leisure time",
+        "(14:25, 16:09)",
+        [
+            "Au Bougnat",
+            700025145
+        ]
+    ],
+    [
+        "Continue leisure time",
+        "(16:17, 17:53)",
+        [
+            "Au Bougnat",
+            700025145
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:40, 19:51)",
+        [
+            "Au Bougnat",
+            700025145
+        ]
+    ],
+    [
+        "Go to Au Bougnat and wind down.",
+        "(20:39, 22:04)",
+        [
+            "Au Bougnat",
+            700025145
+        ]
+    ],
+    [
+        "Stay at Au Bougnat for winding down.",
+        "(22:53, 23:59)",
+        [
+            "Au Bougnat",
+            700025145
+        ]
+    ]
+]

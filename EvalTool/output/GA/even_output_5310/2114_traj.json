@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Il Violino",
+            700005036
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:17)",
+        [
+            "",
+            700003205
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:52, 16:50)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:44, 17:54)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:28, 19:52)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 23:59)",
+        [
+            "Chase",
+            700005034
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(23:55, 23:59)",
+        [
+            "Chase",
+            700005034
+        ]
+    ]
+]

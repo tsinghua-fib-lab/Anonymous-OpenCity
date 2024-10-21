@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pescstore",
+            700005075
+        ]
+    ],
+    [
+        "Exercise (1 hour)",
+        "(10:00, 10:59)",
+        [
+            "Pescstore",
+            700005075
+        ]
+    ],
+    [
+        "Exercise (1 hour)",
+        "(12:01, 14:59)",
+        [
+            "Pescstore",
+            700005075
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 16:33)",
+        [
+            "",
+            700014238
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(17:43, 18:33)",
+        [
+            "Pescstore",
+            700005075
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:18, 20:11)",
+        [
+            "Pescstore",
+            700005075
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:01, 22:35)",
+        [
+            "Pescstore",
+            700005075
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(22:27, 23:49)",
+        [
+            "Pescstore",
+            700005075
+        ]
+    ]
+]

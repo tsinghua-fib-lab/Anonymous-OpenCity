@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(10:00, 10:57)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(11:31, 13:05)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:40, 15:23)",
+        [
+            "Auto Motion",
+            700018140
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 19:34)",
+        [
+            "Citi Bike - Lexington Avenue & East 24th Street",
+            700008122
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:39, 21:00)",
+        [
+            "",
+            700022513
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:44, 23:59)",
+        [
+            "",
+            700002337
+        ]
+    ]
+]

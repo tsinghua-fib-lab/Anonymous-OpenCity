@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008324
+        ]
+    ],
+    [
+        "Wake Up and Enjoy a Leisurely Breakfast",
+        "(10:00, 10:54)",
+        [
+            "",
+            700008324
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:19, 15:13)",
+        [
+            "",
+            700008339
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 19:22)",
+        [
+            "",
+            700008338
+        ]
+    ],
+    [
+        "Next activity based on the plan.",
+        "(19:51, 21:54)",
+        [
+            "",
+            700007002
+        ]
+    ],
+    [
+        "Stay at home for reading/TV",
+        "(22:05, 23:38)",
+        [
+            "Sushi Delight",
+            700001946
+        ]
+    ],
+    [
+        "Stay at Sushi Delight",
+        "(23:54, 23:59)",
+        [
+            "Sushi Delight",
+            700001946
+        ]
+    ]
+]

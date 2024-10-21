@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Score",
+            700004999
+        ]
+    ],
+    [
+        "Workout or Sports Activity",
+        "(10:00, 11:35)",
+        [
+            "Score",
+            700004999
+        ]
+    ],
+    [
+        "Workout or Sports Activity",
+        "(11:36, 12:59)",
+        [
+            "Score",
+            700004999
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:13, 17:16)",
+        [
+            "Osmanthus Dim Sum Lounge",
+            700004352
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:34, 21:02)",
+        [
+            "Little Szechuan",
+            700004996
+        ]
+    ],
+    [
+        "Continue at Farmhouse Kitchen",
+        "(21:58, 22:54)",
+        [
+            "Larry Flynt's Hustler Club",
+            700002053
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Specs Bar",
+            700000427
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700007624
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:00, 11:29)",
+        [
+            "",
+            700007624
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(11:50, 13:12)",
+        [
+            "Haight Street Referral Center",
+            700004710
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:22, 18:02)",
+        [
+            "",
+            700007640
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:48, 21:50)",
+        [
+            "",
+            700007622
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "",
+            700007639
+        ]
+    ]
+]

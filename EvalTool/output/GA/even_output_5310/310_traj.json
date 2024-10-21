@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Coffee Inn",
+            700011162
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:11)",
+        [
+            "Matto",
+            700035432
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:32, 18:28)",
+        [
+            "",
+            700038179
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(20:53, 22:01)",
+        [
+            "",
+            700038179
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(22:27, 23:59)",
+        [
+            "Weill Cornell Medicine",
+            700041063
+        ]
+    ],
+    [
+        "Continue staying at Coffee Inn",
+        "(23:47, 23:59)",
+        [
+            "Coffee Inn",
+            700011162
+        ]
+    ]
+]

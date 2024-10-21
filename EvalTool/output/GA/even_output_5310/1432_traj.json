@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 27th Street & 1st Avenue",
+            700008040
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:11)",
+        [
+            "",
+            700019551
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 15:56)",
+        [
+            "",
+            700032011
+        ]
+    ],
+    [
+        "Cook Dinner or Try a New Recipe",
+        "(18:36, 19:58)",
+        [
+            "Citi Bike - East 27th Street & 1st Avenue",
+            700008040
+        ]
+    ],
+    [
+        "Watch a Movie or Game Night",
+        "(20:51, 22:12)",
+        [
+            "Citi Bike - East 27th Street & 1st Avenue",
+            700008040
+        ]
+    ],
+    [
+        "Watch a Movie or Game Night",
+        "(22:26, 23:49)",
+        [
+            "Citi Bike - East 27th Street & 1st Avenue",
+            700008040
+        ]
+    ]
+]

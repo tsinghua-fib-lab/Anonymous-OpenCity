@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002612
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:51)",
+        [
+            "",
+            700000784
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 13:29)",
+        [
+            "",
+            700026134
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:58, 18:36)",
+        [
+            "Citi Bike - LaGuardia Pl & W 3 St",
+            700008108
+        ]
+    ],
+    [
+        "Wind Down & Read/Reflect",
+        "(19:20, 20:56)",
+        [
+            "",
+            700002612
+        ]
+    ],
+    [
+        "Continue to Starbucks.",
+        "(21:15, 23:20)",
+        [
+            "Bareburger",
+            700011956
+        ]
+    ],
+    [
+        "Continue to Stay at your last place (no specific place)",
+        "(23:07, 23:59)",
+        [
+            "Citi Bike - LaGuardia Pl & W 3 St",
+            700008108
+        ]
+    ]
+]

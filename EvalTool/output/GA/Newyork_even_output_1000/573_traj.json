@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005843
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:03)",
+        [
+            "The Leopard at des Artistes",
+            700017538
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:41, 16:05)",
+        [
+            "",
+            700002084
+        ]
+    ],
+    [
+        "Move to Lunch",
+        "(12:25, 14:00)",
+        [
+            "The Migrant Kitchen",
+            700016762
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 17:28)",
+        [
+            "Thomas Drugs",
+            700006589
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:34, 23:59)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "Engage in relaxation",
+        "(23:20, 23:59)",
+        [
+            "Chase",
+            700005034
+        ]
+    ]
+]

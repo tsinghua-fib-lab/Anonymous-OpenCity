@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(09:00, 10:34)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(11:18, 12:52)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:55, 19:36)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:21, 19:47)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(23:45, 23:59)",
+        [
+            "",
+            700002180
+        ]
+    ]
+]

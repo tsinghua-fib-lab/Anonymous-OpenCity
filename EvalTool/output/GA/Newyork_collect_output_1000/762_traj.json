@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:09)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:00, 11:56)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 14:56)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "Current activity: Stay at iPark for dinner and movie night",
+        "(18:05, 21:51)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:13, 23:59)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ]
+]

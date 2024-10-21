@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AsiaSF",
+            700001466
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:28)",
+        [
+            "AsiaSF",
+            700001466
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:10, 12:33)",
+        [
+            "AsiaSF",
+            700001466
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 18:02)",
+        [
+            "Azucar Lounge",
+            700001885
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(18:22, 19:51)",
+        [
+            "Azucar Lounge",
+            700001885
+        ]
+    ],
+    [
+        "Leisure activity.",
+        "(20:53, 23:19)",
+        [
+            "Mukunda",
+            700013955
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(23:04, 23:59)",
+        [
+            "café suspiro",
+            700003585
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:30)",
+        [
+            "",
+            700022520
+        ]
+    ],
+    [
+        "Brunch with Family/Friends",
+        "(12:44, 14:20)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Physical Activity",
+        "(14:50, 15:53)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:58, 22:06)",
+        [
+            "",
+            700022519
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 23:59)",
+        [
+            "",
+            700022515
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:09, 23:59)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ]
+]

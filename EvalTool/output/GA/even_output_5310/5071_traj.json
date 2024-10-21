@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Calexico",
+            700011161
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:13)",
+        [
+            "",
+            700020599
+        ]
+    ],
+    [
+        "Relax at Calexico",
+        "(11:58, 13:22)",
+        [
+            "Calexico",
+            700011161
+        ]
+    ],
+    [
+        "Relax at Calexico",
+        "(14:16, 15:45)",
+        [
+            "Tozzo",
+            700033561
+        ]
+    ],
+    [
+        "Relax at Calexico",
+        "(16:44, 18:07)",
+        [
+            "Tozzo",
+            700033561
+        ]
+    ],
+    [
+        "Prepare and enjoy a nice dinner at home, followed by some quality time with friends or family, playing games or discussing the week ahead.",
+        "(19:29, 21:10)",
+        [
+            "Anand Indian Cuisine",
+            700017559
+        ]
+    ],
+    [
+        "Stay at Calexico",
+        "(21:16, 22:38)",
+        [
+            "Anand Indian Cuisine",
+            700017559
+        ]
+    ],
+    [
+        "Stay at Calexico",
+        "(22:41, 23:59)",
+        [
+            "Tozzo",
+            700033561
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "CityMD",
+            700013542
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:29)",
+        [
+            "Bento NYC",
+            700015876
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:33, 12:05)",
+        [
+            "Bento NYC",
+            700015876
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 12:57)",
+        [
+            "Sushi Ryusei",
+            700015028
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(16:32, 17:54)",
+        [
+            "Sushi Ryusei",
+            700015028
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(18:56, 20:29)",
+        [
+            "Starbucks",
+            700016930
+        ]
+    ],
+    [
+        "After watching sports/entertainment, you should stay at Sushi Ryusei.",
+        "(21:15, 22:40)",
+        [
+            "Sushi Ryusei",
+            700015028
+        ]
+    ],
+    [
+        "Stay at Sushi Ryusei.",
+        "(23:12, 23:59)",
+        [
+            "Sushi Ryusei",
+            700015028
+        ]
+    ]
+]

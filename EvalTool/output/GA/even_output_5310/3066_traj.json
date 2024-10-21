@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:56)",
+        [
+            "",
+            700002846
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:21, 15:48)",
+        [
+            "",
+            700001728
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 19:30)",
+        [
+            "Dante",
+            700021858
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:54, 23:27)",
+        [
+            "Cafe Panino Mucho Gusto",
+            700007327
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "",
+            700001468
+        ]
+    ]
+]

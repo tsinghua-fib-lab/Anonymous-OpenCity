@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Astor Court",
+            700011500
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:12)",
+        [
+            "Alpha Garage",
+            700000554
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:16, 18:48)",
+        [
+            "Burger Heaven",
+            700004195
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(16:57, 18:14)",
+        [
+            "Burger Heaven",
+            700004195
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(18:28, 19:50)",
+        [
+            "Burger Heaven",
+            700004195
+        ]
+    ],
+    [
+        "Dinner with Family or Friends",
+        "(20:13, 21:47)",
+        [
+            "",
+            700018851
+        ]
+    ],
+    [
+        "Dinner with Family or Friends",
+        "(22:27, 23:59)",
+        [
+            "Burger Heaven",
+            700004195
+        ]
+    ]
+]

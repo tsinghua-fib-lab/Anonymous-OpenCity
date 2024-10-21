@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Triona's",
+            700029594
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:57)",
+        [
+            "Chito Gvrito",
+            700023081
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:40, 15:03)",
+        [
+            "Citi Bike - East 15th Street & 3rd Avenue",
+            700008025
+        ]
+    ],
+    [
+        "Lunch (1:00 PM - 2:00 PM)",
+        "(15:51, 16:50)",
+        [
+            "Citi Bike - East 15th Street & 3rd Avenue",
+            700008025
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:20, 19:05)",
+        [
+            "Citi Bike - East 15th Street & 3rd Avenue",
+            700008025
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:50, 23:59)",
+        [
+            "",
+            700010346
+        ]
+    ]
+]

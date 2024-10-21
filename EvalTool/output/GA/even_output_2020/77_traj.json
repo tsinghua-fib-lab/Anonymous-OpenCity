@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Baked Bear",
+            700005367
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:04)",
+        [
+            "Sam's",
+            700004998
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:57, 15:05)",
+        [
+            "Taqueria Zorro",
+            700001847
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:28, 17:05)",
+        [
+            "Taqueria Zorro",
+            700001847
+        ]
+    ],
+    [
+        "Social Activity",
+        "(17:57, 19:31)",
+        [
+            "Taqueria Zorro",
+            700001847
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 21:01)",
+        [
+            "",
+            700014386
+        ]
+    ]
+]

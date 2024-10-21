@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Frances",
+            700007406
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:35)",
+        [
+            "Dumpling House",
+            700010736
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 14:18)",
+        [
+            "Barry's Bootcamp",
+            700006311
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(16:37, 18:15)",
+        [
+            "Dinosaurs",
+            700001890
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(18:17, 19:57)",
+        [
+            "Dinosaurs",
+            700001890
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 23:59)",
+        [
+            "Sushi Time",
+            700008838
+        ]
+    ]
+]

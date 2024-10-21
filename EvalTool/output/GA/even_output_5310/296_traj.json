@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "USPS",
+            700017170
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 10:07)",
+        [
+            "USPS",
+            700017170
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:15, 11:59)",
+        [
+            "USPS",
+            700017170
+        ]
+    ],
+    [
+        "Relaxation and Reading",
+        "(12:05, 13:30)",
+        [
+            "USPS",
+            700017170
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(13:49, 15:56)",
+        [
+            "USPS",
+            700017170
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:07, 18:28)",
+        [
+            "Citi Bike - East 68th Street & Madison Avenue",
+            700021682
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:02, 23:59)",
+        [
+            "Citi Bike - East 67th Street & Park Avenue",
+            700017921
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "",
+            700010788
+        ]
+    ]
+]

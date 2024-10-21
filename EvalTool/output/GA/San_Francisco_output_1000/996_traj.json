@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sequoia Fabrica",
+            700013780
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:05)",
+        [
+            "Sequoia Fabrica",
+            700013780
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:12, 12:32)",
+        [
+            "Sunflower",
+            700004799
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:32, 14:36)",
+        [
+            "Sequoia Fabrica",
+            700013780
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:09, 20:56)",
+        [
+            "Mochica",
+            700000863
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(20:21, 22:59)",
+        [
+            "Cracked & Battered",
+            700005780
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(22:19, 23:59)",
+        [
+            "Cracked & Battered",
+            700005780
+        ]
+    ]
+]

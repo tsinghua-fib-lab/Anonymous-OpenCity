@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009794
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:03)",
+        [
+            "",
+            700000491
+        ]
+    ],
+    [
+        "Lunch Preparation and Eating",
+        "(13:09, 14:09)",
+        [
+            "Lapisara",
+            700008705
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 15:28)",
+        [
+            "heist",
+            700010116
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:41, 17:13)",
+        [
+            "heist",
+            700010116
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(17:17, 18:49)",
+        [
+            "",
+            700009794
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:55, 23:59)",
+        [
+            "heist",
+            700010116
+        ]
+    ]
+]

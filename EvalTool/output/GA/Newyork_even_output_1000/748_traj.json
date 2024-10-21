@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Caffè Palermo",
+            700019419
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:10)",
+        [
+            "Caffè Palermo",
+            700019419
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:24, 15:46)",
+        [
+            "Mulberry Project",
+            700008778
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:28, 19:49)",
+        [
+            "Pep's on Grand",
+            700013299
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 23:59)",
+        [
+            "Hometown Hotpot & BBQ",
+            700009615
+        ]
+    ]
+]

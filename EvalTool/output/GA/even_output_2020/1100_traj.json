@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009870
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 11:03)",
+        [
+            "",
+            700009870
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:10, 17:10)",
+        [
+            "Noosh",
+            700008746
+        ]
+    ],
+    [
+        "Participate in a fun sports activity, such as tennis or a group fitness class.",
+        "(17:58, 19:37)",
+        [
+            "Jane",
+            700009590
+        ]
+    ],
+    [
+        "Wind down the day by watching a movie or reading a book.",
+        "(20:12, 22:40)",
+        [
+            "",
+            700009870
+        ]
+    ],
+    [
+        "Stay at Compton's Coffee House",
+        "(23:39, 23:59)",
+        [
+            "Walgreens",
+            700000786
+        ]
+    ]
+]

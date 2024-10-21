@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kaigo Coffee Room",
+            700014279
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:19)",
+        [
+            "",
+            700001997
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(15:16, 16:51)",
+        [
+            "Kaigo Coffee Room",
+            700014279
+        ]
+    ],
+    [
+        "Watch Sports/Movies",
+        "(17:31, 19:09)",
+        [
+            "Kaigo Coffee Room",
+            700014279
+        ]
+    ],
+    [
+        "Watch Sports/Movies",
+        "(19:47, 21:46)",
+        [
+            "Kaigo Coffee Room",
+            700014279
+        ]
+    ],
+    [
+        "Go to Kaigo Coffee Room",
+        "(22:22, 23:50)",
+        [
+            "Kaigo Coffee Room",
+            700014279
+        ]
+    ],
+    [
+        "Go to Kaigo Coffee Room",
+        "(23:50, 23:59)",
+        [
+            "Kaigo Coffee Room",
+            700014279
+        ]
+    ]
+]

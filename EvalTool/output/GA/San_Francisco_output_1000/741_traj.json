@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Aunt Charlies Lounge",
+            700013873
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(09:00, 10:36)",
+        [
+            "Aunt Charlies Lounge",
+            700013873
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(10:50, 11:57)",
+        [
+            "Northeast Community Credit Union",
+            700013871
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(12:39, 13:49)",
+        [
+            "Aunt Charlies Lounge",
+            700013873
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:22, 19:12)",
+        [
+            "",
+            700010249
+        ]
+    ],
+    [
+        "Social Time",
+        "(20:03, 22:02)",
+        [
+            "Aunt Charlies Lounge",
+            700013873
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:59)",
+        [
+            "Boys & Girls Clubs of San Francisco Tenderloin Clubhouse",
+            700013881
+        ]
+    ]
+]

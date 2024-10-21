@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002275
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:14)",
+        [
+            "Hekate Café & Elixir Lounge",
+            700028537
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:37, 17:15)",
+        [
+            "Ninth Street Espresso",
+            700013666
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 20:34)",
+        [
+            "Blind Barber",
+            700008784
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "Blind Barber",
+            700008784
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mim Spicy & Deli Grocery",
+            700006237
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:38)",
+        [
+            "Mim Spicy & Deli Grocery",
+            700006237
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:31, 17:18)",
+        [
+            "",
+            700002450
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:22, 15:22)",
+        [
+            "Link NYC",
+            700019945
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:15, 23:59)",
+        [
+            "Maguro Sushi",
+            700006238
+        ]
+    ],
+    [
+        "Current Place: Mim Spicy & Deli Grocery, Stay Time: 1 hour 30 minutes",
+        "(23:38, 23:59)",
+        [
+            "Maguro Sushi",
+            700006238
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Amorino",
+            700024039
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:07)",
+        [
+            "Jaja",
+            700019116
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 19:36)",
+        [
+            "Le Point Virgule",
+            700005915
+        ]
+    ],
+    [
+        "Stay at Le Point Virgule",
+        "(20:54, 22:01)",
+        [
+            "Le Point Virgule",
+            700005915
+        ]
+    ],
+    [
+        "Stay at Le Point Virgule",
+        "(22:28, 23:59)",
+        [
+            "Le Point Virgule",
+            700005915
+        ]
+    ]
+]

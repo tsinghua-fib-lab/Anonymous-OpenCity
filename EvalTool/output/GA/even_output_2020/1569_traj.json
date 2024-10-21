@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008260
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:59)",
+        [
+            "Abrazo",
+            700001592
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:13, 12:54)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ],
+    [
+        "Household Chores",
+        "(11:53, 13:01)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ],
+    [
+        "Household Chores",
+        "(13:46, 15:58)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ],
+    [
+        "Social Time or Community Engagement",
+        "(16:37, 18:04)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(19:07, 21:10)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(21:13, 22:42)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ],
+    [
+        "Stay at Baccus",
+        "(23:24, 23:59)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ]
+]

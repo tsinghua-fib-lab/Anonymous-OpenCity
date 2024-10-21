@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001876
+        ]
+    ],
+    [
+        "Go for a walk or jog in the park",
+        "(09:00, 09:52)",
+        [
+            "",
+            700037261
+        ]
+    ],
+    [
+        "Reading or catching up on a hobby",
+        "(10:22, 11:13)",
+        [
+            "Citi Bike - Laight Street & Hudson Street",
+            700008114
+        ]
+    ],
+    [
+        "Reading or catching up on a hobby",
+        "(11:48, 12:51)",
+        [
+            "Citi Bike - Laight Street & Hudson Street",
+            700008114
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 14:55)",
+        [
+            "",
+            700037273
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:34, 18:56)",
+        [
+            "",
+            700037261
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 21:54)",
+        [
+            "",
+            700002844
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "",
+            700037270
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700061585
+        ]
+    ],
+    [
+        "Outdoor Activity/Exercise",
+        "(10:00, 10:54)",
+        [
+            "Tzeferakos Café",
+            700021842
+        ]
+    ],
+    [
+        "Outdoor Activity/Exercise",
+        "(11:25, 13:31)",
+        [
+            "Tzeferakos Café",
+            700021842
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 16:31)",
+        [
+            "",
+            700046987
+        ]
+    ],
+    [
+        "Hobby/Creative Time",
+        "(16:50, 18:16)",
+        [
+            "Tzeferakos Café",
+            700021842
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:41, 20:57)",
+        [
+            "",
+            700046987
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "Parking Polytechnique",
+            700039625
+        ]
+    ]
+]

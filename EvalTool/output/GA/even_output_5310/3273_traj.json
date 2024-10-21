@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Apothéke",
+            700004121
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:09)",
+        [
+            "Art Bean",
+            700024438
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(12:49, 14:56)",
+        [
+            "The First Chinese Baptist Church",
+            700011025
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(15:48, 17:18)",
+        [
+            "Juicy",
+            700016009
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(17:41, 19:19)",
+        [
+            "Shanghai 21",
+            700006671
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:13, 23:00)",
+        [
+            "Buddha Bodai",
+            700006673
+        ]
+    ]
+]

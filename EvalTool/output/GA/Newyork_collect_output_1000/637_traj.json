@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Morning Routine (10:00 AM - 11:00 AM)",
+        "(10:00, 12:10)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 15:51)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(15:17, 16:49)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:28, 19:32)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ]
+]

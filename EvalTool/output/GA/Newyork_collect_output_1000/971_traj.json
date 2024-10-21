@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:47)",
+        [
+            "",
+            700018138
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:36, 16:11)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:54, 20:54)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "Relax with a movie or binge-watch a series on your favorite streaming platform.",
+        "(19:16, 20:50)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Relax with a movie or binge-watch a series",
+        "(21:47, 23:07)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Relax with a movie or binge-watch a series",
+        "(23:35, 23:59)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ]
+]

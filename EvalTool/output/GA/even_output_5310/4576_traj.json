@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "NYU Stern School of Business",
+            700004434
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:15)",
+        [
+            "NYU Stern School of Business",
+            700004434
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(16:12, 17:59)",
+        [
+            "NYU Stern School of Business",
+            700004434
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(18:51, 19:51)",
+        [
+            "NYU Stern School of Business",
+            700004434
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:59, 23:59)",
+        [
+            "NYU Courant Institute of Mathematical Sciences",
+            700000591
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "",
+            700007594
+        ]
+    ]
+]

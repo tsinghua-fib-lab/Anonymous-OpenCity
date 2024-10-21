@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Urban Woof",
+            700030651
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:09)",
+        [
+            "Urban Woof",
+            700030651
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:11, 12:09)",
+        [
+            "Urban Woof",
+            700030651
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 14:07)",
+        [
+            "Anand Indian Cuisine",
+            700017559
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 21:04)",
+        [
+            "Ollie's To Go",
+            700023407
+        ]
+    ],
+    [
+        "Evening Leisure Time",
+        "(20:40, 21:58)",
+        [
+            "the Blue Mezze Bar",
+            700023409
+        ]
+    ],
+    [
+        "Relax and Watch a Movie/TV Show",
+        "(22:06, 23:42)",
+        [
+            "Ollie's To Go",
+            700023407
+        ]
+    ],
+    [
+        "Evening Leisure Time",
+        "(23:35, 23:59)",
+        [
+            "Uva Next Door",
+            700023406
+        ]
+    ]
+]

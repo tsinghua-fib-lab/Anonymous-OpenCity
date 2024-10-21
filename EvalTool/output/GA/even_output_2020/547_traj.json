@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mayes Oyster House",
+            700001105
+        ]
+    ],
+    [
+        "Have a leisurely breakfast",
+        "(09:00, 10:05)",
+        [
+            "Mayes Oyster House",
+            700001105
+        ]
+    ],
+    [
+        "Stay at Mayes Oyster House",
+        "(10:37, 12:03)",
+        [
+            "California Martial Arts",
+            700010676
+        ]
+    ],
+    [
+        "Enjoy some personal reading at home",
+        "(12:45, 13:56)",
+        [
+            "Mayes Oyster House",
+            700001105
+        ]
+    ],
+    [
+        "Have lunch with friends or family",
+        "(14:31, 15:24)",
+        [
+            "Sammy's Cafe",
+            700004065
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:22, 17:18)",
+        [
+            "",
+            700000661
+        ]
+    ],
+    [
+        "Wind down with some light reading or relaxation.",
+        "(19:24, 20:55)",
+        [
+            "Lush Lounge",
+            700001103
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 22:58)",
+        [
+            "",
+            700012931
+        ]
+    ]
+]

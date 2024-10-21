@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700019950
+        ]
+    ],
+    [
+        "Staying at Home",
+        "(09:00, 10:32)",
+        [
+            "",
+            700019950
+        ]
+    ],
+    [
+        "Staying at Home",
+        "(10:08, 11:34)",
+        [
+            "Citi Bike - 1st Avenue & East 30th Street",
+            700007926
+        ]
+    ],
+    [
+        "Staying at Home",
+        "(11:33, 12:50)",
+        [
+            "Citi Bike - 1st Avenue & East 30th Street",
+            700007926
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:37, 19:32)",
+        [
+            "",
+            700000894
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:34, 21:12)",
+        [
+            "Citi Bike - East 33rd Street & 1st Avenue",
+            700008043
+        ]
+    ],
+    [
+        "Next activity: Social Time",
+        "(17:41, 19:03)",
+        [
+            "Citi Bike - East 33rd Street & 1st Avenue",
+            700008043
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 23:59)",
+        [
+            "",
+            700024900
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "Panini Cafe",
+            700012530
+        ]
+    ]
+]

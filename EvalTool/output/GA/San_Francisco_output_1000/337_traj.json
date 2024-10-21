@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Market Street",
+            700003154
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:25)",
+        [
+            "Black Box Virtual Reality Gym",
+            700010733
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:27, 13:10)",
+        [
+            "Black Box Virtual Reality Gym",
+            700010733
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:54, 15:17)",
+        [
+            "",
+            700011050
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:43, 18:40)",
+        [
+            "Blue Bottle Coffee",
+            700003342
+        ]
+    ],
+    [
+        "Relaxation & Reading",
+        "(17:28, 19:03)",
+        [
+            "Black Box Virtual Reality Gym",
+            700010733
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 21:08)",
+        [
+            "The Market",
+            700005798
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:16, 23:59)",
+        [
+            "",
+            700006654
+        ]
+    ]
+]

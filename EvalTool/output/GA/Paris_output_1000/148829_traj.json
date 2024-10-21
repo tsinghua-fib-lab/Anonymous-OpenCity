@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700029654
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:35)",
+        [
+            "",
+            700029659
+        ]
+    ],
+    [
+        "Meet friends for coffee or a light snack at 4:00 PM.",
+        "(16:34, 18:05)",
+        [
+            "",
+            700029657
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a TV series at home.",
+        "(19:01, 21:33)",
+        [
+            "",
+            700029654
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:59)",
+        [
+            "",
+            700029657
+        ]
+    ]
+]

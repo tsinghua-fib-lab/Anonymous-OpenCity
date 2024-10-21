@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Regent's Park Estate",
+            700006201
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:59)",
+        [
+            "",
+            700075342
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:00, 13:08)",
+        [
+            "Albany Street Police Station",
+            700002925
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 15:37)",
+        [
+            "",
+            700004645
+        ]
+    ],
+    [
+        "Socialize",
+        "(17:09, 18:47)",
+        [
+            "Albany Street Police Station",
+            700002925
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:29, 23:53)",
+        [
+            "",
+            700020301
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "",
+            700036226
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Royal College of Physicians Library",
+            700036234
+        ]
+    ]
+]

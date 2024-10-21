@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "tacolicious",
+            700004975
+        ]
+    ],
+    [
+        "Move to Leisure Activity",
+        "(10:00, 11:36)",
+        [
+            "Mamacita",
+            700003081
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:45, 15:16)",
+        [
+            "Carmine F. Vicino",
+            700000685
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a favorite series.",
+        "(18:23, 19:57)",
+        [
+            "Hole in the Wall Pizza",
+            700012978
+        ]
+    ],
+    [
+        "Continue current activity until watching a movie or binge-watch a series.",
+        "(20:51, 22:11)",
+        [
+            "Super Duper Burger",
+            700003078
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:10, 23:59)",
+        [
+            "",
+            700004968
+        ]
+    ]
+]

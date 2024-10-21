@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 12:03)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:07, 16:29)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:19, 18:39)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:34, 22:01)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Lanzhou Beef Noodles",
+            700011139
+        ]
+    ]
+]

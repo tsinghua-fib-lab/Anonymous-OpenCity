@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700037433
+        ]
+    ],
+    [
+        "Breakfast at the bench",
+        "(10:00, 11:24)",
+        [
+            "Barfly",
+            700004033
+        ]
+    ],
+    [
+        "Go for a morning jog or walk in the park",
+        "(11:54, 11:57)",
+        [
+            "",
+            700000977
+        ]
+    ],
+    [
+        "Go for a morning jog or walk in the park",
+        "(12:52, 14:05)",
+        [
+            "Barfly",
+            700004033
+        ]
+    ],
+    [
+        "Go for a morning jog or walk in the park",
+        "(14:27, 15:38)",
+        [
+            "Barfly",
+            700004033
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 22:02)",
+        [
+            "Keith R. Marshall, DDS",
+            700006183
+        ]
+    ],
+    [
+        "Winding down with a movie or TV show at home",
+        "(21:43, 23:10)",
+        [
+            "Keith R. Marshall, DDS",
+            700006183
+        ]
+    ],
+    [
+        "Wind down with a movie or TV show at home.",
+        "(23:45, 23:59)",
+        [
+            "Keith R. Marshall, DDS",
+            700006183
+        ]
+    ]
+]

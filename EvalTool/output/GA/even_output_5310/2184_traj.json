@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002302
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:45)",
+        [
+            "Paul Taylor Dance Company",
+            700003814
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 13:38)",
+        [
+            "Citi Bike - Grand Street / Henry Street",
+            700008097
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:46, 16:40)",
+        [
+            "Zafis Luncheonette",
+            700003822
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:38, 19:57)",
+        [
+            "Grand Kosher Cafe",
+            700019773
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:20, 22:35)",
+        [
+            "El Castillo De Jagua",
+            700003816
+        ]
+    ]
+]

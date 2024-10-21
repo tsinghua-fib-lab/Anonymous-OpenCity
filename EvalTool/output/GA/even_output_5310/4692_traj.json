@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001579
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:34)",
+        [
+            "Citi Bike - West 13th Street & 6th Avenue",
+            700008197
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:08, 16:06)",
+        [
+            "Citi Bike - West 13th Street & 6th Avenue",
+            700008197
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 17:13)",
+        [
+            "Bar Six",
+            700012222
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 23:50)",
+        [
+            "CVS Pharmacy",
+            700012248
+        ]
+    ]
+]

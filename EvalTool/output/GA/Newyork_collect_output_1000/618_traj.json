@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:01)",
+        [
+            "Firecracker Wings",
+            700023829
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:57, 14:27)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:29, 21:28)",
+        [
+            "Citi Bike - East 25th Street & 2nd Avenue",
+            700008039
+        ]
+    ],
+    [
+        "Hang out at a cafe",
+        "(23:37, 23:59)",
+        [
+            "Mexico Lindo",
+            700006222
+        ]
+    ]
+]

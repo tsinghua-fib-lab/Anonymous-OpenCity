@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - FDR Drive & East 35th Street",
+            700008065
+        ]
+    ],
+    [
+        "10:00 AM - 12:00 PM",
+        "(09:00, 11:02)",
+        [
+            "Citi Bike - FDR Drive & East 35th Street",
+            700008065
+        ]
+    ],
+    [
+        "10:00 AM - 12:00 PM",
+        "(11:36, 13:33)",
+        [
+            "Citi Bike - FDR Drive & East 35th Street",
+            700008065
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:30, 19:02)",
+        [
+            "",
+            700011137
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:54, 23:26)",
+        [
+            "St Vartan Play Group Preschool",
+            700003609
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:26, 23:59)",
+        [
+            "",
+            700020970
+        ]
+    ]
+]

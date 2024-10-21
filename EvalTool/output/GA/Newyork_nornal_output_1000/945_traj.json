@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "99 cent Pizza",
+            700016814
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:55)",
+        [
+            "He Xie Grocery Store",
+            700016815
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(12:31, 13:28)",
+        [
+            "99 cent Pizza",
+            700016814
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:28, 18:35)",
+        [
+            "Century Pharmacy",
+            700017098
+        ]
+    ],
+    [
+        "Evening Wind-Down",
+        "(19:48, 20:58)",
+        [
+            "99 cent Pizza",
+            700016814
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:26, 22:53)",
+        [
+            "",
+            700023651
+        ]
+    ]
+]

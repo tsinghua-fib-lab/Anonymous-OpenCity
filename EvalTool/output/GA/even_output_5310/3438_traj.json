@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700014644
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:06)",
+        [
+            "",
+            700014644
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:21, 16:23)",
+        [
+            "Downtown Social",
+            700024688
+        ]
+    ],
+    [
+        "Meet friends or family for an afternoon outing or leisure activity",
+        "(13:52, 15:55)",
+        [
+            "Downtown Social",
+            700024688
+        ]
+    ],
+    [
+        "Relax at home and watch TV or a movie.",
+        "(16:36, 18:00)",
+        [
+            "Uluh",
+            700025690
+        ]
+    ],
+    [
+        "Prepare and have dinner",
+        "(19:20, 21:24)",
+        [
+            "Downtown Social",
+            700024688
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:36, 23:59)",
+        [
+            "Chase",
+            700005777
+        ]
+    ]
+]

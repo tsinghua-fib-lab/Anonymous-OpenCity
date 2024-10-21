@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Bank St & Washington St",
+            700007956
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:02)",
+        [
+            "Citi Bike - Bank St & Washington St",
+            700007956
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:23, 14:02)",
+        [
+            "Citi Bike - Bank St & Washington St",
+            700007956
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:32, 16:41)",
+        [
+            "",
+            700026648
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(16:54, 17:58)",
+        [
+            "",
+            700001606
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 22:58)",
+        [
+            "The Otheroom",
+            700014444
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(20:24, 22:02)",
+        [
+            "Left Bank",
+            700014443
+        ]
+    ],
+    [
+        "Wind Down & Plan for the Week Ahead",
+        "(21:50, 22:56)",
+        [
+            "Left Bank",
+            700014443
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:07, 23:59)",
+        [
+            "Cafe Panino Mucho Gusto",
+            700007327
+        ]
+    ]
+]

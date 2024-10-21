@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030407
+        ]
+    ],
+    [
+        "Relax and Read",
+        "(10:00, 11:06)",
+        [
+            "",
+            700030407
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(11:15, 13:38)",
+        [
+            "",
+            700030407
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:09, 18:15)",
+        [
+            "",
+            700030404
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(17:36, 19:09)",
+        [
+            "Sushi Lab",
+            700029603
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:31, 20:41)",
+        [
+            "Madame Vo",
+            700014034
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:24, 23:59)",
+        [
+            "The Village Veterinarian",
+            700019112
+        ]
+    ]
+]

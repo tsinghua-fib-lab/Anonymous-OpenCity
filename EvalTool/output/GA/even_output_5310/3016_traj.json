@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sour Mouse",
+            700040422
+        ]
+    ],
+    [
+        "Stay at Sour Mouse.",
+        "(09:00, 10:27)",
+        [
+            "Regal Essex 14 & RPX",
+            700017092
+        ]
+    ],
+    [
+        "Stay at Sour Mouse.",
+        "(11:54, 13:14)",
+        [
+            "",
+            700003003
+        ]
+    ],
+    [
+        "Current time: 13:45, stay at Sour Mouse.",
+        "(13:45, 14:50)",
+        [
+            "Peasant Stock",
+            700022920
+        ]
+    ],
+    [
+        "next activity based on the daily plan",
+        "(15:17, 16:57)",
+        [
+            "Peasant Stock",
+            700022920
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 21:30)",
+        [
+            "Café d'Avignon",
+            700022916
+        ]
+    ],
+    [
+        "stay",
+        "(21:45, 23:00)",
+        [
+            "Sour Mouse",
+            700040422
+        ]
+    ],
+    [
+        "Stay at Sour Mouse.",
+        "(23:08, 23:59)",
+        [
+            "Sour Mouse",
+            700040422
+        ]
+    ]
+]

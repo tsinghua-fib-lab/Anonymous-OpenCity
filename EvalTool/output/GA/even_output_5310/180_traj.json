@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CVS Pharmacy",
+            700007100
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:10)",
+        [
+            "SigSpace",
+            700040100
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:27, 15:24)",
+        [
+            "Blink",
+            700028204
+        ]
+    ],
+    [
+        "Attend a sports event or participate in a recreational activity.",
+        "(19:50, 20:50)",
+        [
+            "The Green Room 42",
+            700022028
+        ]
+    ],
+    [
+        "Attend a sports event or participate in a recreational activity.",
+        "(20:32, 21:55)",
+        [
+            "Wells Fargo",
+            700024393
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "",
+            700002126
+        ]
+    ]
+]

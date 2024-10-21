@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Le Tourville",
+            700001897
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:58)",
+        [
+            "Le Tourville",
+            700001897
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:27, 11:48)",
+        [
+            "Le Tourville",
+            700001897
+        ]
+    ],
+    [
+        "Exercise",
+        "(12:35, 14:09)",
+        [
+            "Le Tourville",
+            700001897
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 17:22)",
+        [
+            "Milagro",
+            700001895
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(18:59, 20:22)",
+        [
+            "Milagro",
+            700001895
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:58, 23:59)",
+        [
+            "Café des Officiers",
+            700005508
+        ]
+    ]
+]

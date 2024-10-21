@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700017849
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(10:00, 12:00)",
+        [
+            "",
+            700017849
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:43, 17:35)",
+        [
+            "",
+            700031332
+        ]
+    ],
+    [
+        "Leisure Time/Entertainment",
+        "(15:08, 17:50)",
+        [
+            "Springbone Kitchen",
+            700004054
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:58, 21:13)",
+        [
+            "Nara Sushi",
+            700007641
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:41, 22:42)",
+        [
+            "",
+            700031375
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "",
+            700031337
+        ]
+    ]
+]

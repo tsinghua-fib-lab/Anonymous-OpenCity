@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "CityMD",
+            700020713
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:20)",
+        [
+            "CityMD",
+            700020713
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:22, 17:01)",
+        [
+            "Grainne Cafe",
+            700023155
+        ]
+    ],
+    [
+        "Meal Prep for the Week",
+        "(13:53, 15:18)",
+        [
+            "",
+            700003132
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 18:45)",
+        [
+            "Rite Aid",
+            700004407
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 19:05)",
+        [
+            "Chelsea Cottage's Viet Grill",
+            700004403
+        ]
+    ],
+    [
+        "Visit Chelsea Square Restaurant",
+        "(23:40, 23:59)",
+        [
+            "Chelsea Square Restaurant",
+            700004317
+        ]
+    ]
+]

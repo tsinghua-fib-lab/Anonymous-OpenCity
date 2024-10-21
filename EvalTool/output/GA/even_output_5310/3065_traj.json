@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:36)",
+        [
+            "",
+            700003040
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:44, 14:06)",
+        [
+            "",
+            700001295
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:21, 16:11)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:54, 21:44)",
+        [
+            "Made in New York Pizza",
+            700027989
+        ]
+    ],
+    [
+        "Dinner & Family Time",
+        "(20:12, 22:00)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "Moving to Dante for leisure activities.",
+        "(21:54, 23:59)",
+        [
+            "Dante",
+            700021858
+        ]
+    ]
+]

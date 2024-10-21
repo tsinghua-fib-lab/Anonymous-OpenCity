@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Wreck Room",
+            700001703
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:00)",
+        [
+            "Wreck Room",
+            700001703
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:48, 15:24)",
+        [
+            "",
+            700010629
+        ]
+    ],
+    [
+        "Hobby/Creative Time",
+        "(12:57, 13:55)",
+        [
+            "",
+            700008724
+        ]
+    ],
+    [
+        "Social Time",
+        "(14:46, 16:11)",
+        [
+            "Zeki's Bar",
+            700008868
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:52, 18:08)",
+        [
+            "Nourish Cafe",
+            700008728
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:29, 20:09)",
+        [
+            "",
+            700008724
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:10, 22:20)",
+        [
+            "Golden Horse Restaurant",
+            700008867
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:36, 23:59)",
+        [
+            "The Hyde Out",
+            700001670
+        ]
+    ]
+]

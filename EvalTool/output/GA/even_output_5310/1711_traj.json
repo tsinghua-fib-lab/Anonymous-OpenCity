@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Empire Diner",
+            700014303
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:15)",
+        [
+            "Tía Pol",
+            700040164
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:14, 14:00)",
+        [
+            "",
+            700039909
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:40, 18:13)",
+        [
+            "",
+            700001475
+        ]
+    ],
+    [
+        "Late Afternoon Relaxation",
+        "(21:27, 23:07)",
+        [
+            "Tía Pol",
+            700040164
+        ]
+    ],
+    [
+        "Watch a Movie or Play Video Games",
+        "(23:20, 23:59)",
+        [
+            "Empire Diner",
+            700014303
+        ]
+    ]
+]

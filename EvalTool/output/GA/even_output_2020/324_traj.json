@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Franklin Street Apartments",
+            700009446
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:54)",
+        [
+            "First Republic Bank",
+            700009075
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:00, 16:08)",
+        [
+            "Moka Coffee",
+            700001133
+        ]
+    ],
+    [
+        "Errands or Light Chores",
+        "(17:24, 19:34)",
+        [
+            "Dunya",
+            700001134
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:10, 21:56)",
+        [
+            "Walgreens",
+            700001121
+        ]
+    ],
+    [
+        "Errands or Light Chores",
+        "(22:59, 23:59)",
+        [
+            "Swan Oyster Depot",
+            700001124
+        ]
+    ]
+]

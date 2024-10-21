@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of America",
+            700002201
+        ]
+    ],
+    [
+        "Wake Up and Brunch",
+        "(10:00, 11:23)",
+        [
+            "Bank of America",
+            700002201
+        ]
+    ],
+    [
+        "Next activity based on daily plan.",
+        "(12:13, 13:50)",
+        [
+            "Copper",
+            700002189
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:21, 19:30)",
+        [
+            "Poesia",
+            700007549
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(20:31, 21:56)",
+        [
+            "Poesia",
+            700007549
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:54, 23:59)",
+        [
+            "Sisters Coffee Shop",
+            700008740
+        ]
+    ]
+]

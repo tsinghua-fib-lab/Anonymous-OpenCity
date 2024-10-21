@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "P.F. Chang's",
+            700034827
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(09:00, 10:40)",
+        [
+            "Pick a Bagel",
+            700009214
+        ]
+    ],
+    [
+        "Next activity after Leisure Reading or Hobby Time",
+        "(10:31, 12:09)",
+        [
+            "Pick a Bagel",
+            700009214
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:21, 14:47)",
+        [
+            "Citi Bike - 8th Avenue & West 52nd Street",
+            700007943
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:52, 18:59)",
+        [
+            "Dunkin'",
+            700006507
+        ]
+    ],
+    [
+        "Next activity after Relaxing Evening.",
+        "(19:22, 22:01)",
+        [
+            "Circle in the Square Theatre",
+            700017935
+        ]
+    ],
+    [
+        "Next activity after Relaxing Evening.",
+        "(22:35, 23:59)",
+        [
+            "Circle in the Square Theatre",
+            700017935
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Los Cilantros",
+            700009452
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(09:00, 09:53)",
+        [
+            "Los Cilantros",
+            700009452
+        ]
+    ],
+    [
+        "Catch up on household chores",
+        "(10:54, 11:52)",
+        [
+            "Los Cilantros",
+            700009452
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 17:57)",
+        [
+            "Golden Era Vegan Restaurant",
+            700010161
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:37, 17:06)",
+        [
+            "The Coffee Smith",
+            700005057
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 23:58)",
+        [
+            "Burke & Black",
+            700009587
+        ]
+    ],
+    [
+        "Next place after preparing dinner and winding down in Situation_10",
+        "(23:03, 23:59)",
+        [
+            "Burke & Black",
+            700009587
+        ]
+    ]
+]

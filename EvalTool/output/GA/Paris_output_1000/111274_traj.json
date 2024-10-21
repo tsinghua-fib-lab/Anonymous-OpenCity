@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Monoprix",
+            700057913
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:18)",
+        [
+            "Jean Bologne - Passy",
+            700044190
+        ]
+    ],
+    [
+        "Watch a Movie",
+        "(14:32, 15:58)",
+        [
+            "Jean Bologne - Passy",
+            700044190
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:03, 21:55)",
+        [
+            "",
+            700015973
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(20:43, 22:18)",
+        [
+            "Monoprix",
+            700057913
+        ]
+    ],
+    [
+        "Situation 10",
+        "(22:24, 23:57)",
+        [
+            "Monoprix",
+            700057913
+        ]
+    ],
+    [
+        "Stay at Monoprix for a cozy evening",
+        "(23:56, 23:59)",
+        [
+            "Monoprix",
+            700057913
+        ]
+    ]
+]

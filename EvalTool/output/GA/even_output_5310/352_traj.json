@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700017177
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(10:00, 10:55)",
+        [
+            "Penguin Ice Cream",
+            700019766
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:24, 15:38)",
+        [
+            "",
+            700037867
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:48, 21:05)",
+        [
+            "Penguin Ice Cream",
+            700019766
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:32, 23:47)",
+        [
+            "EastWest Unibank",
+            700005780
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "Canal Street Pharmacy",
+            700014903
+        ]
+    ]
+]

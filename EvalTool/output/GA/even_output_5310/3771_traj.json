@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001372
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:23)",
+        [
+            "Poco",
+            700008391
+        ]
+    ],
+    [
+        "Go for a jog or a leisurely walk in the park.",
+        "(11:13, 12:34)",
+        [
+            "Duane Reade",
+            700008396
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:18, 16:08)",
+        [
+            "Wild Project",
+            700014724
+        ]
+    ],
+    [
+        "Prepare and enjoy a home-cooked dinner.",
+        "(15:41, 17:45)",
+        [
+            "Plado",
+            700021519
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 22:53)",
+        [
+            "Cornerstone Cafe",
+            700004481
+        ]
+    ],
+    [
+        "Stay at Cornerstone Cafe.",
+        "(23:25, 23:59)",
+        [
+            "Cornerstone Cafe",
+            700004481
+        ]
+    ]
+]

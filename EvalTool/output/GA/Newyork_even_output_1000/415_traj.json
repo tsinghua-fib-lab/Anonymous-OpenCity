@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Jooy Tea Shoppe",
+            700029996
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:46)",
+        [
+            "Obao",
+            700014814
+        ]
+    ],
+    [
+        "Leisure Activities (TV/Movies)",
+        "(13:04, 14:29)",
+        [
+            "",
+            700001293
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 17:25)",
+        [
+            "Ritz Bar Lounge",
+            700011717
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 23:29)",
+        [
+            "",
+            700014818
+        ]
+    ],
+    [
+        "Next activity based on previous plan",
+        "(20:13, 21:36)",
+        [
+            "Jooy Tea Shoppe",
+            700029996
+        ]
+    ],
+    [
+        "Go to CHILI 美麗 for dinner.",
+        "(21:58, 23:25)",
+        [
+            "Southern Hospitality",
+            700006372
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:50, 23:59)",
+        [
+            "Bali Nusa indah",
+            700009175
+        ]
+    ]
+]

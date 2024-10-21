@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030390
+        ]
+    ],
+    [
+        "Engage in some light reading or creative writing",
+        "(10:00, 11:35)",
+        [
+            "",
+            700030390
+        ]
+    ],
+    [
+        "Continue with light reading or creative writing",
+        "(12:20, 13:55)",
+        [
+            "",
+            700030390
+        ]
+    ],
+    [
+        "Lunch with friends or family",
+        "(14:21, 15:43)",
+        [
+            "Peaches",
+            700020686
+        ]
+    ],
+    [
+        "continue working on personal project",
+        "(16:35, 18:13)",
+        [
+            "",
+            700030390
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a TV series.",
+        "(18:40, 20:07)",
+        [
+            "",
+            700030390
+        ]
+    ],
+    [
+        "Continue relaxing at your current place.",
+        "(21:03, 22:33)",
+        [
+            "",
+            700030390
+        ]
+    ],
+    [
+        "Wind down the day with a light dinner and some leisure activities, like playing games or browsing social media.",
+        "(22:40, 23:59)",
+        [
+            "Peaches",
+            700020686
+        ]
+    ]
+]

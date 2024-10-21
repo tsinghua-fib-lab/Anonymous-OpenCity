@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "La Bergamote",
+            700011350
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:42)",
+        [
+            "",
+            700000822
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:13, 19:47)",
+        [
+            "Posh Pass NYC",
+            700003865
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(17:08, 18:27)",
+        [
+            "Posh Pass NYC",
+            700003865
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(19:25, 22:05)",
+        [
+            "Posh Pass NYC",
+            700003865
+        ]
+    ],
+    [
+        "Head to Posh Pass NYC for evening leisure",
+        "(22:29, 23:59)",
+        [
+            "Posh Pass NYC",
+            700003865
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(23:55, 23:59)",
+        [
+            "Posh Pass NYC",
+            700003865
+        ]
+    ]
+]

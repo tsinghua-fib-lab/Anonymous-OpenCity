@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:59)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:08, 12:31)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:22, 18:45)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(19:03, 20:26)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Go to Bagel Express III for a light meal",
+        "(21:22, 23:01)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "Little Basil",
+            700006236
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Walgreens",
+            700001121
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 09:52)",
+        [
+            "Common Sage",
+            700004227
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(13:02, 14:38)",
+        [
+            "Common Sage",
+            700004227
+        ]
+    ],
+    [
+        "Lunch",
+        "(15:18, 16:46)",
+        [
+            "Common Sage",
+            700004227
+        ]
+    ],
+    [
+        "Meet Friends or Family",
+        "(17:39, 19:16)",
+        [
+            "Common Sage",
+            700004227
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:34, 20:59)",
+        [
+            "Kozy Kar",
+            700006027
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(21:21, 22:53)",
+        [
+            "Walgreens",
+            700001121
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:39, 23:59)",
+        [
+            "Ti Piacera",
+            700001122
+        ]
+    ]
+]

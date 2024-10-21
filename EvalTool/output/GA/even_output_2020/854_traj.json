@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pilsner Inn",
+            700000828
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:59)",
+        [
+            "",
+            700013250
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:26, 14:31)",
+        [
+            "Il Casaro Pizzeria",
+            700009176
+        ]
+    ],
+    [
+        "Watch a Movie/Show",
+        "(15:05, 16:57)",
+        [
+            "Il Casaro Pizzeria",
+            700009176
+        ]
+    ],
+    [
+        "Watch a Movie/Show",
+        "(16:58, 18:30)",
+        [
+            "Il Casaro Pizzeria",
+            700009176
+        ]
+    ],
+    [
+        "Hobbies/Projects",
+        "(18:52, 20:02)",
+        [
+            "Pilsner Inn",
+            700000828
+        ]
+    ],
+    [
+        "Hobbies/Projects",
+        "(21:00, 22:02)",
+        [
+            "Pilsner Inn",
+            700000828
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:11, 23:59)",
+        [
+            "Millay",
+            700010112
+        ]
+    ]
+]

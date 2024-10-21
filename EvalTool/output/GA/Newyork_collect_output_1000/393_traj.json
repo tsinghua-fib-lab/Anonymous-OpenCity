@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(08:00, 10:37)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Relaxing Afternoon",
+        "(14:19, 15:50)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Relaxing Afternoon",
+        "(15:58, 17:23)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 20:21)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:48, 23:59)",
+        [
+            "Dunkin'",
+            700024685
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Yuka Japanese",
+            700011572
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 10:58)",
+        [
+            "Yuka Japanese",
+            700011572
+        ]
+    ],
+    [
+        "You are currently at Yuka Japanese.",
+        "(11:03, 11:58)",
+        [
+            "",
+            700020618
+        ]
+    ],
+    [
+        "Go for a relaxing walk in a local park.",
+        "(12:36, 14:00)",
+        [
+            "Starbucks",
+            700022211
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 15:21)",
+        [
+            "",
+            700020624
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 23:14)",
+        [
+            "Sojourn",
+            700030668
+        ]
+    ],
+    [
+        "Stay at Yuka Japanese",
+        "(20:18, 21:58)",
+        [
+            "Sojourn",
+            700030668
+        ]
+    ],
+    [
+        "Stay at Yuka Japanese.",
+        "(22:48, 23:56)",
+        [
+            "Yuka Japanese",
+            700011572
+        ]
+    ],
+    [
+        "Stay at Yuka Japanese.",
+        "(23:43, 23:59)",
+        [
+            "Yuka Japanese",
+            700011572
+        ]
+    ]
+]

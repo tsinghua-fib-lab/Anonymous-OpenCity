@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dunkin'",
+            700014649
+        ]
+    ],
+    [
+        "Go for a morning walk or light jog",
+        "(09:00, 10:29)",
+        [
+            "",
+            700002506
+        ]
+    ],
+    [
+        "Stay and enjoy breakfast at Dunkin'.",
+        "(10:38, 12:00)",
+        [
+            "DimSum Garden",
+            700040589
+        ]
+    ],
+    [
+        "Spend some time on a hobby or personal project, such as coding, designing, or crafting.",
+        "(12:07, 13:29)",
+        [
+            "DimSum Garden",
+            700040589
+        ]
+    ],
+    [
+        "Spend some time at DimSum Garden.",
+        "(14:11, 15:44)",
+        [
+            "DimSum Garden",
+            700040589
+        ]
+    ],
+    [
+        "Stay at DimSum Garden.",
+        "(16:40, 18:06)",
+        [
+            "DimSum Garden",
+            700040589
+        ]
+    ],
+    [
+        "Stay at DimSum Garden.",
+        "(18:27, 19:52)",
+        [
+            "DimSum Garden",
+            700040589
+        ]
+    ],
+    [
+        "Stay at Citi Bike - West 37th Street & Broadway",
+        "(20:35, 22:51)",
+        [
+            "",
+            700035316
+        ]
+    ],
+    [
+        "Stay at DimSum Garden",
+        "(23:28, 23:59)",
+        [
+            "DimSum Garden",
+            700040589
+        ]
+    ]
+]

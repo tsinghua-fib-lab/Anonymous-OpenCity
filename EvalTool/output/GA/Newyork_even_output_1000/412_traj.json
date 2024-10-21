@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "BEA",
+            700008888
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:22)",
+        [
+            "Mollyos",
+            700008810
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:31, 15:06)",
+        [
+            "Mollyos",
+            700008810
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:34, 18:01)",
+        [
+            "Mollyos",
+            700008810
+        ]
+    ],
+    [
+        "Call/Visit Friends or Family",
+        "(17:51, 19:11)",
+        [
+            "Mollyos",
+            700008810
+        ]
+    ],
+    [
+        "Call/Visit Friends or Family",
+        "(20:05, 21:06)",
+        [
+            "Mollyos",
+            700008810
+        ]
+    ],
+    [
+        "Call/Visit Friends or Family",
+        "(21:30, 23:01)",
+        [
+            "BEA",
+            700008888
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "ViVi Bubble Tea",
+            700013064
+        ]
+    ]
+]

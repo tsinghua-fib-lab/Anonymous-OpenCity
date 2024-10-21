@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700003082
+        ]
+    ],
+    [
+        "Leisure Activity: Read / Relax",
+        "(09:00, 10:24)",
+        [
+            "",
+            700009252
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:58, 12:39)",
+        [
+            "Yankee Pizza",
+            700018151
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(17:25, 19:09)",
+        [
+            "Yankee Pizza",
+            700018151
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:32, 21:04)",
+        [
+            "Yankee Pizza",
+            700018151
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(21:33, 23:43)",
+        [
+            "",
+            700001589
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(23:30, 23:59)",
+        [
+            "",
+            700001259
+        ]
+    ]
+]

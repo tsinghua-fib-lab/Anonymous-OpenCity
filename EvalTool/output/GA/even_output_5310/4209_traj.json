@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700011413
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:20)",
+        [
+            "Citi bike - East 68th Street & 3rd Avenue",
+            700017449
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:09, 16:02)",
+        [
+            "Citi bike - East 68th Street & 3rd Avenue",
+            700017449
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:52, 19:08)",
+        [
+            "New York Zendō Shobo-ji",
+            700020974
+        ]
+    ],
+    [
+        "Spend Time with Family or Friends",
+        "(21:49, 23:45)",
+        [
+            "Gotham Café",
+            700016395
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "",
+            700000786
+        ]
+    ]
+]

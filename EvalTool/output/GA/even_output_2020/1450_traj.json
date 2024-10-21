@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ox Cafe",
+            700002474
+        ]
+    ],
+    [
+        "Next leisure activity: Visit an art gallery or museum",
+        "(10:00, 11:22)",
+        [
+            "",
+            700005243
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:45, 13:12)",
+        [
+            "Bissap Baobab",
+            700014025
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:25, 15:54)",
+        [
+            "Commonwealth",
+            700004380
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 19:47)",
+        [
+            "Taqueria Cancun",
+            700002389
+        ]
+    ],
+    [
+        "Next leisure activity: Visit an art gallery or museum",
+        "(20:07, 21:08)",
+        [
+            "Bissap Baobab",
+            700014025
+        ]
+    ],
+    [
+        "next leisure activity",
+        "(22:00, 23:59)",
+        [
+            "Bissap Baobab",
+            700014025
+        ]
+    ]
+]

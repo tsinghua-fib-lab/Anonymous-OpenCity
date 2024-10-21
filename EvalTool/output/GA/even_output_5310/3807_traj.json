@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Spain Restaurant",
+            700011069
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(09:00, 10:40)",
+        [
+            "",
+            700020036
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(10:14, 11:48)",
+        [
+            "Spain Restaurant",
+            700011069
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 16:34)",
+        [
+            "",
+            700020036
+        ]
+    ],
+    [
+        "Outdoor Sports",
+        "(16:49, 17:54)",
+        [
+            "YMCA",
+            700003956
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(18:04, 20:08)",
+        [
+            "Spain Restaurant",
+            700011069
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:28, 23:59)",
+        [
+            "Alice",
+            700003960
+        ]
+    ],
+    [
+        "Outdoor Sports",
+        "(22:34, 23:59)",
+        [
+            "Sotto 13",
+            700008256
+        ]
+    ]
+]

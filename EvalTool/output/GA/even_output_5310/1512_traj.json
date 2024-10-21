@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700019034
+        ]
+    ],
+    [
+        "11:00 AM - 12:30 PM",
+        "(10:00, 11:31)",
+        [
+            "",
+            700019040
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:00, 17:00)",
+        [
+            "Chase",
+            700003432
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:42, 16:06)",
+        [
+            "Capital One",
+            700003438
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:18, 18:02)",
+        [
+            "TD Bank",
+            700019910
+        ]
+    ],
+    [
+        "Spend time at TD Bank.",
+        "(19:45, 21:04)",
+        [
+            "TD Bank",
+            700019910
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a TV series for relaxation before winding down for the night.",
+        "(21:08, 23:46)",
+        [
+            "TD Bank",
+            700019910
+        ]
+    ],
+    [
+        "Watch TV or a movie.",
+        "(22:49, 23:46)",
+        [
+            "TD Bank",
+            700019910
+        ]
+    ],
+    [
+        "Stay at TD Bank.",
+        "(23:53, 23:59)",
+        [
+            "TD Bank",
+            700019910
+        ]
+    ]
+]

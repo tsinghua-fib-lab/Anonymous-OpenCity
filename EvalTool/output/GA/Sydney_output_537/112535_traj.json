@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kelly's on King",
+            700003995
+        ]
+    ],
+    [
+        "11:30 AM - Leisure Reading",
+        "(10:00, 11:29)",
+        [
+            "",
+            700031695
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:45, 15:27)",
+        [
+            "",
+            700001298
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:26, 15:58)",
+        [
+            "ANZ",
+            700003887
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:21, 22:28)",
+        [
+            "Websters Bar",
+            700023705
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:19, 23:23)",
+        [
+            "Newtown Medical Practice",
+            700003992
+        ]
+    ],
+    [
+        "Sleep at Kelly's on King",
+        "(23:25, 23:59)",
+        [
+            "Newtown Medical Practice",
+            700003992
+        ]
+    ]
+]

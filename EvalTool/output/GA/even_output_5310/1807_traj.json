@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700003059
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:28)",
+        [
+            "",
+            700003059
+        ]
+    ],
+    [
+        "Social Time or Hobbies",
+        "(10:38, 13:10)",
+        [
+            "",
+            700003059
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:37, 17:55)",
+        [
+            "",
+            700002309
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:27, 17:07)",
+        [
+            "24 Hour Parking",
+            700008320
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(17:13, 19:07)",
+        [
+            "24 Hour Parking",
+            700008320
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:30, 21:02)",
+        [
+            "1 Central Park",
+            700020672
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 23:59)",
+        [
+            "1 Central Park",
+            700020672
+        ]
+    ]
+]

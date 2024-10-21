@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gong Cha",
+            700006458
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park.",
+        "(10:00, 11:09)",
+        [
+            "Sweetgreen",
+            700039046
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park.",
+        "(11:03, 13:06)",
+        [
+            "Sweetgreen",
+            700039046
+        ]
+    ],
+    [
+        "Spend some time reading a book or doing a hobby.",
+        "(13:36, 15:04)",
+        [
+            "The Wheeltapper Pub",
+            700003514
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:43, 19:51)",
+        [
+            "",
+            700037641
+        ]
+    ],
+    [
+        "Go for coffee or casual hangout with friends",
+        "(19:32, 21:39)",
+        [
+            "The Wheeltapper Pub",
+            700003514
+        ]
+    ],
+    [
+        "Wind down the day by watching a movie or binge-watching a series.",
+        "(21:30, 22:50)",
+        [
+            "Gong Cha",
+            700006458
+        ]
+    ],
+    [
+        "Staying at home",
+        "(23:32, 23:59)",
+        [
+            "Gong Cha",
+            700006458
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700031277
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:43)",
+        [
+            "",
+            700031278
+        ]
+    ],
+    [
+        "Leisure reading or a walk outside",
+        "(11:54, 13:27)",
+        [
+            "Zafis Luncheonette",
+            700003822
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(13:28, 14:30)",
+        [
+            "",
+            700031273
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(15:30, 16:55)",
+        [
+            "",
+            700002057
+        ]
+    ],
+    [
+        "Spend time with friends or family",
+        "(18:03, 19:37)",
+        [
+            "",
+            700031269
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 23:59)",
+        [
+            "",
+            700031272
+        ]
+    ]
+]

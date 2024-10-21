@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wells Fargo",
+            700000635
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 12:06)",
+        [
+            "Kam Lok Restaurant",
+            700005142
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:24, 17:57)",
+        [
+            "Tin How Temple",
+            700002761
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:45, 17:12)",
+        [
+            "Kam Lok Restaurant",
+            700005142
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 19:48)",
+        [
+            "",
+            700005371
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 21:31)",
+        [
+            "EastWest Unibank",
+            700004224
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:33, 23:59)",
+        [
+            "",
+            700009331
+        ]
+    ]
+]

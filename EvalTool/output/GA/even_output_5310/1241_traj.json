@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Subway",
+            700023812
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 12:05)",
+        [
+            "First Republic Bank",
+            700023810
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 15:39)",
+        [
+            "Black Fox Coffee Co.",
+            700025143
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(15:46, 16:55)",
+        [
+            "",
+            700037675
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:00, 19:37)",
+        [
+            "Chez Zou",
+            700025144
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:59)",
+        [
+            "",
+            700037674
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(22:14, 23:42)",
+        [
+            "",
+            700037677
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(23:47, 23:59)",
+        [
+            "Chez Zou",
+            700025144
+        ]
+    ]
+]

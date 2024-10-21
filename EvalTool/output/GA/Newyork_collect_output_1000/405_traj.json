@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:54)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:38, 21:35)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "After staying for 13 minutes, consider moving to a nearby cafe.",
+        "(20:47, 21:55)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 22:13)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

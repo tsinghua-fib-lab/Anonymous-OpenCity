@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002696
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 11:00)",
+        [
+            "",
+            700002696
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:21, 13:57)",
+        [
+            "McKenna’s Bar",
+            700019202
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:54, 18:56)",
+        [
+            "McKenna’s Bar",
+            700019202
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:19, 23:59)",
+        [
+            "Hot N Juice Crawfish",
+            700009374
+        ]
+    ]
+]

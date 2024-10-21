@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700014553
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:47)",
+        [
+            "Les Merveilles Délice d'Afrique",
+            700013995
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(11:05, 13:06)",
+        [
+            "Le Commerce",
+            700009487
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 17:46)",
+        [
+            "",
+            700027437
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:24, 18:31)",
+        [
+            "",
+            700014553
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:16, 22:44)",
+        [
+            "Le Monde de Léa",
+            700009488
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:29, 23:59)",
+        [
+            "E Ma Ho",
+            700009489
+        ]
+    ]
+]

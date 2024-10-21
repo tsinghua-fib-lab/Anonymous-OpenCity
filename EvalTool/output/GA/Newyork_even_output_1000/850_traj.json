@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008518
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(09:00, 10:25)",
+        [
+            "",
+            700008518
+        ]
+    ],
+    [
+        "Personal Project/Study Time",
+        "(10:49, 12:43)",
+        [
+            "",
+            700000894
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:52, 16:51)",
+        [
+            "Citi Bike - East 33rd Street & 1st Avenue",
+            700008043
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:12, 20:24)",
+        [
+            "",
+            700024900
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 18:40)",
+        [
+            "Panini Cafe",
+            700012530
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:12, 23:59)",
+        [
+            "Citi Bike - East 33rd Street & 1st Avenue",
+            700008043
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Haven Rooftop Bar",
+            700008908
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:05)",
+        [
+            "O'Lunney's",
+            700008548
+        ]
+    ],
+    [
+        "Lunch and catch up on some reading or a podcast.",
+        "(13:26, 14:56)",
+        [
+            "The Lambs Club",
+            700003780
+        ]
+    ],
+    [
+        "Have lunch and catch up on some reading or a podcast.",
+        "(15:49, 17:31)",
+        [
+            "Bar 54",
+            700032066
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:19, 21:05)",
+        [
+            "The Lambs Club",
+            700003780
+        ]
+    ]
+]

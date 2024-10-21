@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sushi West",
+            700013966
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(09:00, 09:56)",
+        [
+            "Sushi West",
+            700013966
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(10:16, 11:58)",
+        [
+            "Sushi West",
+            700013966
+        ]
+    ],
+    [
+        "Visit the Local Market",
+        "(12:35, 14:02)",
+        [
+            "Sushi West",
+            700013966
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:02, 16:47)",
+        [
+            "",
+            700003045
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(17:24, 20:00)",
+        [
+            "",
+            700002943
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:54, 23:59)",
+        [
+            "",
+            700001468
+        ]
+    ]
+]

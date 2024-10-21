@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700003547
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:31)",
+        [
+            "PNC Bank",
+            700008997
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 18:55)",
+        [
+            "Little Italy",
+            700006481
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(18:49, 20:16)",
+        [
+            "Morgan Stanley",
+            700003539
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 22:32)",
+        [
+            "Strip House",
+            700040425
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(23:50, 23:59)",
+        [
+            "Cock & Bull",
+            700016198
+        ]
+    ]
+]

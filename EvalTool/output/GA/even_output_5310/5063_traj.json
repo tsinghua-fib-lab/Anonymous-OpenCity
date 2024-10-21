@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mangia Organic",
+            700009470
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:03)",
+        [
+            "Blue Bottle Coffee",
+            700012245
+        ]
+    ],
+    [
+        "Current place: Blue Bottle Coffee, stay until 2:00 PM for lunch",
+        "(12:39, 14:34)",
+        [
+            "Blue Bottle Coffee",
+            700012245
+        ]
+    ],
+    [
+        "Stay at Blue Bottle Coffee until 2:00 PM",
+        "(15:33, 17:36)",
+        [
+            "LOFT39",
+            700040518
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:49, 22:56)",
+        [
+            "Mangia Organic",
+            700009470
+        ]
+    ],
+    [
+        "Stay at El Camion Cantina for drinks.",
+        "(20:49, 22:16)",
+        [
+            "refinery rooftop",
+            700016165
+        ]
+    ],
+    [
+        "Go to Horus Café for light snacks.",
+        "(22:41, 23:59)",
+        [
+            "Fresh Pizza 99 Cents",
+            700022430
+        ]
+    ]
+]

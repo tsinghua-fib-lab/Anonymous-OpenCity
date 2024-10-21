@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "South Beach Cafe",
+            700001584
+        ]
+    ],
+    [
+        "Current place: South Beach Cafe. Stay time: 1 hour.",
+        "(10:00, 11:01)",
+        [
+            "",
+            700011914
+        ]
+    ],
+    [
+        "Go to Frankie’s Java House for coffee and light meal.",
+        "(11:57, 13:27)",
+        [
+            "Frankie’s Java House",
+            700000107
+        ]
+    ],
+    [
+        "Coffee and Light Meal",
+        "(13:36, 15:01)",
+        [
+            "Frankie’s Java House",
+            700000107
+        ]
+    ],
+    [
+        "Participate in a recreational activity.",
+        "(15:45, 17:19)",
+        [
+            "",
+            700011909
+        ]
+    ],
+    [
+        "Join a recreational activity.",
+        "(17:31, 18:48)",
+        [
+            "",
+            700011911
+        ]
+    ],
+    [
+        "Next activity: Coffee and discussion.",
+        "(19:29, 21:05)",
+        [
+            "",
+            700011900
+        ]
+    ],
+    [
+        "Having coffee and discussion at Frankie’s Java House after joining recreational activities.",
+        "(21:47, 23:04)",
+        [
+            "Frankie’s Java House",
+            700000107
+        ]
+    ],
+    [
+        "You will stay at Frankie’s Java House.",
+        "(23:46, 23:59)",
+        [
+            "Frankie’s Java House",
+            700000107
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700011840
+        ]
+    ],
+    [
+        "Yoga/Exercise Session",
+        "(09:00, 10:09)",
+        [
+            "",
+            700000674
+        ]
+    ],
+    [
+        "Yoga/Exercise Session",
+        "(10:06, 12:05)",
+        [
+            "",
+            700011840
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:32, 14:04)",
+        [
+            "icon 24hr Parking",
+            700009858
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:59, 16:31)",
+        [
+            "icon 24hr Parking",
+            700009858
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(16:52, 18:12)",
+        [
+            "",
+            700023622
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:40, 19:49)",
+        [
+            "",
+            700023591
+        ]
+    ],
+    [
+        "Prepare Dinner or Meal Prep",
+        "(21:22, 22:33)",
+        [
+            "",
+            700023622
+        ]
+    ],
+    [
+        "Relax and Wind Down, perhaps with some light reading or meditation.",
+        "(22:58, 23:53)",
+        [
+            "",
+            700011840
+        ]
+    ]
+]

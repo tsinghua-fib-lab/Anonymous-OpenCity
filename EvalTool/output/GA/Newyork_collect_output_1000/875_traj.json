@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:53)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:21, 18:02)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "prepare dinner and wind down",
+        "(20:43, 22:15)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Stay at empty place",
+        "(22:21, 23:59)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Relax or read a book",
+        "(10:00, 11:07)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(11:55, 13:02)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(13:03, 13:57)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Continue watching sports or your favorite shows.",
+        "(15:03, 17:02)",
+        [
+            "Newton Street",
+            700020796
+        ]
+    ],
+    [
+        "Current place: Dragon Court",
+        "(17:57, 18:57)",
+        [
+            "Newton Street",
+            700020796
+        ]
+    ],
+    [
+        "Leisure activities or family time.",
+        "(19:18, 21:04)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 23:59)",
+        [
+            "",
+            700001228
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:48)",
+        [
+            "Shoe Shine",
+            700020451
+        ]
+    ],
+    [
+        "Have lunch and catch up with friends or family.",
+        "(12:25, 13:45)",
+        [
+            "Shoe Shine",
+            700020451
+        ]
+    ],
+    [
+        "Have lunch and catch up with friends or family.",
+        "(14:18, 15:44)",
+        [
+            "Shoe Shine",
+            700020451
+        ]
+    ],
+    [
+        "Have lunch and catch up with friends or family",
+        "(16:15, 17:53)",
+        [
+            "Shoe Shine",
+            700020451
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 23:59)",
+        [
+            "Planet Organic",
+            700021489
+        ]
+    ],
+    [
+        "Stay at Planet Organic",
+        "(22:41, 23:59)",
+        [
+            "Planet Organic",
+            700021489
+        ]
+    ]
+]

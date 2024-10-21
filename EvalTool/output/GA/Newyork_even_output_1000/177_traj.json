@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000613
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:57)",
+        [
+            "Margaux",
+            700028887
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:59, 16:43)",
+        [
+            "Analogue",
+            700024711
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:53, 17:07)",
+        [
+            "Analogue",
+            700024711
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 23:03)",
+        [
+            "Domino's",
+            700016138
+        ]
+    ],
+    [
+        "Go to Astor Place Theatre",
+        "(20:59, 22:21)",
+        [
+            "Analogue",
+            700024711
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "Arts and Crafts Beer Parlor",
+            700008981
+        ]
+    ]
+]

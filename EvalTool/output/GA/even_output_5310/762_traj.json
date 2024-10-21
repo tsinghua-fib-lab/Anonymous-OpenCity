@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018644
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:17)",
+        [
+            "USPS",
+            700004357
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 19:22)",
+        [
+            "Link NYC",
+            700020385
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:17, 23:59)",
+        [
+            "Uncle Nick's Restaurant",
+            700004352
+        ]
+    ],
+    [
+        "Stay at Uncle Nick's Restaurant",
+        "(22:52, 23:58)",
+        [
+            "Hoa Cafe",
+            700014189
+        ]
+    ],
+    [
+        "Stay at HOA Cafe",
+        "(23:58, 23:59)",
+        [
+            "Hoa Cafe",
+            700014189
+        ]
+    ]
+]

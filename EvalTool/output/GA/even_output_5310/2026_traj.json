@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000998
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:01)",
+        [
+            "Little Italy Pizza",
+            700039911
+        ]
+    ],
+    [
+        "Stay at Little Italy Pizza until 1 PM.",
+        "(11:28, 13:07)",
+        [
+            "Little Italy Pizza",
+            700039911
+        ]
+    ],
+    [
+        "Decide to stay at Little Italy Pizza until 1 PM.",
+        "(13:19, 14:52)",
+        [
+            "Little Italy Pizza",
+            700039911
+        ]
+    ],
+    [
+        "Stay at Little Italy Pizza until 1 PM.",
+        "(15:46, 17:52)",
+        [
+            "Little Italy Pizza",
+            700039911
+        ]
+    ],
+    [
+        "Continue to hobby time.",
+        "(18:27, 19:55)",
+        [
+            "Little Italy Pizza",
+            700039911
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 23:59)",
+        [
+            "Luigi's Pizza",
+            700007282
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "Vizio",
+            700007286
+        ]
+    ]
+]

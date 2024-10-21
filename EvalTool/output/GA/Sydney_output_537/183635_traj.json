@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700026773
+        ]
+    ],
+    [
+        "Exercise (10:00 AM - 11:00 AM)",
+        "(09:00, 10:03)",
+        [
+            "Teddy Tea Break",
+            700029740
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:34, 13:26)",
+        [
+            "",
+            700019170
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:31, 18:01)",
+        [
+            "Teddy Tea Break",
+            700029740
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(18:17, 19:39)",
+        [
+            "",
+            700001299
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(20:22, 21:49)",
+        [
+            "",
+            700029000
+        ]
+    ],
+    [
+        "Wind Down & Reading",
+        "(22:06, 23:31)",
+        [
+            "Bank Hotel",
+            700003993
+        ]
+    ],
+    [
+        "Wind Down & Reading",
+        "(23:51, 23:59)",
+        [
+            "",
+            700026773
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:57)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "Creative Time",
+        "(12:54, 14:56)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Creative Time",
+        "(15:02, 17:01)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 23:17)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ]
+]

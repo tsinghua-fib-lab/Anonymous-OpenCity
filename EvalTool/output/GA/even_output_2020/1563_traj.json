@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008260
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:36)",
+        [
+            "",
+            700000530
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(11:33, 13:01)",
+        [
+            "",
+            700000531
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(13:30, 14:51)",
+        [
+            "The Soap Box Cafe",
+            700003663
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:39, 21:26)",
+        [
+            "Restorante Milano",
+            700005181
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:00, 23:36)",
+        [
+            "",
+            700000534
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700000534
+        ]
+    ]
+]

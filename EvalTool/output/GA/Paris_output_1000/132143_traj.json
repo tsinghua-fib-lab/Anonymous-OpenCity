@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bert's",
+            700026512
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:24)",
+        [
+            "The Frog",
+            700002021
+        ]
+    ],
+    [
+        "Enjoy leisure activities.",
+        "(12:13, 14:13)",
+        [
+            "The Frog",
+            700002021
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 19:58)",
+        [
+            "Roberta",
+            700010262
+        ]
+    ],
+    [
+        "Enjoy leisure activities.",
+        "(20:47, 22:22)",
+        [
+            "Factory & Co",
+            700015058
+        ]
+    ],
+    [
+        "Visit Starbucks for a quick coffee.",
+        "(22:45, 23:59)",
+        [
+            "Amorino",
+            700046882
+        ]
+    ],
+    [
+        "Go to Starbucks for a quick coffee.",
+        "(23:56, 23:59)",
+        [
+            "Pirogues de Bercy - Libourne",
+            700041451
+        ]
+    ]
+]

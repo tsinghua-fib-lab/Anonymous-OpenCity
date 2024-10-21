@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chestnut Coffee Roastery",
+            700007456
+        ]
+    ],
+    [
+        "Breakfast at home.",
+        "(10:00, 11:07)",
+        [
+            "A16",
+            700003080
+        ]
+    ],
+    [
+        "Go for a mid-morning walk or light jog in the park",
+        "(11:55, 12:54)",
+        [
+            "A16",
+            700003080
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 14:14)",
+        [
+            "Presidio Theater",
+            700002291
+        ]
+    ],
+    [
+        "Meet friends for coffee or a social outing",
+        "(17:27, 19:03)",
+        [
+            "A16",
+            700003080
+        ]
+    ],
+    [
+        "Spend time at home",
+        "(19:19, 20:50)",
+        [
+            "Chestnut Coffee Roastery",
+            700007456
+        ]
+    ],
+    [
+        "Stay at home",
+        "(21:23, 22:58)",
+        [
+            "Chestnut Coffee Roastery",
+            700007456
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Squat & Gobble",
+            700000683
+        ]
+    ]
+]

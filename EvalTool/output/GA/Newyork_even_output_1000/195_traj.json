@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Royal Orthodontics",
+            700023464
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:07)",
+        [
+            "Gramercy Diagnostic Radiology",
+            700023460
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:39, 17:53)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ],
+    [
+        "Watch Sports / Entertainment",
+        "(16:35, 19:12)",
+        [
+            "CityMD",
+            700013548
+        ]
+    ],
+    [
+        "Prepare Dinner & Wind Down",
+        "(19:24, 20:59)",
+        [
+            "CityMD",
+            700013548
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:50, 23:59)",
+        [
+            "",
+            700018137
+        ]
+    ]
+]

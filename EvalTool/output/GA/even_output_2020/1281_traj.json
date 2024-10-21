@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "NaYa Dessert Cafe",
+            700008949
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:12)",
+        [
+            "",
+            700002885
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 15:17)",
+        [
+            "",
+            700014122
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 20:02)",
+        [
+            "Hazie's",
+            700001489
+        ]
+    ],
+    [
+        "Current Place: NaYa Dessert Cafe; Stay Time: 0 hours 23 minutes",
+        "(20:23, 22:18)",
+        [
+            "",
+            700002731
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(22:52, 23:59)",
+        [
+            "Anina",
+            700009468
+        ]
+    ]
+]

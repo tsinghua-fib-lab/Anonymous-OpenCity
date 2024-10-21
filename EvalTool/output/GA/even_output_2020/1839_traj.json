@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "All Season Sushi Bar",
+            700002203
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:35)",
+        [
+            "Dumpling Kitchen",
+            700002202
+        ]
+    ],
+    [
+        "Lunch Preparation and Eating",
+        "(13:09, 14:11)",
+        [
+            "Castro Tarts",
+            700002200
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 17:26)",
+        [
+            "Taxi Stand at Castro and 18th Street",
+            700009956
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:41, 17:17)",
+        [
+            "Taxi Stand at Castro and 18th Street",
+            700009956
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(17:17, 18:54)",
+        [
+            "All Season Sushi Bar",
+            700002203
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:55, 20:33)",
+        [
+            "Castro Tarts",
+            700002200
+        ]
+    ]
+]

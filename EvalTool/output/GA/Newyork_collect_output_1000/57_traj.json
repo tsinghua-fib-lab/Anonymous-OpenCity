@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:53)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:33, 15:56)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:00, 18:04)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "At-Home Leisure or Hobbies",
+        "(18:18, 19:53)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "At-Home Leisure or Hobbies",
+        "(20:45, 23:25)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:00, 23:59)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ]
+]

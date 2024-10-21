@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cafe Roma",
+            700011130
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:42)",
+        [
+            "",
+            700025296
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(13:53, 15:05)",
+        [
+            "Cafe Roma",
+            700011130
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(15:19, 16:55)",
+        [
+            "Marcellino",
+            700025828
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(16:32, 17:52)",
+        [
+            "Marcellino",
+            700025828
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 21:19)",
+        [
+            "",
+            700025295
+        ]
+    ],
+    [
+        "Stay at Cafe Roma",
+        "(20:27, 21:56)",
+        [
+            "Marcellino",
+            700025828
+        ]
+    ],
+    [
+        "Stay at Cafe Roma",
+        "(22:17, 23:41)",
+        [
+            "Cafe Roma",
+            700011130
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "Stone Street",
+            700009478
+        ]
+    ]
+]

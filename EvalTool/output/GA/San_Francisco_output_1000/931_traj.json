@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009645
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:00)",
+        [
+            "",
+            700009658
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(14:19, 15:44)",
+        [
+            "Opera Plaza Cinema",
+            700000019
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(16:47, 18:20)",
+        [
+            "Opera Plaza Cinema",
+            700000019
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(18:10, 19:51)",
+        [
+            "",
+            700010668
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(20:01, 22:00)",
+        [
+            "",
+            700010680
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:52, 23:59)",
+        [
+            "Peet's Coffee",
+            700004934
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Il Pollaio",
+            700000459
+        ]
+    ],
+    [
+        "Current place: Il Pollaio. Stay time: 1 hour.",
+        "(10:00, 11:01)",
+        [
+            "Spuntino",
+            700004753
+        ]
+    ],
+    [
+        "Go to Spuntino for lunch.",
+        "(11:57, 13:35)",
+        [
+            "Spuntino",
+            700004753
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:36, 14:59)",
+        [
+            "Spuntino",
+            700004753
+        ]
+    ],
+    [
+        "Have lunch.",
+        "(15:45, 17:25)",
+        [
+            "Cafe Angolo",
+            700011103
+        ]
+    ],
+    [
+        "Lunch",
+        "(17:31, 18:38)",
+        [
+            "Spuntino",
+            700004753
+        ]
+    ],
+    [
+        "Next activity: Enjoy a coffee or dessert.",
+        "(19:29, 20:59)",
+        [
+            "Il Pollaio",
+            700000459
+        ]
+    ],
+    [
+        "Relaxing at La Trappe after having lunch.",
+        "(21:47, 22:53)",
+        [
+            "Chief Sullivan's",
+            700004986
+        ]
+    ],
+    [
+        "You will stay at Spuntino.",
+        "(23:46, 23:59)",
+        [
+            "Spuntino",
+            700004753
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Shevchenko Pl & E 7 St",
+            700008178
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 10:50)",
+        [
+            "Citi Bike - Shevchenko Pl & E 7 St",
+            700008178
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:59, 12:56)",
+        [
+            "",
+            700017430
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:09, 14:23)",
+        [
+            "",
+            700016781
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:19, 19:33)",
+        [
+            "Bluestone Lane",
+            700021774
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:21, 23:23)",
+        [
+            "",
+            700008704
+        ]
+    ],
+    [
+        "Stay at The Bean and enjoy coffee and pastries.",
+        "(23:27, 23:59)",
+        [
+            "The Bean",
+            700004607
+        ]
+    ]
+]

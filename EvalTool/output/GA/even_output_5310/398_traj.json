@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gregory’s coffee",
+            700032007
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:00, 11:03)",
+        [
+            "Gregory’s coffee",
+            700032007
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:38, 14:42)",
+        [
+            "",
+            700002292
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:01, 16:59)",
+        [
+            "Tad’s Steakhouse",
+            700015873
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:05, 21:09)",
+        [
+            "Tad’s Steakhouse",
+            700015873
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(21:16, 23:04)",
+        [
+            "",
+            700002292
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "Junior's Deli",
+            700013854
+        ]
+    ]
+]

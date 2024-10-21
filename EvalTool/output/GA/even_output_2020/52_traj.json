@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "EastWest Unibank",
+            700005139
+        ]
+    ],
+    [
+        "Have breakfast",
+        "(10:00, 11:29)",
+        [
+            "Chinatown Parking",
+            700008168
+        ]
+    ],
+    [
+        "Stay at Chinatown Parking.",
+        "(12:00, 13:31)",
+        [
+            "New Pacific Court Cafe",
+            700005010
+        ]
+    ],
+    [
+        "Stay at New Pacific Court Cafe.",
+        "(14:30, 16:22)",
+        [
+            "Yummy Yummy",
+            700004177
+        ]
+    ],
+    [
+        "Meet friends for coffee and catch up",
+        "(17:18, 18:39)",
+        [
+            "Yummy Yummy",
+            700004177
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 22:06)",
+        [
+            "North East Medical Services",
+            700004178
+        ]
+    ],
+    [
+        "Stay at North East Medical Services.",
+        "(22:34, 23:59)",
+        [
+            "North East Medical Services",
+            700004178
+        ]
+    ]
+]

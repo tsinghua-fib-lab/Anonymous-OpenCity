@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Los Cilantros",
+            700009452
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:18)",
+        [
+            "Fluid Cooperative Cafe",
+            700009453
+        ]
+    ],
+    [
+        "Spend time reading a book or catching up on a hobby.",
+        "(15:27, 17:09)",
+        [
+            "Fluid Cooperative Cafe",
+            700009453
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:06, 18:28)",
+        [
+            "Wells Fargo",
+            700005081
+        ]
+    ],
+    [
+        "Meet friends for drinks.",
+        "(19:38, 21:16)",
+        [
+            "Hello!",
+            700010211
+        ]
+    ],
+    [
+        "Stay at Los Cilantros",
+        "(21:26, 23:25)",
+        [
+            "Hello!",
+            700010211
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "",
+            700009301
+        ]
+    ]
+]

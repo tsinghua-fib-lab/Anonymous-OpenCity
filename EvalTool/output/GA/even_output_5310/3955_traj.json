@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sarabeth's",
+            700011726
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:52)",
+        [
+            "Turnmill",
+            700006283
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:03, 14:29)",
+        [
+            "Turnmill",
+            700006283
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:04, 18:33)",
+        [
+            "J. Bespoke",
+            700032516
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:22, 21:07)",
+        [
+            "Sahib Indian Cuisine",
+            700016454
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:51, 23:59)",
+        [
+            "Sahib Indian Cuisine",
+            700016454
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Sahib Indian Cuisine",
+            700016454
+        ]
+    ]
+]

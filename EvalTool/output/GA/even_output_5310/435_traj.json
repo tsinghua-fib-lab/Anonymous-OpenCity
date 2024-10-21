@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Centro Pizza",
+            700021721
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:14)",
+        [
+            "",
+            700020598
+        ]
+    ],
+    [
+        "Afternoon Movie or TV Series",
+        "(11:21, 13:04)",
+        [
+            "Uva",
+            700023408
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:43, 17:48)",
+        [
+            "Brazilian Market NYC",
+            700039305
+        ]
+    ],
+    [
+        "Afternoon Movie or TV Series",
+        "(17:55, 19:07)",
+        [
+            "Brazilian Market NYC",
+            700039305
+        ]
+    ],
+    [
+        "Dinner & Prepare for the Week",
+        "(19:24, 21:05)",
+        [
+            "Sin City Burger",
+            700033661
+        ]
+    ],
+    [
+        "Dinner & Prepare for the Week",
+        "(21:45, 23:41)",
+        [
+            "Brazilian Market NYC",
+            700039305
+        ]
+    ],
+    [
+        "Afternoon Movie or TV Series",
+        "(23:48, 23:59)",
+        [
+            "Sin City Burger",
+            700033661
+        ]
+    ]
+]

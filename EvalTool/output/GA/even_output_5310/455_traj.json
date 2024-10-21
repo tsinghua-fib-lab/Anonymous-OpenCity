@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002957
+        ]
+    ],
+    [
+        "Morning Exercise from 10:00 AM to 11:00 AM",
+        "(09:00, 10:13)",
+        [
+            "",
+            700002957
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:14, 13:08)",
+        [
+            "Luke’s Bar & Grill",
+            700014854
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:47, 19:20)",
+        [
+            "Amber",
+            700006576
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:23, 20:51)",
+        [
+            "CityMD",
+            700018071
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "Rothschild TLV",
+            700019738
+        ]
+    ]
+]

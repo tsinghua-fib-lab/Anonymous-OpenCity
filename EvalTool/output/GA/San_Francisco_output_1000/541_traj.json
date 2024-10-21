@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bistro Central Parc",
+            700003566
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:27)",
+        [
+            "Papalote",
+            700001811
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:27, 17:53)",
+        [
+            "Bistro Central Parc",
+            700003566
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:43, 22:23)",
+        [
+            "Starbucks",
+            700001912
+        ]
+    ],
+    [
+        "Stay at Bistro Central Parc",
+        "(22:08, 23:38)",
+        [
+            "Starbucks",
+            700001912
+        ]
+    ],
+    [
+        "Stay at Bistro Central Parc",
+        "(23:52, 23:59)",
+        [
+            "Starbucks",
+            700001912
+        ]
+    ]
+]

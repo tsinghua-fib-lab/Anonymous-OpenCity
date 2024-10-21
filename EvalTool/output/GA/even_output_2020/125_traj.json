@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014222
+        ]
+    ],
+    [
+        "Reading or catching up on news/articles",
+        "(10:00, 11:52)",
+        [
+            "The Pawn Shop",
+            700009349
+        ]
+    ],
+    [
+        "Reading or catching up on news/articles",
+        "(11:33, 12:59)",
+        [
+            "The Pawn Shop",
+            700009349
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:02, 17:40)",
+        [
+            "Mezzanine",
+            700002056
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 23:59)",
+        [
+            "",
+            700010239
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020174
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 11:08)",
+        [
+            "",
+            700020174
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:20, 16:59)",
+        [
+            "Dunkin Donuts",
+            700039853
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:22, 22:22)",
+        [
+            "Caravan of Dreams",
+            700009031
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(22:35, 23:59)",
+        [
+            "Caravan of Dreams",
+            700009031
+        ]
+    ]
+]

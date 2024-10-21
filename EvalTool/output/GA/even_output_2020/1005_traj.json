@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "One Medical Group",
+            700002344
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:00, 10:54)",
+        [
+            "One Medical Group",
+            700002344
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(11:05, 13:07)",
+        [
+            "One Medical Group",
+            700002344
+        ]
+    ],
+    [
+        "Relaxation and Leisure Reading",
+        "(13:30, 14:52)",
+        [
+            "One Medical Group",
+            700002344
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:48, 18:05)",
+        [
+            "Casa Mexicana",
+            700001757
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 22:08)",
+        [
+            "Casa Mexicana",
+            700001757
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:59)",
+        [
+            "Savor",
+            700002434
+        ]
+    ]
+]

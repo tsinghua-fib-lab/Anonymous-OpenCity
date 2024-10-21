@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002150
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:03)",
+        [
+            "Page Street",
+            700009520
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:13, 15:43)",
+        [
+            "",
+            700011012
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 13:13)",
+        [
+            "Chinese American International School",
+            700000223
+        ]
+    ],
+    [
+        "Leisure Activity/Entertainment",
+        "(14:02, 15:53)",
+        [
+            "Chinese American International School",
+            700000223
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:10, 18:10)",
+        [
+            "Chinese American International School",
+            700000223
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:25, 20:54)",
+        [
+            "Chinese American International School",
+            700000223
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(21:41, 23:05)",
+        [
+            "Sessions Training Center",
+            700011078
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(23:13, 23:59)",
+        [
+            "EzCare Clinic",
+            700007430
+        ]
+    ]
+]

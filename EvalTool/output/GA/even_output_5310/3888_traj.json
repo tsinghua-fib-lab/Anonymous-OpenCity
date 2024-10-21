@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000784
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(10:00, 11:02)",
+        [
+            "",
+            700020360
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(11:05, 12:06)",
+        [
+            "Spicy Moon",
+            700029999
+        ]
+    ],
+    [
+        "Leisure Activity (Reading/Watching TV)",
+        "(12:40, 13:56)",
+        [
+            "Spicy Moon",
+            700029999
+        ]
+    ],
+    [
+        "Community or Social Activity",
+        "(14:12, 15:34)",
+        [
+            "Spicy Moon",
+            700029999
+        ]
+    ],
+    [
+        "Community or Social Activity",
+        "(16:21, 18:06)",
+        [
+            "",
+            700000784
+        ]
+    ],
+    [
+        "Community or Social Activity",
+        "(18:36, 20:00)",
+        [
+            "Spicy Moon",
+            700029999
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 23:03)",
+        [
+            "Spicy Moon",
+            700029999
+        ]
+    ]
+]

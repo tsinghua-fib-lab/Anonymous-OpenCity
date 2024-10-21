@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "La-Sani Grill",
+            700006351
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:35)",
+        [
+            "Tabata Noodle Restaurant",
+            700022443
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:36, 17:23)",
+        [
+            "",
+            700000889
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:49, 16:44)",
+        [
+            "Pomodoro Italian Restaurant",
+            700008669
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:07, 18:39)",
+        [
+            "Citi Bike - West 39th Street & 9th Avenue",
+            700008219
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:26, 23:59)",
+        [
+            "Pomodoro Italian Restaurant",
+            700008669
+        ]
+    ]
+]

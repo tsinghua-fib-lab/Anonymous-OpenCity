@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003104
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:59)",
+        [
+            "Bosie",
+            700011963
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:29, 17:57)",
+        [
+            "Mocha Burger",
+            700011964
+        ]
+    ],
+    [
+        "Social Time",
+        "(19:30, 20:59)",
+        [
+            "Mocha Burger",
+            700011964
+        ]
+    ],
+    [
+        "Go to Mocha Burger",
+        "(21:43, 23:35)",
+        [
+            "Mocha Burger",
+            700011964
+        ]
+    ],
+    [
+        "Visit Mocha Burger",
+        "(23:15, 23:59)",
+        [
+            "Mocha Burger",
+            700011964
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mount Sinai",
+            700027316
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:29)",
+        [
+            "",
+            700027334
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(13:53, 15:31)",
+        [
+            "Mount Sinai",
+            700027316
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(15:19, 16:41)",
+        [
+            "Mount Sinai",
+            700027316
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(16:32, 17:58)",
+        [
+            "Mount Sinai",
+            700027316
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 23:19)",
+        [
+            "",
+            700027336
+        ]
+    ],
+    [
+        "Stay at Mount Sinai",
+        "(20:27, 21:51)",
+        [
+            "",
+            700027318
+        ]
+    ],
+    [
+        "Stay at Mount Sinai",
+        "(22:17, 23:37)",
+        [
+            "Mount Sinai",
+            700027316
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "",
+            700027338
+        ]
+    ]
+]

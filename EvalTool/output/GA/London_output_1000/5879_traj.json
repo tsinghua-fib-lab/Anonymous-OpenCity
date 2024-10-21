@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(10:00, 11:40)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(12:16, 13:55)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:02, 17:12)",
+        [
+            "Planet Organic",
+            700021489
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:23, 23:59)",
+        [
+            "Devonshire Terrace",
+            700019972
+        ]
+    ],
+    [
+        "Next activity after leisure time",
+        "(23:58, 23:59)",
+        [
+            "Planet Organic",
+            700021489
+        ]
+    ]
+]

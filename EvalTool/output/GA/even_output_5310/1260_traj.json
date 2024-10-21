@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700021975
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:21)",
+        [
+            "FDNY Engine 39/Ladder 16",
+            700000531
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:28, 15:05)",
+        [
+            "",
+            700002633
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 18:15)",
+        [
+            "Kennedy Child Study Center",
+            700000274
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:02, 21:39)",
+        [
+            "",
+            700000928
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:58, 22:57)",
+        [
+            "Cooperman Library",
+            700017365
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:34, 23:59)",
+        [
+            "Kennedy Child Study Center",
+            700000274
+        ]
+    ]
+]

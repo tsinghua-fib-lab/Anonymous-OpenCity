@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gus's Parking",
+            700004768
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:40)",
+        [
+            "Dandelion Chocolate Factory & Café",
+            700005089
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(11:38, 13:41)",
+        [
+            "",
+            700011032
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(13:38, 15:48)",
+        [
+            "Peet's Coffee",
+            700005840
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:38, 21:14)",
+        [
+            "",
+            700011033
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:18, 23:59)",
+        [
+            "",
+            700011032
+        ]
+    ]
+]

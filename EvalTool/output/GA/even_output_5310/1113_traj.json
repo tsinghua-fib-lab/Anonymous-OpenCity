@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Intelligentsia Café",
+            700040204
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(10:00, 11:20)",
+        [
+            "Intelligentsia Café",
+            700040204
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(12:56, 14:02)",
+        [
+            "Intelligentsia Café",
+            700040204
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:32, 16:18)",
+        [
+            "General Theological Seminary",
+            700000012
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(20:24, 21:53)",
+        [
+            "General Theological Seminary",
+            700000012
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:11, 23:59)",
+        [
+            "",
+            700039908
+        ]
+    ]
+]

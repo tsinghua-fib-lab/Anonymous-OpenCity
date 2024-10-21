@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Hit Fit SF",
+            700010920
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:30)",
+        [
+            "Mijoté",
+            700007133
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:35, 14:21)",
+        [
+            "Gurdjieff Foundation",
+            700006004
+        ]
+    ],
+    [
+        "Relaxation/Entertainment",
+        "(15:20, 16:59)",
+        [
+            "Mijoté",
+            700007133
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:42, 19:19)",
+        [
+            "Mijoté",
+            700007133
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(19:46, 21:14)",
+        [
+            "Sightglass Coffee",
+            700004272
+        ]
+    ],
+    [
+        "Stay at Mijoté",
+        "(21:48, 22:50)",
+        [
+            "Mijoté",
+            700007133
+        ]
+    ],
+    [
+        "Stay at Mijoté.",
+        "(23:50, 23:59)",
+        [
+            "Sightglass Coffee",
+            700004272
+        ]
+    ]
+]

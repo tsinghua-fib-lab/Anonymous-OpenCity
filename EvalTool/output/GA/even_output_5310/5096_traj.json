@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700003469
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:47)",
+        [
+            "Farinella",
+            700003482
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 16:50)",
+        [
+            "Starbucks",
+            700003469
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 19:08)",
+        [
+            "",
+            700026450
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:23, 21:50)",
+        [
+            "Starbucks",
+            700003469
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(22:42, 23:59)",
+        [
+            "Starbucks",
+            700003469
+        ]
+    ]
+]

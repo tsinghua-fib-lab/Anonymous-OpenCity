@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001674
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:26)",
+        [
+            "Citi Bike - University Pl & E 8 St",
+            700021684
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:48, 15:11)",
+        [
+            "Iris and B Gerald Cantor Film Center Tisch School for the Arts",
+            700000193
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:31, 16:38)",
+        [
+            "",
+            700001674
+        ]
+    ],
+    [
+        "Relax and Leisure Time",
+        "(17:54, 19:01)",
+        [
+            "",
+            700002316
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:12, 20:19)",
+        [
+            "Knickerbocker Bar & Grill",
+            700007667
+        ]
+    ],
+    [
+        "Dinner and Movie Night",
+        "(23:57, 23:59)",
+        [
+            "Citi Bike - University Pl & E 8 St",
+            700021684
+        ]
+    ]
+]

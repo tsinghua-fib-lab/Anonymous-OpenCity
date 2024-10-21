@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020284
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:41)",
+        [
+            "NYC Dental Implants Center",
+            700010046
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:08, 14:48)",
+        [
+            "Chase",
+            700016440
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:48, 16:41)",
+        [
+            "Chase",
+            700016440
+        ]
+    ],
+    [
+        "Leisure Reading or Gaming",
+        "(17:36, 19:07)",
+        [
+            "Chase",
+            700016440
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:10, 23:59)",
+        [
+            "USPS",
+            700014701
+        ]
+    ]
+]

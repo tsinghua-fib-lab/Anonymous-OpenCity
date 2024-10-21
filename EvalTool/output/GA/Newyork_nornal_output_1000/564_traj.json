@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Amelie Wine Bar",
+            700005003
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:39)",
+        [
+            "Amelie Wine Bar",
+            700005003
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:32, 12:52)",
+        [
+            "Amelie Wine Bar",
+            700005003
+        ]
+    ],
+    [
+        "Continue with the plan.",
+        "(13:15, 14:50)",
+        [
+            "Amelie Wine Bar",
+            700005003
+        ]
+    ],
+    [
+        "Outdoor Sports Activity",
+        "(14:48, 16:49)",
+        [
+            "Amelie Wine Bar",
+            700005003
+        ]
+    ],
+    [
+        "Relax and Read",
+        "(16:50, 18:16)",
+        [
+            "Domino's",
+            700016138
+        ]
+    ],
+    [
+        "Relax and Read",
+        "(18:52, 19:56)",
+        [
+            "Amelie Wine Bar",
+            700005003
+        ]
+    ],
+    [
+        "Relax and Read",
+        "(20:12, 21:35)",
+        [
+            "",
+            700019501
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(21:51, 23:17)",
+        [
+            "Amelie Wine Bar",
+            700005003
+        ]
+    ],
+    [
+        "Movie Night",
+        "(23:45, 23:59)",
+        [
+            "Amelie Wine Bar",
+            700005003
+        ]
+    ]
+]

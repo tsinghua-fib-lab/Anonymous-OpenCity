@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mezze and Mooore",
+            700000083
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(10:00, 10:58)",
+        [
+            "",
+            700008307
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(11:05, 12:58)",
+        [
+            "",
+            700008322
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:30, 14:56)",
+        [
+            "",
+            700008334
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:57, 16:19)",
+        [
+            "",
+            700008333
+        ]
+    ],
+    [
+        "Afternoon Sports",
+        "(16:47, 18:21)",
+        [
+            "",
+            700010901
+        ]
+    ],
+    [
+        "Continue with Dinner Preparation and Meal",
+        "(18:13, 19:58)",
+        [
+            "Carbon Health",
+            700005447
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 23:59)",
+        [
+            "Carbon Health",
+            700005447
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "",
+            700008336
+        ]
+    ]
+]

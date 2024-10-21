@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020526
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:51)",
+        [
+            "",
+            700027170
+        ]
+    ],
+    [
+        "Watch a Sports Game",
+        "(13:42, 15:50)",
+        [
+            "Xi Xiang Feng Seafood Restaurant",
+            700001769
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:54, 17:37)",
+        [
+            "Gourmet Taste Seafood Restaurant",
+            700001773
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:26, 21:03)",
+        [
+            "",
+            700020526
+        ]
+    ],
+    [
+        "Wind Down with TV or Movies",
+        "(21:32, 22:53)",
+        [
+            "Beverly Hills Hotel",
+            700027171
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "",
+            700020525
+        ]
+    ]
+]

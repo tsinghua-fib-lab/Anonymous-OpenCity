@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Go for a refreshing walk or light exercise.",
+        "(10:00, 10:53)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Relax and watch a movie or binge-watch a favorite series.",
+        "(11:14, 13:17)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill and relax while watching a movie or binge-watching a favorite series.",
+        "(14:05, 16:06)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:27, 21:45)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:08, 23:59)",
+        [
+            "Street Taco",
+            700006239
+        ]
+    ]
+]

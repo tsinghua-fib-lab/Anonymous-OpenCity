@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Il Violino",
+            700005036
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:05)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:41, 15:45)",
+        [
+            "",
+            700002202
+        ]
+    ],
+    [
+        "Continue with Personal Projects/Reading",
+        "(12:25, 14:10)",
+        [
+            "Il Violino",
+            700005036
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 17:17)",
+        [
+            "The Migrant Kitchen",
+            700016762
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:34, 22:31)",
+        [
+            "Dig",
+            700006588
+        ]
+    ],
+    [
+        "Finish errands",
+        "(23:20, 23:59)",
+        [
+            "",
+            700003205
+        ]
+    ]
+]

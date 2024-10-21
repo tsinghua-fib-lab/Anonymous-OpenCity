@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Partners Coffee",
+            700009840
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast",
+        "(10:00, 11:08)",
+        [
+            "Partners Coffee",
+            700009840
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the park",
+        "(11:15, 12:44)",
+        [
+            "Partners Coffee",
+            700009840
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 17:56)",
+        [
+            "Mezzrow",
+            700024612
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 21:49)",
+        [
+            "55 bar",
+            700009678
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "ChargePoint",
+            700012431
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008264
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:49)",
+        [
+            "",
+            700001439
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(12:59, 13:57)",
+        [
+            "Robin",
+            700010610
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 19:50)",
+        [
+            "",
+            700008264
+        ]
+    ],
+    [
+        "Watch TV or relax before bed",
+        "(20:35, 22:06)",
+        [
+            "Robin",
+            700010610
+        ]
+    ],
+    [
+        "Next activity after relaxing day",
+        "(22:24, 23:59)",
+        [
+            "Robin",
+            700010610
+        ]
+    ],
+    [
+        "Next activity after relaxing day",
+        "(23:46, 23:59)",
+        [
+            "Robin",
+            700010610
+        ]
+    ]
+]

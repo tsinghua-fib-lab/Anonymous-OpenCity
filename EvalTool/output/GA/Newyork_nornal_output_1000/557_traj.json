@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Underground Pizza",
+            700004091
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:36)",
+        [
+            "",
+            700010218
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(14:35, 16:05)",
+        [
+            "Underground Pizza",
+            700004091
+        ]
+    ],
+    [
+        "Catch Up on Reading or Learning",
+        "(16:36, 18:04)",
+        [
+            "Underground Pizza",
+            700004091
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:05, 19:02)",
+        [
+            "Underground Pizza",
+            700004091
+        ]
+    ],
+    [
+        "Watch TV or Movie",
+        "(19:07, 21:51)",
+        [
+            "Leo's Bagels",
+            700004087
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:37, 23:59)",
+        [
+            "",
+            700024026
+        ]
+    ]
+]

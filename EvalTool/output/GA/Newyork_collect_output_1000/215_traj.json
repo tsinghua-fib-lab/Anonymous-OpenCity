@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Leisure Activity or Exercise",
+        "(10:00, 11:38)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "Go to Gramercy Park Dental",
+        "(11:27, 13:27)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 15:31)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:26, 20:50)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 23:59)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Visit Sucker Punch",
+        "(23:46, 23:59)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ]
+]

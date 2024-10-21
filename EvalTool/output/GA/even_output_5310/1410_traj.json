@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Have a leisurely breakfast",
+        "(10:00, 10:52)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park from 11:00 AM to 12:00 PM.",
+        "(12:06, 12:58)",
+        [
+            "",
+            700018138
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park.",
+        "(13:11, 14:41)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 17:58)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 20:03)",
+        [
+            "",
+            700022517
+        ]
+    ],
+    [
+        "Go to 'Link NYC'",
+        "(23:31, 23:59)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ]
+]

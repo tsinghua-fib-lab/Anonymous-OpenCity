@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Smith",
+            700006415
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:02)",
+        [
+            "Morning Star Cafe",
+            700014376
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:46, 14:54)",
+        [
+            "Morning Star Cafe",
+            700014376
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 19:17)",
+        [
+            "",
+            700017573
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 23:59)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009563
+        ]
+    ],
+    [
+        "go for a relaxing walk in the park",
+        "(10:00, 11:10)",
+        [
+            "",
+            700009566
+        ]
+    ],
+    [
+        "You are currently at a bench.",
+        "(11:12, 12:47)",
+        [
+            "Telegraph Hill Cooperative Nursery School",
+            700003879
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:53, 14:26)",
+        [
+            "Telegraph Hill Cooperative Nursery School",
+            700003879
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 20:09)",
+        [
+            "",
+            700009560
+        ]
+    ],
+    [
+        "You are currently at a bench.",
+        "(21:27, 23:12)",
+        [
+            "Telegraph Hill Cooperative Nursery School",
+            700003879
+        ]
+    ],
+    [
+        "Stay at a bench",
+        "(23:57, 23:59)",
+        [
+            "Telegraph Hill Cooperative Nursery School",
+            700003879
+        ]
+    ]
+]

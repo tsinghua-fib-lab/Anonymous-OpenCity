@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kids Dental",
+            700020202
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:06)",
+        [
+            "",
+            700020198
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(13:46, 15:25)",
+        [
+            "Alphabet Fresh Pizza",
+            700005168
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(15:24, 17:04)",
+        [
+            "Alphabet Fresh Pizza",
+            700005168
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:53, 19:13)",
+        [
+            "il laboratorio del gelato",
+            700003404
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:48, 21:04)",
+        [
+            "",
+            700025328
+        ]
+    ],
+    [
+        "Stay at Kids Dental",
+        "(22:42, 23:59)",
+        [
+            "El Churro",
+            700017610
+        ]
+    ]
+]

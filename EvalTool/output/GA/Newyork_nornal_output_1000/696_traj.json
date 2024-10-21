@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Eleni's Divine Greek Cuisine",
+            700009143
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:25)",
+        [
+            "Gramercy Bagels",
+            700006184
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 18:30)",
+        [
+            "David's Pharmacy",
+            700006190
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:00, 22:03)",
+        [
+            "",
+            700001377
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:32, 23:59)",
+        [
+            "Triona's",
+            700029594
+        ]
+    ]
+]

@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "One Medical",
+            700007225
+        ]
+    ],
+    [
+        "10:00 AM - Outdoor Activity",
+        "(09:00, 11:28)",
+        [
+            "Mission Workshop",
+            700002229
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:43, 15:47)",
+        [
+            "Little Chihuahua",
+            700002998
+        ]
+    ],
+    [
+        "Lunch at Home",
+        "(12:31, 14:56)",
+        [
+            "Little Chihuahua",
+            700002998
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 20:18)",
+        [
+            "Little Chihuahua",
+            700002998
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(17:08, 18:33)",
+        [
+            "Mission Workshop",
+            700002229
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(18:49, 20:40)",
+        [
+            "Muddy Waters",
+            700000695
+        ]
+    ],
+    [
+        "Stay at One Medical",
+        "(20:55, 22:16)",
+        [
+            "One Medical",
+            700007225
+        ]
+    ],
+    [
+        "Stay at One Medical",
+        "(22:18, 23:53)",
+        [
+            "One Medical",
+            700007225
+        ]
+    ],
+    [
+        "Stay at One Medical",
+        "(23:53, 23:59)",
+        [
+            "One Medical",
+            700007225
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hippopotamus",
+            700002020
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the park.",
+        "(10:00, 11:00)",
+        [
+            "",
+            700032431
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the park",
+        "(11:48, 13:01)",
+        [
+            "Bert's",
+            700026512
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the park",
+        "(14:03, 15:36)",
+        [
+            "Triangle",
+            700064617
+        ]
+    ],
+    [
+        "Go for a leisurely walk",
+        "(16:36, 19:02)",
+        [
+            "Triangle",
+            700064617
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:34, 22:53)",
+        [
+            "Triangle",
+            700064617
+        ]
+    ]
+]

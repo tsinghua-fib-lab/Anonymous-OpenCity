@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700024987
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:16)",
+        [
+            "Thomas Drugs",
+            700006589
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:52, 13:56)",
+        [
+            "Joanne Trattoria",
+            700013909
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:44, 17:51)",
+        [
+            "Thomas Drugs",
+            700006589
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:28, 19:52)",
+        [
+            "Thomas Drugs",
+            700006589
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 22:06)",
+        [
+            "Sweetgreen",
+            700020927
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(23:55, 23:59)",
+        [
+            "Sweetgreen",
+            700020927
+        ]
+    ]
+]

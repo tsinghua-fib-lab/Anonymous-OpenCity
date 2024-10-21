@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wells Fargo",
+            700024393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:21)",
+        [
+            "Mr Bigg's Bar & Grill",
+            700006370
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 15:25)",
+        [
+            "",
+            700001241
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:53, 21:54)",
+        [
+            "The Green Room 42",
+            700022028
+        ]
+    ],
+    [
+        "Wind Down – TV or Family Time",
+        "(20:53, 22:06)",
+        [
+            "Wells Fargo",
+            700024393
+        ]
+    ],
+    [
+        "Wind Down – TV or Family Time",
+        "(21:53, 22:54)",
+        [
+            "Wells Fargo",
+            700024393
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "Signature Theatre",
+            700040101
+        ]
+    ]
+]

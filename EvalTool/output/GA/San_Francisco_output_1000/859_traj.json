@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Yarsa",
+            700005009
+        ]
+    ],
+    [
+        "Go for a morning run or workout session",
+        "(09:00, 09:59)",
+        [
+            "Yarsa",
+            700005009
+        ]
+    ],
+    [
+        "Go for a morning run or workout session",
+        "(10:54, 11:51)",
+        [
+            "Yarsa",
+            700005009
+        ]
+    ],
+    [
+        "Read a book or catch up on financial news",
+        "(12:22, 13:14)",
+        [
+            "Yarsa",
+            700005009
+        ]
+    ],
+    [
+        "Read a book or catch up on financial news;",
+        "(14:13, 15:56)",
+        [
+            "Yarsa",
+            700005009
+        ]
+    ],
+    [
+        "Watch a sports game or engage in a hobby.",
+        "(16:39, 18:42)",
+        [
+            "Caffe Trieste",
+            700000119
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:32, 23:59)",
+        [
+            "Molinari Delicatessen",
+            700001464
+        ]
+    ]
+]

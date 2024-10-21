@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030399
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:14)",
+        [
+            "",
+            700030406
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:54, 15:26)",
+        [
+            "",
+            700030414
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(16:04, 18:04)",
+        [
+            "",
+            700030399
+        ]
+    ],
+    [
+        "Stay at Home and Prepare for the Week",
+        "(19:03, 20:01)",
+        [
+            "",
+            700030399
+        ]
+    ],
+    [
+        "Go for Dinner and Prepare for the Week",
+        "(20:15, 21:52)",
+        [
+            "",
+            700030399
+        ]
+    ],
+    [
+        "Go to Dinner and Prepare for the Week",
+        "(22:44, 23:59)",
+        [
+            "",
+            700030399
+        ]
+    ]
+]

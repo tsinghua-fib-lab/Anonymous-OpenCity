@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Santander",
+            700008775
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:36)",
+        [
+            "Santander",
+            700008775
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:41, 12:54)",
+        [
+            "Santander",
+            700008775
+        ]
+    ],
+    [
+        "Lunch with Friends",
+        "(13:46, 15:07)",
+        [
+            "Santander",
+            700008775
+        ]
+    ],
+    [
+        "Lunch with Friends",
+        "(15:24, 16:48)",
+        [
+            "Santander",
+            700008775
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:08, 21:32)",
+        [
+            "",
+            700014739
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 23:59)",
+        [
+            "",
+            700026824
+        ]
+    ],
+    [
+        "Watch a Movie",
+        "(22:32, 23:59)",
+        [
+            "Santander",
+            700008775
+        ]
+    ],
+    [
+        "Wind Down for the Evening",
+        "(23:53, 23:59)",
+        [
+            "",
+            700014740
+        ]
+    ]
+]

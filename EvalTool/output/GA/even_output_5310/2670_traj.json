@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020513
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:47)",
+        [
+            "",
+            700001367
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:24, 16:52)",
+        [
+            "Triple Crown",
+            700018447
+        ]
+    ],
+    [
+        "Cultural Outing",
+        "(17:05, 19:08)",
+        [
+            "Triple Crown",
+            700018447
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 23:00)",
+        [
+            "International Wine Center (IWC)",
+            700009795
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:59)",
+        [
+            "Rony's Fresh Pizza",
+            700040564
+        ]
+    ]
+]

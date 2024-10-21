@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Buckhorn Grill",
+            700010421
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:18)",
+        [
+            "Blondie's Pizza",
+            700008771
+        ]
+    ],
+    [
+        "Engage in a hobby or read a book",
+        "(12:46, 13:53)",
+        [
+            "Dirty Habit",
+            700003150
+        ]
+    ],
+    [
+        "Watch a movie or binge a TV series",
+        "(14:16, 17:26)",
+        [
+            "",
+            700007492
+        ]
+    ],
+    [
+        "Prepare and have dinner, followed by winding down",
+        "(18:06, 20:05)",
+        [
+            "Buckhorn Grill",
+            700010421
+        ]
+    ],
+    [
+        "Prepare and have dinner, followed by winding down.",
+        "(20:02, 21:42)",
+        [
+            "",
+            700006262
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:56, 23:59)",
+        [
+            "Blondie's Pizza",
+            700008771
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pick-a-Bagel",
+            700003326
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:12)",
+        [
+            "",
+            700035856
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:11, 18:59)",
+        [
+            "",
+            700035860
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(14:33, 16:00)",
+        [
+            "Blue Smoke",
+            700003898
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:05, 17:51)",
+        [
+            "Blue Smoke",
+            700003898
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:39, 20:54)",
+        [
+            "",
+            700035858
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(23:38, 23:59)",
+        [
+            "Blue Smoke",
+            700003898
+        ]
+    ]
+]

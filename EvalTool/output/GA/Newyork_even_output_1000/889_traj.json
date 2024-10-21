@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 39th Street & 2nd Avenue",
+            700008045
+        ]
+    ],
+    [
+        "Exercise or outdoor activity",
+        "(10:00, 11:02)",
+        [
+            "Citi Bike - East 39th Street & 2nd Avenue",
+            700008045
+        ]
+    ],
+    [
+        "Read or engage in a hobby",
+        "(11:21, 13:07)",
+        [
+            "",
+            700017846
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:52, 16:41)",
+        [
+            "Sai Gon Dep",
+            700017844
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 21:42)",
+        [
+            "",
+            700015965
+        ]
+    ],
+    [
+        "Dinner preparation and wind down",
+        "(23:36, 23:59)",
+        [
+            "",
+            700015965
+        ]
+    ]
+]

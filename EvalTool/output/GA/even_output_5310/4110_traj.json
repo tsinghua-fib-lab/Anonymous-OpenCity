@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Nao Medical",
+            700011613
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(09:00, 11:33)",
+        [
+            "Dunkin'",
+            700004185
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 14:35)",
+        [
+            "No. 1 New York Kitchen",
+            700011620
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:46, 17:43)",
+        [
+            "Nao Medical",
+            700011613
+        ]
+    ],
+    [
+        "Relaxing Evening at Home",
+        "(21:06, 23:05)",
+        [
+            "Nao Medical",
+            700011613
+        ]
+    ],
+    [
+        "Relaxing Evening at Home",
+        "(23:11, 23:59)",
+        [
+            "Nao Medical",
+            700011613
+        ]
+    ]
+]

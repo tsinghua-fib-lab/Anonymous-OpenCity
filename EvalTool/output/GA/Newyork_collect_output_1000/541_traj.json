@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 10:58)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:30, 13:07)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Social Time",
+        "(13:33, 15:43)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:52, 17:40)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:12, 19:45)",
+        [
+            "Smile Dental Center",
+            700023828
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(18:23, 19:53)",
+        [
+            "Smile Dental Center",
+            700023828
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(20:57, 22:37)",
+        [
+            "Explore + Discover Early Learning Center",
+            700006223
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(23:22, 23:59)",
+        [
+            "",
+            700006224
+        ]
+    ]
+]

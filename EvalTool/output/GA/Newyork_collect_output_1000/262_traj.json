@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:37)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:51, 13:35)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "Exploring a Local Attraction",
+        "(13:58, 15:31)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "Explore a Local Attraction",
+        "(15:36, 17:04)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:58, 21:44)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Stay at Gramercy Park Dental",
+        "(22:57, 23:59)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ]
+]

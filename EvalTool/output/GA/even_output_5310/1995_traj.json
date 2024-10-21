@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020618
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:02)",
+        [
+            "Our New Place",
+            700024817
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:11, 12:05)",
+        [
+            "Our New Place",
+            700024817
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 13:33)",
+        [
+            "Sojourn",
+            700030668
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 19:41)",
+        [
+            "Lusardi's",
+            700019512
+        ]
+    ],
+    [
+        "Evening Leisure Time",
+        "(20:40, 21:51)",
+        [
+            "Tozzo",
+            700033561
+        ]
+    ],
+    [
+        "Evening Leisure Time",
+        "(22:06, 23:36)",
+        [
+            "Calexico",
+            700011161
+        ]
+    ],
+    [
+        "Evening Leisure Time",
+        "(23:35, 23:59)",
+        [
+            "Anand Indian Cuisine",
+            700017559
+        ]
+    ]
+]

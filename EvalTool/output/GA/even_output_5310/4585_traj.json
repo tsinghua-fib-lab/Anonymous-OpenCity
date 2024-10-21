@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Mercer St & Bleecker St",
+            700008134
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:24)",
+        [
+            "",
+            700014909
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:16, 12:21)",
+        [
+            "Cafe Lyria",
+            700041008
+        ]
+    ],
+    [
+        "Afternoon Hobby",
+        "(16:17, 17:38)",
+        [
+            "Los Tacos No.1",
+            700041007
+        ]
+    ],
+    [
+        "Wind Down",
+        "(18:52, 19:53)",
+        [
+            "",
+            700003185
+        ]
+    ],
+    [
+        "Wind Down",
+        "(20:27, 21:55)",
+        [
+            "Bleecker Street Bar",
+            700022136
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "The Press Shop",
+            700013253
+        ]
+    ]
+]

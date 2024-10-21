@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mezes Kitchen & Wine Bar",
+            700003082
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:16)",
+        [
+            "Réveille",
+            700002292
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:14, 17:47)",
+        [
+            "Presidio Theater",
+            700002291
+        ]
+    ],
+    [
+        "Stay at Presidio Theater",
+        "(19:45, 21:06)",
+        [
+            "Presidio Theater",
+            700002291
+        ]
+    ],
+    [
+        "Wind down the day with some light reading or watching TV.",
+        "(21:10, 23:07)",
+        [
+            "Marina Chiropractic",
+            700000686
+        ]
+    ],
+    [
+        "Stay at Presidio Theater",
+        "(23:41, 23:59)",
+        [
+            "Presidio Theater",
+            700002291
+        ]
+    ]
+]

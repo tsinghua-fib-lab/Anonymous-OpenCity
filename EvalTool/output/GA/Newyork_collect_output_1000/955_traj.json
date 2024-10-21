@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "You will stay at your bicycle parking spot until 10:00 AM and then go for a walk.",
+        "(09:00, 10:23)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Stay at current place: AWOL Bar and Grill",
+        "(10:26, 13:05)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 18:04)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:42, 20:16)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Move to Dog & Bone",
+        "(21:51, 22:57)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ]
+]

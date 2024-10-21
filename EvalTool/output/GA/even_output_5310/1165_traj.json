@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ten Ren",
+            700013298
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:57)",
+        [
+            "Hoy Wong Restaurant",
+            700003490
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 14:15)",
+        [
+            "Chase",
+            700003489
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 22:06)",
+        [
+            "Royal Business Bank",
+            700026917
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:59, 23:59)",
+        [
+            "Citibank",
+            700005778
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:26, 23:59)",
+        [
+            "Citibank",
+            700005782
+        ]
+    ]
+]

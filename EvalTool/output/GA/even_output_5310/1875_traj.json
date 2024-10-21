@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mexiterranean Grill",
+            700030631
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:53)",
+        [
+            "",
+            700030653
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 13:31)",
+        [
+            "Finnegan's Wake Pub",
+            700006025
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:57, 20:50)",
+        [
+            "Domino's",
+            700034870
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:29, 23:59)",
+        [
+            "Hospital for Special Surgery clinic",
+            700039246
+        ]
+    ]
+]

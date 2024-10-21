@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Blackstone Coffee Roaster",
+            700023338
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:51)",
+        [
+            "Starbucks",
+            700003845
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:53, 12:51)",
+        [
+            "Starbucks",
+            700003845
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:29, 14:49)",
+        [
+            "Starbucks",
+            700003845
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:55, 21:56)",
+        [
+            "",
+            700002006
+        ]
+    ],
+    [
+        "Stay at HealthSource Pharmacy.",
+        "(19:49, 20:53)",
+        [
+            "",
+            700001483
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:05, 23:13)",
+        [
+            "Blackstone Coffee Roaster",
+            700023338
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(23:32, 23:59)",
+        [
+            "Rivoli Pizza",
+            700020678
+        ]
+    ]
+]

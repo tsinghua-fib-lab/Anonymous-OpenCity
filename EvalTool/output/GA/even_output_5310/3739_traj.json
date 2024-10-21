@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002730
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(09:00, 10:20)",
+        [
+            "",
+            700002793
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:16, 13:06)",
+        [
+            "Citi Bike - East 5th Street & Avenue C",
+            700008052
+        ]
+    ],
+    [
+        "Engage in a Hobby or Creative Activity",
+        "(16:35, 17:50)",
+        [
+            "",
+            700002730
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:39, 23:59)",
+        [
+            "Yoli",
+            700005415
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(22:41, 23:58)",
+        [
+            "Yoli",
+            700005415
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:55, 23:59)",
+        [
+            "",
+            700000968
+        ]
+    ]
+]

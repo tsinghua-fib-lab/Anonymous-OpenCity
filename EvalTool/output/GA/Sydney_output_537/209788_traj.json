@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009841
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:07)",
+        [
+            "Discover Pharmacy + Compounding",
+            700009648
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 12:58)",
+        [
+            "Kiss and Ride",
+            700020746
+        ]
+    ],
+    [
+        "Next, you will visit 'Discover Pharmacy + Compounding'.",
+        "(12:23, 13:58)",
+        [
+            "Discover Pharmacy + Compounding",
+            700009648
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:23, 17:05)",
+        [
+            "Junction Espresso Bar",
+            700006647
+        ]
+    ],
+    [
+        "Watch a sports game",
+        "(17:26, 19:06)",
+        [
+            "Junction Espresso Bar",
+            700006647
+        ]
+    ],
+    [
+        "Stay at Junction Espresso Bar.",
+        "(19:43, 21:45)",
+        [
+            "Discover Pharmacy + Compounding",
+            700009648
+        ]
+    ],
+    [
+        "Stay at Junction Espresso Bar.",
+        "(22:01, 23:23)",
+        [
+            "Junction Espresso Bar",
+            700006647
+        ]
+    ],
+    [
+        "Stay at Junction Espresso Bar",
+        "(23:25, 23:59)",
+        [
+            "",
+            700006691
+        ]
+    ]
+]

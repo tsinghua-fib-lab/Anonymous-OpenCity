@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:31)",
+        [
+            "Citi Bike - East 25th Street & 2nd Avenue",
+            700008039
+        ]
+    ],
+    [
+        "Reading or Learning Time",
+        "(11:17, 12:57)",
+        [
+            "Explore + Discover Early Learning Center",
+            700006223
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 18:28)",
+        [
+            "Apotheco Pharmacy",
+            700021514
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:18, 23:59)",
+        [
+            "",
+            700006231
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(20:58, 23:04)",
+        [
+            "Duane Reade",
+            700011388
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "Flavor's House",
+            700021997
+        ]
+    ]
+]

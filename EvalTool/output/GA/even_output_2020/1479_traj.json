@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001921
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:06)",
+        [
+            "Mission Picnic",
+            700005604
+        ]
+    ],
+    [
+        "Leisure Reading/TV",
+        "(12:07, 13:38)",
+        [
+            "Mission Picnic",
+            700005604
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:12, 16:51)",
+        [
+            "Valencia Cyclery",
+            700003152
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:12, 19:01)",
+        [
+            "Escape From New York Pizza",
+            700001858
+        ]
+    ],
+    [
+        "Go to Mission Street Oyster Bar for some seafood.",
+        "(21:21, 22:56)",
+        [
+            "Boogaloos",
+            700010171
+        ]
+    ],
+    [
+        "Stay at The Valley Tavern for leisure reading/TV.",
+        "(23:32, 23:59)",
+        [
+            "Udupi Palace",
+            700010985
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700007518
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:19)",
+        [
+            "",
+            700008870
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:49, 13:06)",
+        [
+            "Taxi Stand at Stanford Court Hotel",
+            700009900
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 17:25)",
+        [
+            "Sons & Daughters",
+            700009612
+        ]
+    ],
+    [
+        "Prepare a Dinner",
+        "(18:29, 19:52)",
+        [
+            "Sons & Daughters",
+            700009612
+        ]
+    ],
+    [
+        "Stay at Taxi Stand at Stanford Court Hotel",
+        "(20:35, 22:08)",
+        [
+            "Sons & Daughters",
+            700009612
+        ]
+    ],
+    [
+        "Stay at Taxi Stand at Stanford Court Hotel",
+        "(22:39, 23:59)",
+        [
+            "Sons & Daughters",
+            700009612
+        ]
+    ]
+]

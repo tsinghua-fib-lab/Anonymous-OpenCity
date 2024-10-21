@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Grand Sichuan",
+            700006165
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:15)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ],
+    [
+        "Afternoon Free Time",
+        "(13:51, 15:16)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 18:20)",
+        [
+            "FIKA 9th Avenue",
+            700008331
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:16, 23:29)",
+        [
+            "",
+            700013926
+        ]
+    ],
+    [
+        "Next activity based on Situation 8",
+        "(22:47, 23:59)",
+        [
+            "FIKA 9th Avenue",
+            700008331
+        ]
+    ]
+]

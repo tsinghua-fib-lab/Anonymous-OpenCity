@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:44)",
+        [
+            "Flavor's House",
+            700021997
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:05, 15:59)",
+        [
+            "Duane Reade",
+            700011388
+        ]
+    ],
+    [
+        "Wind Down and Relax",
+        "(16:26, 17:53)",
+        [
+            "",
+            700011175
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 23:15)",
+        [
+            "Kenneth A. Mercer, MD",
+            700023846
+        ]
+    ],
+    [
+        "Catch Up on Movies/TV Series",
+        "(21:26, 23:59)",
+        [
+            "",
+            700011173
+        ]
+    ]
+]

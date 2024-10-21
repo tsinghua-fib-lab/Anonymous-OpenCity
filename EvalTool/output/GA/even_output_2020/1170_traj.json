@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "DaVita San Francisco Dialysis",
+            700011245
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:48)",
+        [
+            "",
+            700008701
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:42, 17:03)",
+        [
+            "Beque",
+            700008685
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(18:05, 19:51)",
+        [
+            "Beque",
+            700008685
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(20:26, 21:55)",
+        [
+            "",
+            700008700
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "",
+            700008687
+        ]
+    ]
+]

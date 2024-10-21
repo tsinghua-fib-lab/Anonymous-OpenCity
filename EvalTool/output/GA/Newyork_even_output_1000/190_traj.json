@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002384
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:30)",
+        [
+            "",
+            700002212
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(10:26, 12:57)",
+        [
+            "",
+            700002265
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(12:51, 14:08)",
+        [
+            "Citi Bike - West 11th Street & 6th Avenue",
+            700008195
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:57, 15:49)",
+        [
+            "Citi Bike - West 11th Street & 6th Avenue",
+            700008195
+        ]
+    ],
+    [
+        "Leisure activity at Citi Bike - West 11th Street & 6th Avenue",
+        "(15:47, 16:58)",
+        [
+            "Citi Bike - West 11th Street & 6th Avenue",
+            700008195
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:15, 23:15)",
+        [
+            "CVS Pharmacy",
+            700012248
+        ]
+    ],
+    [
+        "Stay at Citi Bike - West 11th Street & 6th Avenue (Situation 4)",
+        "(22:27, 23:48)",
+        [
+            "Citi Bike - West 11th Street & 6th Avenue",
+            700008195
+        ]
+    ],
+    [
+        "Stay at Citi Bike - West 11th Street & 6th Avenue (Situation 4)",
+        "(23:57, 23:59)",
+        [
+            "CVS Pharmacy",
+            700012248
+        ]
+    ]
+]

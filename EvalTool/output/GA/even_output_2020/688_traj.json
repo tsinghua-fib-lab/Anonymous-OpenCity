@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mission Hill Saloon",
+            700004521
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:31)",
+        [
+            "Live Sushi Bar",
+            700005901
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:34, 20:35)",
+        [
+            "Milkbomb",
+            700008460
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 23:59)",
+        [
+            "",
+            700013183
+        ]
+    ]
+]

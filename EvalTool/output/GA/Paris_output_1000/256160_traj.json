@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Le Grand Café Capucines",
+            700006772
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:05)",
+        [
+            "Le Grand Café Capucines",
+            700006772
+        ]
+    ],
+    [
+        "Read or Engage in Hobbies",
+        "(10:59, 11:53)",
+        [
+            "Le Grand Café Capucines",
+            700006772
+        ]
+    ],
+    [
+        "Social Time with Friends/Family",
+        "(12:25, 14:08)",
+        [
+            "Le Grand Café Capucines",
+            700006772
+        ]
+    ],
+    [
+        "Leisure Activity (Sports/Entertainment)",
+        "(14:27, 17:06)",
+        [
+            "Le Grand Café Capucines",
+            700006772
+        ]
+    ],
+    [
+        "Leisure Activity (Sports/Entertainment)",
+        "(18:04, 20:02)",
+        [
+            "Le Bab Opéra (Ex : Le Dock Bar)",
+            700002623
+        ]
+    ],
+    [
+        "Social Time with Friends/Family",
+        "(20:53, 21:58)",
+        [
+            "Le Bab Opéra (Ex : Le Dock Bar)",
+            700002623
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:16, 23:59)",
+        [
+            "Louis le Grand - Italiens",
+            700044287
+        ]
+    ]
+]

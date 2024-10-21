@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030415
+        ]
+    ],
+    [
+        "Go for a walk or light jog in the park",
+        "(09:00, 09:51)",
+        [
+            "",
+            700030401
+        ]
+    ],
+    [
+        "Spend some time reading or catching up on personal projects",
+        "(10:10, 11:45)",
+        [
+            "",
+            700030415
+        ]
+    ],
+    [
+        "Spend some time reading or catching up on personal projects.",
+        "(11:56, 13:32)",
+        [
+            "",
+            700022520
+        ]
+    ],
+    [
+        "Engage in a fun recreational activity.",
+        "(13:37, 15:08)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "Engage in a fun recreational activity.",
+        "(15:37, 17:14)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "Relax and watch a movie or binge-watch a TV series.",
+        "(17:53, 19:03)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 23:59)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ]
+]

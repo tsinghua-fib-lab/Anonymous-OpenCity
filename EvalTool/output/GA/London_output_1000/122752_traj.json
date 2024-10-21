@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Fenwick Estate",
+            700007782
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:44)",
+        [
+            "",
+            700016853
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 19:28)",
+        [
+            "Alba",
+            700000566
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:44, 17:26)",
+        [
+            "",
+            700044653
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(20:06, 21:29)",
+        [
+            "The Old Bird",
+            700060991
+        ]
+    ],
+    [
+        "Stay at the current place.",
+        "(22:01, 23:15)",
+        [
+            "",
+            700016847
+        ]
+    ],
+    [
+        "Stay at Fenwick Estate",
+        "(23:36, 23:59)",
+        [
+            "Fenwick Estate",
+            700007782
+        ]
+    ]
+]

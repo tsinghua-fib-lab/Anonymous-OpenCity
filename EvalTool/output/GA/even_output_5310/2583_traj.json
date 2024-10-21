@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cookshop",
+            700008758
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:04)",
+        [
+            "",
+            700000721
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 17:22)",
+        [
+            "San Jose Nursery",
+            700028210
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:00, 22:40)",
+        [
+            "La Bergamote",
+            700011350
+        ]
+    ],
+    [
+        "Relax and watch a movie or series at home.",
+        "(19:15, 21:06)",
+        [
+            "La Bergamote",
+            700011350
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:34, 23:59)",
+        [
+            "",
+            700002757
+        ]
+    ]
+]

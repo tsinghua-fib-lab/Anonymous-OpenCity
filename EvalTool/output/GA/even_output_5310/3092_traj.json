@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030087
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast",
+        "(10:00, 11:02)",
+        [
+            "",
+            700030087
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the park",
+        "(11:15, 12:36)",
+        [
+            "Starbucks Reserve",
+            700009309
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 17:26)",
+        [
+            "",
+            700031462
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 20:50)",
+        [
+            "chalait",
+            700006139
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "United States Post Office",
+            700003803
+        ]
+    ]
+]

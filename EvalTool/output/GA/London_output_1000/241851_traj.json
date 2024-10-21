@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:40)",
+        [
+            "Urban Meadow Cafe",
+            700031990
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(11:42, 12:53)",
+        [
+            "Urban Meadow Cafe",
+            700031990
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 17:32)",
+        [
+            "",
+            700011370
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:57, 19:25)",
+        [
+            "",
+            700043206
+        ]
+    ],
+    [
+        "Next activity after current time 22:39 for Situation 4.",
+        "(22:39, 23:59)",
+        [
+            "Palace Garden Terrace",
+            700010133
+        ]
+    ],
+    [
+        "Go to Palace Garden Terrace for a stroll.",
+        "(23:58, 23:59)",
+        [
+            "Palace Garden Terrace",
+            700010133
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700054128
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:32)",
+        [
+            "Saint-Germain des Prés",
+            700007666
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 16:38)",
+        [
+            "",
+            700048484
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:01, 23:07)",
+        [
+            "Saint-Germain des Prés",
+            700007666
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "Emporio Armani Caffe",
+            700015293
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008968
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:28)",
+        [
+            "",
+            700008988
+        ]
+    ],
+    [
+        "Rest",
+        "(15:21, 17:12)",
+        [
+            "",
+            700008968
+        ]
+    ],
+    [
+        "Rest",
+        "(17:11, 18:52)",
+        [
+            "Nuestra Senora De Guadalupe Church",
+            700000205
+        ]
+    ],
+    [
+        "Next, engage in Evening Relaxation & TV",
+        "(19:14, 21:20)",
+        [
+            "Nuestra Senora De Guadalupe Church",
+            700000205
+        ]
+    ],
+    [
+        "Evening Relaxation & TV",
+        "(20:43, 21:52)",
+        [
+            "Nuestra Senora De Guadalupe Church",
+            700000205
+        ]
+    ],
+    [
+        "Evening Relaxation & TV",
+        "(22:31, 23:59)",
+        [
+            "Nuestra Senora De Guadalupe Church",
+            700000205
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700006026
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:05)",
+        [
+            "",
+            700013180
+        ]
+    ],
+    [
+        "Leisure/Entertainment",
+        "(14:32, 16:12)",
+        [
+            "Cafe Da Fónk",
+            700008108
+        ]
+    ],
+    [
+        "Leisure/Entertainment",
+        "(16:18, 17:45)",
+        [
+            "Cafe Da Fónk",
+            700008108
+        ]
+    ],
+    [
+        "Creative Hobby",
+        "(18:12, 20:23)",
+        [
+            "Cafe Da Fónk",
+            700008108
+        ]
+    ],
+    [
+        "Leisure/Entertainment",
+        "(20:56, 22:02)",
+        [
+            "Cafe Da Fónk",
+            700008108
+        ]
+    ],
+    [
+        "Leisure/Entertainment",
+        "(22:44, 23:59)",
+        [
+            "Cafe Da Fónk",
+            700008108
+        ]
+    ]
+]

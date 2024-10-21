@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700011045
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:10)",
+        [
+            "",
+            700011045
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:45, 12:05)",
+        [
+            "Yoli",
+            700005415
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:14, 13:50)",
+        [
+            "Yoli",
+            700005415
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:00, 16:00)",
+        [
+            "Ryan/NENA Comprehensive Heath Service Center",
+            700000264
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:14, 22:20)",
+        [
+            "",
+            700002266
+        ]
+    ],
+    [
+        "Stay at Sushi Yoshizawa",
+        "(22:10, 23:40)",
+        [
+            "Citi Bike - East 5th Street & Avenue C",
+            700008052
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "",
+            700001928
+        ]
+    ]
+]

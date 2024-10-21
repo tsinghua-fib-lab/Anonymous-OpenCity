@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700036779
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 09:51)",
+        [
+            "Citi Bike - Park Place & Church Street",
+            700027024
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(10:06, 11:35)",
+        [
+            "",
+            700028495
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 16:17)",
+        [
+            "Birch Coffee",
+            700033659
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:52, 18:58)",
+        [
+            "Birch Coffee",
+            700033659
+        ]
+    ],
+    [
+        "Dinner and Movie Night",
+        "(19:24, 22:07)",
+        [
+            "",
+            700036779
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "",
+            700036780
+        ]
+    ]
+]

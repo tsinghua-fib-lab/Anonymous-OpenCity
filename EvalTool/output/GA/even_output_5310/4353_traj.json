@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mamoun's Falafel",
+            700023633
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 11:03)",
+        [
+            "Manhattan Pawffice",
+            700040375
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:59, 14:41)",
+        [
+            "Szechuan Mountain House - 川山甲",
+            700023444
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:09, 17:48)",
+        [
+            "N25 Nitro Tea & Coffee",
+            700023445
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:19, 19:40)",
+        [
+            "2 Bros Pizza",
+            700014606
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:21, 23:59)",
+        [
+            "Paul's \"Da Burger Joint\"",
+            700004562
+        ]
+    ],
+    [
+        "Stay at Citi Bike - Shevchenko Pl & E 7 St.",
+        "(23:27, 23:59)",
+        [
+            "Okiboru House of Udon",
+            700023834
+        ]
+    ]
+]

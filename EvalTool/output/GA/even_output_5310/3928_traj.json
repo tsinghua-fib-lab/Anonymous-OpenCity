@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Blue Ribbon Bakery",
+            700003926
+        ]
+    ],
+    [
+        "Go for a walk in the nearby park.",
+        "(10:00, 10:59)",
+        [
+            "Délice & Sarrasin",
+            700035848
+        ]
+    ],
+    [
+        "Head to Délice & Sarrasin for lunch.",
+        "(11:26, 13:06)",
+        [
+            "Délice & Sarrasin",
+            700035848
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:52, 16:39)",
+        [
+            "",
+            700007739
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 19:47)",
+        [
+            "Bar Veloce",
+            700004932
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 23:33)",
+        [
+            "",
+            700007273
+        ]
+    ],
+    [
+        "Stay at 5ive Spice for some relaxation.",
+        "(23:25, 23:59)",
+        [
+            "",
+            700001627
+        ]
+    ]
+]

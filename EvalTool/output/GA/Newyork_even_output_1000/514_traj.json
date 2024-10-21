@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700006409
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(09:00, 10:40)",
+        [
+            "",
+            700006409
+        ]
+    ],
+    [
+        "Next activity after Leisure Reading or Hobby Time",
+        "(10:31, 11:51)",
+        [
+            "",
+            700002726
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:21, 13:59)",
+        [
+            "Libretto's Pizzeria",
+            700011101
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:52, 22:23)",
+        [
+            "Fred Astair Dance Studios",
+            700018409
+        ]
+    ],
+    [
+        "Next activity after Relaxing Evening.",
+        "(19:22, 21:55)",
+        [
+            "",
+            700002673
+        ]
+    ],
+    [
+        "Next activity after Relaxing Evening.",
+        "(22:35, 23:59)",
+        [
+            "Fred Astair Dance Studios",
+            700018409
+        ]
+    ]
+]

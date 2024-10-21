@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Attend Fitness Class",
+        "(09:00, 10:33)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:34, 16:27)",
+        [
+            "",
+            700018138
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:16, 15:24)",
+        [
+            "",
+            700017443
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:29, 23:27)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Relax and Unwind",
+        "(20:07, 21:39)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:22, 23:59)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ]
+]

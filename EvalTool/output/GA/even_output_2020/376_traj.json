@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Peacock Lounge",
+            700005486
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:44)",
+        [
+            "Woods Lowside",
+            700000000
+        ]
+    ],
+    [
+        "Afternoon Leisure Activities",
+        "(14:00, 15:08)",
+        [
+            "Woods Lowside",
+            700000000
+        ]
+    ],
+    [
+        "Afternoon Leisure Activities",
+        "(15:58, 17:49)",
+        [
+            "Woods Lowside",
+            700000000
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:16, 19:39)",
+        [
+            "Peacock Lounge",
+            700005486
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:18, 22:18)",
+        [
+            "Uva Enoteca",
+            700000953
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011611
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:05)",
+        [
+            "",
+            700011611
+        ]
+    ],
+    [
+        "Engage in Outdoor Activity/Sports",
+        "(15:19, 16:50)",
+        [
+            "Grande Pharmacie d'Auteuil",
+            700004228
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:23, 22:14)",
+        [
+            "",
+            700011615
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:12, 23:59)",
+        [
+            "Cathay Palace",
+            700042088
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(23:51, 23:59)",
+        [
+            "Cathay Palace",
+            700042088
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011748
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:55)",
+        [
+            "Bank of America",
+            700006402
+        ]
+    ],
+    [
+        "Stay at Bank of America.",
+        "(11:38, 13:59)",
+        [
+            "First Republic Bank",
+            700006399
+        ]
+    ],
+    [
+        "Stay at Bank of America",
+        "(14:30, 16:01)",
+        [
+            "First Republic Bank",
+            700006399
+        ]
+    ],
+    [
+        "Stay at Bank of America.",
+        "(16:11, 17:33)",
+        [
+            "First Republic Bank",
+            700006399
+        ]
+    ],
+    [
+        "Stay at current location.",
+        "(18:26, 20:06)",
+        [
+            "First Republic Bank",
+            700006399
+        ]
+    ],
+    [
+        "Stay at First Republic Bank",
+        "(20:30, 22:02)",
+        [
+            "First Republic Bank",
+            700006399
+        ]
+    ],
+    [
+        "Stay at Bank of America",
+        "(22:33, 23:34)",
+        [
+            "First Republic Bank",
+            700006399
+        ]
+    ],
+    [
+        "Stay at Bank of America",
+        "(23:46, 23:59)",
+        [
+            "Bank of America",
+            700006402
+        ]
+    ]
+]

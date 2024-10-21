@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "Next activity after breakfast",
+        "(09:00, 09:55)",
+        [
+            "",
+            700058301
+        ]
+    ],
+    [
+        "Next activity after breakfast",
+        "(10:38, 12:39)",
+        [
+            "",
+            700058297
+        ]
+    ],
+    [
+        "Next activity in a restaurant.",
+        "(12:44, 14:02)",
+        [
+            "Lime",
+            700023698
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 18:55)",
+        [
+            "",
+            700074346
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:49, 18:52)",
+        [
+            "",
+            700058424
+        ]
+    ],
+    [
+        "currently staying at home and winding down",
+        "(20:43, 22:13)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "Stay at K's apartment",
+        "(22:41, 23:54)",
+        [
+            "",
+            700058299
+        ]
+    ],
+    [
+        "next arrangement after watching a movie or series",
+        "(23:54, 23:59)",
+        [
+            "",
+            700061663
+        ]
+    ]
+]

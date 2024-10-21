@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000522
+        ]
+    ],
+    [
+        "Spend Time with Family/Friends",
+        "(10:00, 11:29)",
+        [
+            "",
+            700000641
+        ]
+    ],
+    [
+        "Spend Time with Family/Friends",
+        "(11:43, 12:55)",
+        [
+            "Project Juice",
+            700002094
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:06, 16:02)",
+        [
+            "Project Juice",
+            700002094
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:20, 18:07)",
+        [
+            "Tonic",
+            700000643
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:50, 21:01)",
+        [
+            "Aux Delices Vietnamese Restaurant",
+            700002087
+        ]
+    ]
+]

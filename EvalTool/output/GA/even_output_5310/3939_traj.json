@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Spunto Thin Crust Pizza",
+            700010065
+        ]
+    ],
+    [
+        "Go for a walk in the nearby park.",
+        "(10:00, 11:02)",
+        [
+            "Sagra Pizza Bar",
+            700023317
+        ]
+    ],
+    [
+        "Continue with the walk in the nearby park.",
+        "(11:26, 12:04)",
+        [
+            "The Market Table",
+            700007502
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:52, 14:04)",
+        [
+            "Blue Ribbon Restaurant",
+            700005279
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 20:52)",
+        [
+            "The Grey Dog",
+            700007503
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 22:24)",
+        [
+            "Ayza Wine & Chocolate Bar",
+            700003800
+        ]
+    ],
+    [
+        "Go to The Grey Dog for casual dining.",
+        "(23:25, 23:59)",
+        [
+            "The Grey Dog",
+            700007503
+        ]
+    ]
+]

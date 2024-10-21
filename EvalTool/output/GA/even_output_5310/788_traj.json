@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Coco Pizzaria",
+            700039033
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:10)",
+        [
+            "NYC Discount Pharmacy",
+            700030624
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:17, 15:09)",
+        [
+            "NYC Discount Pharmacy",
+            700030624
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(15:44, 17:21)",
+        [
+            "",
+            700014479
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(17:54, 19:06)",
+        [
+            "NYC Discount Pharmacy",
+            700030624
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:21, 20:28)",
+        [
+            "Duane Reade",
+            700030439
+        ]
+    ]
+]

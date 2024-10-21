@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Champs-Élysées",
+            700003355
+        ]
+    ],
+    [
+        "Stay at Fontaine du Château d'eau",
+        "(09:00, 11:06)",
+        [
+            "Champs-Élysées",
+            700003355
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:12, 13:50)",
+        [
+            "Starbucks",
+            700001935
+        ]
+    ],
+    [
+        "Stay at Au Métro",
+        "(12:30, 14:10)",
+        [
+            "BRED",
+            700025814
+        ]
+    ],
+    [
+        "Lunch with friends or family",
+        "(14:22, 16:14)",
+        [
+            "",
+            700061392
+        ]
+    ],
+    [
+        "Relax and watch a movie or TV show",
+        "(16:14, 17:54)",
+        [
+            "Champs-Élysées",
+            700003355
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 23:59)",
+        [
+            "",
+            700001938
+        ]
+    ],
+    [
+        "Guimi House",
+        "(21:28, 23:07)",
+        [
+            "BRED",
+            700025814
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "",
+            700061392
+        ]
+    ]
+]

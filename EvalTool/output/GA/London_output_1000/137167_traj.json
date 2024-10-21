@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Manchester Estate",
+            700049203
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:07)",
+        [
+            "Manchester Estate",
+            700049203
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:00, 13:10)",
+        [
+            "Manchester Estate",
+            700049203
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 14:43)",
+        [
+            "",
+            700042737
+        ]
+    ],
+    [
+        "Socialize",
+        "(17:09, 18:47)",
+        [
+            "Cafe Boulevard",
+            700044022
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:29, 23:08)",
+        [
+            "",
+            700058229
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "Ansell House",
+            700040077
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "",
+            700000419
+        ]
+    ]
+]

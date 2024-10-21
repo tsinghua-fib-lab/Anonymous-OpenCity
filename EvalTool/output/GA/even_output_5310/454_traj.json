@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Pil Pil",
+            700011160
+        ]
+    ],
+    [
+        "Morning Exercise from 10:00 AM to 11:00 AM",
+        "(09:00, 09:58)",
+        [
+            "Pil Pil",
+            700011160
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:14, 13:49)",
+        [
+            "Keys & Heels",
+            700023405
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:47, 18:57)",
+        [
+            "Calexico",
+            700011161
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(19:23, 21:03)",
+        [
+            "Keys & Heels",
+            700023405
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "",
+            700001478
+        ]
+    ]
+]

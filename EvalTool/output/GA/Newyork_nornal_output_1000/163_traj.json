@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Link NYC",
+            700020305
+        ]
+    ],
+    [
+        "Read or Write",
+        "(10:00, 11:20)",
+        [
+            "Link NYC",
+            700020305
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:24, 16:54)",
+        [
+            "",
+            700020314
+        ]
+    ],
+    [
+        "Grocery Shopping or Errands",
+        "(17:00, 18:25)",
+        [
+            "",
+            700017132
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 23:59)",
+        [
+            "The Modern - The Bar Room",
+            700008771
+        ]
+    ]
+]

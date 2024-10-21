@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:35)",
+        [
+            "Fruit Stand",
+            700051749
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 18:42)",
+        [
+            "",
+            700058672
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 23:31)",
+        [
+            "",
+            700004278
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(20:58, 22:39)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "",
+            700004278
+        ]
+    ]
+]

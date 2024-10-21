@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001156
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:00, 10:51)",
+        [
+            "",
+            700001156
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:16, 12:55)",
+        [
+            "",
+            700001800
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:15, 15:12)",
+        [
+            "",
+            700005985
+        ]
+    ],
+    [
+        "Afternoon Relaxation/Reading",
+        "(15:26, 17:03)",
+        [
+            "Citi bike - East 68th Street & 3rd Avenue",
+            700017449
+        ]
+    ],
+    [
+        "Afternoon Relaxation/Reading",
+        "(17:27, 18:23)",
+        [
+            "",
+            700001156
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:59, 21:03)",
+        [
+            "FDNY Engine 39/Ladder 16",
+            700000531
+        ]
+    ]
+]

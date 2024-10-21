@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "San Francisco Aquatic Park Senior Center",
+            700010196
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:32)",
+        [
+            "",
+            700013291
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 17:44)",
+        [
+            "Palette Tea House",
+            700009151
+        ]
+    ],
+    [
+        "Dinner Preparation and Enjoying a Meal",
+        "(19:06, 20:32)",
+        [
+            "Palette Tea House",
+            700009151
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 23:59)",
+        [
+            "Amazon Locker Shirley",
+            700006140
+        ]
+    ]
+]

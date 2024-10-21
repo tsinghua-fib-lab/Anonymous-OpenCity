@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cafe Nook",
+            700001590
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:28)",
+        [
+            "Hot Sauce and Panko",
+            700005183
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:18, 13:58)",
+        [
+            "Sun Kwong Restaurant",
+            700005184
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:55, 16:44)",
+        [
+            "Sun Kwong Restaurant",
+            700005184
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:52, 22:25)",
+        [
+            "",
+            700001149
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:07, 23:09)",
+        [
+            "Cafe Nook",
+            700001590
+        ]
+    ],
+    [
+        "Evening Wind Down.",
+        "(23:36, 23:59)",
+        [
+            "Cafe Nook",
+            700001590
+        ]
+    ]
+]

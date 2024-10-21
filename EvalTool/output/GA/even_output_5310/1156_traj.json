@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005037
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:05)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:42, 13:50)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "Catch Up on Reading or Hobbies",
+        "(14:32, 16:04)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "Movie or TV Show",
+        "(16:52, 18:01)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:22, 19:45)",
+        [
+            "",
+            700005037
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(20:18, 21:38)",
+        [
+            "",
+            700003205
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(22:19, 23:46)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:46, 23:59)",
+        [
+            "Sweetgreen",
+            700020927
+        ]
+    ]
+]

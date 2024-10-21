@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Custom Fit",
+            700009581
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park",
+        "(10:00, 11:03)",
+        [
+            "",
+            700008327
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:50, 17:21)",
+        [
+            "",
+            700008343
+        ]
+    ],
+    [
+        "Go to Rocket Sushi",
+        "(13:53, 15:01)",
+        [
+            "Rocket Sushi",
+            700004237
+        ]
+    ],
+    [
+        "Currently at: Custom Fit, stay time.",
+        "(15:53, 16:55)",
+        [
+            "Perform for Life",
+            700005810
+        ]
+    ],
+    [
+        "Currently at: Rocket Sushi, stay time.",
+        "(18:06, 19:59)",
+        [
+            "Rocket Sushi",
+            700004237
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:46, 23:45)",
+        [
+            "",
+            700009569
+        ]
+    ]
+]

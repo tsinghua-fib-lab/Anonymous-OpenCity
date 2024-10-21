@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002316
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:56)",
+        [
+            "Caffè Vita",
+            700014800
+        ]
+    ],
+    [
+        "You should spend some time reading a book or working on a personal project.",
+        "(11:10, 12:54)",
+        [
+            "Caffè Vita",
+            700014800
+        ]
+    ],
+    [
+        "Relaxation and Entertainment",
+        "(13:44, 15:21)",
+        [
+            "Caffè Vita",
+            700014800
+        ]
+    ],
+    [
+        "Reading or hobby time",
+        "(16:00, 17:32)",
+        [
+            "Caffè Vita",
+            700014800
+        ]
+    ],
+    [
+        "You should spend some time unwinding with a movie or catching up on your favorite TV shows.",
+        "(17:44, 19:01)",
+        [
+            "Serotonin Smoothies",
+            700033760
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 21:38)",
+        [
+            "Sour Mouse",
+            700040422
+        ]
+    ],
+    [
+        "Relaxation and Entertainment",
+        "(21:50, 23:05)",
+        [
+            "Sour Mouse",
+            700040422
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:22, 23:59)",
+        [
+            "Sour Mouse",
+            700040422
+        ]
+    ]
+]

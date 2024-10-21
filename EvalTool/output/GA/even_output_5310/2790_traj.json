@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New Amsterdam School",
+            700025304
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:56)",
+        [
+            "Kolkota Chai Company",
+            700008397
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:53, 17:58)",
+        [
+            "",
+            700001446
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(17:17, 19:08)",
+        [
+            "Kolkota Chai Company",
+            700008397
+        ]
+    ],
+    [
+        "Next activity: Watch a Sports Game or Movie",
+        "(19:52, 22:08)",
+        [
+            "Kolkota Chai Company",
+            700008397
+        ]
+    ],
+    [
+        "Next activity: Watch a Sports Game or Movie.",
+        "(22:43, 23:59)",
+        [
+            "Duane Reade",
+            700008396
+        ]
+    ]
+]

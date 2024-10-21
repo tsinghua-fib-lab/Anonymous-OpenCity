@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:55)",
+        [
+            "The Banks Historic Skate Spot",
+            700007406
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(12:00, 13:27)",
+        [
+            "The Banks Historic Skate Spot",
+            700007406
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:42, 18:40)",
+        [
+            "",
+            700034703
+        ]
+    ],
+    [
+        "Staying at current place",
+        "(18:37, 20:14)",
+        [
+            "",
+            700034695
+        ]
+    ],
+    [
+        "Next activity",
+        "(20:23, 21:56)",
+        [
+            "",
+            700025228
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:59)",
+        [
+            "",
+            700025222
+        ]
+    ]
+]

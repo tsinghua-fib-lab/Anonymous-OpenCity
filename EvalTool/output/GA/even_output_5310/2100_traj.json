@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "60 Riverside Blvd",
+            700018472
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:38)",
+        [
+            "Riverside Wellness",
+            700018092
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:50, 12:02)",
+        [
+            "Riverside Wellness",
+            700018092
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:45, 14:02)",
+        [
+            "Riverside Wellness",
+            700018092
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:31, 15:54)",
+        [
+            "Riverside Wellness",
+            700018092
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:10, 17:36)",
+        [
+            "Riverside Wellness",
+            700018092
+        ]
+    ],
+    [
+        "Next destination: Dinner Preparation",
+        "(18:29, 20:01)",
+        [
+            "60 Riverside Blvd",
+            700018472
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:10, 22:10)",
+        [
+            "Pick A Bagel",
+            700018339
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:37, 23:59)",
+        [
+            "",
+            700000664
+        ]
+    ]
+]

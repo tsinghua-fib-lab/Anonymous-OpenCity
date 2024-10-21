@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:15)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Engage in a hobby or work on a personal project.",
+        "(15:42, 17:32)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:37, 20:29)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill",
+        "(22:59, 23:50)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

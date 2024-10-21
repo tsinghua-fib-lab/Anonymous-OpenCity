@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(10:00, 11:37)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(11:25, 13:10)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:04, 18:08)",
+        [
+            "Marathon Coffee",
+            700039312
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:05, 22:01)",
+        [
+            "Marathon Coffee",
+            700039312
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:28, 23:59)",
+        [
+            "",
+            700010702
+        ]
+    ]
+]

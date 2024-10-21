@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Skylark",
+            700010702
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(10:00, 10:58)",
+        [
+            "",
+            700008220
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(11:05, 13:08)",
+        [
+            "Cream",
+            700005449
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:30, 14:55)",
+        [
+            "Cream",
+            700005449
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:57, 16:24)",
+        [
+            "Cream",
+            700005449
+        ]
+    ],
+    [
+        "Afternoon Sports",
+        "(16:47, 18:27)",
+        [
+            "Thai House 530",
+            700001954
+        ]
+    ],
+    [
+        "Continue with Dinner Preparation and Meal",
+        "(18:13, 20:03)",
+        [
+            "Thai House 530",
+            700001954
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 22:22)",
+        [
+            "Skylark",
+            700010702
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "Skylark",
+            700010702
+        ]
+    ]
+]

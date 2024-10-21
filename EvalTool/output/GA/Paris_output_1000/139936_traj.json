@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700012354
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:48)",
+        [
+            "Maison Bes",
+            700064471
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(14:04, 16:25)",
+        [
+            "Maison Bes",
+            700064471
+        ]
+    ],
+    [
+        "Socialize with friends or family",
+        "(17:24, 19:01)",
+        [
+            "Maison Bes",
+            700064471
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 23:29)",
+        [
+            "",
+            700031498
+        ]
+    ],
+    [
+        "Situation_9",
+        "(22:46, 23:54)",
+        [
+            "Maison Bes",
+            700064471
+        ]
+    ],
+    [
+        "Go to Maison Bes",
+        "(23:47, 23:59)",
+        [
+            "Maison Bes",
+            700064471
+        ]
+    ]
+]

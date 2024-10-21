@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Something Special",
+            700005282
+        ]
+    ],
+    [
+        "Engage in a morning workout or leisurely walk",
+        "(09:00, 09:53)",
+        [
+            "Something Special",
+            700005282
+        ]
+    ],
+    [
+        "current place: Something Special; stay time:",
+        "(10:07, 11:44)",
+        [
+            "Emmett's",
+            700006536
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 17:26)",
+        [
+            "",
+            700031456
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 23:59)",
+        [
+            "",
+            700006258
+        ]
+    ],
+    [
+        "Stay at current place: Something Special.",
+        "(20:15, 21:48)",
+        [
+            "",
+            700006256
+        ]
+    ],
+    [
+        "Stay at Something Special.",
+        "(21:49, 23:08)",
+        [
+            "Something Special",
+            700005282
+        ]
+    ]
+]

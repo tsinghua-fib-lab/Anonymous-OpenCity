@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030116
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:49)",
+        [
+            "Go Noodle",
+            700039313
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 18:37)",
+        [
+            "",
+            700010700
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(21:21, 23:17)",
+        [
+            "",
+            700030116
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(23:18, 23:59)",
+        [
+            "Go Noodle",
+            700039313
+        ]
+    ]
+]

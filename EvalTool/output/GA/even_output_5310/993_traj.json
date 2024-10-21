@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "MedRite Urgent Care",
+            700013561
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:00)",
+        [
+            "",
+            700008428
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:29, 18:30)",
+        [
+            "",
+            700010342
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "The Palm Restaurant",
+            700006618
+        ]
+    ]
+]

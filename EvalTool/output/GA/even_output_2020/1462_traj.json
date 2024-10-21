@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Valencia Cyclery",
+            700003152
+        ]
+    ],
+    [
+        "Morning Workout or Yoga Session",
+        "(10:00, 11:36)",
+        [
+            "Boogaloos",
+            700010171
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(12:14, 14:21)",
+        [
+            "Boogaloos",
+            700010171
+        ]
+    ],
+    [
+        "Afternoon Entertainment Activity",
+        "(14:30, 17:05)",
+        [
+            "The Marsh",
+            700003562
+        ]
+    ],
+    [
+        "Relax and Catch Up on a TV Show",
+        "(17:09, 19:07)",
+        [
+            "",
+            700008239
+        ]
+    ],
+    [
+        "Relax and Catch Up on a TV Show",
+        "(20:06, 21:50)",
+        [
+            "The Marsh",
+            700003562
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:07, 23:59)",
+        [
+            "Tinto",
+            700003558
+        ]
+    ]
+]

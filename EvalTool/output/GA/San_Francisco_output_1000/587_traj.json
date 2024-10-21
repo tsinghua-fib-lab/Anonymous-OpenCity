@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sun Kwong Restaurant",
+            700005184
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:58)",
+        [
+            "Sun Kwong Restaurant",
+            700005184
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:10, 14:10)",
+        [
+            "Sun Kwong Restaurant",
+            700005184
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 17:02)",
+        [
+            "",
+            700001149
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:48, 18:57)",
+        [
+            "Sun Kwong Restaurant",
+            700005184
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(19:25, 20:52)",
+        [
+            "Cafe Nook",
+            700001590
+        ]
+    ],
+    [
+        "Relaxation and TV Watching",
+        "(21:54, 23:00)",
+        [
+            "",
+            700001148
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:05, 23:59)",
+        [
+            "Bowl'd Acai",
+            700003284
+        ]
+    ]
+]

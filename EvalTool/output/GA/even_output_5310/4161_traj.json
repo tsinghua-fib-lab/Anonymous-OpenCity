@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020033
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:39)",
+        [
+            "YMCA",
+            700003956
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:27, 14:29)",
+        [
+            "Modern Bread and Bagel",
+            700028607
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:03, 15:27)",
+        [
+            "",
+            700020029
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(16:05, 18:06)",
+        [
+            "",
+            700020033
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(18:20, 19:55)",
+        [
+            "Modern Bread and Bagel",
+            700028607
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(20:17, 21:50)",
+        [
+            "Modern Bread and Bagel",
+            700028607
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "Duane Reade",
+            700004369
+        ]
+    ],
+    [
+        "Stay at Sutton Cafe Restaurant",
+        "(23:56, 23:59)",
+        [
+            "Duane Reade",
+            700004369
+        ]
+    ]
+]

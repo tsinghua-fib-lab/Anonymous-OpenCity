@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York University School of Law",
+            700009492
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:00)",
+        [
+            "",
+            700035909
+        ]
+    ],
+    [
+        "Movie/TV Time",
+        "(14:13, 15:51)",
+        [
+            "",
+            700035911
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:04, 20:58)",
+        [
+            "",
+            700035917
+        ]
+    ],
+    [
+        "Next place for leisure",
+        "(22:00, 23:06)",
+        [
+            "New York University School of Law",
+            700009492
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "",
+            700035922
+        ]
+    ]
+]

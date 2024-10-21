@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Watch TV or Movies",
+        "(10:00, 12:04)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:38, 14:14)",
+        [
+            "Gezellig",
+            700011877
+        ]
+    ],
+    [
+        "Socialize or Spend Time with Family/Friends",
+        "(17:41, 18:58)",
+        [
+            "Gezellig",
+            700011877
+        ]
+    ],
+    [
+        "Wind Down with Evening Entertainment",
+        "(19:54, 22:09)",
+        [
+            "Gezellig",
+            700011877
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "",
+            700006548
+        ]
+    ]
+]

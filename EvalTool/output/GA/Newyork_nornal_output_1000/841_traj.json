@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bel Ami Cafe",
+            700017236
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:29)",
+        [
+            "Citi Bike - East 67th Street & Park Avenue",
+            700017921
+        ]
+    ],
+    [
+        "Have lunch",
+        "(12:31, 14:04)",
+        [
+            "",
+            700010791
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 17:25)",
+        [
+            "",
+            700014704
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:13, 23:04)",
+        [
+            "",
+            700010791
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:01, 22:16)",
+        [
+            "Panda Bubble Tea",
+            700014709
+        ]
+    ],
+    [
+        "Next arrangement is to connect with friends or family.",
+        "(22:54, 23:59)",
+        [
+            "Bel Ami Cafe",
+            700017236
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000680
+        ]
+    ],
+    [
+        "relaxing and reading or browsing social media",
+        "(10:00, 11:08)",
+        [
+            "",
+            700000680
+        ]
+    ],
+    [
+        "Continue browsing social media.",
+        "(11:13, 12:57)",
+        [
+            "",
+            700000680
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 16:04)",
+        [
+            "",
+            700000975
+        ]
+    ],
+    [
+        "Engage in a creative hobby.",
+        "(16:54, 18:07)",
+        [
+            "",
+            700000680
+        ]
+    ],
+    [
+        "Prepare and enjoy dinner.",
+        "(18:53, 20:21)",
+        [
+            "Asa Sushi",
+            700000679
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:40, 23:59)",
+        [
+            "Phat Thai",
+            700002213
+        ]
+    ],
+    [
+        "Stay at your home.",
+        "(23:19, 23:59)",
+        [
+            "",
+            700000680
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Avenue D & E 12 St",
+            700007952
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:12)",
+        [
+            "",
+            700010655
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:39, 16:10)",
+        [
+            "",
+            700019561
+        ]
+    ],
+    [
+        "Watch Sports / Entertainment",
+        "(16:35, 18:25)",
+        [
+            "Citi Bike - Avenue D & E 12 St",
+            700007952
+        ]
+    ],
+    [
+        "Prepare Dinner & Wind Down",
+        "(19:24, 21:09)",
+        [
+            "Citi Bike - Avenue D & E 12 St",
+            700007952
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:50, 23:59)",
+        [
+            "Karibbean Restaurant",
+            700007819
+        ]
+    ]
+]

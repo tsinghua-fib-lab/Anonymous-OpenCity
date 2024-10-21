@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001714
+        ]
+    ],
+    [
+        "Leisurely Breakfast",
+        "(10:00, 11:22)",
+        [
+            "Happy Burrito",
+            700007883
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:34, 14:50)",
+        [
+            "",
+            700000647
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:47, 16:56)",
+        [
+            "Chen's Express Kitchen",
+            700007881
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 19:22)",
+        [
+            "MooMooCha",
+            700023465
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:36, 23:59)",
+        [
+            "The Belfry",
+            700038125
+        ]
+    ]
+]

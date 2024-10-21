@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Beijing",
+            700008324
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:53)",
+        [
+            "Starbucks",
+            700018241
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:18, 16:42)",
+        [
+            "Starbucks",
+            700018241
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:37, 20:53)",
+        [
+            "Casabianca",
+            700018343
+        ]
+    ],
+    [
+        "Next activity after 6:30 PM.",
+        "(19:12, 20:50)",
+        [
+            "Starbucks",
+            700018241
+        ]
+    ],
+    [
+        "Stay at current place.",
+        "(21:30, 22:54)",
+        [
+            "Starbucks",
+            700018241
+        ]
+    ],
+    [
+        "Stay at current place.",
+        "(23:50, 23:59)",
+        [
+            "Beijing",
+            700008324
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Binet Montessori School",
+            700000216
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:00)",
+        [
+            "",
+            700011246
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:25, 14:13)",
+        [
+            "Christ United Presbyterian Church",
+            700000220
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 16:17)",
+        [
+            "Bay Jiu-jitsu",
+            700006922
+        ]
+    ],
+    [
+        "Stay at Binet Montessori School.",
+        "(17:12, 18:45)",
+        [
+            "",
+            700010081
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 22:18)",
+        [
+            "",
+            700010081
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi bike - 3rd Avenue & East 72nd Street",
+            700017450
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:36)",
+        [
+            "Citi bike - 3rd Avenue & East 72nd Street",
+            700017450
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:06, 14:26)",
+        [
+            "",
+            700000782
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 17:47)",
+        [
+            "",
+            700000782
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:06, 19:57)",
+        [
+            "Citi bike - 3rd Avenue & East 72nd Street",
+            700017450
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:25, 21:50)",
+        [
+            "",
+            700001313
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:18, 23:59)",
+        [
+            "Citi bike - 3rd Avenue & East 72nd Street",
+            700017450
+        ]
+    ]
+]

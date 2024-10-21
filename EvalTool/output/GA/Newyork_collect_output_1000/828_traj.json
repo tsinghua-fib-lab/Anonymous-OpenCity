@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:26)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:57, 16:43)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(14:35, 15:45)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(15:43, 17:09)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:09, 23:55)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ]
+]

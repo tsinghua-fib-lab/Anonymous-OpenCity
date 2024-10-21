@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Trattoria Casa Di Isacco",
+            700008670
+        ]
+    ],
+    [
+        "Have breakfast",
+        "(10:00, 11:24)",
+        [
+            "Trattoria Casa Di Isacco",
+            700008670
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 15:52)",
+        [
+            "2 Bros. Pizza",
+            700003271
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 23:59)",
+        [
+            "Mercato",
+            700003884
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "",
+            700000889
+        ]
+    ]
+]

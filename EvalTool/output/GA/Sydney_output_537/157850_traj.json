@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Machi Machi",
+            700024774
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:59)",
+        [
+            "Dopa",
+            700021187
+        ]
+    ],
+    [
+        "Grocery Shopping and Errands",
+        "(14:04, 15:30)",
+        [
+            "Machi Machi",
+            700024774
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 21:32)",
+        [
+            "Chinta Ria",
+            700031141
+        ]
+    ],
+    [
+        "Grocery Shopping and Errands",
+        "(21:28, 22:48)",
+        [
+            "Chinta Ria",
+            700031141
+        ]
+    ],
+    [
+        "Stay at Machi Machi",
+        "(23:23, 23:59)",
+        [
+            "Chinta Ria",
+            700031141
+        ]
+    ]
+]

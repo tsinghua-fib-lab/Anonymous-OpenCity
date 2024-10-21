@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008708
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:39)",
+        [
+            "Fresh Brew Coffee",
+            700004531
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 16:11)",
+        [
+            "City Chopsticks",
+            700004528
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:22, 20:02)",
+        [
+            "Piraat Pizzeria & Rotisserie",
+            700004532
+        ]
+    ],
+    [
+        "Wind Down with a Book or TV Show",
+        "(19:38, 20:45)",
+        [
+            "Piraat Pizzeria & Rotisserie",
+            700004532
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:25, 23:59)",
+        [
+            "Sutter Pub & Restaurant",
+            700008675
+        ]
+    ]
+]

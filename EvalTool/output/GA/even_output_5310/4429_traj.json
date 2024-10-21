@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700025359
+        ]
+    ],
+    [
+        "Leisure Time/Reading",
+        "(10:00, 11:39)",
+        [
+            "Citi Bike - Washington Pl & 6 Ave",
+            700008242
+        ]
+    ],
+    [
+        "Leisure Time/Reading",
+        "(12:05, 13:35)",
+        [
+            "Citi Bike - Washington Pl & 6 Ave",
+            700008242
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:54, 15:26)",
+        [
+            "Citi Bike - Washington Pl & 6 Ave",
+            700008242
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:21, 21:10)",
+        [
+            "",
+            700003004
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:11, 23:59)",
+        [
+            "Blue Hill",
+            700008941
+        ]
+    ]
+]

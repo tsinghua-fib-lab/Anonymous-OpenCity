@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010113
+        ]
+    ],
+    [
+        "Go for a walk at a local park or engage in some light exercise.",
+        "(09:00, 10:35)",
+        [
+            "The Outsider",
+            700001036
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:08, 15:59)",
+        [
+            "Los Hermanos Taqueria",
+            700010103
+        ]
+    ],
+    [
+        "Visit Los Hermanos Taqueria.",
+        "(16:02, 17:36)",
+        [
+            "Los Hermanos Taqueria",
+            700010103
+        ]
+    ],
+    [
+        "Enjoy your time at Los Hermanos Taqueria.",
+        "(17:45, 19:13)",
+        [
+            "Los Hermanos Taqueria",
+            700010103
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 21:57)",
+        [
+            "The Outsider",
+            700001036
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:39, 23:59)",
+        [
+            "Ha-Ra",
+            700001037
+        ]
+    ]
+]

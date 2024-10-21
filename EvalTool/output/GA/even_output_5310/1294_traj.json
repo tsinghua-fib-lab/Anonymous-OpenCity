@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700017554
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 10:02)",
+        [
+            "",
+            700001705
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:17, 14:46)",
+        [
+            "Bond Vet",
+            700017552
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:58, 18:26)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(17:38, 19:13)",
+        [
+            "Ess-a-Bagel",
+            700023332
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 21:48)",
+        [
+            "Hane",
+            700006703
+        ]
+    ],
+    [
+        "Stay at Your Home",
+        "(23:38, 23:59)",
+        [
+            "Starbucks",
+            700017554
+        ]
+    ]
+]

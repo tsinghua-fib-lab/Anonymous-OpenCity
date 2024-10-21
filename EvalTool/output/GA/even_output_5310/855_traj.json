@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000860
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:48)",
+        [
+            "Silver Star",
+            700024376
+        ]
+    ],
+    [
+        "Afternoon Sports/Outdoor Activity",
+        "(16:12, 18:10)",
+        [
+            "Silver Star",
+            700024376
+        ]
+    ],
+    [
+        "Dinner Preparation/Cooking",
+        "(18:49, 19:56)",
+        [
+            "Silver Star",
+            700024376
+        ]
+    ],
+    [
+        "Wind Down & Movie Night",
+        "(20:40, 22:54)",
+        [
+            "Silver Star",
+            700024376
+        ]
+    ],
+    [
+        "stay at Silver Star because there isn't enough time to go elsewhere.",
+        "(23:05, 23:59)",
+        [
+            "Silver Star",
+            700024376
+        ]
+    ]
+]

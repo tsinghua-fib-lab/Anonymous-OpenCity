@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bert's",
+            700026512
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:53)",
+        [
+            "District B",
+            700069752
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 16:30)",
+        [
+            "Consigne à casques",
+            700025549
+        ]
+    ],
+    [
+        "Stay at District B",
+        "(20:54, 22:09)",
+        [
+            "District B",
+            700069752
+        ]
+    ],
+    [
+        "Stay at District B",
+        "(22:28, 23:51)",
+        [
+            "District B",
+            700069752
+        ]
+    ]
+]

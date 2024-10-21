@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "TD Bank",
+            700005981
+        ]
+    ],
+    [
+        "Morning Routine and Breakfast",
+        "(09:00, 09:56)",
+        [
+            "TD Bank",
+            700005981
+        ]
+    ],
+    [
+        "Outdoor Exercise/Walk",
+        "(10:20, 11:55)",
+        [
+            "TD Bank",
+            700005981
+        ]
+    ],
+    [
+        "Catch Up on Reading/TV",
+        "(12:38, 13:58)",
+        [
+            "TD Bank",
+            700005981
+        ]
+    ],
+    [
+        "Social Time",
+        "(14:15, 16:03)",
+        [
+            "TD Bank",
+            700005981
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:56, 19:30)",
+        [
+            "",
+            700000782
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:16, 22:16)",
+        [
+            "Citibank",
+            700012822
+        ]
+    ],
+    [
+        "Stay at Citibank",
+        "(22:53, 23:59)",
+        [
+            "Dallas BBQ",
+            700013029
+        ]
+    ]
+]

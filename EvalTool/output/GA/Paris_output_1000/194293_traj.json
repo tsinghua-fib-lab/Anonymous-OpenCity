@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "CIC",
+            700030910
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 15:08)",
+        [
+            "Pharmacie les Grandes Carrières",
+            700018150
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:23, 16:27)",
+        [
+            "New Yakitori",
+            700069533
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:15, 21:38)",
+        [
+            "Crédit Mutuel",
+            700022643
+        ]
+    ]
+]

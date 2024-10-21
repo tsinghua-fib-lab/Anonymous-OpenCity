@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chipotle",
+            700009340
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:01)",
+        [
+            "August Gatherings",
+            700009333
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 16:03)",
+        [
+            "Halal Cart",
+            700019768
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:21, 20:26)",
+        [
+            "",
+            700038584
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:46, 21:42)",
+        [
+            "Chipotle",
+            700009340
+        ]
+    ],
+    [
+        "Proceed to sleep.",
+        "(22:27, 23:59)",
+        [
+            "Chipotle",
+            700009340
+        ]
+    ],
+    [
+        "Watch TV or Movie.",
+        "(23:53, 23:59)",
+        [
+            "Au Cheval Diner",
+            700017110
+        ]
+    ]
+]

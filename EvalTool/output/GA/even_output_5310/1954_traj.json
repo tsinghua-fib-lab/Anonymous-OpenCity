@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Doc Watson's",
+            700023410
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:03)",
+        [
+            "Doc Watson's",
+            700023410
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:11, 11:57)",
+        [
+            "Ed's Elbow Room",
+            700017558
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 17:32)",
+        [
+            "",
+            700020609
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 20:34)",
+        [
+            "Doc Watson's",
+            700023410
+        ]
+    ],
+    [
+        "Evening Leisure Time",
+        "(20:40, 21:50)",
+        [
+            "",
+            700020599
+        ]
+    ],
+    [
+        "Evening Leisure Time",
+        "(22:06, 23:35)",
+        [
+            "Keys & Heels",
+            700023405
+        ]
+    ],
+    [
+        "Evening Leisure Time",
+        "(23:35, 23:59)",
+        [
+            "Keys & Heels",
+            700023405
+        ]
+    ]
+]

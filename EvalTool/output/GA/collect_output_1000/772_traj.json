@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030392
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:39)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "Leisure Reading or Catching Up on News",
+        "(11:53, 12:56)",
+        [
+            "",
+            700030392
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:36, 18:13)",
+        [
+            "",
+            700030416
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time (5:00 PM - 7:00 PM)",
+        "(17:47, 19:15)",
+        [
+            "",
+            700030388
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:16, 21:05)",
+        [
+            "",
+            700030392
+        ]
+    ],
+    [
+        "Evening Wind-Down: Reading or Meditative Activity",
+        "(21:41, 23:12)",
+        [
+            "",
+            700030392
+        ]
+    ],
+    [
+        "Evening Wind-Down: Reading or Meditative Activity",
+        "(23:21, 23:59)",
+        [
+            "",
+            700030392
+        ]
+    ]
+]

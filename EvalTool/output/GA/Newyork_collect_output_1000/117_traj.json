@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:48)",
+        [
+            "",
+            700022507
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:21, 17:09)",
+        [
+            "",
+            700022519
+        ]
+    ],
+    [
+        "Spend time enjoying leisure reading or catch up on personal projects.",
+        "(16:21, 18:01)",
+        [
+            "",
+            700022519
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:15, 22:52)",
+        [
+            "",
+            700022519
+        ]
+    ],
+    [
+        "Next wind down with some light activities like playing a game or watching TV.",
+        "(21:22, 23:08)",
+        [
+            "Manhatta",
+            700013317
+        ]
+    ],
+    [
+        "Wind down with some light activities like playing a game or watching TV.",
+        "(23:40, 23:59)",
+        [
+            "Manhatta",
+            700013317
+        ]
+    ]
+]

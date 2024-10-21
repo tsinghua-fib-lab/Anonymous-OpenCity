@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Pharmacie Mathieu",
+            700006701
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:18)",
+        [
+            "Fontaine Wallace",
+            700053200
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:17, 16:23)",
+        [
+            "Fontaine Wallace",
+            700053200
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(18:16, 20:08)",
+        [
+            "",
+            700002197
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(19:59, 21:06)",
+        [
+            "Pharmacie Mathieu",
+            700006701
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(21:33, 23:08)",
+        [
+            "The Tibetan Kitchen",
+            700006960
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(23:50, 23:59)",
+        [
+            "L'Oriental",
+            700006705
+        ]
+    ]
+]

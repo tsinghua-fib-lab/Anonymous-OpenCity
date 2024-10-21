@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(09:00, 10:25)",
+        [
+            "",
+            700018138
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:33, 12:53)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Outdoor Activities/Sports",
+        "(13:25, 15:22)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(15:20, 16:55)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(16:54, 18:27)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Wind Down and Prepare Dinner",
+        "(18:31, 19:57)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:16, 23:59)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ]
+]

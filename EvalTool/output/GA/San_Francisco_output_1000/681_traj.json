@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Library",
+            700009309
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:07)",
+        [
+            "Wings Plus",
+            700005190
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:04, 20:51)",
+        [
+            "Marcela's Taqueria",
+            700001024
+        ]
+    ],
+    [
+        "Social Time/Leisure Activities",
+        "(20:51, 22:26)",
+        [
+            "The Library",
+            700009309
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:57, 23:59)",
+        [
+            "Pho Tan Hoa",
+            700004838
+        ]
+    ]
+]

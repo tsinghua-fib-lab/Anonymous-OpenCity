@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Délice & Sarrasin",
+            700035848
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:11)",
+        [
+            "",
+            700020354
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(14:14, 16:01)",
+        [
+            "Bar Pitti",
+            700007729
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(16:40, 18:07)",
+        [
+            "Da Silvano",
+            700006539
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(18:18, 19:52)",
+        [
+            "Bar Pitti",
+            700007729
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(20:12, 21:48)",
+        [
+            "",
+            700020355
+        ]
+    ],
+    [
+        "Go to Bar Pitti.",
+        "(22:02, 23:59)",
+        [
+            "Bar Pitti",
+            700007729
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "Villa Mosconi",
+            700006538
+        ]
+    ]
+]

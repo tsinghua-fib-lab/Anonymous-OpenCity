@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Roam Artisan Burgers",
+            700005463
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:12)",
+        [
+            "Left Door",
+            700013631
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:57, 18:33)",
+        [
+            "Wells Fargo",
+            700004122
+        ]
+    ],
+    [
+        "Watch a movie or binge a series on streaming platforms",
+        "(16:30, 18:35)",
+        [
+            "Wells Fargo",
+            700004123
+        ]
+    ],
+    [
+        "Prepare a simple dinner and enjoy it around 6:00 PM.",
+        "(18:23, 19:44)",
+        [
+            "",
+            700008809
+        ]
+    ],
+    [
+        "Relaxing at Verdi Club",
+        "(20:31, 22:36)",
+        [
+            "San Francisco Sleep Diagnostics",
+            700003678
+        ]
+    ],
+    [
+        "End the day at Starbucks",
+        "(22:19, 23:59)",
+        [
+            "",
+            700005991
+        ]
+    ],
+    [
+        "Relax at Starbucks",
+        "(23:56, 23:59)",
+        [
+            "Belga",
+            700005577
+        ]
+    ]
+]

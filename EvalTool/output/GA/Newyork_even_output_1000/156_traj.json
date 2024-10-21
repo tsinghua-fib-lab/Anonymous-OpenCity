@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bravo Pizza",
+            700018122
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:16)",
+        [
+            "Big Daddy's Diner",
+            700007814
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends",
+        "(11:42, 13:21)",
+        [
+            "Big Daddy's Diner",
+            700007814
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(13:20, 15:45)",
+        [
+            "Oceans",
+            700005262
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends",
+        "(16:34, 17:54)",
+        [
+            "Oceans",
+            700005262
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(18:54, 20:34)",
+        [
+            "",
+            700002328
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:14, 23:59)",
+        [
+            "Oceans",
+            700005262
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "CVS Pharmacy",
+            700018132
+        ]
+    ]
+]

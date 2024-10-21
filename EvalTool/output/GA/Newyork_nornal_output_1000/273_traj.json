@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020189
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:24)",
+        [
+            "Blink Fitness",
+            700014760
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:28, 18:11)",
+        [
+            "Baker Falls",
+            700040030
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(18:21, 19:56)",
+        [
+            "",
+            700020189
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(20:29, 21:49)",
+        [
+            "Baker Falls",
+            700040030
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:41, 23:59)",
+        [
+            "Kazuza",
+            700014751
+        ]
+    ]
+]

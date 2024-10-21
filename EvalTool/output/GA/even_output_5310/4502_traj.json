@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Lucky's",
+            700011167
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:11)",
+        [
+            "Soho Astrology",
+            700013435
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(12:59, 14:07)",
+        [
+            "Soho Astrology",
+            700013435
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 19:54)",
+        [
+            "Wan Wan",
+            700007828
+        ]
+    ],
+    [
+        "Relaxing Time at Home",
+        "(20:51, 22:14)",
+        [
+            "Neat Burger",
+            700012009
+        ]
+    ],
+    [
+        "Stay at Oceans",
+        "(22:44, 23:50)",
+        [
+            "Jack’s Wife Freda",
+            700004788
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:50, 23:59)",
+        [
+            "Citi Bike - Cleveland Pl & Spring St",
+            700007998
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - 1st Avenue & East 15th Street",
+            700007924
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:53)",
+        [
+            "1 Av & E 14 St",
+            700011090
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:14, 14:34)",
+        [
+            "Citi Bike - 1st Avenue & East 15th Street",
+            700007924
+        ]
+    ],
+    [
+        "Lunch",
+        "(15:40, 17:13)",
+        [
+            "1 Av & E 14 St",
+            700011090
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(17:51, 19:55)",
+        [
+            "1 Av & E 14 St",
+            700011090
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:59, 23:59)",
+        [
+            "",
+            700019431
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:57, 23:59)",
+        [
+            "",
+            700014458
+        ]
+    ],
+    [
+        "Next place and engage",
+        "(23:52, 23:59)",
+        [
+            "Citi Bike - 1st Avenue & East 15th Street",
+            700007924
+        ]
+    ]
+]

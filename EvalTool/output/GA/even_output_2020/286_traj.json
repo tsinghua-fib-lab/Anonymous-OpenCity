@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "Move to Leisure Activity",
+        "(10:00, 11:27)",
+        [
+            "Bobo’s",
+            700013445
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:45, 15:14)",
+        [
+            "Kopiku",
+            700004970
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a favorite series.",
+        "(18:23, 20:09)",
+        [
+            "Kopiku",
+            700004970
+        ]
+    ],
+    [
+        "Continue current activity until watching a movie or binge-watch a series.",
+        "(20:51, 22:02)",
+        [
+            "Kopiku",
+            700004970
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:10, 23:59)",
+        [
+            "",
+            700013443
+        ]
+    ]
+]

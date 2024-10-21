@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001936
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 16:00)",
+        [
+            "My Father’s Kitchen",
+            700004903
+        ]
+    ],
+    [
+        "Hobbies/Personal Projects",
+        "(15:08, 17:08)",
+        [
+            "My Father’s Kitchen",
+            700004903
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:49, 18:58)",
+        [
+            "My Father’s Kitchen",
+            700004903
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:08, 21:02)",
+        [
+            "My Father’s Kitchen",
+            700004903
+        ]
+    ],
+    [
+        "Evening Relaxation/Family Time",
+        "(21:48, 22:55)",
+        [
+            "My Father’s Kitchen",
+            700004903
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "",
+            700000784
+        ]
+    ]
+]

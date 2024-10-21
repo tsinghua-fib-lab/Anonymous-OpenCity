@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bareburger",
+            700033961
+        ]
+    ],
+    [
+        "Morning jog or walk in the park",
+        "(10:00, 11:10)",
+        [
+            "Bareburger",
+            700033961
+        ]
+    ],
+    [
+        "Morning jog or walk in the park",
+        "(11:12, 12:38)",
+        [
+            "Norma",
+            700010575
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:42, 18:01)",
+        [
+            "Profit",
+            700004867
+        ]
+    ],
+    [
+        "Stay at Bareburger",
+        "(17:40, 19:17)",
+        [
+            "Profit",
+            700004867
+        ]
+    ],
+    [
+        "Stay at Bareburger.",
+        "(19:39, 20:56)",
+        [
+            "Bareburger",
+            700033961
+        ]
+    ],
+    [
+        "Stay at Bareburger.",
+        "(21:11, 23:10)",
+        [
+            "Bareburger",
+            700033961
+        ]
+    ],
+    [
+        "Stay at Bareburger.",
+        "(23:45, 23:59)",
+        [
+            "Profit",
+            700004867
+        ]
+    ]
+]

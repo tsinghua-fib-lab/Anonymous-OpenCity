@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020037
+        ]
+    ],
+    [
+        "Stay at: Phoenix Garden",
+        "(09:00, 10:01)",
+        [
+            "",
+            700020037
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:47, 14:02)",
+        [
+            "Modern Bread and Bagel",
+            700028607
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 17:14)",
+        [
+            "",
+            700020029
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:36, 20:06)",
+        [
+            "Modern Bread and Bagel",
+            700028607
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:47, 23:32)",
+        [
+            "Chama Mama",
+            700023404
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:11, 23:59)",
+        [
+            "",
+            700020029
+        ]
+    ]
+]

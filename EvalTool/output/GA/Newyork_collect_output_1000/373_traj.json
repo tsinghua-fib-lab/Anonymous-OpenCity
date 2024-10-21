@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:07)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 15:02)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(14:54, 16:33)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ],
+    [
+        "Hobby Time/Creative Project",
+        "(17:04, 18:37)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Hobby Time/Creative Project",
+        "(19:18, 21:32)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 23:59)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ]
+]

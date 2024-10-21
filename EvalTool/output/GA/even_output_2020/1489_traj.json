@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bay Wheels",
+            700011023
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:01)",
+        [
+            "",
+            700005718
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:07, 13:27)",
+        [
+            "Bay Wheels",
+            700011023
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:12, 16:33)",
+        [
+            "",
+            700010812
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:12, 19:30)",
+        [
+            "",
+            700009649
+        ]
+    ],
+    [
+        "Enjoy some time at Cha Cha Cha for a lively atmosphere.",
+        "(21:21, 23:26)",
+        [
+            "",
+            700009651
+        ]
+    ],
+    [
+        "Go to Café de Olla for coffee and dessert.",
+        "(23:32, 23:59)",
+        [
+            "",
+            700009068
+        ]
+    ]
+]

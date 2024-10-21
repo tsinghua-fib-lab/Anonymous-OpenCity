@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700049929
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:33)",
+        [
+            "",
+            700063819
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 15:07)",
+        [
+            "",
+            700063830
+        ]
+    ],
+    [
+        "Stay at Le Sèvres Raspail",
+        "(18:15, 19:58)",
+        [
+            "",
+            700065633
+        ]
+    ],
+    [
+        "Continue the evening by staying at Le Sèvres Raspail.",
+        "(20:11, 21:38)",
+        [
+            "Les Mouettes",
+            700013850
+        ]
+    ],
+    [
+        "Go to Belaili.",
+        "(22:15, 23:59)",
+        [
+            "",
+            700045720
+        ]
+    ],
+    [
+        "Stay at Le Sèvres Raspail",
+        "(23:51, 23:59)",
+        [
+            "",
+            700045720
+        ]
+    ]
+]

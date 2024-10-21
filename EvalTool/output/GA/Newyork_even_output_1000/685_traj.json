@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700038075
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby",
+        "(09:00, 10:25)",
+        [
+            "Middle School 260",
+            700000289
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby",
+        "(11:12, 12:45)",
+        [
+            "Middle School 260",
+            700000289
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby",
+        "(12:37, 14:03)",
+        [
+            "Middle School 260",
+            700000289
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(15:10, 16:38)",
+        [
+            "Middle School 260",
+            700000289
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(17:12, 18:42)",
+        [
+            "Citi Bike - West 20th Street & 8th Avenue",
+            700008206
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(18:42, 20:14)",
+        [
+            "Citi Bike - West 20th Street & 8th Avenue",
+            700008206
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 23:59)",
+        [
+            "el coco",
+            700018522
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:59)",
+        [
+            "Lasagna Ristorante",
+            700004338
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:50, 23:59)",
+        [
+            "Temerarion",
+            700004350
+        ]
+    ]
+]

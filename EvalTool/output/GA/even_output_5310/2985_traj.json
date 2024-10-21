@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020159
+        ]
+    ],
+    [
+        "Engage in a morning workout or leisurely walk",
+        "(09:00, 09:57)",
+        [
+            "Citibike - King Street & Varick Street",
+            700020166
+        ]
+    ],
+    [
+        "current place: Citibike - King Street & Varick Street; stay time:",
+        "(10:07, 11:30)",
+        [
+            "",
+            700020160
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 12:53)",
+        [
+            "",
+            700020163
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 22:30)",
+        [
+            "",
+            700020162
+        ]
+    ],
+    [
+        "Stay at current place: Citibike - King Street & Varick Street.",
+        "(20:15, 21:49)",
+        [
+            "Little Italy Pizzeria & Deli",
+            700022206
+        ]
+    ],
+    [
+        "Stay at Citibike - King Street & Varick Street.",
+        "(21:49, 22:57)",
+        [
+            "Little Italy Pizzeria & Deli",
+            700022206
+        ]
+    ]
+]

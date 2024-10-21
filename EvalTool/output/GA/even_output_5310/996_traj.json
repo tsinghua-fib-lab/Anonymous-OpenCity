@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700024477
+        ]
+    ],
+    [
+        "Outdoor Exercise or Walk",
+        "(09:00, 09:55)",
+        [
+            "",
+            700020314
+        ]
+    ],
+    [
+        "Outdoor Exercise or Walk",
+        "(10:18, 11:38)",
+        [
+            "Citi Bike - West 48th Street & 3rd Avenue",
+            700009296
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:30, 13:49)",
+        [
+            "Pret A Manger",
+            700010324
+        ]
+    ],
+    [
+        "Wind Down and Relax",
+        "(15:36, 18:10)",
+        [
+            "Pret A Manger",
+            700010324
+        ]
+    ],
+    [
+        "Continue relaxing and having dinner.",
+        "(18:57, 20:36)",
+        [
+            "Pret A Manger",
+            700010324
+        ]
+    ],
+    [
+        "Continue relaxing and having dinner.",
+        "(21:10, 23:35)",
+        [
+            "Pret A Manger",
+            700010324
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:52, 23:59)",
+        [
+            "Financier",
+            700009448
+        ]
+    ]
+]

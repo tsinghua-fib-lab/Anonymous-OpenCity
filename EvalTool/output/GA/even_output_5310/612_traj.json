@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 11th Street & Broadway",
+            700008021
+        ]
+    ],
+    [
+        "Outdoor Activity (11:00 AM - 1:00 PM)",
+        "(10:00, 12:06)",
+        [
+            "Le Pain Quotidien",
+            700010139
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:04, 13:57)",
+        [
+            "Le Pain Quotidien",
+            700010139
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 18:34)",
+        [
+            "Three Times",
+            700015198
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 20:51)",
+        [
+            "",
+            700000992
+        ]
+    ],
+    [
+        "Spend some time into relaxation or reading while enjoying the café atmosphere.",
+        "(23:13, 23:59)",
+        [
+            "Paradis",
+            700016219
+        ]
+    ]
+]

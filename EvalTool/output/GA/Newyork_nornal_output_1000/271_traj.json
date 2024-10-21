@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Justino’s Pizzeria",
+            700004006
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(09:00, 10:05)",
+        [
+            "Justino’s Pizzeria",
+            700004006
+        ]
+    ],
+    [
+        "Next activity after morning walk",
+        "(10:11, 11:31)",
+        [
+            "Masseria dei Vini",
+            700006399
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(12:28, 13:50)",
+        [
+            "Justino’s Pizzeria",
+            700004006
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(14:22, 16:04)",
+        [
+            "Masseria dei Vini",
+            700006399
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 19:44)",
+        [
+            "Justino’s Pizzeria",
+            700004006
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:55, 22:41)",
+        [
+            "",
+            700018408
+        ]
+    ]
+]

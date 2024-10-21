@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002510
+        ]
+    ],
+    [
+        "Engage in a morning workout or leisurely walk",
+        "(09:00, 09:53)",
+        [
+            "Fierce Grace",
+            700005165
+        ]
+    ],
+    [
+        "current place: Fierce Grace; stay time:",
+        "(10:07, 11:27)",
+        [
+            "Ms. Yoo",
+            700014837
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 17:16)",
+        [
+            "",
+            700002312
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 21:01)",
+        [
+            "",
+            700002510
+        ]
+    ],
+    [
+        "Stay at current place: Fierce Grace.",
+        "(20:15, 22:07)",
+        [
+            "Ms. Yoo",
+            700014837
+        ]
+    ],
+    [
+        "Stay at Fierce Grace.",
+        "(21:49, 23:34)",
+        [
+            "Ms. Yoo",
+            700014837
+        ]
+    ]
+]

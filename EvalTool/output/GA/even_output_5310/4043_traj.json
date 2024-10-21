@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Captain's Cafe",
+            700009751
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:56)",
+        [
+            "Citi Bike - East 33rd Street & 5th Avenue",
+            700008044
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:53, 12:56)",
+        [
+            "Citi Bike - East 33rd Street & 5th Avenue",
+            700008044
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:29, 14:55)",
+        [
+            "Citi Bike - East 33rd Street & 5th Avenue",
+            700008044
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:55, 18:18)",
+        [
+            "Chase",
+            700003302
+        ]
+    ],
+    [
+        "Stay at Captain's Cafe.",
+        "(19:49, 21:05)",
+        [
+            "Chase",
+            700003302
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:05, 22:55)",
+        [
+            "CVS Pharmacy",
+            700019186
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(23:32, 23:59)",
+        [
+            "Martin E. Segal Theatre Center",
+            700016717
+        ]
+    ]
+]

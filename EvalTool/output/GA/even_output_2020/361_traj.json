@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "El Rancho Grande",
+            700001901
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(10:00, 11:12)",
+        [
+            "Boba Guys",
+            700010745
+        ]
+    ],
+    [
+        "Relax at Boba Guys",
+        "(12:02, 13:22)",
+        [
+            "Boba Guys",
+            700010745
+        ]
+    ],
+    [
+        "Relax at Boba Guys",
+        "(14:25, 16:00)",
+        [
+            "",
+            700002903
+        ]
+    ],
+    [
+        "Relax at Boba Guys",
+        "(16:10, 18:10)",
+        [
+            "",
+            700002904
+        ]
+    ],
+    [
+        "Attend a sports event or match",
+        "(19:01, 20:18)",
+        [
+            "",
+            700002904
+        ]
+    ],
+    [
+        "Relax at Boba Guys",
+        "(21:02, 22:40)",
+        [
+            "Boba Guys",
+            700010745
+        ]
+    ],
+    [
+        "Relax at Boba Guys",
+        "(22:34, 23:59)",
+        [
+            "Boba Guys",
+            700010745
+        ]
+    ]
+]

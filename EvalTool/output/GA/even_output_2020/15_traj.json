@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sequoia Fabrica",
+            700013780
+        ]
+    ],
+    [
+        "Lunch Preparation & Eating",
+        "(10:00, 10:53)",
+        [
+            "Sequoia Fabrica",
+            700013780
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:31, 15:28)",
+        [
+            "Barrios Martial Arts",
+            700013779
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:22, 19:04)",
+        [
+            "Barrios Martial Arts",
+            700013779
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:30, 20:56)",
+        [
+            "Barrios Martial Arts",
+            700013779
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:12, 23:13)",
+        [
+            "Goat Hill Pizza",
+            700000864
+        ]
+    ]
+]

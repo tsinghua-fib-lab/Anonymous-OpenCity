@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Juice Press",
+            700009303
+        ]
+    ],
+    [
+        "Breakfast at Juice Press",
+        "(10:00, 11:19)",
+        [
+            "La Colombe Coffee Roasters",
+            700013272
+        ]
+    ],
+    [
+        "Relax and read a book or enjoy some personal time",
+        "(11:54, 12:59)",
+        [
+            "La Colombe Coffee Roasters",
+            700013272
+        ]
+    ],
+    [
+        "Relax and read a book or enjoy some personal time",
+        "(12:52, 14:12)",
+        [
+            "La Colombe Coffee Roasters",
+            700013272
+        ]
+    ],
+    [
+        "Relax and read a book or enjoy some personal time",
+        "(14:27, 15:29)",
+        [
+            "La Colombe Coffee Roasters",
+            700013272
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 19:40)",
+        [
+            "Citi Bike - W Broadway & Spring St",
+            700007818
+        ]
+    ],
+    [
+        "Winding down with a movie or TV show at home",
+        "(21:43, 23:05)",
+        [
+            "San Carlo Osteria Piemonte",
+            700016760
+        ]
+    ],
+    [
+        "Wind down with a movie or TV show at home.",
+        "(23:45, 23:59)",
+        [
+            "Citi Bike - W Broadway & Spring St",
+            700007818
+        ]
+    ]
+]

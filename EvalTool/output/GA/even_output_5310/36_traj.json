@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700014479
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:25)",
+        [
+            "Marathon Coffee",
+            700039312
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:22, 13:00)",
+        [
+            "",
+            700010702
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(13:30, 15:31)",
+        [
+            "Amaze",
+            700011528
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:01, 18:46)",
+        [
+            "Biscuits and Bath",
+            700030623
+        ]
+    ],
+    [
+        "Sleep and wind down for the night.",
+        "(21:30, 23:07)",
+        [
+            "Biscuits and Bath",
+            700030623
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:25, 23:59)",
+        [
+            "",
+            700014479
+        ]
+    ]
+]

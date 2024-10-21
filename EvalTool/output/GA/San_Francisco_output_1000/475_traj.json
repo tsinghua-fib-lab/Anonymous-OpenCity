@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700012777
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:38)",
+        [
+            "Modera Rincon Hill",
+            700014422
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:25, 15:35)",
+        [
+            "",
+            700012761
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:28, 19:04)",
+        [
+            "Modera Rincon Hill",
+            700014422
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:55, 22:10)",
+        [
+            "Modera Rincon Hill",
+            700014422
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:45, 23:59)",
+        [
+            "",
+            700012753
+        ]
+    ]
+]

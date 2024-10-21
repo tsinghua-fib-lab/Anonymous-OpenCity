@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700065236
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:55)",
+        [
+            "",
+            700041682
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 16:54)",
+        [
+            "",
+            700041683
+        ]
+    ],
+    [
+        "Stay at bibliothèque de Géosciences et environnement",
+        "(20:54, 22:07)",
+        [
+            "bibliothèque de Géosciences et environnement",
+            700051034
+        ]
+    ],
+    [
+        "Stay at bibliothèque de Géosciences et environnement",
+        "(22:28, 23:57)",
+        [
+            "bibliothèque de Géosciences et environnement",
+            700051034
+        ]
+    ]
+]

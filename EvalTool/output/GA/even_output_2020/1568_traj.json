@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008260
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:56)",
+        [
+            "",
+            700000977
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:13, 14:14)",
+        [
+            "",
+            700000529
+        ]
+    ],
+    [
+        "Household Chores",
+        "(11:53, 13:02)",
+        [
+            "Norwegian Seamans Church",
+            700000239
+        ]
+    ],
+    [
+        "Household Chores",
+        "(13:46, 16:03)",
+        [
+            "Norwegian Seamans Church",
+            700000239
+        ]
+    ],
+    [
+        "Social Time or Community Engagement",
+        "(16:37, 18:14)",
+        [
+            "Norwegian Seamans Church",
+            700000239
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(19:07, 20:58)",
+        [
+            "Norwegian Seamans Church",
+            700000239
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(21:13, 22:35)",
+        [
+            "Norwegian Seamans Church",
+            700000239
+        ]
+    ],
+    [
+        "Stay at Norwegian Seamans Church",
+        "(23:24, 23:59)",
+        [
+            "Norwegian Seamans Church",
+            700000239
+        ]
+    ]
+]

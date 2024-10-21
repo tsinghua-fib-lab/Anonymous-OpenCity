@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700021609
+        ]
+    ],
+    [
+        "You go to Citi Bike - West 27th Street & 7th Avenue.",
+        "(10:00, 11:07)",
+        [
+            "SUGARFISH by Sushi Nozawa",
+            700041046
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 14:06)",
+        [
+            "SUGARFISH by Sushi Nozawa",
+            700041046
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 21:15)",
+        [
+            "Fishbowl",
+            700006315
+        ]
+    ],
+    [
+        "go to Esquire Pharmacy",
+        "(23:52, 23:59)",
+        [
+            "",
+            700017975
+        ]
+    ]
+]

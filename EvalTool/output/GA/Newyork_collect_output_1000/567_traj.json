@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:43)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Projects",
+        "(14:57, 16:23)",
+        [
+            "",
+            700022505
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 17:54)",
+        [
+            "",
+            700001612
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:33, 21:08)",
+        [
+            "",
+            700001612
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:33, 23:59)",
+        [
+            "Royal Orthodontics",
+            700023464
+        ]
+    ],
+    [
+        "Visit",
+        "(23:45, 23:59)",
+        [
+            "Small Door Veterinary",
+            700023462
+        ]
+    ]
+]

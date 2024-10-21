@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Dr. William L. Gee House",
+            700008887
+        ]
+    ],
+    [
+        "Have a leisurely breakfast",
+        "(09:00, 10:06)",
+        [
+            "The Dr. William L. Gee House",
+            700008887
+        ]
+    ],
+    [
+        "Stay at The Dr. William L. Gee House",
+        "(10:37, 12:17)",
+        [
+            "Le Marais Bakery Market Cafe",
+            700009497
+        ]
+    ],
+    [
+        "Have lunch with friends or family",
+        "(12:45, 14:22)",
+        [
+            "The Dr. William L. Gee House",
+            700008887
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a TV series",
+        "(14:31, 16:28)",
+        [
+            "The Dr. William L. Gee House",
+            700008887
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:22, 20:12)",
+        [
+            "",
+            700009498
+        ]
+    ],
+    [
+        "Wind down with some light reading or relaxation.",
+        "(19:24, 21:09)",
+        [
+            "",
+            700008884
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 23:59)",
+        [
+            "",
+            700009498
+        ]
+    ]
+]

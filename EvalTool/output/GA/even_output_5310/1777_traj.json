@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bank of America",
+            700020479
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:24)",
+        [
+            "Chase",
+            700024967
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:25, 12:50)",
+        [
+            "Chase",
+            700024967
+        ]
+    ],
+    [
+        "Engage in a hobby or TV shows.",
+        "(13:17, 14:51)",
+        [
+            "Chase",
+            700024967
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(15:39, 18:05)",
+        [
+            "LaVista Pizza",
+            700030618
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 20:54)",
+        [
+            "Daniello's",
+            700014652
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 21:37)",
+        [
+            "Lin's Gourmet",
+            700031416
+        ]
+    ],
+    [
+        "Stay at Bank of America",
+        "(23:46, 23:59)",
+        [
+            "Bank of America",
+            700020479
+        ]
+    ]
+]

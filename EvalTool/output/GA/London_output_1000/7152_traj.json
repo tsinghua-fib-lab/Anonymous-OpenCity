@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 11:59)",
+        [
+            "",
+            700069930
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:29, 13:53)",
+        [
+            "",
+            700069100
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:53, 17:29)",
+        [
+            "Bayswater Maria Montessori Children's House",
+            700013725
+        ]
+    ],
+    [
+        "Evening Wrap-Up with a Book or Podcast",
+        "(19:58, 21:00)",
+        [
+            "",
+            700070022
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:05, 23:59)",
+        [
+            "",
+            700069102
+        ]
+    ],
+    [
+        "Evening Wrap-Up with a Book or Podcast",
+        "(22:48, 23:59)",
+        [
+            "",
+            700023733
+        ]
+    ]
+]

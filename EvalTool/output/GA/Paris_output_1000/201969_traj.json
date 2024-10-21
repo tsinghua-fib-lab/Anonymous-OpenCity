@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pomme de Pain",
+            700008585
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:13)",
+        [
+            "Big Fernand",
+            700025149
+        ]
+    ],
+    [
+        "Visit Big Fernand for lunch.",
+        "(11:33, 12:53)",
+        [
+            "Big Fernand",
+            700025149
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 17:54)",
+        [
+            "Big Fernand",
+            700025149
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:21, 18:31)",
+        [
+            "Toritcho",
+            700011169
+        ]
+    ],
+    [
+        "Stay at Big Fernand.",
+        "(21:07, 22:39)",
+        [
+            "Toritcho",
+            700011169
+        ]
+    ],
+    [
+        "Stay at Recharge Navigo.",
+        "(23:10, 23:59)",
+        [
+            "",
+            700012781
+        ]
+    ]
+]

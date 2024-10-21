@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Amaze",
+            700011528
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:22)",
+        [
+            "Sushi Ginza",
+            700006518
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 17:47)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:17, 23:09)",
+        [
+            "NYC Discount Pharmacy",
+            700030624
+        ]
+    ],
+    [
+        "Stay at Frolla Cafè",
+        "(22:52, 23:59)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "Stay at Chase",
+        "(23:58, 23:59)",
+        [
+            "Au Za'atar",
+            700011621
+        ]
+    ]
+]

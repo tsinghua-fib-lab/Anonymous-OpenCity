@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Public School MO94",
+            700000405
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:11)",
+        [
+            "Equal Care Pharmacy",
+            700005417
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:38, 19:17)",
+        [
+            "",
+            700002391
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:32, 17:02)",
+        [
+            "",
+            700002391
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:04, 18:04)",
+        [
+            "",
+            700002391
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(18:16, 19:43)",
+        [
+            "",
+            700002428
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 23:59)",
+        [
+            "Casa Adela",
+            700011044
+        ]
+    ],
+    [
+        "Wind Down and Prepare for the Week",
+        "(23:53, 23:59)",
+        [
+            "",
+            700002266
+        ]
+    ]
+]

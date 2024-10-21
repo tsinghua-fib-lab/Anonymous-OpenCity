@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Buffalo Wild Wings",
+            700015643
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 10:53)",
+        [
+            "Buffalo Wild Wings",
+            700015643
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:05, 12:25)",
+        [
+            "",
+            700006055
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:59, 14:21)",
+        [
+            "Buffalo Wild Wings",
+            700015643
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:58, 16:01)",
+        [
+            "Buffalo Wild Wings",
+            700015643
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:42, 20:42)",
+        [
+            "Starbucks",
+            700006535
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:59, 22:01)",
+        [
+            "Buffalo Wild Wings",
+            700015643
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:21, 23:59)",
+        [
+            "Starbucks",
+            700006535
+        ]
+    ]
+]

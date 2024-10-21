@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Urbanspace Vanderbilt",
+            700010952
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:07)",
+        [
+            "Partners Coffee",
+            700014187
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 14:39)",
+        [
+            "",
+            700020220
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:21, 19:18)",
+        [
+            "",
+            700020220
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:46, 21:37)",
+        [
+            "Chase",
+            700004305
+        ]
+    ],
+    [
+        "Proceed to sleep.",
+        "(22:27, 23:53)",
+        [
+            "Connolly's",
+            700003541
+        ]
+    ],
+    [
+        "Proceed to sleep.",
+        "(23:53, 23:59)",
+        [
+            "McDonald's",
+            700007105
+        ]
+    ]
+]

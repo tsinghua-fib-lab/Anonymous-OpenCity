@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "Outdoor Leisure Activity",
+        "(10:00, 12:01)",
+        [
+            "Recycling Bins",
+            700014848
+        ]
+    ],
+    [
+        "Outdoor Leisure Activity",
+        "(12:23, 13:54)",
+        [
+            "Recycling Bins",
+            700014848
+        ]
+    ],
+    [
+        "Outdoor Leisure Activity",
+        "(14:08, 16:05)",
+        [
+            "Recycling Bins",
+            700014848
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(16:23, 17:44)",
+        [
+            "Tooley Street",
+            700009948
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:30, 23:24)",
+        [
+            "Tom Simmons",
+            700034975
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "The Coal Shed",
+            700034973
+        ]
+    ]
+]

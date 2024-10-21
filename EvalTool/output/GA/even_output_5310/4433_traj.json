@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hester Pharmacy",
+            700005304
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:21)",
+        [
+            "",
+            700025368
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(15:25, 16:54)",
+        [
+            "ABC Pharmacy",
+            700005305
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:33, 23:35)",
+        [
+            "",
+            700025362
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:08, 21:01)",
+        [
+            "Sweet Moment",
+            700010489
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:57, 23:59)",
+        [
+            "Lady Chow Kitchen",
+            700027005
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:53, 23:59)",
+        [
+            "Lady Chow Kitchen",
+            700027005
+        ]
+    ]
+]

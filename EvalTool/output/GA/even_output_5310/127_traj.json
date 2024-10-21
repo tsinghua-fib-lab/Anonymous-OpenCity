@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Pay O Matic",
+            700019192
+        ]
+    ],
+    [
+        "Go for a Walk or Light Exercise",
+        "(09:00, 10:08)",
+        [
+            "Pay O Matic",
+            700019192
+        ]
+    ],
+    [
+        "Next activity",
+        "(10:12, 11:56)",
+        [
+            "Pay O Matic",
+            700019192
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:27, 16:39)",
+        [
+            "Citi Bike - W 38 St & 8 Ave",
+            700008218
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(15:53, 16:51)",
+        [
+            "Citi Bike - W 38 St & 8 Ave",
+            700008218
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(17:08, 18:44)",
+        [
+            "Black Burger",
+            700019197
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(19:10, 20:46)",
+        [
+            "Sakura Of Japan",
+            700019193
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:55, 23:35)",
+        [
+            "",
+            700019196
+        ]
+    ]
+]

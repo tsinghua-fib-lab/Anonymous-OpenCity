@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001159
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 11:50)",
+        [
+            "Rite Aid",
+            700012591
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 14:10)",
+        [
+            "",
+            700001671
+        ]
+    ],
+    [
+        "Attend a yoga or fitness class",
+        "(15:46, 16:41)",
+        [
+            "The Wayland",
+            700014143
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:00, 21:28)",
+        [
+            "",
+            700002297
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:59)",
+        [
+            "Kafana",
+            700008851
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(22:14, 23:41)",
+        [
+            "Kafana",
+            700008851
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(23:47, 23:59)",
+        [
+            "Kafana",
+            700008851
+        ]
+    ]
+]

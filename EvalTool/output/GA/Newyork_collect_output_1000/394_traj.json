@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Morning leisure activities",
+        "(09:00, 10:37)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Go for a walk or exercise",
+        "(11:33, 12:26)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Afternoon relaxation or hobbies",
+        "(13:04, 14:43)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Next activity: Watch a movie or sports game",
+        "(15:24, 17:08)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Next activity: Prepare and have dinner",
+        "(17:59, 18:53)",
+        [
+            "Smile Dental Center",
+            700023828
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(19:33, 20:53)",
+        [
+            "CitiBike Station",
+            700007611
+        ]
+    ],
+    [
+        "Next activity: Go for a walk or exercise",
+        "(21:17, 22:55)",
+        [
+            "Citi Bike - East 25th Street & 2nd Avenue",
+            700008039
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "Firecracker Wings",
+            700023829
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "CVS Pharmacy",
+            700038287
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:35)",
+        [
+            "",
+            700026303
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:35, 12:12)",
+        [
+            "Panera Bread",
+            700009873
+        ]
+    ],
+    [
+        "go to Panera Bread",
+        "(12:49, 14:14)",
+        [
+            "Panera Bread",
+            700009873
+        ]
+    ],
+    [
+        "Watch Favorite TV Show or Movie",
+        "(14:27, 15:55)",
+        [
+            "Panera Bread",
+            700009873
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 17:34)",
+        [
+            "",
+            700026310
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:37, 23:59)",
+        [
+            "",
+            700004490
+        ]
+    ]
+]

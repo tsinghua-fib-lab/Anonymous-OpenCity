@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003165
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:15)",
+        [
+            "Pierre Loti",
+            700009384
+        ]
+    ],
+    [
+        "Lunch with friends",
+        "(13:00, 14:27)",
+        [
+            "Dear Irving",
+            700017465
+        ]
+    ],
+    [
+        "Stay at Pierre Loti.",
+        "(14:35, 16:37)",
+        [
+            "Yama",
+            700027739
+        ]
+    ],
+    [
+        "Stay at Pierre Loti.",
+        "(16:48, 17:59)",
+        [
+            "Yama",
+            700027739
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:34, 19:47)",
+        [
+            "Citi Bike - East 16th Street & Irving Place",
+            700008027
+        ]
+    ],
+    [
+        "Stay at Place 1",
+        "(19:56, 21:12)",
+        [
+            "",
+            700002599
+        ]
+    ],
+    [
+        "Stay at Pierre Loti.",
+        "(21:23, 22:44)",
+        [
+            "Citi Bike - East 16th Street & Irving Place",
+            700008027
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "Corbet & Conley",
+            700007801
+        ]
+    ]
+]

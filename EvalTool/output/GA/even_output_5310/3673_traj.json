@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700028332
+        ]
+    ],
+    [
+        "Current Place: Bicycle Parking. Stay until 11:45 AM.",
+        "(10:00, 11:05)",
+        [
+            "",
+            700028342
+        ]
+    ],
+    [
+        "Current Place: Bicycle Parking. Stay until 11:45 AM.",
+        "(11:09, 12:19)",
+        [
+            "Forever Taste Restaurant",
+            700018389
+        ]
+    ],
+    [
+        "Current Place: Bicycle Parking. Stay until 2:00 PM.",
+        "(13:05, 15:14)",
+        [
+            "Forever Taste Restaurant",
+            700018389
+        ]
+    ],
+    [
+        "Stay at Bicycle Parking",
+        "(15:49, 17:11)",
+        [
+            "Forever Taste Restaurant",
+            700018389
+        ]
+    ],
+    [
+        "Stay at Bicycle Parking.",
+        "(17:28, 18:37)",
+        [
+            "Forever Taste Restaurant",
+            700018389
+        ]
+    ],
+    [
+        "Stay at Bicycle Parking",
+        "(18:54, 20:19)",
+        [
+            "Forever Taste Restaurant",
+            700018389
+        ]
+    ],
+    [
+        "Stay at Bicycle Parking.",
+        "(21:08, 22:25)",
+        [
+            "Forever Taste Restaurant",
+            700018389
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "",
+            700018399
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001376
+        ]
+    ],
+    [
+        "Go for a walk or visit a nearby park.",
+        "(10:00, 10:58)",
+        [
+            "CVS Pharmacy",
+            700033545
+        ]
+    ],
+    [
+        "Go for a walk or visit a nearby park.",
+        "(11:15, 13:03)",
+        [
+            "CVS Pharmacy",
+            700033545
+        ]
+    ],
+    [
+        "watch a movie or catch up on a favorite TV show",
+        "(13:08, 14:51)",
+        [
+            "CVS Pharmacy",
+            700033545
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a favorite TV show.",
+        "(15:29, 17:05)",
+        [
+            "CVS Pharmacy",
+            700033545
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 21:38)",
+        [
+            "Saint Stephen of Hungary School",
+            700000297
+        ]
+    ],
+    [
+        "Stay at CVS Pharmacy",
+        "(22:15, 23:37)",
+        [
+            "Saint Stephen of Hungary School",
+            700000297
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "Le Pain Quotidien",
+            700024261
+        ]
+    ]
+]

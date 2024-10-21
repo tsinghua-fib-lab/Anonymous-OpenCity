@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700025295
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(09:00, 10:03)",
+        [
+            "High Street on Hudson",
+            700008879
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:03, 12:58)",
+        [
+            "",
+            700027200
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(16:12, 17:30)",
+        [
+            "High Street on Hudson",
+            700008879
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(17:40, 19:06)",
+        [
+            "High Street on Hudson",
+            700008879
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:07, 21:57)",
+        [
+            "Sugar Factory",
+            700008482
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "",
+            700027200
+        ]
+    ]
+]

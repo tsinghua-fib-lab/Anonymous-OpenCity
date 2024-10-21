@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Porter House Bar and Grill",
+            700009178
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:46)",
+        [
+            "",
+            700026445
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:20, 16:45)",
+        [
+            "Porter House Bar and Grill",
+            700009178
+        ]
+    ],
+    [
+        "Social Time at Porter House Bar and Grill",
+        "(16:42, 18:12)",
+        [
+            "Porter House Bar and Grill",
+            700009178
+        ]
+    ],
+    [
+        "Social Time at Porter House Bar and Grill",
+        "(18:25, 19:53)",
+        [
+            "Porter House Bar and Grill",
+            700009178
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:12, 21:38)",
+        [
+            "",
+            700026445
+        ]
+    ]
+]

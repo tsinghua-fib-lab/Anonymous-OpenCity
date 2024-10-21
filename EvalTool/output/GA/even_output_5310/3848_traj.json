@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Orion Diner & Grill",
+            700014321
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(09:00, 11:05)",
+        [
+            "Orion Diner & Grill",
+            700014321
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(10:16, 11:23)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "Continue current plan.",
+        "(12:25, 14:06)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(14:18, 15:43)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:31, 22:21)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 20:34)",
+        [
+            "CitiBike Station",
+            700007611
+        ]
+    ],
+    [
+        "Stay at Orion Diner & Grill.",
+        "(23:39, 23:59)",
+        [
+            "Orion Diner & Grill",
+            700014321
+        ]
+    ]
+]

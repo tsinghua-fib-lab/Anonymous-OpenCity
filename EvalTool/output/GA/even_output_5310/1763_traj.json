@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Pita Grill",
+            700011530
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:02)",
+        [
+            "",
+            700030128
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 20:59)",
+        [
+            "Daniello's",
+            700014652
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(21:21, 23:05)",
+        [
+            "The Pita Grill",
+            700011530
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(23:18, 23:59)",
+        [
+            "The Pita Grill",
+            700011530
+        ]
+    ]
+]

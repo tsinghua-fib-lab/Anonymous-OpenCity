@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005636
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:30)",
+        [
+            "",
+            700005638
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(12:40, 13:34)",
+        [
+            "",
+            700005636
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(14:23, 16:10)",
+        [
+            "New Learning Schools",
+            700000233
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:39, 20:45)",
+        [
+            "",
+            700010265
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:59, 22:18)",
+        [
+            "Bethel African Methodist Episcopal Church",
+            700000208
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "Bethel African Methodist Episcopal Church",
+            700000208
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:08)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ],
+    [
+        "Enjoy your coffee at Joe Coffee Company.",
+        "(13:36, 15:26)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ],
+    [
+        "3:00 PM - 5:00 PM: Meet up with friends for an afternoon game (like basketball or tennis) or a leisurely stroll.",
+        "(16:03, 17:40)",
+        [
+            "",
+            700003092
+        ]
+    ],
+    [
+        "Meet up with friends for an afternoon game.",
+        "(17:54, 18:52)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ],
+    [
+        "Stay at Sutton Cafe Restaurant.",
+        "(19:34, 20:32)",
+        [
+            "FIKA 9th Avenue",
+            700008331
+        ]
+    ],
+    [
+        "Visit Citizens of Chelsea.",
+        "(20:48, 22:04)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ],
+    [
+        "Stay at ChargePoint.",
+        "(22:10, 23:37)",
+        [
+            "CityMD",
+            700020713
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "Famous Original Ray's Pizza",
+            700004404
+        ]
+    ]
+]

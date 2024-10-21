@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "House of Nanking",
+            700004766
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:42)",
+        [
+            "Great Saigon",
+            700003977
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:49, 12:58)",
+        [
+            "Great Saigon",
+            700003977
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 18:29)",
+        [
+            "Cafe Zoetrope",
+            700001683
+        ]
+    ],
+    [
+        "Prepare a Dinner",
+        "(18:29, 20:07)",
+        [
+            "Great Saigon",
+            700003977
+        ]
+    ],
+    [
+        "Stay at House of Nanking",
+        "(20:35, 22:02)",
+        [
+            "Great Saigon",
+            700003977
+        ]
+    ],
+    [
+        "Stay at House of Nanking",
+        "(22:39, 23:59)",
+        [
+            "House of Xian Dumpling",
+            700003978
+        ]
+    ]
+]

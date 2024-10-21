@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "Go for a walk or engage in a sports activity",
+        "(09:00, 10:23)",
+        [
+            "",
+            700059877
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:57, 14:01)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 17:36)",
+        [
+            "",
+            700017168
+        ]
+    ],
+    [
+        "Relax with leisure activities",
+        "(19:54, 22:04)",
+        [
+            "",
+            700059883
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "Go to St Olave's Estate",
+        "(23:58, 23:59)",
+        [
+            "White Grounds Skatepark",
+            700031454
+        ]
+    ]
+]

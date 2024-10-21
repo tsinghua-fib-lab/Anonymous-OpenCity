@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030406
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(09:00, 09:55)",
+        [
+            "The Bean",
+            700009735
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(09:55, 11:01)",
+        [
+            "The Bean",
+            700009735
+        ]
+    ],
+    [
+        "Lunch and Catching Up with Friends",
+        "(11:18, 12:43)",
+        [
+            "The Bean",
+            700009735
+        ]
+    ],
+    [
+        "Afternoon Leisure",
+        "(13:36, 16:00)",
+        [
+            "The Bean",
+            700009735
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:26, 21:26)",
+        [
+            "Grace Church School",
+            700009206
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:26, 20:41)",
+        [
+            "Amsterdam Billiards & Bar",
+            700021772
+        ]
+    ],
+    [
+        "Wind Down",
+        "(23:28, 23:59)",
+        [
+            "The Bean",
+            700009735
+        ]
+    ]
+]

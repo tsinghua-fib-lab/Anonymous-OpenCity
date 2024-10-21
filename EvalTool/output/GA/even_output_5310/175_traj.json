@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006037
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:25)",
+        [
+            "",
+            700002039
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:36, 13:52)",
+        [
+            "",
+            700001045
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:49, 16:52)",
+        [
+            "Citi Bike - 1st Avenue & East 68th Street",
+            700009343
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:07, 21:38)",
+        [
+            "TD Bank",
+            700006033
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:26, 23:59)",
+        [
+            "Citi Bike - 1st Avenue & East 68th Street",
+            700009343
+        ]
+    ]
+]

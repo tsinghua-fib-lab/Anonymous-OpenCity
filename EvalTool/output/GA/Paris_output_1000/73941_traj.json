@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bistrot Flonflon",
+            700013812
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:48)",
+        [
+            "Le Crystal",
+            700061100
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:23, 21:17)",
+        [
+            "",
+            700000479
+        ]
+    ],
+    [
+        "Relaxing Evening",
+        "(18:54, 20:05)",
+        [
+            "Bistrot Flonflon",
+            700013812
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 23:32)",
+        [
+            "Alliance Vision",
+            700058129
+        ]
+    ]
+]

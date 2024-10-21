@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Grainne Cafe",
+            700023155
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:15)",
+        [
+            "",
+            700003132
+        ]
+    ],
+    [
+        "Leisure Activities (TV/Movies)",
+        "(13:04, 14:09)",
+        [
+            "",
+            700000737
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 17:23)",
+        [
+            "",
+            700002757
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 21:24)",
+        [
+            "Citi Bike - 9th Avenue & West 22nd Street",
+            700007945
+        ]
+    ],
+    [
+        "Next activity based on previous plan",
+        "(20:13, 21:52)",
+        [
+            "Dil e Punjab Deli",
+            700004409
+        ]
+    ],
+    [
+        "Go to Slatterlys Midtown Pub to relax.",
+        "(21:58, 23:59)",
+        [
+            "Bocca di Bacco",
+            700008720
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:50, 23:59)",
+        [
+            "Omai",
+            700004410
+        ]
+    ]
+]

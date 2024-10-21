@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700054799
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:28)",
+        [
+            "Fuxia",
+            700006948
+        ]
+    ],
+    [
+        "Next activity after outdoor activity.",
+        "(12:29, 14:06)",
+        [
+            "Fuxia",
+            700006948
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(14:45, 16:36)",
+        [
+            "Fuxia",
+            700006948
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:31, 18:55)",
+        [
+            "Fuxia",
+            700006948
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 22:19)",
+        [
+            "",
+            700062657
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001383
+        ]
+    ],
+    [
+        "Next activity after morning routine.",
+        "(09:00, 10:24)",
+        [
+            "McDonald's",
+            700009097
+        ]
+    ],
+    [
+        "Leisure Reading or Skill Development",
+        "(10:48, 13:00)",
+        [
+            "McDonald's",
+            700009097
+        ]
+    ],
+    [
+        "Leisure Reading or Skill Development",
+        "(13:58, 15:20)",
+        [
+            "Saffron",
+            700022929
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:38, 18:35)",
+        [
+            "",
+            700002507
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:56, 23:52)",
+        [
+            "Don Ceviche",
+            700022924
+        ]
+    ]
+]

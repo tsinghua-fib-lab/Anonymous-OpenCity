@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Jin Mei Dumpling",
+            700021607
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 10:59)",
+        [
+            "Jin Mei Dumpling",
+            700021607
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:09, 14:54)",
+        [
+            "",
+            700011017
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:08, 16:46)",
+        [
+            "",
+            700025132
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:48, 18:55)",
+        [
+            "Dim Sum Go Go",
+            700004662
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:41, 21:11)",
+        [
+            "",
+            700025138
+        ]
+    ],
+    [
+        "Next go to Dim Sum Go Go for a meal.",
+        "(23:12, 23:59)",
+        [
+            "Dim Sum Go Go",
+            700004662
+        ]
+    ]
+]

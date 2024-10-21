@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(10:00, 11:28)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(12:16, 13:38)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:02, 16:25)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:23, 22:35)",
+        [
+            "",
+            700011092
+        ]
+    ],
+    [
+        "Next activity after leisure time",
+        "(23:58, 23:59)",
+        [
+            "EatFan",
+            700041229
+        ]
+    ]
+]

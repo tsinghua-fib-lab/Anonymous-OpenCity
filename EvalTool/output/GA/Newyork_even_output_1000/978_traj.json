@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Marathon Coffee",
+            700039312
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:45)",
+        [
+            "Brooklyn Pizza Masters",
+            700030625
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:14, 14:44)",
+        [
+            "Biscuits and Bath",
+            700030623
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:33, 18:05)",
+        [
+            "Sushi Ginza",
+            700006518
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:14, 21:30)",
+        [
+            "",
+            700010703
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(21:15, 22:52)",
+        [
+            "Sushi Ginza",
+            700006518
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "Tramway Diner",
+            700040592
+        ]
+    ]
+]

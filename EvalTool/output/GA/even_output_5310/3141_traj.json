@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Public School M188 The Island School",
+            700000020
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:21)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ],
+    [
+        "Personal Leisure Time",
+        "(15:02, 17:21)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ],
+    [
+        "Personal Leisure Time",
+        "(18:04, 20:04)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:40, 20:55)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:17, 22:56)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ],
+    [
+        "Stay at Dental Place.",
+        "(23:30, 23:59)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ]
+]

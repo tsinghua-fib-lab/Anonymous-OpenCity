@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Binary Cafe",
+            700009121
+        ]
+    ],
+    [
+        "Leisure Reading/TV",
+        "(10:00, 12:02)",
+        [
+            "Binary Cafe",
+            700009121
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:36, 17:36)",
+        [
+            "Binary Cafe",
+            700009121
+        ]
+    ],
+    [
+        "Next arrangement: Leisure Reading/TV",
+        "(13:48, 15:00)",
+        [
+            "Trebbiano",
+            700009122
+        ]
+    ],
+    [
+        "Next arrangement: Leisure Reading/TV",
+        "(15:47, 16:56)",
+        [
+            "Trebbiano",
+            700009122
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(17:29, 18:40)",
+        [
+            "SASH Vets",
+            700020614
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:48, 21:35)",
+        [
+            "",
+            700015951
+        ]
+    ]
+]

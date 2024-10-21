@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tavern Kyclades",
+            700017084
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:45)",
+        [
+            "Empanada Mama",
+            700029819
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:36, 15:46)",
+        [
+            "CVS Pharmacy",
+            700004181
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(19:31, 21:51)",
+        [
+            "1 Av & E 14 St",
+            700011090
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(22:49, 23:59)",
+        [
+            "1 Av & E 14 St",
+            700011090
+        ]
+    ]
+]

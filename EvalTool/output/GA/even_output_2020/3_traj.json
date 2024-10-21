@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014181
+        ]
+    ],
+    [
+        "Wake Up and Relax",
+        "(10:00, 11:54)",
+        [
+            "Rainbow market",
+            700000859
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:14, 14:19)",
+        [
+            "Vico",
+            700008839
+        ]
+    ],
+    [
+        "Visit a Cultural Venue",
+        "(14:27, 16:55)",
+        [
+            "Walgreens",
+            700013559
+        ]
+    ],
+    [
+        "5:00 PM - 6:00 PM Grocery Shopping",
+        "(17:10, 18:17)",
+        [
+            "Oz Pizza",
+            700001916
+        ]
+    ],
+    [
+        "5:00 PM - 6:00 PM Grocery Shopping",
+        "(18:22, 19:34)",
+        [
+            "Oz Pizza",
+            700001916
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:52, 21:03)",
+        [
+            "Oz Pizza",
+            700001916
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(21:43, 23:17)",
+        [
+            "Oz Pizza",
+            700001916
+        ]
+    ],
+    [
+        "Stay at Walgreens",
+        "(23:36, 23:59)",
+        [
+            "Oz Pizza",
+            700001916
+        ]
+    ]
+]

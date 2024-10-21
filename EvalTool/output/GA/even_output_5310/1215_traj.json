@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "",
+            700002297
+        ]
+    ],
+    [
+        "go to this place",
+        "(08:00, 12:57)",
+        [
+            "CrossFit East River",
+            700018155
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(11:54, 14:02)",
+        [
+            "CrossFit East River",
+            700018155
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(15:03, 17:01)",
+        [
+            "CrossFit East River",
+            700018155
+        ]
+    ],
+    [
+        "Dinner preparation & family time",
+        "(17:19, 18:57)",
+        [
+            "CrossFit East River",
+            700018155
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:14, 20:50)",
+        [
+            "CrossFit East River",
+            700018155
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:28, 23:05)",
+        [
+            "CrossFit East River",
+            700018155
+        ]
+    ],
+    [
+        "Go to Evening Wind Down",
+        "(23:08, 23:59)",
+        [
+            "CrossFit East River",
+            700018155
+        ]
+    ]
+]

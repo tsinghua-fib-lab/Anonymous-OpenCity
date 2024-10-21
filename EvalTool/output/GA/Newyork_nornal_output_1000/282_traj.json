@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002402
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(09:00, 10:00)",
+        [
+            "",
+            700002402
+        ]
+    ],
+    [
+        "Next activity after morning walk",
+        "(10:11, 11:33)",
+        [
+            "Chase",
+            700011165
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(12:28, 14:07)",
+        [
+            "Chase",
+            700011165
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(14:22, 15:53)",
+        [
+            "Citi Bike - East 23rd Street & 1st Avenue",
+            700008036
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 19:26)",
+        [
+            "Möge Tee",
+            700003954
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:55, 23:59)",
+        [
+            "",
+            700022508
+        ]
+    ]
+]

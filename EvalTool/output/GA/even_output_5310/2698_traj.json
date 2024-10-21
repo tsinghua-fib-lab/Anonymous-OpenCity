@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Taco Bandito",
+            700004393
+        ]
+    ],
+    [
+        "Go for a walk or light exercise from 11:00 AM to 12:00 PM",
+        "(10:00, 11:02)",
+        [
+            "",
+            700019877
+        ]
+    ],
+    [
+        "Go for a walk or light exercise from 11:00 AM to 12:00 PM",
+        "(12:03, 13:13)",
+        [
+            "Taco Bandito",
+            700004393
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 14:34)",
+        [
+            "",
+            700020532
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:32, 23:59)",
+        [
+            "Citi Bike - West 26th Street & 8th Avenue",
+            700008213
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "",
+            700020532
+        ]
+    ]
+]

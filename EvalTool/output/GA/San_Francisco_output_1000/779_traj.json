@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010136
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:39)",
+        [
+            "Mary Lane Infant & Toddler Center",
+            700001411
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(14:35, 16:03)",
+        [
+            "Bay Wheels",
+            700010447
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(16:50, 17:54)",
+        [
+            "Mary Lane Infant & Toddler Center",
+            700001411
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:46, 19:50)",
+        [
+            "Wells Fargo",
+            700000855
+        ]
+    ],
+    [
+        "Stay at Azucar Lounge",
+        "(20:37, 22:27)",
+        [
+            "Beit Rima",
+            700001264
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:46, 23:59)",
+        [
+            "Little Ark",
+            700001630
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Duane Reade",
+            700030439
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:54)",
+        [
+            "Go Noodle",
+            700039313
+        ]
+    ],
+    [
+        "Afternoon Leisure/Errands",
+        "(12:52, 15:19)",
+        [
+            "Sushi Ginza",
+            700006518
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:12, 20:50)",
+        [
+            "",
+            700014479
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:51, 23:47)",
+        [
+            "Sutton Bar Room",
+            700011531
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:16, 23:59)",
+        [
+            "NYC Discount Pharmacy",
+            700030624
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ]
+]

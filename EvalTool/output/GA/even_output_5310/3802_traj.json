@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Slice & Co Pizza",
+            700014355
+        ]
+    ],
+    [
+        "Take a Morning Walk or Attend a Yoga Class",
+        "(09:00, 10:34)",
+        [
+            "Cafe Water",
+            700010935
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 12:57)",
+        [
+            "",
+            700020039
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:53, 18:11)",
+        [
+            "",
+            700020039
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(19:05, 20:33)",
+        [
+            "Slice & Co Pizza",
+            700014355
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 23:59)",
+        [
+            "Five Guys",
+            700007439
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Next activity based on the current plan.",
+        "(10:00, 11:51)",
+        [
+            "",
+            700001228
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:37, 17:55)",
+        [
+            "Bury Place",
+            700014755
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 15:49)",
+        [
+            "Happy Lamb Hot Pot",
+            700038811
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series on streaming platforms for some entertainment.",
+        "(18:57, 20:05)",
+        [
+            "Happy Lamb Hot Pot",
+            700038811
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:32, 23:59)",
+        [
+            "",
+            700006547
+        ]
+    ]
+]

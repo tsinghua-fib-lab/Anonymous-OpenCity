@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dish Restaurant",
+            700018521
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:25)",
+        [
+            "",
+            700020028
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:13, 19:26)",
+        [
+            "",
+            700031458
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(17:08, 18:24)",
+        [
+            "Dish Restaurant",
+            700018521
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(19:25, 21:52)",
+        [
+            "Dish Restaurant",
+            700018521
+        ]
+    ],
+    [
+        "Visit el coco for food or drinks",
+        "(22:29, 23:59)",
+        [
+            "el coco",
+            700018522
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(23:55, 23:59)",
+        [
+            "Dish Restaurant",
+            700018521
+        ]
+    ]
+]

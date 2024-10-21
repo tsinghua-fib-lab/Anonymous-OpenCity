@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Udon West",
+            700005185
+        ]
+    ],
+    [
+        "Go for a morning walk",
+        "(10:00, 11:03)",
+        [
+            "Udon West",
+            700005185
+        ]
+    ],
+    [
+        "Spend time on a hobby or personal project",
+        "(11:24, 13:00)",
+        [
+            "Udon West",
+            700005185
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:27, 15:17)",
+        [
+            "Aretsky's Patroon",
+            700007332
+        ]
+    ],
+    [
+        "Dinner and relax",
+        "(18:03, 19:52)",
+        [
+            "Udon West",
+            700005185
+        ]
+    ],
+    [
+        "Dinner and relax",
+        "(20:46, 22:10)",
+        [
+            "Gregory's cafe",
+            700015241
+        ]
+    ],
+    [
+        "Dinner and relax",
+        "(22:43, 23:55)",
+        [
+            "BRICK",
+            700020319
+        ]
+    ],
+    [
+        "Return to Txikito for some late food.",
+        "(23:50, 23:59)",
+        [
+            "",
+            700037649
+        ]
+    ]
+]

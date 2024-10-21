@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike",
+            700008129
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(09:00, 10:02)",
+        [
+            "Little Flower Playground",
+            700000416
+        ]
+    ],
+    [
+        "Head to Little Flower Playground for further enjoyment.",
+        "(10:51, 12:03)",
+        [
+            "Little Flower Playground",
+            700000416
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(12:56, 13:59)",
+        [
+            "Little Flower Playground",
+            700000416
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:19, 18:18)",
+        [
+            "Madison Rx Pharmacy",
+            700018398
+        ]
+    ],
+    [
+        "Visit a neighbor for quality time.",
+        "(18:46, 20:05)",
+        [
+            "Citi Bike",
+            700008129
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:11, 23:59)",
+        [
+            "Dunkin'",
+            700018397
+        ]
+    ]
+]

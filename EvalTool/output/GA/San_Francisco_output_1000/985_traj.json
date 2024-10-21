@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010930
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:08)",
+        [
+            "My Father’s Kitchen",
+            700004903
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(12:59, 14:00)",
+        [
+            "Emmita's Cafe",
+            700010093
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 18:40)",
+        [
+            "Round Medical Supply and Uniforms",
+            700005182
+        ]
+    ],
+    [
+        "Watch TV or relax before bed",
+        "(20:35, 22:09)",
+        [
+            "Urgent Care",
+            700003668
+        ]
+    ],
+    [
+        "Next activity after relaxing day",
+        "(22:24, 23:48)",
+        [
+            "Urgent Care",
+            700003668
+        ]
+    ],
+    [
+        "Next activity after relaxing day",
+        "(23:46, 23:59)",
+        [
+            "Urgent Care",
+            700003668
+        ]
+    ]
+]

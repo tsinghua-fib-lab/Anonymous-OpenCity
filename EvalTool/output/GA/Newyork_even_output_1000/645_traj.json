@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "NYPD 7 PCT",
+            700004361
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:09)",
+        [
+            "",
+            700032004
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:30, 17:47)",
+        [
+            "FDNY Engine 15/Ladder 18/Battalion 4",
+            700005440
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 20:03)",
+        [
+            "",
+            700033275
+        ]
+    ],
+    [
+        "Stay at NYPD 7 PCT after dinner.",
+        "(21:23, 23:18)",
+        [
+            "NYPD 7 PCT",
+            700004361
+        ]
+    ],
+    [
+        "Stay at A. 1. PIZZA SHOP",
+        "(23:17, 23:59)",
+        [
+            "FDNY Engine 15/Ladder 18/Battalion 4",
+            700005440
+        ]
+    ]
+]

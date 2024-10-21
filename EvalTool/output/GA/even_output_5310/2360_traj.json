@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Manhattan Bridges High School",
+            700000286
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(09:00, 10:18)",
+        [
+            "Manhattan Bridges High School",
+            700000286
+        ]
+    ],
+    [
+        "Relax at home or read a book.",
+        "(10:56, 12:48)",
+        [
+            "Kossar's Bagels & Bialys",
+            700006689
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:30, 17:27)",
+        [
+            "",
+            700025758
+        ]
+    ],
+    [
+        "Return home and unwind by watching a movie.",
+        "(19:09, 20:41)",
+        [
+            "Manhattan Bridges High School",
+            700000286
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:35, 23:59)",
+        [
+            "Manhattan Bridges High School",
+            700000286
+        ]
+    ]
+]

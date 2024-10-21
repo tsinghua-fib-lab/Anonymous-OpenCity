@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:33)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 17:39)",
+        [
+            "Firecracker Wings",
+            700023829
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:20, 23:27)",
+        [
+            "",
+            700011174
+        ]
+    ],
+    [
+        "Stay at New York Comedy Club",
+        "(23:36, 23:59)",
+        [
+            "Firecracker Wings",
+            700023829
+        ]
+    ]
+]

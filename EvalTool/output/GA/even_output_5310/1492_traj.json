@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Blank Street Coffee",
+            700008334
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:23)",
+        [
+            "Dental Office",
+            700006337
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:45, 13:05)",
+        [
+            "Dental Office",
+            700006337
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:41, 15:19)",
+        [
+            "Dental Office",
+            700006337
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:58, 18:06)",
+        [
+            "",
+            700002043
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(19:36, 21:16)",
+        [
+            "",
+            700002043
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(21:55, 23:10)",
+        [
+            "Dental Office",
+            700006337
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "",
+            700008297
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Spend some time reading or catching up on the latest news/articles",
+        "(10:00, 11:04)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Continue reading or catch up on the latest news/articles.",
+        "(11:46, 13:04)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Continue reading or catch up on the latest news/articles",
+        "(13:30, 14:51)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 18:52)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "Stay at New York Comedy Club and enjoy the entertainment.",
+        "(17:44, 18:53)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 21:01)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Stay at Sunflower Cafe",
+        "(23:49, 23:59)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ]
+]

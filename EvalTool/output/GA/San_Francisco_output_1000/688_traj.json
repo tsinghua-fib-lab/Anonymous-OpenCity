@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Four Barrel Coffee",
+            700000618
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:23)",
+        [
+            "Picaro",
+            700003396
+        ]
+    ],
+    [
+        "Reading or catching up on a favorite podcast",
+        "(14:02, 16:09)",
+        [
+            "Four Barrel Coffee",
+            700000618
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:14, 20:00)",
+        [
+            "",
+            700000669
+        ]
+    ],
+    [
+        "Reading or catching up on a favorite podcast",
+        "(20:41, 22:19)",
+        [
+            "Bay Wheels",
+            700009623
+        ]
+    ],
+    [
+        "Stay at Your Home and wind down for the day.",
+        "(22:56, 23:59)",
+        [
+            "v16 Sushi Lounge",
+            700000718
+        ]
+    ]
+]

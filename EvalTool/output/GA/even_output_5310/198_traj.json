@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Padoca Bakery",
+            700032490
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(09:00, 09:58)",
+        [
+            "Padoca Bakery",
+            700032490
+        ]
+    ],
+    [
+        "Catch up on chores and errands",
+        "(10:13, 11:42)",
+        [
+            "Padoca Bakery",
+            700032490
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:46, 16:36)",
+        [
+            "",
+            700014655
+        ]
+    ],
+    [
+        "Watch a movie or TV show",
+        "(16:01, 18:10)",
+        [
+            "Padoca Bakery",
+            700032490
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 23:46)",
+        [
+            "Chipotle",
+            700017950
+        ]
+    ]
+]

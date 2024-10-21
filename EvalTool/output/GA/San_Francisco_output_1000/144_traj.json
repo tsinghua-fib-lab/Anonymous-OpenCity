@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Federal Building San Francisco",
+            700002349
+        ]
+    ],
+    [
+        "Brunch (11:30 AM)",
+        "(10:00, 11:28)",
+        [
+            "Federal Building San Francisco",
+            700002349
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(11:53, 14:00)",
+        [
+            "Federal Building San Francisco",
+            700002349
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:59, 18:27)",
+        [
+            "",
+            700010282
+        ]
+    ],
+    [
+        "Dinner Preparation (7:00 PM)",
+        "(18:48, 20:09)",
+        [
+            "Federal Building San Francisco",
+            700002349
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(20:26, 21:51)",
+        [
+            "Federal Building San Francisco",
+            700002349
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(22:03, 23:40)",
+        [
+            "Federal Building San Francisco",
+            700002349
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(23:40, 23:59)",
+        [
+            "Federal Building San Francisco",
+            700002349
+        ]
+    ]
+]

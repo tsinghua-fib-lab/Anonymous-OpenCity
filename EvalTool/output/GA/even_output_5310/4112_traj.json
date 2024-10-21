@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kati",
+            700007891
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:49)",
+        [
+            "Chick-N-Smash",
+            700005925
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:06, 17:59)",
+        [
+            "Panda Express",
+            700005924
+        ]
+    ],
+    [
+        "Wind down the day with some light reading or meditation.",
+        "(20:15, 21:51)",
+        [
+            "Empanada Mama",
+            700029819
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:59)",
+        [
+            "Kati",
+            700007891
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "O'Hanlons Bar",
+            700016457
+        ]
+    ]
+]

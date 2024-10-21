@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Broadway & West 58th Street",
+            700007980
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:34)",
+        [
+            "Robert",
+            700037593
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 16:02)",
+        [
+            "",
+            700026450
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 18:32)",
+        [
+            "",
+            700006014
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:23, 21:55)",
+        [
+            "Citi Bike - Broadway & West 58th Street",
+            700007980
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(22:42, 23:59)",
+        [
+            "Citi Bike - Broadway & West 58th Street",
+            700007980
+        ]
+    ]
+]

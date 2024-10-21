@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010154
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:26)",
+        [
+            "Lower West Side Children's Center",
+            700000197
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:01, 16:14)",
+        [
+            "The Lantern",
+            700011971
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends/Family",
+        "(15:27, 17:51)",
+        [
+            "Le Poisson Rouge",
+            700004933
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:00, 19:24)",
+        [
+            "Le Poisson Rouge",
+            700004933
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:41, 21:51)",
+        [
+            "The Lantern",
+            700011971
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(22:32, 23:59)",
+        [
+            "The Red Lion",
+            700008490
+        ]
+    ]
+]

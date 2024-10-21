@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(10:00, 12:03)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 14:11)",
+        [
+            "",
+            700004920
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(16:46, 18:07)",
+        [
+            "McDonald's",
+            700023919
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:10, 20:22)",
+        [
+            "",
+            700004897
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:05, 23:59)",
+        [
+            "",
+            700004916
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(23:54, 23:59)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ]
+]

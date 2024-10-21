@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Doughnut Plant",
+            700009549
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:34)",
+        [
+            "",
+            700020110
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:23, 16:36)",
+        [
+            "",
+            700020108
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:05, 21:44)",
+        [
+            "Trailer Park Lounge",
+            700040174
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:43, 22:53)",
+        [
+            "Doughnut Plant",
+            700009549
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:55, 23:59)",
+        [
+            "Doughnut Plant",
+            700009549
+        ]
+    ]
+]

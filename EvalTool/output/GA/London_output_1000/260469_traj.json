@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:03)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:44, 17:31)",
+        [
+            "",
+            700053207
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:42, 19:02)",
+        [
+            "Phoenix Heights Community Centre",
+            700055146
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(22:00, 23:20)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(23:42, 23:59)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ]
+]

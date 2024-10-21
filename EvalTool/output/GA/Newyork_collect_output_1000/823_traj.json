@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:13)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:21, 15:36)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "7:00 PM - Dinner",
+        "(18:13, 19:55)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:27, 23:59)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "stay at Sundays Well",
+        "(22:20, 23:45)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ],
+    [
+        "Go to Diner 24",
+        "(23:30, 23:59)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700022947
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:36)",
+        [
+            "Fitness First",
+            700012397
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:25, 13:21)",
+        [
+            "Fitness First",
+            700012397
+        ]
+    ],
+    [
+        "Leisure Activity (Hobby Time)",
+        "(14:08, 15:55)",
+        [
+            "Fitness First",
+            700012397
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:25, 20:19)",
+        [
+            "Guzman y Gomez",
+            700023016
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(20:50, 22:20)",
+        [
+            "Guzman y Gomez",
+            700023016
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:13, 23:52)",
+        [
+            "Guzman y Gomez",
+            700023016
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:49, 23:59)",
+        [
+            "",
+            700022944
+        ]
+    ]
+]

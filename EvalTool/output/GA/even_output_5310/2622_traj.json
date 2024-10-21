@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Urbanspace Vanderbilt",
+            700008848
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:50)",
+        [
+            "Roberta’s Pizza",
+            700006478
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:27, 14:00)",
+        [
+            "Roberta’s Pizza",
+            700006478
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:01, 15:59)",
+        [
+            "Starbucks",
+            700003511
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:54, 21:55)",
+        [
+            "Urbanspace Vanderbilt",
+            700008848
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(22:32, 23:58)",
+        [
+            "Starbucks",
+            700003511
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Peabody Hammersmith Estate",
+            700011400
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(10:00, 12:09)",
+        [
+            "Peabody Hammersmith Estate",
+            700011400
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 16:31)",
+        [
+            "Mezza&Grill",
+            700052307
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:06, 20:58)",
+        [
+            "",
+            700065510
+        ]
+    ],
+    [
+        "Relax and watch TV or play games",
+        "(21:56, 22:49)",
+        [
+            "Peabody Hammersmith Estate",
+            700011400
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Old Suffolk Punch",
+            700008225
+        ]
+    ]
+]

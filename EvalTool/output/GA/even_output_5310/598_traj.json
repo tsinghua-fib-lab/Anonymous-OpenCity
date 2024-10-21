@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020042
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:24)",
+        [
+            "Pinkberry",
+            700018157
+        ]
+    ],
+    [
+        "Watch a movie or TV show",
+        "(16:03, 17:28)",
+        [
+            "Minca",
+            700030567
+        ]
+    ],
+    [
+        "Prepare an early dinner",
+        "(18:22, 19:48)",
+        [
+            "Minca",
+            700030567
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:07, 23:59)",
+        [
+            "New Amsterdam School",
+            700025304
+        ]
+    ],
+    [
+        "Stay at Your Working Place.",
+        "(23:23, 23:59)",
+        [
+            "Minca",
+            700030567
+        ]
+    ]
+]

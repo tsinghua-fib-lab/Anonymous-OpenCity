@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000048
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:27)",
+        [
+            "",
+            700012864
+        ]
+    ],
+    [
+        "Outdoor Activity / Exercise",
+        "(13:33, 15:41)",
+        [
+            "Red Poppy Art House",
+            700004394
+        ]
+    ],
+    [
+        "Outdoor Activity / Exercise",
+        "(16:11, 17:32)",
+        [
+            "",
+            700004393
+        ]
+    ],
+    [
+        "Gourmet Dinner Preparation",
+        "(18:04, 19:21)",
+        [
+            "",
+            700000048
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:04, 22:10)",
+        [
+            "Bank of America",
+            700004882
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "Beretta",
+            700001296
+        ]
+    ]
+]

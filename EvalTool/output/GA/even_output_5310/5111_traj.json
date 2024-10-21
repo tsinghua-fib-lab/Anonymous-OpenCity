@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dunkin'",
+            700005269
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:48)",
+        [
+            "Santa Barbara Deli",
+            700012363
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:08, 14:42)",
+        [
+            "Santa Barbara Deli",
+            700012363
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:48, 16:54)",
+        [
+            "Santa Barbara Deli",
+            700012363
+        ]
+    ],
+    [
+        "Leisure Reading or Gaming",
+        "(17:36, 18:59)",
+        [
+            "Santa Barbara Deli",
+            700012363
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:10, 22:25)",
+        [
+            "Public School 196",
+            700000049
+        ]
+    ]
+]

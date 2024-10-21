@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "School of Rock",
+            700035810
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:48)",
+        [
+            "Chez les Frenchies",
+            700041119
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:35, 17:33)",
+        [
+            "Gracie Square Hospital",
+            700000396
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(17:41, 19:02)",
+        [
+            "Gracie Square Hospital",
+            700000396
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:54, 21:53)",
+        [
+            "School of Rock",
+            700035810
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(22:16, 23:44)",
+        [
+            "School of Rock",
+            700035810
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "School of Rock",
+            700035810
+        ]
+    ]
+]

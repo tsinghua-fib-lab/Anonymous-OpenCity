@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Boil",
+            700018242
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:31)",
+        [
+            "The Boil",
+            700018242
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:48, 12:04)",
+        [
+            "The Boil",
+            700018242
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:37, 14:00)",
+        [
+            "The Boil",
+            700018242
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:48, 15:54)",
+        [
+            "The Boil",
+            700018242
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(16:10, 17:47)",
+        [
+            "The Boil",
+            700018242
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:30, 23:59)",
+        [
+            "Yaso Noodle Bar",
+            700018085
+        ]
+    ],
+    [
+        "Stay at The Boil",
+        "(23:29, 23:59)",
+        [
+            "Yaso Noodle Bar",
+            700018085
+        ]
+    ]
+]

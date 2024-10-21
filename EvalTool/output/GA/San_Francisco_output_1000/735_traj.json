@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Doc's Clock",
+            700004875
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:08)",
+        [
+            "Buddy",
+            700010705
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:05, 12:25)",
+        [
+            "Buddy",
+            700010705
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(14:41, 17:08)",
+        [
+            "Buddy",
+            700010705
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:30, 22:20)",
+        [
+            "Buddy",
+            700010705
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 23:59)",
+        [
+            "Mission Bar",
+            700001064
+        ]
+    ]
+]

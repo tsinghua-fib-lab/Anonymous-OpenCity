@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "chalait",
+            700006139
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:42)",
+        [
+            "Wells Fargo",
+            700004417
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(12:43, 14:12)",
+        [
+            "",
+            700001338
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(14:36, 16:05)",
+        [
+            "Wells Fargo",
+            700004417
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(16:21, 17:43)",
+        [
+            "Berlin Currywurst",
+            700015020
+        ]
+    ],
+    [
+        "Engage in a hobby or creative activity, like painting or crafting",
+        "(18:05, 20:00)",
+        [
+            "Los Mariscos",
+            700023333
+        ]
+    ],
+    [
+        "Stay at Los Mariscos",
+        "(20:51, 22:31)",
+        [
+            "Los Mariscos",
+            700023333
+        ]
+    ],
+    [
+        "Stay at Los Mariscos",
+        "(23:21, 23:59)",
+        [
+            "2nd Ave Deli",
+            700014920
+        ]
+    ]
+]

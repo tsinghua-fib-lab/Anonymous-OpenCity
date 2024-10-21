@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020022
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:02)",
+        [
+            "Donsbogam Original",
+            700006325
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:53, 12:54)",
+        [
+            "Donsbogam Original",
+            700006325
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:29, 15:03)",
+        [
+            "Donsbogam Original",
+            700006325
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:55, 17:23)",
+        [
+            "Link NYC",
+            700021669
+        ]
+    ],
+    [
+        "Stay at Donsbogam Original.",
+        "(19:49, 21:17)",
+        [
+            "Hangawi",
+            700014225
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:05, 23:14)",
+        [
+            "Take31",
+            700008826
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(23:32, 23:59)",
+        [
+            "Link NYC",
+            700021669
+        ]
+    ]
+]

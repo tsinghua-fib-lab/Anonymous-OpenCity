@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Txikito",
+            700004676
+        ]
+    ],
+    [
+        "Go for a morning walk",
+        "(10:00, 10:50)",
+        [
+            "",
+            700002197
+        ]
+    ],
+    [
+        "Spend time on a hobby or personal project",
+        "(11:24, 12:58)",
+        [
+            "Txikito",
+            700004676
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:27, 18:41)",
+        [
+            "FIKA 9th Avenue",
+            700008331
+        ]
+    ],
+    [
+        "Dinner and relax",
+        "(18:03, 19:58)",
+        [
+            "FIKA 9th Avenue",
+            700008331
+        ]
+    ],
+    [
+        "Dinner and relax",
+        "(20:46, 22:05)",
+        [
+            "Chelsea Square Restaurant",
+            700004317
+        ]
+    ],
+    [
+        "Dinner and relax",
+        "(22:43, 23:59)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ],
+    [
+        "Go to FIKA 9th Avenue for a late-night snack.",
+        "(23:50, 23:59)",
+        [
+            "FIKA 9th Avenue",
+            700008331
+        ]
+    ]
+]

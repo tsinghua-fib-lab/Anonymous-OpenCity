@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Everyman Espresso",
+            700016578
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:07)",
+        [
+            "Ichibantei",
+            700036813
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:04, 17:42)",
+        [
+            "Memory Motel",
+            700009321
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:18, 19:47)",
+        [
+            "Matto Espresso",
+            700028482
+        ]
+    ],
+    [
+        "Wind Down and Reflect",
+        "(20:18, 21:53)",
+        [
+            "Matto Espresso",
+            700028482
+        ]
+    ],
+    [
+        "Stay at Casa Adela",
+        "(21:59, 23:32)",
+        [
+            "",
+            700010346
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:43, 23:59)",
+        [
+            "",
+            700001160
+        ]
+    ]
+]

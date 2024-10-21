@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700040624
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:09)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:01, 12:41)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:57, 14:08)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:30, 15:55)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:45, 19:50)",
+        [
+            "Made in New York Pizza",
+            700027989
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(20:09, 21:48)",
+        [
+            "",
+            700001049
+        ]
+    ],
+    [
+        "Stay at Bleecker Playground",
+        "(21:48, 23:46)",
+        [
+            "Cafe Kitsune",
+            700034623
+        ]
+    ],
+    [
+        "Stay at Bleecker Playground",
+        "(23:43, 23:59)",
+        [
+            "",
+            700002943
+        ]
+    ]
+]

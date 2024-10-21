@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Madrigal",
+            700006657
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:04)",
+        [
+            "Civic Center Sauna & Hot Tub",
+            700002748
+        ]
+    ],
+    [
+        "Spend time reading a book or catching up on a hobby.",
+        "(15:27, 16:55)",
+        [
+            "The Madrigal",
+            700006657
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:06, 23:05)",
+        [
+            "Yakiniku Shodai",
+            700002747
+        ]
+    ],
+    [
+        "Stay at The Madrigal.",
+        "(19:38, 21:10)",
+        [
+            "The Madrigal",
+            700006657
+        ]
+    ],
+    [
+        "Stay at The Madrigal",
+        "(21:26, 23:20)",
+        [
+            "Yakiniku Shodai",
+            700002747
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Market Street Gyros",
+            700001605
+        ]
+    ]
+]

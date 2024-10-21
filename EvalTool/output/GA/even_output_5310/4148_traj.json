@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Century Pharmacy",
+            700017098
+        ]
+    ],
+    [
+        "Go for a walk or light exercise in a nearby park.",
+        "(10:00, 11:00)",
+        [
+            "99 cent Pizza",
+            700016814
+        ]
+    ],
+    [
+        "Go for a walk or light exercise in a nearby park.",
+        "(11:14, 12:18)",
+        [
+            "99 cent Pizza",
+            700016814
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 16:19)",
+        [
+            "Ming's Cafe",
+            700014783
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:19, 19:17)",
+        [
+            "Shun Chang Chicken Duck Super",
+            700016813
+        ]
+    ],
+    [
+        "Stay at the current place",
+        "(20:17, 21:50)",
+        [
+            "Century Pharmacy",
+            700017098
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:20, 23:59)",
+        [
+            "Wu's Wonton King",
+            700014786
+        ]
+    ]
+]

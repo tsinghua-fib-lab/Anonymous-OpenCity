@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Leisure Activity or Exercise",
+        "(10:00, 11:23)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Go to Sunflower Cafe",
+        "(11:27, 13:31)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 17:59)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:26, 20:01)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 21:16)",
+        [
+            "Street Taco",
+            700006239
+        ]
+    ],
+    [
+        "Visit Bagel Express III",
+        "(23:46, 23:59)",
+        [
+            "Little Basil",
+            700006236
+        ]
+    ]
+]

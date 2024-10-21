@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002911
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:36)",
+        [
+            "Mealz NYC",
+            700039872
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:11, 16:20)",
+        [
+            "DönerHaus",
+            700038124
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(14:33, 16:04)",
+        [
+            "Jo's Taco",
+            700038126
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:05, 17:52)",
+        [
+            "Bite",
+            700007882
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:39, 22:44)",
+        [
+            "Partea NYC",
+            700022302
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(23:38, 23:59)",
+        [
+            "CityMD",
+            700007872
+        ]
+    ]
+]

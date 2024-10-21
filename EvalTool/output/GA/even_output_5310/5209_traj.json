@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tesla Supercharger",
+            700016581
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:05)",
+        [
+            "Tesla Supercharger",
+            700016581
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:01, 12:27)",
+        [
+            "Tesla Supercharger",
+            700016581
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:57, 13:58)",
+        [
+            "Tesla Supercharger",
+            700016581
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:30, 16:09)",
+        [
+            "Tesla Supercharger",
+            700016581
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:45, 22:16)",
+        [
+            "",
+            700024248
+        ]
+    ],
+    [
+        "Visit friends or family",
+        "(20:09, 21:40)",
+        [
+            "S. Wan Cafe",
+            700019762
+        ]
+    ],
+    [
+        "Stay at Steam House",
+        "(21:48, 23:49)",
+        [
+            "Steam House",
+            700019761
+        ]
+    ],
+    [
+        "Stay at Steam House",
+        "(23:43, 23:59)",
+        [
+            "Steam House",
+            700019761
+        ]
+    ]
+]

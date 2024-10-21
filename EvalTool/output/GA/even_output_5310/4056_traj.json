@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Woori America Bank",
+            700039855
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:51)",
+        [
+            "Woori America Bank",
+            700039855
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:30, 12:52)",
+        [
+            "Woori America Bank",
+            700039855
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:54, 13:55)",
+        [
+            "Woori America Bank",
+            700039855
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:19, 16:01)",
+        [
+            "Woori America Bank",
+            700039855
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:30, 17:55)",
+        [
+            "Bonchon Chicken",
+            700004007
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:42, 20:16)",
+        [
+            "Bonchon Chicken",
+            700004007
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:10, 23:44)",
+        [
+            "Walgreens",
+            700009306
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(23:44, 23:59)",
+        [
+            "Citi Bike - East 33rd Street & 5th Avenue",
+            700008044
+        ]
+    ]
+]

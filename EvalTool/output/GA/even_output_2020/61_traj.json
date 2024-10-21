@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Joe & The Juice",
+            700005918
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:46)",
+        [
+            "Urban Remedy",
+            700012597
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:49, 13:01)",
+        [
+            "Urban Remedy",
+            700012597
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 18:15)",
+        [
+            "",
+            700012598
+        ]
+    ],
+    [
+        "Prepare a Dinner",
+        "(18:29, 19:54)",
+        [
+            "Urban Remedy",
+            700012597
+        ]
+    ],
+    [
+        "Stay at Joe & The Juice",
+        "(20:35, 21:58)",
+        [
+            "",
+            700013422
+        ]
+    ],
+    [
+        "Stay at Joe & The Juice",
+        "(22:39, 23:59)",
+        [
+            "",
+            700013429
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Medilane Drugs",
+            700007790
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:03)",
+        [
+            "Citi Bike - East 12th Street & Avenue B",
+            700010613
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(13:46, 15:21)",
+        [
+            "",
+            700001653
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(15:24, 16:55)",
+        [
+            "",
+            700002713
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:53, 19:29)",
+        [
+            "Lucky",
+            700029808
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(19:48, 20:55)",
+        [
+            "Medilane Drugs",
+            700007790
+        ]
+    ],
+    [
+        "Stay at Medilane Drugs",
+        "(22:42, 23:59)",
+        [
+            "Perk",
+            700018145
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001158
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:38)",
+        [
+            "Nuyorican Poets Cafe",
+            700030182
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:17, 13:48)",
+        [
+            "Nuyorican Poets Cafe",
+            700030182
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:43, 16:15)",
+        [
+            "Nuyorican Poets Cafe",
+            700030182
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:23, 19:18)",
+        [
+            "Cafe Cortadito",
+            700008392
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(20:25, 22:02)",
+        [
+            "Cafe Cortadito",
+            700008392
+        ]
+    ],
+    [
+        "Stay at Nuyorican Poets Cafe",
+        "(22:45, 23:58)",
+        [
+            "The Hairy Lemon",
+            700021518
+        ]
+    ]
+]

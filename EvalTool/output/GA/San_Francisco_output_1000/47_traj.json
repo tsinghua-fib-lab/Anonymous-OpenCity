@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002904
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:28)",
+        [
+            "Boba Guys",
+            700010745
+        ]
+    ],
+    [
+        "Socializing",
+        "(16:02, 17:36)",
+        [
+            "Ju-ni Sushi Bar",
+            700001552
+        ]
+    ],
+    [
+        "Socializing",
+        "(18:21, 19:51)",
+        [
+            "Ju-ni Sushi Bar",
+            700001552
+        ]
+    ],
+    [
+        "Socializing",
+        "(20:37, 22:21)",
+        [
+            "Ju-ni Sushi Bar",
+            700001552
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:40, 23:59)",
+        [
+            "Fly Bar & Restaurant",
+            700001816
+        ]
+    ]
+]

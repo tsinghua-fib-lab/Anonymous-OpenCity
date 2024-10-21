@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009609
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:31)",
+        [
+            "Piccolo Italia",
+            700001793
+        ]
+    ],
+    [
+        "Next sports/outdoor activities",
+        "(15:08, 17:16)",
+        [
+            "Piccolo Italia",
+            700001793
+        ]
+    ],
+    [
+        "Sports/Outdoor Activities",
+        "(17:32, 18:58)",
+        [
+            "",
+            700009608
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:45, 23:59)",
+        [
+            "",
+            700004957
+        ]
+    ],
+    [
+        "Next sports/outdoor activities",
+        "(23:41, 23:59)",
+        [
+            "Cafe la Rosa",
+            700010378
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002110
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:20)",
+        [
+            "",
+            700002110
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(10:38, 12:45)",
+        [
+            "A Slice of New York",
+            700017405
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:37, 15:46)",
+        [
+            "Citi Bike - West 45th Street & 8th Avenue",
+            700008226
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:27, 17:05)",
+        [
+            "A Slice of New York",
+            700017405
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(17:13, 19:04)",
+        [
+            "O'Casey's Irish Bar",
+            700006089
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:30, 21:00)",
+        [
+            "John's Pizza",
+            700010181
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 23:59)",
+        [
+            "A Slice of New York",
+            700017405
+        ]
+    ]
+]

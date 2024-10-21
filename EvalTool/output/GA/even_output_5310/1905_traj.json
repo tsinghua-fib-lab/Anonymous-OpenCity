@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700014377
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(09:00, 10:21)",
+        [
+            "Health Wise Pharmacy",
+            700016564
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(10:56, 12:16)",
+        [
+            "Health Wise Pharmacy",
+            700016564
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:27, 14:48)",
+        [
+            "Health Wise Pharmacy",
+            700016564
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:59, 16:21)",
+        [
+            "Health Wise Pharmacy",
+            700016564
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:33, 19:50)",
+        [
+            "Kobe Sushi",
+            700013982
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(22:34, 23:56)",
+        [
+            "",
+            700016565
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:45, 23:59)",
+        [
+            "",
+            700002503
+        ]
+    ]
+]

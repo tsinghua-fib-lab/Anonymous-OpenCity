@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001212
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:22)",
+        [
+            "Dunkin'",
+            700011456
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:57, 12:14)",
+        [
+            "B. Cafe",
+            700016596
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:19, 15:15)",
+        [
+            "",
+            700020616
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 18:43)",
+        [
+            "",
+            700020597
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:51, 20:29)",
+        [
+            "Value Price Pharmacy",
+            700020591
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(20:20, 22:00)",
+        [
+            "Uva Next Door",
+            700023406
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(22:44, 23:59)",
+        [
+            "Calexico",
+            700011161
+        ]
+    ]
+]

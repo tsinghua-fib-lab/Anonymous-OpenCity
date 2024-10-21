@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Santander",
+            700021666
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:45)",
+        [
+            "",
+            700021668
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 14:24)",
+        [
+            "",
+            700021668
+        ]
+    ],
+    [
+        "Social or Leisure Activities",
+        "(14:49, 16:53)",
+        [
+            "Shokudo",
+            700008373
+        ]
+    ],
+    [
+        "Social or Leisure Activities",
+        "(16:54, 18:52)",
+        [
+            "Shokudo",
+            700008373
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:18, 22:29)",
+        [
+            "One Two Thai",
+            700007488
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:09, 22:42)",
+        [
+            "2nd Ave Deli",
+            700008340
+        ]
+    ]
+]

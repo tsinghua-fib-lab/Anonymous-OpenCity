@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Laboratory Institute of Merchandising",
+            700000422
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 10:57)",
+        [
+            "Laboratory Institute of Merchandising",
+            700000422
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:01, 12:26)",
+        [
+            "Laboratory Institute of Merchandising",
+            700000422
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:57, 14:10)",
+        [
+            "Laboratory Institute of Merchandising",
+            700000422
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:30, 16:00)",
+        [
+            "Laboratory Institute of Merchandising",
+            700000422
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:45, 17:47)",
+        [
+            "Le Pain Quotidien",
+            700004194
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(20:09, 21:30)",
+        [
+            "Le Pain Quotidien",
+            700004194
+        ]
+    ],
+    [
+        "Go to visit friends or family",
+        "(21:48, 23:54)",
+        [
+            "Le Pain Quotidien",
+            700004194
+        ]
+    ],
+    [
+        "Stay at Le Pain Quotidien",
+        "(23:43, 23:59)",
+        [
+            "Le Pain Quotidien",
+            700004194
+        ]
+    ]
+]

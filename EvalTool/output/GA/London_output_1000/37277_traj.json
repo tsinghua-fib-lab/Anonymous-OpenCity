@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:50)",
+        [
+            "",
+            700045021
+        ]
+    ],
+    [
+        "Have lunch and catch up with friends or family.",
+        "(12:25, 13:51)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "Have lunch and catch up with friends or family.",
+        "(14:18, 15:52)",
+        [
+            "Little Egypt Lounge",
+            700050005
+        ]
+    ],
+    [
+        "Have lunch and catch up with friends or family",
+        "(16:15, 17:52)",
+        [
+            "Canberra Dental Practice",
+            700050019
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 23:27)",
+        [
+            "",
+            700065952
+        ]
+    ],
+    [
+        "Stay at White City Estate",
+        "(22:41, 23:59)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ]
+]

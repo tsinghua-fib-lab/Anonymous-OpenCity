@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Go for a refreshing morning walk or jog in the nearby park.",
+        "(09:00, 10:32)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:30, 15:14)",
+        [
+            "Charles Artisan Bakery",
+            700030735
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:20, 21:54)",
+        [
+            "",
+            700066591
+        ]
+    ],
+    [
+        "Go to Tamezin Club for late-night entertainment.",
+        "(20:40, 22:01)",
+        [
+            "",
+            700067002
+        ]
+    ],
+    [
+        "Stay at Tudor Rose Court for the night.",
+        "(22:57, 23:59)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "",
+            700016227
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Relax or read a book",
+        "(10:00, 11:08)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(11:55, 12:50)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(13:03, 14:13)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Continue watching sports or your favorite shows.",
+        "(15:03, 17:08)",
+        [
+            "Golden Lane Pool",
+            700015908
+        ]
+    ],
+    [
+        "Current place: Golden Lane Pool",
+        "(17:57, 19:01)",
+        [
+            "Golden Lane Pool",
+            700015908
+        ]
+    ],
+    [
+        "Leisure activities or family time.",
+        "(19:18, 20:52)",
+        [
+            "Golden Lane Pool",
+            700015908
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 23:59)",
+        [
+            "",
+            700064958
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Golden Horse Restaurant",
+            700008867
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:04)",
+        [
+            "Golden Horse Restaurant",
+            700008867
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:48, 12:26)",
+        [
+            "Ciccino",
+            700001702
+        ]
+    ],
+    [
+        "Hobby/Creative Time",
+        "(12:57, 14:05)",
+        [
+            "Ciccino",
+            700001702
+        ]
+    ],
+    [
+        "Social Time",
+        "(14:46, 16:16)",
+        [
+            "Ciccino",
+            700001702
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:52, 17:51)",
+        [
+            "CVS Pharmacy",
+            700002111
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:29, 19:49)",
+        [
+            "Inga Donut",
+            700005127
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:10, 21:18)",
+        [
+            "",
+            700008725
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:36, 23:59)",
+        [
+            "",
+            700010629
+        ]
+    ]
+]

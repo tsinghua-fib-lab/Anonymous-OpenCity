@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Palmyra Restaurant",
+            700001268
+        ]
+    ],
+    [
+        "11:00 AM - 1:00 PM",
+        "(10:00, 11:53)",
+        [
+            "Cafe Réveille",
+            700000952
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 16:26)",
+        [
+            "Hot Zushi",
+            700005303
+        ]
+    ],
+    [
+        "Stay at Palmyra Restaurant",
+        "(17:57, 19:04)",
+        [
+            "Peacock Lounge",
+            700005486
+        ]
+    ],
+    [
+        "Stay at Palmyra Restaurant",
+        "(19:16, 21:07)",
+        [
+            "Palmyra Restaurant",
+            700001268
+        ]
+    ],
+    [
+        "Stay at Palmyra Restaurant",
+        "(21:29, 22:59)",
+        [
+            "Peacock Lounge",
+            700005486
+        ]
+    ],
+    [
+        "Stay at Palmyra Restaurant",
+        "(23:38, 23:59)",
+        [
+            "Peacock Lounge",
+            700005486
+        ]
+    ]
+]

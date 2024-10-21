@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "UN Halal",
+            700008456
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:54)",
+        [
+            "",
+            700023788
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:20, 17:06)",
+        [
+            "",
+            700023784
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(20:04, 21:25)",
+        [
+            "",
+            700023784
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(22:17, 23:41)",
+        [
+            "UN Halal",
+            700008456
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(23:55, 23:59)",
+        [
+            "",
+            700023764
+        ]
+    ]
+]

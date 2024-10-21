@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Smile Cafe",
+            700017233
+        ]
+    ],
+    [
+        "Next activity",
+        "(10:00, 10:56)",
+        [
+            "Smile Cafe",
+            700017233
+        ]
+    ],
+    [
+        "Next activity after hobby time",
+        "(11:50, 13:03)",
+        [
+            "Smile Cafe",
+            700017233
+        ]
+    ],
+    [
+        "Catching up at Smile Cafe",
+        "(12:59, 14:57)",
+        [
+            "Smile Cafe",
+            700017233
+        ]
+    ],
+    [
+        "Catching up at Smile Cafe.",
+        "(14:58, 16:56)",
+        [
+            "Smile Cafe",
+            700017233
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:23, 22:25)",
+        [
+            "Wee Ones Club",
+            700015877
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:47, 23:59)",
+        [
+            "",
+            700019185
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 09:57)",
+        [
+            "Urban Meadow Cafe",
+            700031990
+        ]
+    ],
+    [
+        "Stay at Urban Meadow Cafe",
+        "(10:40, 12:04)",
+        [
+            "Black Lion Gate",
+            700010195
+        ]
+    ],
+    [
+        "Stay at Urban Meadow Cafe",
+        "(12:49, 14:01)",
+        [
+            "",
+            700022765
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(14:22, 16:17)",
+        [
+            "New Fortune Cookie",
+            700033005
+        ]
+    ],
+    [
+        "Watch some TV or movie",
+        "(16:44, 19:04)",
+        [
+            "Pret A Manger",
+            700031365
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:44, 23:59)",
+        [
+            "Pret A Manger",
+            700031365
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:17, 23:59)",
+        [
+            "Barry's",
+            700011073
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "",
+            700044117
+        ]
+    ]
+]

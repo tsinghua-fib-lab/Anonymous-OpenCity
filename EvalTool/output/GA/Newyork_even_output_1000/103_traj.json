@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "East 1st Street & 1st Avenue",
+            700025321
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:20)",
+        [
+            "Divya’s Kitchen",
+            700007340
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 16:13)",
+        [
+            "",
+            700026094
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:52, 21:14)",
+        [
+            "",
+            700025323
+        ]
+    ],
+    [
+        "grab a coffee",
+        "(21:04, 22:41)",
+        [
+            "The Lazy Llama Coffee Bar",
+            700021857
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:08, 23:59)",
+        [
+            "Divya’s Kitchen",
+            700007340
+        ]
+    ]
+]

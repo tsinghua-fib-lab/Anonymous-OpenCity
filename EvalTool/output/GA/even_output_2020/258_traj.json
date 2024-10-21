@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "SF Citadel",
+            700005585
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:52)",
+        [
+            "SF Citadel",
+            700005585
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:17, 13:18)",
+        [
+            "Fraternite Notre Dame Mary of Nazareth House",
+            700013869
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(13:39, 15:18)",
+        [
+            "Fraternite Notre Dame Mary of Nazareth House",
+            700013869
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(15:28, 16:58)",
+        [
+            "Fraternite Notre Dame Mary of Nazareth House",
+            700013869
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 22:18)",
+        [
+            "Fraternite Notre Dame Mary of Nazareth House",
+            700013869
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "",
+            700010246
+        ]
+    ]
+]

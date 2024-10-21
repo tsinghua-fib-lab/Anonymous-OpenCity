@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Manhattan Indian Flavor",
+            700006191
+        ]
+    ],
+    [
+        "next_activity",
+        "(09:00, 10:00)",
+        [
+            "Citi Bike - East 20th Street & 2nd Avenue",
+            700008033
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:52, 12:02)",
+        [
+            "Citi Bike - East 20th Street & 2nd Avenue",
+            700008033
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:44, 17:10)",
+        [
+            "",
+            700010340
+        ]
+    ],
+    [
+        "Stay and pursue hobbies/projects.",
+        "(17:14, 19:09)",
+        [
+            "Citi Bike - East 20th Street & 2nd Avenue",
+            700008033
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 21:25)",
+        [
+            "Citi Bike - East 20th Street & 2nd Avenue",
+            700008033
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:54, 23:59)",
+        [
+            "Ralph's Italian Ices",
+            700006208
+        ]
+    ]
+]

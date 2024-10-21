@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chinese Noodle Restaurant",
+            700009706
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:02)",
+        [
+            "",
+            700030189
+        ]
+    ],
+    [
+        "Leisure/Personal Projects",
+        "(14:22, 15:52)",
+        [
+            "",
+            700022692
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:37, 18:53)",
+        [
+            "",
+            700014097
+        ]
+    ],
+    [
+        "Stay at Chinese Noodle Restaurant",
+        "(22:41, 23:59)",
+        [
+            "Gourmet Express Pizza and Pasta",
+            700003178
+        ]
+    ]
+]

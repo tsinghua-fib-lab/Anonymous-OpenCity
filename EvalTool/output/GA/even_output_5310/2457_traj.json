@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Benjamin Prime",
+            700017432
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(10:00, 10:58)",
+        [
+            "Toasties",
+            700003261
+        ]
+    ],
+    [
+        "Quality Time with Family/Friends",
+        "(12:01, 13:25)",
+        [
+            "Toasties",
+            700003261
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(14:19, 16:06)",
+        [
+            "Toasties",
+            700003261
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(16:21, 17:56)",
+        [
+            "Toasties",
+            700003261
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:42, 20:16)",
+        [
+            "",
+            700002642
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:36, 23:59)",
+        [
+            "HSBC",
+            700007530
+        ]
+    ]
+]

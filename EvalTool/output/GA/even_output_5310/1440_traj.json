@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park",
+        "(10:00, 10:50)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park from 11:00 AM to 12:00 PM.",
+        "(12:06, 13:12)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park.",
+        "(13:11, 14:40)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 20:45)",
+        [
+            "",
+            700022507
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 19:16)",
+        [
+            "New China",
+            700016574
+        ]
+    ],
+    [
+        "Go to 'New China'",
+        "(23:31, 23:59)",
+        [
+            "New China",
+            700016574
+        ]
+    ]
+]

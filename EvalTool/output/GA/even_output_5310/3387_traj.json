@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Rabbit House Omakase & Sake Bar",
+            700024363
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:45)",
+        [
+            "Meow Parlour",
+            700024366
+        ]
+    ],
+    [
+        "Lunch and Relaxation",
+        "(12:44, 14:16)",
+        [
+            "The Metrograph",
+            700032414
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:47, 16:06)",
+        [
+            "The Metrograph",
+            700032414
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 22:39)",
+        [
+            "",
+            700012145
+        ]
+    ],
+    [
+        "Next activity after lunch",
+        "(21:59, 23:19)",
+        [
+            "Meow Parlour",
+            700024366
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "",
+            700001937
+        ]
+    ]
+]

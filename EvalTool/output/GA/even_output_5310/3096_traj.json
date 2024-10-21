@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700027199
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 09:56)",
+        [
+            "",
+            700019525
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:21, 16:28)",
+        [
+            "Bill's Bar & Burger",
+            700007845
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 18:19)",
+        [
+            "Death By Pizza",
+            700016026
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:54, 19:27)",
+        [
+            "Kobrick Coffee",
+            700008899
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "Gaslight Lounge",
+            700005697
+        ]
+    ]
+]

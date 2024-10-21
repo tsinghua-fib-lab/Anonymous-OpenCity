@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sushiya",
+            700012473
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:55)",
+        [
+            "Mexican Crepe & Potato",
+            700012460
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 16:33)",
+        [
+            "Gloria Jean's",
+            700012474
+        ]
+    ],
+    [
+        "Next, you will visit 'Gloria Jean's'.",
+        "(12:23, 14:09)",
+        [
+            "Pizza Hut",
+            700012470
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:23, 16:26)",
+        [
+            "Pizza Hut",
+            700012470
+        ]
+    ],
+    [
+        "Engage in a hobby (e.g., reading, gaming, or crafting)",
+        "(17:26, 18:58)",
+        [
+            "Fish 'n' Chix",
+            700012459
+        ]
+    ],
+    [
+        "Stay at Sushiya.",
+        "(19:43, 21:40)",
+        [
+            "Pizza Hut",
+            700012470
+        ]
+    ],
+    [
+        "Stay at Sushiya.",
+        "(22:01, 23:24)",
+        [
+            "Sushiya",
+            700012473
+        ]
+    ],
+    [
+        "Stay at Sushiya",
+        "(23:25, 23:59)",
+        [
+            "The Baron Cafe",
+            700012846
+        ]
+    ]
+]

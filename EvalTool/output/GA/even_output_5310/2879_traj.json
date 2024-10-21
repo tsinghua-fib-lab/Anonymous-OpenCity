@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Greats of Craft",
+            700039308
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:52)",
+        [
+            "Fiftyfourth Street Public Bath and Gymnasium",
+            700000555
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:25, 15:47)",
+        [
+            "Fiftyfourth Street Public Bath and Gymnasium",
+            700000555
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:40, 18:21)",
+        [
+            "",
+            700002848
+        ]
+    ],
+    [
+        "Stay at Nargila Grill",
+        "(22:06, 23:05)",
+        [
+            "Emack & Bolio's",
+            700039306
+        ]
+    ],
+    [
+        "Stay at HealthSource Pharmacy & Health Food Store",
+        "(23:51, 23:59)",
+        [
+            "Lenwich",
+            700024968
+        ]
+    ]
+]

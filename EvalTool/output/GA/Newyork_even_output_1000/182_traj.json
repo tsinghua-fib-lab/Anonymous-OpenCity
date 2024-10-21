@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700017722
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:40)",
+        [
+            "",
+            700017728
+        ]
+    ],
+    [
+        "Continue reading at Starbucks",
+        "(11:29, 12:35)",
+        [
+            "",
+            700017729
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:12, 16:19)",
+        [
+            "",
+            700017724
+        ]
+    ],
+    [
+        "Dinner Preparation and Evening Relaxation",
+        "(18:28, 19:59)",
+        [
+            "",
+            700017722
+        ]
+    ],
+    [
+        "You are at your Home. It's 20:33 and you can stay here more time.",
+        "(20:33, 22:31)",
+        [
+            "",
+            700017722
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "",
+            700017721
+        ]
+    ]
+]

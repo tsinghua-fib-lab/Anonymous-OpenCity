@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Barney's Gourmet Hamburgers",
+            700001752
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:27)",
+        [
+            "Noe Valley Station",
+            700000393
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:54, 16:36)",
+        [
+            "Peasant Pies",
+            700001762
+        ]
+    ],
+    [
+        "Social Time",
+        "(14:57, 16:42)",
+        [
+            "Peasant Pies",
+            700001762
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 21:59)",
+        [
+            "Noe Valley Station",
+            700000393
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "Bank of America",
+            700003207
+        ]
+    ]
+]

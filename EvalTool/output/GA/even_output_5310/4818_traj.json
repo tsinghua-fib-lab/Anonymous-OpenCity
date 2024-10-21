@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Juice Press",
+            700009303
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:04)",
+        [
+            "",
+            700002224
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:32, 14:32)",
+        [
+            "La Colombe Coffee Roasters",
+            700013272
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:02, 16:07)",
+        [
+            "",
+            700001746
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:36, 23:59)",
+        [
+            "San Carlo Osteria Piemonte",
+            700016760
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:31, 23:59)",
+        [
+            "Dominique Ansel Bakery",
+            700008550
+        ]
+    ]
+]

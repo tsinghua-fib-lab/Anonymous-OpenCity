@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Brazen Head",
+            700005651
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:39)",
+        [
+            "Belga",
+            700005577
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:14, 15:06)",
+        [
+            "SoulCycle",
+            700005581
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:16, 18:29)",
+        [
+            "",
+            700008809
+        ]
+    ],
+    [
+        "Stay at SoulCycle.",
+        "(19:11, 20:54)",
+        [
+            "SoulCycle",
+            700005581
+        ]
+    ],
+    [
+        "Next, stay at Villon.",
+        "(21:57, 23:59)",
+        [
+            "Flores",
+            700005578
+        ]
+    ],
+    [
+        "Next, go to Villon.",
+        "(23:46, 23:59)",
+        [
+            "Müesi Cafe",
+            700005580
+        ]
+    ]
+]

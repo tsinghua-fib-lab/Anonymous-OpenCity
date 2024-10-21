@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Handlery Parking",
+            700002394
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:10)",
+        [
+            "Handlery Parking",
+            700002394
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:58, 18:55)",
+        [
+            "",
+            700008679
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:19, 16:21)",
+        [
+            "",
+            700001892
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:02, 19:00)",
+        [
+            "Hertz",
+            700005558
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:29, 20:04)",
+        [
+            "Oma Sushi",
+            700008680
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:51, 23:59)",
+        [
+            "Gong Cha",
+            700008966
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:01, 23:59)",
+        [
+            "Hertz",
+            700005558
+        ]
+    ]
+]

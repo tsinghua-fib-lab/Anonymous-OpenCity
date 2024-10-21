@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:33)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "Leisure Activity or Hobbies",
+        "(13:43, 15:15)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Leisure Activity or Hobbies",
+        "(16:27, 19:10)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 23:59)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(23:19, 23:59)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ]
+]

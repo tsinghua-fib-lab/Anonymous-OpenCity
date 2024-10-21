@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Little Free Library",
+            700010492
+        ]
+    ],
+    [
+        "Have a leisurely breakfast",
+        "(09:00, 09:54)",
+        [
+            "Little Free Library",
+            700010492
+        ]
+    ],
+    [
+        "Stay at Little Free Library",
+        "(10:37, 12:09)",
+        [
+            "",
+            700003719
+        ]
+    ],
+    [
+        "Enjoy some personal reading or hobbies at home",
+        "(12:45, 14:36)",
+        [
+            "Little Free Library",
+            700010492
+        ]
+    ],
+    [
+        "Prepare an easy dinner at home",
+        "(14:31, 15:28)",
+        [
+            "Little Free Library",
+            700010492
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:22, 18:37)",
+        [
+            "",
+            700003719
+        ]
+    ],
+    [
+        "Wind down with some light reading or relaxation.",
+        "(19:24, 21:04)",
+        [
+            "",
+            700003719
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 23:59)",
+        [
+            "",
+            700003723
+        ]
+    ]
+]

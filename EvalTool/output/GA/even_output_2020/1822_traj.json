@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010156
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:46)",
+        [
+            "Sushi Sato",
+            700001046
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:10, 15:44)",
+        [
+            "Maison Danel",
+            700009687
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie.",
+        "(17:59, 19:39)",
+        [
+            "Maison Danel",
+            700009687
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie",
+        "(19:54, 20:56)",
+        [
+            "Maison Danel",
+            700009687
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie.",
+        "(21:08, 22:20)",
+        [
+            "Maison Danel",
+            700009687
+        ]
+    ],
+    [
+        "Wind down with quiet activities, such as meditation or prepping for the week ahead.",
+        "(21:53, 22:55)",
+        [
+            "Edinburgh Castle",
+            700001041
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "Irving Pizza",
+            700001039
+        ]
+    ]
+]

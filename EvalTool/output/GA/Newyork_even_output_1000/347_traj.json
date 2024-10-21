@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(09:00, 10:22)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:55, 12:01)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(11:57, 12:58)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(13:57, 15:47)",
+        [
+            "",
+            700002823
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 19:54)",
+        [
+            "Shinya Shokudou",
+            700011509
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 23:52)",
+        [
+            "Citi Bike - East 52nd Street & 2nd Avenue",
+            700008055
+        ]
+    ],
+    [
+        "Current Place: La Pecora Bianca, Stay Time: 1 hour and 1 minute",
+        "(22:39, 23:59)",
+        [
+            "Shinya Shokudou",
+            700011509
+        ]
+    ]
+]

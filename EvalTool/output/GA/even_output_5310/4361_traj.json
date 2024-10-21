@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Cooper Square Veterinary Hospital",
+            700040461
+        ]
+    ],
+    [
+        "Wake up, enjoy a leisurely breakfast, and catch up on the news or read a book.",
+        "(09:00, 10:04)",
+        [
+            "Cooper Square Veterinary Hospital",
+            700040461
+        ]
+    ],
+    [
+        "Enjoy lunch at a nice restaurant",
+        "(10:49, 12:19)",
+        [
+            "The Standard",
+            700016385
+        ]
+    ],
+    [
+        "Have lunch at a restaurant.",
+        "(12:34, 13:56)",
+        [
+            "Meet Fresh",
+            700016098
+        ]
+    ],
+    [
+        "Spend some time at a café, relaxing and possibly doing some light work or planning for the week ahead.",
+        "(14:30, 16:02)",
+        [
+            "McSorley's Old Ale House",
+            700021801
+        ]
+    ],
+    [
+        "Spend some time at a café, relaxing and possibly doing some light work or planning for the week ahead.",
+        "(16:03, 17:37)",
+        [
+            "Makinny",
+            700021802
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:08, 19:38)",
+        [
+            "Streecha Ukrainian Kitchen",
+            700008787
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "St. Mark's Comedy Club",
+            700004564
+        ]
+    ]
+]

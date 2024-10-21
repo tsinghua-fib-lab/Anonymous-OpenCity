@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Asiento",
+            700003033
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:35)",
+        [
+            "Marigold Cafe",
+            700012790
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:09, 14:49)",
+        [
+            "Dona Teres Market",
+            700006005
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 16:53)",
+        [
+            "Dona Teres Market",
+            700006005
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:35, 22:04)",
+        [
+            "Mutiny Radio.fm",
+            700010912
+        ]
+    ],
+    [
+        "Go to Asiento for drinks.",
+        "(20:49, 22:16)",
+        [
+            "Asiento",
+            700003033
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "Flour + Water",
+            700002060
+        ]
+    ]
+]

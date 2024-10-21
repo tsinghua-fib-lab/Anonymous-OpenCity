@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Roasting Plant",
+            700005694
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:51)",
+        [
+            "Village Vanguard",
+            700008891
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:26, 16:14)",
+        [
+            "",
+            700012158
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 18:52)",
+        [
+            "Zazzy's Pizza",
+            700023549
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:28, 18:12)",
+        [
+            "Fellini Coffee",
+            700031752
+        ]
+    ],
+    [
+        "Spend time relaxing at home.",
+        "(19:04, 20:42)",
+        [
+            "Roasting Plant",
+            700005694
+        ]
+    ],
+    [
+        "Go to Whole Green",
+        "(21:09, 22:35)",
+        [
+            "The Waverly Inn",
+            700008688
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "Zazzy's Pizza",
+            700023549
+        ]
+    ]
+]

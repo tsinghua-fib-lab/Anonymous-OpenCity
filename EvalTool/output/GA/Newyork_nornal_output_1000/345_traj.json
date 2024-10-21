@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030864
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:00, 11:07)",
+        [
+            "",
+            700030864
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(11:31, 13:32)",
+        [
+            "Vanilla Gorilla Cafe",
+            700040542
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(13:34, 16:04)",
+        [
+            "Vanilla Gorilla Cafe",
+            700040542
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(16:17, 18:50)",
+        [
+            "Vanilla Gorilla Cafe",
+            700040542
+        ]
+    ],
+    [
+        "Relax and Watch a Movie/TV Show",
+        "(20:06, 22:05)",
+        [
+            "Vanilla Gorilla Cafe",
+            700040542
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(23:02, 23:59)",
+        [
+            "Vanilla Gorilla Cafe",
+            700040542
+        ]
+    ]
+]

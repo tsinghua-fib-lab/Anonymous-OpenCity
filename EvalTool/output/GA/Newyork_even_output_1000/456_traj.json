@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cherokee Finance Station Post Office",
+            700006571
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:17)",
+        [
+            "Sushi of Gari",
+            700007374
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:20, 17:34)",
+        [
+            "",
+            700002291
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(16:26, 17:52)",
+        [
+            "Sushi of Gari",
+            700007374
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:15, 20:11)",
+        [
+            "Cherokee Finance Station Post Office",
+            700006571
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:27, 23:59)",
+        [
+            "Jupioca",
+            700033869
+        ]
+    ]
+]

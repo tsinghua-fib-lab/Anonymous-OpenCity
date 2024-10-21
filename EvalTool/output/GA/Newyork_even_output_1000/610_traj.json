@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cobble & Co",
+            700006664
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:43)",
+        [
+            "Hit the Deck Boxing Gym",
+            700038285
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 18:04)",
+        [
+            "",
+            700027245
+        ]
+    ],
+    [
+        "Prepare Dinner and Cook",
+        "(18:28, 20:06)",
+        [
+            "Cobble & Co",
+            700006664
+        ]
+    ],
+    [
+        "Prepare Dinner and Cook",
+        "(20:38, 22:04)",
+        [
+            "Cobble & Co",
+            700006664
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:05, 23:39)",
+        [
+            "",
+            700027226
+        ]
+    ],
+    [
+        "Sleep at World Buddhist Center, later visiting it multiple times.",
+        "(23:39, 23:59)",
+        [
+            "",
+            700023311
+        ]
+    ]
+]

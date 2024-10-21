@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Yuca Bar & Restaurant",
+            700009468
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:22)",
+        [
+            "Avant Garden",
+            700009007
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(12:08, 14:15)",
+        [
+            "Avant Garden",
+            700009007
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:17, 16:05)",
+        [
+            "Avant Garden",
+            700009007
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:27, 18:04)",
+        [
+            "Yuca Bar & Restaurant",
+            700009468
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:49, 23:01)",
+        [
+            "Citi Bike - East 7th Street & Avenue A",
+            700004237
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "",
+            700002816
+        ]
+    ]
+]

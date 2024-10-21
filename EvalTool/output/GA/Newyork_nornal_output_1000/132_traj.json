@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700021863
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:20)",
+        [
+            "Citi Bike - Pitt St & Stanton St",
+            700008166
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:38, 14:57)",
+        [
+            "",
+            700022436
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:09, 16:56)",
+        [
+            "New Chinatown",
+            700019571
+        ]
+    ],
+    [
+        "Catch Up on IT Trends",
+        "(17:00, 18:10)",
+        [
+            "New Chinatown",
+            700019571
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:34, 19:52)",
+        [
+            "",
+            700001885
+        ]
+    ],
+    [
+        "Catch Up on IT Trends",
+        "(21:57, 23:11)",
+        [
+            "",
+            700002266
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:03, 23:59)",
+        [
+            "Loisaida Drugs & Surgical",
+            700019568
+        ]
+    ]
+]

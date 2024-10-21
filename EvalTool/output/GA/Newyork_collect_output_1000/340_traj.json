@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Go for a walk or do some light exercise",
+        "(10:00, 10:51)",
+        [
+            "",
+            700021029
+        ]
+    ],
+    [
+        "Engage in a personal development activity",
+        "(11:49, 13:16)",
+        [
+            "CityMD",
+            700021028
+        ]
+    ],
+    [
+        "Engage in a personal development activity",
+        "(13:22, 14:52)",
+        [
+            "",
+            700026900
+        ]
+    ],
+    [
+        "Spend time with friends or family",
+        "(15:30, 18:08)",
+        [
+            "CityMD",
+            700021028
+        ]
+    ],
+    [
+        "Prepare a nice dinner",
+        "(18:38, 20:06)",
+        [
+            "Pret A Manger",
+            700009600
+        ]
+    ],
+    [
+        "Prepare a nice dinner",
+        "(21:38, 23:17)",
+        [
+            "",
+            700026899
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "",
+            700021029
+        ]
+    ]
+]

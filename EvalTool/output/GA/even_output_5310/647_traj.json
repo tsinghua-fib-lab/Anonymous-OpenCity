@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700006227
+        ]
+    ],
+    [
+        "Walk or light workout in a nearby park",
+        "(09:00, 10:59)",
+        [
+            "Montessori School of Manhattan",
+            700003395
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:42, 14:13)",
+        [
+            "",
+            700034966
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 20:14)",
+        [
+            "Potbelly",
+            700004056
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:05, 23:59)",
+        [
+            "Citi Bike - Maiden Ln & Pearl St",
+            700007813
+        ]
+    ]
+]

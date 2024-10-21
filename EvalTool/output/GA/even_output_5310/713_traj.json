@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "La Nacional",
+            700009375
+        ]
+    ],
+    [
+        "Go for a morning jog or walk in the park",
+        "(10:00, 11:10)",
+        [
+            "Shorty Tang Noodles",
+            700007296
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:05, 15:11)",
+        [
+            "Dunkin'",
+            700005846
+        ]
+    ],
+    [
+        "Stay and relax",
+        "(16:09, 18:10)",
+        [
+            "La Nacional",
+            700009375
+        ]
+    ],
+    [
+        "Stay at La Nacional.",
+        "(18:28, 19:50)",
+        [
+            "La Nacional",
+            700009375
+        ]
+    ],
+    [
+        "Stay at the current place.",
+        "(20:21, 22:31)",
+        [
+            "La Nacional",
+            700009375
+        ]
+    ],
+    [
+        "Stay at La Nacional.",
+        "(22:35, 23:37)",
+        [
+            "La Nacional",
+            700009375
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "Sushi Para 88",
+            700015841
+        ]
+    ]
+]

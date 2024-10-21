@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700029757
+        ]
+    ],
+    [
+        "Next activity",
+        "(10:00, 11:10)",
+        [
+            "",
+            700029757
+        ]
+    ],
+    [
+        "Next activity after hobby time",
+        "(11:50, 13:11)",
+        [
+            "",
+            700029757
+        ]
+    ],
+    [
+        "Citi Bike rental and exploration",
+        "(12:59, 14:19)",
+        [
+            "Citi Bike - Avenue D & E 12 St",
+            700007952
+        ]
+    ],
+    [
+        "Citi Bike rental and exploration.",
+        "(14:58, 17:04)",
+        [
+            "Citi Bike - Avenue D & E 12 St",
+            700007952
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:23, 21:27)",
+        [
+            "",
+            700010655
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:47, 23:59)",
+        [
+            "",
+            700003600
+        ]
+    ]
+]

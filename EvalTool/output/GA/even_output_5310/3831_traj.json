@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Island Burger and Shakes",
+            700009072
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:19)",
+        [
+            "Citi Bike - West 52nd Street & 9th Avenue",
+            700008232
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:32, 15:11)",
+        [
+            "K Rico Steakhouse",
+            700017808
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:41, 17:16)",
+        [
+            "K Rico Steakhouse",
+            700017808
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:58, 21:17)",
+        [
+            "Sd",
+            700014285
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:25, 22:59)",
+        [
+            "Rice N Beans",
+            700008995
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Sd",
+            700014285
+        ]
+    ]
+]

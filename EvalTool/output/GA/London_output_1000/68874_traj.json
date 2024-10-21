@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wharton Cottages",
+            700012020
+        ]
+    ],
+    [
+        "Watch TV or Movies",
+        "(10:00, 11:59)",
+        [
+            "Wharton Cottages",
+            700012020
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:38, 14:08)",
+        [
+            "",
+            700071467
+        ]
+    ],
+    [
+        "Socialize or Spend Time with Family/Friends",
+        "(17:41, 18:50)",
+        [
+            "",
+            700065809
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:54, 21:00)",
+        [
+            "Wharton Cottages",
+            700012020
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:53)",
+        [
+            "",
+            700066094
+        ]
+    ]
+]

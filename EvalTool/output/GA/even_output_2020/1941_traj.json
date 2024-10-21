@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011012
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:54)",
+        [
+            "",
+            700007724
+        ]
+    ],
+    [
+        "Stay at a location.",
+        "(13:12, 14:39)",
+        [
+            "Open House",
+            700013314
+        ]
+    ],
+    [
+        "Stay at a location.",
+        "(15:37, 17:17)",
+        [
+            "Open House",
+            700013314
+        ]
+    ],
+    [
+        "Stay at Open House",
+        "(18:00, 19:37)",
+        [
+            "UCSF dental school clinic",
+            700001272
+        ]
+    ],
+    [
+        "Stay at Open House",
+        "(19:51, 21:01)",
+        [
+            "Open House",
+            700013314
+        ]
+    ],
+    [
+        "Stay at Open House",
+        "(21:19, 22:50)",
+        [
+            "Open House",
+            700013314
+        ]
+    ],
+    [
+        "Stay at Open House",
+        "(23:04, 23:59)",
+        [
+            "Open House",
+            700013314
+        ]
+    ]
+]

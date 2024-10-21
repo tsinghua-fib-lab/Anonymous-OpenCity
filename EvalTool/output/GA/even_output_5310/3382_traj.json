@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002067
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:01)",
+        [
+            "New Design High School",
+            700000290
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:25, 15:06)",
+        [
+            "Ten Bells",
+            700010917
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:06, 15:29)",
+        [
+            "Top Hops Beer Shop",
+            700007491
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(20:23, 22:09)",
+        [
+            "Top Hops Beer Shop",
+            700007491
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(22:13, 23:59)",
+        [
+            "Grey Lady",
+            700005430
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Top Hops Beer Shop",
+            700007491
+        ]
+    ]
+]

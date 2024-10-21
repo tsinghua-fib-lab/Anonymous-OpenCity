@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Posh",
+            700017477
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:17)",
+        [
+            "",
+            700011136
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:03, 14:23)",
+        [
+            "Maialino",
+            700010143
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:04, 18:08)",
+        [
+            "School of the Future",
+            700000298
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:22, 20:55)",
+        [
+            "Stix",
+            700006082
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:51, 23:59)",
+        [
+            "Paris Baguette",
+            700018118
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Juice Generation",
+            700018116
+        ]
+    ]
+]

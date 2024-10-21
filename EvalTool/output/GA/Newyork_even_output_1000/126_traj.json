@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mott Street Eatery",
+            700016099
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(09:00, 10:20)",
+        [
+            "Supreme Restaurant",
+            700011129
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:09, 14:43)",
+        [
+            "",
+            700026183
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:24, 19:09)",
+        [
+            "",
+            700026183
+        ]
+    ],
+    [
+        "Relax and Watch TV/Movies",
+        "(17:14, 19:03)",
+        [
+            "Flushing Bank",
+            700005307
+        ]
+    ],
+    [
+        "Go to Flushing Bank",
+        "(20:06, 22:15)",
+        [
+            "Flushing Bank",
+            700005307
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:55, 23:59)",
+        [
+            "Flushing Bank",
+            700005307
+        ]
+    ]
+]

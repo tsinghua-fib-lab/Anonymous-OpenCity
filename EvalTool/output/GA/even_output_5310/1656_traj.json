@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - West 20th Street & 7th Avenue",
+            700008205
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(09:00, 10:30)",
+        [
+            "Citi Bike - West 20th Street & 7th Avenue",
+            700008205
+        ]
+    ],
+    [
+        "Explore a Local Event or Market",
+        "(10:50, 12:26)",
+        [
+            "Citi Bike - West 20th Street & 7th Avenue",
+            700008205
+        ]
+    ],
+    [
+        "Explore a Local Event or Market",
+        "(12:57, 14:28)",
+        [
+            "Citi Bike - West 20th Street & 7th Avenue",
+            700008205
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:38, 19:29)",
+        [
+            "",
+            700020074
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:47, 23:59)",
+        [
+            "",
+            700020075
+        ]
+    ]
+]

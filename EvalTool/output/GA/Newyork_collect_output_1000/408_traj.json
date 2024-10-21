@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(08:00, 09:58)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Relaxing Afternoon",
+        "(14:19, 15:41)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Personal Project or Hobby Time",
+        "(15:58, 17:57)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 19:52)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:48, 23:59)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ]
+]

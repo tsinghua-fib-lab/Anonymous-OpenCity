@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002273
+        ]
+    ],
+    [
+        "Go for a morning walk or jog in the park",
+        "(09:00, 09:58)",
+        [
+            "Bear and the Beard",
+            700020678
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:11, 12:05)",
+        [
+            "",
+            700021623
+        ]
+    ],
+    [
+        "Engage in a sports activity or play a game",
+        "(14:30, 15:51)",
+        [
+            "",
+            700021625
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:39, 20:45)",
+        [
+            "",
+            700021622
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:13, 23:59)",
+        [
+            "Bear and the Beard",
+            700020678
+        ]
+    ]
+]

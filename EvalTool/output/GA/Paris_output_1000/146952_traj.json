@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bourse",
+            700000767
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:29)",
+        [
+            "École Européenne des Métiers de l’Internet",
+            700049609
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:25, 13:09)",
+        [
+            "Bourse",
+            700000767
+        ]
+    ],
+    [
+        "Leisure Time / Reading",
+        "(13:50, 15:02)",
+        [
+            "Bourse",
+            700000767
+        ]
+    ],
+    [
+        "Leisure Time / Reading",
+        "(15:07, 16:57)",
+        [
+            "",
+            700002605
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:35, 20:04)",
+        [
+            "Marché Bourse",
+            700005837
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:38, 23:59)",
+        [
+            "Mori Venice Bar",
+            700002594
+        ]
+    ]
+]

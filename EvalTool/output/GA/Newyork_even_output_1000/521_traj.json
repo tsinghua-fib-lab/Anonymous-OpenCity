@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Washington Square Dinner",
+            700011806
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 12:00)",
+        [
+            "Vol de Nuit",
+            700014734
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:20, 13:52)",
+        [
+            "Vol de Nuit",
+            700014734
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 20:11)",
+        [
+            "",
+            700000622
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:01, 20:56)",
+        [
+            "Blue Note Jazz Club",
+            700008770
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:57, 22:27)",
+        [
+            "Blue Note Jazz Club",
+            700008770
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(22:49, 23:59)",
+        [
+            "Blue Note Jazz Club",
+            700008770
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(23:57, 23:59)",
+        [
+            "Blue Note Jazz Club",
+            700008770
+        ]
+    ]
+]

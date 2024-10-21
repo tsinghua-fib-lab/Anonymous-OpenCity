@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Jerusalem Church of God in Christ",
+            700000225
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park",
+        "(10:00, 11:10)",
+        [
+            "Bar 821",
+            700004866
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:50, 14:45)",
+        [
+            "",
+            700008259
+        ]
+    ],
+    [
+        "Stay at Bar 821",
+        "(13:53, 14:53)",
+        [
+            "Bar 821",
+            700004866
+        ]
+    ],
+    [
+        "Currently at: Bar 821, stay time.",
+        "(15:53, 17:13)",
+        [
+            "",
+            700002903
+        ]
+    ],
+    [
+        "Currently at: Bar 821, stay time.",
+        "(18:06, 20:03)",
+        [
+            "Bar 821",
+            700004866
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:46, 23:59)",
+        [
+            "",
+            700008265
+        ]
+    ]
+]

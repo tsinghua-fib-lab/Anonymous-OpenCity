@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020361
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:59)",
+        [
+            "",
+            700020362
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 15:26)",
+        [
+            "",
+            700020362
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:58, 18:35)",
+        [
+            "",
+            700020372
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(19:20, 20:58)",
+        [
+            "",
+            700020368
+        ]
+    ],
+    [
+        "Stay at your last place (no specific place).",
+        "(21:15, 23:13)",
+        [
+            "",
+            700020364
+        ]
+    ],
+    [
+        "Continue to Stay at your last place (no specific place)",
+        "(23:07, 23:59)",
+        [
+            "",
+            700020361
+        ]
+    ]
+]

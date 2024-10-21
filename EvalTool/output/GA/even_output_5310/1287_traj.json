@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700019283
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:53)",
+        [
+            "",
+            700019283
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:03, 14:06)",
+        [
+            "",
+            700019283
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:39, 16:04)",
+        [
+            "Hibachi Express",
+            700018144
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:23, 17:41)",
+        [
+            "",
+            700001079
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:27, 21:58)",
+        [
+            "Citi Bike - East 13th Street & Avenue A",
+            700008023
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "Domino's",
+            700004778
+        ]
+    ]
+]

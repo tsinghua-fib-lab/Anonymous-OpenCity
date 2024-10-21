@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Wonderdog Rescue",
+            700014193
+        ]
+    ],
+    [
+        "10:00 AM - Outdoor Activity",
+        "(09:00, 10:58)",
+        [
+            "",
+            700005965
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:43, 14:22)",
+        [
+            "Bank of America",
+            700001687
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:31, 14:52)",
+        [
+            "Bank of America",
+            700001687
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 19:41)",
+        [
+            "Mission Hunan Restaurant",
+            700002985
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(17:08, 18:29)",
+        [
+            "Bank of America",
+            700001687
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(18:49, 20:46)",
+        [
+            "Aramex",
+            700004336
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(20:55, 22:15)",
+        [
+            "Wells Fargo",
+            700000668
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(22:18, 23:52)",
+        [
+            "Wells Fargo",
+            700000668
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(23:53, 23:59)",
+        [
+            "Wells Fargo",
+            700000668
+        ]
+    ]
+]

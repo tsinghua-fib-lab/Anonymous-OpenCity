@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700037849
+        ]
+    ],
+    [
+        "Go for a walk or engage in some light exercise",
+        "(10:00, 10:51)",
+        [
+            "Gotham Café",
+            700016395
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:14, 15:37)",
+        [
+            "le Réveil",
+            700022437
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:16, 20:02)",
+        [
+            "Walgreens",
+            700022335
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:20, 21:36)",
+        [
+            "Two Wheels",
+            700021914
+        ]
+    ]
+]

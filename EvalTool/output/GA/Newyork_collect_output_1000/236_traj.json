@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Read or Study",
+        "(10:00, 11:20)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Next activity after reading or studying.",
+        "(12:07, 13:38)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:05, 16:10)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:16, 22:20)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(09:00, 10:22)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:55, 14:16)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:29, 18:36)",
+        [
+            "",
+            700054511
+        ]
+    ],
+    [
+        "Socializing or Family Time",
+        "(19:29, 20:54)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Socializing or Family Time",
+        "(21:44, 23:53)",
+        [
+            "Burger King",
+            700004086
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "",
+            700037187
+        ]
+    ]
+]

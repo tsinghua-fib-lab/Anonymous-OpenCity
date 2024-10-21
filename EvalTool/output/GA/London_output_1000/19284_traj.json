@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Next activity based on the current plan.",
+        "(10:00, 12:00)",
+        [
+            "Westminster Music Library",
+            700073805
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:37, 15:54)",
+        [
+            "St. Martin's Street",
+            700010358
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 18:43)",
+        [
+            "",
+            700037500
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series on streaming platforms for some entertainment.",
+        "(18:57, 19:52)",
+        [
+            "Sandwhich Express",
+            700017347
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:32, 23:59)",
+        [
+            "Whitcombs",
+            700061358
+        ]
+    ]
+]

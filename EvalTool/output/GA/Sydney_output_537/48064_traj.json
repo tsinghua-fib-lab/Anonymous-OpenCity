@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Macchina Espresso",
+            700025034
+        ]
+    ],
+    [
+        "Work on personal projects or hobbies.",
+        "(09:00, 10:21)",
+        [
+            "Macchina Espresso",
+            700025034
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 12:44)",
+        [
+            "",
+            700019820
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 18:24)",
+        [
+            "",
+            700000062
+        ]
+    ],
+    [
+        "Engage in a personal project or hobby.",
+        "(18:43, 19:59)",
+        [
+            "",
+            700019819
+        ]
+    ],
+    [
+        "Relax at home, watch a movie or catch up on a TV series.",
+        "(20:54, 21:57)",
+        [
+            "",
+            700000062
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "",
+            700012080
+        ]
+    ]
+]

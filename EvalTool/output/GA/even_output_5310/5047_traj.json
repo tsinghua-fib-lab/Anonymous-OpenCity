@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wok in the Clouds",
+            700015894
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:04)",
+        [
+            "Dhaba",
+            700010953
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:00, 19:35)",
+        [
+            "Kailash Parbat",
+            700006242
+        ]
+    ],
+    [
+        "Household Chores",
+        "(16:53, 18:47)",
+        [
+            "Dhaba",
+            700010953
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:56, 23:59)",
+        [
+            "Kailash Parbat",
+            700006242
+        ]
+    ],
+    [
+        "Stay at Ali Baba's Terrace",
+        "(23:20, 23:59)",
+        [
+            "Jack Diamond's",
+            700033073
+        ]
+    ]
+]

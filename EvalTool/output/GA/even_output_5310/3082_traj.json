@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "RedFarm",
+            700014435
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast",
+        "(10:00, 10:55)",
+        [
+            "RedFarm",
+            700014435
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the park",
+        "(11:15, 12:40)",
+        [
+            "RedFarm",
+            700014435
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 15:31)",
+        [
+            "Cowgirl",
+            700005692
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 21:20)",
+        [
+            "Employees Only",
+            700008789
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "",
+            700002440
+        ]
+    ]
+]

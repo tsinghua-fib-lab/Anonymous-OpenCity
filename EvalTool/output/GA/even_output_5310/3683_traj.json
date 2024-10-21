@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700024622
+        ]
+    ],
+    [
+        "Current Place: Picnic Table. Stay until 11:45 AM.",
+        "(10:00, 11:04)",
+        [
+            "Citi Bike - Stanton St & Mangin St",
+            700008187
+        ]
+    ],
+    [
+        "Current Place: Picnic Table. Stay until 11:45 AM.",
+        "(11:09, 12:18)",
+        [
+            "Citi Bike - Stanton St & Mangin St",
+            700008187
+        ]
+    ],
+    [
+        "Current Place: Picnic Table. Stay until 2:00 PM.",
+        "(13:05, 15:08)",
+        [
+            "Citi Bike - Stanton St & Mangin St",
+            700008187
+        ]
+    ],
+    [
+        "Stay at Picnic Table",
+        "(15:49, 17:18)",
+        [
+            "Citi Bike - Stanton St & Mangin St",
+            700008187
+        ]
+    ],
+    [
+        "Stay at Picnic Table.",
+        "(17:28, 18:30)",
+        [
+            "Citi Bike - Stanton St & Mangin St",
+            700008187
+        ]
+    ],
+    [
+        "Stay at Picnic Table",
+        "(18:54, 20:33)",
+        [
+            "Citi Bike - Stanton St & Mangin St",
+            700008187
+        ]
+    ],
+    [
+        "Stay at Picnic Table.",
+        "(21:08, 22:22)",
+        [
+            "Citi Bike - Stanton St & Mangin St",
+            700008187
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "Public School MO94",
+            700000405
+        ]
+    ]
+]

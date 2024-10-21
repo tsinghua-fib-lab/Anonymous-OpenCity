@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chelsea Park Toilets",
+            700009102
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:37)",
+        [
+            "",
+            700020823
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 15:54)",
+        [
+            "",
+            700020821
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:28, 17:01)",
+        [
+            "John Lovejoy Elliott Center",
+            700004675
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:40, 20:12)",
+        [
+            "",
+            700020822
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:55, 21:50)",
+        [
+            "Chelsea Park Toilets",
+            700009102
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:51, 23:01)",
+        [
+            "Chelsea Park Toilets",
+            700009102
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(23:47, 23:59)",
+        [
+            "Chelsea Park Toilets",
+            700009102
+        ]
+    ]
+]

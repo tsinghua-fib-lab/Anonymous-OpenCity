@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Circular Quay 4B",
+            700000001
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:03)",
+        [
+            "Circular Quay 4B",
+            700000001
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:47, 12:55)",
+        [
+            "Circular Quay 4B",
+            700000001
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:10, 18:53)",
+        [
+            "Circular Quay 6A",
+            700000207
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:05, 23:19)",
+        [
+            "",
+            700027582
+        ]
+    ],
+    [
+        "Stay at Circular Quay 4B.",
+        "(22:30, 23:51)",
+        [
+            "Circular Quay 4B",
+            700000001
+        ]
+    ],
+    [
+        "Go to Circular Quay 4B.",
+        "(23:54, 23:59)",
+        [
+            "Circular Quay 4B",
+            700000001
+        ]
+    ]
+]

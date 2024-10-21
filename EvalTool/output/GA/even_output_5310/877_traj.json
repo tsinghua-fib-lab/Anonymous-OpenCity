@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tacos del Este Superior",
+            700024279
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:12)",
+        [
+            "SkinLab",
+            700040086
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 17:26)",
+        [
+            "USPS",
+            700005986
+        ]
+    ],
+    [
+        "Family or Friend Time",
+        "(20:13, 23:04)",
+        [
+            "USPS",
+            700005986
+        ]
+    ],
+    [
+        "Sleep at home.",
+        "(23:44, 23:59)",
+        [
+            "USPS",
+            700005986
+        ]
+    ]
+]

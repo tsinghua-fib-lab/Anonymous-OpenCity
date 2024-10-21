@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700037811
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:34)",
+        [
+            "Change Group",
+            700012756
+        ]
+    ],
+    [
+        "Watch a Movie",
+        "(14:32, 15:55)",
+        [
+            "Change Group",
+            700012756
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:03, 17:23)",
+        [
+            "",
+            700049503
+        ]
+    ],
+    [
+        "Watch a Movie",
+        "(20:43, 22:13)",
+        [
+            "",
+            700049499
+        ]
+    ],
+    [
+        "Situation 6",
+        "(22:24, 23:51)",
+        [
+            "Change Group",
+            700012756
+        ]
+    ],
+    [
+        "Go to Change Group to plan your day",
+        "(23:56, 23:59)",
+        [
+            "Change Group",
+            700012756
+        ]
+    ]
+]

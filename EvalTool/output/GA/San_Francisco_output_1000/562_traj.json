@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Cinch Saloon",
+            700004199
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:17)",
+        [
+            "The Crepe House",
+            700002742
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:16, 14:04)",
+        [
+            "The Crepe House",
+            700002742
+        ]
+    ],
+    [
+        "Exercise",
+        "(14:32, 16:35)",
+        [
+            "The Crepe House",
+            700002742
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:49, 21:33)",
+        [
+            "",
+            700000655
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(21:28, 22:51)",
+        [
+            "Amélie",
+            700002805
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(22:40, 23:44)",
+        [
+            "Korean Soul Chicken",
+            700004188
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "Fish N Gari",
+            700004189
+        ]
+    ]
+]

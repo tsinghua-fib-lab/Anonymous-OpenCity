@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:05)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:11, 18:46)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:39, 21:18)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 23:59)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:20, 23:59)",
+        [
+            "Handcraft",
+            700006233
+        ]
+    ]
+]

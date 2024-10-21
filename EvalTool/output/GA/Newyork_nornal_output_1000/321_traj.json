@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gotham West Market",
+            700008953
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:07)",
+        [
+            "Bloom 45",
+            700023102
+        ]
+    ],
+    [
+        "Stay at VERS",
+        "(12:38, 14:12)",
+        [
+            "Queen of Sheba",
+            700006115
+        ]
+    ],
+    [
+        "next activity",
+        "(14:20, 15:59)",
+        [
+            "Queen of Sheba",
+            700006115
+        ]
+    ],
+    [
+        "next activity",
+        "(16:29, 17:55)",
+        [
+            "Queen of Sheba",
+            700006115
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 23:47)",
+        [
+            "At Thai Restaurant",
+            700016050
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:47, 23:59)",
+        [
+            "Hellcat Annie's taproom",
+            700010145
+        ]
+    ],
+    [
+        "Stay at Gotham West Market",
+        "(22:21, 23:58)",
+        [
+            "Queen of Sheba",
+            700006115
+        ]
+    ],
+    [
+        "Stay at Gotham West Market",
+        "(23:42, 23:59)",
+        [
+            "Queen of Sheba",
+            700006115
+        ]
+    ]
+]

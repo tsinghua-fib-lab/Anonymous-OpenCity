@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008741
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:59)",
+        [
+            "Vico",
+            700008839
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:47, 12:06)",
+        [
+            "Taxi Stand at Castro and 18th Street",
+            700009956
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:47, 17:38)",
+        [
+            "Taxi Stand at Castro and 18th Street",
+            700009956
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 23:59)",
+        [
+            "The Posh Bagel",
+            700002188
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(22:39, 23:59)",
+        [
+            "Sisters Coffee Shop",
+            700008740
+        ]
+    ]
+]

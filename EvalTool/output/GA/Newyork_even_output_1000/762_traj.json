@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700019432
+        ]
+    ],
+    [
+        "Go for a run or workout at the gym.",
+        "(10:00, 10:52)",
+        [
+            "",
+            700019432
+        ]
+    ],
+    [
+        "Go for a run or workout at the gym",
+        "(11:55, 12:58)",
+        [
+            "",
+            700019432
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:37, 18:04)",
+        [
+            "USPS",
+            700017695
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:43, 22:53)",
+        [
+            "",
+            700019434
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:26, 23:59)",
+        [
+            "Burrata Basil Pizza",
+            700033757
+        ]
+    ]
+]

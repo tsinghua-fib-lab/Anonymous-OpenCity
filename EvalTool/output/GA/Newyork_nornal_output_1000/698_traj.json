@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700017748
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:29)",
+        [
+            "Little Tigers Martial Arts",
+            700018150
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:27, 16:41)",
+        [
+            "Daytripper NYC",
+            700003355
+        ]
+    ],
+    [
+        "Stay at Daytripper NYC",
+        "(17:38, 19:13)",
+        [
+            "Fit Our Way",
+            700018149
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:09, 23:21)",
+        [
+            "Studio 151",
+            700017656
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700002136
+        ]
+    ]
+]

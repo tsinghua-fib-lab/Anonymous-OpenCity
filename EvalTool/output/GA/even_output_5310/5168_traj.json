@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Neat Burger",
+            700012009
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(09:00, 09:50)",
+        [
+            "Neat Burger",
+            700012009
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:03, 15:48)",
+        [
+            "Champion Pizza",
+            700020587
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(16:12, 17:24)",
+        [
+            "Champion Pizza",
+            700020587
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(17:40, 19:15)",
+        [
+            "Café Select",
+            700007500
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:07, 21:17)",
+        [
+            "Champion Pizza",
+            700020587
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Mikaku",
+            700007496
+        ]
+    ]
+]

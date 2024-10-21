@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020135
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:28)",
+        [
+            "",
+            700020134
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:38, 15:56)",
+        [
+            "Momoya",
+            700009366
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:09, 18:18)",
+        [
+            "The Cooper Still",
+            700030271
+        ]
+    ],
+    [
+        "Catch Up on IT Trends",
+        "(17:00, 18:05)",
+        [
+            "Limón Jungle",
+            700009812
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:34, 22:15)",
+        [
+            "Idlewild books",
+            700006158
+        ]
+    ],
+    [
+        "Catch Up on IT Trends",
+        "(21:57, 23:09)",
+        [
+            "Limón Jungle",
+            700009812
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:03, 23:59)",
+        [
+            "Citi Bike - West 20th Street & 7th Avenue",
+            700008205
+        ]
+    ]
+]

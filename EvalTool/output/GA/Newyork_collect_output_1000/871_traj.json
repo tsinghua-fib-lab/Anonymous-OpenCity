@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:42)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Entertainment Time",
+        "(16:24, 17:55)",
+        [
+            "Little Basil",
+            700006236
+        ]
+    ],
+    [
+        "Go to Little Basil",
+        "(18:20, 19:51)",
+        [
+            "Little Basil",
+            700006236
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 22:34)",
+        [
+            "Wingstop",
+            700017933
+        ]
+    ]
+]

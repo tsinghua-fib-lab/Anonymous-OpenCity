@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:42)",
+        [
+            "",
+            700002621
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:01, 16:26)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:56, 19:18)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Next activity based on daily plan",
+        "(20:16, 22:09)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Next activity based on daily plan",
+        "(22:22, 23:59)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ]
+]

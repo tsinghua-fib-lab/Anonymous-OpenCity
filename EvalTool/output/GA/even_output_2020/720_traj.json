@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Maykadeh Persian Restaurant",
+            700000122
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the park or around your neighborhood to enjoy the fresh air.",
+        "(10:00, 11:28)",
+        [
+            "Maykadeh Persian Restaurant",
+            700000122
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the park or around your neighborhood to enjoy the fresh air.",
+        "(11:14, 13:03)",
+        [
+            "Maykadeh Persian Restaurant",
+            700000122
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:37, 15:25)",
+        [
+            "Chubby Noodle",
+            700001681
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:53, 19:27)",
+        [
+            "Bocce Cafe",
+            700000121
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 20:42)",
+        [
+            "Mo's Grill",
+            700000463
+        ]
+    ],
+    [
+        "Go to a nearby restaurant or cafe for lunch.",
+        "(23:56, 23:59)",
+        [
+            "Chubby Noodle",
+            700001681
+        ]
+    ]
+]

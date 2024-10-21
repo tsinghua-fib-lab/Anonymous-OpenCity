@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Royal Exchange Hotel",
+            700023688
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:49)",
+        [
+            "Nutrition Station",
+            700030667
+        ]
+    ],
+    [
+        "Grocery Shopping and Errands",
+        "(14:04, 15:39)",
+        [
+            "Royal Exchange Hotel",
+            700023688
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 18:01)",
+        [
+            "Royal Exchange Hotel",
+            700023688
+        ]
+    ],
+    [
+        "Evening Relaxation and TV Time",
+        "(21:28, 23:50)",
+        [
+            "Royal Exchange Hotel",
+            700023688
+        ]
+    ],
+    [
+        "Stay at Royal Exchange Hotel",
+        "(23:23, 23:59)",
+        [
+            "Nutrition Station",
+            700030667
+        ]
+    ]
+]

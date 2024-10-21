@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Catch",
+            700013847
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:05)",
+        [
+            "Catch",
+            700013847
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:05, 14:18)",
+        [
+            "Bonita",
+            700001609
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(14:41, 17:09)",
+        [
+            "Bonita",
+            700001609
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:30, 23:03)",
+        [
+            "Super Duper Burgers",
+            700001637
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 23:59)",
+        [
+            "GoHealth Urgent Care",
+            700000878
+        ]
+    ]
+]

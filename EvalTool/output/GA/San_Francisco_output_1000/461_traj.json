@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Faces SF Hayes Valley Child Development Center Infant and Toddlers",
+            700011016
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:35)",
+        [
+            "Underground SF",
+            700005490
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(16:19, 18:43)",
+        [
+            "Faces SF Hayes Valley Child Development Center Infant and Toddlers",
+            700011016
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:34, 20:02)",
+        [
+            "Faces SF Hayes Valley Child Development Center Infant and Toddlers",
+            700011016
+        ]
+    ],
+    [
+        "Stay at Underground SF.",
+        "(20:40, 22:19)",
+        [
+            "",
+            700011011
+        ]
+    ],
+    [
+        "Stay at Faces SF Hayes Valley Child Development Center Infant and Toddlers.",
+        "(23:28, 23:59)",
+        [
+            "Faces SF Hayes Valley Child Development Center Infant and Toddlers",
+            700011016
+        ]
+    ]
+]

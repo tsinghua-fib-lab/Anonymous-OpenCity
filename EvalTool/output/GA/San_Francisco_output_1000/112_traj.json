@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ernest",
+            700002360
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:00)",
+        [
+            "Gus's All Day Cafe",
+            700004056
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 18:17)",
+        [
+            "Tartine Manufactory",
+            700004741
+        ]
+    ],
+    [
+        "wind down by watching a movie or a show, or perhaps engaging in a relaxing activity like meditation or light reading before bed",
+        "(20:52, 21:59)",
+        [
+            "Tartine Manufactory",
+            700004741
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:53, 23:59)",
+        [
+            "Gus's Parking",
+            700004768
+        ]
+    ]
+]

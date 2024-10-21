@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "USPS",
+            700015408
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:19)",
+        [
+            "",
+            700017194
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 16:30)",
+        [
+            "",
+            700017184
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:28, 17:01)",
+        [
+            "Angelina Paris",
+            700032207
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:40, 22:20)",
+        [
+            "Allen-Stevenson School",
+            700009392
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:55, 22:04)",
+        [
+            "Dos Toros Taqueria",
+            700013564
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:51, 22:49)",
+        [
+            "Starbucks",
+            700015407
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(23:47, 23:59)",
+        [
+            "Allen-Stevenson School",
+            700009392
+        ]
+    ]
+]

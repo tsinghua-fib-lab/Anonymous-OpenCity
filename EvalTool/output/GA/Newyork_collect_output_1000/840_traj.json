@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:03)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Social Time",
+        "(14:04, 15:25)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:19, 18:52)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ],
+    [
+        "Social Time",
+        "(20:53, 22:26)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Go to Dog & Bone",
+        "(23:18, 23:59)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ]
+]

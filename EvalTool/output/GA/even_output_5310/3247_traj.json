@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - 1st Avenue & East 18th Street",
+            700007925
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 10:59)",
+        [
+            "Citi Bike - 1st Avenue & East 18th Street",
+            700007925
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:20, 12:57)",
+        [
+            "Training Zone",
+            700006195
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:22, 20:03)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(22:35, 23:59)",
+        [
+            "Citi Bike - 1st Avenue & East 18th Street",
+            700007925
+        ]
+    ]
+]

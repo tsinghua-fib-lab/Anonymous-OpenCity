@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700024246
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:21)",
+        [
+            "",
+            700024246
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:56, 13:27)",
+        [
+            "Bo Law Kung Fu",
+            700019350
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby",
+        "(14:24, 16:02)",
+        [
+            "Bo Law Kung Fu",
+            700019350
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:27, 21:31)",
+        [
+            "Soft Swerve",
+            700005428
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:07)",
+        [
+            "Sticky Rice",
+            700007394
+        ]
+    ],
+    [
+        "Visit Sticky Rice.",
+        "(23:12, 23:59)",
+        [
+            "Sticky Rice",
+            700007394
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ora Wine Bar",
+            700010445
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 16:05)",
+        [
+            "",
+            700010683
+        ]
+    ],
+    [
+        "Socializing",
+        "(16:02, 17:26)",
+        [
+            "Toast eatery",
+            700003138
+        ]
+    ],
+    [
+        "Socializing",
+        "(18:21, 19:53)",
+        [
+            "Ti Piacera",
+            700001122
+        ]
+    ],
+    [
+        "Socializing",
+        "(20:37, 22:17)",
+        [
+            "Ti Piacera",
+            700001122
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:40, 23:59)",
+        [
+            "Swan Oyster Depot",
+            700001124
+        ]
+    ]
+]

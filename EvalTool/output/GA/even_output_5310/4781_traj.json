@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700019862
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:32)",
+        [
+            "Il Divo",
+            700022332
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:31, 13:38)",
+        [
+            "le Réveil",
+            700022437
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(13:38, 15:48)",
+        [
+            "Il Divo",
+            700022332
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 18:14)",
+        [
+            "",
+            700003135
+        ]
+    ],
+    [
+        "Ending current visit before heading to next.",
+        "(18:55, 20:24)",
+        [
+            "Il Divo",
+            700022332
+        ]
+    ],
+    [
+        "Dinner Reservation",
+        "(20:28, 22:04)",
+        [
+            "Il Divo",
+            700022332
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:46, 23:59)",
+        [
+            "Walgreens",
+            700022335
+        ]
+    ]
+]

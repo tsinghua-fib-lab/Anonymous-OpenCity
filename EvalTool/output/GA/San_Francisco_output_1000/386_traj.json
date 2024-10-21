@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700004958
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:46)",
+        [
+            "Kayma",
+            700009448
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:20, 19:45)",
+        [
+            "Taqueria El Castillo",
+            700009298
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:00, 23:59)",
+        [
+            "Fluid Cooperative Cafe",
+            700009453
+        ]
+    ],
+    [
+        "Leisure Time/Personal Projects",
+        "(23:40, 23:59)",
+        [
+            "Himalayan Pizza & Momo",
+            700005080
+        ]
+    ]
+]

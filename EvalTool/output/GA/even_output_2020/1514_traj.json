@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700014183
+        ]
+    ],
+    [
+        "Morning exercise",
+        "(09:00, 10:04)",
+        [
+            "Firefly",
+            700000412
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:30, 12:55)",
+        [
+            "Seward Street Slides",
+            700001634
+        ]
+    ],
+    [
+        "Leisure reading or hobbies",
+        "(11:59, 14:06)",
+        [
+            "Seward Street Slides",
+            700001634
+        ]
+    ],
+    [
+        "Afternoon entertainment",
+        "(14:22, 17:10)",
+        [
+            "Seward Street Slides",
+            700001634
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:28, 21:49)",
+        [
+            "",
+            700003641
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:48, 23:09)",
+        [
+            "",
+            700008738
+        ]
+    ]
+]

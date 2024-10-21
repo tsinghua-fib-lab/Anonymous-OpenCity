@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700015965
+        ]
+    ],
+    [
+        "next activity based on plan",
+        "(10:00, 11:07)",
+        [
+            "",
+            700015965
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(11:15, 12:40)",
+        [
+            "",
+            700015965
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:01, 14:50)",
+        [
+            "Gymboree",
+            700016058
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(14:37, 16:41)",
+        [
+            "Gymboree",
+            700016058
+        ]
+    ],
+    [
+        "Prepare and have lunch.",
+        "(16:36, 18:03)",
+        [
+            "Gymboree",
+            700016058
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 23:28)",
+        [
+            "Sushi Ryusei",
+            700015028
+        ]
+    ],
+    [
+        "Go to Dunkin'; Prepare and have dinner.",
+        "(23:39, 23:59)",
+        [
+            "",
+            700003106
+        ]
+    ]
+]

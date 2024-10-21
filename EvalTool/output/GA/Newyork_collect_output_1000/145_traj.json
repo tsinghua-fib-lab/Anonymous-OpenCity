@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:41)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Creative Time",
+        "(12:54, 15:01)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Creative Time",
+        "(15:02, 17:05)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 23:46)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "",
+            700000911
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000834
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 11:05)",
+        [
+            "Book Club",
+            700018059
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:30, 17:20)",
+        [
+            "",
+            700000834
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:46, 16:41)",
+        [
+            "Lower East Side People's Federal Credit Union",
+            700008395
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:48, 21:37)",
+        [
+            "Solo Pizza",
+            700008394
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:16, 23:09)",
+        [
+            "Populares",
+            700039651
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:22, 23:59)",
+        [
+            "Poco",
+            700008391
+        ]
+    ]
+]

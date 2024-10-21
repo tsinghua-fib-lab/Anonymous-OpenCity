@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "137 Mott Pharmacy",
+            700030608
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:45)",
+        [
+            "Nyonya",
+            700027248
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:20, 13:59)",
+        [
+            "Nyonya",
+            700027248
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 15:49)",
+        [
+            "",
+            700025245
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(18:06, 19:46)",
+        [
+            "Yiwanmen",
+            700030609
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:56, 23:35)",
+        [
+            "C. DiPalo",
+            700027264
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(23:35, 23:59)",
+        [
+            "Yiwanmen",
+            700030609
+        ]
+    ]
+]

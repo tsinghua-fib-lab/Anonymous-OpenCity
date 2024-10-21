@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rockdale Library",
+            700007551
+        ]
+    ],
+    [
+        "Leisure Reading/TV",
+        "(10:00, 11:40)",
+        [
+            "Rockdale Library",
+            700007551
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:36, 13:37)",
+        [
+            "Rockdale Post Office",
+            700007119
+        ]
+    ],
+    [
+        "Next arrangement: Sports or Hobbies",
+        "(13:48, 14:54)",
+        [
+            "Rockdale Post Office",
+            700007119
+        ]
+    ],
+    [
+        "Next arrangement: Sports or Hobbies",
+        "(15:47, 17:06)",
+        [
+            "Rockdale Post Office",
+            700007119
+        ]
+    ],
+    [
+        "Sports or Hobbies",
+        "(17:29, 19:00)",
+        [
+            "Rockdale Compound Pharmacy",
+            700010007
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:48, 23:59)",
+        [
+            "The Angry Gnome Espresso Bar",
+            700011200
+        ]
+    ]
+]

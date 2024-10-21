@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Powder Shaved Snow",
+            700004203
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:05)",
+        [
+            "Sightglass",
+            700005386
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:35, 14:34)",
+        [
+            "Sightglass",
+            700005386
+        ]
+    ],
+    [
+        "Relaxation/Entertainment",
+        "(15:20, 16:59)",
+        [
+            "Sightglass",
+            700005386
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:42, 19:33)",
+        [
+            "Sightglass",
+            700005386
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(19:46, 21:15)",
+        [
+            "The Little Chihuahua",
+            700001465
+        ]
+    ],
+    [
+        "Stay at Sightglass Coffee",
+        "(21:48, 23:09)",
+        [
+            "Bus Stop Pizza",
+            700004204
+        ]
+    ],
+    [
+        "Stay at Sightglass Coffee.",
+        "(23:50, 23:59)",
+        [
+            "Bus Stop Pizza",
+            700004204
+        ]
+    ]
+]

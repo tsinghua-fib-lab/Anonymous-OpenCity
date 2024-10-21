@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700007910
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 16:01)",
+        [
+            "",
+            700005277
+        ]
+    ],
+    [
+        "Spend the afternoon reading or catching up on a hobby",
+        "(14:23, 15:55)",
+        [
+            "",
+            700007811
+        ]
+    ],
+    [
+        "Spend the afternoon reading or catching up on a hobby",
+        "(16:54, 17:57)",
+        [
+            "Modern Animal",
+            700010096
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 21:41)",
+        [
+            "",
+            700007913
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:04, 23:59)",
+        [
+            "",
+            700007812
+        ]
+    ]
+]

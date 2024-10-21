@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "At Thai Restaurant",
+            700016050
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:16)",
+        [
+            "Queen of Sheba",
+            700006115
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(11:47, 12:57)",
+        [
+            "Queen of Sheba",
+            700006115
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 15:11)",
+        [
+            "Royal Napoli Pizza",
+            700032784
+        ]
+    ],
+    [
+        "Grocery Shopping/Errands",
+        "(15:30, 16:58)",
+        [
+            "Royal Napoli Pizza",
+            700032784
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:47, 23:04)",
+        [
+            "Food King",
+            700027345
+        ]
+    ],
+    [
+        "Go for a light walk or jog at a nearby park.",
+        "(23:17, 23:59)",
+        [
+            "At Thai Restaurant",
+            700016050
+        ]
+    ]
+]

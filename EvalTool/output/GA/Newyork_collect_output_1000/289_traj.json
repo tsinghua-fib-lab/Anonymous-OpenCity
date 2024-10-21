@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:07)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:58, 19:53)",
+        [
+            "Malii Gramercy",
+            700023463
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:52, 20:22)",
+        [
+            "East Side Endoscopy",
+            700023461
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:44, 23:59)",
+        [
+            "Malii Gramercy",
+            700023463
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020096
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:10)",
+        [
+            "Chelsea Juice",
+            700040383
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 16:17)",
+        [
+            "Chase",
+            700004374
+        ]
+    ],
+    [
+        "Participate in a fun recreational activity, like playing a sport or board games.",
+        "(16:43, 18:00)",
+        [
+            "Chelsea Juice",
+            700040383
+        ]
+    ],
+    [
+        "Participate in a fun recreational activity, like playing a sport or board games.",
+        "(18:12, 19:58)",
+        [
+            "Chelsea Juice",
+            700040383
+        ]
+    ],
+    [
+        "Wind down and enjoy a movie or a couple of episodes of a TV series.",
+        "(20:58, 22:38)",
+        [
+            "Chelsea Juice",
+            700040383
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:21, 23:59)",
+        [
+            "Citi Bike - West 13th Street & 7th Avenue",
+            700008198
+        ]
+    ]
+]

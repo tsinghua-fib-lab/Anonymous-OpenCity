@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020082
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:39)",
+        [
+            "",
+            700020141
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 16:37)",
+        [
+            "Westville Chelsea",
+            700008985
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:00, 19:32)",
+        [
+            "Da Andrea",
+            700004344
+        ]
+    ],
+    [
+        "Relax and watch a movie or series at home.",
+        "(19:15, 20:52)",
+        [
+            "Westville Chelsea",
+            700008985
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:34, 23:59)",
+        [
+            "",
+            700020059
+        ]
+    ]
+]

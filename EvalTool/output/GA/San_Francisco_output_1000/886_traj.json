@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Faces SF Hayes Valley Child Development Center Infant and Toddlers",
+            700011016
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(09:00, 10:06)",
+        [
+            "Faces SF Hayes Valley Child Development Center Infant and Toddlers",
+            700011016
+        ]
+    ],
+    [
+        "Catch up on household chores",
+        "(10:54, 11:56)",
+        [
+            "Faces SF Hayes Valley Child Development Center Infant and Toddlers",
+            700011016
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 16:45)",
+        [
+            "UCSF Dental School",
+            700001496
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:37, 19:53)",
+        [
+            "",
+            700008323
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 21:17)",
+        [
+            "UCSF dental school clinic",
+            700001272
+        ]
+    ],
+    [
+        "Next place after preparing dinner and winding down in Situation_3",
+        "(23:03, 23:59)",
+        [
+            "UCSF dental school clinic",
+            700001272
+        ]
+    ]
+]

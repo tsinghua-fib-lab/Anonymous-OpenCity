@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Allie II parking",
+            700008310
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:24)",
+        [
+            "",
+            700001624
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:05, 16:59)",
+        [
+            "",
+            700020844
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 21:00)",
+        [
+            "",
+            700015930
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(21:23, 22:59)",
+        [
+            "Allie II parking",
+            700008310
+        ]
+    ],
+    [
+        "In Allie II parking, continue with leisure activities.",
+        "(23:12, 23:59)",
+        [
+            "Allie II parking",
+            700008310
+        ]
+    ]
+]

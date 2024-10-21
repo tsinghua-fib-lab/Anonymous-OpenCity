@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Samba Kitchen Bar",
+            700009786
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 16:07)",
+        [
+            "Chelsea Grill",
+            700006375
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:38, 14:18)",
+        [
+            "Lilly's",
+            700014819
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(14:36, 15:56)",
+        [
+            "Chelsea Grill",
+            700006375
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 19:02)",
+        [
+            "Yuri Sushi",
+            700009086
+        ]
+    ],
+    [
+        "Dinner at a New Restaurant",
+        "(20:32, 22:04)",
+        [
+            "Yuri Sushi",
+            700009086
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(22:21, 23:59)",
+        [
+            "YUM YUM BANGKOK",
+            700009391
+        ]
+    ]
+]

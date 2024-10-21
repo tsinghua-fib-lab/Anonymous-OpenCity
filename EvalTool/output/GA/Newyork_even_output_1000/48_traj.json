@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Soft Swerve",
+            700005428
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:35)",
+        [
+            "Soft Swerve",
+            700005428
+        ]
+    ],
+    [
+        "Relax & Read",
+        "(11:15, 12:20)",
+        [
+            "Soft Swerve",
+            700005428
+        ]
+    ],
+    [
+        "Relax & Read",
+        "(12:25, 14:09)",
+        [
+            "Soft Swerve",
+            700005428
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:12, 17:04)",
+        [
+            "Soft Swerve",
+            700005428
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:23, 23:12)",
+        [
+            "Williamsburg Pizza",
+            700023649
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 23:59)",
+        [
+            "",
+            700024245
+        ]
+    ]
+]

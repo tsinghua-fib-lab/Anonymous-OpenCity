@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700040624
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:29)",
+        [
+            "The Butcher’s Daughter",
+            700012523
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:16, 21:19)",
+        [
+            "",
+            700003040
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(16:57, 18:51)",
+        [
+            "The Butcher’s Daughter",
+            700012523
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(18:28, 20:00)",
+        [
+            "The Butcher’s Daughter",
+            700012523
+        ]
+    ],
+    [
+        "Dinner with Family or Friends",
+        "(20:13, 21:46)",
+        [
+            "",
+            700001472
+        ]
+    ],
+    [
+        "Dinner with Family or Friends",
+        "(22:27, 23:59)",
+        [
+            "",
+            700003040
+        ]
+    ]
+]

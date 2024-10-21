@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mama's on Washington Square",
+            700000425
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:01)",
+        [
+            "",
+            700009094
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:52, 17:52)",
+        [
+            "",
+            700009110
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:30, 19:34)",
+        [
+            "",
+            700009090
+        ]
+    ],
+    [
+        "Wind Down and Prepare for the Week",
+        "(23:35, 23:59)",
+        [
+            "",
+            700009098
+        ]
+    ]
+]

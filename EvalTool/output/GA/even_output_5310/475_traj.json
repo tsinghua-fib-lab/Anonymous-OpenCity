@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AOC East",
+            700024257
+        ]
+    ],
+    [
+        "Morning Exercise from 10:00 AM to 11:00 AM",
+        "(09:00, 10:19)",
+        [
+            "AOC East",
+            700024257
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:14, 14:50)",
+        [
+            "",
+            700001459
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:47, 17:04)",
+        [
+            "Zaab PuTawn",
+            700014840
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:23, 20:53)",
+        [
+            "Horn's Hook Tavern",
+            700006575
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "La Mia Pizza",
+            700014046
+        ]
+    ]
+]

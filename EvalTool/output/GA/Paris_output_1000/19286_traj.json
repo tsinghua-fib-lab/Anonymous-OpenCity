@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700031364
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:19)",
+        [
+            "La Fontaine",
+            700064575
+        ]
+    ],
+    [
+        "Leisure Time/Entertainment",
+        "(13:24, 16:06)",
+        [
+            "La Fontaine",
+            700064575
+        ]
+    ],
+    [
+        "Leisure Time/Entertainment",
+        "(16:41, 19:06)",
+        [
+            "La Fontaine",
+            700064575
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:27, 23:59)",
+        [
+            "",
+            700036596
+        ]
+    ],
+    [
+        "Wind Down & Relax",
+        "(22:37, 23:46)",
+        [
+            "La Fontaine",
+            700064575
+        ]
+    ]
+]

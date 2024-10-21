@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Caedmon School",
+            700007377
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(10:00, 10:52)",
+        [
+            "Emack & Bolio's",
+            700008954
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(11:09, 13:09)",
+        [
+            "Gracie Mews Restaurant",
+            700013556
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:32, 15:10)",
+        [
+            "",
+            700021676
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:01, 20:26)",
+        [
+            "",
+            700040440
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:17, 21:06)",
+        [
+            "",
+            700021610
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:16, 23:33)",
+        [
+            "",
+            700001459
+        ]
+    ]
+]

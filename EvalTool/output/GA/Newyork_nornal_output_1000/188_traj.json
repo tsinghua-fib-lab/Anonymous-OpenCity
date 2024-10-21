@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020116
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:04)",
+        [
+            "",
+            700020116
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:45, 11:50)",
+        [
+            "\"one star\"",
+            700013496
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:14, 13:50)",
+        [
+            "\"one star\"",
+            700013496
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:00, 19:36)",
+        [
+            "",
+            700001207
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:14, 23:01)",
+        [
+            "Malibu Diner",
+            700040277
+        ]
+    ],
+    [
+        "Go to Malibu Diner",
+        "(22:10, 23:40)",
+        [
+            "Malibu Diner",
+            700040277
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "ViVi Bubble Tea",
+            700014882
+        ]
+    ]
+]

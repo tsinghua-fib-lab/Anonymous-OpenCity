@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010249
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:43)",
+        [
+            "Tenderheart",
+            700010605
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:42, 17:03)",
+        [
+            "Tenderheart",
+            700010605
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(18:05, 19:50)",
+        [
+            "Tú Lan",
+            700000452
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(20:26, 22:05)",
+        [
+            "The Rumpus Room",
+            700004676
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "",
+            700010247
+        ]
+    ]
+]

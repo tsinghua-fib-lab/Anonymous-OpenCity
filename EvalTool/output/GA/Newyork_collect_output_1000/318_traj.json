@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Read or Study",
+        "(10:00, 11:35)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Next activity after reading or studying.",
+        "(12:07, 13:41)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:05, 17:42)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:16, 21:34)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ]
+]

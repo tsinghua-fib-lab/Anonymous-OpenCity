@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700007009
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:57)",
+        [
+            "",
+            700009734
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:47, 12:52)",
+        [
+            "Sutter Pub & Restaurant",
+            700008675
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:47, 17:53)",
+        [
+            "Sutter Pub & Restaurant",
+            700008675
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 21:58)",
+        [
+            "Piraat Pizzeria & Rotisserie",
+            700004532
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(22:39, 23:59)",
+        [
+            "",
+            700007009
+        ]
+    ]
+]

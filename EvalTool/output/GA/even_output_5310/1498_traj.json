@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001930
+        ]
+    ],
+    [
+        "Lunch Preparation",
+        "(10:00, 10:58)",
+        [
+            "",
+            700001930
+        ]
+    ],
+    [
+        "Lunch Preparation",
+        "(11:31, 12:52)",
+        [
+            "",
+            700001930
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:40, 17:13)",
+        [
+            "Zipcar",
+            700008341
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 18:09)",
+        [
+            "City Care Family Practice, PC",
+            700015246
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:39, 21:12)",
+        [
+            "Zipcar",
+            700008341
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:44, 23:59)",
+        [
+            "Ruby's Cafe",
+            700004868
+        ]
+    ]
+]

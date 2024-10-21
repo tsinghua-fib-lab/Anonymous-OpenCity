@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "First Union Baptist church",
+            700005094
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:37)",
+        [
+            "Western Addition Cultural Center",
+            700000433
+        ]
+    ],
+    [
+        "Dinner Prep and Relaxation",
+        "(14:37, 16:57)",
+        [
+            "Western Addition Cultural Center",
+            700000433
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 21:38)",
+        [
+            "Old Holy Virgin Russian Orthodox Cathedral",
+            700000206
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:58, 23:59)",
+        [
+            "",
+            700002899
+        ]
+    ]
+]

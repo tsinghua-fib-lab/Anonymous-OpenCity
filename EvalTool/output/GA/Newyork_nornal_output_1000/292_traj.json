@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Eli's Night Shift",
+            700019740
+        ]
+    ],
+    [
+        "Relaxing at Home",
+        "(10:00, 12:04)",
+        [
+            "",
+            700000948
+        ]
+    ],
+    [
+        "Outdoor Activity/Sport",
+        "(12:33, 14:41)",
+        [
+            "",
+            700001516
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:44, 16:15)",
+        [
+            "Luke’s Bar & Grill",
+            700014854
+        ]
+    ],
+    [
+        "Socializing with Friends",
+        "(16:46, 17:59)",
+        [
+            "Luke’s Bar & Grill",
+            700014854
+        ]
+    ],
+    [
+        "Socializing with Friends",
+        "(18:26, 19:54)",
+        [
+            "Chase",
+            700005989
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:38, 22:44)",
+        [
+            "Chase",
+            700005975
+        ]
+    ],
+    [
+        "Socializing with Friends",
+        "(23:03, 23:59)",
+        [
+            "Eli's Night Shift",
+            700019740
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Watch TV or Movies",
+        "(10:00, 12:05)",
+        [
+            "De Amicis",
+            700041564
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:38, 16:21)",
+        [
+            "Notting Hill Kebab",
+            700029286
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:41, 18:51)",
+        [
+            "",
+            700023795
+        ]
+    ],
+    [
+        "Wind Down with Evening Entertainment",
+        "(19:54, 22:06)",
+        [
+            "",
+            700023795
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "KFC",
+            700041570
+        ]
+    ]
+]

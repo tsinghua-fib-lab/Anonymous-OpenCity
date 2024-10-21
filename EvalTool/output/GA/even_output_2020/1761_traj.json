@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Capital Restaurant",
+            700004691
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:55)",
+        [
+            "Spicy King",
+            700005393
+        ]
+    ],
+    [
+        "Engage in a fun outdoor activity or sports",
+        "(12:30, 14:01)",
+        [
+            "Spicy King",
+            700005393
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(14:29, 16:09)",
+        [
+            "Spicy King",
+            700005393
+        ]
+    ],
+    [
+        "Engage in a fun outdoor activity or sports",
+        "(16:49, 18:13)",
+        [
+            "Spicy King",
+            700005393
+        ]
+    ],
+    [
+        "Dinner Reservations",
+        "(19:10, 20:40)",
+        [
+            "Capital Restaurant",
+            700004691
+        ]
+    ],
+    [
+        "Dinner Reservations",
+        "(21:25, 22:52)",
+        [
+            "Chinatown",
+            700000385
+        ]
+    ],
+    [
+        "Movie Night",
+        "(22:54, 23:59)",
+        [
+            "Capital Restaurant",
+            700004691
+        ]
+    ]
+]

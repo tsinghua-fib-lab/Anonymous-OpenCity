@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002895
+        ]
+    ],
+    [
+        "Exercise or outdoor activity",
+        "(09:00, 10:10)",
+        [
+            "",
+            700002897
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:08, 13:35)",
+        [
+            "First Union Baptist Church",
+            700000310
+        ]
+    ],
+    [
+        "Hobby time or creative activities",
+        "(14:07, 16:02)",
+        [
+            "First Union Baptist Church",
+            700000310
+        ]
+    ],
+    [
+        "Hobby time or creative activities",
+        "(16:13, 17:52)",
+        [
+            "First Union Baptist Church",
+            700000310
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:35, 23:28)",
+        [
+            "Bay Wheels",
+            700005742
+        ]
+    ],
+    [
+        "Go to Bay Wheels",
+        "(22:27, 23:50)",
+        [
+            "Bay Wheels",
+            700005742
+        ]
+    ],
+    [
+        "Stay at Bay Wheels",
+        "(23:54, 23:59)",
+        [
+            "Bay Wheels",
+            700005742
+        ]
+    ]
+]

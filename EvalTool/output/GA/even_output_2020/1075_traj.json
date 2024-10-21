@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Cool Bar",
+            700012103
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:00)",
+        [
+            "",
+            700007517
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:07, 17:53)",
+        [
+            "",
+            700001217
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(16:20, 18:08)",
+        [
+            "Cool Bar",
+            700012103
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:08, 19:49)",
+        [
+            "Cafe Pacific Plaza",
+            700010105
+        ]
+    ],
+    [
+        "Next Stay",
+        "(23:33, 23:59)",
+        [
+            "Cool Bar",
+            700012103
+        ]
+    ]
+]

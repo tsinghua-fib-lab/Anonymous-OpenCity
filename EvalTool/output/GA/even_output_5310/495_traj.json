@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "RED 58",
+            700009272
+        ]
+    ],
+    [
+        "Morning Exercise from 10:00 AM to 11:00 AM",
+        "(09:00, 10:08)",
+        [
+            "RED 58",
+            700009272
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:14, 12:42)",
+        [
+            "Stern Auditorium",
+            700009117
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:47, 17:44)",
+        [
+            "New York Cardiac Diagnostic Center",
+            700016842
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:23, 21:08)",
+        [
+            "New York Cardiac Diagnostic Center",
+            700016842
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:30)",
+        [
+            "Joe & The Juice",
+            700020885
+        ]
+    ]
+]

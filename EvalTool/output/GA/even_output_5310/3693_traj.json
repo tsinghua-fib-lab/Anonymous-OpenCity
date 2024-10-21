@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Los Tacos No. 1",
+            700020645
+        ]
+    ],
+    [
+        "Current Place: Los Tacos No. 1. Stay until 11:45 AM.",
+        "(10:00, 10:56)",
+        [
+            "Takahachi Bakery",
+            700006667
+        ]
+    ],
+    [
+        "Current Place: Los Tacos No. 1. Stay until 11:45 AM.",
+        "(11:09, 12:26)",
+        [
+            "Takahachi Bakery",
+            700006667
+        ]
+    ],
+    [
+        "Current Place: Los Tacos No. 1. Stay until 2:00 PM.",
+        "(13:05, 15:05)",
+        [
+            "Takahachi Bakery",
+            700006667
+        ]
+    ],
+    [
+        "Stay at Los Tacos No. 1",
+        "(15:49, 17:18)",
+        [
+            "Takahachi Bakery",
+            700006667
+        ]
+    ],
+    [
+        "Stay at Los Tacos No. 1.",
+        "(17:28, 18:32)",
+        [
+            "Takahachi Bakery",
+            700006667
+        ]
+    ],
+    [
+        "Stay at Los Tacos No. 1",
+        "(18:54, 20:42)",
+        [
+            "Takahachi Bakery",
+            700006667
+        ]
+    ],
+    [
+        "Stay at Los Tacos No. 1.",
+        "(21:08, 22:24)",
+        [
+            "Takahachi Bakery",
+            700006667
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "",
+            700036778
+        ]
+    ]
+]

@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020970
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:49)",
+        [
+            "",
+            700019067
+        ]
+    ],
+    [
+        "Leisure Time (Reading/Watching TV)",
+        "(10:39, 12:46)",
+        [
+            "",
+            700019067
+        ]
+    ],
+    [
+        "Leisure Time (Reading/Watching TV)",
+        "(12:18, 13:51)",
+        [
+            "Blind Barber",
+            700008784
+        ]
+    ],
+    [
+        "Social Time (Friends/Family)",
+        "(14:38, 16:48)",
+        [
+            "Blind Barber",
+            700008784
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:21, 17:58)",
+        [
+            "Good Old Lower East Side",
+            700015185
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(17:55, 20:10)",
+        [
+            "",
+            700020970
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(20:10, 21:24)",
+        [
+            "",
+            700020970
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(21:34, 22:59)",
+        [
+            "Hole In The Wall",
+            700020969
+        ]
+    ],
+    [
+        "Social Time (Friends/Family)",
+        "(23:39, 23:59)",
+        [
+            "",
+            700018202
+        ]
+    ]
+]

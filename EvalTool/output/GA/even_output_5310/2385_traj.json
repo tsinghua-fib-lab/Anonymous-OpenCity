@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700035837
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 12:02)",
+        [
+            "",
+            700035837
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(12:23, 13:54)",
+        [
+            "",
+            700036628
+        ]
+    ],
+    [
+        "Hobby or Creative Time",
+        "(14:37, 16:30)",
+        [
+            "",
+            700036500
+        ]
+    ],
+    [
+        "Hobby or Creative Time",
+        "(17:13, 20:01)",
+        [
+            "Citi Bike - Pershing Square South",
+            700008163
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(20:23, 22:08)",
+        [
+            "Citi Bike - Pershing Square South",
+            700008163
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:47, 23:59)",
+        [
+            "",
+            700037618
+        ]
+    ]
+]

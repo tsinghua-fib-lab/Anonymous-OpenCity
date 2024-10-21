@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700021976
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:44)",
+        [
+            "Baker Theatre Building",
+            700006562
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:35, 17:14)",
+        [
+            "FDNY Engine 39/Ladder 16",
+            700000531
+        ]
+    ],
+    [
+        "Have dinner and relax",
+        "(17:30, 19:03)",
+        [
+            "FDNY Engine 39/Ladder 16",
+            700000531
+        ]
+    ],
+    [
+        "Stay at FDNY Engine 39/Ladder 16",
+        "(19:22, 21:05)",
+        [
+            "FDNY Engine 39/Ladder 16",
+            700000531
+        ]
+    ],
+    [
+        "Stay at FDNY Engine 39/Ladder 16",
+        "(21:11, 22:47)",
+        [
+            "FDNY Engine 39/Ladder 16",
+            700000531
+        ]
+    ],
+    [
+        "Stay at FDNY Engine 39/Ladder 16.",
+        "(23:16, 23:59)",
+        [
+            "Kennedy Child Study Center",
+            700000274
+        ]
+    ]
+]

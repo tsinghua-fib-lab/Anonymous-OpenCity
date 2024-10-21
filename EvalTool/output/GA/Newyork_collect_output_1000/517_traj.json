@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(10:00, 12:03)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(12:40, 14:01)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:47, 17:44)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:34, 19:42)",
+        [
+            "",
+            700022506
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:42, 21:09)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(21:16, 23:08)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:10, 23:59)",
+        [
+            "",
+            700022507
+        ]
+    ]
+]

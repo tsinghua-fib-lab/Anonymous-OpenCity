@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Toronado",
+            700000001
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:50)",
+        [
+            "Taquería Estrella",
+            700005304
+        ]
+    ],
+    [
+        "Engage in a Hobby or Craft",
+        "(13:26, 14:50)",
+        [
+            "Taquería Estrella",
+            700005304
+        ]
+    ],
+    [
+        "Prepare and Have Dinner",
+        "(15:07, 15:59)",
+        [
+            "Purple Rice",
+            700005477
+        ]
+    ],
+    [
+        "Hobby or Craft",
+        "(16:44, 18:41)",
+        [
+            "Berliner Berliner",
+            700000963
+        ]
+    ],
+    [
+        "Prepare and Have Dinner",
+        "(18:54, 19:58)",
+        [
+            "Berliner Berliner",
+            700000963
+        ]
+    ],
+    [
+        "Prepare and Have Dinner",
+        "(20:33, 22:03)",
+        [
+            "Purple Rice",
+            700005477
+        ]
+    ],
+    [
+        "Socialize, Call a Friend or Family",
+        "(21:05, 22:19)",
+        [
+            "VRV3 Studios",
+            700001548
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:05, 23:59)",
+        [
+            "Hot Zushi",
+            700005303
+        ]
+    ]
+]

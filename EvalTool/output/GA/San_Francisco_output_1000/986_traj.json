@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008352
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:05)",
+        [
+            "La Cuisine Cafe",
+            700009443
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(12:59, 14:00)",
+        [
+            "La Cuisine Cafe",
+            700009443
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 17:41)",
+        [
+            "",
+            700010986
+        ]
+    ],
+    [
+        "Watch TV or relax before bed",
+        "(20:35, 21:51)",
+        [
+            "La Cuisine Cafe",
+            700009443
+        ]
+    ],
+    [
+        "Next activity after relaxing day",
+        "(22:24, 23:59)",
+        [
+            "La Cuisine Cafe",
+            700009443
+        ]
+    ],
+    [
+        "Next activity after relaxing day",
+        "(23:46, 23:59)",
+        [
+            "La Cuisine Cafe",
+            700009443
+        ]
+    ]
+]

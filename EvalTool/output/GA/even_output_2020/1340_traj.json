@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Palmyra Restaurant",
+            700001268
+        ]
+    ],
+    [
+        "11:00 AM - 1:00 PM",
+        "(10:00, 12:10)",
+        [
+            "Otra",
+            700004208
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 16:57)",
+        [
+            "Peacock Lounge",
+            700005486
+        ]
+    ],
+    [
+        "Stay at Palmyra Restaurant",
+        "(17:57, 19:09)",
+        [
+            "Peacock Lounge",
+            700005486
+        ]
+    ],
+    [
+        "Stay at Palmyra Restaurant",
+        "(19:16, 21:01)",
+        [
+            "Palmyra Restaurant",
+            700001268
+        ]
+    ],
+    [
+        "Stay at Palmyra Restaurant",
+        "(21:29, 23:04)",
+        [
+            "Peacock Lounge",
+            700005486
+        ]
+    ],
+    [
+        "Stay at Palmyra Restaurant",
+        "(23:38, 23:59)",
+        [
+            "Peacock Lounge",
+            700005486
+        ]
+    ]
+]

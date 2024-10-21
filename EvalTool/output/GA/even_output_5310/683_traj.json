@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002423
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:50)",
+        [
+            "",
+            700012158
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:23, 13:54)",
+        [
+            "Elephant and Castle",
+            700005688
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:31, 16:07)",
+        [
+            "Elephant and Castle",
+            700005688
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:37, 17:53)",
+        [
+            "Elephant and Castle",
+            700005688
+        ]
+    ],
+    [
+        "Dinner Preparation & Cooking",
+        "(18:20, 19:47)",
+        [
+            "Roey's",
+            700008872
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(21:00, 23:03)",
+        [
+            "Elephant and Castle",
+            700005688
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:09, 23:59)",
+        [
+            "",
+            700012160
+        ]
+    ]
+]

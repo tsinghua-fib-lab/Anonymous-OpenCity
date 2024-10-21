@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002269
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:48)",
+        [
+            "Teaspoon",
+            700005265
+        ]
+    ],
+    [
+        "Relaxation/Entertainment",
+        "(14:38, 15:58)",
+        [
+            "Teaspoon",
+            700005265
+        ]
+    ],
+    [
+        "Cooking and Preparing Dinner",
+        "(16:22, 18:21)",
+        [
+            "Teaspoon",
+            700005265
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:15, 20:44)",
+        [
+            "Rouge Night Club",
+            700002096
+        ]
+    ],
+    [
+        "Next Arrangements: Go to Rouges Night Club",
+        "(20:14, 21:43)",
+        [
+            "Rouge Night Club",
+            700002096
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:31, 23:59)",
+        [
+            "Ramen Sho Ryu",
+            700005264
+        ]
+    ]
+]

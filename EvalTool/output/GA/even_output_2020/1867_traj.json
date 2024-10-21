@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Yummy Pizza",
+            700002397
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the park nearby",
+        "(10:00, 11:00)",
+        [
+            "",
+            700009557
+        ]
+    ],
+    [
+        "Next, stay at The UPS Store.",
+        "(11:08, 12:55)",
+        [
+            "Hoa Phat",
+            700003364
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:51, 17:58)",
+        [
+            "Quickly",
+            700009606
+        ]
+    ],
+    [
+        "Stay at your current location, trying to catch a glimpse of a local event.",
+        "(19:39, 21:50)",
+        [
+            "Yummy Pizza",
+            700002397
+        ]
+    ],
+    [
+        "Stay at KFC",
+        "(22:10, 23:30)",
+        [
+            "",
+            700004957
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "Lafayette Coffee Shop",
+            700005076
+        ]
+    ]
+]

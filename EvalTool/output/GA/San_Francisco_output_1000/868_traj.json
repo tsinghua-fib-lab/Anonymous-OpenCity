@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Temporarium",
+            700004779
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:36)",
+        [
+            "Mission Picnic",
+            700005604
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 12:55)",
+        [
+            "",
+            700005718
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 20:48)",
+        [
+            "El Majahual",
+            700003559
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:04, 23:37)",
+        [
+            "",
+            700001295
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:28, 23:59)",
+        [
+            "Valencia Cyclery",
+            700003152
+        ]
+    ]
+]

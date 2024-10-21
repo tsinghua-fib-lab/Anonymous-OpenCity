@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009287
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:55)",
+        [
+            "",
+            700009285
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:20, 11:55)",
+        [
+            "",
+            700009288
+        ]
+    ],
+    [
+        "Brunch with Friends/Family",
+        "(12:45, 14:25)",
+        [
+            "",
+            700008876
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:10, 18:38)",
+        [
+            "",
+            700009288
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 20:13)",
+        [
+            "U.S. Bank",
+            700000771
+        ]
+    ],
+    [
+        "Evening Relaxation and TV Time",
+        "(19:43, 20:56)",
+        [
+            "",
+            700009287
+        ]
+    ],
+    [
+        "Evening Relaxation and TV Time",
+        "(21:40, 23:27)",
+        [
+            "",
+            700009287
+        ]
+    ],
+    [
+        "Evening Relaxation and TV Time",
+        "(23:24, 23:59)",
+        [
+            "",
+            700009287
+        ]
+    ]
+]

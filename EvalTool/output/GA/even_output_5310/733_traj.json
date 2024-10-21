@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "icon 24hr Parking",
+            700010474
+        ]
+    ],
+    [
+        "Go for a morning jog or walk in the park",
+        "(10:00, 10:50)",
+        [
+            "icon 24hr Parking",
+            700010474
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:05, 15:57)",
+        [
+            "",
+            700010473
+        ]
+    ],
+    [
+        "Engage in a recreational activity, like playing tennis or going to the gym.",
+        "(16:09, 17:38)",
+        [
+            "",
+            700023623
+        ]
+    ],
+    [
+        "Stay at icon 24hr Parking.",
+        "(18:28, 20:06)",
+        [
+            "icon 24hr Parking",
+            700010474
+        ]
+    ],
+    [
+        "Stay at the current place.",
+        "(20:21, 22:25)",
+        [
+            "icon 24hr Parking",
+            700010474
+        ]
+    ],
+    [
+        "Stay at icon 24hr Parking.",
+        "(22:35, 23:49)",
+        [
+            "icon 24hr Parking",
+            700010474
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "Citi Bike - East 39th Street & 2nd Avenue",
+            700008045
+        ]
+    ]
+]

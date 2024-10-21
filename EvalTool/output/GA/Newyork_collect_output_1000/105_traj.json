@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:48)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Lunch while catching up on a favorite podcast or some light reading.",
+        "(12:03, 13:02)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Lunch while catching up on a favorite podcast or some light reading.",
+        "(13:01, 14:54)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Go to The UPS Store",
+        "(15:46, 16:57)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:32, 20:25)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 22:53)",
+        [
+            "Coletta",
+            700015591
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill",
+        "(22:37, 23:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ]
+]

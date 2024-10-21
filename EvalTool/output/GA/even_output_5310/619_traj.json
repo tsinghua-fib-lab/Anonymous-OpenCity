@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "SIMÒ PIZZA",
+            700007658
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:32)",
+        [
+            "",
+            700001124
+        ]
+    ],
+    [
+        "Continue reading or pursuing a hobby.",
+        "(13:10, 14:56)",
+        [
+            "maman",
+            700004115
+        ]
+    ],
+    [
+        "Reading or pursuing a hobby",
+        "(15:04, 16:51)",
+        [
+            "maman",
+            700004115
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 18:38)",
+        [
+            "Peacefood",
+            700024818
+        ]
+    ],
+    [
+        "Stay at SIMÒ PIZZA",
+        "(20:22, 21:44)",
+        [
+            "Peacefood",
+            700024818
+        ]
+    ],
+    [
+        "Stay at SIMÒ PIZZA.",
+        "(22:23, 23:59)",
+        [
+            "SIMÒ PIZZA",
+            700007658
+        ]
+    ]
+]

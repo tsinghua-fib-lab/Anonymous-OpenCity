@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Little Italy Pizza",
+            700020648
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:00)",
+        [
+            "",
+            700002318
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:26, 17:27)",
+        [
+            "Checkers",
+            700033959
+        ]
+    ],
+    [
+        "Catch up with Friends or Family",
+        "(17:04, 18:57)",
+        [
+            "",
+            700006669
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 23:59)",
+        [
+            "Citi Bike - Reade Street & Broadway",
+            700008169
+        ]
+    ]
+]

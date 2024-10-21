@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:40)",
+        [
+            "",
+            700013308
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(16:54, 18:06)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 20:26)",
+        [
+            "",
+            700009438
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(22:20, 23:59)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "Vikings Giant Subs",
+            700004972
+        ]
+    ]
+]

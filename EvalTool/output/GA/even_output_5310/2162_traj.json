@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003104
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:35)",
+        [
+            "",
+            700001603
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 17:53)",
+        [
+            "Molcajete Taqueria",
+            700011965
+        ]
+    ],
+    [
+        "Relaxation and Leisure Time",
+        "(14:34, 16:30)",
+        [
+            "",
+            700003104
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 20:02)",
+        [
+            "Favela Cubana",
+            700007793
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(22:07, 23:42)",
+        [
+            "",
+            700001010
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:55, 23:59)",
+        [
+            "Wicked Willy's",
+            700008491
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:28)",
+        [
+            "Bus Stop Cafe",
+            700014180
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:46, 12:56)",
+        [
+            "",
+            700010536
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:51, 17:13)",
+        [
+            "Frankies Sputino 570",
+            700005693
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:19, 17:44)",
+        [
+            "Sushi West",
+            700013966
+        ]
+    ],
+    [
+        "Wind Down & TV Time",
+        "(21:21, 23:06)",
+        [
+            "Frankies Sputino 570",
+            700005693
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:41, 23:59)",
+        [
+            "Made in New York Pizza",
+            700027989
+        ]
+    ]
+]

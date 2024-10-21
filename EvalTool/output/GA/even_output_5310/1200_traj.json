@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of America",
+            700008936
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 12:07)",
+        [
+            "Broadway Deli",
+            700030074
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 15:01)",
+        [
+            "HSBC",
+            700030075
+        ]
+    ],
+    [
+        "Go for a morning walk or jog in the park",
+        "(15:46, 16:46)",
+        [
+            "Broadway Deli",
+            700030074
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:00, 19:36)",
+        [
+            "",
+            700001126
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 21:51)",
+        [
+            "Bank of America",
+            700008936
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(22:14, 23:47)",
+        [
+            "",
+            700002042
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(23:47, 23:59)",
+        [
+            "Bank of America",
+            700008936
+        ]
+    ]
+]

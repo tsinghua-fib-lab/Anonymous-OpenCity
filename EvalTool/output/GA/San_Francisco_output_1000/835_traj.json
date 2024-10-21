@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Stuart Hall for Boys",
+            700007565
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:22)",
+        [
+            "",
+            700014115
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 16:23)",
+        [
+            "Contrada",
+            700004833
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 17:34)",
+        [
+            "SoulCycle",
+            700005581
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:04, 21:21)",
+        [
+            "Shake Shack",
+            700007070
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:28, 23:59)",
+        [
+            "Equinox Gym",
+            700002315
+        ]
+    ]
+]

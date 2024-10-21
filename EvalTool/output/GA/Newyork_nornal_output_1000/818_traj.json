@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "East Side Glatt",
+            700019775
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(10:00, 11:55)",
+        [
+            "Parkside Lounge",
+            700004037
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(12:10, 14:10)",
+        [
+            "Parkside Lounge",
+            700004037
+        ]
+    ],
+    [
+        "Downtime/Watch TV",
+        "(14:32, 16:30)",
+        [
+            "East Side Glatt",
+            700019775
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:21, 21:44)",
+        [
+            "Wing Hing",
+            700003819
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:35, 23:47)",
+        [
+            "",
+            700031277
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:15, 23:59)",
+        [
+            "",
+            700002057
+        ]
+    ]
+]

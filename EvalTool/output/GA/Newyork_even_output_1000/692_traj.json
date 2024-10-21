@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Public School 196",
+            700000049
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:16)",
+        [
+            "",
+            700002275
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(14:20, 16:28)",
+        [
+            "Public School 196",
+            700000049
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:58, 19:47)",
+        [
+            "Toyota Children's Learning Garden",
+            700000401
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 23:50)",
+        [
+            "Lucky",
+            700029808
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Toyota Children's Learning Garden",
+            700000401
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bush Street-Cottage Row Historic District",
+            700000319
+        ]
+    ],
+    [
+        "Check Emails & Plan the Week",
+        "(10:00, 11:05)",
+        [
+            "Bush Street-Cottage Row Historic District",
+            700000319
+        ]
+    ],
+    [
+        "Check Emails & Plan the Week",
+        "(11:05, 12:11)",
+        [
+            "Bush Street-Cottage Row Historic District",
+            700000319
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:22, 16:27)",
+        [
+            "",
+            700000788
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:18, 23:59)",
+        [
+            "",
+            700002268
+        ]
+    ],
+    [
+        "Stay at Bush Street-Cottage Row Historic District.",
+        "(22:56, 23:59)",
+        [
+            "Tacobar",
+            700005808
+        ]
+    ]
+]

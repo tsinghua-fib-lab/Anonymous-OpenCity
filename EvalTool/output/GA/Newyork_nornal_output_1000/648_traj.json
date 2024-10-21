@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Gastro Market",
+            700033674
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(09:00, 09:59)",
+        [
+            "",
+            700022698
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:24, 12:05)",
+        [
+            "Gastro Market",
+            700033674
+        ]
+    ],
+    [
+        "Lunch preparation and enjoyment",
+        "(12:36, 14:11)",
+        [
+            "Gastro Market",
+            700033674
+        ]
+    ],
+    [
+        "Creative Project/Workshop",
+        "(14:28, 16:05)",
+        [
+            "",
+            700001087
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 20:51)",
+        [
+            "Hooters",
+            700003480
+        ]
+    ],
+    [
+        "Stay at Merchant's.",
+        "(19:45, 20:57)",
+        [
+            "",
+            700017976
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:51, 23:59)",
+        [
+            "Brooklyn Diner",
+            700003479
+        ]
+    ],
+    [
+        "Go to the Gastro Market.",
+        "(23:38, 23:59)",
+        [
+            "Gastro Market",
+            700033674
+        ]
+    ]
+]

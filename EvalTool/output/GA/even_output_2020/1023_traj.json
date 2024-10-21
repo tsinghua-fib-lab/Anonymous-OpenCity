@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mauna Loa Cocktails",
+            700002643
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 11:00)",
+        [
+            "Mauna Loa Cocktails",
+            700002643
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:43, 13:00)",
+        [
+            "Shake Shack",
+            700007070
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 17:58)",
+        [
+            "Earthbar",
+            700005579
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:04, 16:56)",
+        [
+            "Earthbar",
+            700005579
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:43, 19:16)",
+        [
+            "Mixt",
+            700005576
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:57, 23:59)",
+        [
+            "",
+            700002642
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chelsea Inn",
+            700004494
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:29)",
+        [
+            "Chelsea Inn",
+            700004494
+        ]
+    ],
+    [
+        "Go to Chelsea Inn",
+        "(11:59, 12:59)",
+        [
+            "Chelsea Inn",
+            700004494
+        ]
+    ],
+    [
+        "Engage in a hobby or activity you love, such as reading, painting, or playing a musical instrument.",
+        "(13:51, 15:28)",
+        [
+            "Chelsea Inn",
+            700004494
+        ]
+    ],
+    [
+        "Engage in a hobby or activity you love, such as reading, painting, or playing a musical instrument.",
+        "(15:40, 17:03)",
+        [
+            "Chelsea Inn",
+            700004494
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:55, 23:59)",
+        [
+            "BLT Fish",
+            700004492
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 23:59)",
+        [
+            "",
+            700001231
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:01, 23:59)",
+        [
+            "Chelsea Inn",
+            700004494
+        ]
+    ]
+]

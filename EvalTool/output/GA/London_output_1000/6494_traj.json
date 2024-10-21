@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:28)",
+        [
+            "Charles Artisan Bakery",
+            700030735
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 19:30)",
+        [
+            "",
+            700067010
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:44, 19:04)",
+        [
+            "",
+            700033019
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(20:06, 21:44)",
+        [
+            "",
+            700014118
+        ]
+    ],
+    [
+        "Next outing considering the remaining time.",
+        "(22:01, 23:22)",
+        [
+            "",
+            700067009
+        ]
+    ],
+    [
+        "Go to Top Secret Comedy Club",
+        "(23:36, 23:59)",
+        [
+            "",
+            700000132
+        ]
+    ]
+]

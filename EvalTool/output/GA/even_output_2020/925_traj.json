@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tamarind Hall",
+            700003567
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:50)",
+        [
+            "El Farolito",
+            700006214
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:17, 14:08)",
+        [
+            "Taqueria Zorro",
+            700001847
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:53, 17:59)",
+        [
+            "Pizzelle di North Beach",
+            700005963
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:42, 19:00)",
+        [
+            "Tamarind Hall",
+            700003567
+        ]
+    ],
+    [
+        "Wind Down",
+        "(19:52, 21:32)",
+        [
+            "Caffe Trieste",
+            700000119
+        ]
+    ],
+    [
+        "Wind Down",
+        "(22:22, 23:55)",
+        [
+            "Caffe Trieste",
+            700000119
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700072222
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:05)",
+        [
+            "Non Coupable",
+            700023727
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 14:46)",
+        [
+            "",
+            700015005
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 20:31)",
+        [
+            "printemps du goût",
+            700046625
+        ]
+    ],
+    [
+        "Stay at printemps du goût.",
+        "(23:10, 23:59)",
+        [
+            "printemps du goût",
+            700046625
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Jasper's",
+            700001083
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:19)",
+        [
+            "Dollar",
+            700000755
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(12:59, 13:52)",
+        [
+            "Dollar",
+            700000755
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 15:52)",
+        [
+            "",
+            700000753
+        ]
+    ],
+    [
+        "Watch TV or relax before bed",
+        "(20:35, 21:51)",
+        [
+            "Dollar",
+            700000755
+        ]
+    ],
+    [
+        "Next activity after relaxing day",
+        "(22:24, 23:56)",
+        [
+            "Dollar",
+            700000755
+        ]
+    ],
+    [
+        "Next activity after relaxing day",
+        "(23:46, 23:59)",
+        [
+            "Dollar",
+            700000755
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:42)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(12:22, 13:42)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:20, 17:12)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(16:34, 17:54)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(18:39, 20:06)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 22:27)",
+        [
+            "",
+            700022517
+        ]
+    ],
+    [
+        "Relaxing Evening & TV Time",
+        "(22:51, 23:59)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ]
+]

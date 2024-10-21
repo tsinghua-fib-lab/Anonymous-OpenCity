@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Clover Grill",
+            700026079
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:50)",
+        [
+            "Chez Alexandre",
+            700038646
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(14:28, 16:31)",
+        [
+            "Chez Alexandre",
+            700038646
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:26, 18:57)",
+        [
+            "Chez Alexandre",
+            700038646
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:40, 22:06)",
+        [
+            "Chez Alexandre",
+            700038646
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(22:19, 23:59)",
+        [
+            "Chez Alexandre",
+            700038646
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000858
+        ]
+    ],
+    [
+        "Exercise Session",
+        "(10:00, 10:53)",
+        [
+            "",
+            700000989
+        ]
+    ],
+    [
+        "Exercise Session",
+        "(11:47, 13:01)",
+        [
+            "Kafana",
+            700008851
+        ]
+    ],
+    [
+        "Visit a Museum or Art Gallery",
+        "(13:37, 15:33)",
+        [
+            "",
+            700002772
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(16:27, 18:04)",
+        [
+            "Kafana",
+            700008851
+        ]
+    ],
+    [
+        "Stay at Kafana",
+        "(19:10, 20:52)",
+        [
+            "Kafana",
+            700008851
+        ]
+    ],
+    [
+        "Dinner Preparation & Enjoying a Meal",
+        "(21:26, 23:07)",
+        [
+            "Kafana",
+            700008851
+        ]
+    ],
+    [
+        "Stay at Kafana",
+        "(23:36, 23:59)",
+        [
+            "Kafana",
+            700008851
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700023531
+        ]
+    ],
+    [
+        "11:00 AM - 12:30 PM",
+        "(10:00, 11:39)",
+        [
+            "",
+            700020902
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:00, 13:02)",
+        [
+            "",
+            700023532
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:42, 19:46)",
+        [
+            "",
+            700020913
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:18, 18:53)",
+        [
+            "",
+            700002667
+        ]
+    ],
+    [
+        "Spend time at Chipotle.",
+        "(19:45, 21:05)",
+        [
+            "Barrow's Pub",
+            700005292
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a TV series for relaxation before winding down for the night.",
+        "(21:08, 22:45)",
+        [
+            "",
+            700000739
+        ]
+    ],
+    [
+        "Spend time.",
+        "(22:49, 23:54)",
+        [
+            "",
+            700001225
+        ]
+    ],
+    [
+        "Stay at Chipotle.",
+        "(23:53, 23:59)",
+        [
+            "Henrietta Hudson",
+            700014602
+        ]
+    ]
+]

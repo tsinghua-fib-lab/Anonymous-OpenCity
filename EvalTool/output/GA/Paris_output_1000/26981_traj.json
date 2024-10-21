@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700016133
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:35)",
+        [
+            "Armée du Salut",
+            700067925
+        ]
+    ],
+    [
+        "Enjoy leisure activities.",
+        "(12:13, 14:22)",
+        [
+            "Armée du Salut",
+            700067925
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 19:41)",
+        [
+            "",
+            700016130
+        ]
+    ],
+    [
+        "Enjoy leisure activities.",
+        "(20:47, 22:22)",
+        [
+            "Armée du Salut",
+            700067925
+        ]
+    ],
+    [
+        "Stay at Armée du Salut.",
+        "(22:45, 23:59)",
+        [
+            "Armée du Salut",
+            700067925
+        ]
+    ],
+    [
+        "Stay at Five Guys.",
+        "(23:56, 23:59)",
+        [
+            "",
+            700057814
+        ]
+    ]
+]

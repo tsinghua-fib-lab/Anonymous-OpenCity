@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Jasmine Garden",
+            700003645
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:14)",
+        [
+            "Il Casaro Pizzeria",
+            700009176
+        ]
+    ],
+    [
+        "Explore Local Attractions",
+        "(11:33, 13:40)",
+        [
+            "Church Street Cafe",
+            700002101
+        ]
+    ],
+    [
+        "Explore Local Attractions",
+        "(13:38, 15:09)",
+        [
+            "Il Casaro Pizzeria",
+            700009176
+        ]
+    ],
+    [
+        "Explore Local Attractions",
+        "(15:38, 17:09)",
+        [
+            "Il Casaro Pizzeria",
+            700009176
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:58, 23:14)",
+        [
+            "Red Jade",
+            700009177
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 23:59)",
+        [
+            "",
+            700001942
+        ]
+    ]
+]

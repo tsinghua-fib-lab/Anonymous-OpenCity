@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:10)",
+        [
+            "",
+            700023793
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:34, 13:06)",
+        [
+            "The Money Exchange",
+            700041567
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:47, 15:03)",
+        [
+            "The Money Exchange",
+            700041567
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 17:14)",
+        [
+            "",
+            700073787
+        ]
+    ],
+    [
+        "Wawa",
+        "(20:33, 22:11)",
+        [
+            "Notting Hill Arts Club",
+            700016502
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:55, 23:59)",
+        [
+            "Mail Boxes Etc.",
+            700041565
+        ]
+    ]
+]

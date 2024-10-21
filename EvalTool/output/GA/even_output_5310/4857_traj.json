@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001259
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:07)",
+        [
+            "The Wayland",
+            700014143
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 18:26)",
+        [
+            "9th St Espresso",
+            700003272
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(16:50, 17:50)",
+        [
+            "",
+            700002297
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:38, 23:59)",
+        [
+            "9th St Espresso",
+            700003272
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:50, 23:22)",
+        [
+            "NYPD 9 PCT",
+            700004363
+        ]
+    ]
+]

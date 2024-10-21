@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 09:56)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(10:15, 11:48)",
+        [
+            "",
+            700020821
+        ]
+    ],
+    [
+        "Visit a Local Library or Community Center",
+        "(12:23, 13:59)",
+        [
+            "John Lovejoy Elliott Center",
+            700004675
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:33, 16:09)",
+        [
+            "John Lovejoy Elliott Center",
+            700004675
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:59, 22:07)",
+        [
+            "Music For a While",
+            700039638
+        ]
+    ],
+    [
+        "Socialize with Friends or Family",
+        "(22:59, 23:59)",
+        [
+            "Music For a While",
+            700039638
+        ]
+    ]
+]

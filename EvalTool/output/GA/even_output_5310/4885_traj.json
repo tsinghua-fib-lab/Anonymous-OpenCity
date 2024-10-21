@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Library",
+            700006113
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:16)",
+        [
+            "Wiggle Room",
+            700030272
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(12:49, 14:10)",
+        [
+            "Wiggle Room",
+            700030272
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 19:04)",
+        [
+            "Katz's Delicatessen",
+            700003882
+        ]
+    ],
+    [
+        "Dinner and TV Time",
+        "(19:27, 20:56)",
+        [
+            "Katz's Delicatessen",
+            700003882
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 23:59)",
+        [
+            "",
+            700025328
+        ]
+    ],
+    [
+        "Stay at Aire Ancient Baths",
+        "(22:14, 23:59)",
+        [
+            "",
+            700025328
+        ]
+    ]
+]

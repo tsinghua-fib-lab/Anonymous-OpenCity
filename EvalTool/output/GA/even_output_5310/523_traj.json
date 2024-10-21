@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700022211
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:44)",
+        [
+            "Starbucks",
+            700005980
+        ]
+    ],
+    [
+        "Late Afternoon Relaxation",
+        "(12:33, 13:55)",
+        [
+            "Starbucks",
+            700022211
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:33, 20:05)",
+        [
+            "Duane Reade",
+            700012667
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:33, 23:59)",
+        [
+            "Starbucks",
+            700022211
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:39, 23:59)",
+        [
+            "Citi Bike",
+            700020621
+        ]
+    ]
+]

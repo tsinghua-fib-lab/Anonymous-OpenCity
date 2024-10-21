@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 10:52)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:32, 13:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(13:44, 15:24)",
+        [
+            "",
+            700011091
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(15:25, 17:10)",
+        [
+            "Gezellig",
+            700011877
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(17:38, 18:53)",
+        [
+            "Happy Lamb Hot Pot",
+            700038811
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(19:38, 20:55)",
+        [
+            "Happy Lamb Hot Pot",
+            700038811
+        ]
+    ],
+    [
+        "Dinner & Family Time",
+        "(21:52, 23:19)",
+        [
+            "Happy Lamb Hot Pot",
+            700038811
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:36, 23:59)",
+        [
+            "",
+            700014754
+        ]
+    ]
+]

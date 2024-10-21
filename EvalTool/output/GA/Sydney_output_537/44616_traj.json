@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "P7",
+            700000456
+        ]
+    ],
+    [
+        "Lunch with Friends/Family (2:00 PM - 3:30 PM)",
+        "(10:00, 11:23)",
+        [
+            "Oliver Brown",
+            700020904
+        ]
+    ],
+    [
+        "Lunch with Friends/Family (2:00 PM - 3:30 PM)",
+        "(11:45, 12:51)",
+        [
+            "Oliver Brown",
+            700020904
+        ]
+    ],
+    [
+        "Relax and Catch Up on Reading/TV",
+        "(13:02, 15:09)",
+        [
+            "Oliver Brown",
+            700020904
+        ]
+    ],
+    [
+        "Relax and Catch Up on Reading/TV",
+        "(15:04, 17:38)",
+        [
+            "Oliver Brown",
+            700020904
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(18:08, 19:43)",
+        [
+            "Oliver Brown",
+            700020904
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(20:13, 21:49)",
+        [
+            "",
+            700023317
+        ]
+    ],
+    [
+        "Relax and Catch Up on Reading/TV",
+        "(22:19, 23:50)",
+        [
+            "Oliver Brown",
+            700020904
+        ]
+    ]
+]

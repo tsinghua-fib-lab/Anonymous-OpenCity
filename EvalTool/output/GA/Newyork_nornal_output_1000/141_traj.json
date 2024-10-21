@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002546
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:59)",
+        [
+            "Equinox",
+            700004743
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:03, 13:58)",
+        [
+            "Equinox",
+            700004743
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:27, 16:03)",
+        [
+            "Equinox",
+            700004743
+        ]
+    ],
+    [
+        "Connect with Friends/Family",
+        "(16:31, 18:01)",
+        [
+            "Equinox",
+            700004743
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:34, 19:56)",
+        [
+            "Broadway Deli",
+            700030074
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(20:23, 21:51)",
+        [
+            "Harvestworks",
+            700004744
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:47, 23:59)",
+        [
+            "",
+            700002659
+        ]
+    ]
+]

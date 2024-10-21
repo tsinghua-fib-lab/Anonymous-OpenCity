@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Luke’s Bar & Grill",
+            700014854
+        ]
+    ],
+    [
+        "Outdoor Exercise or Sports",
+        "(10:00, 10:55)",
+        [
+            "Luke’s Bar & Grill",
+            700014854
+        ]
+    ],
+    [
+        "Outdoor Exercise or Sports",
+        "(11:02, 13:05)",
+        [
+            "Luke’s Bar & Grill",
+            700014854
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:25, 16:06)",
+        [
+            "Luke’s Bar & Grill",
+            700014854
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:58, 18:08)",
+        [
+            "Luke’s Bar & Grill",
+            700014854
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 21:24)",
+        [
+            "Chopt",
+            700017446
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:36, 23:35)",
+        [
+            "Sushi Noz",
+            700019735
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(23:54, 23:59)",
+        [
+            "Citi bike - East 77th Street & 3rd Avenue",
+            700017448
+        ]
+    ]
+]

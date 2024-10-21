@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Spike's Coffees and Teas",
+            700007870
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:54)",
+        [
+            "Bank of America",
+            700002201
+        ]
+    ],
+    [
+        "2:00 PM - Outdoor Activity",
+        "(12:54, 14:21)",
+        [
+            "Thai House Express",
+            700002204
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 19:42)",
+        [
+            "Oz Pizza",
+            700001916
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(16:19, 17:57)",
+        [
+            "Oz Pizza",
+            700001916
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 22:00)",
+        [
+            "Bank of America",
+            700002201
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:53, 20:52)",
+        [
+            "Oz Pizza",
+            700001916
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:31, 23:59)",
+        [
+            "Thai House Express",
+            700002204
+        ]
+    ]
+]

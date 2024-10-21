@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 11:51)",
+        [
+            "Grand Sichuan",
+            700006165
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 13:42)",
+        [
+            "Famous Original Ray's Pizza",
+            700004404
+        ]
+    ],
+    [
+        "Attend a yoga or fitness class",
+        "(15:46, 17:41)",
+        [
+            "The Meatball Company",
+            700004406
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:00, 18:36)",
+        [
+            "Grainne Cafe",
+            700023155
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:25)",
+        [
+            "Citi Bike - 9th Avenue & West 22nd Street",
+            700007945
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(22:14, 23:41)",
+        [
+            "Citi Bike - 9th Avenue & West 22nd Street",
+            700007945
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(23:47, 23:59)",
+        [
+            "Grainne Cafe",
+            700023155
+        ]
+    ]
+]

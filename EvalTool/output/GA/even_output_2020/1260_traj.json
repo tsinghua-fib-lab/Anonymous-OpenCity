@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Smuggler's Cove",
+            700001483
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:28)",
+        [
+            "",
+            700009583
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 17:29)",
+        [
+            "Tsubasa Sushi",
+            700007284
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 17:27)",
+        [
+            "Arbor",
+            700010157
+        ]
+    ],
+    [
+        "Current Place: Tsubasa Sushi; Stay Time: 0 hours 23 minutes",
+        "(20:23, 22:30)",
+        [
+            "Arbor",
+            700010157
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(22:52, 23:59)",
+        [
+            "Teakwood by Burma Love",
+            700008731
+        ]
+    ]
+]

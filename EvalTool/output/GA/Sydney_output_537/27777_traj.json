@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Piazza Dining",
+            700008882
+        ]
+    ],
+    [
+        "Go for a morning walk or jog in the park",
+        "(09:00, 09:55)",
+        [
+            "Piazza Dining",
+            700008882
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:11, 13:33)",
+        [
+            "",
+            700008885
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(14:30, 15:53)",
+        [
+            "Piazza Dining",
+            700008882
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:39, 18:15)",
+        [
+            "Australian Skin Clinics - Top Ryde",
+            700032426
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:13, 23:59)",
+        [
+            "",
+            700008883
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020060
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:58)",
+        [
+            "Som Bo",
+            700006143
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 15:12)",
+        [
+            "",
+            700011142
+        ]
+    ],
+    [
+        "Relax and watch a movie or series",
+        "(15:25, 17:02)",
+        [
+            "",
+            700002216
+        ]
+    ],
+    [
+        "Prepare dinner and wind down.",
+        "(17:21, 20:08)",
+        [
+            "",
+            700020060
+        ]
+    ],
+    [
+        "Prepare dinner and wind down.",
+        "(21:03, 23:58)",
+        [
+            "",
+            700020060
+        ]
+    ],
+    [
+        "Next arrangement is to go home and relax.",
+        "(23:58, 23:59)",
+        [
+            "",
+            700020060
+        ]
+    ]
+]

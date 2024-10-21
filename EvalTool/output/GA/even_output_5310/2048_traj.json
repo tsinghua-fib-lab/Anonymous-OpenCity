@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "Wake Up & Breakfast",
+        "(09:00, 10:06)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:12, 14:37)",
+        [
+            "",
+            700021642
+        ]
+    ],
+    [
+        "Movie or TV Show",
+        "(14:56, 16:06)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "Movie or TV Show",
+        "(17:02, 18:38)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 23:59)",
+        [
+            "",
+            700021639
+        ]
+    ],
+    [
+        "Dinner Prep & Family Time",
+        "(22:18, 23:57)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "Dinner Prep & Family Time",
+        "(23:48, 23:59)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ]
+]

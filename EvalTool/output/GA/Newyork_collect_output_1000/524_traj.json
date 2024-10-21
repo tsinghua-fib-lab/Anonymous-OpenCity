@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Outdoor Activity / Exercise",
+        "(10:00, 11:07)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:07, 13:07)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Leisure Activity / Hobbies",
+        "(14:36, 16:43)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:13, 21:14)",
+        [
+            "Malii Gramercy",
+            700023463
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:20, 23:59)",
+        [
+            "Orion Diner & Grill",
+            700014321
+        ]
+    ]
+]

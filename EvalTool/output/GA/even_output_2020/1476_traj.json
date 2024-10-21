@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001921
+        ]
+    ],
+    [
+        "Light Exercise or Walk",
+        "(09:00, 09:58)",
+        [
+            "Ritual Coffee Roasters",
+            700000819
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:51, 15:16)",
+        [
+            "Postal Box",
+            700003149
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:38, 15:06)",
+        [
+            "Postal Box",
+            700003149
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:54, 19:21)",
+        [
+            "Valencia Cyclery",
+            700003152
+        ]
+    ],
+    [
+        "Go to Doc's Clock",
+        "(21:12, 22:52)",
+        [
+            "",
+            700008211
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:54, 23:59)",
+        [
+            "Postal Box",
+            700003149
+        ]
+    ]
+]

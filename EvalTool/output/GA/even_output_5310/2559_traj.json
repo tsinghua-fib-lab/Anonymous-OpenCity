@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020075
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:20)",
+        [
+            "",
+            700020074
+        ]
+    ],
+    [
+        "Outdoor Activity (Walk in the Park)",
+        "(12:03, 12:55)",
+        [
+            "",
+            700001764
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 16:48)",
+        [
+            "Glur Thai",
+            700017562
+        ]
+    ],
+    [
+        "Spend quality time with family or friends, or engage in your hobby.",
+        "(19:32, 21:12)",
+        [
+            "Glur Thai",
+            700017562
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:00, 23:14)",
+        [
+            "",
+            700020080
+        ]
+    ]
+]

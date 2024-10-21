@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sutton Animal Hospital",
+            700036806
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:59)",
+        [
+            "",
+            700019504
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:38, 13:52)",
+        [
+            "Southern Greek",
+            700039315
+        ]
+    ],
+    [
+        "Continue watching a movie or series.",
+        "(14:10, 16:00)",
+        [
+            "Southern Greek",
+            700039315
+        ]
+    ],
+    [
+        "Outdoor Activity or Hobby",
+        "(16:24, 18:04)",
+        [
+            "Southern Greek",
+            700039315
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 20:33)",
+        [
+            "Baker Street Pub",
+            700009362
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:40, 22:08)",
+        [
+            "Moti Mahal Delux",
+            700006522
+        ]
+    ]
+]

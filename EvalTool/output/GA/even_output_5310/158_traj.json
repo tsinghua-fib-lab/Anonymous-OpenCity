@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Hell's Kitchen Flea Market",
+            700009059
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(09:00, 10:06)",
+        [
+            "",
+            700000932
+        ]
+    ],
+    [
+        "Catch up on chores and errands",
+        "(10:13, 11:43)",
+        [
+            "UFC Chicken",
+            700011404
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:46, 15:42)",
+        [
+            "Baskin-Robbins",
+            700006349
+        ]
+    ],
+    [
+        "Watch a movie or TV show",
+        "(16:01, 18:02)",
+        [
+            "Baskin-Robbins",
+            700006349
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 23:59)",
+        [
+            "Pastrami and Grill",
+            700006348
+        ]
+    ]
+]

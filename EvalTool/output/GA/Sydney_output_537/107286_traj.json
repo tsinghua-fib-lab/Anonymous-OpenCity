@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700015214
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:24)",
+        [
+            "",
+            700027381
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:12, 14:59)",
+        [
+            "",
+            700031499
+        ]
+    ],
+    [
+        "Go for a walk or light exercise in a nearby park",
+        "(13:16, 15:20)",
+        [
+            "",
+            700008424
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:25, 19:09)",
+        [
+            "",
+            700031497
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:06, 22:29)",
+        [
+            "Surry Hills Pharmacy",
+            700010520
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:01, 23:59)",
+        [
+            "Crust",
+            700010519
+        ]
+    ],
+    [
+        "you decide to go to Crust;",
+        "(23:32, 23:59)",
+        [
+            "Crust",
+            700010519
+        ]
+    ]
+]

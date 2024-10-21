@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Duane Reade",
+            700004369
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:34)",
+        [
+            "Duane Reade",
+            700004369
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:56, 17:00)",
+        [
+            "Bagel and More",
+            700004367
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:04, 16:24)",
+        [
+            "iPizzaNY",
+            700004372
+        ]
+    ],
+    [
+        "Social/Family Time",
+        "(17:18, 19:13)",
+        [
+            "iPizzaNY",
+            700004372
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:44, 23:59)",
+        [
+            "Chase",
+            700003957
+        ]
+    ]
+]

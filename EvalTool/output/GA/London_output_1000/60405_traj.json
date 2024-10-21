@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:32)",
+        [
+            "",
+            700069930
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:57, 15:21)",
+        [
+            "",
+            700069099
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:58, 17:27)",
+        [
+            "",
+            700070022
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:35, 19:50)",
+        [
+            "",
+            700036801
+        ]
+    ],
+    [
+        "Dinner Preparation & Cooking",
+        "(19:19, 20:20)",
+        [
+            "",
+            700023733
+        ]
+    ],
+    [
+        "Dinner Preparation & Cooking",
+        "(20:55, 21:51)",
+        [
+            "The Hill Cafe",
+            700041558
+        ]
+    ],
+    [
+        "Dinner Preparation & Cooking",
+        "(22:31, 23:59)",
+        [
+            "The Hill Cafe",
+            700041558
+        ]
+    ]
+]

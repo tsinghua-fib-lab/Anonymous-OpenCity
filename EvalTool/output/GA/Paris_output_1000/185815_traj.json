@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Villiers",
+            700003286
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:07)",
+        [
+            "Le Village Café",
+            700026836
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:56, 16:24)",
+        [
+            "Café Boh'm",
+            700026826
+        ]
+    ],
+    [
+        "Relaxation & Wind Down",
+        "(19:33, 21:01)",
+        [
+            "Weller International Business School",
+            700020873
+        ]
+    ],
+    [
+        "Relaxation & Wind Down",
+        "(21:16, 22:56)",
+        [
+            "Le Village Café",
+            700026836
+        ]
+    ],
+    [
+        "Relaxation & Wind Down",
+        "(23:19, 23:59)",
+        [
+            "Weller International Business School",
+            700020873
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Poke Bowl",
+            700023800
+        ]
+    ],
+    [
+        "Next activity: Morning Exercise",
+        "(09:00, 10:01)",
+        [
+            "Poke Bowl",
+            700023800
+        ]
+    ],
+    [
+        "Next activity: Grocery Shopping",
+        "(10:08, 11:30)",
+        [
+            "Poke Bowl",
+            700023800
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:33, 13:03)",
+        [
+            "Poke Bowl",
+            700023800
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:37, 19:39)",
+        [
+            "",
+            700021657
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:34, 17:03)",
+        [
+            "New York Doctors Urgent Care",
+            700008460
+        ]
+    ],
+    [
+        "Next activity: Social Time",
+        "(17:41, 19:14)",
+        [
+            "New York Doctors Urgent Care",
+            700008460
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 21:17)",
+        [
+            "",
+            700021657
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "Mainchance",
+            700011096
+        ]
+    ]
+]

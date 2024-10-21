@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(10:00, 10:55)",
+        [
+            "The Standard Ice Rink",
+            700008653
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(10:57, 12:08)",
+        [
+            "The Standard Ice Rink",
+            700008653
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:46, 17:49)",
+        [
+            "Shake Shack",
+            700040169
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:40, 22:02)",
+        [
+            "Pastis",
+            700016067
+        ]
+    ],
+    [
+        "Stay at home",
+        "(22:55, 23:59)",
+        [
+            "",
+            700030405
+        ]
+    ]
+]

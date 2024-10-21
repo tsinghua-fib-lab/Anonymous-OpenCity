@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - 2nd Avenue & East 6th Street",
+            700020180
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:30)",
+        [
+            "Upstate",
+            700014301
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:56, 17:36)",
+        [
+            "",
+            700020174
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby",
+        "(14:24, 16:04)",
+        [
+            "Citi Bike - 2nd Avenue & East 6th Street",
+            700020180
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:27, 19:32)",
+        [
+            "",
+            700020184
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:59)",
+        [
+            "Dojo Sushi",
+            700014419
+        ]
+    ],
+    [
+        "Visit Dojo Sushi.",
+        "(23:12, 23:59)",
+        [
+            "Dojo Sushi",
+            700014419
+        ]
+    ]
+]

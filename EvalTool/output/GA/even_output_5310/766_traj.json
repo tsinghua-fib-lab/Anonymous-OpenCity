@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018500
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(10:00, 11:00)",
+        [
+            "",
+            700018500
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:27, 13:23)",
+        [
+            "Billymark's West",
+            700015350
+        ]
+    ],
+    [
+        "Visit Friends/Family",
+        "(16:45, 18:12)",
+        [
+            "Cafe Bravo",
+            700016260
+        ]
+    ],
+    [
+        "Visit Friends/Family",
+        "(18:48, 19:51)",
+        [
+            "Cafe Bravo",
+            700016260
+        ]
+    ],
+    [
+        "Go to 'Chase' for banking needs",
+        "(20:06, 21:57)",
+        [
+            "",
+            700018500
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:46, 23:59)",
+        [
+            "Billymark's West",
+            700015350
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700020924
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:43)",
+        [
+            "Chase",
+            700005034
+        ]
+    ],
+    [
+        "Leisure reading or a walk outside",
+        "(11:54, 13:21)",
+        [
+            "Chase",
+            700005034
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(13:28, 14:31)",
+        [
+            "Dig",
+            700006588
+        ]
+    ],
+    [
+        "Engage in a hobby or craft",
+        "(15:30, 17:06)",
+        [
+            "Chase",
+            700005034
+        ]
+    ],
+    [
+        "Spend time with friends or family",
+        "(18:03, 19:43)",
+        [
+            "Starbucks",
+            700020924
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 23:59)",
+        [
+            "Thomas Drugs",
+            700006589
+        ]
+    ]
+]

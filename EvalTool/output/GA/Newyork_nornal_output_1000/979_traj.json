@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chase",
+            700024967
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:54)",
+        [
+            "Chase",
+            700024967
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:50, 16:27)",
+        [
+            "Bank of America",
+            700020479
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:13, 19:08)",
+        [
+            "Bank of America",
+            700020479
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:33, 21:08)",
+        [
+            "Chase",
+            700024967
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(21:41, 23:09)",
+        [
+            "Bank of America",
+            700020479
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(22:53, 23:59)",
+        [
+            "Bank of America",
+            700020479
+        ]
+    ]
+]

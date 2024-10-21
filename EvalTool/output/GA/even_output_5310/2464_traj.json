@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000924
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:36)",
+        [
+            "Burger King",
+            700003532
+        ]
+    ],
+    [
+        "Relax and Read or Watch TV",
+        "(12:26, 14:06)",
+        [
+            "Burger King",
+            700003532
+        ]
+    ],
+    [
+        "Engage in a Hobby or Craft",
+        "(14:12, 15:34)",
+        [
+            "Burger King",
+            700003532
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 18:17)",
+        [
+            "The Dunes Club",
+            700030613
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:52, 23:59)",
+        [
+            "Burger King",
+            700003532
+        ]
+    ]
+]

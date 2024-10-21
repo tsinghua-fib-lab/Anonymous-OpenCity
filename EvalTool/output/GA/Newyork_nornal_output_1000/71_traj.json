@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 3rd Street & 1st Avenue",
+            700008041
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:59)",
+        [
+            "",
+            700001957
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 14:16)",
+        [
+            "",
+            700001013
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:24, 18:24)",
+        [
+            "",
+            700020206
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:39, 23:10)",
+        [
+            "Citi Bike - East 3rd Street & 1st Avenue",
+            700008041
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:29, 23:59)",
+        [
+            "Citi Bike - East 3rd Street & 1st Avenue",
+            700008041
+        ]
+    ]
+]

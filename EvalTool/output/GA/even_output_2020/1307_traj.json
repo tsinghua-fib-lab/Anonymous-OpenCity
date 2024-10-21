@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700003756
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:16)",
+        [
+            "",
+            700002892
+        ]
+    ],
+    [
+        "preparing and having lunch",
+        "(12:15, 13:36)",
+        [
+            "Domo",
+            700011013
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(14:10, 15:43)",
+        [
+            "Domo",
+            700011013
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(17:03, 19:09)",
+        [
+            "Domo",
+            700011013
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:27, 23:51)",
+        [
+            "",
+            700002892
+        ]
+    ]
+]

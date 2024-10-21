@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "First Union Baptist church",
+            700005094
+        ]
+    ],
+    [
+        "11:00 AM - Exercise",
+        "(10:00, 11:38)",
+        [
+            "",
+            700002895
+        ]
+    ],
+    [
+        "go",
+        "(11:43, 13:00)",
+        [
+            "",
+            700002889
+        ]
+    ],
+    [
+        "Next activity planned: Leisure Activity.",
+        "(13:19, 14:43)",
+        [
+            "Cafe Altano",
+            700000850
+        ]
+    ],
+    [
+        "Next activity planned: Leisure Activity;",
+        "(15:28, 17:01)",
+        [
+            "Cafe Altano",
+            700000850
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:11, 20:23)",
+        [
+            "Petit Crenn",
+            700001058
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:02, 23:59)",
+        [
+            "Il Borgo",
+            700004525
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mums Restaurant",
+            700006925
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:15)",
+        [
+            "",
+            700011435
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:07, 20:08)",
+        [
+            "",
+            700011435
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(16:20, 18:00)",
+        [
+            "Mums Restaurant",
+            700006925
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:08, 23:59)",
+        [
+            "Taxi Stand at Kimpton Buchanan Hotel",
+            700009950
+        ]
+    ],
+    [
+        "Stay Longer",
+        "(23:33, 23:59)",
+        [
+            "Mums Restaurant",
+            700006925
+        ]
+    ]
+]

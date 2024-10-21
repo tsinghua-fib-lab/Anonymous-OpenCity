@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Presidio Pizza Company",
+            700007980
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:35)",
+        [
+            "Starbucks",
+            700004907
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:30, 19:01)",
+        [
+            "My Father’s Kitchen",
+            700004903
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:24, 23:59)",
+        [
+            "Cheese Steak Shop",
+            700005280
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:38, 23:59)",
+        [
+            "My Father’s Kitchen",
+            700004903
+        ]
+    ]
+]

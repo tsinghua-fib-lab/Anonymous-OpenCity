@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rooftop Bar",
+            700009130
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:23)",
+        [
+            "Citi Bike - East 47th Street & Park Avenue",
+            700008051
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 16:49)",
+        [
+            "",
+            700019876
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:24, 21:07)",
+        [
+            "",
+            700017639
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:39, 23:08)",
+        [
+            "Pret A Manger",
+            700017638
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:29, 23:59)",
+        [
+            "Rooftop Bar",
+            700009130
+        ]
+    ]
+]

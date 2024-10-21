@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700006034
+        ]
+    ],
+    [
+        "Next in the plan.",
+        "(09:00, 09:57)",
+        [
+            "",
+            700022279
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:46, 12:13)",
+        [
+            "Scholar's Residence",
+            700006267
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 17:26)",
+        [
+            "",
+            700036810
+        ]
+    ],
+    [
+        "Attend cooking session for dinner preparation.",
+        "(18:09, 19:45)",
+        [
+            "",
+            700019505
+        ]
+    ],
+    [
+        "Stay at Scholar's Residence",
+        "(20:22, 22:28)",
+        [
+            "Starbucks",
+            700014344
+        ]
+    ],
+    [
+        "Stay at La Vera Pizza",
+        "(22:12, 23:59)",
+        [
+            "Daily Bagel",
+            700006519
+        ]
+    ]
+]

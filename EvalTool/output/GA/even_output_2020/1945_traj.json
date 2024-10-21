@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Custom Fit",
+            700009581
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:00)",
+        [
+            "",
+            700008339
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:13, 13:43)",
+        [
+            "Martuni's",
+            700000006
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 14:15)",
+        [
+            "",
+            700008343
+        ]
+    ],
+    [
+        "Leisure Activity/Entertainment",
+        "(14:02, 16:00)",
+        [
+            "",
+            700008343
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:10, 18:04)",
+        [
+            "Custom Fit",
+            700009581
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:25, 21:10)",
+        [
+            "Custom Fit",
+            700009581
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(21:41, 23:02)",
+        [
+            "Custom Fit",
+            700009581
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(23:13, 23:59)",
+        [
+            "Sessions Training Center",
+            700011078
+        ]
+    ]
+]

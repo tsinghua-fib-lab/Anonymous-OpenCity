@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Socarrat Paella Bar",
+            700009368
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 09:50)",
+        [
+            "",
+            700001505
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:58, 15:01)",
+        [
+            "",
+            700005853
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:52, 13:21)",
+        [
+            "Socarrat Paella Bar",
+            700009368
+        ]
+    ],
+    [
+        "Leisure and Entertainment",
+        "(14:15, 15:11)",
+        [
+            "",
+            700020142
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:33, 19:38)",
+        [
+            "",
+            700020144
+        ]
+    ],
+    [
+        "Stay at 'Socarrat Paella Bar' for dinner.",
+        "(22:25, 23:56)",
+        [
+            "Socarrat Paella Bar",
+            700009368
+        ]
+    ]
+]

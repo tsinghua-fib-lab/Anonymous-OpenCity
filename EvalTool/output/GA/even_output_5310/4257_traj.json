@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700027302
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:04)",
+        [
+            "Chipotle",
+            700006647
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:09, 16:27)",
+        [
+            "Foot Doctor of New York",
+            700005443
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:08, 20:01)",
+        [
+            "",
+            700019207
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:48, 18:59)",
+        [
+            "",
+            700037601
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:41, 22:54)",
+        [
+            "",
+            700037600
+        ]
+    ],
+    [
+        "Remain at your current location and take time to relax.",
+        "(23:12, 23:59)",
+        [
+            "",
+            700027302
+        ]
+    ]
+]

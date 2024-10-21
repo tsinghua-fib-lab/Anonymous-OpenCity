@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:27)",
+        [
+            "Hamilton Fish Park Library",
+            700000552
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:43, 16:45)",
+        [
+            "Hamilton Fish Park Library",
+            700000552
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:02, 18:41)",
+        [
+            "Hamilton Fish Park Library",
+            700000552
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 20:29)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ],
+    [
+        "Stay at your current location",
+        "(21:15, 22:37)",
+        [
+            "China Wok",
+            700019587
+        ]
+    ],
+    [
+        "Go to Hamilton Fish Park Library",
+        "(22:56, 23:59)",
+        [
+            "",
+            700011045
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700017919
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:25)",
+        [
+            "Imperial House Garage",
+            700016397
+        ]
+    ],
+    [
+        "Leisure Activities (TV/Movies)",
+        "(13:04, 14:36)",
+        [
+            "",
+            700018076
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 17:17)",
+        [
+            "",
+            700017189
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 20:14)",
+        [
+            "Metro Pharmacy",
+            700017315
+        ]
+    ],
+    [
+        "Next activity based on previous plan",
+        "(20:13, 21:37)",
+        [
+            "",
+            700021971
+        ]
+    ],
+    [
+        "Go to Capital One for banking services.",
+        "(21:58, 23:18)",
+        [
+            "Gong Cha",
+            700006563
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:50, 23:59)",
+        [
+            "",
+            700021972
+        ]
+    ]
+]

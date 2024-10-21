@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wanpo Tea Shop",
+            700038331
+        ]
+    ],
+    [
+        "Go for a relaxing walk or hike in a nearby park.",
+        "(10:00, 11:36)",
+        [
+            "Northwell Health-GoHealth Urgent Care",
+            700013558
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:30, 17:36)",
+        [
+            "Oren's Daily Roast",
+            700007516
+        ]
+    ],
+    [
+        "Engage in a fun sports activity, like playing tennis or cycling.",
+        "(18:24, 19:59)",
+        [
+            "White Oak Tavern",
+            700008893
+        ]
+    ],
+    [
+        "Wind down with a movie or TV show at home.",
+        "(20:06, 22:35)",
+        [
+            "Peppercorn Kitchen",
+            700013778
+        ]
+    ],
+    [
+        "Stay at Wanpo Tea Shop",
+        "(22:53, 22:59)",
+        [
+            "Wanpo Tea Shop",
+            700038331
+        ]
+    ],
+    [
+        "Stay at Wanpo Tea Shop",
+        "(23:43, 23:59)",
+        [
+            "Northwell Health-GoHealth Urgent Care",
+            700013558
+        ]
+    ]
+]

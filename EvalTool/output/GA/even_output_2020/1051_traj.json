@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000129
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 10:54)",
+        [
+            "Scopo Divino",
+            700003666
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:03, 14:26)",
+        [
+            "Laurel Heights Convalescent Hospital",
+            700000227
+        ]
+    ],
+    [
+        "Participate in a recreational activity.",
+        "(13:59, 15:05)",
+        [
+            "Laurel Heights Convalescent Hospital",
+            700000227
+        ]
+    ],
+    [
+        "Participate in recreational activity.",
+        "(15:27, 17:26)",
+        [
+            "Laurel Heights Convalescent Hospital",
+            700000227
+        ]
+    ],
+    [
+        "Stay at b on the go",
+        "(17:40, 19:14)",
+        [
+            "b on the go",
+            700010094
+        ]
+    ],
+    [
+        "Stay at b on the go;",
+        "(20:02, 21:31)",
+        [
+            "Tataki",
+            700007726
+        ]
+    ],
+    [
+        "Stay at Laurel Heights Convalescent Hospital.",
+        "(21:55, 23:05)",
+        [
+            "Laurel Heights Convalescent Hospital",
+            700000227
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:39, 23:59)",
+        [
+            "Scopo Divino",
+            700003666
+        ]
+    ]
+]

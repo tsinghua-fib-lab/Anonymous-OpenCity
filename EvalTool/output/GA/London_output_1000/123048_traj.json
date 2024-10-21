@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 10:58)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:14, 12:11)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:40, 14:13)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:48, 17:06)",
+        [
+            "Sphinx Hall",
+            700050004
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:45, 23:59)",
+        [
+            "",
+            700005439
+        ]
+    ]
+]

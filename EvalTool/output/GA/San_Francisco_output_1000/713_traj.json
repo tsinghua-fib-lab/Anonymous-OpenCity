@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010669
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:35)",
+        [
+            "Bob's Donuts",
+            700001135
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(11:38, 13:37)",
+        [
+            "Christian Science Reading Room",
+            700010682
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(13:38, 15:42)",
+        [
+            "Christian Science Reading Room",
+            700010682
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:38, 22:34)",
+        [
+            "Fish N Gari",
+            700004189
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:18, 23:59)",
+        [
+            "El Capitán Taquería",
+            700013860
+        ]
+    ]
+]

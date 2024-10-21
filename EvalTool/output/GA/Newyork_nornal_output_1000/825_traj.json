@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005843
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:33)",
+        [
+            "Tavern on the Green public restrooms",
+            700007861
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(13:09, 15:07)",
+        [
+            "Tavern on the Green public restrooms",
+            700007861
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:54, 17:32)",
+        [
+            "",
+            700005842
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 23:59)",
+        [
+            "",
+            700018283
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:01, 23:59)",
+        [
+            "Shun Lee",
+            700007586
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "BEA",
+            700008888
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:39)",
+        [
+            "Red Poke",
+            700016230
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:56, 13:11)",
+        [
+            "BEA",
+            700008888
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:54, 18:04)",
+        [
+            "Blossom Du Jour",
+            700013066
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 21:58)",
+        [
+            "Rudy's Bar & Grill",
+            700010214
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(22:08, 23:28)",
+        [
+            "Mama Mia 44SW",
+            700004139
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:28, 23:59)",
+        [
+            "Frisson Espresso 44",
+            700025938
+        ]
+    ]
+]

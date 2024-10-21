@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700021043
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:02)",
+        [
+            "Voitures Noires",
+            700022562
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(15:47, 17:24)",
+        [
+            "Voitures Noires",
+            700022562
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:17, 19:52)",
+        [
+            "Voitures Noires",
+            700022562
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 23:41)",
+        [
+            "Hippopotamus",
+            700002583
+        ]
+    ]
+]

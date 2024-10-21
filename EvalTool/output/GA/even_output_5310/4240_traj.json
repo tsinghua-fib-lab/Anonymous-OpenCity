@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Grand Street / Henry Street",
+            700008097
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:27)",
+        [
+            "",
+            700001643
+        ]
+    ],
+    [
+        "Leisure Reading/TV",
+        "(15:41, 17:14)",
+        [
+            "Citi Bike - Grand Street / Henry Street",
+            700008097
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:59, 19:46)",
+        [
+            "Oasis Downtown Day Camp",
+            700006428
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "East Side Glatt",
+            700019775
+        ]
+    ]
+]

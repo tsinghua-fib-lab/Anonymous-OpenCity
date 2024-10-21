@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011122
+        ]
+    ],
+    [
+        "Go for a walk or light exercise from 11:00 AM to 12:00 PM",
+        "(10:00, 10:58)",
+        [
+            "United States Post Office",
+            700011121
+        ]
+    ],
+    [
+        "Go for a walk or light exercise from 11:00 AM to 12:00 PM",
+        "(12:03, 13:13)",
+        [
+            "United States Post Office",
+            700011121
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 15:03)",
+        [
+            "Citi Bike",
+            700020538
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:32, 23:59)",
+        [
+            "Chakrasambara Buddhist Center",
+            700000278
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "",
+            700010656
+        ]
+    ]
+]

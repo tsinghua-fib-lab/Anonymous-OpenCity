@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Noe Valley Spa",
+            700006195
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:48)",
+        [
+            "Chase",
+            700001774
+        ]
+    ],
+    [
+        "Socializing",
+        "(16:02, 17:33)",
+        [
+            "The Valley Tavern",
+            700001771
+        ]
+    ],
+    [
+        "Socializing",
+        "(18:21, 19:35)",
+        [
+            "The Valley Tavern",
+            700001771
+        ]
+    ],
+    [
+        "Socializing",
+        "(20:37, 22:13)",
+        [
+            "Bank of America",
+            700003207
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:40, 23:59)",
+        [
+            "Aha! Fresh",
+            700001772
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700029686
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:08)",
+        [
+            "Java Lava Cafe",
+            700003202
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:47, 17:00)",
+        [
+            "Coles Express",
+            700004494
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:06, 17:46)",
+        [
+            "Java Lava Cafe",
+            700003202
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(17:37, 18:58)",
+        [
+            "Java Lava Cafe",
+            700003202
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:34, 23:59)",
+        [
+            "",
+            700029685
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sarah Dix Hamlin School",
+            700000210
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:19)",
+        [
+            "Sarah Dix Hamlin School",
+            700000210
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:32, 15:38)",
+        [
+            "Müesi Cafe",
+            700005580
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:41, 21:26)",
+        [
+            "Extreme Pizza",
+            700005697
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:36, 21:20)",
+        [
+            "Perry's",
+            700005698
+        ]
+    ]
+]

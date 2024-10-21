@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:58)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:17, 12:07)",
+        [
+            "Black Magic Voodoo Lounge",
+            700004971
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(13:39, 15:15)",
+        [
+            "Vikings Giant Subs",
+            700004972
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(15:28, 17:05)",
+        [
+            "Black Magic Voodoo Lounge",
+            700004971
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 19:58)",
+        [
+            "",
+            700013308
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "",
+            700008291
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "You will stay at your bicycle parking spot until 10:00 AM and then go for a walk.",
+        "(09:00, 10:40)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(10:26, 11:52)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 17:19)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:42, 20:33)",
+        [
+            "Awe Sum Dim Sum",
+            700028539
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(21:51, 23:07)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "All'Antico Vinaio",
+            700005272
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:52)",
+        [
+            "Boots and Saddle",
+            700010266
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:53, 12:59)",
+        [
+            "Boots and Saddle",
+            700010266
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:29, 15:01)",
+        [
+            "Boots and Saddle",
+            700010266
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:55, 19:40)",
+        [
+            "All'Antico Vinaio",
+            700005272
+        ]
+    ],
+    [
+        "Stay at Boots and Saddle.",
+        "(19:49, 21:20)",
+        [
+            "Starbucks",
+            700004310
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:05, 23:00)",
+        [
+            "Chase",
+            700004313
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(23:32, 23:59)",
+        [
+            "Chase",
+            700004307
+        ]
+    ]
+]

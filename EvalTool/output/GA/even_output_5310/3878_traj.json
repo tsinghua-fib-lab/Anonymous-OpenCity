@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Jane",
+            700008933
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(10:00, 11:01)",
+        [
+            "Tomo21 Sushi",
+            700024250
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(11:05, 12:15)",
+        [
+            "Tomo21 Sushi",
+            700024250
+        ]
+    ],
+    [
+        "Leisure Activity (Reading/Watching TV)",
+        "(12:40, 14:04)",
+        [
+            "Tomo21 Sushi",
+            700024250
+        ]
+    ],
+    [
+        "Community or Social Activity",
+        "(14:12, 15:34)",
+        [
+            "Tomo21 Sushi",
+            700024250
+        ]
+    ],
+    [
+        "Community or Social Activity",
+        "(16:21, 17:50)",
+        [
+            "Jane",
+            700008933
+        ]
+    ],
+    [
+        "Community or Social Activity",
+        "(18:36, 20:02)",
+        [
+            "Tomo21 Sushi",
+            700024250
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 22:46)",
+        [
+            "Arturo's Coal Oven Pizza",
+            700009150
+        ]
+    ]
+]

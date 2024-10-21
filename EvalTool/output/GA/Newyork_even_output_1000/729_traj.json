@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Block Drug Stores",
+            700004560
+        ]
+    ],
+    [
+        "Go for a run or workout at the gym.",
+        "(10:00, 11:22)",
+        [
+            "787 Coffee",
+            700009872
+        ]
+    ],
+    [
+        "Go for a run or workout at the gym",
+        "(11:55, 13:09)",
+        [
+            "787 Coffee",
+            700009872
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:37, 18:09)",
+        [
+            "Fish Bar",
+            700023241
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:43, 19:58)",
+        [
+            "The Cock",
+            700009044
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:26, 23:59)",
+        [
+            "J-Spec",
+            700023244
+        ]
+    ]
+]

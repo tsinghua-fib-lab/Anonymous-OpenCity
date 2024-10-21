@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003561
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:59)",
+        [
+            "Docteur Amal Meziane",
+            700055787
+        ]
+    ],
+    [
+        "Socializing",
+        "(16:32, 17:53)",
+        [
+            "Café de la Banque",
+            700055786
+        ]
+    ],
+    [
+        "Socializing",
+        "(18:21, 20:00)",
+        [
+            "Café de la Banque",
+            700055786
+        ]
+    ],
+    [
+        "Socializing",
+        "(20:16, 21:41)",
+        [
+            "Café de la Banque",
+            700055786
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:23, 23:40)",
+        [
+            "El Cártel del Taco",
+            700028027
+        ]
+    ],
+    [
+        "Socializing",
+        "(23:42, 23:59)",
+        [
+            "Sa Jiao",
+            700051489
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001603
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:15)",
+        [
+            "",
+            700002669
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:01, 15:51)",
+        [
+            "Starbucks",
+            700004746
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends/Family",
+        "(15:27, 17:41)",
+        [
+            "Starbucks",
+            700004746
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:00, 19:27)",
+        [
+            "",
+            700002085
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:41, 21:34)",
+        [
+            "Birch Coffee",
+            700012391
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(22:32, 23:59)",
+        [
+            "Birch Coffee",
+            700012391
+        ]
+    ]
+]

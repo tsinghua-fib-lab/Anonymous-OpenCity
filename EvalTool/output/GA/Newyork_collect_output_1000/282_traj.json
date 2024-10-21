@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:23)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:12, 17:44)",
+        [
+            "",
+            700022519
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:23, 18:11)",
+        [
+            "",
+            700003053
+        ]
+    ],
+    [
+        "Wind Down and Prepare for the Week Ahead",
+        "(22:11, 23:39)",
+        [
+            "Yaya Tea",
+            700020945
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "",
+            700022507
+        ]
+    ]
+]

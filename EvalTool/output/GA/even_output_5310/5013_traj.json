@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "American Legion Hall",
+            700031455
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:10)",
+        [
+            "American Legion Hall",
+            700031455
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:26, 11:47)",
+        [
+            "American Legion Hall",
+            700031455
+        ]
+    ],
+    [
+        "Exercise",
+        "(12:18, 14:08)",
+        [
+            "American Legion Hall",
+            700031455
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:36, 15:53)",
+        [
+            "The Dutch",
+            700007825
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:38, 18:03)",
+        [
+            "The Dutch",
+            700007825
+        ]
+    ],
+    [
+        "Go to The Dutch",
+        "(18:22, 19:50)",
+        [
+            "The Dutch",
+            700007825
+        ]
+    ],
+    [
+        "Go to The Dutch",
+        "(20:47, 21:57)",
+        [
+            "The Dutch",
+            700007825
+        ]
+    ],
+    [
+        "Stay at O'Donoghue's",
+        "(22:47, 23:59)",
+        [
+            "",
+            700003031
+        ]
+    ],
+    [
+        "Stay at American Legion Hall",
+        "(23:51, 23:59)",
+        [
+            "Blue Ribbon",
+            700007823
+        ]
+    ]
+]

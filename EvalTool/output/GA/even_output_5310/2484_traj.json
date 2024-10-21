@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wafels and Dinges",
+            700003542
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:36)",
+        [
+            "Pret A Manger",
+            700014406
+        ]
+    ],
+    [
+        "Relax and Read or Watch TV",
+        "(12:26, 13:58)",
+        [
+            "Pret A Manger",
+            700014406
+        ]
+    ],
+    [
+        "Engage in a Hobby or Craft",
+        "(14:12, 15:37)",
+        [
+            "Pret A Manger",
+            700014406
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 17:52)",
+        [
+            "Blink Fitness",
+            700010776
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:52, 23:59)",
+        [
+            "",
+            700020842
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:30)",
+        [
+            "Citi Bike - 9th Avenue & West 28th Street",
+            700010574
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:11, 14:55)",
+        [
+            "",
+            700009365
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(14:33, 16:10)",
+        [
+            "Cafe Bravo",
+            700016260
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:05, 18:09)",
+        [
+            "Cafe Bravo",
+            700016260
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:39, 22:28)",
+        [
+            "",
+            700037742
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(23:38, 23:59)",
+        [
+            "",
+            700037730
+        ]
+    ]
+]

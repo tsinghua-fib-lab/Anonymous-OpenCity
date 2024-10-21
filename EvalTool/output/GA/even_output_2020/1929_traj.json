@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002901
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(09:00, 10:38)",
+        [
+            "",
+            700002903
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:01, 12:03)",
+        [
+            "Boba Guys",
+            700010745
+        ]
+    ],
+    [
+        "Watch TV or Movies",
+        "(13:04, 14:42)",
+        [
+            "Boba Guys",
+            700010745
+        ]
+    ],
+    [
+        "Watch TV or Movies",
+        "(15:06, 16:46)",
+        [
+            "",
+            700002903
+        ]
+    ],
+    [
+        "Next activity",
+        "(17:25, 19:00)",
+        [
+            "Little Star Pizza",
+            700001409
+        ]
+    ],
+    [
+        "Stay at Boba Guys for more leisure.",
+        "(19:11, 21:34)",
+        [
+            "Boba Guys",
+            700010745
+        ]
+    ],
+    [
+        "Stay at Carbon Health",
+        "(21:38, 22:46)",
+        [
+            "",
+            700002901
+        ]
+    ],
+    [
+        "Stay at Carbon Health",
+        "(23:07, 23:59)",
+        [
+            "",
+            700002902
+        ]
+    ]
+]

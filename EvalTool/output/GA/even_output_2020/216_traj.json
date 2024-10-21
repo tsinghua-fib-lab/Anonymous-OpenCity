@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hai's Restaurant",
+            700005071
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:40)",
+        [
+            "Boug Cali",
+            700009451
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 17:19)",
+        [
+            "Himalayan Pizza & Momo",
+            700005080
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:33, 17:01)",
+        [
+            "Himalayan Pizza & Momo",
+            700005080
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 23:00)",
+        [
+            "Morty's",
+            700005079
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:04, 23:59)",
+        [
+            "Bini's Kitchen",
+            700010641
+        ]
+    ]
+]

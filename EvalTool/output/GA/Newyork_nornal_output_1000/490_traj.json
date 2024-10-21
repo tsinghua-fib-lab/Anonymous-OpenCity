@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000898
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the nearby park or neighborhood to enjoy the fresh air.",
+        "(09:00, 09:58)",
+        [
+            "",
+            700000898
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:39, 14:11)",
+        [
+            "",
+            700001125
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:35, 19:31)",
+        [
+            "",
+            700001125
+        ]
+    ],
+    [
+        "Current Place: Babylon Hookah Lounge; Stay Time: 1 hour 24 minutes",
+        "(21:36, 23:07)",
+        [
+            "Pio Pio",
+            700008368
+        ]
+    ],
+    [
+        "Next place: Babylon Hookah Lounge",
+        "(23:34, 23:59)",
+        [
+            "Babylon Hookah Lounge",
+            700015137
+        ]
+    ]
+]

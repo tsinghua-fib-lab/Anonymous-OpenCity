@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030414
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:04)",
+        [
+            "Dante’s",
+            700014004
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:10, 15:32)",
+        [
+            "",
+            700034711
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(15:04, 17:35)",
+        [
+            "Dante’s",
+            700014004
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(17:48, 18:53)",
+        [
+            "Dante’s",
+            700014004
+        ]
+    ],
+    [
+        "Dinner Preparation and Enjoyment",
+        "(19:54, 20:56)",
+        [
+            "Dante’s",
+            700014004
+        ]
+    ],
+    [
+        "Stay at Current Place",
+        "(21:51, 23:02)",
+        [
+            "Dante’s",
+            700014004
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Dante’s",
+            700014004
+        ]
+    ]
+]

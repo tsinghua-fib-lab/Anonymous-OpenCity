@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Jack's Stir Brew Coffee",
+            700031418
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:35)",
+        [
+            "",
+            700001296
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 21:09)",
+        [
+            "",
+            700001278
+        ]
+    ],
+    [
+        "Evening Relaxation (6:30 PM - 9:00 PM)",
+        "(20:21, 22:57)",
+        [
+            "Wogies",
+            700005686
+        ]
+    ],
+    [
+        "Current time is 23:24. The daily plan is finished, and it's time to sleep.",
+        "(23:24, 23:24)",
+        [
+            "Bluestone Lane",
+            700008800
+        ]
+    ],
+    [
+        "Next arrangement after visiting Apple Bank",
+        "(23:40, 23:59)",
+        [
+            "",
+            700012160
+        ]
+    ]
+]

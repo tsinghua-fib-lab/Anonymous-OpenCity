@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wharton Cottages",
+            700012020
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:51)",
+        [
+            "Kings",
+            700079502
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(13:23, 15:03)",
+        [
+            "Kings",
+            700079502
+        ]
+    ],
+    [
+        "Stay at your current place",
+        "(15:35, 16:57)",
+        [
+            "Wharton Cottages",
+            700012020
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:34, 18:54)",
+        [
+            "",
+            700029904
+        ]
+    ],
+    [
+        "Stay at your current place.",
+        "(22:34, 23:59)",
+        [
+            "Wharton Cottages",
+            700012020
+        ]
+    ]
+]

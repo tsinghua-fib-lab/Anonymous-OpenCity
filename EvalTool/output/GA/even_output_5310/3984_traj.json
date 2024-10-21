@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000819
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:37)",
+        [
+            "Van Leeuwen",
+            700016573
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:03, 14:24)",
+        [
+            "Banc",
+            700003900
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:04, 16:15)",
+        [
+            "Birch Coffee",
+            700009668
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:22, 21:08)",
+        [
+            "Ruby's Cafe",
+            700004868
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:51, 23:59)",
+        [
+            "Bond Vet",
+            700010576
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Nobi Sushi",
+            700020948
+        ]
+    ]
+]

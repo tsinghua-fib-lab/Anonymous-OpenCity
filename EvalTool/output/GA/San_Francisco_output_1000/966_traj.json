@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "élan",
+            700013949
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:42)",
+        [
+            "",
+            700000540
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(12:59, 14:09)",
+        [
+            "élan",
+            700013949
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 19:37)",
+        [
+            "Oasis Grill",
+            700004346
+        ]
+    ],
+    [
+        "Watch TV or relax before bed",
+        "(20:35, 22:07)",
+        [
+            "Oasis Grill",
+            700004346
+        ]
+    ],
+    [
+        "Next activity after relaxing day",
+        "(22:24, 23:46)",
+        [
+            "élan",
+            700013949
+        ]
+    ],
+    [
+        "Next activity after relaxing day",
+        "(23:46, 23:59)",
+        [
+            "élan",
+            700013949
+        ]
+    ]
+]

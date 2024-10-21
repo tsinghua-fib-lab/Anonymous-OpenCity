@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700021676
+        ]
+    ],
+    [
+        "Engage in a creative writing session.",
+        "(09:00, 10:54)",
+        [
+            "",
+            700021676
+        ]
+    ],
+    [
+        "Engage in a creative writing session.",
+        "(11:32, 12:52)",
+        [
+            "",
+            700021676
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(13:32, 14:52)",
+        [
+            "",
+            700021676
+        ]
+    ],
+    [
+        "Spend time on a hobby",
+        "(15:34, 18:04)",
+        [
+            "",
+            700021676
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 21:28)",
+        [
+            "Citibank",
+            700006021
+        ]
+    ],
+    [
+        "Creative Session",
+        "(21:27, 23:21)",
+        [
+            "Citibank",
+            700006021
+        ]
+    ],
+    [
+        "Stay at Citibank",
+        "(23:23, 23:59)",
+        [
+            "Citibank",
+            700006021
+        ]
+    ]
+]

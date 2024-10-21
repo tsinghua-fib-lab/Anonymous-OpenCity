@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700033381
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:02)",
+        [
+            "Crab Du Jour Xpress Cajun",
+            700012368
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:41, 20:49)",
+        [
+            "Rite Aid",
+            700018486
+        ]
+    ],
+    [
+        "You are currently at Crab Du Jour Xpress Cajun having lunch.",
+        "(20:11, 22:32)",
+        [
+            "",
+            700033379
+        ]
+    ],
+    [
+        "Wind down for the evening by watching a movie or catching up on a series.",
+        "(22:59, 23:59)",
+        [
+            "",
+            700033381
+        ]
+    ]
+]

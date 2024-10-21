@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Campos Coffee",
+            700000994
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 16:01)",
+        [
+            "",
+            700005028
+        ]
+    ],
+    [
+        "Relaxation and Leisure Reading",
+        "(13:08, 15:03)",
+        [
+            "Corridor",
+            700005758
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:30, 16:58)",
+        [
+            "Corridor",
+            700014808
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(18:02, 19:35)",
+        [
+            "",
+            700023225
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 22:21)",
+        [
+            "Corridor",
+            700005758
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:32)",
+        [
+            "Istanbul on King",
+            700006239
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700001028
+        ]
+    ]
+]

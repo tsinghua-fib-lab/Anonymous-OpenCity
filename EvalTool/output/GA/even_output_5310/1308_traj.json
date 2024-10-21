@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Manhattan Indian Flavor",
+            700006191
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:54)",
+        [
+            "",
+            700006189
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:40, 15:06)",
+        [
+            "",
+            700030396
+        ]
+    ],
+    [
+        "Lunch (1:00 PM - 2:00 PM)",
+        "(15:51, 16:47)",
+        [
+            "Manhattan Indian Flavor",
+            700006191
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:20, 20:03)",
+        [
+            "Manhattan Indian Flavor",
+            700006191
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:50, 23:59)",
+        [
+            "",
+            700030441
+        ]
+    ]
+]

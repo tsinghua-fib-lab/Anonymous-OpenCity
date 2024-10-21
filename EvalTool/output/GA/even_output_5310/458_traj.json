@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike",
+            700020600
+        ]
+    ],
+    [
+        "Next activity according to the Sunday Plan",
+        "(09:00, 10:01)",
+        [
+            "Citi Bike",
+            700020600
+        ]
+    ],
+    [
+        "Engage in outdoor activities like playing sports with friends or visiting a local community event.",
+        "(10:12, 11:32)",
+        [
+            "CAVA",
+            700016047
+        ]
+    ],
+    [
+        "Engage in outdoor activities like playing sports with friends or visiting a local community event.",
+        "(11:44, 13:14)",
+        [
+            "CAVA",
+            700016047
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a favorite TV series for some entertainment.",
+        "(13:48, 15:00)",
+        [
+            "CAVA",
+            700016047
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a favorite TV series for some entertainment.",
+        "(15:59, 16:58)",
+        [
+            "Citi Bike",
+            700020600
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:07, 20:46)",
+        [
+            "Uva Next Door",
+            700023406
+        ]
+    ],
+    [
+        "Prepare and enjoy a homemade dinner.",
+        "(21:45, 23:17)",
+        [
+            "Uva Next Door",
+            700023406
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a favorite TV series for some entertainment.",
+        "(23:20, 23:59)",
+        [
+            "Uva Next Door",
+            700023406
+        ]
+    ]
+]

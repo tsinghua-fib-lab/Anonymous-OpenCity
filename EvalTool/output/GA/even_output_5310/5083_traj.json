@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006013
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:45)",
+        [
+            "",
+            700019049
+        ]
+    ],
+    [
+        "Current place: unknown, stay until 2:00 PM for lunch",
+        "(12:39, 14:43)",
+        [
+            "",
+            700018173
+        ]
+    ],
+    [
+        "Stay until 2:00 PM",
+        "(15:33, 17:42)",
+        [
+            "",
+            700019049
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:49, 18:53)",
+        [
+            "",
+            700017389
+        ]
+    ],
+    [
+        "Stay at Uva Next Door for drinks.",
+        "(20:49, 21:59)",
+        [
+            "",
+            700017389
+        ]
+    ],
+    [
+        "Go to Top of the Strand for late-night drinks.",
+        "(22:41, 23:51)",
+        [
+            "",
+            700018179
+        ]
+    ]
+]

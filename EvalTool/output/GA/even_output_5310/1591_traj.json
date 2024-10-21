@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Royal 35 Steakhouse",
+            700011098
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:01)",
+        [
+            "Royal 35 Steakhouse",
+            700011098
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:04, 11:58)",
+        [
+            "Royal 35 Steakhouse",
+            700011098
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:51, 14:44)",
+        [
+            "Royal 35 Steakhouse",
+            700011098
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:28, 17:48)",
+        [
+            "",
+            700002017
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 20:28)",
+        [
+            "Bank of America",
+            700013662
+        ]
+    ],
+    [
+        "TV/Movies or Family Time",
+        "(21:45, 22:57)",
+        [
+            "Bank of America",
+            700013662
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "Walgreens",
+            700009306
+        ]
+    ]
+]

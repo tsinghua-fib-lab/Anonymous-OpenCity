@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Start breakfast at K's apartment.",
+        "(10:00, 11:10)",
+        [
+            "",
+            700070022
+        ]
+    ],
+    [
+        "Start Leisure Activity",
+        "(11:48, 13:00)",
+        [
+            "",
+            700069100
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:21, 14:23)",
+        [
+            "",
+            700011774
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:01, 16:51)",
+        [
+            "Cocoro Kaiseki",
+            700041494
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:04, 18:55)",
+        [
+            "Urban Social",
+            700079495
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 22:02)",
+        [
+            "Subway",
+            700007378
+        ]
+    ]
+]

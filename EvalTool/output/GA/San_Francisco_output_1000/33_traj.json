@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Limón Rotisserie",
+            700002650
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:52)",
+        [
+            "Balancoire",
+            700004814
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(12:01, 13:09)",
+        [
+            "Balancoire",
+            700004814
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(13:31, 15:09)",
+        [
+            "Balancoire",
+            700004814
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(15:34, 17:59)",
+        [
+            "Balancoire",
+            700004814
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 20:49)",
+        [
+            "",
+            700002020
+        ]
+    ],
+    [
+        "Stay at Balancoire",
+        "(23:14, 23:59)",
+        [
+            "Balancoire",
+            700004814
+        ]
+    ]
+]

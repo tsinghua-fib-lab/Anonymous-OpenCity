@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Möge Tee",
+            700003954
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:00, 11:24)",
+        [
+            "Möge Tee",
+            700003954
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:49, 16:49)",
+        [
+            "Möge Tee",
+            700003954
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:54, 19:49)",
+        [
+            "Citi Bike - East 23rd Street & 1st Avenue",
+            700008036
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:59, 22:07)",
+        [
+            "",
+            700020655
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:43, 23:59)",
+        [
+            "",
+            700020652
+        ]
+    ]
+]

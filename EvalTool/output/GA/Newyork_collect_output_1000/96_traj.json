@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Continue with personal projects or hobbies.",
+        "(10:00, 12:04)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 17:22)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "Continue with personal projects or hobbies.",
+        "(15:27, 17:00)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "5:30 PM - 7:00 PM",
+        "(17:57, 19:17)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Continue at Matto Espresso",
+        "(20:04, 22:08)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Sunflower Cafe",
+        "(22:14, 23:41)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Enjoy dinner and company at Gran Merci;",
+        "(23:50, 23:59)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "Walk in the park",
+        "(10:00, 11:02)",
+        [
+            "",
+            700002786
+        ]
+    ],
+    [
+        "Next, you will have lunch.",
+        "(11:29, 13:08)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "Lunch at Avenue D Pizza",
+        "(13:32, 15:12)",
+        [
+            "Avenue D Pizza",
+            700019570
+        ]
+    ],
+    [
+        "Stay at Avenue D Pizza.",
+        "(15:19, 17:28)",
+        [
+            "Public School M188 The Island School",
+            700000020
+        ]
+    ],
+    [
+        "Stay at Avenue D Pizza for coffee with friends.",
+        "(17:56, 18:59)",
+        [
+            "Avenue D Pizza",
+            700019570
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 21:12)",
+        [
+            "Erin's Pharmacy",
+            700005416
+        ]
+    ]
+]

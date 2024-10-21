@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700037342
+        ]
+    ],
+    [
+        "Breakfast at the bench",
+        "(10:00, 11:10)",
+        [
+            "",
+            700037340
+        ]
+    ],
+    [
+        "Go for a morning jog or walk in the park",
+        "(11:54, 12:02)",
+        [
+            "",
+            700037343
+        ]
+    ],
+    [
+        "Go for a morning jog or walk in the park",
+        "(12:52, 13:59)",
+        [
+            "",
+            700037318
+        ]
+    ],
+    [
+        "Go for a morning jog or walk in the park",
+        "(14:27, 15:23)",
+        [
+            "",
+            700037323
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 20:21)",
+        [
+            "",
+            700037319
+        ]
+    ],
+    [
+        "Winding down with a movie or TV show at home",
+        "(21:43, 22:54)",
+        [
+            "",
+            700037342
+        ]
+    ],
+    [
+        "Wind down with a movie or TV show at home.",
+        "(23:45, 23:59)",
+        [
+            "",
+            700037317
+        ]
+    ]
+]

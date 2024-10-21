@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:58)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(11:03, 13:00)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Afternoon Outing",
+        "(13:50, 15:55)",
+        [
+            "Street Taco",
+            700006239
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:30, 22:01)",
+        [
+            "Handcraft",
+            700006233
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(21:33, 22:58)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(23:09, 23:59)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ]
+]

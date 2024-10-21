@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Supper",
+            700013457
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:24)",
+        [
+            "",
+            700020197
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:15, 16:50)",
+        [
+            "Supper",
+            700013457
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(17:04, 18:33)",
+        [
+            "Supper",
+            700013457
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(19:36, 20:58)",
+        [
+            "Supper",
+            700013457
+        ]
+    ],
+    [
+        "Evening Relaxation/Reading",
+        "(21:29, 22:59)",
+        [
+            "Supper",
+            700013457
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "",
+            700002636
+        ]
+    ]
+]

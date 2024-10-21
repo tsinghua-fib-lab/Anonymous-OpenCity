@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008831
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(09:00, 10:02)",
+        [
+            "",
+            700008831
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:39, 15:36)",
+        [
+            "Hit Fit SF",
+            700008833
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:07, 14:02)",
+        [
+            "",
+            700008831
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(15:59, 17:04)",
+        [
+            "R Bar",
+            700008832
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(17:25, 19:19)",
+        [
+            "Mayes Oyster House",
+            700001105
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:22, 23:59)",
+        [
+            "R Bar",
+            700008832
+        ]
+    ]
+]

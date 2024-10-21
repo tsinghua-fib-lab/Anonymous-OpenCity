@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:01)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:00, 12:04)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 15:16)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Current activity: Stay at Mughlai for dinner and movie night",
+        "(18:05, 22:04)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:13, 23:59)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chipotle",
+            700017949
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:36)",
+        [
+            "Chipotle",
+            700017949
+        ]
+    ],
+    [
+        "Lunch",
+        "(10:38, 12:33)",
+        [
+            "Chipotle",
+            700017949
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:37, 15:13)",
+        [
+            "Le Gourmet",
+            700035430
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:27, 17:07)",
+        [
+            "Chipotle",
+            700017949
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(17:13, 19:08)",
+        [
+            "Le Gourmet",
+            700035430
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:30, 21:05)",
+        [
+            "Le Pain Quotidien",
+            700006028
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 22:10)",
+        [
+            "Sophie's Cuban Cuisine",
+            700016391
+        ]
+    ]
+]

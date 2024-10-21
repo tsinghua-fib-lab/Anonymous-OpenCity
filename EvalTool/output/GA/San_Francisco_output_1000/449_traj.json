@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002030
+        ]
+    ],
+    [
+        "Leisure Activity / Hobbies",
+        "(10:00, 12:04)",
+        [
+            "V & J Cafe",
+            700004997
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:40, 16:30)",
+        [
+            "V & J Cafe",
+            700004997
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 20:34)",
+        [
+            "Mona Lisa",
+            700002083
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 21:43)",
+        [
+            "Tamarind Hall",
+            700003567
+        ]
+    ],
+    [
+        "Wind Down and Relax",
+        "(19:43, 21:09)",
+        [
+            "Tamarind Hall",
+            700003567
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:56, 23:59)",
+        [
+            "Caffe Trieste",
+            700000119
+        ]
+    ]
+]

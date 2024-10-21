@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700012818
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(10:00, 10:56)",
+        [
+            "",
+            700012818
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(11:32, 12:50)",
+        [
+            "Sweet Lime",
+            700005961
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 17:14)",
+        [
+            "Burger King",
+            700005693
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:12, 20:04)",
+        [
+            "Royal Indian Cuisine",
+            700005695
+        ]
+    ],
+    [
+        "Evening Relaxation and Wind Down",
+        "(20:30, 23:59)",
+        [
+            "",
+            700012818
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "Taxi Stand at Oracle Park",
+            700009599
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pizzalicious",
+            700002182
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:52)",
+        [
+            "Blush! Wine Bar",
+            700002186
+        ]
+    ],
+    [
+        "Continue at Blush! Wine Bar",
+        "(15:18, 16:48)",
+        [
+            "Blush! Wine Bar",
+            700002186
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:17, 19:05)",
+        [
+            "",
+            700001499
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 23:59)",
+        [
+            "Cafe de Casa",
+            700005575
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:19, 23:59)",
+        [
+            "CarePlus / CVS",
+            700002187
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:58)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:07, 13:44)",
+        [
+            "CitiBike Station",
+            700007611
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:19, 16:30)",
+        [
+            "",
+            700006224
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:34, 23:59)",
+        [
+            "Patrizia's",
+            700021516
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "",
+            700006231
+        ]
+    ]
+]

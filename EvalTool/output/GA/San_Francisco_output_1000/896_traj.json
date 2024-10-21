@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Whitechapel",
+            700005807
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:13)",
+        [
+            "Golden 1 Credit Union",
+            700003198
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:18, 15:36)",
+        [
+            "",
+            700000569
+        ]
+    ],
+    [
+        "Shopping Trip",
+        "(15:49, 17:27)",
+        [
+            "Bodega",
+            700009512
+        ]
+    ],
+    [
+        "Shopping Trip",
+        "(18:01, 19:28)",
+        [
+            "The UPS Store",
+            700010555
+        ]
+    ],
+    [
+        "Dinner at a New Restaurant",
+        "(20:13, 21:42)",
+        [
+            "Bay Wheels",
+            700009616
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(22:35, 23:59)",
+        [
+            "Whitechapel",
+            700005807
+        ]
+    ]
+]

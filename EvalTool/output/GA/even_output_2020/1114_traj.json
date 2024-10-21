@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Godzila Sushi",
+            700005179
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:09)",
+        [
+            "Urgent Care",
+            700003668
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:37, 11:57)",
+        [
+            "Urgent Care",
+            700003668
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(12:30, 13:58)",
+        [
+            "Urgent Care",
+            700003668
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(14:36, 16:35)",
+        [
+            "Urgent Care",
+            700003668
+        ]
+    ],
+    [
+        "Family/Friends Hangout",
+        "(17:24, 19:04)",
+        [
+            "Urgent Care",
+            700003668
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:28, 21:33)",
+        [
+            "Wells Fargo",
+            700000785
+        ]
+    ],
+    [
+        "Stay at Urgent Care",
+        "(20:42, 22:12)",
+        [
+            "Urgent Care",
+            700003668
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "San Francisco Athletic Club",
+            700004906
+        ]
+    ]
+]

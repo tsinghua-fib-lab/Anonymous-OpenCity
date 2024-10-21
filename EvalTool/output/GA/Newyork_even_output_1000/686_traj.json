@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Equal Care Pharmacy",
+            700005417
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:59)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(11:12, 12:37)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(12:40, 13:55)",
+        [
+            "Equal Care Pharmacy",
+            700005417
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:05, 18:47)",
+        [
+            "",
+            700001885
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:41, 22:01)",
+        [
+            "",
+            700002391
+        ]
+    ]
+]

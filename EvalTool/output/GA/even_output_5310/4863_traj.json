@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700025059
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:59)",
+        [
+            "",
+            700025123
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:14, 16:06)",
+        [
+            "",
+            700025055
+        ]
+    ],
+    [
+        "Afternoon Activity",
+        "(15:46, 17:13)",
+        [
+            "",
+            700025056
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(17:58, 18:57)",
+        [
+            "",
+            700025050
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(19:20, 20:17)",
+        [
+            "Link NYC",
+            700020386
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(20:33, 21:57)",
+        [
+            "Link NYC",
+            700020386
+        ]
+    ],
+    [
+        "Next relaxation or leisure time.",
+        "(22:12, 23:31)",
+        [
+            "The Molly Wee Pub",
+            700004351
+        ]
+    ],
+    [
+        "Next relaxation or leisure time.",
+        "(23:58, 23:59)",
+        [
+            "Link NYC",
+            700020386
+        ]
+    ]
+]

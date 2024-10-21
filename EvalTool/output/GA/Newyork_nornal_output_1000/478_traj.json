@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Boucherie",
+            700030494
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the nearby park or neighborhood to enjoy the fresh air.",
+        "(09:00, 09:50)",
+        [
+            "Boucherie",
+            700030494
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:39, 15:39)",
+        [
+            "All'Antico Vinaio",
+            700005272
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:35, 20:59)",
+        [
+            "Greenwich House Preschool",
+            700000458
+        ]
+    ],
+    [
+        "Current Place: Greenwich House Preschool; Stay Time: 1 hour 24 minutes",
+        "(21:36, 22:50)",
+        [
+            "Boucherie",
+            700030494
+        ]
+    ],
+    [
+        "Next place: Boucherie",
+        "(23:34, 23:59)",
+        [
+            "Boucherie",
+            700030494
+        ]
+    ]
+]

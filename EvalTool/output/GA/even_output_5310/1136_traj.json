@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bar Felice",
+            700024255
+        ]
+    ],
+    [
+        "Next activity in daily plan.",
+        "(09:00, 09:54)",
+        [
+            "Bar Felice",
+            700024255
+        ]
+    ],
+    [
+        "Next activity in daily plan",
+        "(10:24, 12:03)",
+        [
+            "Bar Felice",
+            700024255
+        ]
+    ],
+    [
+        "Next activity in daily plan.",
+        "(12:10, 13:54)",
+        [
+            "Bar Felice",
+            700024255
+        ]
+    ],
+    [
+        "Stay at Tavola",
+        "(14:05, 16:06)",
+        [
+            "Botte UES",
+            700027029
+        ]
+    ],
+    [
+        "Go to Botte UES.",
+        "(16:30, 18:30)",
+        [
+            "Botte UES",
+            700027029
+        ]
+    ],
+    [
+        "Stay at Bar Felice.",
+        "(18:42, 20:10)",
+        [
+            "Bar Felice",
+            700024255
+        ]
+    ],
+    [
+        "Go to Bar Felice.",
+        "(20:14, 22:37)",
+        [
+            "Bar Felice",
+            700024255
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "CVS Pharmacy",
+            700033545
+        ]
+    ]
+]

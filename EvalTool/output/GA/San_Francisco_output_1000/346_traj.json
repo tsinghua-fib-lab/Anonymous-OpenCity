@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mythic Pizza",
+            700000962
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:47)",
+        [
+            "",
+            700005478
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:27, 16:32)",
+        [
+            "Mythic Pizza",
+            700000962
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:39, 18:41)",
+        [
+            "Uva Enoteca",
+            700000953
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(22:00, 23:56)",
+        [
+            "Uva Enoteca",
+            700000953
+        ]
+    ],
+    [
+        "Stay at Mythic Pizza",
+        "(23:53, 23:59)",
+        [
+            "Mythic Pizza",
+            700000962
+        ]
+    ]
+]

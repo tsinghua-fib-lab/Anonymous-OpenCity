@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CAFETERIA",
+            700014917
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:13)",
+        [
+            "",
+            700020085
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:20, 12:50)",
+        [
+            "Motel Morris",
+            700017659
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:51, 15:56)",
+        [
+            "Motel Morris",
+            700017659
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(16:07, 17:36)",
+        [
+            "CAFETERIA",
+            700014917
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:16, 19:53)",
+        [
+            "CAFETERIA",
+            700014917
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:56, 23:59)",
+        [
+            "J's Pizza",
+            700004232
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "Citi Bike - West 15th Street & 7th Avenue",
+            700008200
+        ]
+    ]
+]

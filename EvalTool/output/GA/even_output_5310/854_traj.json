@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:37)",
+        [
+            "Chase",
+            700005974
+        ]
+    ],
+    [
+        "Afternoon Sports/Outdoor Activity",
+        "(16:12, 17:50)",
+        [
+            "Chase",
+            700005974
+        ]
+    ],
+    [
+        "Dinner Preparation/Cooking",
+        "(18:49, 20:03)",
+        [
+            "Chase",
+            700005974
+        ]
+    ],
+    [
+        "Wind Down & Movie Night",
+        "(20:40, 23:05)",
+        [
+            "Chase",
+            700005974
+        ]
+    ],
+    [
+        "next place for leisure time/creative activity since it's 23:05 and the movie night is already over.",
+        "(23:05, 23:59)",
+        [
+            "",
+            700001136
+        ]
+    ]
+]

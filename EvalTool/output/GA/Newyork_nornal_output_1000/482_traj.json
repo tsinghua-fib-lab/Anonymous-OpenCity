@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002470
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the nearby park or neighborhood to enjoy the fresh air.",
+        "(09:00, 09:56)",
+        [
+            "",
+            700002470
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:39, 12:01)",
+        [
+            "",
+            700001291
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:35, 18:10)",
+        [
+            "",
+            700035334
+        ]
+    ],
+    [
+        "Current Place: Starbucks; Stay Time: 1 hour 24 minutes",
+        "(21:36, 22:57)",
+        [
+            "",
+            700017223
+        ]
+    ],
+    [
+        "Next place: Starbucks",
+        "(23:34, 23:59)",
+        [
+            "Starbucks",
+            700003469
+        ]
+    ]
+]

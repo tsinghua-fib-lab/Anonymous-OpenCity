@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002191
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:46)",
+        [
+            "",
+            700010342
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:00, 20:43)",
+        [
+            "Voilà Afrique",
+            700034218
+        ]
+    ],
+    [
+        "Household Chores",
+        "(16:53, 18:43)",
+        [
+            "Shih Lee's Chinese Eastery",
+            700008421
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:56, 22:56)",
+        [
+            "Ali Baba's Terrace",
+            700006423
+        ]
+    ],
+    [
+        "Stay at Voilà Afrique",
+        "(23:20, 23:59)",
+        [
+            "Voilà Afrique",
+            700034218
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Turkuaz",
+            700021412
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:09)",
+        [
+            "Midtown Community Justice Center",
+            700040228
+        ]
+    ],
+    [
+        "Catch Up with Family/Friends",
+        "(13:21, 15:30)",
+        [
+            "Midtown Community Justice Center",
+            700040228
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:52, 19:02)",
+        [
+            "P.F. Chang's",
+            700034827
+        ]
+    ],
+    [
+        "Stay at Turkuaz",
+        "(21:28, 22:52)",
+        [
+            "Santander",
+            700008773
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "Russian Vodka Room",
+            700006505
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010672
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:23)",
+        [
+            "San Francisco Federal Credit Union",
+            700000793
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(12:16, 13:46)",
+        [
+            "San Francisco Federal Credit Union",
+            700000793
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:30, 19:56)",
+        [
+            "Salty's",
+            700003109
+        ]
+    ],
+    [
+        "Go to Salty's for a meal.",
+        "(17:11, 19:07)",
+        [
+            "Burger King",
+            700000794
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:25, 23:34)",
+        [
+            "Burger King",
+            700000794
+        ]
+    ]
+]

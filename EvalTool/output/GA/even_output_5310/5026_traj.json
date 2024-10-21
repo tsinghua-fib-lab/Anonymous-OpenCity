@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001253
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:40)",
+        [
+            "Andrew M. Lutzker, D.M.D.",
+            700009289
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:00, 16:55)",
+        [
+            "Bareburger",
+            700006418
+        ]
+    ],
+    [
+        "Household Chores",
+        "(16:53, 18:56)",
+        [
+            "Bareburger",
+            700006418
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:56, 20:51)",
+        [
+            "Citi Bike - East 52nd Street & 2nd Avenue",
+            700008055
+        ]
+    ],
+    [
+        "Stay at Lenny's",
+        "(23:20, 23:59)",
+        [
+            "Hide-Chan Ramen",
+            700010035
+        ]
+    ]
+]

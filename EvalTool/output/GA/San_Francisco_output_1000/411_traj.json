@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Little Spot Cafe",
+            700009219
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:52)",
+        [
+            "Walgreens",
+            700001294
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:20, 20:00)",
+        [
+            "Bank of America",
+            700004882
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:00, 20:38)",
+        [
+            "Collegio De La Mission",
+            700000200
+        ]
+    ],
+    [
+        "Dinner Preparation and Relaxation",
+        "(23:40, 23:59)",
+        [
+            "Collegio De La Mission",
+            700000200
+        ]
+    ]
+]

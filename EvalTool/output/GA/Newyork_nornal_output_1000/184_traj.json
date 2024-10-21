@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700017711
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:04)",
+        [
+            "",
+            700017711
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:45, 11:57)",
+        [
+            "",
+            700017735
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:14, 14:01)",
+        [
+            "Ziegfeld Ballroom",
+            700006312
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:00, 18:11)",
+        [
+            "Ziegfeld Ballroom",
+            700006312
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:14, 20:01)",
+        [
+            "",
+            700019340
+        ]
+    ],
+    [
+        "Go to Ziegfeld Ballroom",
+        "(22:10, 23:31)",
+        [
+            "Ziegfeld Ballroom",
+            700006312
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "Avis",
+            700005901
+        ]
+    ]
+]

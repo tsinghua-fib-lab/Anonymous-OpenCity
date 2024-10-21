@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001466
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:27)",
+        [
+            "",
+            700002525
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:23, 16:17)",
+        [
+            "Citi Bike - 9th Avenue & West 22nd Street",
+            700007945
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:05, 23:00)",
+        [
+            "FIKA 9th Avenue",
+            700008331
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:43, 23:00)",
+        [
+            "Citi Bike - 9th Avenue & West 22nd Street",
+            700007945
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:55, 23:59)",
+        [
+            "Citi Bike - 9th Avenue & West 22nd Street",
+            700007945
+        ]
+    ]
+]

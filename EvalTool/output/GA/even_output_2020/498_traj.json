@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "b Patisserie",
+            700010932
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:48)",
+        [
+            "Yum Yum Hunan",
+            700005281
+        ]
+    ],
+    [
+        "Read a Book or Listen to Music",
+        "(14:11, 16:09)",
+        [
+            "b Patisserie",
+            700010932
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:02, 21:50)",
+        [
+            "El Burrito Express",
+            700005282
+        ]
+    ],
+    [
+        "Read a Book or Listen to Music",
+        "(21:35, 23:07)",
+        [
+            "Godzila Sushi",
+            700005179
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(23:45, 23:59)",
+        [
+            "San Francisco Athletic Club",
+            700004906
+        ]
+    ]
+]

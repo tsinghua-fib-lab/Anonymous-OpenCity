@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001627
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:25)",
+        [
+            "Le Poisson Rouge",
+            700004933
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:06, 14:21)",
+        [
+            "Le Poisson Rouge",
+            700004933
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 16:42)",
+        [
+            "The Underdog",
+            700011959
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:06, 22:09)",
+        [
+            "Okinii",
+            700038169
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:25, 23:59)",
+        [
+            "Karakatta",
+            700011976
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:18, 23:59)",
+        [
+            "Irving Farm Coffee Roasters",
+            700013510
+        ]
+    ]
+]

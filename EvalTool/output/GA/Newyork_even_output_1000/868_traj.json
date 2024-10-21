@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:57)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:34, 12:06)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:40, 17:23)",
+        [
+            "",
+            700001769
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:28, 15:49)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:19, 17:57)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "Catch Up on a TV Show or Movie",
+        "(18:01, 20:10)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:10, 23:59)",
+        [
+            "",
+            700001295
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:49, 23:59)",
+        [
+            "",
+            700040624
+        ]
+    ]
+]

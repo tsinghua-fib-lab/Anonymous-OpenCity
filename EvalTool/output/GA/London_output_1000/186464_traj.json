@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Go for a refreshing morning walk or jog in the nearby park.",
+        "(09:00, 10:27)",
+        [
+            "",
+            700023793
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:30, 12:29)",
+        [
+            "Britain Change",
+            700041566
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:20, 19:23)",
+        [
+            "Mail Boxes Etc.",
+            700041565
+        ]
+    ],
+    [
+        "Go to Mail Boxes Etc. for late-night errands.",
+        "(20:40, 22:07)",
+        [
+            "Mail Boxes Etc.",
+            700041565
+        ]
+    ],
+    [
+        "Stay at K's apartment for late-night errands.",
+        "(22:57, 23:57)",
+        [
+            "Mail Boxes Etc.",
+            700041565
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "HSBC UK",
+            700005244
+        ]
+    ]
+]

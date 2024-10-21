@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:34)",
+        [
+            "Cafe Diana",
+            700041556
+        ]
+    ],
+    [
+        "Socialize",
+        "(13:47, 15:57)",
+        [
+            "Cafe Diana",
+            700041556
+        ]
+    ],
+    [
+        "Socialize",
+        "(16:06, 17:32)",
+        [
+            "Cafe Diana",
+            700041556
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:49, 19:26)",
+        [
+            "Cafe Diana",
+            700041556
+        ]
+    ],
+    [
+        "Dinner Preparation and Relaxation",
+        "(19:33, 20:55)",
+        [
+            "Tequila Tex-Mex",
+            700005245
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 23:59)",
+        [
+            "",
+            700067737
+        ]
+    ]
+]

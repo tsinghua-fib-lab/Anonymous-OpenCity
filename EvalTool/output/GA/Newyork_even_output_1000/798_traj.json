@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000613
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:19)",
+        [
+            "Analogue",
+            700024711
+        ]
+    ],
+    [
+        "Stay at Analogue.",
+        "(12:01, 13:32)",
+        [
+            "",
+            700001867
+        ]
+    ],
+    [
+        "Stay at Analogue",
+        "(13:28, 14:56)",
+        [
+            "Arts and Crafts Beer Parlor",
+            700008981
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:29, 16:55)",
+        [
+            "Analogue",
+            700024711
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:56, 20:19)",
+        [
+            "Ideal Glass Studios",
+            700028889
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "",
+            700001867
+        ]
+    ]
+]

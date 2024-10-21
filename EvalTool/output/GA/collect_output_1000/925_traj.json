@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030397
+        ]
+    ],
+    [
+        "Reading or catching up on personal hobbies",
+        "(09:00, 10:31)",
+        [
+            "Chipotle",
+            700003899
+        ]
+    ],
+    [
+        "Reading or catching up on personal hobbies",
+        "(10:39, 12:02)",
+        [
+            "Chipotle",
+            700003899
+        ]
+    ],
+    [
+        "Engage in a fun activity.",
+        "(12:34, 14:19)",
+        [
+            "Citi Bike - Murray Street & Greenwich Street",
+            700027025
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:02, 16:00)",
+        [
+            "Chipotle",
+            700003899
+        ]
+    ],
+    [
+        "Wind down by watching TV or reading a book",
+        "(21:15, 23:06)",
+        [
+            "Chipotle",
+            700003899
+        ]
+    ],
+    [
+        "Wind down by watching TV or reading a book",
+        "(23:38, 23:59)",
+        [
+            "",
+            700036799
+        ]
+    ]
+]

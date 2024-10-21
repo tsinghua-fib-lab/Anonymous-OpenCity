@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Broadway & West 51st Street",
+            700007977
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:03)",
+        [
+            "Starbucks",
+            700006092
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:52, 13:59)",
+        [
+            "Starbucks",
+            700006092
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 18:33)",
+        [
+            "Citibank",
+            700005914
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:45, 21:53)",
+        [
+            "Rosie O'Grady's Saloon",
+            700005907
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:36, 23:59)",
+        [
+            "Bank of America",
+            700021410
+        ]
+    ]
+]

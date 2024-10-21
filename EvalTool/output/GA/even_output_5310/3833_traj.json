@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Island Burger and Shakes",
+            700009072
+        ]
+    ],
+    [
+        "Take a Morning Walk or Attend a Yoga Class",
+        "(09:00, 10:25)",
+        [
+            "",
+            700000870
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 12:36)",
+        [
+            "Ippudo",
+            700008812
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:53, 15:18)",
+        [
+            "Citi Bike - 8th Avenue & West 52nd Street",
+            700007943
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(19:05, 20:29)",
+        [
+            "",
+            700018231
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 23:38)",
+        [
+            "",
+            700026180
+        ]
+    ]
+]

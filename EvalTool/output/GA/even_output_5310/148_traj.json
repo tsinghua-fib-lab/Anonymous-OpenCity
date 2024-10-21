@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Famous Original Ray's Pizza",
+            700014713
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:52)",
+        [
+            "",
+            700010794
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 20:36)",
+        [
+            "Citi Bike - Lexington Avenue & East 62nd Street",
+            700016438
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:28, 23:59)",
+        [
+            "Joe & The Juice",
+            700023486
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(22:24, 23:59)",
+        [
+            "Ajisai",
+            700014697
+        ]
+    ]
+]

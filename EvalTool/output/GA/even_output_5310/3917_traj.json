@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Handcraft",
+            700006233
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:24)",
+        [
+            "NY Kids Club",
+            700006234
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 16:09)",
+        [
+            "The Gem Saloon",
+            700011140
+        ]
+    ],
+    [
+        "Entertainment",
+        "(16:51, 18:21)",
+        [
+            "The Gem Saloon",
+            700011140
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:17, 20:10)",
+        [
+            "The Gem Saloon",
+            700011140
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 23:00)",
+        [
+            "Soft Swerve",
+            700015892
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "Flame Hibachi",
+            700015891
+        ]
+    ]
+]

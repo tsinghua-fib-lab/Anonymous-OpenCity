@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Saint Matthews Lutheran Church",
+            700001632
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:52)",
+        [
+            "",
+            700000068
+        ]
+    ],
+    [
+        "Visit local restaurants and cafes",
+        "(13:41, 14:53)",
+        [
+            "Saint Matthews Lutheran Church",
+            700001632
+        ]
+    ],
+    [
+        "Visit local restaurants and cafes",
+        "(14:57, 15:59)",
+        [
+            "Saint Matthews Lutheran Church",
+            700001632
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 22:22)",
+        [
+            "Ramen Izakaya Goku",
+            700004113
+        ]
+    ],
+    [
+        "Gather at Boba Guys.",
+        "(20:41, 22:36)",
+        [
+            "",
+            700000068
+        ]
+    ],
+    [
+        "Enjoy dinner at Boba Guys.",
+        "(23:41, 23:59)",
+        [
+            "ABV",
+            700000474
+        ]
+    ]
+]

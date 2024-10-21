@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:42)",
+        [
+            "",
+            700022436
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:10, 15:42)",
+        [
+            "Hamilton Fish Park Library",
+            700000552
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:59, 17:28)",
+        [
+            "Hamilton Fish Park Library",
+            700000552
+        ]
+    ],
+    [
+        "Watch Movie or TV Show",
+        "(17:33, 18:59)",
+        [
+            "Hamilton Fish Park Library",
+            700000552
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:39, 22:45)",
+        [
+            "",
+            700022435
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "",
+            700021863
+        ]
+    ]
+]

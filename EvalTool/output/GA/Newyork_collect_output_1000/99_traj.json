@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:19)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Lunch while catching up on a favorite podcast or some light reading.",
+        "(12:03, 13:06)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "Lunch while catching up on a favorite podcast or some light reading.",
+        "(13:01, 15:05)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Go to Gramercy Park Dental",
+        "(15:46, 16:53)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:32, 23:28)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 23:59)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(22:37, 23:59)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ]
+]

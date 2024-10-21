@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008426
+        ]
+    ],
+    [
+        "Go for a Walk or Light Exercise",
+        "(10:00, 11:02)",
+        [
+            "",
+            700008426
+        ]
+    ],
+    [
+        "Stay Here",
+        "(11:50, 13:05)",
+        [
+            "",
+            700008426
+        ]
+    ],
+    [
+        "Stay Here",
+        "(12:52, 14:04)",
+        [
+            "Nations Café",
+            700006419
+        ]
+    ],
+    [
+        "Stay Here",
+        "(14:30, 16:30)",
+        [
+            "Nations Café",
+            700006419
+        ]
+    ],
+    [
+        "Cook Dinner or Prepare for the Week",
+        "(17:17, 18:59)",
+        [
+            "Nations Café",
+            700006419
+        ]
+    ],
+    [
+        "Cook Dinner or Prepare for the Week",
+        "(19:16, 20:57)",
+        [
+            "",
+            700030733
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 22:41)",
+        [
+            "",
+            700030736
+        ]
+    ]
+]

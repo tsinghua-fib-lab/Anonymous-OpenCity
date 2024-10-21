@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:46)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Creative Time",
+        "(12:54, 15:03)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Creative Time",
+        "(15:02, 17:03)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 20:26)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030396
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:03)",
+        [
+            "",
+            700030388
+        ]
+    ],
+    [
+        "Continue reading or catching up on a personal project.",
+        "(11:18, 12:56)",
+        [
+            "",
+            700030396
+        ]
+    ],
+    [
+        "Have lunch with friends or family",
+        "(13:15, 14:43)",
+        [
+            "",
+            700001510
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:32, 19:18)",
+        [
+            "Touro College",
+            700004388
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:39, 22:48)",
+        [
+            "",
+            700037859
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(23:35, 23:59)",
+        [
+            "",
+            700030396
+        ]
+    ]
+]

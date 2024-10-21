@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Longberrys Estate",
+            700011903
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:23)",
+        [
+            "",
+            700009214
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 18:17)",
+        [
+            "",
+            700009222
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:44, 19:29)",
+        [
+            "",
+            700009457
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(20:06, 21:43)",
+        [
+            "St Agnes RC Primary School",
+            700009456
+        ]
+    ],
+    [
+        "Stay at the current place.",
+        "(22:01, 23:13)",
+        [
+            "",
+            700009459
+        ]
+    ],
+    [
+        "Stay at St Agnes RC Primary School",
+        "(23:36, 23:59)",
+        [
+            "St Agnes RC Primary School",
+            700009456
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700033476
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:55)",
+        [
+            "",
+            700010403
+        ]
+    ],
+    [
+        "Hobby Time or Creative Project",
+        "(14:08, 15:58)",
+        [
+            "",
+            700009797
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:07, 19:27)",
+        [
+            "",
+            700033478
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:37, 22:20)",
+        [
+            "",
+            700033473
+        ]
+    ],
+    [
+        "Go to Blazing Saddles Pier 84 and spend time there.",
+        "(23:19, 23:59)",
+        [
+            "Blazing Saddles Pier 84",
+            700008555
+        ]
+    ]
+]

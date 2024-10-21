@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700004869
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:06)",
+        [
+            "California Wine Merchant",
+            700008807
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:17, 13:24)",
+        [
+            "",
+            700004869
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(13:39, 15:07)",
+        [
+            "California Wine Merchant",
+            700008807
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(15:28, 16:57)",
+        [
+            "California Wine Merchant",
+            700008807
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 19:04)",
+        [
+            "Marina Theatre",
+            700002046
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "delarosa",
+            700004889
+        ]
+    ]
+]

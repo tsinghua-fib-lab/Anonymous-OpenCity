@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Supreme Restaurant",
+            700011129
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:47)",
+        [
+            "",
+            700026183
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(15:25, 16:57)",
+        [
+            "Sweet Moment",
+            700010489
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:33, 23:08)",
+        [
+            "",
+            700025357
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:08, 21:10)",
+        [
+            "Alrite Pharmacy",
+            700005144
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:57, 23:59)",
+        [
+            "ABC Pharmacy",
+            700005305
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:53, 23:59)",
+        [
+            "XO Taste",
+            700020715
+        ]
+    ]
+]

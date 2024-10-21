@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Spend some time reading or catching up on the latest news/articles",
+        "(10:00, 10:56)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Continue enjoying your time at Mughlai.",
+        "(11:46, 13:11)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Enjoy more time at the cafe",
+        "(13:30, 14:56)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 21:48)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Stay at Sunflower Cafe and enjoy some reading.",
+        "(17:44, 19:05)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 22:43)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(23:49, 23:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

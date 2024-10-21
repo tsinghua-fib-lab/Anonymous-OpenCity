@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:27)",
+        [
+            "",
+            700066453
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(11:53, 13:27)",
+        [
+            "Mail Boxes Etc.",
+            700041565
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 17:29)",
+        [
+            "Tequila Tex-Mex",
+            700005245
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 21:11)",
+        [
+            "",
+            700067564
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:51, 23:59)",
+        [
+            "Badiani Gelato",
+            700041568
+        ]
+    ],
+    [
+        "Next activity after current time",
+        "(23:11, 23:59)",
+        [
+            "Nando's",
+            700041571
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:35)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(14:07, 15:19)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Creative Time",
+        "(15:56, 17:22)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Creative Time",
+        "(17:44, 19:45)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(20:36, 22:51)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Next, stay at Sunflower Cafe.",
+        "(23:47, 23:59)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ]
+]

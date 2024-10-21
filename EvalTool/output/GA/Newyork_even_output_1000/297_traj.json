@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030685
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:00)",
+        [
+            "",
+            700030678
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 17:53)",
+        [
+            "",
+            700030697
+        ]
+    ],
+    [
+        "Relax and watch a movie or series",
+        "(15:25, 16:56)",
+        [
+            "",
+            700030700
+        ]
+    ],
+    [
+        "Prepare dinner and wind down.",
+        "(17:21, 20:04)",
+        [
+            "",
+            700030700
+        ]
+    ],
+    [
+        "Relax and watch a movie or series.",
+        "(21:03, 23:56)",
+        [
+            "",
+            700030685
+        ]
+    ],
+    [
+        "Next arrangement is to find a cafe to wind down.",
+        "(23:58, 23:59)",
+        [
+            "",
+            700030678
+        ]
+    ]
+]

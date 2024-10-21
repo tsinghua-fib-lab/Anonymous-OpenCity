@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Poppi",
+            700006565
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:25)",
+        [
+            "Poppi",
+            700006565
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:06, 14:04)",
+        [
+            "Poppi",
+            700006565
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:45, 16:29)",
+        [
+            "Poppi",
+            700006565
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 18:55)",
+        [
+            "Poppi",
+            700006565
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:09, 22:22)",
+        [
+            "USPS",
+            700017170
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "Link NYC",
+            700017691
+        ]
+    ]
+]

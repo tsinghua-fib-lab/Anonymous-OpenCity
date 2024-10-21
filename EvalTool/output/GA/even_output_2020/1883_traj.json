@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Enterprise",
+            700005061
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:39)",
+        [
+            "Taco Bell",
+            700010300
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:35, 13:14)",
+        [
+            "",
+            700010108
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:13, 16:22)",
+        [
+            "Hertz",
+            700008358
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 23:24)",
+        [
+            "Ike's Love and Sandwiches",
+            700008834
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(23:43, 23:59)",
+        [
+            "Starbucks",
+            700010207
+        ]
+    ]
+]

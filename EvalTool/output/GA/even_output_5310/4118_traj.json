@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700007890
+        ]
+    ],
+    [
+        "Go for a walk or light exercise in a nearby park.",
+        "(10:00, 10:53)",
+        [
+            "Pila de Boba",
+            700038123
+        ]
+    ],
+    [
+        "Go for a walk or light exercise in a nearby park.",
+        "(11:14, 12:06)",
+        [
+            "Pila de Boba",
+            700038123
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 15:32)",
+        [
+            "The Halal Guys",
+            700007889
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:19, 19:09)",
+        [
+            "99¢ Pizza",
+            700007876
+        ]
+    ],
+    [
+        "Stay at the current place",
+        "(20:17, 22:01)",
+        [
+            "",
+            700007890
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:20, 23:49)",
+        [
+            "US Post Office",
+            700021998
+        ]
+    ]
+]

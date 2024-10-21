@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New Drug Loft",
+            700022309
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:06)",
+        [
+            "Ridgewood Savings Bank",
+            700006557
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 17:13)",
+        [
+            "Harajuki Ramen",
+            700032005
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:21, 18:22)",
+        [
+            "",
+            700020601
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:46, 23:59)",
+        [
+            "Sushi Gama Restaurant & Lounge",
+            700021719
+        ]
+    ],
+    [
+        "Proceed to sleep.",
+        "(22:27, 23:59)",
+        [
+            "New Drug Loft",
+            700022309
+        ]
+    ],
+    [
+        "Proceed to sleep.",
+        "(23:53, 23:59)",
+        [
+            "New Drug Loft",
+            700022309
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Casa Agave",
+            700009837
+        ]
+    ],
+    [
+        "Light Exercise",
+        "(10:00, 11:03)",
+        [
+            "Casa Agave",
+            700009837
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:35, 13:35)",
+        [
+            "",
+            700000920
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:51, 15:23)",
+        [
+            "",
+            700014817
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:43, 17:02)",
+        [
+            "Chelsea Grill",
+            700006375
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 22:14)",
+        [
+            "Galaxy Diner",
+            700007734
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 23:59)",
+        [
+            "Yum yum too",
+            700016191
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020599
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:01)",
+        [
+            "Liv Eat",
+            700023076
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:12, 12:40)",
+        [
+            "",
+            700021542
+        ]
+    ],
+    [
+        "Engage in a creative hobby or project",
+        "(13:16, 15:24)",
+        [
+            "Pulp + Grind",
+            700023073
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:25, 17:58)",
+        [
+            "Liv Eat",
+            700023076
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:06, 21:25)",
+        [
+            "Pulp + Grind",
+            700023073
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:01, 23:32)",
+        [
+            "",
+            700021545
+        ]
+    ],
+    [
+        "you decide to go to Commonwealth Bank;",
+        "(23:32, 23:59)",
+        [
+            "",
+            700021538
+        ]
+    ]
+]

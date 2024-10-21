@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002494
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:59)",
+        [
+            "",
+            700002494
+        ]
+    ],
+    [
+        "Spend time reading or catching up on a hobby",
+        "(12:29, 13:56)",
+        [
+            "",
+            700002494
+        ]
+    ],
+    [
+        "Spend time reading or catching up on a hobby",
+        "(14:23, 15:55)",
+        [
+            "",
+            700002494
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:51, 21:09)",
+        [
+            "",
+            700001861
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 23:59)",
+        [
+            "CVS Pharmacy",
+            700024375
+        ]
+    ],
+    [
+        "Stay at CVS Pharmacy.",
+        "(22:28, 23:59)",
+        [
+            "",
+            700002494
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Dr. Benjamin Paul",
+            700040418
+        ]
+    ]
+]

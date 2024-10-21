@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "ammos estiatorio",
+            700003507
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:12)",
+        [
+            "Patel Holdings LLC",
+            700040511
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:24, 17:02)",
+        [
+            "Patel Holdings LLC",
+            700040511
+        ]
+    ],
+    [
+        "Cultural Outing",
+        "(17:05, 18:53)",
+        [
+            "Patel Holdings LLC",
+            700040511
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 22:31)",
+        [
+            "Urbanspace Vanderbilt",
+            700010952
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:59)",
+        [
+            "",
+            700037650
+        ]
+    ]
+]

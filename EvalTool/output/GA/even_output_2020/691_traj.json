@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014101
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:23)",
+        [
+            "Starbucks",
+            700005467
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:45, 13:30)",
+        [
+            "Starbucks",
+            700005467
+        ]
+    ],
+    [
+        "Outdoor Activity (2:00 PM - 4:00 PM)",
+        "(14:12, 16:12)",
+        [
+            "Left Door",
+            700013631
+        ]
+    ],
+    [
+        "Visit a Local Art Gallery or Museum",
+        "(16:36, 18:09)",
+        [
+            "Left Door",
+            700013631
+        ]
+    ],
+    [
+        "Visit a Local Art Gallery or Museum",
+        "(18:08, 19:46)",
+        [
+            "Left Door",
+            700013631
+        ]
+    ],
+    [
+        "Relax & Leisure Time",
+        "(19:53, 21:45)",
+        [
+            "Left Door",
+            700013631
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:39, 23:59)",
+        [
+            "",
+            700014105
+        ]
+    ]
+]

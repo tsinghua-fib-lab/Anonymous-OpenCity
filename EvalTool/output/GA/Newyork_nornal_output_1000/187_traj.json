@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020821
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:46)",
+        [
+            "Hudson Guild Theatre",
+            700004677
+        ]
+    ],
+    [
+        "Engage in Outdoor Activity",
+        "(14:43, 16:13)",
+        [
+            "Hudson Guild Theatre",
+            700004677
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 20:36)",
+        [
+            "10th Avenue Pizza & Cafe",
+            700014558
+        ]
+    ],
+    [
+        "Go to 10th Avenue Pizza & Cafe",
+        "(22:46, 23:52)",
+        [
+            "10th Avenue Pizza & Cafe",
+            700014558
+        ]
+    ]
+]

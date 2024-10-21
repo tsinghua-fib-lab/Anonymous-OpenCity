@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001824
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:06)",
+        [
+            "Citi Bike - E 2 St & Avenue C",
+            700008032
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(13:47, 15:20)",
+        [
+            "Citi Bike - E 2 St & Avenue C",
+            700008032
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:18, 19:48)",
+        [
+            "",
+            700002013
+        ]
+    ],
+    [
+        "Relax and plan for the week ahead",
+        "(19:51, 21:04)",
+        [
+            "",
+            700001824
+        ]
+    ],
+    [
+        "Relax and plan for the week ahead",
+        "(21:39, 22:41)",
+        [
+            "",
+            700001824
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:07, 23:59)",
+        [
+            "",
+            700022435
+        ]
+    ]
+]

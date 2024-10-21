@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:00, 11:26)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(11:56, 13:52)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:16, 15:46)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ],
+    [
+        "Creative Work/Brainstorming Session",
+        "(16:26, 17:58)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 20:55)",
+        [
+            "",
+            700022515
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:33, 23:59)",
+        [
+            "",
+            700022519
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:58, 23:59)",
+        [
+            "Ampersand",
+            700006110
+        ]
+    ]
+]

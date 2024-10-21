@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chase",
+            700012809
+        ]
+    ],
+    [
+        "Go for a morning jog or engage in a light workout",
+        "(09:00, 10:28)",
+        [
+            "",
+            700017180
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:59, 14:25)",
+        [
+            "",
+            700018083
+        ]
+    ],
+    [
+        "Dedicate time to a personal hobby or reading",
+        "(13:57, 15:29)",
+        [
+            "Chase",
+            700012809
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:30, 18:58)",
+        [
+            "",
+            700018480
+        ]
+    ],
+    [
+        "Relax and watch a movie or binge-watch a series at home.",
+        "(20:44, 21:59)",
+        [
+            "Chase",
+            700012809
+        ]
+    ],
+    [
+        "Prepare a simple dinner and unwind with a good book or music.",
+        "(22:02, 23:23)",
+        [
+            "Chase",
+            700012809
+        ]
+    ]
+]

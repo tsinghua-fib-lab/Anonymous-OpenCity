@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Prime Steak Restaurant",
+            700005173
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:20)",
+        [
+            "",
+            700026472
+        ]
+    ],
+    [
+        "Leisure/Personal Projects",
+        "(14:22, 15:53)",
+        [
+            "Prime Steak Restaurant",
+            700005173
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:37, 22:20)",
+        [
+            "",
+            700003298
+        ]
+    ],
+    [
+        "Stay at Prime Steak Restaurant",
+        "(22:41, 23:59)",
+        [
+            "Two Penny Blue",
+            700031461
+        ]
+    ]
+]

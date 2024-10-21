@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700017846
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:56)",
+        [
+            "Citi Bike",
+            700020621
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:00, 17:36)",
+        [
+            "Anita La Mamma del Gelato",
+            700024251
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:47, 18:18)",
+        [
+            "",
+            700020624
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:50, 19:29)",
+        [
+            "Citi Bike",
+            700020621
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(21:12, 22:56)",
+        [
+            "",
+            700017846
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:28, 23:59)",
+        [
+            "Sushi Ryusei",
+            700015028
+        ]
+    ]
+]

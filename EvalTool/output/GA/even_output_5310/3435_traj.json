@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "East Village Pizza",
+            700007800
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:27)",
+        [
+            "Kikoo",
+            700010189
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(13:46, 15:24)",
+        [
+            "",
+            700017549
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(15:24, 17:02)",
+        [
+            "Kikoo",
+            700010189
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:53, 19:32)",
+        [
+            "New Mizu Sushi",
+            700014641
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:48, 20:50)",
+        [
+            "Kikoo",
+            700010189
+        ]
+    ],
+    [
+        "Stay at East Village Pizza",
+        "(22:42, 23:59)",
+        [
+            "Dan and John's Wings",
+            700007792
+        ]
+    ]
+]

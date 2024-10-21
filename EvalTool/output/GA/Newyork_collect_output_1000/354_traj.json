@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 15:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(11:19, 13:10)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Prepare Dinner and Relax",
+        "(13:07, 14:47)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:22, 21:57)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Personal Project or Hobby Time",
+        "(18:45, 20:20)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:19, 23:59)",
+        [
+            "",
+            700002683
+        ]
+    ]
+]

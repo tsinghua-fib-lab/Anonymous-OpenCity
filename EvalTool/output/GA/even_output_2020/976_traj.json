@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Convent Elementary School",
+            700007567
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:00)",
+        [
+            "Müesi Cafe",
+            700005580
+        ]
+    ],
+    [
+        "Social Time",
+        "(13:02, 14:03)",
+        [
+            "Contrada",
+            700004833
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 16:44)",
+        [
+            "Wildseed",
+            700010626
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(19:42, 21:48)",
+        [
+            "Wildseed",
+            700010626
+        ]
+    ],
+    [
+        "Social Time",
+        "(21:18, 23:12)",
+        [
+            "Contrada",
+            700004833
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "Belga",
+            700005577
+        ]
+    ]
+]

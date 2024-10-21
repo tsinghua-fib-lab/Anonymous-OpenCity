@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Training Zone",
+            700006195
+        ]
+    ],
+    [
+        "Stay at Training Zone.",
+        "(09:00, 10:35)",
+        [
+            "Training Zone",
+            700006195
+        ]
+    ],
+    [
+        "Stay at Training Zone.",
+        "(11:54, 13:25)",
+        [
+            "Grill 21",
+            700025848
+        ]
+    ],
+    [
+        "Current time: 13:45, stay at Training Zone.",
+        "(13:45, 15:01)",
+        [
+            "Proong Noodle Bar",
+            700025847
+        ]
+    ],
+    [
+        "next activity based on the daily plan",
+        "(15:17, 17:16)",
+        [
+            "Training Zone",
+            700006195
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 20:06)",
+        [
+            "Public School 40",
+            700000294
+        ]
+    ],
+    [
+        "next",
+        "(21:45, 22:54)",
+        [
+            "Public School 40",
+            700000294
+        ]
+    ],
+    [
+        "Stay at Training Zone.",
+        "(23:08, 23:59)",
+        [
+            "Public School 40",
+            700000294
+        ]
+    ]
+]

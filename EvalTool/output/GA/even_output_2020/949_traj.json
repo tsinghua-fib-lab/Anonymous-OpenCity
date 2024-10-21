@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ken",
+            700004202
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:51)",
+        [
+            "",
+            700002921
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:12, 17:36)",
+        [
+            "Bus Stop Pizza",
+            700004204
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:00, 23:59)",
+        [
+            "Ken",
+            700004202
+        ]
+    ],
+    [
+        "Wind down the day by reading a book or listening to music",
+        "(22:38, 23:59)",
+        [
+            "Ken",
+            700004202
+        ]
+    ]
+]

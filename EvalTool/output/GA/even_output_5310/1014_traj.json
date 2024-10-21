@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700022275
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:35)",
+        [
+            "",
+            700022272
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:12, 14:47)",
+        [
+            "",
+            700022272
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:32, 15:20)",
+        [
+            "",
+            700006035
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 15:56)",
+        [
+            "",
+            700022277
+        ]
+    ],
+    [
+        "Go to a local café or visit a park.",
+        "(15:59, 17:54)",
+        [
+            "",
+            700022276
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 23:59)",
+        [
+            "Citi Bike - East 59th Street & Sutton Place",
+            700006019
+        ]
+    ],
+    [
+        "Go out for lunch.",
+        "(20:33, 22:31)",
+        [
+            "Citi Bike - East 59th Street & Sutton Place",
+            700006019
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 59th Street & Sutton Place.",
+        "(22:08, 23:59)",
+        [
+            "Citi Bike - East 59th Street & Sutton Place",
+            700006019
+        ]
+    ]
+]

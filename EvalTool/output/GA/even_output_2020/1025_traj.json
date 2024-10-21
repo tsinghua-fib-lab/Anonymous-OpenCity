@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Marina Submarine",
+            700007319
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:00, 11:02)",
+        [
+            "Marina Submarine",
+            700007319
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(11:05, 13:00)",
+        [
+            "Marina Submarine",
+            700007319
+        ]
+    ],
+    [
+        "Relaxation and Leisure Reading",
+        "(13:30, 14:59)",
+        [
+            "Marina Submarine",
+            700007319
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:48, 20:05)",
+        [
+            "Contrada",
+            700004833
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 23:59)",
+        [
+            "",
+            700014114
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:59)",
+        [
+            "",
+            700014115
+        ]
+    ]
+]

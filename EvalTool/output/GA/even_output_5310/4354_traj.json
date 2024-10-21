@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Solas",
+            700025625
+        ]
+    ],
+    [
+        "Go for a walk or jog in the park",
+        "(09:00, 10:04)",
+        [
+            "The Mason Jar",
+            700016836
+        ]
+    ],
+    [
+        "Reading or catching up on a hobby",
+        "(10:22, 11:19)",
+        [
+            "The Mason Jar",
+            700016836
+        ]
+    ],
+    [
+        "Reading or catching up on a hobby",
+        "(11:48, 13:05)",
+        [
+            "The Mason Jar",
+            700016836
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 16:09)",
+        [
+            "",
+            700016752
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:34, 19:00)",
+        [
+            "",
+            700001053
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 21:47)",
+        [
+            "Dunkin'",
+            700003440
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "Dig",
+            700022404
+        ]
+    ]
+]

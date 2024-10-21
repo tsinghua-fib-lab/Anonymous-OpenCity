@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Greater Jerusalem Baptist Church",
+            700000252
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:04)",
+        [
+            "Cafe Altano",
+            700000850
+        ]
+    ],
+    [
+        "Spend the afternoon reading or catching up on a hobby",
+        "(14:23, 15:46)",
+        [
+            "Salt & Straw",
+            700008621
+        ]
+    ],
+    [
+        "Spend the afternoon reading or catching up on a hobby",
+        "(16:54, 18:10)",
+        [
+            "Salt & Straw",
+            700008621
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 22:29)",
+        [
+            "",
+            700002891
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:04, 23:59)",
+        [
+            "",
+            700002890
+        ]
+    ]
+]

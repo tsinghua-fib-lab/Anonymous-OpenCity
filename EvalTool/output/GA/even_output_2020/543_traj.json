@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Marais Bakery Market Cafe",
+            700009497
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:46)",
+        [
+            "R Bar",
+            700008832
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:24, 14:31)",
+        [
+            "MCSF Rehearsal",
+            700013858
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:36, 20:34)",
+        [
+            "The Dr. William L. Gee House",
+            700008887
+        ]
+    ],
+    [
+        "stay",
+        "(23:05, 23:59)",
+        [
+            "Le Marais Bakery Market Cafe",
+            700009497
+        ]
+    ]
+]

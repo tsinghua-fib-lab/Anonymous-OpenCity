@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:59)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Engage in a hobby or work on a personal project.",
+        "(15:42, 17:43)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:37, 20:45)",
+        [
+            "",
+            700022520
+        ]
+    ],
+    [
+        "Stay at iPark",
+        "(22:59, 23:59)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ]
+]

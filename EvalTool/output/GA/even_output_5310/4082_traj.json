@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Grounded",
+            700008485
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the nearby park or nature reserve.",
+        "(10:00, 11:01)",
+        [
+            "Grounded",
+            700008485
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the nearby park or nature reserve.",
+        "(10:58, 12:01)",
+        [
+            "Grounded",
+            700008485
+        ]
+    ],
+    [
+        "Attend a yoga class or engage in a home workout.",
+        "(12:15, 13:35)",
+        [
+            "Grounded",
+            700008485
+        ]
+    ],
+    [
+        "Stay at Grounded for lunch.",
+        "(14:39, 16:07)",
+        [
+            "",
+            700002791
+        ]
+    ],
+    [
+        "current place and stay time",
+        "(16:25, 18:02)",
+        [
+            "Grounded",
+            700008485
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 23:38)",
+        [
+            "Equinox",
+            700005703
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 22:31)",
+        [
+            "Integral Yoga Institute NYC",
+            700011982
+        ]
+    ],
+    [
+        "current place and stay time",
+        "(22:11, 23:37)",
+        [
+            "Equinox",
+            700005703
+        ]
+    ],
+    [
+        "Current place and stay time.",
+        "(23:49, 23:59)",
+        [
+            "Equinox",
+            700005703
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002077
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:58)",
+        [
+            "Suboxone Treatment Clinic",
+            700006209
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:39, 17:16)",
+        [
+            "Malt & Mold",
+            700006207
+        ]
+    ],
+    [
+        "Watch Sports / Entertainment",
+        "(16:35, 19:12)",
+        [
+            "Citi Bike - East 20th Street & 2nd Avenue",
+            700008033
+        ]
+    ],
+    [
+        "Prepare Dinner & Wind Down",
+        "(19:24, 21:03)",
+        [
+            "Citi Bike - East 20th Street & 2nd Avenue",
+            700008033
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:50, 23:59)",
+        [
+            "",
+            700010340
+        ]
+    ]
+]

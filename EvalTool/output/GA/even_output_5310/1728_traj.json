@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700040428
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:00)",
+        [
+            "",
+            700002319
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(10:15, 11:42)",
+        [
+            "The Smith",
+            700006415
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(12:23, 13:46)",
+        [
+            "The Smith",
+            700006415
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:33, 16:01)",
+        [
+            "The Smith",
+            700006415
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:59, 21:33)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(22:59, 23:59)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ]
+]

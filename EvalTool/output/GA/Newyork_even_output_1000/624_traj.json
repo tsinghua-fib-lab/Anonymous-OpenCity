@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000757
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:06)",
+        [
+            "Citi Bike - E 9 St & Avenue C",
+            700008063
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 19:56)",
+        [
+            "Daytripper NYC",
+            700003355
+        ]
+    ],
+    [
+        "Prepare Dinner and Cook",
+        "(18:28, 19:48)",
+        [
+            "Daytripper NYC",
+            700003355
+        ]
+    ],
+    [
+        "Prepare Dinner and Cook",
+        "(20:38, 22:00)",
+        [
+            "",
+            700001589
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:05, 23:59)",
+        [
+            "",
+            700002136
+        ]
+    ],
+    [
+        "Sleep or relax at Citi Bike - E 9 St & Avenue C.",
+        "(23:39, 23:59)",
+        [
+            "",
+            700017748
+        ]
+    ]
+]

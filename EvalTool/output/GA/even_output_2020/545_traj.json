@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "California Martial Arts",
+            700010676
+        ]
+    ],
+    [
+        "current place stay time",
+        "(10:00, 11:07)",
+        [
+            "California Martial Arts",
+            700010676
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:27, 13:47)",
+        [
+            "La Fina Estampa",
+            700004067
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:01, 17:00)",
+        [
+            "Mayes Oyster House",
+            700001105
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(15:52, 17:54)",
+        [
+            "Mayes Oyster House",
+            700001105
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:01, 21:40)",
+        [
+            "",
+            700012931
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:55, 23:59)",
+        [
+            "",
+            700008831
+        ]
+    ]
+]

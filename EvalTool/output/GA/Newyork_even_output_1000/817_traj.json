@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Samuel J. Heyman Early Childhood Center",
+            700006188
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:42)",
+        [
+            "Public School 40",
+            700000294
+        ]
+    ],
+    [
+        "Lunch with Friends",
+        "(14:13, 15:52)",
+        [
+            "TD Bank",
+            700011623
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:04, 19:08)",
+        [
+            "Cooper Town Diner",
+            700029599
+        ]
+    ],
+    [
+        "Next place for leisure",
+        "(22:00, 23:13)",
+        [
+            "Cooper Town Diner",
+            700029599
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Training Zone",
+            700006195
+        ]
+    ]
+]

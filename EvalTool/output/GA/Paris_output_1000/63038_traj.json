@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:56)",
+        [
+            "",
+            700004899
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(14:28, 16:31)",
+        [
+            "Ikat - objets du Japon",
+            700060685
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:26, 18:55)",
+        [
+            "Ikat - objets du Japon",
+            700060685
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:40, 22:02)",
+        [
+            "Le Café Chinois",
+            700002890
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(22:19, 23:59)",
+        [
+            "",
+            700071469
+        ]
+    ]
+]

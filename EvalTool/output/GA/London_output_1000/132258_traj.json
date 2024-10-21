@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Stay at Tachbrook Estate",
+        "(10:00, 11:25)",
+        [
+            "Pod",
+            700020143
+        ]
+    ],
+    [
+        "Stay at Tachbrook Estate",
+        "(11:40, 13:00)",
+        [
+            "Appennino",
+            700019571
+        ]
+    ],
+    [
+        "Stay at Peabody Estate",
+        "(12:59, 14:58)",
+        [
+            "Old Bengal Bar",
+            700029330
+        ]
+    ],
+    [
+        "Watch Sports or a TV Show",
+        "(15:04, 17:04)",
+        [
+            "Café Luca",
+            700055102
+        ]
+    ],
+    [
+        "Watch Sports or a TV Show",
+        "(15:19, 16:43)",
+        [
+            "Café Luca",
+            700055102
+        ]
+    ],
+    [
+        "Engage in a hobby or activity (like reading or crafting)",
+        "(17:32, 19:06)",
+        [
+            "Café Luca",
+            700055102
+        ]
+    ],
+    [
+        "Relax and unwind by watching a movie or playing games",
+        "(19:37, 21:05)",
+        [
+            "Mac and Wild",
+            700030294
+        ]
+    ],
+    [
+        "Stay at Tachbrook Estate",
+        "(21:19, 23:08)",
+        [
+            "",
+            700022172
+        ]
+    ],
+    [
+        "Go for a walk or light exercise.",
+        "(23:18, 23:59)",
+        [
+            "New Street Grill",
+            700020189
+        ]
+    ]
+]

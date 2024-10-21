@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "PNC Bank",
+            700004371
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:56)",
+        [
+            "",
+            700018514
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:22, 12:53)",
+        [
+            "Emigrant Savings Bank",
+            700004370
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(13:30, 15:40)",
+        [
+            "Emigrant Savings Bank",
+            700004370
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:01, 21:08)",
+        [
+            "Rony's Fresh Pizza",
+            700040564
+        ]
+    ],
+    [
+        "Sleep at PNC Bank and wind down for the night.",
+        "(21:30, 23:02)",
+        [
+            "",
+            700015575
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:25, 23:59)",
+        [
+            "PNC Bank",
+            700004371
+        ]
+    ]
+]

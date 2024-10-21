@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Muddy Paws Rescue",
+            700020826
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:09)",
+        [
+            "BluePearl",
+            700012378
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:57, 13:21)",
+        [
+            "BluePearl",
+            700012378
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:44, 15:09)",
+        [
+            "BluePearl",
+            700012378
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:12, 21:06)",
+        [
+            "Sacco Pizza",
+            700024593
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 22:39)",
+        [
+            "Citi Bike - West 54th Street & 9th Avenue",
+            700008234
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "Chase",
+            700003471
+        ]
+    ]
+]

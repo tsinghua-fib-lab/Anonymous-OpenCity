@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001499
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 09:59)",
+        [
+            "",
+            700001499
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:07, 14:41)",
+        [
+            "Taco Boys",
+            700004817
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:29, 20:09)",
+        [
+            "GoHealth Urgent Care",
+            700000878
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:50, 20:20)",
+        [
+            "Sushi Time",
+            700008838
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:59)",
+        [
+            "Eiji",
+            700008573
+        ]
+    ]
+]

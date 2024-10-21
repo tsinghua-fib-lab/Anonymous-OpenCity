@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Da Marino",
+            700010239
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:37)",
+        [
+            "",
+            700020746
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(12:33, 13:54)",
+        [
+            "Masseria Caffe & Bakery",
+            700014222
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(14:52, 16:09)",
+        [
+            "Masseria Caffe & Bakery",
+            700014222
+        ]
+    ],
+    [
+        "Outdoor Sports",
+        "(16:47, 18:09)",
+        [
+            "Masseria Caffe & Bakery",
+            700014222
+        ]
+    ],
+    [
+        "Move to prepare dinner",
+        "(19:02, 20:40)",
+        [
+            "Masseria Caffe & Bakery",
+            700014222
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:17, 23:59)",
+        [
+            "Gong Cha",
+            700006502
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "CVS Pharmacy",
+            700022431
+        ]
+    ]
+]

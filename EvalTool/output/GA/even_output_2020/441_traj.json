@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Saints Peter and Paul School",
+            700000302
+        ]
+    ],
+    [
+        "Morning Routine",
+        "(10:00, 12:05)",
+        [
+            "",
+            700009094
+        ]
+    ],
+    [
+        "Morning Routine",
+        "(12:10, 13:42)",
+        [
+            "Opa Cafe",
+            700005180
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 20:01)",
+        [
+            "Pete's Deli & Cafe",
+            700004902
+        ]
+    ],
+    [
+        "Leisure Reading or Relaxing",
+        "(16:33, 18:06)",
+        [
+            "",
+            700000018
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 23:44)",
+        [
+            "San Francisco Athletic Club",
+            700004906
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700024953
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:39)",
+        [
+            "Panda Express",
+            700011269
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:14, 14:37)",
+        [
+            "",
+            700021981
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:33, 18:26)",
+        [
+            "Andrew M. Lutzker, D.M.D.",
+            700009289
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:14, 22:40)",
+        [
+            "Hide-Chan Ramen",
+            700010035
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(21:15, 22:55)",
+        [
+            "Citi Bike - East 52nd Street & 2nd Avenue",
+            700008055
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "Shinya Shokudou",
+            700011509
+        ]
+    ]
+]

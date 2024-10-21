@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001239
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:35)",
+        [
+            "Sterling Bank",
+            700002519
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 14:26)",
+        [
+            "",
+            700003263
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 21:26)",
+        [
+            "",
+            700003263
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:04, 23:59)",
+        [
+            "Bay Wheels",
+            700006754
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:28, 23:59)",
+        [
+            "Crossfit Golden Gate",
+            700010674
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013878
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:10)",
+        [
+            "Loring Place",
+            700028891
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:06, 12:57)",
+        [
+            "Loring Place",
+            700028891
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:12, 15:17)",
+        [
+            "Loring Place",
+            700028891
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:02, 17:08)",
+        [
+            "Loring Place",
+            700028891
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:53, 18:19)",
+        [
+            "Loring Place",
+            700028891
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(19:14, 20:35)",
+        [
+            "Loring Place",
+            700028891
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(21:26, 22:52)",
+        [
+            "Loring Place",
+            700028891
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:13, 23:59)",
+        [
+            "Arts and Crafts Beer Parlor",
+            700008981
+        ]
+    ]
+]

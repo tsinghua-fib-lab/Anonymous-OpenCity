@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fisherman's Pizza",
+            700003764
+        ]
+    ],
+    [
+        "Exercise (1 hour)",
+        "(10:00, 10:59)",
+        [
+            "",
+            700000520
+        ]
+    ],
+    [
+        "Exercise (1 hour)",
+        "(12:01, 13:36)",
+        [
+            "Surisan",
+            700005392
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 20:29)",
+        [
+            "Taxi Stand at Marriott Fisherman's Wharf (along North Point Street)",
+            700009953
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(17:43, 18:46)",
+        [
+            "Hertz",
+            700005219
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:18, 20:11)",
+        [
+            "Hertz",
+            700005219
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:01, 22:26)",
+        [
+            "Hertz",
+            700005219
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(22:27, 23:59)",
+        [
+            "Hertz",
+            700005219
+        ]
+    ]
+]

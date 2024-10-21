@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New Moon",
+            700011100
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:02)",
+        [
+            "Tenho Ramen",
+            700011507
+        ]
+    ],
+    [
+        "brunch with friends",
+        "(12:38, 13:55)",
+        [
+            "Perk Kafe",
+            700002985
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 17:53)",
+        [
+            "",
+            700002726
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(18:44, 20:08)",
+        [
+            "Perk Kafe",
+            700002985
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(20:44, 22:18)",
+        [
+            "Perk Kafe",
+            700002985
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(22:48, 23:59)",
+        [
+            "",
+            700002922
+        ]
+    ]
+]

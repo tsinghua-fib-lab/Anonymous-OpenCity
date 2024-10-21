@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002370
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:28)",
+        [
+            "Sojourn",
+            700030668
+        ]
+    ],
+    [
+        "Afternoon Movie or TV Series",
+        "(11:21, 13:07)",
+        [
+            "Our New Place",
+            700024817
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:43, 15:15)",
+        [
+            "Duane Reade",
+            700012667
+        ]
+    ],
+    [
+        "Grocery Shopping or Errands",
+        "(17:55, 19:08)",
+        [
+            "Sojourn",
+            700030668
+        ]
+    ],
+    [
+        "Dinner & Prepare for the Week",
+        "(19:24, 21:01)",
+        [
+            "Duane Reade",
+            700012667
+        ]
+    ],
+    [
+        "Dinner & Prepare for the Week",
+        "(21:45, 23:39)",
+        [
+            "Duane Reade",
+            700012667
+        ]
+    ],
+    [
+        "Dinner & Prepare for the Week",
+        "(23:48, 23:59)",
+        [
+            "Duane Reade",
+            700012667
+        ]
+    ]
+]

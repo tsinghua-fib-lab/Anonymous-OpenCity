@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Walter Reade Theater",
+            700000561
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:27)",
+        [
+            "Meredith Wilson Residence Hall",
+            700000589
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:46, 17:14)",
+        [
+            "Elinor Bunin Munroe Film Center",
+            700000564
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:13, 23:59)",
+        [
+            "",
+            700024973
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:46, 23:59)",
+        [
+            "",
+            700039398
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002202
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:51)",
+        [
+            "",
+            700002202
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:52, 14:38)",
+        [
+            "",
+            700020928
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:44, 18:04)",
+        [
+            "The Migrant Kitchen",
+            700016762
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:28, 20:10)",
+        [
+            "The Migrant Kitchen",
+            700016762
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 23:59)",
+        [
+            "Maman",
+            700020923
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(23:55, 23:59)",
+        [
+            "The Migrant Kitchen",
+            700016762
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003040
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:09)",
+        [
+            "",
+            700040624
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:01, 15:13)",
+        [
+            "Made in New York Pizza",
+            700027989
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(18:26, 19:59)",
+        [
+            "Made in New York Pizza",
+            700027989
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(19:41, 21:05)",
+        [
+            "",
+            700003040
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(21:10, 23:23)",
+        [
+            "",
+            700001049
+        ]
+    ],
+    [
+        "Wind Down & Plan for the Week",
+        "(23:12, 23:59)",
+        [
+            "",
+            700003040
+        ]
+    ]
+]

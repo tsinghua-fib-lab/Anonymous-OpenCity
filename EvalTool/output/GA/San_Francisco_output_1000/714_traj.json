@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Super Duper Burger",
+            700003078
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(09:00, 10:22)",
+        [
+            "Bonita Taqueria Y Rotisserie",
+            700003076
+        ]
+    ],
+    [
+        "You are currently at Super Duper Burger and it's 11:35 AM.",
+        "(11:35, 13:45)",
+        [
+            "Bank of America",
+            700002294
+        ]
+    ],
+    [
+        "Visit an Art Exhibit or Museum",
+        "(14:24, 16:27)",
+        [
+            "Bank of America",
+            700002294
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:50, 21:40)",
+        [
+            "Campus - San Francisco",
+            700003077
+        ]
+    ],
+    [
+        "Late Afternoon Shopping",
+        "(18:19, 19:54)",
+        [
+            "Campus - San Francisco",
+            700003077
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:23, 23:59)",
+        [
+            "",
+            700004890
+        ]
+    ],
+    [
+        "Late Afternoon Shopping",
+        "(23:56, 23:59)",
+        [
+            "Tipsy Pig",
+            700003079
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Go for a Walk/Exercise",
+        "(09:00, 10:26)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Continue working at Gran Merci",
+        "(10:43, 12:18)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 14:31)",
+        [
+            "Auto Motion",
+            700018140
+        ]
+    ],
+    [
+        "Dinner and Prepare for the Week",
+        "(18:36, 20:23)",
+        [
+            "Auto Motion",
+            700018140
+        ]
+    ],
+    [
+        "Next arrangement after activities of the day",
+        "(20:03, 21:54)",
+        [
+            "Auto Motion",
+            700018140
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:23, 23:59)",
+        [
+            "",
+            700011134
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "",
+            700022513
+        ]
+    ]
+]

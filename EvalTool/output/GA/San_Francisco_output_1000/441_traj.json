@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Spice Kit",
+            700001608
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:00)",
+        [
+            "Cafe Venue",
+            700005801
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:25, 14:22)",
+        [
+            "",
+            700012612
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(17:28, 19:02)",
+        [
+            "Cafe Venue",
+            700005801
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:55, 22:00)",
+        [
+            "Cafe Venue",
+            700005801
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:45, 23:59)",
+        [
+            "",
+            700012613
+        ]
+    ]
+]

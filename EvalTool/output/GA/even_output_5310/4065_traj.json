@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Breslin",
+            700010855
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 11:01)",
+        [
+            "The Breslin",
+            700010855
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:21, 16:30)",
+        [
+            "Masjid Ar-Rahman",
+            700008948
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:54, 18:53)",
+        [
+            "Masjid Ar-Rahman",
+            700008948
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:19, 23:59)",
+        [
+            "Sage Workspace",
+            700016922
+        ]
+    ]
+]

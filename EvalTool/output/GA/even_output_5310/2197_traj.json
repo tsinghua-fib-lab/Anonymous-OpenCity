@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Forever Taste Restaurant",
+            700018389
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:05)",
+        [
+            "",
+            700018392
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:55, 11:51)",
+        [
+            "El Castillo De Manhattan",
+            700018400
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:41, 15:56)",
+        [
+            "Forever Taste Restaurant",
+            700018389
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:18, 22:09)",
+        [
+            "World Buddhist Center",
+            700038290
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:57, 22:00)",
+        [
+            "Forever Taste Restaurant",
+            700018389
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(22:55, 23:59)",
+        [
+            "Forever Taste Restaurant",
+            700018389
+        ]
+    ]
+]

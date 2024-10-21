@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Hunterian",
+            700035435
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:49)",
+        [
+            "",
+            700035723
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:23, 18:25)",
+        [
+            "",
+            700024998
+        ]
+    ],
+    [
+        "Stay at The Hunterian",
+        "(19:47, 21:00)",
+        [
+            "The Hunterian",
+            700035435
+        ]
+    ],
+    [
+        "Spend time at The Hunterian",
+        "(21:10, 23:44)",
+        [
+            "The Hunterian",
+            700035435
+        ]
+    ],
+    [
+        "Stay at The Hunterian",
+        "(23:40, 23:59)",
+        [
+            "Matsu Sushi",
+            700035433
+        ]
+    ]
+]

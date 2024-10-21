@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009317
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:55)",
+        [
+            "icon 24hr Parking",
+            700009858
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 16:25)",
+        [
+            "",
+            700014645
+        ]
+    ],
+    [
+        "Relax with personal hobbies",
+        "(17:08, 19:05)",
+        [
+            "",
+            700009317
+        ]
+    ],
+    [
+        "Relax with personal hobbies",
+        "(19:11, 20:59)",
+        [
+            "",
+            700009317
+        ]
+    ],
+    [
+        "Wind down with a movie or binge-watch a series.",
+        "(21:33, 23:08)",
+        [
+            "",
+            700009317
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Pret A Manger",
+            700017445
+        ]
+    ]
+]

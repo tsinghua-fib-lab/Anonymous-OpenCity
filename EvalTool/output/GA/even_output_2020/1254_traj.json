@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002898
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:35)",
+        [
+            "The Fillmore Street Cafe",
+            700002343
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:49, 13:00)",
+        [
+            "",
+            700005619
+        ]
+    ],
+    [
+        "Continue Brunch",
+        "(13:08, 14:49)",
+        [
+            "The Fillmore Street Cafe",
+            700002343
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:24, 16:39)",
+        [
+            "The Fillmore Street Cafe",
+            700002343
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:55, 18:03)",
+        [
+            "The Fillmore Street Cafe",
+            700002343
+        ]
+    ],
+    [
+        "Coffee Break",
+        "(18:20, 19:50)",
+        [
+            "The Fillmore Street Cafe",
+            700002343
+        ]
+    ],
+    [
+        "Watch a TV show or play board games with family/friends.",
+        "(20:49, 22:29)",
+        [
+            "",
+            700005617
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:59)",
+        [
+            "Happy Shabu Shabu",
+            700005607
+        ]
+    ]
+]

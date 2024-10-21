@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "atmx ATM",
+            700030264
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:06)",
+        [
+            "atmx ATM",
+            700030264
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:46, 11:54)",
+        [
+            "Casa by Schibello",
+            700008115
+        ]
+    ],
+    [
+        "Exercise",
+        "(12:35, 13:58)",
+        [
+            "Casa by Schibello",
+            700008115
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:35, 15:55)",
+        [
+            "Casa by Schibello",
+            700008115
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 18:32)",
+        [
+            "Veloce",
+            700007904
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(19:24, 20:57)",
+        [
+            "Australian Federal Police (Sydney Airport)",
+            700001481
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(21:50, 23:13)",
+        [
+            "Gloria Jean's",
+            700007907
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(23:13, 23:59)",
+        [
+            "Budget",
+            700007913
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "",
+            700012454
+        ]
+    ],
+    [
+        "9:00 AM - Read or Study",
+        "(08:00, 08:50)",
+        [
+            "Porte de Saint Ouen",
+            700002202
+        ]
+    ],
+    [
+        "Read or Study",
+        "(09:37, 10:57)",
+        [
+            "Porte de Saint Ouen",
+            700002202
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 15:09)",
+        [
+            "Porte de Saint-Ouen - Bessières",
+            700036587
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:55, 17:12)",
+        [
+            "Porte de Saint-Ouen - Bessières",
+            700036587
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 19:37)",
+        [
+            "",
+            700011812
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "",
+            700012468
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005180
+        ]
+    ],
+    [
+        "Outdoor Activity (11:00 AM - 1:00 PM)",
+        "(10:00, 11:59)",
+        [
+            "CVS Pharmacy",
+            700015709
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:04, 14:09)",
+        [
+            "CVS Pharmacy",
+            700015709
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 17:44)",
+        [
+            "",
+            700032012
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 20:54)",
+        [
+            "Yoi Ramen & Tea",
+            700025303
+        ]
+    ],
+    [
+        "After finishing at CVS Pharmacy, spend time reading at your favorite café.",
+        "(23:13, 23:59)",
+        [
+            "",
+            700000908
+        ]
+    ]
+]

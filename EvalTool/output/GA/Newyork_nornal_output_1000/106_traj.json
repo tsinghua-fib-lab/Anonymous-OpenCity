@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Long Island Dumplings",
+            700040060
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(09:00, 10:23)",
+        [
+            "Long Island Dumplings",
+            700040060
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:07, 13:20)",
+        [
+            "Mikado",
+            700018156
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:04, 15:48)",
+        [
+            "Slice & Co Pizza",
+            700014355
+        ]
+    ],
+    [
+        "Prepare Dinner & Wind Down",
+        "(18:04, 19:56)",
+        [
+            "Slice & Co Pizza",
+            700014355
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 23:59)",
+        [
+            "",
+            700020039
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "",
+            700001803
+        ]
+    ]
+]

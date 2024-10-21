@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:36)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:01, 16:30)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:56, 19:28)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Next activity based on daily plan",
+        "(20:16, 22:01)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Next activity based on daily plan",
+        "(22:22, 23:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

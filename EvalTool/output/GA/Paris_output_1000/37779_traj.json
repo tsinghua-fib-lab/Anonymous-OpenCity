@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "L'Eterneel",
+            700009692
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:25)",
+        [
+            "Espace Torcy",
+            700013154
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 14:21)",
+        [
+            "",
+            700014614
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 21:55)",
+        [
+            "La marmite des antilopes",
+            700025411
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:02, 23:04)",
+        [
+            "La marmite des antilopes",
+            700025411
+        ]
+    ],
+    [
+        "Stay at your current location.",
+        "(23:38, 23:59)",
+        [
+            "La marmite des antilopes",
+            700025411
+        ]
+    ]
+]

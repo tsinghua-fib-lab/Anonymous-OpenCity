@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - East 45th Street & 3rd Avenue",
+            700008049
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:30)",
+        [
+            "",
+            700001177
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 16:59)",
+        [
+            "Citi Bike - East 45th Street & 3rd Avenue",
+            700008049
+        ]
+    ],
+    [
+        "Relax and watch a movie or series",
+        "(15:25, 16:54)",
+        [
+            "Little Collins",
+            700020932
+        ]
+    ],
+    [
+        "Prepare dinner and wind down.",
+        "(17:21, 20:03)",
+        [
+            "Little Collins",
+            700020932
+        ]
+    ],
+    [
+        "Prepare dinner and wind down.",
+        "(21:03, 23:53)",
+        [
+            "Citi Bike - East 45th Street & 3rd Avenue",
+            700008049
+        ]
+    ],
+    [
+        "Next arrangement is to rest at home.",
+        "(23:58, 23:59)",
+        [
+            "Citi Bike - East 45th Street & 3rd Avenue",
+            700008049
+        ]
+    ]
+]

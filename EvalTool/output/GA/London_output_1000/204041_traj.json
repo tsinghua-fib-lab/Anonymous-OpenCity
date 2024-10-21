@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:09)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "Leisure Activities/Reading",
+        "(10:38, 11:50)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "Leisure Activities/Reading",
+        "(12:28, 14:06)",
+        [
+            "",
+            700059878
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:20, 17:24)",
+        [
+            "Wawa",
+            700014897
+        ]
+    ],
+    [
+        "Early Evening Socializing",
+        "(17:59, 19:37)",
+        [
+            "Wawa",
+            700014897
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 22:24)",
+        [
+            "",
+            700059875
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "",
+            700059873
+        ]
+    ]
+]

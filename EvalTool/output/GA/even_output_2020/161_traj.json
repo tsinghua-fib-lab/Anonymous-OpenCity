@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008270
+        ]
+    ],
+    [
+        "Go for a workout or engage in a sport",
+        "(10:00, 11:24)",
+        [
+            "Bay Wheels",
+            700010084
+        ]
+    ],
+    [
+        "Go for a workout or engage in a sport.",
+        "(11:46, 13:13)",
+        [
+            "Little Free Library",
+            700010492
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:50, 16:24)",
+        [
+            "",
+            700003718
+        ]
+    ],
+    [
+        "Wind down the evening with a book or listening to music.",
+        "(19:20, 20:42)",
+        [
+            "Little Free Library",
+            700010493
+        ]
+    ],
+    [
+        "Wind down the evening with a book or listening to music.",
+        "(21:41, 23:03)",
+        [
+            "Little Free Library",
+            700010493
+        ]
+    ],
+    [
+        "Stay at home and wind down the evening with a book or listening to music.",
+        "(23:36, 23:59)",
+        [
+            "",
+            700008270
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Claire's Kitchen Cafe",
+            700016388
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:32)",
+        [
+            "York Ave Pizza",
+            700041064
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:32, 20:00)",
+        [
+            "",
+            700001923
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(20:53, 22:03)",
+        [
+            "Starbucks",
+            700041304
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(22:27, 23:34)",
+        [
+            "Murphy's Law",
+            700035436
+        ]
+    ],
+    [
+        "Continue staying at Chelsea Grill",
+        "(23:47, 23:59)",
+        [
+            "Coffee Inn",
+            700011162
+        ]
+    ]
+]

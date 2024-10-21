@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Little Free Library",
+            700010484
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:55)",
+        [
+            "Little Free Library",
+            700010484
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:10, 14:28)",
+        [
+            "café suspiro",
+            700003585
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:05, 18:34)",
+        [
+            "Little Free Library",
+            700010484
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:49, 23:47)",
+        [
+            "Mukunda",
+            700013955
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:35, 23:59)",
+        [
+            "Normandie Hotel",
+            700004062
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "",
+            700013976
+        ]
+    ]
+]

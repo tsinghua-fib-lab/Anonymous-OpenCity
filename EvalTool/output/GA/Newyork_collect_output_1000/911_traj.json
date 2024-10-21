@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Next workout session",
+        "(09:00, 10:20)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Next workout session",
+        "(10:28, 12:38)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill",
+        "(13:29, 14:52)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill",
+        "(16:01, 18:05)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill",
+        "(18:08, 19:41)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 23:55)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:27)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill",
+        "(23:04, 23:59)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ]
+]

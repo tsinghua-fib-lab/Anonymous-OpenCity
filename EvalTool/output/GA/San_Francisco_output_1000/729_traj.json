@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009562
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:10)",
+        [
+            "Proper Food",
+            700011275
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:05, 14:01)",
+        [
+            "Blue Bottle Coffee",
+            700012097
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(14:41, 17:08)",
+        [
+            "Blue Bottle Coffee",
+            700012097
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:30, 20:34)",
+        [
+            "",
+            700013221
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 23:59)",
+        [
+            "",
+            700013226
+        ]
+    ]
+]

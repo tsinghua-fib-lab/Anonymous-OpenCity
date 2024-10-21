@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "ChargePoint",
+            700012432
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 09:58)",
+        [
+            "ChargePoint",
+            700012432
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(10:15, 11:54)",
+        [
+            "",
+            700010700
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(12:23, 13:53)",
+        [
+            "ChargePoint",
+            700012432
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(14:33, 16:10)",
+        [
+            "ChargePoint",
+            700012432
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:59, 22:53)",
+        [
+            "",
+            700010700
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(22:59, 23:59)",
+        [
+            "Neary’s",
+            700010786
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "b on the go",
+            700010094
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:27)",
+        [
+            "",
+            700000129
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:32, 13:52)",
+        [
+            "Scopo Divino",
+            700003666
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:59, 18:54)",
+        [
+            "The City Taqueria",
+            700007891
+        ]
+    ],
+    [
+        "Dinner Preparation and Enjoyment",
+        "(19:49, 21:23)",
+        [
+            "The City Taqueria",
+            700007891
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Park Gym",
+            700004905
+        ]
+    ]
+]

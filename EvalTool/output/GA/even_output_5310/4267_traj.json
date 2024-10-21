@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cathay Bank",
+            700018488
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:02)",
+        [
+            "Cathay Bank",
+            700018488
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:09, 16:22)",
+        [
+            "Dim Sum Go Go",
+            700004662
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:08, 17:19)",
+        [
+            "Dim Sum Go Go",
+            700004662
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:48, 18:50)",
+        [
+            "Dim Sum Go Go",
+            700004662
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:41, 21:36)",
+        [
+            "",
+            700025139
+        ]
+    ],
+    [
+        "Next go to Starbucks to finish the day with a beverage.",
+        "(23:12, 23:59)",
+        [
+            "",
+            700025133
+        ]
+    ]
+]

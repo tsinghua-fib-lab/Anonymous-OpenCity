@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700049578
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:01)",
+        [
+            "Vinyl Cafe - Tileyard Studios",
+            700049577
+        ]
+    ],
+    [
+        "Free Time/Entertainment",
+        "(11:50, 13:06)",
+        [
+            "Vinyl Cafe - Tileyard Studios",
+            700049577
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:24, 17:06)",
+        [
+            "",
+            700049413
+        ]
+    ],
+    [
+        "Free Time/Entertainment",
+        "(15:56, 17:06)",
+        [
+            "Vinyl Cafe - Tileyard Studios",
+            700049577
+        ]
+    ],
+    [
+        "Free Time/Entertainment",
+        "(17:54, 19:28)",
+        [
+            "Vinyl Cafe - Tileyard Studios",
+            700049577
+        ]
+    ],
+    [
+        "Free Time/Entertainment",
+        "(20:18, 21:43)",
+        [
+            "Vinyl Cafe - Tileyard Studios",
+            700049577
+        ]
+    ],
+    [
+        "Free Time/Entertainment",
+        "(22:18, 23:37)",
+        [
+            "Vinyl Cafe - Tileyard Studios",
+            700049577
+        ]
+    ],
+    [
+        "Next activity after Free Time/Entertainment at Vinyl Cafe",
+        "(23:36, 23:59)",
+        [
+            "Vinyl Cafe - Tileyard Studios",
+            700049577
+        ]
+    ]
+]

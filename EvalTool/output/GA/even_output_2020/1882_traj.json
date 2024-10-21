@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000802
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:39)",
+        [
+            "Unexpected Era Cafe",
+            700010208
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:35, 13:00)",
+        [
+            "North East Medical Services",
+            700005058
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:13, 17:16)",
+        [
+            "Western Union",
+            700005073
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 23:07)",
+        [
+            "Western Union",
+            700005073
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(23:43, 23:59)",
+        [
+            "Larkin Restaurant",
+            700009603
+        ]
+    ]
+]

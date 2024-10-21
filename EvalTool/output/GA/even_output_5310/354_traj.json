@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700017190
+        ]
+    ],
+    [
+        "Next, proceed to Outdoor Exercise or Sports Activity.",
+        "(09:00, 10:22)",
+        [
+            "",
+            700017174
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping",
+        "(11:03, 12:31)",
+        [
+            "",
+            700017190
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping and enjoy picking up some essentials.",
+        "(13:12, 14:51)",
+        [
+            "Peng's Noodle Folk",
+            700023180
+        ]
+    ],
+    [
+        "Proceed to Creative Hobby or Project Time.",
+        "(14:56, 17:01)",
+        [
+            "BLT Prime",
+            700017615
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 20:27)",
+        [
+            "Maria Mulata Colombian Restaurant & Bar",
+            700039369
+        ]
+    ],
+    [
+        "Outdoor Exercise or Sports Activity",
+        "(21:26, 22:16)",
+        [
+            "Maria Mulata Colombian Restaurant & Bar",
+            700039369
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Joe & The Juice",
+            700017172
+        ]
+    ]
+]

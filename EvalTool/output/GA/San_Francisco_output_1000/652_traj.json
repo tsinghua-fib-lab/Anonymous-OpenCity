@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Alamo Square Cafe",
+            700003053
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(09:00, 10:23)",
+        [
+            "",
+            700003719
+        ]
+    ],
+    [
+        "You are currently at Alamo Square Cafe and it's 11:35 AM.",
+        "(11:35, 13:25)",
+        [
+            "",
+            700007355
+        ]
+    ],
+    [
+        "Visit an Art Exhibit or Museum",
+        "(14:24, 16:33)",
+        [
+            "",
+            700007719
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:50, 21:27)",
+        [
+            "",
+            700003722
+        ]
+    ],
+    [
+        "Late Afternoon Shopping",
+        "(18:19, 19:55)",
+        [
+            "",
+            700014403
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:23, 22:53)",
+        [
+            "",
+            700014403
+        ]
+    ],
+    [
+        "Late Afternoon Shopping",
+        "(23:56, 23:59)",
+        [
+            "",
+            700003718
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Anne Bremer Memorial Library",
+            700000436
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:32)",
+        [
+            "",
+            700001236
+        ]
+    ],
+    [
+        "Stay at Anne Bremer Memorial Library.",
+        "(11:38, 13:56)",
+        [
+            "Orangetheory Fitness",
+            700013284
+        ]
+    ],
+    [
+        "Stay at Anne Bremer Memorial Library",
+        "(14:30, 15:56)",
+        [
+            "Orangetheory Fitness",
+            700013284
+        ]
+    ],
+    [
+        "Stay at Anne Bremer Memorial Library.",
+        "(16:11, 17:33)",
+        [
+            "Orangetheory Fitness",
+            700013284
+        ]
+    ],
+    [
+        "Stay at current location.",
+        "(18:26, 20:03)",
+        [
+            "Cafe De Casa",
+            700005095
+        ]
+    ],
+    [
+        "Stay at Cafe De Casa",
+        "(20:30, 21:53)",
+        [
+            "Cafe De Casa",
+            700005095
+        ]
+    ],
+    [
+        "Stay at Cafe De Casa",
+        "(22:33, 23:25)",
+        [
+            "Anne Bremer Memorial Library",
+            700000436
+        ]
+    ],
+    [
+        "Stay at Anne Bremer Memorial Library",
+        "(23:46, 23:59)",
+        [
+            "Anne Bremer Memorial Library",
+            700000436
+        ]
+    ]
+]

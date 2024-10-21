@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "El Toro",
+            700000697
+        ]
+    ],
+    [
+        "Go for a morning run or workout",
+        "(09:00, 10:10)",
+        [
+            "El Toro",
+            700000697
+        ]
+    ],
+    [
+        "Shower and get ready for the day",
+        "(11:04, 12:58)",
+        [
+            "El Toro",
+            700000697
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:27, 17:05)",
+        [
+            "Taqueria La Cumbre",
+            700005260
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(17:58, 18:56)",
+        [
+            "El Toro",
+            700000697
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 23:37)",
+        [
+            "Muddy Waters",
+            700000695
+        ]
+    ],
+    [
+        "Go to Muddy Waters and stay",
+        "(23:53, 23:59)",
+        [
+            "Muddy Waters",
+            700000695
+        ]
+    ]
+]

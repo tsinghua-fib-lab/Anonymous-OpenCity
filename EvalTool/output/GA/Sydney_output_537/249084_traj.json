@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pocket Bar",
+            700001654
+        ]
+    ],
+    [
+        "Wake Up & Breakfast",
+        "(10:00, 10:58)",
+        [
+            "Pocket Bar",
+            700001654
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:58, 11:52)",
+        [
+            "Pocket Bar",
+            700001654
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:19, 18:02)",
+        [
+            "",
+            700003097
+        ]
+    ],
+    [
+        "Watch a Sports Game/TV Show",
+        "(19:03, 21:05)",
+        [
+            "Shady Pines",
+            700001656
+        ]
+    ],
+    [
+        "watching TV",
+        "(21:26, 22:51)",
+        [
+            "",
+            700005576
+        ]
+    ],
+    [
+        "Watching TV",
+        "(23:41, 23:59)",
+        [
+            "Pocket Bar",
+            700001654
+        ]
+    ]
+]

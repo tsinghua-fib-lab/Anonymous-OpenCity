@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:45)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:36, 15:13)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:50, 17:28)",
+        [
+            "",
+            700002621
+        ]
+    ],
+    [
+        "Prepare a Healthy Dinner",
+        "(18:30, 19:51)",
+        [
+            "",
+            700022506
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:58, 23:59)",
+        [
+            "Ampersand",
+            700006110
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(22:52, 23:59)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ]
+]

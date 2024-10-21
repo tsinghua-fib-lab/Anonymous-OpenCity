@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700026893
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:10)",
+        [
+            "Citi Bike - Broadway & West 36th Street",
+            700007972
+        ]
+    ],
+    [
+        "Household chores.",
+        "(15:31, 17:07)",
+        [
+            "Citi Bike - Broadway & West 36th Street",
+            700007972
+        ]
+    ],
+    [
+        "Household Chores",
+        "(17:14, 19:44)",
+        [
+            "Citi Bike - Broadway & West 36th Street",
+            700007972
+        ]
+    ],
+    [
+        "Household Chores",
+        "(19:20, 20:44)",
+        [
+            "Citi Bike - Broadway & West 36th Street",
+            700007972
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 22:33)",
+        [
+            "Santander",
+            700008775
+        ]
+    ]
+]

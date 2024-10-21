@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bentham Court",
+            700006926
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:36)",
+        [
+            "",
+            700051349
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:25, 13:01)",
+        [
+            "Bentham Court",
+            700006926
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:02, 16:46)",
+        [
+            "",
+            700018784
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(15:36, 17:31)",
+        [
+            "Canonbury Veterinary Practice",
+            700009881
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:53, 22:17)",
+        [
+            "",
+            700018786
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:27, 23:21)",
+        [
+            "",
+            700018780
+        ]
+    ]
+]

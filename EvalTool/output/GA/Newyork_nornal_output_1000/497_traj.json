@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Simpl Coffee Shop",
+            700032173
+        ]
+    ],
+    [
+        "Relaxing at Home",
+        "(10:00, 12:10)",
+        [
+            "Raj's Indian Kitchen",
+            700004066
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(12:33, 14:24)",
+        [
+            "",
+            700034995
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:44, 16:53)",
+        [
+            "",
+            700035003
+        ]
+    ],
+    [
+        "Socializing with Friends",
+        "(16:46, 17:53)",
+        [
+            "Friendly Gourmet Pizza",
+            700011425
+        ]
+    ],
+    [
+        "Socializing with Friends",
+        "(18:26, 19:56)",
+        [
+            "Friendly Gourmet Pizza",
+            700011425
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:38, 22:15)",
+        [
+            "",
+            700023994
+        ]
+    ],
+    [
+        "Relaxing at Home",
+        "(23:03, 23:59)",
+        [
+            "Simpl Coffee Shop",
+            700032173
+        ]
+    ]
+]

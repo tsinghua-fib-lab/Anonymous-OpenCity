@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "David's Pharmacy",
+            700006190
+        ]
+    ],
+    [
+        "Leisurely Breakfast",
+        "(10:00, 11:31)",
+        [
+            "RFX Studio",
+            700029596
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:34, 17:25)",
+        [
+            "",
+            700011180
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:47, 16:39)",
+        [
+            "",
+            700001377
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 21:05)",
+        [
+            "Sunburst Espresso Bar",
+            700006181
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:36, 23:16)",
+        [
+            "",
+            700001377
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sullivan Street bakery",
+            700006167
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:32)",
+        [
+            "Sullivan Street bakery",
+            700006167
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:22, 12:51)",
+        [
+            "Chelsea Square Restaurant",
+            700004317
+        ]
+    ],
+    [
+        "Meal Prep for the Week",
+        "(13:53, 15:33)",
+        [
+            "",
+            700003092
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 18:36)",
+        [
+            "Famous Original Ray's Pizza",
+            700004404
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 18:50)",
+        [
+            "",
+            700003132
+        ]
+    ],
+    [
+        "Visit P.J. Moran's",
+        "(23:40, 23:59)",
+        [
+            "Blossom- Chelsea",
+            700008701
+        ]
+    ]
+]

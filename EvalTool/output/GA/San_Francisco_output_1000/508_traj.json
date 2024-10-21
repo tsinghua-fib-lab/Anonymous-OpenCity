@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000048
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(09:00, 10:34)",
+        [
+            "George Moscone Elementary",
+            700000176
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(11:32, 13:04)",
+        [
+            "George Moscone Elementary",
+            700000176
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:19, 15:04)",
+        [
+            "George Moscone Elementary",
+            700000176
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:50, 17:04)",
+        [
+            "George Moscone Elementary",
+            700000176
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:40, 19:24)",
+        [
+            "Buddy",
+            700010705
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:02, 23:59)",
+        [
+            "",
+            700004393
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "Templo Lirio De Los Valles",
+            700010891
+        ]
+    ]
+]

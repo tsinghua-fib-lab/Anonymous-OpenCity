@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001986
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:50)",
+        [
+            "Bricola",
+            700010144
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:49, 13:46)",
+        [
+            "Arias Hell's Kitchen",
+            700008998
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 17:28)",
+        [
+            "Empanada Mama",
+            700017510
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 23:59)",
+        [
+            "",
+            700001476
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 21:26)",
+        [
+            "Arias Hell's Kitchen",
+            700008998
+        ]
+    ],
+    [
+        "Stay at Ritz Diner",
+        "(23:45, 23:59)",
+        [
+            "The Best Pizza",
+            700039532
+        ]
+    ]
+]

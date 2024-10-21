@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008219
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:46)",
+        [
+            "The Beehive",
+            700008872
+        ]
+    ],
+    [
+        "Relaxing Afternoon",
+        "(14:00, 16:09)",
+        [
+            "",
+            700008219
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 18:20)",
+        [
+            "Smitten",
+            700008873
+        ]
+    ],
+    [
+        "Wind Down & Prepare for the Week",
+        "(21:12, 23:04)",
+        [
+            "",
+            700012072
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "Sutter 899 Valencia Street Care Center",
+            700012229
+        ]
+    ]
+]

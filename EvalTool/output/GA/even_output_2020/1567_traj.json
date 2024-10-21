@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008260
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:10)",
+        [
+            "Stones Throw",
+            700003304
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:52, 19:56)",
+        [
+            "",
+            700000530
+        ]
+    ],
+    [
+        "Play Sports or Exercise",
+        "(17:13, 18:33)",
+        [
+            "Stones Throw",
+            700003304
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:57, 23:59)",
+        [
+            "La Folie",
+            700002089
+        ]
+    ],
+    [
+        "Stay at Little Free Library",
+        "(23:02, 23:59)",
+        [
+            "Green Sports Bar",
+            700005132
+        ]
+    ]
+]

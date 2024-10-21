@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700003469
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:40)",
+        [
+            "Starbucks",
+            700003469
+        ]
+    ],
+    [
+        "Current place: unknown, stay until 2:00 PM for lunch",
+        "(12:39, 14:36)",
+        [
+            "Farinella",
+            700003482
+        ]
+    ],
+    [
+        "Stay at Starbucks until 2:00 PM",
+        "(15:33, 17:28)",
+        [
+            "Farinella",
+            700003482
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:49, 18:50)",
+        [
+            "",
+            700026447
+        ]
+    ],
+    [
+        "Travel to Chase for banking needs.",
+        "(20:49, 21:55)",
+        [
+            "Porter House Bar and Grill",
+            700009178
+        ]
+    ],
+    [
+        "Go to Porter House Bar and Grill for dinner.",
+        "(22:41, 23:59)",
+        [
+            "Porter House Bar and Grill",
+            700009178
+        ]
+    ]
+]

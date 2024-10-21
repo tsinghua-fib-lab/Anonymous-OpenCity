@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Corbet & Conley",
+            700007801
+        ]
+    ],
+    [
+        "next_activity",
+        "(09:00, 09:59)",
+        [
+            "Sushi Dairo",
+            700019489
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:52, 11:58)",
+        [
+            "Sushi Dairo",
+            700019489
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:44, 16:21)",
+        [
+            "Follia",
+            700009140
+        ]
+    ],
+    [
+        "Stay and continue Leisure Reading.",
+        "(17:14, 19:03)",
+        [
+            "Sushi Dairo",
+            700019489
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 23:59)",
+        [
+            "Citi Bike - East 19th Street & 3rd Avenue",
+            700008029
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:54, 23:59)",
+        [
+            "Passport Health Gramercy Park Travel Clinic",
+            700025936
+        ]
+    ]
+]

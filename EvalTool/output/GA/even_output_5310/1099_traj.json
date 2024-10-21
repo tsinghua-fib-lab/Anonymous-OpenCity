@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CityMD",
+            700013542
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:43)",
+        [
+            "The Black Sheep",
+            700007840
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(11:09, 12:03)",
+        [
+            "CityMD",
+            700013542
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(12:41, 13:41)",
+        [
+            "CityMD",
+            700013542
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:03, 15:42)",
+        [
+            "Daniel's Bagels",
+            700013543
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 22:39)",
+        [
+            "Ahimsa",
+            700015963
+        ]
+    ]
+]

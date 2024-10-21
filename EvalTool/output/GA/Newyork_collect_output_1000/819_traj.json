@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:29)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:35, 15:55)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:20, 17:44)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(18:04, 22:52)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 23:59)",
+        [
+            "Thai V Express",
+            700017625
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Coletta",
+            700015591
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Salle de Combat",
+            700015295
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:55)",
+        [
+            "",
+            700043461
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(14:28, 16:35)",
+        [
+            "Salle de Combat",
+            700015295
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(17:26, 19:08)",
+        [
+            "Salle de Combat",
+            700015295
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:40, 21:58)",
+        [
+            "Salle de Combat",
+            700015295
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(22:19, 23:59)",
+        [
+            "Salle de Combat",
+            700015295
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dentist office",
+            700001958
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:56)",
+        [
+            "Dentist office",
+            700001958
+        ]
+    ],
+    [
+        "Relaxation/Entertainment",
+        "(14:38, 16:03)",
+        [
+            "Dentist office",
+            700001958
+        ]
+    ],
+    [
+        "Cooking and Preparing Dinner",
+        "(16:22, 18:32)",
+        [
+            "Dentist office",
+            700001958
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:15, 20:25)",
+        [
+            "",
+            700009933
+        ]
+    ],
+    [
+        "Next Arrangements: Stay at Dentist Office",
+        "(20:14, 22:05)",
+        [
+            "Dentist office",
+            700001958
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:31, 23:59)",
+        [
+            "",
+            700008742
+        ]
+    ]
+]

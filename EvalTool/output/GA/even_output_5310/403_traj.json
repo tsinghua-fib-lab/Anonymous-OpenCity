@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Santander",
+            700008773
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:16)",
+        [
+            "Fiorentina",
+            700013969
+        ]
+    ],
+    [
+        "Engage in a fun leisure activity",
+        "(14:13, 15:46)",
+        [
+            "Russian Vodka Room",
+            700006505
+        ]
+    ],
+    [
+        "Relaxation/Short Nap",
+        "(16:45, 18:07)",
+        [
+            "Russian Vodka Room",
+            700006505
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:37, 23:06)",
+        [
+            "Bank of America",
+            700007270
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(21:39, 22:53)",
+        [
+            "Russian Samovar Restaurant and Piano Bar",
+            700007787
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(23:09, 23:59)",
+        [
+            "Dig",
+            700022405
+        ]
+    ]
+]

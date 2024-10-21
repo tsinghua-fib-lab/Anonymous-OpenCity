@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001314
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:39)",
+        [
+            "Quince",
+            700002080
+        ]
+    ],
+    [
+        "Current place: Quince. Stay for 1 hour 3 minutes.",
+        "(14:57, 16:03)",
+        [
+            "Uno Dental San Francisco",
+            700008105
+        ]
+    ],
+    [
+        "Current place: Quince. Stay for 1 hour 3 minutes.",
+        "(16:47, 18:16)",
+        [
+            "Tricolore",
+            700004345
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 22:08)",
+        [
+            "Starbucks",
+            700005043
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(22:33, 23:59)",
+        [
+            "",
+            700005046
+        ]
+    ]
+]

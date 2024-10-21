@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014696
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast and coffee.",
+        "(10:00, 10:56)",
+        [
+            "Starbucks",
+            700016751
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:45, 16:11)",
+        [
+            "",
+            700014696
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 17:43)",
+        [
+            "",
+            700010793
+        ]
+    ],
+    [
+        "Stay at Starbucks.",
+        "(18:22, 20:01)",
+        [
+            "Joe & The Juice",
+            700023486
+        ]
+    ],
+    [
+        "Stay at Joe & The Juice.",
+        "(20:10, 21:54)",
+        [
+            "Joe & The Juice",
+            700023486
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "Gina Mexicana",
+            700014700
+        ]
+    ]
+]

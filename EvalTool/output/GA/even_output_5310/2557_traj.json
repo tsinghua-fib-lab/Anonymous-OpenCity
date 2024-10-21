@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020143
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:07)",
+        [
+            "Grand Sichuan Eastern",
+            700004334
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:00, 14:09)",
+        [
+            "Da Andrea",
+            700004344
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:39, 16:35)",
+        [
+            "Shaffer’s",
+            700004332
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(16:13, 17:53)",
+        [
+            "Shaffer’s",
+            700004332
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:23, 22:47)",
+        [
+            "Rangoon",
+            700041072
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "",
+            700004356
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700003205
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:21)",
+        [
+            "",
+            700003205
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(11:03, 12:25)",
+        [
+            "",
+            700003205
+        ]
+    ],
+    [
+        "Leisure Reading/Creative Hobby",
+        "(12:32, 13:52)",
+        [
+            "",
+            700003205
+        ]
+    ],
+    [
+        "Leisure Reading/Creative Hobby",
+        "(13:59, 14:55)",
+        [
+            "",
+            700003205
+        ]
+    ],
+    [
+        "Leisure Reading/Creative Hobby",
+        "(15:48, 16:59)",
+        [
+            "",
+            700003205
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 19:40)",
+        [
+            "Joanne Trattoria",
+            700013909
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:12, 23:35)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "Le Boite en Bois",
+            700020925
+        ]
+    ]
+]

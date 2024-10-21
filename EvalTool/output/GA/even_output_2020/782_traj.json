@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013050
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:41)",
+        [
+            "San Francisco Sheriff's Department",
+            700000441
+        ]
+    ],
+    [
+        "Afternoon Hobbies",
+        "(15:30, 17:39)",
+        [
+            "",
+            700011393
+        ]
+    ],
+    [
+        "Afternoon Hobbies",
+        "(18:16, 19:48)",
+        [
+            "",
+            700009213
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:52, 21:10)",
+        [
+            "Kiss My Seoul",
+            700006038
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:28, 23:22)",
+        [
+            "Jolt",
+            700013047
+        ]
+    ]
+]

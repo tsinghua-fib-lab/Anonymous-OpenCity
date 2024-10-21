@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Cafe 53",
+            700015178
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:04)",
+        [
+            "Le Bernardin",
+            700008563
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:56, 14:07)",
+        [
+            "Ted's Montana Grill",
+            700009159
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:11, 23:59)",
+        [
+            "",
+            700001755
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "Citi Bike - West 51st Street & 6th Avenue",
+            700008229
+        ]
+    ]
+]

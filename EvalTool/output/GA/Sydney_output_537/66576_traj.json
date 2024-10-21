@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "PumpHouse",
+            700006921
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:04)",
+        [
+            "The Exchange Food Hall",
+            700017713
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 17:42)",
+        [
+            "",
+            700013948
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(17:59, 19:19)",
+        [
+            "",
+            700014782
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 21:23)",
+        [
+            "",
+            700029306
+        ]
+    ],
+    [
+        "Stay at your Home.",
+        "(22:58, 23:59)",
+        [
+            "The Exchange Food Hall",
+            700017713
+        ]
+    ]
+]

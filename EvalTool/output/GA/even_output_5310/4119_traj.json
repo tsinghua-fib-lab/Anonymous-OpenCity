@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "No. 1 New York Kitchen",
+            700011620
+        ]
+    ],
+    [
+        "Go for a walk or light exercise in a nearby park.",
+        "(10:00, 10:58)",
+        [
+            "Citi Bike",
+            700023925
+        ]
+    ],
+    [
+        "Go for a walk or light exercise in a nearby park.",
+        "(11:14, 12:24)",
+        [
+            "Citi Bike",
+            700023925
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 15:18)",
+        [
+            "Tavern Kyclades",
+            700017084
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:19, 21:48)",
+        [
+            "New Arc Chicken",
+            700017085
+        ]
+    ],
+    [
+        "Stay at the current place",
+        "(20:17, 21:54)",
+        [
+            "No. 1 New York Kitchen",
+            700011620
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:20, 23:59)",
+        [
+            "CVS Pharmacy",
+            700004181
+        ]
+    ]
+]

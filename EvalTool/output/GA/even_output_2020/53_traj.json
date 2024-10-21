@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Comstock Saloon",
+            700000014
+        ]
+    ],
+    [
+        "Have breakfast",
+        "(10:00, 11:38)",
+        [
+            "Comstock Saloon",
+            700000014
+        ]
+    ],
+    [
+        "Stay at Comstock Saloon.",
+        "(12:00, 13:38)",
+        [
+            "Happy Donut",
+            700004010
+        ]
+    ],
+    [
+        "Stay at Comstock Saloon.",
+        "(14:30, 16:37)",
+        [
+            "Happy Donut",
+            700004010
+        ]
+    ],
+    [
+        "Meet friends for coffee and catch up",
+        "(17:18, 18:42)",
+        [
+            "Happy Donut",
+            700004010
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 22:08)",
+        [
+            "Cafe Zoetrope",
+            700001683
+        ]
+    ],
+    [
+        "Stay at Cafe Zoetrope.",
+        "(22:34, 23:59)",
+        [
+            "Cafe Zoetrope",
+            700001683
+        ]
+    ]
+]

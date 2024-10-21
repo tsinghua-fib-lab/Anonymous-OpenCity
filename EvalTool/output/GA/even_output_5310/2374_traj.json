@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020185
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 12:07)",
+        [
+            "",
+            700025315
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(12:23, 13:47)",
+        [
+            "Citi Bike - 2nd Avenue & East 6th Street",
+            700020180
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(14:37, 15:58)",
+        [
+            "",
+            700001666
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(17:13, 19:43)",
+        [
+            "Citi Bike - 2nd Avenue & East 6th Street",
+            700020180
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(20:23, 22:06)",
+        [
+            "Citi Bike - 2nd Avenue & East 6th Street",
+            700020180
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:47, 23:59)",
+        [
+            "Emmy Squared",
+            700017946
+        ]
+    ]
+]

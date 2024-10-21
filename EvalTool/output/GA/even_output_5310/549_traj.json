@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700019434
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 10:52)",
+        [
+            "",
+            700019434
+        ]
+    ],
+    [
+        "You are currently at an unspecified location with benches.",
+        "(11:03, 11:57)",
+        [
+            "Drop-Off Service",
+            700004507
+        ]
+    ],
+    [
+        "Stay at Citibank.",
+        "(12:36, 14:21)",
+        [
+            "Domino's",
+            700004778
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 18:32)",
+        [
+            "Juice Bar",
+            700007893
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 21:50)",
+        [
+            "Kumo Sushi",
+            700005929
+        ]
+    ],
+    [
+        "Stay at unspecified location",
+        "(20:18, 22:00)",
+        [
+            "Kumo Sushi",
+            700005929
+        ]
+    ],
+    [
+        "Stay at unspecified location.",
+        "(22:48, 23:58)",
+        [
+            "Kumo Sushi",
+            700005929
+        ]
+    ],
+    [
+        "Stay at unspecified location.",
+        "(23:43, 23:59)",
+        [
+            "Kumo Sushi",
+            700005929
+        ]
+    ]
+]

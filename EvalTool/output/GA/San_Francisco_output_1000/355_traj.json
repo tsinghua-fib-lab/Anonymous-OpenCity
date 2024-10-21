@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Mint",
+            700001945
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:27)",
+        [
+            "Moya Cafe",
+            700001886
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(12:16, 13:44)",
+        [
+            "Moya Cafe",
+            700001886
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:30, 18:52)",
+        [
+            "All Star Cafe",
+            700008119
+        ]
+    ],
+    [
+        "Relax at Moya Cafe.",
+        "(17:11, 18:55)",
+        [
+            "Moya Cafe",
+            700001886
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:25, 20:27)",
+        [
+            "Moya Cafe",
+            700001886
+        ]
+    ]
+]

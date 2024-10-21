@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of America",
+            700008772
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:42)",
+        [
+            "Bank of America",
+            700007505
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(12:15, 14:25)",
+        [
+            "Bank of America",
+            700008772
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:13, 16:44)",
+        [
+            "",
+            700013056
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(17:04, 19:02)",
+        [
+            "Sake Bar Hagi",
+            700023547
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:33, 23:59)",
+        [
+            "",
+            700000636
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:51, 23:59)",
+        [
+            "Gallaghers Steakhouse",
+            700008949
+        ]
+    ]
+]

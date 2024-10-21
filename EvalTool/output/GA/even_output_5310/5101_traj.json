@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030325
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:45)",
+        [
+            "Dunkin'",
+            700007732
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:08, 14:34)",
+        [
+            "Mr Bigg's Bar & Grill",
+            700006370
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:48, 16:48)",
+        [
+            "Citi Bike - West 43rd Street & 10th Avenue",
+            700008222
+        ]
+    ],
+    [
+        "Leisure Reading or Gaming",
+        "(17:36, 19:00)",
+        [
+            "Citi Bike - West 43rd Street & 10th Avenue",
+            700008222
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:10, 20:18)",
+        [
+            "",
+            700011436
+        ]
+    ]
+]

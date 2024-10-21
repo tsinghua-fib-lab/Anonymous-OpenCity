@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Recharge Navigo",
+            700037764
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:03)",
+        [
+            "L'Entracte",
+            700027150
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:23, 17:35)",
+        [
+            "Five Guys",
+            700006296
+        ]
+    ],
+    [
+        "Relaxing Evening",
+        "(18:54, 19:50)",
+        [
+            "Recharge Navigo",
+            700037764
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 23:11)",
+        [
+            "BNP Paribas",
+            700007217
+        ]
+    ]
+]

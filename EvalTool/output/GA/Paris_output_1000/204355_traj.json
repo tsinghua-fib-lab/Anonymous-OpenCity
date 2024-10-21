@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700060997
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:58)",
+        [
+            "Le Cosy",
+            700040178
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(14:04, 16:41)",
+        [
+            "Le Cosy",
+            700040178
+        ]
+    ],
+    [
+        "Socialize with friends or family",
+        "(17:24, 18:50)",
+        [
+            "Le Cosy",
+            700040178
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 22:05)",
+        [
+            "Au Petit Bar",
+            700029073
+        ]
+    ],
+    [
+        "Situation_1",
+        "(22:46, 23:47)",
+        [
+            "Angelina",
+            700022248
+        ]
+    ],
+    [
+        "Stay at Angelina",
+        "(23:47, 23:59)",
+        [
+            "Angelina",
+            700022248
+        ]
+    ]
+]

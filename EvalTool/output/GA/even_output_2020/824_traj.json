@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kitava Kitchen",
+            700014022
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(10:00, 11:01)",
+        [
+            "",
+            700005965
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(11:05, 12:52)",
+        [
+            "Mission Hunan Restaurant",
+            700002985
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:30, 15:04)",
+        [
+            "Mission Hunan Restaurant",
+            700002985
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:57, 16:31)",
+        [
+            "Mission Hunan Restaurant",
+            700002985
+        ]
+    ],
+    [
+        "Afternoon Sports",
+        "(16:47, 18:17)",
+        [
+            "Mission Hunan Restaurant",
+            700002985
+        ]
+    ],
+    [
+        "Stay at Kitava Kitchen",
+        "(18:13, 20:08)",
+        [
+            "Kitava Kitchen",
+            700014022
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 23:59)",
+        [
+            "Western Donut Chinese Food",
+            700004338
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "",
+            700008293
+        ]
+    ]
+]

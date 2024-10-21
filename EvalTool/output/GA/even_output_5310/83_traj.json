@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Veterinary Emergency Group",
+            700014656
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:42)",
+        [
+            "Dr. Benjamin Paul",
+            700040418
+        ]
+    ],
+    [
+        "Morning Routine",
+        "(11:13, 12:57)",
+        [
+            "Veterinary Emergency Group",
+            700014656
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:15, 16:37)",
+        [
+            "Dr. Benjamin Paul",
+            700040418
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 18:22)",
+        [
+            "CVS Pharmacy",
+            700024375
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 23:10)",
+        [
+            "Manhattan Eye Ear and Throat Hospital",
+            700000399
+        ]
+    ],
+    [
+        "Evening Wind Down and Relaxation",
+        "(22:33, 23:52)",
+        [
+            "Manhattan Eye Ear and Throat Hospital",
+            700000399
+        ]
+    ],
+    [
+        "Evening Wind Down and Relaxation",
+        "(23:56, 23:59)",
+        [
+            "Manhattan Eye Ear and Throat Hospital",
+            700000399
+        ]
+    ]
+]

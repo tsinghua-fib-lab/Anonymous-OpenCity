@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(09:00, 09:59)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:17, 11:54)",
+        [
+            "Hokkaido Baked Cheese Tart",
+            700035268
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:42, 14:33)",
+        [
+            "Hokkaido Baked Cheese Tart",
+            700035268
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(14:36, 16:10)",
+        [
+            "Hokkaido Baked Cheese Tart",
+            700035268
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:24, 17:47)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:35, 21:29)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ]
+]

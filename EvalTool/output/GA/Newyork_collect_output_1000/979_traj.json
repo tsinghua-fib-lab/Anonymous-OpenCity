@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:31)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:21, 13:55)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(14:55, 15:54)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:37, 17:44)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Relaxation/Leisure Reading",
+        "(17:53, 19:23)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Relaxation/Leisure Reading",
+        "(19:47, 21:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "stay at Sunflower Cafe",
+        "(21:07, 22:54)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:21, 23:59)",
+        [
+            "iPark",
+            700018136
+        ]
+    ]
+]

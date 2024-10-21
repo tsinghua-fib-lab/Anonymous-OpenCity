@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chamberlain Hotel",
+            700000128
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(10:00, 12:01)",
+        [
+            "Chamberlain Hotel",
+            700000128
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:48, 18:47)",
+        [
+            "",
+            700011623
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:03, 19:54)",
+        [
+            "Chamberlain Hotel",
+            700000128
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:03, 22:59)",
+        [
+            "Chamberlain Hotel",
+            700000128
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:22, 23:59)",
+        [
+            "Chat Thai",
+            700007611
+        ]
+    ]
+]

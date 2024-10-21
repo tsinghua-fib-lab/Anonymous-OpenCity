@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002699
+        ]
+    ],
+    [
+        "Wake Up & Breakfast",
+        "(09:00, 09:55)",
+        [
+            "Le French Diner",
+            700012924
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:12, 12:04)",
+        [
+            "Sweet Chick",
+            700017662
+        ]
+    ],
+    [
+        "Movie or TV Show",
+        "(14:56, 15:53)",
+        [
+            "Sweet Chick",
+            700017662
+        ]
+    ],
+    [
+        "Movie or TV Show",
+        "(17:02, 18:41)",
+        [
+            "Sweet Chick",
+            700017662
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 23:09)",
+        [
+            "San Loco",
+            700012112
+        ]
+    ],
+    [
+        "Dinner Prep & Family Time",
+        "(22:18, 23:54)",
+        [
+            "Patacón Pisao",
+            700010401
+        ]
+    ],
+    [
+        "Dinner Prep & Family Time",
+        "(23:48, 23:59)",
+        [
+            "Beauty & Essex",
+            700005418
+        ]
+    ]
+]

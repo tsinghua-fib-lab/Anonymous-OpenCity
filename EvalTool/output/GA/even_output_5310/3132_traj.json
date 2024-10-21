@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:04)",
+        [
+            "Avenue D Pizza",
+            700019570
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:43, 16:49)",
+        [
+            "Avenue D Pizza",
+            700019570
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:02, 18:31)",
+        [
+            "Avenue D Pizza",
+            700019570
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 23:31)",
+        [
+            "Avenue D Pizza",
+            700019570
+        ]
+    ],
+    [
+        "Relax and read at home",
+        "(21:15, 22:36)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "Stay at Avenue D Pizza",
+        "(22:56, 23:59)",
+        [
+            "Avenue D Pizza",
+            700019570
+        ]
+    ]
+]

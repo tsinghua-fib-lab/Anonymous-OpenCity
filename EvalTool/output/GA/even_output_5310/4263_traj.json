@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Happy Garden Palace",
+            700014866
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:41)",
+        [
+            "Shui Mei Cafe",
+            700006683
+        ]
+    ],
+    [
+        "You are currently at Shui Mei Cafe",
+        "(12:17, 13:54)",
+        [
+            "",
+            700038442
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:17, 20:13)",
+        [
+            "",
+            700038458
+        ]
+    ],
+    [
+        "Prepare a nice dinner at home",
+        "(18:32, 20:12)",
+        [
+            "Happy Garden Palace",
+            700014866
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:00, 23:59)",
+        [
+            "Pharmacy Inc",
+            700018490
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(22:49, 23:59)",
+        [
+            "Happy Garden Palace",
+            700014866
+        ]
+    ]
+]

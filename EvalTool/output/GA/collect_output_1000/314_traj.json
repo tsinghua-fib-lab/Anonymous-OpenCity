@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030386
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 10:56)",
+        [
+            "",
+            700001970
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:48, 12:55)",
+        [
+            "",
+            700001970
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:42, 15:43)",
+        [
+            "Jolly Goat Coffee",
+            700014457
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:44, 16:55)",
+        [
+            "Jolly Goat Coffee",
+            700014457
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:28, 18:05)",
+        [
+            "",
+            700030386
+        ]
+    ],
+    [
+        "Game or Board Game Night with Friends/Family",
+        "(18:13, 21:08)",
+        [
+            "",
+            700030386
+        ]
+    ],
+    [
+        "Game or Board Game Night with Friends/Family",
+        "(21:31, 23:03)",
+        [
+            "",
+            700030386
+        ]
+    ],
+    [
+        "Go to Prepare Dinner.",
+        "(23:32, 23:59)",
+        [
+            "",
+            700030386
+        ]
+    ]
+]

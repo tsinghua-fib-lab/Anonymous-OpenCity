@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bank of the Orient",
+            700012837
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:10)",
+        [
+            "King's and Co.",
+            700005165
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(13:02, 14:22)",
+        [
+            "",
+            700000970
+        ]
+    ],
+    [
+        "Lunch",
+        "(15:18, 16:39)",
+        [
+            "Chez Beesen",
+            700005147
+        ]
+    ],
+    [
+        "Lunch",
+        "(17:39, 19:13)",
+        [
+            "Chez Beesen",
+            700005147
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:34, 21:06)",
+        [
+            "Tri Counties Bank",
+            700003758
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(21:21, 23:00)",
+        [
+            "",
+            700000970
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:39, 23:59)",
+        [
+            "77 Chinese Cuisine & Hawaiian",
+            700009503
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Le Sandwich",
+            700008162
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:08)",
+        [
+            "Saints Peter and Paul School",
+            700000302
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:25, 13:38)",
+        [
+            "",
+            700014410
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 16:44)",
+        [
+            "",
+            700014409
+        ]
+    ],
+    [
+        "Stay at Saints Peter and Paul School.",
+        "(17:12, 18:35)",
+        [
+            "",
+            700009112
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 23:59)",
+        [
+            "",
+            700014408
+        ]
+    ]
+]

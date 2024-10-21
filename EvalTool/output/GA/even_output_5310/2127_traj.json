@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005843
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:21)",
+        [
+            "",
+            700007305
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:58, 13:06)",
+        [
+            "",
+            700040293
+        ]
+    ],
+    [
+        "Continue Leisure Reading or Hobbies",
+        "(14:03, 16:07)",
+        [
+            "",
+            700005843
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(16:02, 18:08)",
+        [
+            "Citi Bike - CPW & W 68th St",
+            700018458
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:51, 20:58)",
+        [
+            "Rabbi Edward E. Klein Memorial Library",
+            700000551
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(23:44, 23:59)",
+        [
+            "",
+            700003015
+        ]
+    ]
+]

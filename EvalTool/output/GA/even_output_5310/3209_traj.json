@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Jennifer Café",
+            700008750
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:19)",
+        [
+            "Jennifer Café",
+            700008750
+        ]
+    ],
+    [
+        "Stay at Raku East Village for a bit longer.",
+        "(15:23, 17:33)",
+        [
+            "",
+            700001957
+        ]
+    ],
+    [
+        "Move to a restaurant for dinner.",
+        "(17:30, 19:09)",
+        [
+            "",
+            700002190
+        ]
+    ],
+    [
+        "After dinner, relax with some light music or a podcast until bedtime.",
+        "(19:31, 21:33)",
+        [
+            "",
+            700001957
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "Citi Bike - East 3rd Street & 1st Avenue",
+            700008041
+        ]
+    ]
+]

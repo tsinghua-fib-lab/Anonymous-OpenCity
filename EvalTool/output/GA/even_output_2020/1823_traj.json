@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008718
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:04)",
+        [
+            "",
+            700009494
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:10, 18:29)",
+        [
+            "Louder",
+            700010154
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie.",
+        "(17:59, 19:32)",
+        [
+            "Louder",
+            700010154
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie",
+        "(19:54, 20:49)",
+        [
+            "Louder",
+            700010154
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie.",
+        "(21:08, 22:33)",
+        [
+            "Louder",
+            700010154
+        ]
+    ],
+    [
+        "Wind down with quiet activities, such as meditation or prepping for the week ahead.",
+        "(21:53, 23:07)",
+        [
+            "Golden Gate Rides",
+            700010714
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "The Nite Cap",
+            700003421
+        ]
+    ]
+]

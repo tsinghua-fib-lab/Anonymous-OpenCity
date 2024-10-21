@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001241
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast and coffee.",
+        "(10:00, 10:50)",
+        [
+            "PlantShed",
+            700004732
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:45, 13:35)",
+        [
+            "PlantShed",
+            700004732
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 15:39)",
+        [
+            "Bar Veloce",
+            700029604
+        ]
+    ],
+    [
+        "Stay at PlantShed.",
+        "(18:22, 19:51)",
+        [
+            "",
+            700002471
+        ]
+    ],
+    [
+        "Stay at PlantShed.",
+        "(20:10, 22:00)",
+        [
+            "PlantShed",
+            700004732
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "Prince Street Pizza",
+            700009979
+        ]
+    ]
+]

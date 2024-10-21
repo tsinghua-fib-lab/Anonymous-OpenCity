@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030414
+        ]
+    ],
+    [
+        "Engage in a creative writing session.",
+        "(10:00, 11:00)",
+        [
+            "",
+            700030414
+        ]
+    ],
+    [
+        "Engage in a creative writing session.",
+        "(11:50, 12:53)",
+        [
+            "ChargePoint",
+            700012450
+        ]
+    ],
+    [
+        "Prepare and enjoy a delicious lunch at 'ChargePoint'.",
+        "(13:40, 15:16)",
+        [
+            "ChargePoint",
+            700012450
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:37, 17:56)",
+        [
+            "USPS",
+            700007267
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:28, 21:36)",
+        [
+            "Golden City",
+            700003749
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:18, 23:59)",
+        [
+            "",
+            700002489
+        ]
+    ]
+]

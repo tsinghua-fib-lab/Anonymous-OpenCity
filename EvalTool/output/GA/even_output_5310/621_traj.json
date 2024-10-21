@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Go for a relaxing walk or hike in a nearby park.",
+        "(10:00, 11:29)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:30, 14:16)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Engage in a fun sports activity, like playing tennis or cycling.",
+        "(18:24, 20:02)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Wind down with a movie or TV show at home.",
+        "(20:06, 22:25)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Stay at Matto Espresso",
+        "(22:53, 23:59)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Stay at Matto Espresso",
+        "(23:43, 23:59)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ]
+]

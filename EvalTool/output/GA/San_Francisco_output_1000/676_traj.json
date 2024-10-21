@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Royal Ground Coffee",
+            700002092
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:22)",
+        [
+            "Cresta's",
+            700004280
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Project",
+        "(13:11, 15:02)",
+        [
+            "The Buccaneer",
+            700002777
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Project",
+        "(15:39, 16:59)",
+        [
+            "The Buccaneer",
+            700002777
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:32, 19:37)",
+        [
+            "",
+            700002269
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:32, 22:08)",
+        [
+            "Lord Stanley",
+            700002098
+        ]
+    ],
+    [
+        "Stay at Lord Stanley",
+        "(22:54, 23:59)",
+        [
+            "Lord Stanley",
+            700002098
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:35)",
+        [
+            "Public School MO94",
+            700000405
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:26, 14:21)",
+        [
+            "",
+            700001824
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a TV series",
+        "(16:01, 17:52)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:39, 20:55)",
+        [
+            "Erin's Pharmacy",
+            700005416
+        ]
+    ],
+    [
+        "Have dinner and unwind with some relaxing music or a book.",
+        "(21:03, 22:34)",
+        [
+            "Erin's Pharmacy",
+            700005416
+        ]
+    ],
+    [
+        "Stay at Citi Bike.",
+        "(22:40, 23:59)",
+        [
+            "China Wok",
+            700019587
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700034867
+        ]
+    ],
+    [
+        "11:00 AM – Morning Exercise",
+        "(10:00, 11:35)",
+        [
+            "",
+            700034867
+        ]
+    ],
+    [
+        "Continue to Sports Event",
+        "(12:11, 14:13)",
+        [
+            "Amster Yard",
+            700021977
+        ]
+    ],
+    [
+        "Leisure Activity or Shopping",
+        "(14:21, 15:58)",
+        [
+            "Amster Yard",
+            700021977
+        ]
+    ],
+    [
+        "Continue to Leisure Activity or Shopping",
+        "(17:03, 18:29)",
+        [
+            "La Cava Wine Bar",
+            700017237
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:21, 23:51)",
+        [
+            "",
+            700017573
+        ]
+    ],
+    [
+        "Stay for leisure activities",
+        "(23:24, 23:59)",
+        [
+            "The Smith",
+            700006415
+        ]
+    ]
+]

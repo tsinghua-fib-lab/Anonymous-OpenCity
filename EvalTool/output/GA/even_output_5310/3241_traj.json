@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - 1st Avenue & East 18th Street",
+            700007925
+        ]
+    ],
+    [
+        "Go for a morning walk or jog in a nearby park to enjoy the fresh air.",
+        "(10:00, 11:36)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ],
+    [
+        "Go for a morning walk or jog in a nearby park to enjoy the fresh air.",
+        "(11:42, 12:44)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ],
+    [
+        "Attend a yoga or fitness class to recharge and relax.",
+        "(12:58, 14:18)",
+        [
+            "Ess-a-Bagel",
+            700023332
+        ]
+    ],
+    [
+        "Attend a yoga or fitness class to recharge and relax.",
+        "(14:52, 16:06)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ],
+    [
+        "Spend more time reading a book or catching up on a series at home.",
+        "(16:47, 18:03)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:09, 23:18)",
+        [
+            "Ess-a-Bagel",
+            700023332
+        ]
+    ],
+    [
+        "Stay at Taco Bell Cantina.",
+        "(23:44, 23:59)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ]
+]

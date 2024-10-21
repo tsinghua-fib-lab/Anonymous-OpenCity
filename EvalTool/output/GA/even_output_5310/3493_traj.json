@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Cherry Street @ Corlears Hook Park",
+            700007993
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:39)",
+        [
+            "",
+            700018041
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:22, 13:54)",
+        [
+            "",
+            700018037
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:21, 17:42)",
+        [
+            "",
+            700018038
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:58, 19:54)",
+        [
+            "Citi Bike - Cherry Street @ Corlears Hook Park",
+            700007993
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:34, 23:10)",
+        [
+            "Citi Bike - Cherry Street @ Corlears Hook Park",
+            700007993
+        ]
+    ]
+]

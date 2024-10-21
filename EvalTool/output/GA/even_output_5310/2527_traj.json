@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002146
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 12:00)",
+        [
+            "Tangs",
+            700006564
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(11:55, 13:04)",
+        [
+            "Tangs",
+            700006564
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(13:47, 16:04)",
+        [
+            "Tangs",
+            700006564
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(16:28, 18:08)",
+        [
+            "",
+            700001363
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:05, 22:54)",
+        [
+            "Caffe Buon Gusto",
+            700020629
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:55, 23:59)",
+        [
+            "Calexico",
+            700011161
+        ]
+    ],
+    [
+        "Next arrangement after relaxing evening.",
+        "(23:53, 23:59)",
+        [
+            "",
+            700020609
+        ]
+    ]
+]

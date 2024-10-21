@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:00)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:23, 13:43)",
+        [
+            "Street Taco",
+            700006239
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:31, 15:54)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(16:37, 17:56)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ],
+    [
+        "Dinner Preparation & Cooking",
+        "(18:20, 20:27)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(21:00, 22:52)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:09, 23:59)",
+        [
+            "",
+            700002180
+        ]
+    ]
+]

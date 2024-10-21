@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700007625
+        ]
+    ],
+    [
+        "Go for a Walk or Light Exercise",
+        "(10:00, 10:52)",
+        [
+            "San Francisco Public Library",
+            700002981
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(12:05, 14:07)",
+        [
+            "Templo de la Fe",
+            700002980
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:53, 18:37)",
+        [
+            "Mission Picnic",
+            700005604
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:32, 22:31)",
+        [
+            "Bottega",
+            700003560
+        ]
+    ]
+]

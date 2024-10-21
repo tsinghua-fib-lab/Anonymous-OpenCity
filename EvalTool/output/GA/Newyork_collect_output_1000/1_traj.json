@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Wake Up",
+        "(09:00, 10:31)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:55, 13:32)",
+        [
+            "CitiBike Station",
+            700007611
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:06, 14:41)",
+        [
+            "Citi Bike - East 25th Street & 2nd Avenue",
+            700008039
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:42, 18:00)",
+        [
+            "",
+            700032014
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:16, 20:06)",
+        [
+            "Song Yu, DPM",
+            700023820
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:54, 23:14)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "",
+            700011173
+        ]
+    ]
+]

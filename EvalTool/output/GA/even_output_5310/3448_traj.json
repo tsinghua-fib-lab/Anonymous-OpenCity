@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "United Shipping and Packaging",
+            700017540
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:07)",
+        [
+            "United Shipping and Packaging",
+            700017540
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:21, 13:47)",
+        [
+            "Chase",
+            700005777
+        ]
+    ],
+    [
+        "Meet friends or family for an afternoon outing or leisure activity",
+        "(13:52, 15:50)",
+        [
+            "Chase",
+            700005775
+        ]
+    ],
+    [
+        "Relax at home and watch TV or a movie.",
+        "(16:36, 18:04)",
+        [
+            "Chase",
+            700005775
+        ]
+    ],
+    [
+        "Prepare and have dinner",
+        "(19:20, 20:40)",
+        [
+            "Chase",
+            700005775
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:36, 23:59)",
+        [
+            "Shabu-Tatsu",
+            700017541
+        ]
+    ]
+]

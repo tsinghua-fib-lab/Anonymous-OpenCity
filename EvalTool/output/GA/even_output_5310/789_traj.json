@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Coco Pizzaria",
+            700039033
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:51)",
+        [
+            "Coco Pizzaria",
+            700039033
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(13:17, 15:25)",
+        [
+            "Coco Pizzaria",
+            700039033
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(15:44, 17:23)",
+        [
+            "",
+            700030123
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(17:54, 18:50)",
+        [
+            "Coco Pizzaria",
+            700039033
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:21, 21:59)",
+        [
+            "Sutton Bar Room",
+            700011531
+        ]
+    ]
+]

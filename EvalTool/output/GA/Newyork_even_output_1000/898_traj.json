@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020329
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:41)",
+        [
+            "",
+            700019185
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(14:20, 16:17)",
+        [
+            "Villa Berulia",
+            700006407
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:58, 21:15)",
+        [
+            "",
+            700001067
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 21:58)",
+        [
+            "",
+            700024802
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Laura Perlmutter Center for Women's Imaging",
+            700006332
+        ]
+    ]
+]

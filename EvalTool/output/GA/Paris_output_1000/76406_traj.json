@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Recharge Navigo",
+            700037764
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:31)",
+        [
+            "",
+            700072958
+        ]
+    ],
+    [
+        "Watch a performance or engage in activities at Recharge Navigo.",
+        "(11:33, 13:07)",
+        [
+            "Recharge Navigo",
+            700037764
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 16:51)",
+        [
+            "Pharmacie de l'Opéra",
+            700018112
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:21, 19:15)",
+        [
+            "Opera Ramen",
+            700006302
+        ]
+    ],
+    [
+        "Stay at Recharge Navigo.",
+        "(21:07, 22:43)",
+        [
+            "Opera Ramen",
+            700006302
+        ]
+    ],
+    [
+        "Stay at Maison Edgar.",
+        "(23:10, 23:59)",
+        [
+            "",
+            700025399
+        ]
+    ]
+]

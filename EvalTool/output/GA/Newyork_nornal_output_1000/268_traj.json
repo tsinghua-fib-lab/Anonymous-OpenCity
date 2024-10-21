@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Möge Tee",
+            700003954
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:54)",
+        [
+            "CVS Pharmacy",
+            700011386
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(14:14, 16:01)",
+        [
+            "",
+            700022518
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(16:40, 18:12)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "Hobbies or Creative Project",
+        "(18:18, 19:51)",
+        [
+            "",
+            700022505
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(20:12, 21:50)",
+        [
+            "",
+            700001612
+        ]
+    ],
+    [
+        "Stay at Duane Reade.",
+        "(22:02, 23:32)",
+        [
+            "Royal Orthodontics",
+            700023464
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "NYU Langone Radiology",
+            700006205
+        ]
+    ]
+]

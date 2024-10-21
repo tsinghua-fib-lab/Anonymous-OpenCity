@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Goethe Institut",
+            700006178
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:02)",
+        [
+            "",
+            700002864
+        ]
+    ],
+    [
+        "Stay at Goethe Institut.",
+        "(12:01, 13:26)",
+        [
+            "",
+            700001964
+        ]
+    ],
+    [
+        "Stay at Goethe Institut",
+        "(13:28, 15:07)",
+        [
+            "USPS",
+            700011092
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:29, 17:04)",
+        [
+            "Goethe Institut",
+            700006178
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:56, 23:27)",
+        [
+            "The Stand",
+            700017287
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "",
+            700017780
+        ]
+    ]
+]

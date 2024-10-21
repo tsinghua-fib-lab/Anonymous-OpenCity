@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000807
+        ]
+    ],
+    [
+        "Reading or catching up on news/articles",
+        "(10:00, 12:02)",
+        [
+            "Z Zoul Cafe",
+            700013870
+        ]
+    ],
+    [
+        "Reading or catching up on news/articles",
+        "(11:33, 13:06)",
+        [
+            "Z Zoul Cafe",
+            700013870
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:02, 18:18)",
+        [
+            "YVAM San Francisco",
+            700005196
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 23:59)",
+        [
+            "Pho Tan Hoa",
+            700004838
+        ]
+    ]
+]

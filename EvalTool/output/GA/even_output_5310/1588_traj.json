@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Lucid Cafe",
+            700021664
+        ]
+    ],
+    [
+        "Leisure Activity / Hobbies",
+        "(10:00, 11:29)",
+        [
+            "Lucid Cafe",
+            700021664
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 16:09)",
+        [
+            "Citi Bike",
+            700021661
+        ]
+    ],
+    [
+        "Dinner Preparation and Relaxation",
+        "(18:12, 19:52)",
+        [
+            "Peter Dillon's",
+            700015964
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:33, 23:32)",
+        [
+            "House of Lasagna",
+            700023580
+        ]
+    ],
+    [
+        "Leisure Activity / Hobbies",
+        "(22:44, 23:59)",
+        [
+            "The Junction",
+            700015712
+        ]
+    ]
+]

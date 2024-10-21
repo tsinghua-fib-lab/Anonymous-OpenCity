@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gregory's Coffee",
+            700007534
+        ]
+    ],
+    [
+        "11:00 AM - 12:30 PM",
+        "(10:00, 11:27)",
+        [
+            "Pret A Manger",
+            700003439
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:00, 17:27)",
+        [
+            "Gregory's Coffee",
+            700007534
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:42, 17:27)",
+        [
+            "Masala King",
+            700023814
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:18, 18:36)",
+        [
+            "Kosher in Midtown",
+            700006344
+        ]
+    ],
+    [
+        "Spend time at Kosher in Midtown.",
+        "(19:45, 20:59)",
+        [
+            "Kosher in Midtown",
+            700006344
+        ]
+    ],
+    [
+        "Spend time at Kosher in Midtown.",
+        "(21:08, 22:44)",
+        [
+            "Kosher in Midtown",
+            700006344
+        ]
+    ],
+    [
+        "Spend time.",
+        "(22:49, 23:42)",
+        [
+            "Kosher in Midtown",
+            700006344
+        ]
+    ],
+    [
+        "Stay at Kosher in Midtown.",
+        "(23:53, 23:59)",
+        [
+            "Kosher in Midtown",
+            700006344
+        ]
+    ]
+]

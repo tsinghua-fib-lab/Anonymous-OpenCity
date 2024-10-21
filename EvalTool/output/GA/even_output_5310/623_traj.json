@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Outdoor Activity (11:00 AM - 1:00 PM)",
+        "(10:00, 12:05)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:04, 13:56)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 17:44)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 19:33)",
+        [
+            "NY Kids Club",
+            700006234
+        ]
+    ],
+    [
+        "After Sundays Well, unwind at a café and enjoy reading.",
+        "(23:13, 23:59)",
+        [
+            "Handcraft",
+            700006233
+        ]
+    ]
+]

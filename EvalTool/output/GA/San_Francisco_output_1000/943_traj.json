@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Neighbor's Corner",
+            700005955
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:34)",
+        [
+            "Spike's Coffees and Teas",
+            700007870
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:18, 18:41)",
+        [
+            "Welcome Castro",
+            700002199
+        ]
+    ],
+    [
+        "Shopping Trip",
+        "(15:49, 17:10)",
+        [
+            "Welcome Castro",
+            700002199
+        ]
+    ],
+    [
+        "Shopping Trip",
+        "(18:01, 19:32)",
+        [
+            "Welcome Castro",
+            700002199
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(20:13, 21:41)",
+        [
+            "All Season Sushi Bar",
+            700002203
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(22:35, 23:59)",
+        [
+            "All Season Sushi Bar",
+            700002203
+        ]
+    ]
+]

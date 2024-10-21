@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008211
+        ]
+    ],
+    [
+        "Wake Up and Brunch",
+        "(10:00, 11:35)",
+        [
+            "",
+            700008211
+        ]
+    ],
+    [
+        "Next activity based on daily plan.",
+        "(12:13, 13:49)",
+        [
+            "Little Kite Asian Fusion",
+            700005969
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:21, 18:41)",
+        [
+            "La Taza Restaurant and Bar",
+            700010799
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(20:31, 22:03)",
+        [
+            "La Taza Restaurant and Bar",
+            700010799
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:54, 23:59)",
+        [
+            "La Taza Restaurant and Bar",
+            700010799
+        ]
+    ]
+]

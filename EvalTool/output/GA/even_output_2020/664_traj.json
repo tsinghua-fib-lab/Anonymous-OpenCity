@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008969
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:53)",
+        [
+            "",
+            700000118
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:57, 15:24)",
+        [
+            "",
+            700008971
+        ]
+    ],
+    [
+        "Watch a movie or binge a series on streaming platforms",
+        "(16:30, 18:22)",
+        [
+            "",
+            700002757
+        ]
+    ],
+    [
+        "Watch a movie or binge a series on streaming platforms.",
+        "(18:23, 20:13)",
+        [
+            "Restricted Parking: Permit Holders Only",
+            700002086
+        ]
+    ],
+    [
+        "Prepare a simple dinner",
+        "(20:31, 22:06)",
+        [
+            "",
+            700008969
+        ]
+    ],
+    [
+        "Enjoy time at Starbucks",
+        "(22:19, 23:58)",
+        [
+            "",
+            700008742
+        ]
+    ],
+    [
+        "Relax at Starbucks",
+        "(23:56, 23:59)",
+        [
+            "",
+            700008972
+        ]
+    ]
+]

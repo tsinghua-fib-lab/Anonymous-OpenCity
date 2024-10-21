@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Royal Napoli Pizza",
+            700032784
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:33)",
+        [
+            "Skyline Deli",
+            700027346
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:20, 16:10)",
+        [
+            "As is NYC",
+            700009726
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(16:26, 17:58)",
+        [
+            "As is NYC",
+            700009726
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:15, 20:22)",
+        [
+            "Royal Napoli Pizza",
+            700032784
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:27, 23:59)",
+        [
+            "On The Rocks",
+            700020223
+        ]
+    ]
+]

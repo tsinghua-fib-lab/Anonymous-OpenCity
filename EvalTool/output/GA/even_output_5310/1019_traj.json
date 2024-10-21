@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700022278
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 14:10)",
+        [
+            "",
+            700022277
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(11:25, 13:03)",
+        [
+            "Citi Bike - East 60th Street & York Avenue",
+            700008062
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(13:23, 14:55)",
+        [
+            "Citi Bike - East 60th Street & York Avenue",
+            700008062
+        ]
+    ],
+    [
+        "Light Exercise",
+        "(15:14, 16:48)",
+        [
+            "Citi Bike - East 60th Street & York Avenue",
+            700008062
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:44, 20:27)",
+        [
+            "",
+            700022274
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(20:03, 21:39)",
+        [
+            "Citi Bike - East 60th Street & York Avenue",
+            700008062
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(21:48, 23:09)",
+        [
+            "Citi Bike - East 60th Street & York Avenue",
+            700008062
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(23:35, 23:59)",
+        [
+            "Citi Bike - East 60th Street & York Avenue",
+            700008062
+        ]
+    ]
+]

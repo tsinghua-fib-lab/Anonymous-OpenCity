@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002258
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:38)",
+        [
+            "",
+            700001685
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 15:18)",
+        [
+            "",
+            700002275
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 19:13)",
+        [
+            "",
+            700001653
+        ]
+    ],
+    [
+        "Stay at a place with amenities.",
+        "(16:53, 18:30)",
+        [
+            "",
+            700000608
+        ]
+    ],
+    [
+        "Stay at Book Club.",
+        "(19:20, 20:46)",
+        [
+            "Hekate Café & Elixir Lounge",
+            700028537
+        ]
+    ],
+    [
+        "Stay at a place with amenities",
+        "(21:50, 23:08)",
+        [
+            "",
+            700002258
+        ]
+    ],
+    [
+        "Stay at current place with amenities.",
+        "(23:09, 23:59)",
+        [
+            "Blind Barber",
+            700008784
+        ]
+    ]
+]

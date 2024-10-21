@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008260
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:20)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:49, 14:51)",
+        [
+            "",
+            700000530
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(15:58, 16:51)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:29, 22:06)",
+        [
+            "Loving Cup",
+            700002091
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:22, 22:56)",
+        [
+            "Little Kitchen",
+            700000642
+        ]
+    ],
+    [
+        "Go to Evening Wind Down.",
+        "(23:29, 23:59)",
+        [
+            "La Folie",
+            700002089
+        ]
+    ]
+]

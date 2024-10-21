@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:31)",
+        [
+            "Kopiku",
+            700004970
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:16, 14:02)",
+        [
+            "Bobo’s",
+            700013445
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:32, 16:09)",
+        [
+            "",
+            700013308
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:49, 18:46)",
+        [
+            "Kui Shin Bo 2",
+            700004973
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(21:28, 22:56)",
+        [
+            "",
+            700013443
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(22:40, 23:40)",
+        [
+            "",
+            700013442
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "The Coffee Berry",
+            700013444
+        ]
+    ]
+]

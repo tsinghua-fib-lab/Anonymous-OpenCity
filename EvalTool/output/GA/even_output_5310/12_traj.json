@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010313
+        ]
+    ],
+    [
+        "Engage in a light workout or yoga session to start the day with energy.",
+        "(10:00, 12:00)",
+        [
+            "",
+            700010313
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 16:24)",
+        [
+            "",
+            700037857
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 20:05)",
+        [
+            "",
+            700010313
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:12, 19:37)",
+        [
+            "CVS Pharmacy",
+            700013545
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 21:11)",
+        [
+            "",
+            700013211
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rosa Bonheur",
+            700002186
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:35)",
+        [
+            "Rosa Bonheur",
+            700002186
+        ]
+    ],
+    [
+        "Enjoy leisure activities.",
+        "(12:13, 14:15)",
+        [
+            "Rosa Bonheur",
+            700002186
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 16:19)",
+        [
+            "",
+            700058590
+        ]
+    ],
+    [
+        "Enjoy leisure activities.",
+        "(20:47, 22:17)",
+        [
+            "",
+            700058596
+        ]
+    ],
+    [
+        "Meet friends at Les Pollos.",
+        "(22:45, 23:58)",
+        [
+            "",
+            700058592
+        ]
+    ],
+    [
+        "Go to Les Pollos for a meal.",
+        "(23:56, 23:59)",
+        [
+            "Rosa Bonheur",
+            700002186
+        ]
+    ]
+]

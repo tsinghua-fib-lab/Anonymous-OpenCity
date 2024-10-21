@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700034807
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:00, 11:08)",
+        [
+            "",
+            700034807
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(11:31, 13:41)",
+        [
+            "Variety Coffee",
+            700013990
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(13:34, 16:09)",
+        [
+            "Variety Coffee",
+            700013990
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(16:17, 19:09)",
+        [
+            "Variety Coffee",
+            700013990
+        ]
+    ],
+    [
+        "Relax and Watch a Movie/TV Show",
+        "(20:06, 22:07)",
+        [
+            "Variety Coffee",
+            700013990
+        ]
+    ],
+    [
+        "Relax and Watch a Movie/TV Show",
+        "(23:02, 23:59)",
+        [
+            "Variety Coffee",
+            700013990
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Station",
+            700002067
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(10:00, 10:57)",
+        [
+            "The Station",
+            700002067
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(11:32, 12:52)",
+        [
+            "The Station",
+            700002067
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 17:31)",
+        [
+            "Cafe Zoetrope",
+            700001683
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:12, 20:06)",
+        [
+            "The Station",
+            700002067
+        ]
+    ],
+    [
+        "Evening Relaxation and Wind Down",
+        "(20:30, 22:08)",
+        [
+            "The Station",
+            700002067
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "Happy Donut",
+            700004010
+        ]
+    ]
+]

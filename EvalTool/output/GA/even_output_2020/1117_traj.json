@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sweet Lime",
+            700005961
+        ]
+    ],
+    [
+        "Go for a morning walk",
+        "(10:00, 11:00)",
+        [
+            "Philmore Creamery",
+            700013489
+        ]
+    ],
+    [
+        "Catch up on household chores",
+        "(11:33, 13:10)",
+        [
+            "Philmore Creamery",
+            700013489
+        ]
+    ],
+    [
+        "Watch a movie or TV series",
+        "(13:51, 15:35)",
+        [
+            "Sweet Lime",
+            700005961
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:24, 21:04)",
+        [
+            "City Ballet",
+            700005970
+        ]
+    ],
+    [
+        "Next arrangement for dinner after enjoying the day.",
+        "(21:17, 22:55)",
+        [
+            "Sweet Lime",
+            700005961
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "Sterling Bank & Trust",
+            700000787
+        ]
+    ]
+]

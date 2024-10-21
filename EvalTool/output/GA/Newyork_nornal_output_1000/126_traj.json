@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700003465
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:09)",
+        [
+            "Starbucks",
+            700003465
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:03, 13:58)",
+        [
+            "Starbucks",
+            700003465
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:27, 16:06)",
+        [
+            "Starbucks",
+            700003465
+        ]
+    ],
+    [
+        "Connect with Friends/Family",
+        "(16:31, 18:04)",
+        [
+            "Starbucks",
+            700003465
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:34, 19:54)",
+        [
+            "",
+            700001200
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(20:23, 22:01)",
+        [
+            "Bareburger",
+            700008763
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:47, 23:59)",
+        [
+            "Pinkberry",
+            700003463
+        ]
+    ]
+]

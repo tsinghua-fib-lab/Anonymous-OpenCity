@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700017845
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:43)",
+        [
+            "",
+            700009318
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:27, 13:34)",
+        [
+            "Capital One",
+            700008604
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:03, 15:42)",
+        [
+            "Lyceum Kennedy French American School",
+            700022991
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(16:05, 18:09)",
+        [
+            "",
+            700017845
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(18:20, 19:56)",
+        [
+            "NYC Dental Center",
+            700015027
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(20:17, 22:04)",
+        [
+            "Bento NYC",
+            700015876
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:56)",
+        [
+            "Bento NYC",
+            700015876
+        ]
+    ],
+    [
+        "Stay at Sutton Cafe Restaurant",
+        "(23:56, 23:59)",
+        [
+            "Romanian Cultural Center",
+            700000478
+        ]
+    ]
+]

@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700038170
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:48)",
+        [
+            "",
+            700030661
+        ]
+    ],
+    [
+        "Leisure Time (Reading/Watching TV)",
+        "(10:39, 11:44)",
+        [
+            "",
+            700030663
+        ]
+    ],
+    [
+        "Leisure Time (Reading/Watching TV)",
+        "(12:18, 13:51)",
+        [
+            "",
+            700030664
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(14:38, 17:46)",
+        [
+            "",
+            700038170
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:21, 19:09)",
+        [
+            "",
+            700030657
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(17:55, 20:05)",
+        [
+            "",
+            700038170
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(20:10, 21:26)",
+        [
+            "",
+            700038170
+        ]
+    ],
+    [
+        "Social Time (Friends/Family)",
+        "(21:34, 23:02)",
+        [
+            "",
+            700002607
+        ]
+    ],
+    [
+        "Social Time (Friends/Family)",
+        "(23:39, 23:59)",
+        [
+            "11th Street Bar",
+            700017355
+        ]
+    ]
+]

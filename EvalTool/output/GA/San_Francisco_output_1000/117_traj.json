@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008708
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:58)",
+        [
+            "",
+            700000491
+        ]
+    ],
+    [
+        "Continue Outdoor Activity",
+        "(12:14, 14:02)",
+        [
+            "Cafe Bean",
+            700008860
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(14:48, 16:10)",
+        [
+            "Cafe Bean",
+            700008860
+        ]
+    ],
+    [
+        "Continue Leisure Reading or Hobbies",
+        "(16:10, 17:40)",
+        [
+            "Cafe Bean",
+            700008860
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:48, 19:59)",
+        [
+            "Gusto",
+            700008963
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:15, 21:28)",
+        [
+            "Zipcar",
+            700002403
+        ]
+    ],
+    [
+        "Next arrangement considering your plan",
+        "(23:33, 23:59)",
+        [
+            "Cafe Bean",
+            700008860
+        ]
+    ]
+]

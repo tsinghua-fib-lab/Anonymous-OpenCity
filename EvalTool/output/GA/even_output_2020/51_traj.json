@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Comstock Saloon",
+            700000014
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:29)",
+        [
+            "",
+            700005719
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:49, 12:50)",
+        [
+            "Réveille Coffee Co.",
+            700002066
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 17:38)",
+        [
+            "New Regent Café",
+            700004308
+        ]
+    ],
+    [
+        "Prepare a Dinner",
+        "(18:29, 19:53)",
+        [
+            "Réveille Coffee Co.",
+            700002066
+        ]
+    ],
+    [
+        "Stay at Réveille Coffee Co.",
+        "(20:35, 22:25)",
+        [
+            "Cafe Tosca",
+            700000428
+        ]
+    ],
+    [
+        "Stay at Réveille Coffee Co.",
+        "(22:39, 23:59)",
+        [
+            "Cafe Tosca",
+            700000428
+        ]
+    ]
+]

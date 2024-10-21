@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Z Zoul Cafe",
+            700013870
+        ]
+    ],
+    [
+        "Workout or Sports Activity",
+        "(10:00, 11:34)",
+        [
+            "Z Zoul Cafe",
+            700013870
+        ]
+    ],
+    [
+        "Workout or Sports Activity",
+        "(11:36, 12:58)",
+        [
+            "Z Zoul Cafe",
+            700013870
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:13, 17:26)",
+        [
+            "Cutting Ball Theater",
+            700013886
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:34, 21:09)",
+        [
+            "Cutting Ball Theater",
+            700013886
+        ]
+    ],
+    [
+        "Prepare Dinner at Farmhouse Kitchen",
+        "(21:58, 23:04)",
+        [
+            "Enterprise",
+            700005193
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Union Square Sports Bar",
+            700002321
+        ]
+    ]
+]

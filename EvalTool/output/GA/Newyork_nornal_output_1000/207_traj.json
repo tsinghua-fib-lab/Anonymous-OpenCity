@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Link NYC",
+            700017644
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(09:00, 09:56)",
+        [
+            "Link NYC",
+            700017644
+        ]
+    ],
+    [
+        "Next activity after morning walk",
+        "(10:11, 11:48)",
+        [
+            "Link NYC",
+            700017691
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(12:28, 13:49)",
+        [
+            "Peter G Peterson Center for International Studies",
+            700000293
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(14:22, 16:08)",
+        [
+            "Citi Bike - East 68th Street & Madison Avenue",
+            700021682
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 21:02)",
+        [
+            "Citi Bike - East 68th Street & Madison Avenue",
+            700021682
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:55, 23:42)",
+        [
+            "",
+            700017870
+        ]
+    ]
+]

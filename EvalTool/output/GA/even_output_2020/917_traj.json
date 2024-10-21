@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "San Francisco Animal Medical Center",
+            700013730
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:34)",
+        [
+            "",
+            700001517
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:35, 14:19)",
+        [
+            "San Francisco Animal Medical Center",
+            700013730
+        ]
+    ],
+    [
+        "Relaxation/Entertainment",
+        "(15:20, 17:04)",
+        [
+            "San Francisco Animal Medical Center",
+            700013730
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:42, 19:46)",
+        [
+            "San Francisco Animal Medical Center",
+            700013730
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(19:46, 21:26)",
+        [
+            "",
+            700014106
+        ]
+    ],
+    [
+        "Stay at San Francisco Animal Medical Center",
+        "(21:48, 23:06)",
+        [
+            "San Francisco Animal Medical Center",
+            700013730
+        ]
+    ],
+    [
+        "Stay at San Francisco Animal Medical Center.",
+        "(23:50, 23:59)",
+        [
+            "",
+            700001520
+        ]
+    ]
+]

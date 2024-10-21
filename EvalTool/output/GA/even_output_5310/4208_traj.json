@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi bike - East 68th Street & 3rd Avenue",
+            700017449
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:08)",
+        [
+            "",
+            700021973
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:09, 15:59)",
+        [
+            "Citi bike - East 68th Street & 3rd Avenue",
+            700017449
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:52, 21:31)",
+        [
+            "",
+            700021972
+        ]
+    ],
+    [
+        "Spend Time with Family or Friends",
+        "(21:49, 23:45)",
+        [
+            "Citi bike - East 68th Street & 3rd Avenue",
+            700017449
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "Bedford Falls",
+            700032491
+        ]
+    ]
+]

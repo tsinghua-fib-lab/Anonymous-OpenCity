@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Death By Pizza",
+            700016026
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:01)",
+        [
+            "Kogame Ramen",
+            700017678
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:24, 15:35)",
+        [
+            "",
+            700000652
+        ]
+    ],
+    [
+        "Socialize or Call Friends/Family",
+        "(15:52, 17:30)",
+        [
+            "Kogame Ramen",
+            700017678
+        ]
+    ],
+    [
+        "Socialize or Call Friends/Family",
+        "(18:19, 19:44)",
+        [
+            "Kogame Ramen",
+            700017678
+        ]
+    ],
+    [
+        "Continue at Kogame Ramen",
+        "(19:57, 22:28)",
+        [
+            "Kogame Ramen",
+            700017678
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:40, 23:37)",
+        [
+            "Le Pain Quotidien",
+            700007293
+        ]
+    ]
+]

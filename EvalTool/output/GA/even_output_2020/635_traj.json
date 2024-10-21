@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700007460
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:08)",
+        [
+            "",
+            700013573
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:36, 12:54)",
+        [
+            "Taxi Stand at Alcatraz Landing at Pier 33 (along the Embarcadero)",
+            700009907
+        ]
+    ],
+    [
+        "Watch a Sports Game or TV Show",
+        "(13:15, 14:51)",
+        [
+            "",
+            700011084
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:23, 19:33)",
+        [
+            "",
+            700013579
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 23:55)",
+        [
+            "",
+            700013583
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(23:54, 23:59)",
+        [
+            "",
+            700011082
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700026366
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:07)",
+        [
+            "",
+            700026364
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(10:26, 13:05)",
+        [
+            "",
+            700026363
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(12:51, 13:57)",
+        [
+            "RFX Studio",
+            700029596
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:57, 15:49)",
+        [
+            "RFX Studio",
+            700029596
+        ]
+    ],
+    [
+        "Continue leisure activity at RFX Studio",
+        "(15:47, 16:55)",
+        [
+            "RFX Studio",
+            700029596
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:15, 20:11)",
+        [
+            "RFX Studio",
+            700029596
+        ]
+    ],
+    [
+        "Stay at RFX Studio (Situation 2)",
+        "(22:27, 23:59)",
+        [
+            "RFX Studio",
+            700029596
+        ]
+    ],
+    [
+        "Stay at RFX Studio (Situation 2)",
+        "(23:57, 23:59)",
+        [
+            "Follia",
+            700009140
+        ]
+    ]
+]

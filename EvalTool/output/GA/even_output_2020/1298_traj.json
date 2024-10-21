@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bay Wheels",
+            700010529
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:10)",
+        [
+            "Neighborhood Baptist Church",
+            700000256
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:19, 16:31)",
+        [
+            "Suppenküche",
+            700000849
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:37, 21:36)",
+        [
+            "",
+            700002888
+        ]
+    ],
+    [
+        "Go to Giola Pizzeria",
+        "(20:33, 22:02)",
+        [
+            "Giola Pizzeria",
+            700002134
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(22:33, 23:59)",
+        [
+            "Suppenküche",
+            700000849
+        ]
+    ]
+]

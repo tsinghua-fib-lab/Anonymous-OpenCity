@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Grant and Green",
+            700000430
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:12)",
+        [
+            "ristorante ideal",
+            700004949
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:35, 14:29)",
+        [
+            "ristorante ideal",
+            700004949
+        ]
+    ],
+    [
+        "Relaxation/Entertainment",
+        "(15:20, 17:02)",
+        [
+            "ristorante ideal",
+            700004949
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:42, 19:20)",
+        [
+            "ristorante ideal",
+            700004949
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(19:46, 21:14)",
+        [
+            "Church Key",
+            700001736
+        ]
+    ],
+    [
+        "Stay at Grant and Green",
+        "(21:48, 23:08)",
+        [
+            "Grant and Green",
+            700000430
+        ]
+    ],
+    [
+        "Stay at Grant and Green.",
+        "(23:50, 23:59)",
+        [
+            "San Sun",
+            700005143
+        ]
+    ]
+]

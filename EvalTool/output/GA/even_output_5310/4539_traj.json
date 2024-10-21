@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Eleni's Goods",
+            700020716
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:23)",
+        [
+            "Paddy Maguire's",
+            700018483
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(15:16, 17:09)",
+        [
+            "Lunetta Pizza & Restaurant",
+            700006185
+        ]
+    ],
+    [
+        "Watch Sports/Movies",
+        "(17:31, 19:01)",
+        [
+            "Lunetta Pizza & Restaurant",
+            700006185
+        ]
+    ],
+    [
+        "Watch Sports/Movies",
+        "(19:47, 21:53)",
+        [
+            "Lunetta Pizza & Restaurant",
+            700006185
+        ]
+    ],
+    [
+        "Go to Lunetta Pizza & Restaurant",
+        "(22:22, 23:59)",
+        [
+            "Lunetta Pizza & Restaurant",
+            700006185
+        ]
+    ],
+    [
+        "Stay at Lunetta Pizza & Restaurant",
+        "(23:50, 23:59)",
+        [
+            "Lunetta Pizza & Restaurant",
+            700006185
+        ]
+    ]
+]

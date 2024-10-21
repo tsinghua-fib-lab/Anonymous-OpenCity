@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002874
+        ]
+    ],
+    [
+        "Outdoor Exercise or Walk",
+        "(09:00, 10:01)",
+        [
+            "",
+            700003205
+        ]
+    ],
+    [
+        "Outdoor Exercise or Walk",
+        "(10:18, 11:55)",
+        [
+            "Le Boite en Bois",
+            700020925
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:30, 16:05)",
+        [
+            "",
+            700005038
+        ]
+    ],
+    [
+        "Wind Down and Relax",
+        "(15:36, 18:02)",
+        [
+            "",
+            700003205
+        ]
+    ],
+    [
+        "Continue relaxing and having dinner.",
+        "(18:57, 20:37)",
+        [
+            "Le Boite en Bois",
+            700020925
+        ]
+    ],
+    [
+        "Continue relaxing and having dinner.",
+        "(21:10, 23:12)",
+        [
+            "Le Boite en Bois",
+            700020925
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:52, 23:59)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ]
+]

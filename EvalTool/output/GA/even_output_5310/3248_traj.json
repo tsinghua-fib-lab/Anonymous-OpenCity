@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ess-a-Bagel",
+            700023332
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 16:00)",
+        [
+            "Bangkok2",
+            700025846
+        ]
+    ],
+    [
+        "Enjoy lunch at Bangkok2.",
+        "(15:23, 16:52)",
+        [
+            "Bangkok2",
+            700025846
+        ]
+    ],
+    [
+        "Enjoy lunch at Bangkok2.",
+        "(17:30, 19:08)",
+        [
+            "Bangkok2",
+            700025846
+        ]
+    ],
+    [
+        "After dinner, relax with some light music or a podcast until bedtime.",
+        "(19:31, 21:35)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:26)",
+        [
+            "Psychic Tarot",
+            700029598
+        ]
+    ]
+]

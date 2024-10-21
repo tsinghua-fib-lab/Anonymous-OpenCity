@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Coffee Pot",
+            700015896
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:51)",
+        [
+            "",
+            700002062
+        ]
+    ],
+    [
+        "Creative Work",
+        "(13:56, 16:07)",
+        [
+            "The Best Pizza",
+            700039532
+        ]
+    ],
+    [
+        "Continue your creative work at The Best Pizza.",
+        "(17:00, 18:21)",
+        [
+            "The Best Pizza",
+            700039532
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:13, 20:24)",
+        [
+            "GFG. Greek Food from Greece",
+            700015895
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:35, 23:59)",
+        [
+            "",
+            700002062
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "Bombay Grill House",
+            700014247
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700012735
+        ]
+    ],
+    [
+        "Brunch (11:30 AM)",
+        "(10:00, 11:35)",
+        [
+            "Bright Horizons",
+            700012750
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(11:53, 13:50)",
+        [
+            "Bright Horizons",
+            700012750
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:59, 18:04)",
+        [
+            "",
+            700012737
+        ]
+    ],
+    [
+        "Dinner Preparation (7:00 PM)",
+        "(18:48, 19:55)",
+        [
+            "Bright Horizons",
+            700012750
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(20:26, 22:03)",
+        [
+            "Bright Horizons",
+            700012750
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(22:03, 23:59)",
+        [
+            "Bright Horizons",
+            700012750
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(23:40, 23:59)",
+        [
+            "Bright Horizons",
+            700012750
+        ]
+    ]
+]

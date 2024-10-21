@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Avis",
+            700006365
+        ]
+    ],
+    [
+        "Wake Up and Relax",
+        "(09:00, 10:03)",
+        [
+            "Avis",
+            700006365
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:36, 12:00)",
+        [
+            "Avis",
+            700006365
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:05, 14:01)",
+        [
+            "Avis",
+            700006365
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:54, 15:51)",
+        [
+            "Avis",
+            700006365
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:19, 19:35)",
+        [
+            "Walter's Cottage",
+            700029119
+        ]
+    ],
+    [
+        "Go to Walter's Cottage and spend time relaxing.",
+        "(20:28, 22:38)",
+        [
+            "CVS Pharmacy",
+            700007100
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:36, 23:59)",
+        [
+            "SigSpace",
+            700040100
+        ]
+    ]
+]

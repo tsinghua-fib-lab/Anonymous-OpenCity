@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Duane Reade",
+            700007837
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:46)",
+        [
+            "Duane Reade",
+            700007837
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(13:52, 15:28)",
+        [
+            "Duane Reade",
+            700007837
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:14, 18:14)",
+        [
+            "Six Happiness",
+            700017843
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:45, 21:28)",
+        [
+            "",
+            700011030
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:24, 23:59)",
+        [
+            "Tacos Grand Central",
+            700006706
+        ]
+    ]
+]

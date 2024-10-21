@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dim Sum Bistro",
+            700002026
+        ]
+    ],
+    [
+        "Morning Leisure Activities",
+        "(09:00, 11:04)",
+        [
+            "Yummy BBQ Kitchen",
+            700002024
+        ]
+    ],
+    [
+        "Morning Leisure Activities",
+        "(11:58, 13:06)",
+        [
+            "Yummy BBQ Kitchen",
+            700002024
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Sports",
+        "(13:16, 14:59)",
+        [
+            "Yummy BBQ Kitchen",
+            700002024
+        ]
+    ],
+    [
+        "Catch Up with Family/Friends",
+        "(15:27, 16:56)",
+        [
+            "Yummy BBQ Kitchen",
+            700002024
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 21:11)",
+        [
+            "East West Bank",
+            700000631
+        ]
+    ],
+    [
+        "Evening Relaxation and TV",
+        "(20:30, 22:54)",
+        [
+            "Dim Sum Bistro",
+            700002026
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "Yuet Lee Seafood Restaurant",
+            700002023
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020093
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast",
+        "(10:00, 11:05)",
+        [
+            "",
+            700004376
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:05, 15:22)",
+        [
+            "",
+            700002235
+        ]
+    ],
+    [
+        "Engage in a recreational activity, like playing tennis or going to the gym.",
+        "(16:09, 17:43)",
+        [
+            "Iyengar Yoga Institute of New York",
+            700037645
+        ]
+    ],
+    [
+        "Go to engage in a recreational activity like playing tennis or going to the gym.",
+        "(18:28, 20:05)",
+        [
+            "Iyengar Yoga Institute of New York",
+            700037645
+        ]
+    ],
+    [
+        "Stay at the current place.",
+        "(20:21, 21:17)",
+        [
+            "Iyengar Yoga Institute of New York",
+            700037645
+        ]
+    ],
+    [
+        "Stay at Iyengar Yoga Institute of New York.",
+        "(22:35, 23:45)",
+        [
+            "Iyengar Yoga Institute of New York",
+            700037645
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "",
+            700002235
+        ]
+    ]
+]

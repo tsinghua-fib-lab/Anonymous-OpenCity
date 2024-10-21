@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700017199
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:41)",
+        [
+            "",
+            700018324
+        ]
+    ],
+    [
+        "Leisure Reading or Casual Walk",
+        "(11:27, 13:02)",
+        [
+            "New York Ninja Academy",
+            700027242
+        ]
+    ],
+    [
+        "Leisure Reading or Casual Walk",
+        "(13:39, 15:15)",
+        [
+            "",
+            700017199
+        ]
+    ],
+    [
+        "Leisure Reading or Casual Walk",
+        "(15:53, 17:05)",
+        [
+            "",
+            700027335
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:26, 20:07)",
+        [
+            "",
+            700027339
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(23:00, 23:59)",
+        [
+            "",
+            700027334
+        ]
+    ]
+]

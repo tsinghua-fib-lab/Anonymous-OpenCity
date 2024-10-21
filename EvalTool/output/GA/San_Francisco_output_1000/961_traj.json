@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002905
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:16)",
+        [
+            "Bar 821",
+            700004866
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:20, 15:04)",
+        [
+            "Tsunami",
+            700010749
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:59, 19:52)",
+        [
+            "Fly Bar & Restaurant",
+            700001816
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:24, 19:43)",
+        [
+            "Saffron Grill",
+            700001900
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 20:14)",
+        [
+            "San Francisco Pet Hospital",
+            700005279
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "mini bar",
+            700004892
+        ]
+    ]
+]

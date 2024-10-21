@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "McDonald's",
+            700007738
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:44)",
+        [
+            "O'Maki",
+            700022642
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:56, 17:15)",
+        [
+            "",
+            700042222
+        ]
+    ],
+    [
+        "Relaxation & Wind Down",
+        "(19:33, 20:57)",
+        [
+            "Le Clignancourt",
+            700007737
+        ]
+    ],
+    [
+        "Relaxation & Wind Down",
+        "(21:16, 22:52)",
+        [
+            "Le Clignancourt",
+            700007737
+        ]
+    ],
+    [
+        "Relaxation & Wind Down",
+        "(23:19, 23:59)",
+        [
+            "",
+            700042236
+        ]
+    ]
+]

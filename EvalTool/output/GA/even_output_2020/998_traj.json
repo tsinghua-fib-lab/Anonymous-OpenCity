@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008858
+        ]
+    ],
+    [
+        "Outdoor Walk/Exercise",
+        "(10:00, 10:50)",
+        [
+            "",
+            700008858
+        ]
+    ],
+    [
+        "Continue with Outdoor Walk/Exercise",
+        "(11:25, 13:05)",
+        [
+            "",
+            700008858
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:59, 13:51)",
+        [
+            "",
+            700008858
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:22, 15:51)",
+        [
+            "Teo Restaurant & Bar",
+            700000450
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:40, 22:28)",
+        [
+            "American Burgers & BBQ",
+            700007207
+        ]
+    ],
+    [
+        "Socializing/Connecting with Friends",
+        "(19:18, 20:51)",
+        [
+            "American Burgers & BBQ",
+            700007207
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(21:32, 22:53)",
+        [
+            "American Burgers & BBQ",
+            700007207
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(23:20, 23:59)",
+        [
+            "The Hibernia",
+            700013880
+        ]
+    ]
+]

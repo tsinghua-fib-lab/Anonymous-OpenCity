@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pharmacie 45 Faubourg Saint-Denis",
+            700018172
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:01)",
+        [
+            "Le Syndicat",
+            700026796
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(12:45, 13:58)",
+        [
+            "Tandoori Time",
+            700037800
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 18:04)",
+        [
+            "Tandoori Time",
+            700037800
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 22:45)",
+        [
+            "",
+            700012732
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Centre du cadran solaire formé par l'Obélisque de la Concorde",
+            700072996
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:37)",
+        [
+            "Concorde",
+            700003139
+        ]
+    ],
+    [
+        "Next activity is Relaxation/Free Time",
+        "(15:00, 16:57)",
+        [
+            "",
+            700066163
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:49, 21:56)",
+        [
+            "Toilettes des Tuileries",
+            700004701
+        ]
+    ],
+    [
+        "Wind Down with Entertainment",
+        "(20:21, 21:56)",
+        [
+            "Toilettes des Tuileries",
+            700004701
+        ]
+    ],
+    [
+        "Relaxation/Free Time",
+        "(22:49, 23:59)",
+        [
+            "Rosa Bonheur",
+            700066383
+        ]
+    ]
+]

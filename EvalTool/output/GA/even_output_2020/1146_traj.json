@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Zipcar",
+            700007986
+        ]
+    ],
+    [
+        "Go for a morning walk",
+        "(10:00, 10:56)",
+        [
+            "",
+            700000782
+        ]
+    ],
+    [
+        "Catch up on household chores",
+        "(11:33, 12:59)",
+        [
+            "Cheese Steak Shop",
+            700005280
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(13:51, 14:58)",
+        [
+            "Zipcar",
+            700007986
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:24, 17:11)",
+        [
+            "",
+            700001936
+        ]
+    ],
+    [
+        "Next arrangement to grab evening coffee.",
+        "(21:17, 22:47)",
+        [
+            "Zazang Korean Noodles",
+            700007979
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "",
+            700000597
+        ]
+    ]
+]

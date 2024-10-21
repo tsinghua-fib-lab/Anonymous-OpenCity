@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Park Lea Court",
+            700008370
+        ]
+    ],
+    [
+        "Watch TV or Movies",
+        "(10:00, 12:04)",
+        [
+            "Park Lea Court",
+            700008370
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:38, 16:13)",
+        [
+            "",
+            700064633
+        ]
+    ],
+    [
+        "Wind Down with Evening Entertainment",
+        "(17:41, 19:47)",
+        [
+            "",
+            700008371
+        ]
+    ],
+    [
+        "Wind Down with Evening Entertainment",
+        "(19:54, 22:09)",
+        [
+            "Park Lea Court",
+            700008370
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "",
+            700001648
+        ]
+    ]
+]

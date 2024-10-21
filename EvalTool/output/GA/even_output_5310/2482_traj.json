@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013859
+        ]
+    ],
+    [
+        "Next activity in the daily plan",
+        "(10:00, 11:59)",
+        [
+            "Chabad of Midtown Manhattan",
+            700012001
+        ]
+    ],
+    [
+        "Go for a relaxing walk or hike in a nearby park or nature reserve.",
+        "(12:02, 14:07)",
+        [
+            "",
+            700019179
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:00, 19:28)",
+        [
+            "",
+            700017120
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 21:50)",
+        [
+            "Chase",
+            700003540
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:08, 23:57)",
+        [
+            "Starbucks",
+            700016185
+        ]
+    ]
+]

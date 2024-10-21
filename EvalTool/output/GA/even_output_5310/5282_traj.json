@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CVS Pharmacy",
+            700006136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:38)",
+        [
+            "Xi'an Famous Foods",
+            700007295
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:18, 16:34)",
+        [
+            "Pierre Loti",
+            700009377
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:37, 19:48)",
+        [
+            "",
+            700003840
+        ]
+    ],
+    [
+        "Next activity after 6:30 PM.",
+        "(19:12, 20:51)",
+        [
+            "Pierre Loti",
+            700009377
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:30, 22:56)",
+        [
+            "",
+            700020062
+        ]
+    ],
+    [
+        "Stay at current place.",
+        "(23:50, 23:59)",
+        [
+            "CVS Pharmacy",
+            700006136
+        ]
+    ]
+]

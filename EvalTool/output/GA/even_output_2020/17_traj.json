@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "La Connessa",
+            700013782
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(10:00, 10:55)",
+        [
+            "La Connessa",
+            700013782
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:35, 13:57)",
+        [
+            "Potrero Hill Montessori",
+            700013186
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 21:09)",
+        [
+            "Steep Brew",
+            700005900
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:13, 23:05)",
+        [
+            "Live Sushi Bar",
+            700005901
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "",
+            700013184
+        ]
+    ]
+]

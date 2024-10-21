@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Noodies Thai Kitchen",
+            700017503
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:30)",
+        [
+            "El Centro",
+            700006320
+        ]
+    ],
+    [
+        "Stay at El Centro for lunch.",
+        "(12:18, 13:29)",
+        [
+            "El Centro",
+            700006320
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:00, 19:21)",
+        [
+            "Kashkaval Garden",
+            700017504
+        ]
+    ],
+    [
+        "Stay at El Centro.",
+        "(21:15, 23:09)",
+        [
+            "Kashkaval Garden",
+            700017504
+        ]
+    ],
+    [
+        "Stay at El Centro.",
+        "(23:10, 23:59)",
+        [
+            "El Centro",
+            700006320
+        ]
+    ]
+]

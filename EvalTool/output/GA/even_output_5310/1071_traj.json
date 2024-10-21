@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "East Side Glatt",
+            700019775
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 16:04)",
+        [
+            "",
+            700031274
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(11:20, 13:49)",
+        [
+            "",
+            700031268
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(13:51, 15:50)",
+        [
+            "East Side Glatt",
+            700019775
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(16:07, 17:31)",
+        [
+            "Wing Hing",
+            700003819
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:16, 19:47)",
+        [
+            "East Side Glatt",
+            700019775
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:56, 22:10)",
+        [
+            "",
+            700031271
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700000774
+        ]
+    ]
+]

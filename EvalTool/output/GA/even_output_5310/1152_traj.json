@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - West 67th Street & Broadway",
+            700018114
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:39)",
+        [
+            "Citi Bike - West 67th Street & Broadway",
+            700018114
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(12:32, 14:11)",
+        [
+            "Citi Bike - West 67th Street & Broadway",
+            700018114
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:55, 16:00)",
+        [
+            "Citi Bike - West 67th Street & Broadway",
+            700018114
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(16:28, 17:59)",
+        [
+            "Citi Bike - West 67th Street & Broadway",
+            700018114
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 19:31)",
+        [
+            "Equinox",
+            700003705
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(20:05, 21:30)",
+        [
+            "",
+            700002874
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(22:21, 23:36)",
+        [
+            "Equinox",
+            700003705
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(23:36, 23:59)",
+        [
+            "Sweetgreen",
+            700020927
+        ]
+    ]
+]

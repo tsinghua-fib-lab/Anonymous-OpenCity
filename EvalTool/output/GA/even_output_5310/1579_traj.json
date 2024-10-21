@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike",
+            700021663
+        ]
+    ],
+    [
+        "Leisure Activity / Hobbies",
+        "(10:00, 11:23)",
+        [
+            "Citi Bike",
+            700021663
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 13:59)",
+        [
+            "Babu S. Bangaru, MD",
+            700017234
+        ]
+    ],
+    [
+        "Dinner Preparation and Relaxation",
+        "(18:12, 19:59)",
+        [
+            "CityMD",
+            700013542
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:33, 22:27)",
+        [
+            "",
+            700011103
+        ]
+    ],
+    [
+        "Leisure Activity / Hobbies",
+        "(22:44, 23:59)",
+        [
+            "Ahimsa",
+            700015963
+        ]
+    ]
+]

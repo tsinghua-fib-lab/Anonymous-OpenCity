@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Cranberry Cafe",
+            700009393
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:48)",
+        [
+            "6th Avenue Shopping Court",
+            700014940
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:20, 16:59)",
+        [
+            "6th Avenue Shopping Court",
+            700014940
+        ]
+    ],
+    [
+        "Social Time at 6th Avenue Shopping Court",
+        "(16:42, 18:12)",
+        [
+            "6th Avenue Shopping Court",
+            700014940
+        ]
+    ],
+    [
+        "Social Time at 6th Avenue Shopping Court",
+        "(18:25, 20:11)",
+        [
+            "6th Avenue Shopping Court",
+            700014940
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:12, 23:59)",
+        [
+            "USPS",
+            700011438
+        ]
+    ]
+]

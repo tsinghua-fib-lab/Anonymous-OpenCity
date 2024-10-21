@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:24)",
+        [
+            "",
+            700059873
+        ]
+    ],
+    [
+        "Try out a new hobby or work on a personal project",
+        "(16:14, 18:02)",
+        [
+            "",
+            700059884
+        ]
+    ],
+    [
+        "Prepare and enjoy dinner, possibly trying out a new recipe.",
+        "(18:57, 20:48)",
+        [
+            "",
+            700059884
+        ]
+    ],
+    [
+        "Watch sports or entertainment shows",
+        "(21:39, 22:56)",
+        [
+            "Recycling Bins",
+            700014848
+        ]
+    ],
+    [
+        "Stay at Recycling Bins.",
+        "(23:47, 23:59)",
+        [
+            "Recycling Bins",
+            700014848
+        ]
+    ]
+]

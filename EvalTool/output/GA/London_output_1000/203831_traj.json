@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:40)",
+        [
+            "Burger King",
+            700004086
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:33, 17:01)",
+        [
+            "Sushi Hiroba",
+            700004087
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:31, 21:40)",
+        [
+            "",
+            700023876
+        ]
+    ],
+    [
+        "Spend time watching a movie or binge-watching a series at People's Choice Cafe.",
+        "(21:05, 22:43)",
+        [
+            "Bill's",
+            700031516
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "Guido's",
+            700004088
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700023147
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:01)",
+        [
+            "",
+            700026312
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:54, 13:26)",
+        [
+            "Bank of America",
+            700009090
+        ]
+    ],
+    [
+        "Stay at Unknown Place",
+        "(14:30, 15:51)",
+        [
+            "",
+            700023147
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(17:27, 18:57)",
+        [
+            "",
+            700026312
+        ]
+    ],
+    [
+        "Stay at Unknown Place",
+        "(19:29, 21:00)",
+        [
+            "Bank of America",
+            700009090
+        ]
+    ],
+    [
+        "Stay at Unknown Place",
+        "(21:24, 22:25)",
+        [
+            "Bank of America",
+            700009090
+        ]
+    ],
+    [
+        "Stay at Unknown Place",
+        "(22:54, 23:59)",
+        [
+            "Bank of America",
+            700009090
+        ]
+    ]
+]

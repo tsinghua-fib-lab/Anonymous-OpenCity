@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001432
+        ]
+    ],
+    [
+        "Go for a workout or engage in a sport",
+        "(10:00, 11:33)",
+        [
+            "",
+            700002902
+        ]
+    ],
+    [
+        "Go for a workout or engage in a sport.",
+        "(11:46, 13:10)",
+        [
+            "El Rancho Grande",
+            700001901
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:50, 17:46)",
+        [
+            "Petite Explorer",
+            700004893
+        ]
+    ],
+    [
+        "Wind down the evening with a book or listening to music.",
+        "(19:20, 20:58)",
+        [
+            "Petite Explorer",
+            700004893
+        ]
+    ],
+    [
+        "Wind down the evening with a book or listening to music.",
+        "(21:41, 22:50)",
+        [
+            "",
+            700001432
+        ]
+    ],
+    [
+        "Stay at home and wind down the evening with a book or listening to music.",
+        "(23:36, 23:59)",
+        [
+            "",
+            700001432
+        ]
+    ]
+]

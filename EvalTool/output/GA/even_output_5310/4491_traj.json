@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700024190
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:45)",
+        [
+            "La Cabra",
+            700038286
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 16:48)",
+        [
+            "",
+            700024188
+        ]
+    ],
+    [
+        "Watch movie and relax",
+        "(21:05, 23:03)",
+        [
+            "La Cabra",
+            700038286
+        ]
+    ],
+    [
+        "Find somewhere to enjoy the evening.",
+        "(23:34, 23:59)",
+        [
+            "La Cabra",
+            700038286
+        ]
+    ]
+]

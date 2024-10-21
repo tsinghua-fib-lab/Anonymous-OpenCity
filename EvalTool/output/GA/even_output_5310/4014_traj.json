@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "I Sodi",
+            700010852
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:40)",
+        [
+            "Sushi Counter",
+            700040731
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 13:20)",
+        [
+            "",
+            700001763
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:50, 19:03)",
+        [
+            "Sushi Counter",
+            700040731
+        ]
+    ],
+    [
+        "Next activity after dinner.",
+        "(19:21, 20:58)",
+        [
+            "Blackstone Coffee Roaster",
+            700023338
+        ]
+    ],
+    [
+        "Go to Blackstone Coffee Roaster.",
+        "(21:53, 23:08)",
+        [
+            "Blackstone Coffee Roaster",
+            700023338
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "Northfork",
+            700020677
+        ]
+    ]
+]

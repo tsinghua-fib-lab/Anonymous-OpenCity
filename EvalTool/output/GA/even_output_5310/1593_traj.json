@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Royal 35 Steakhouse",
+            700011098
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:16)",
+        [
+            "",
+            700017142
+        ]
+    ],
+    [
+        "brunch with friends",
+        "(12:38, 14:05)",
+        [
+            "Chipotle",
+            700003304
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 20:25)",
+        [
+            "Medical Ear Piercing Clinics",
+            700010838
+        ]
+    ],
+    [
+        "Relaxation/Reading Time",
+        "(18:44, 19:53)",
+        [
+            "Medical Ear Piercing Clinics",
+            700010838
+        ]
+    ],
+    [
+        "Relaxation/Reading Time",
+        "(20:44, 22:22)",
+        [
+            "Medical Ear Piercing Clinics",
+            700010838
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(22:48, 23:59)",
+        [
+            "Bonchon Chicken",
+            700004007
+        ]
+    ]
+]

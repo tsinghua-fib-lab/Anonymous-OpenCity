@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001434
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park",
+        "(10:00, 11:00)",
+        [
+            "",
+            700001434
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:50, 14:45)",
+        [
+            "",
+            700002902
+        ]
+    ],
+    [
+        "Stay at Custom Fit",
+        "(13:53, 15:05)",
+        [
+            "Petite Explorer",
+            700004893
+        ]
+    ],
+    [
+        "Currently at: Petite Explorer, stay time.",
+        "(15:53, 16:54)",
+        [
+            "mini bar",
+            700004892
+        ]
+    ],
+    [
+        "Currently at: mini bar, stay time.",
+        "(18:06, 19:58)",
+        [
+            "mini bar",
+            700004892
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:46, 23:59)",
+        [
+            "Eddie's Cafe",
+            700001867
+        ]
+    ]
+]

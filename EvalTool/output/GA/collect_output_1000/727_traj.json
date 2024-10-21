@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030404
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:55)",
+        [
+            "Chinese United Methodist Church",
+            700040350
+        ]
+    ],
+    [
+        "Personal Projects/Reading",
+        "(10:57, 13:03)",
+        [
+            "Chinese United Methodist Church",
+            700040350
+        ]
+    ],
+    [
+        "Continue Personal Projects/Reading",
+        "(12:24, 14:05)",
+        [
+            "Chinese United Methodist Church",
+            700040350
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(14:42, 16:57)",
+        [
+            "Chinese United Methodist Church",
+            700040350
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:50, 21:35)",
+        [
+            "",
+            700037403
+        ]
+    ],
+    [
+        "Go to your Working Place.",
+        "(23:00, 23:59)",
+        [
+            "Chinese United Methodist Church",
+            700040350
+        ]
+    ]
+]

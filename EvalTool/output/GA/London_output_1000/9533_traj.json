@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Next activity based on the current plan.",
+        "(10:00, 11:50)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:37, 15:46)",
+        [
+            "Pitt Cue",
+            700025948
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 17:56)",
+        [
+            "",
+            700027174
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series on streaming platforms for some entertainment.",
+        "(18:57, 20:11)",
+        [
+            "Pitt Cue",
+            700025948
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:32, 22:19)",
+        [
+            "",
+            700020479
+        ]
+    ]
+]

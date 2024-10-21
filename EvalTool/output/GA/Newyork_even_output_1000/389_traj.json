@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700017024
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:59)",
+        [
+            "Boar's Head Cafe",
+            700023485
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:31, 14:52)",
+        [
+            "Ajisai",
+            700014697
+        ]
+    ],
+    [
+        "Lunch",
+        "(15:34, 17:55)",
+        [
+            "",
+            700020106
+        ]
+    ],
+    [
+        "Call/Visit Friends or Family",
+        "(17:51, 19:31)",
+        [
+            "",
+            700020106
+        ]
+    ],
+    [
+        "Call/Visit Friends or Family",
+        "(20:05, 21:12)",
+        [
+            "",
+            700017024
+        ]
+    ],
+    [
+        "Call/Visit Friends or Family",
+        "(21:30, 22:53)",
+        [
+            "Chase",
+            700016440
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "Pick a Bagel",
+            700014702
+        ]
+    ]
+]

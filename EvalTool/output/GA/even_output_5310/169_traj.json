@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000843
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(09:00, 10:05)",
+        [
+            "Weill Cornell Medical College",
+            700000029
+        ]
+    ],
+    [
+        "Catch up on chores and errands",
+        "(10:13, 11:40)",
+        [
+            "Weill Cornell Medical College",
+            700000029
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:46, 13:01)",
+        [
+            "",
+            700035722
+        ]
+    ],
+    [
+        "Catch up on chores and errands",
+        "(16:01, 18:09)",
+        [
+            "Weill Cornell Medical College",
+            700000029
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 23:59)",
+        [
+            "New York Presbyterian Alexandra Cohen Hospital for Women and Newborns",
+            700041298
+        ]
+    ]
+]

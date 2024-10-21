@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Puffy’s Tavern",
+            700020660
+        ]
+    ],
+    [
+        "Leisure Time/Reading",
+        "(10:00, 11:33)",
+        [
+            "Puffy’s Tavern",
+            700020660
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:05, 13:31)",
+        [
+            "Puffy’s Tavern",
+            700020660
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:54, 15:34)",
+        [
+            "Citi Bike - Harrison St & Hudson St",
+            700008095
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:21, 19:31)",
+        [
+            "Zona Tribeca",
+            700018642
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:11, 23:59)",
+        [
+            "Terrior",
+            700034567
+        ]
+    ]
+]

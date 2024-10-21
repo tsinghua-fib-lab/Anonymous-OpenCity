@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002533
+        ]
+    ],
+    [
+        "Leisure Activity/Exercise",
+        "(10:00, 11:39)",
+        [
+            "Yakinku West",
+            700031100
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 17:15)",
+        [
+            "Budget",
+            700031097
+        ]
+    ],
+    [
+        "Socialize",
+        "(16:42, 18:09)",
+        [
+            "T-Swirl Crepe",
+            700029403
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 23:09)",
+        [
+            "Kenka",
+            700023163
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:51, 23:59)",
+        [
+            "The Bao",
+            700011498
+        ]
+    ],
+    [
+        "Next, stay at The Bao.",
+        "(23:36, 23:59)",
+        [
+            "The Bao",
+            700011498
+        ]
+    ]
+]

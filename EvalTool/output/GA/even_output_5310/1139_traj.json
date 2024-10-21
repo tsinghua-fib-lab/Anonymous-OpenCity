@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Horn's Hook Tavern",
+            700006575
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:45)",
+        [
+            "Horn's Hook Tavern",
+            700006575
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:13, 20:52)",
+        [
+            "Botte UES",
+            700027029
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(17:08, 18:37)",
+        [
+            "Botte UES",
+            700027029
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(19:25, 22:06)",
+        [
+            "Botte UES",
+            700027029
+        ]
+    ],
+    [
+        "Enjoy at Botte UES, dining option",
+        "(22:29, 23:59)",
+        [
+            "Botte UES",
+            700027029
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(23:55, 23:59)",
+        [
+            "Botte UES",
+            700027029
+        ]
+    ]
+]

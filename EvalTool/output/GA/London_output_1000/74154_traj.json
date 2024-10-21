@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:19)",
+        [
+            "",
+            700011091
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:33, 20:24)",
+        [
+            "",
+            700014754
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:31, 20:27)",
+        [
+            "",
+            700054525
+        ]
+    ],
+    [
+        "Spend time watching a movie or binge-watching a series at Original Bagel Bakery.",
+        "(21:05, 22:34)",
+        [
+            "Gezellig",
+            700011877
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "",
+            700011095
+        ]
+    ]
+]

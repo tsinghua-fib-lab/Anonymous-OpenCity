@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - FDR Drive & East 35th Street",
+            700008065
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:01)",
+        [
+            "Ludlow Flea Market",
+            700026291
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(10:12, 12:22)",
+        [
+            "Ludlow Flea Market",
+            700026291
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(12:23, 13:50)",
+        [
+            "Ludlow Flea Market",
+            700026291
+        ]
+    ],
+    [
+        "Afternoon Movie or Series Binge",
+        "(14:01, 17:00)",
+        [
+            "Ludlow Flea Market",
+            700026291
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:53, 20:55)",
+        [
+            "99¢ Fresh Slice",
+            700012111
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(20:44, 22:15)",
+        [
+            "Ludlow Coffee Supply",
+            700012261
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:36, 23:47)",
+        [
+            "Mr Purple",
+            700009205
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Regent's Park Estate",
+            700006201
+        ]
+    ],
+    [
+        "Start breakfast at Regent's Park Estate.",
+        "(10:00, 10:53)",
+        [
+            "",
+            700075375
+        ]
+    ],
+    [
+        "Start Leisure Activity",
+        "(11:48, 13:00)",
+        [
+            "",
+            700072708
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:21, 14:38)",
+        [
+            "Regent's Park Estate",
+            700006201
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:01, 16:53)",
+        [
+            "",
+            700075375
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:04, 18:55)",
+        [
+            "",
+            700075376
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 23:59)",
+        [
+            "",
+            700075345
+        ]
+    ]
+]

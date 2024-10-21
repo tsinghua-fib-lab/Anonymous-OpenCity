@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700024247
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:32)",
+        [
+            "Gotham Archery",
+            700015005
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:56, 16:41)",
+        [
+            "",
+            700024248
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby",
+        "(14:24, 15:50)",
+        [
+            "Gotham Archery",
+            700015005
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:27, 19:39)",
+        [
+            "",
+            700024248
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:59)",
+        [
+            "Cafe Katja",
+            700007393
+        ]
+    ],
+    [
+        "Visit Cafe Katja.",
+        "(23:12, 23:59)",
+        [
+            "Cafe Katja",
+            700007393
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Panera Bread",
+            700009873
+        ]
+    ],
+    [
+        "next_activity",
+        "(09:00, 10:10)",
+        [
+            "Starbucks",
+            700009874
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:52, 11:58)",
+        [
+            "Starbucks",
+            700009874
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:44, 14:55)",
+        [
+            "Panera Bread",
+            700009873
+        ]
+    ],
+    [
+        "Stay and pursue hobbies/projects.",
+        "(17:14, 19:00)",
+        [
+            "Starbucks",
+            700009874
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 22:53)",
+        [
+            "Mount Sinai Urgent Care Center",
+            700013560
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:54, 23:59)",
+        [
+            "",
+            700017780
+        ]
+    ]
+]

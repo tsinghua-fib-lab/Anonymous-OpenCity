@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:07)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:35, 14:07)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 17:42)",
+        [
+            "Bury Place",
+            700014755
+        ]
+    ],
+    [
+        "Personal Projects/Errands",
+        "(16:01, 17:50)",
+        [
+            "Bury Place",
+            700014755
+        ]
+    ],
+    [
+        "Family Time",
+        "(18:41, 20:17)",
+        [
+            "",
+            700011797
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:54, 22:32)",
+        [
+            "Happy Lamb Hot Pot",
+            700038811
+        ]
+    ]
+]

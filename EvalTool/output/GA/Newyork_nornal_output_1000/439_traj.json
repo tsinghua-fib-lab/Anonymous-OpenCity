@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Fields Good Chicken",
+            700013671
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:53)",
+        [
+            "Citi Bike - Maiden Ln & Pearl St",
+            700007813
+        ]
+    ],
+    [
+        "Sports/Exercise",
+        "(11:31, 13:01)",
+        [
+            "Citi Bike - Maiden Ln & Pearl St",
+            700007813
+        ]
+    ],
+    [
+        "Entertainment",
+        "(13:51, 15:01)",
+        [
+            "Citi Bike - Maiden Ln & Pearl St",
+            700007813
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 20:05)",
+        [
+            "Just Salad",
+            700004053
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:02, 23:59)",
+        [
+            "",
+            700034964
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018231
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(10:00, 10:55)",
+        [
+            "Red Poke",
+            700019884
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 14:52)",
+        [
+            "",
+            700018230
+        ]
+    ],
+    [
+        "Stay at Bibble & Sip",
+        "(17:22, 19:09)",
+        [
+            "Citi Bike - 8th Avenue & West 52nd Street",
+            700007943
+        ]
+    ],
+    [
+        "Wind down with relaxation time",
+        "(19:45, 21:05)",
+        [
+            "Russian Vodka Room",
+            700006505
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:54, 23:03)",
+        [
+            "Bank of America",
+            700007270
+        ]
+    ]
+]

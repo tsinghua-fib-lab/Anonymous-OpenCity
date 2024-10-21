@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - West 20th Street & 8th Avenue",
+            700008206
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:59)",
+        [
+            "Citi Bike - West 20th Street & 8th Avenue",
+            700008206
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:23, 14:07)",
+        [
+            "Citi Bike - West 20th Street & 8th Avenue",
+            700008206
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:12, 19:44)",
+        [
+            "Dish Restaurant",
+            700018521
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:30, 18:48)",
+        [
+            "Willow",
+            700024811
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 23:59)",
+        [
+            "",
+            700031459
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:52, 23:04)",
+        [
+            "Middle School 260",
+            700000289
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "Willow",
+            700024811
+        ]
+    ]
+]

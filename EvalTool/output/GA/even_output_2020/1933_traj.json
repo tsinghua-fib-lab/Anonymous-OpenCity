@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "UCSF dental school clinic",
+            700001272
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park",
+        "(10:00, 10:59)",
+        [
+            "Sushi Delight",
+            700001946
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:50, 15:04)",
+        [
+            "Carbon Health",
+            700005447
+        ]
+    ],
+    [
+        "Go to Bob Ross LGBT Senior Center",
+        "(13:53, 15:04)",
+        [
+            "Carbon Health",
+            700005447
+        ]
+    ],
+    [
+        "Next place: Lunch at Bank of America.",
+        "(15:53, 17:05)",
+        [
+            "",
+            700008334
+        ]
+    ],
+    [
+        "Currently at: Sushi Delight, stay time.",
+        "(18:06, 20:07)",
+        [
+            "",
+            700002584
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:46, 23:59)",
+        [
+            "Starbucks",
+            700009200
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Grand Kosher Cafe",
+            700019773
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:10)",
+        [
+            "",
+            700031271
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(11:20, 12:41)",
+        [
+            "",
+            700031269
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(13:51, 15:21)",
+        [
+            "Grand Kosher Cafe",
+            700019773
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(16:07, 18:11)",
+        [
+            "Grand Kosher Cafe",
+            700019773
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:16, 19:39)",
+        [
+            "Grand Kosher Cafe",
+            700019773
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:56, 21:49)",
+        [
+            "People's Choice Pharmacy",
+            700003818
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700002302
+        ]
+    ]
+]

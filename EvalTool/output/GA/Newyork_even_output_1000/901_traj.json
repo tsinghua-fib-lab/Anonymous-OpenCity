@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000863
+        ]
+    ],
+    [
+        "next activity based on plan",
+        "(10:00, 11:08)",
+        [
+            "Dante",
+            700010950
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(11:15, 12:54)",
+        [
+            "",
+            700000863
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:01, 17:17)",
+        [
+            "",
+            700001960
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(14:37, 16:31)",
+        [
+            "Dante",
+            700010950
+        ]
+    ],
+    [
+        "Prepare and have lunch.",
+        "(16:36, 18:10)",
+        [
+            "Dante",
+            700010950
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 20:15)",
+        [
+            "Mermaid Oyster Bar",
+            700004934
+        ]
+    ],
+    [
+        "Go to CVS Pharmacy; Prepare and have dinner.",
+        "(23:39, 23:59)",
+        [
+            "Chloe",
+            700008571
+        ]
+    ]
+]

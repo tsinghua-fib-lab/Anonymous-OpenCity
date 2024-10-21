@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700006036
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(09:00, 10:37)",
+        [
+            "Citi Bike - 1st Avenue & East 62nd Street",
+            700021683
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:16, 12:52)",
+        [
+            "Citi Bike - 1st Avenue & East 62nd Street",
+            700021683
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 14:53)",
+        [
+            "John & Tony's Pizzeria",
+            700011535
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:52, 16:52)",
+        [
+            "",
+            700001444
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:00, 17:56)",
+        [
+            "",
+            700006036
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 23:12)",
+        [
+            "Moti Mahal Delux",
+            700006522
+        ]
+    ],
+    [
+        "Evening Wind-down",
+        "(23:30, 23:59)",
+        [
+            "Moti Mahal Delux",
+            700006522
+        ]
+    ]
+]

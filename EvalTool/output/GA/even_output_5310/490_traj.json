@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chase",
+            700003478
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:54)",
+        [
+            "Chase",
+            700003478
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 20:05)",
+        [
+            "Cafe Metro",
+            700003475
+        ]
+    ],
+    [
+        "Stay at Gracie Mews Restaurant",
+        "(17:32, 18:58)",
+        [
+            "Chase",
+            700003478
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(20:05, 22:03)",
+        [
+            "Chase",
+            700003478
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(22:33, 23:59)",
+        [
+            "Chase",
+            700003478
+        ]
+    ]
+]

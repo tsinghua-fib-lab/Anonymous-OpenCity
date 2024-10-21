@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700004393
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 09:52)",
+        [
+            "Buddy",
+            700010705
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(14:19, 15:46)",
+        [
+            "Buddy",
+            700010705
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(16:47, 18:17)",
+        [
+            "Buddy",
+            700010705
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(18:10, 20:01)",
+        [
+            "George Moscone Elementary",
+            700000176
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(20:01, 21:52)",
+        [
+            "Bank of America",
+            700004876
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:52, 23:11)",
+        [
+            "Walgreens",
+            700001294
+        ]
+    ]
+]

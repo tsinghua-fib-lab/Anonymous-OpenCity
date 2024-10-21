@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ernesto's",
+            700019776
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:16)",
+        [
+            "",
+            700022957
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:09, 16:07)",
+        [
+            "",
+            700031277
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:52, 22:07)",
+        [
+            "CVS Pharmacy",
+            700003821
+        ]
+    ],
+    [
+        "Spend Time with Family or Friends",
+        "(21:49, 23:39)",
+        [
+            "CVS Pharmacy",
+            700003821
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "",
+            700031273
+        ]
+    ]
+]

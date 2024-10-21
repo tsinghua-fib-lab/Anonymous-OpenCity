@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Swensen's Ice Cream",
+            700001593
+        ]
+    ],
+    [
+        "Have lunch at a favorite local restaurant or try a new cafe.",
+        "(10:00, 11:28)",
+        [
+            "Elephant Sushi",
+            700003305
+        ]
+    ],
+    [
+        "Have lunch at a favorite local restaurant or try a new cafe.",
+        "(12:11, 14:04)",
+        [
+            "Elephant Sushi",
+            700003305
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:07, 20:02)",
+        [
+            "",
+            700008260
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:02, 23:59)",
+        [
+            "",
+            700003762
+        ]
+    ]
+]

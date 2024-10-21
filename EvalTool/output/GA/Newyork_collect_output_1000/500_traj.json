@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:55)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:09, 12:51)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:13, 13:59)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "Social Time or Outdoor Activity",
+        "(14:30, 17:00)",
+        [
+            "",
+            700022515
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:47, 23:31)",
+        [
+            "",
+            700017443
+        ]
+    ],
+    [
+        "Stay in Current Place",
+        "(23:11, 23:59)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ]
+]

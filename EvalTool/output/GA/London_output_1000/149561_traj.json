@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Next activity based on the current plan.",
+        "(10:00, 11:52)",
+        [
+            "",
+            700063392
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:37, 15:59)",
+        [
+            "",
+            700063392
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 18:04)",
+        [
+            "",
+            700014756
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series on streaming platforms for some entertainment.",
+        "(18:57, 20:07)",
+        [
+            "",
+            700002414
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:32, 23:59)",
+        [
+            "",
+            700011101
+        ]
+    ]
+]

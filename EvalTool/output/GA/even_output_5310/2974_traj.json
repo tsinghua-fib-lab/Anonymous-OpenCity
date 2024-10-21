@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Brick",
+            700009575
+        ]
+    ],
+    [
+        "Engage in a morning workout or leisurely walk",
+        "(09:00, 10:10)",
+        [
+            "Brick",
+            700009575
+        ]
+    ],
+    [
+        "current place: Brick; stay time:",
+        "(10:07, 11:28)",
+        [
+            "Citi Bike - Suffolk Street & Stanton Street",
+            700008189
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 16:36)",
+        [
+            "Caveat",
+            700013366
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 21:40)",
+        [
+            "Ariel's Latin Bistro",
+            700009573
+        ]
+    ],
+    [
+        "Stay at current place: Brick.",
+        "(20:15, 22:43)",
+        [
+            "Ariel's Latin Bistro",
+            700009573
+        ]
+    ],
+    [
+        "Stay at Brick.",
+        "(21:49, 23:21)",
+        [
+            "Caveat",
+            700013366
+        ]
+    ]
+]

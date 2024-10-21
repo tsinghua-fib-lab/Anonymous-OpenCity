@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Alamo Square Cafe",
+            700003053
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:36)",
+        [
+            "",
+            700011071
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(12:16, 13:54)",
+        [
+            "Alamo Square Cafe",
+            700003053
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:30, 19:32)",
+        [
+            "Greater Jerusalem Baptist Church",
+            700000252
+        ]
+    ],
+    [
+        "Go to Greater Jerusalem Baptist Church.",
+        "(17:11, 19:01)",
+        [
+            "Greater Jerusalem Baptist Church",
+            700000252
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:25, 23:59)",
+        [
+            "Bay Wheels",
+            700005742
+        ]
+    ]
+]

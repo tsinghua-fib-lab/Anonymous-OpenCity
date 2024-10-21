@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Manhattan Mailroom",
+            700006574
+        ]
+    ],
+    [
+        "Next activity according to the Sunday Plan",
+        "(09:00, 10:09)",
+        [
+            "Manhattan Mailroom",
+            700006574
+        ]
+    ],
+    [
+        "Engage in outdoor activities like playing sports with friends or visiting a local community event.",
+        "(10:12, 12:10)",
+        [
+            "Gracie Mews Restaurant",
+            700013556
+        ]
+    ],
+    [
+        "Engage in outdoor activities like playing sports with friends or visiting a local community event.",
+        "(11:44, 13:20)",
+        [
+            "Gracie Mews Restaurant",
+            700013556
+        ]
+    ],
+    [
+        "Prepare and enjoy a homemade lunch.",
+        "(13:48, 14:55)",
+        [
+            "Gracie Mews Restaurant",
+            700013556
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a favorite TV series for some entertainment.",
+        "(15:59, 17:25)",
+        [
+            "Saint Stephen of Hungary Church",
+            700000277
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:07, 18:59)",
+        [
+            "Coffee Shop",
+            700041023
+        ]
+    ],
+    [
+        "Prepare and enjoy a homemade dinner.",
+        "(21:45, 23:20)",
+        [
+            "Saint Stephen of Hungary School",
+            700000297
+        ]
+    ],
+    [
+        "Engage in outdoor activities like playing sports with friends or visiting a local community event.",
+        "(23:20, 23:59)",
+        [
+            "Saint Stephen of Hungary School",
+            700000297
+        ]
+    ]
+]

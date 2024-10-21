@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700003466
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:02)",
+        [
+            "Subway",
+            700008316
+        ]
+    ],
+    [
+        "Stay at Subway until 1:00 PM.",
+        "(11:28, 13:10)",
+        [
+            "Subway",
+            700008316
+        ]
+    ],
+    [
+        "Decide to stay at Subway until 1 PM.",
+        "(13:19, 14:59)",
+        [
+            "Subway",
+            700008316
+        ]
+    ],
+    [
+        "Stay at Subway until 1 PM.",
+        "(15:46, 17:55)",
+        [
+            "Subway",
+            700008316
+        ]
+    ],
+    [
+        "Continue to hobby time.",
+        "(18:27, 19:58)",
+        [
+            "Subway",
+            700008316
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 23:59)",
+        [
+            "Sushi Damo",
+            700003462
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "Bluebird London NYC",
+            700027375
+        ]
+    ]
+]

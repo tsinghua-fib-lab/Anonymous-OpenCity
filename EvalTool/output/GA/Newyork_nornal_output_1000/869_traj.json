@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700036479
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:30)",
+        [
+            "",
+            700036464
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(14:42, 16:07)",
+        [
+            "First Avenue Veterinary Hospital",
+            700006196
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(16:25, 17:56)",
+        [
+            "First Avenue Veterinary Hospital",
+            700006196
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(18:50, 19:57)",
+        [
+            "",
+            700036479
+        ]
+    ],
+    [
+        "Stay at home",
+        "(20:05, 21:14)",
+        [
+            "",
+            700036479
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:46, 23:12)",
+        [
+            "",
+            700036419
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "",
+            700036420
+        ]
+    ]
+]

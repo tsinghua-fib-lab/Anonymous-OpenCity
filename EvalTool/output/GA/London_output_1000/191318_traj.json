@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wharton Cottages",
+            700012020
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:24)",
+        [
+            "",
+            700071467
+        ]
+    ],
+    [
+        "Have lunch and catch up with friends or family.",
+        "(12:25, 13:47)",
+        [
+            "Powerstation Youth Centre",
+            700059218
+        ]
+    ],
+    [
+        "Have lunch and catch up with friends or family.",
+        "(14:18, 15:58)",
+        [
+            "Powerstation Youth Centre",
+            700059218
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(16:15, 17:48)",
+        [
+            "Powerstation Youth Centre",
+            700059218
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 23:59)",
+        [
+            "The Cabin",
+            700059489
+        ]
+    ],
+    [
+        "Stay at The Cabin",
+        "(22:41, 23:59)",
+        [
+            "The Cabin",
+            700059489
+        ]
+    ]
+]

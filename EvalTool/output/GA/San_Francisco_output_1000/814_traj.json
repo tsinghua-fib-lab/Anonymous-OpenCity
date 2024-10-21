@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Homey",
+            700014023
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:00)",
+        [
+            "",
+            700008299
+        ]
+    ],
+    [
+        "Hobbies/Personal Projects",
+        "(15:08, 17:12)",
+        [
+            "Homey",
+            700014023
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:49, 18:56)",
+        [
+            "Mission Dolores Dental Care",
+            700004508
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:08, 21:05)",
+        [
+            "Mission Dolores Dental Care",
+            700004508
+        ]
+    ],
+    [
+        "Evening Relaxation/Family Time",
+        "(21:48, 22:53)",
+        [
+            "Mission Dolores Dental Care",
+            700004508
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "",
+            700008297
+        ]
+    ]
+]

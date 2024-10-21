@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:27)",
+        [
+            "Frankies Sputino 570",
+            700005693
+        ]
+    ],
+    [
+        "Brunch",
+        "(12:19, 14:05)",
+        [
+            "Frankies Sputino 570",
+            700005693
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:50, 16:00)",
+        [
+            "Frankies Sputino 570",
+            700005693
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:56, 18:01)",
+        [
+            "HSBC",
+            700008765
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:49, 21:25)",
+        [
+            "",
+            700003040
+        ]
+    ],
+    [
+        "Stay at Roma Pizza",
+        "(21:50, 23:01)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ],
+    [
+        "Stay at Roma Pizza",
+        "(23:38, 23:59)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ]
+]

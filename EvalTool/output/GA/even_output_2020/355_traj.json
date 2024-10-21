@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Walgreens",
+            700001937
+        ]
+    ],
+    [
+        "Engage in some light physical activity",
+        "(09:00, 10:55)",
+        [
+            "Bay Wheels",
+            700009619
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:31, 13:28)",
+        [
+            "Tony's Cable Car",
+            700000847
+        ]
+    ],
+    [
+        "Prepare and have lunch, maybe trying out a new recipe or enjoying some leftovers.",
+        "(14:08, 15:44)",
+        [
+            "Walgreens",
+            700001937
+        ]
+    ],
+    [
+        "Prepare and have lunch, maybe trying out a new recipe or enjoying some leftovers.",
+        "(16:25, 18:26)",
+        [
+            "Walgreens",
+            700001937
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:45, 22:46)",
+        [
+            "",
+            700010746
+        ]
+    ],
+    [
+        "Stay at Walgreens.",
+        "(21:48, 23:44)",
+        [
+            "Little Free Library",
+            700010491
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "",
+            700011007
+        ]
+    ]
+]

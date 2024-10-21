@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Delima Restaurant",
+            700007595
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:29)",
+        [
+            "Chicken V Sydney",
+            700008469
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 11:52)",
+        [
+            "Williams Business College",
+            700019776
+        ]
+    ],
+    [
+        "Stay at 'Cargo bar'.",
+        "(12:23, 13:53)",
+        [
+            "",
+            700026448
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:23, 18:02)",
+        [
+            "",
+            700017903
+        ]
+    ],
+    [
+        "Stay at Cargo bar",
+        "(17:26, 18:54)",
+        [
+            "D21",
+            700011095
+        ]
+    ],
+    [
+        "Stay at Cargo bar.",
+        "(19:43, 21:50)",
+        [
+            "Delima Restaurant",
+            700007595
+        ]
+    ],
+    [
+        "Stay at Delima Restaurant.",
+        "(22:01, 23:40)",
+        [
+            "Delima Restaurant",
+            700007595
+        ]
+    ],
+    [
+        "Stay at Delima Restaurant",
+        "(23:25, 23:59)",
+        [
+            "",
+            700032570
+        ]
+    ]
+]

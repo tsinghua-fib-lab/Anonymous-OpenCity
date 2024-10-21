@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Agora",
+            700020620
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 10:51)",
+        [
+            "Agora",
+            700020620
+        ]
+    ],
+    [
+        "You are currently at Agora.",
+        "(11:03, 12:04)",
+        [
+            "Hutch and Waldo",
+            700029521
+        ]
+    ],
+    [
+        "Go for a relaxing walk in a local park.",
+        "(12:36, 13:56)",
+        [
+            "16 Handles",
+            700024252
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 18:50)",
+        [
+            "",
+            700020624
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 23:26)",
+        [
+            "",
+            700002395
+        ]
+    ],
+    [
+        "Stay at Agora",
+        "(20:18, 22:02)",
+        [
+            "H&H Midtown Bagels East",
+            700012538
+        ]
+    ],
+    [
+        "Stay at Agora.",
+        "(22:48, 23:54)",
+        [
+            "Agora",
+            700020620
+        ]
+    ],
+    [
+        "Stay at Agora.",
+        "(23:43, 23:59)",
+        [
+            "Agora",
+            700020620
+        ]
+    ]
+]

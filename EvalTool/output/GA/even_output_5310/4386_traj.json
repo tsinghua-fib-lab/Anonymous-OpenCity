@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700038639
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:08)",
+        [
+            "",
+            700038635
+        ]
+    ],
+    [
+        "Continue with Morning Walk or Light Exercise",
+        "(10:35, 11:56)",
+        [
+            "",
+            700038639
+        ]
+    ],
+    [
+        "Continue with Reading or Pursue a Hobby",
+        "(12:54, 14:09)",
+        [
+            "",
+            700038639
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:15, 16:05)",
+        [
+            "",
+            700038627
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(16:57, 18:19)",
+        [
+            "",
+            700007478
+        ]
+    ],
+    [
+        "Continue Visit Friends or Family",
+        "(18:03, 20:06)",
+        [
+            "",
+            700038636
+        ]
+    ],
+    [
+        "Stay at Home",
+        "(19:57, 21:51)",
+        [
+            "",
+            700038639
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:20, 23:59)",
+        [
+            "",
+            700038636
+        ]
+    ]
+]

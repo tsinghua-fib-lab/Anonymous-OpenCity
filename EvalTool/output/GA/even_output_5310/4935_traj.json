@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Casa Bond",
+            700020456
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 09:52)",
+        [
+            "Joe & The Juice",
+            700004048
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:01, 11:55)",
+        [
+            "",
+            700031517
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:37, 17:16)",
+        [
+            "",
+            700031512
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 21:44)",
+        [
+            "",
+            700031514
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:12, 23:59)",
+        [
+            "Bluestone Lane Coffee",
+            700007445
+        ]
+    ]
+]

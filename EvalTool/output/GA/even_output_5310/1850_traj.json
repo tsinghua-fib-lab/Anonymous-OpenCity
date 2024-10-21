@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Hospital for Special Surgery",
+            700011667
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:42)",
+        [
+            "",
+            700038527
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:27, 20:26)",
+        [
+            "",
+            700038523
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:28, 23:42)",
+        [
+            "",
+            700038532
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:48, 23:59)",
+        [
+            "Hospital for Special Surgery",
+            700011667
+        ]
+    ]
+]

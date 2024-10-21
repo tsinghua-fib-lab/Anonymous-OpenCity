@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700003543
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:20)",
+        [
+            "Tutors Sky",
+            700019908
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 16:36)",
+        [
+            "Mad Dog & Beans Mexican Cantina",
+            700006411
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 22:16)",
+        [
+            "Citi Bike - West 37th Street & 5th Avenue",
+            700008217
+        ]
+    ],
+    [
+        "Spa/Relaxation Time",
+        "(22:55, 23:59)",
+        [
+            "Citi Bike - West 37th Street & 5th Avenue",
+            700008217
+        ]
+    ]
+]

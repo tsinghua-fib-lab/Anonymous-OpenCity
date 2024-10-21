@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Clay Medical Pharmacy",
+            700001072
+        ]
+    ],
+    [
+        "Go for a walk in the local park.",
+        "(10:00, 10:57)",
+        [
+            "",
+            700001137
+        ]
+    ],
+    [
+        "Stay at Clay Medical Pharmacy",
+        "(10:56, 12:01)",
+        [
+            "Clay Medical Pharmacy",
+            700001072
+        ]
+    ],
+    [
+        "Taking a break at Clay Medical Pharmacy.",
+        "(12:00, 13:58)",
+        [
+            "YWCA San Francisco & Marin",
+            700013912
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 16:39)",
+        [
+            "",
+            700011102
+        ]
+    ],
+    [
+        "Stay at Clay Medical Pharmacy for reading.",
+        "(17:05, 19:00)",
+        [
+            "Hang Ah Restaurant",
+            700005136
+        ]
+    ],
+    [
+        "Stay at Cafe Réveille for reading.",
+        "(19:08, 20:54)",
+        [
+            "Hang Ah Restaurant",
+            700005136
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:35, 22:51)",
+        [
+            "Chinese Central High School",
+            700000281
+        ]
+    ]
+]

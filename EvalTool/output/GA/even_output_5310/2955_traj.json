@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000757
+        ]
+    ],
+    [
+        "Engage in a morning workout or leisurely walk",
+        "(09:00, 10:08)",
+        [
+            "9th St Espresso",
+            700003272
+        ]
+    ],
+    [
+        "current place: 9th St Espresso; stay time:",
+        "(10:07, 11:31)",
+        [
+            "Citi Bike - E 9 St & Avenue C",
+            700008063
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 15:02)",
+        [
+            "Lilly's Shakes & Crepes",
+            700021554
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 21:14)",
+        [
+            "CrossFit East River",
+            700018155
+        ]
+    ],
+    [
+        "Stay at current place: CrossFit East River.",
+        "(20:15, 22:23)",
+        [
+            "The Wayland",
+            700014143
+        ]
+    ],
+    [
+        "Stay at CrossFit East River.",
+        "(21:49, 22:55)",
+        [
+            "The Wayland",
+            700014143
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Shalman Dentistry",
+            700024432
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:37)",
+        [
+            "Osteria 57",
+            700039535
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 13:58)",
+        [
+            "Kubeh",
+            700030217
+        ]
+    ],
+    [
+        "Brunch",
+        "(15:49, 17:00)",
+        [
+            "Osteria 57",
+            700039535
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:32, 17:52)",
+        [
+            "Osteria 57",
+            700039535
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:35, 19:38)",
+        [
+            "Kubeh",
+            700030217
+        ]
+    ],
+    [
+        "Dinner with Family/Friends",
+        "(20:36, 22:10)",
+        [
+            "Citi Bike - West 11th Street & 6th Avenue",
+            700008195
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "CVS Pharmacy",
+            700012248
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kung Fu Little Steamed Buns",
+            700008850
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:43)",
+        [
+            "Citi Bike - West 49th Street & 8th Avenue",
+            700008228
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:20, 16:20)",
+        [
+            "M408 Professional Performing Arts High School",
+            700000414
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(16:26, 18:03)",
+        [
+            "M408 Professional Performing Arts High School",
+            700000414
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:15, 20:12)",
+        [
+            "Kung Fu Little Steamed Buns",
+            700008850
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:27, 23:59)",
+        [
+            "La Masseria",
+            700006504
+        ]
+    ]
+]

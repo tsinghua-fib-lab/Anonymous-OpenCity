@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:58)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Explore a Hobby",
+        "(10:26, 12:08)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:36, 17:47)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(18:33, 20:07)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:33, 22:14)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Taco Bell Cantina",
+            700023573
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:18)",
+        [
+            "Cho Dang Gol",
+            700011039
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:55, 19:07)",
+        [
+            "Santander",
+            700008775
+        ]
+    ],
+    [
+        "Outdoor Time",
+        "(17:12, 19:02)",
+        [
+            "Santander",
+            700008775
+        ]
+    ],
+    [
+        "Dinner and Prepare for the Week",
+        "(19:35, 20:55)",
+        [
+            "Santander",
+            700008775
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(22:03, 23:59)",
+        [
+            "Santander",
+            700008775
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(23:54, 23:59)",
+        [
+            "Santander",
+            700008775
+        ]
+    ]
+]

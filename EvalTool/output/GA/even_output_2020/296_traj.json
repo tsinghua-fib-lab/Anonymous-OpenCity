@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008290
+        ]
+    ],
+    [
+        "Move to Leisure Activity",
+        "(10:00, 11:31)",
+        [
+            "Zushi Puzzle",
+            700010111
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:45, 13:25)",
+        [
+            "Alegrias Food from Spain",
+            700009483
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a favorite series.",
+        "(18:23, 19:57)",
+        [
+            "Alegrias Food from Spain",
+            700009483
+        ]
+    ],
+    [
+        "Continue current activity until watching a movie or binge-watch a series.",
+        "(20:51, 21:59)",
+        [
+            "Alegrias Food from Spain",
+            700009483
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:10, 23:59)",
+        [
+            "",
+            700014078
+        ]
+    ]
+]

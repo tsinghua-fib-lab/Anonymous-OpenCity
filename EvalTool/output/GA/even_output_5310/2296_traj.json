@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002644
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:55)",
+        [
+            "",
+            700002790
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:21, 15:13)",
+        [
+            "Black Star Bakery & Cafe",
+            700020869
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:52, 19:42)",
+        [
+            "QUATORZE bis",
+            700024258
+        ]
+    ],
+    [
+        "Stay at Your Home",
+        "(21:28, 23:48)",
+        [
+            "",
+            700001376
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "Saint Stephen of Hungary School",
+            700000297
+        ]
+    ]
+]

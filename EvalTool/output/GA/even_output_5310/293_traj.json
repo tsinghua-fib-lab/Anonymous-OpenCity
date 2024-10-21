@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700017130
+        ]
+    ],
+    [
+        "Morning Relaxation",
+        "(10:00, 11:22)",
+        [
+            "",
+            700017130
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:40, 12:52)",
+        [
+            "",
+            700017130
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:19, 14:56)",
+        [
+            "Citi Bike - East 66th Street & Madison Avenue",
+            700010152
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 17:25)",
+        [
+            "",
+            700017130
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 23:21)",
+        [
+            "Avena",
+            700019745
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:31, 23:59)",
+        [
+            "Zoo School",
+            700003373
+        ]
+    ],
+    [
+        "Stop by M & Pizza for a late-night slice.",
+        "(23:28, 23:59)",
+        [
+            "Dancing Crane Cafe",
+            700003380
+        ]
+    ]
+]

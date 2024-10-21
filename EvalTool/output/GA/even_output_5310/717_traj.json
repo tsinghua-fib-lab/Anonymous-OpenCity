@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Xi'an Famous Foods",
+            700007295
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:02)",
+        [
+            "McKenna’s Bar",
+            700019202
+        ]
+    ],
+    [
+        "Continue with the plan",
+        "(11:22, 12:55)",
+        [
+            "McKenna’s Bar",
+            700019202
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 15:42)",
+        [
+            "HSBC",
+            700006144
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:59, 22:37)",
+        [
+            "Starbucks",
+            700003801
+        ]
+    ],
+    [
+        "Spend time with family/friends or unwind",
+        "(23:33, 23:59)",
+        [
+            "Up & Down",
+            700009373
+        ]
+    ]
+]

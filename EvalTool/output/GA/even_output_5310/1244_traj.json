@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "Chase",
+            700023813
+        ]
+    ],
+    [
+        "go to this place",
+        "(08:00, 12:30)",
+        [
+            "",
+            700037667
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(11:54, 13:50)",
+        [
+            "Chase",
+            700023813
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(15:03, 16:40)",
+        [
+            "Chase",
+            700023813
+        ]
+    ],
+    [
+        "Dinner preparation & family time",
+        "(17:19, 18:52)",
+        [
+            "Chase",
+            700023813
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:14, 20:52)",
+        [
+            "",
+            700037667
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:28, 23:00)",
+        [
+            "Chase",
+            700023813
+        ]
+    ],
+    [
+        "Go to Evening Wind Down",
+        "(23:08, 23:59)",
+        [
+            "Chase",
+            700023813
+        ]
+    ]
+]

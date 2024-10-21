@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Bavarian",
+            700006962
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:04)",
+        [
+            "The Bavarian",
+            700006962
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:24, 14:13)",
+        [
+            "Wilson Parking",
+            700010465
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:46, 21:44)",
+        [
+            "One Tea Lounge & Grill",
+            700007131
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:19, 23:59)",
+        [
+            "",
+            700002324
+        ]
+    ]
+]

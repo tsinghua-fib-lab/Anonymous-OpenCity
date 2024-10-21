@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700021870
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:31)",
+        [
+            "Sophie's Cuban Express",
+            700008962
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:46, 16:10)",
+        [
+            "Kimmel Cafe",
+            700014996
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(16:43, 18:48)",
+        [
+            "Kimmel Cafe",
+            700014996
+        ]
+    ],
+    [
+        "Family or Friend Time",
+        "(19:33, 21:41)",
+        [
+            "",
+            700021870
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:25, 23:37)",
+        [
+            "",
+            700024694
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Roey's",
+            700008872
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:37)",
+        [
+            "Zazzy's Pizza",
+            700023549
+        ]
+    ],
+    [
+        "Hobby Time or Creative Project",
+        "(14:08, 16:13)",
+        [
+            "The Waverly Inn",
+            700008688
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:07, 18:30)",
+        [
+            "",
+            700038505
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:37, 21:50)",
+        [
+            "",
+            700002423
+        ]
+    ],
+    [
+        "Go to The Waverly Inn and spend time there.",
+        "(23:19, 23:59)",
+        [
+            "The Waverly Inn",
+            700008688
+        ]
+    ]
+]

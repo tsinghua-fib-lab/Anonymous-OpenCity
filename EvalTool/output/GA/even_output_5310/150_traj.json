@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hell's Kitchen",
+            700004222
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:49)",
+        [
+            "Hell's Kitchen",
+            700004222
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:27, 19:21)",
+        [
+            "",
+            700000932
+        ]
+    ],
+    [
+        "Attend a sports event or participate in a recreational activity.",
+        "(19:50, 20:00)",
+        [
+            "Hell's Kitchen Flea Market",
+            700009059
+        ]
+    ],
+    [
+        "Attend a sports event or participate in a recreational activity.",
+        "(20:32, 21:52)",
+        [
+            "Citi Bike - West 39th Street & 9th Avenue",
+            700008219
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "Trattoria Casa Di Isacco",
+            700008670
+        ]
+    ]
+]

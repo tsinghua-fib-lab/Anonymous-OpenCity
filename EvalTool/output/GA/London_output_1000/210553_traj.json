@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:06)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:56, 11:54)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:57, 18:47)",
+        [
+            "",
+            700024475
+        ]
+    ],
+    [
+        "Socializing",
+        "(17:44, 19:21)",
+        [
+            "Tiny Tigers",
+            700047126
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:47, 23:59)",
+        [
+            "Capeesh",
+            700025479
+        ]
+    ],
+    [
+        "Socializing",
+        "(22:26, 23:50)",
+        [
+            "Tiny Tigers",
+            700047126
+        ]
+    ]
+]

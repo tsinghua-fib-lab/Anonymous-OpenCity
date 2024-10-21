@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008093
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:55)",
+        [
+            "",
+            700008520
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:17, 12:52)",
+        [
+            "",
+            700004489
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(13:39, 15:17)",
+        [
+            "AltSchool",
+            700004887
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(15:28, 17:08)",
+        [
+            "AltSchool",
+            700004887
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 22:49)",
+        [
+            "BATS Improv",
+            700003065
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "BATS Improv",
+            700003065
+        ]
+    ]
+]

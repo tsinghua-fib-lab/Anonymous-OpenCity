@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Pret A Manger",
+            700006030
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:35)",
+        [
+            "Juice Generation",
+            700020311
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:56, 15:56)",
+        [
+            "",
+            700014562
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:48, 17:51)",
+        [
+            "Juice Generation",
+            700020311
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:17, 20:04)",
+        [
+            "Juice Generation",
+            700020311
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 23:38)",
+        [
+            "Dig",
+            700022397
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:38, 23:59)",
+        [
+            "Juice Generation",
+            700020311
+        ]
+    ]
+]

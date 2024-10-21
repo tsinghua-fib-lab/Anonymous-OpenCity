@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chong Qing Noodle",
+            700021404
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 11:22)",
+        [
+            "Badshah",
+            700014114
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:06, 13:27)",
+        [
+            "Badshah",
+            700014114
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:22, 15:41)",
+        [
+            "Poulette",
+            700018794
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(17:42, 19:20)",
+        [
+            "Holey Cream",
+            700014356
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 23:59)",
+        [
+            "Chong Qing Noodle",
+            700021404
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:38, 23:52)",
+        [
+            "",
+            700021423
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(23:48, 23:59)",
+        [
+            "Alfie's",
+            700006466
+        ]
+    ]
+]

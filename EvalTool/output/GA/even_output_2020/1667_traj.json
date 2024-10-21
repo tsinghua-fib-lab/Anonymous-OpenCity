@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:08)",
+        [
+            "",
+            700000977
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:43, 14:20)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ],
+    [
+        "Hobby or Creative Time",
+        "(15:09, 16:42)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ],
+    [
+        "Hobby or Creative Time",
+        "(17:18, 19:01)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(20:00, 21:37)",
+        [
+            "The Soap Box Cafe",
+            700003663
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:05, 23:59)",
+        [
+            "Cafe Muse",
+            700003882
+        ]
+    ]
+]

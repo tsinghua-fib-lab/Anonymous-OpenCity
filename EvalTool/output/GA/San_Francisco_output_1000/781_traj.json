@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "USPS",
+            700010624
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:06)",
+        [
+            "",
+            700010673
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:07, 15:53)",
+        [
+            "Pronto Pizza & Espresso",
+            700000803
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:37, 15:02)",
+        [
+            "The Eye Institute",
+            700000797
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:20, 20:16)",
+        [
+            "",
+            700000798
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 23:58)",
+        [
+            "",
+            700010673
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "San Francisco Federal Credit Union",
+            700000793
+        ]
+    ]
+]

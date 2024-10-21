@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Columbia St & Rivington St",
+            700008005
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:39)",
+        [
+            "Citi Bike - Columbia St & Rivington St",
+            700008005
+        ]
+    ],
+    [
+        "Relax & Read",
+        "(11:15, 12:36)",
+        [
+            "",
+            700005442
+        ]
+    ],
+    [
+        "Relax & Read",
+        "(12:25, 14:03)",
+        [
+            "Citi Bike - Columbia St & Rivington St",
+            700008005
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:12, 17:10)",
+        [
+            "Citi Bike - Columbia St & Rivington St",
+            700008005
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:23, 20:48)",
+        [
+            "Citi Bike - Pitt St & Stanton St",
+            700008166
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 23:59)",
+        [
+            "Church of Our Lady of Sorrows",
+            700022995
+        ]
+    ]
+]

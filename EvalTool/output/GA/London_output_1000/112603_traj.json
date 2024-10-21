@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Regent's Park Estate",
+            700006201
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:54)",
+        [
+            "",
+            700004645
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Development",
+        "(15:55, 18:01)",
+        [
+            "",
+            700063331
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:14, 21:46)",
+        [
+            "EustonWall Climbing Centre",
+            700073317
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Development",
+        "(23:15, 23:59)",
+        [
+            "EustonWall Climbing Centre",
+            700073317
+        ]
+    ]
+]

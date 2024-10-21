@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000732
+        ]
+    ],
+    [
+        "Leisure Time at Home",
+        "(10:00, 11:23)",
+        [
+            "McDonald's",
+            700003767
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:24, 14:10)",
+        [
+            "Citi Bike - Broadway & West 51st Street",
+            700007977
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:48, 17:13)",
+        [
+            "Citi Bike - Broadway & West 51st Street",
+            700007977
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:32, 23:59)",
+        [
+            "Citibank",
+            700005914
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "Gregory’s coffee",
+            700032007
+        ]
+    ]
+]

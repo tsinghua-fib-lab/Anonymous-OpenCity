@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003099
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(10:00, 10:55)",
+        [
+            "Club Pilates",
+            700006202
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(11:05, 12:03)",
+        [
+            "Club Pilates",
+            700006202
+        ]
+    ],
+    [
+        "Leisure Activity (Reading/Watching TV)",
+        "(12:40, 14:00)",
+        [
+            "Club Pilates",
+            700006202
+        ]
+    ],
+    [
+        "Community or Social Activity",
+        "(14:12, 15:36)",
+        [
+            "Club Pilates",
+            700006202
+        ]
+    ],
+    [
+        "Community or Social Activity",
+        "(16:21, 17:56)",
+        [
+            "Club Pilates",
+            700006202
+        ]
+    ],
+    [
+        "Community or Social Activity",
+        "(18:36, 19:59)",
+        [
+            "Club Pilates",
+            700006202
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 23:59)",
+        [
+            "Gramercy Diagnostic Radiology",
+            700023460
+        ]
+    ]
+]

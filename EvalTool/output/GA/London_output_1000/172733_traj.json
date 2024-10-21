@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:24)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Relaxation and Leisure",
+        "(11:22, 13:05)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:34, 15:10)",
+        [
+            "",
+            700063207
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:54, 18:28)",
+        [
+            "",
+            700063206
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:48, 21:47)",
+        [
+            "RBS",
+            700001229
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "",
+            700014758
+        ]
+    ]
+]

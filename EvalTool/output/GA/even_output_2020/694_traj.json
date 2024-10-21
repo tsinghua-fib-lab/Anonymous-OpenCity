@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700005467
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:25)",
+        [
+            "",
+            700014105
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:57, 17:26)",
+        [
+            "Left Door",
+            700013631
+        ]
+    ],
+    [
+        "Watch a movie or binge a series on streaming platforms",
+        "(16:30, 18:27)",
+        [
+            "Left Door",
+            700013631
+        ]
+    ],
+    [
+        "Prepare a simple dinner and enjoy it around 6:00 PM.",
+        "(18:23, 19:45)",
+        [
+            "Wells Fargo",
+            700004123
+        ]
+    ],
+    [
+        "Wind down with reading",
+        "(20:31, 21:48)",
+        [
+            "Wells Fargo",
+            700004123
+        ]
+    ],
+    [
+        "Relax at Roam Artisan Burgers",
+        "(22:19, 23:49)",
+        [
+            "Perry's",
+            700005698
+        ]
+    ],
+    [
+        "Enjoy the atmosphere at Verdi Club",
+        "(23:56, 23:59)",
+        [
+            "Left Door",
+            700013631
+        ]
+    ]
+]

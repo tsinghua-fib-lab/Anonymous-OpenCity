@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "North Dumpling",
+            700014305
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:52)",
+        [
+            "",
+            700023719
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(11:54, 13:45)",
+        [
+            "",
+            700021955
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(13:28, 14:24)",
+        [
+            "North Dumpling",
+            700014305
+        ]
+    ],
+    [
+        "Engage in a hobby or craft",
+        "(15:30, 16:57)",
+        [
+            "Café Grumpy",
+            700006675
+        ]
+    ],
+    [
+        "Spend time with friends or family",
+        "(18:03, 19:30)",
+        [
+            "",
+            700021969
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 22:37)",
+        [
+            "",
+            700022024
+        ]
+    ]
+]

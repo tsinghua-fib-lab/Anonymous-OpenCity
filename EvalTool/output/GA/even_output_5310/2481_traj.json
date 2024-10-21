@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Pain Quotidien",
+            700007820
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 11:09)",
+        [
+            "The Rink",
+            700008413
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:59, 15:24)",
+        [
+            "Joe Coffee Company",
+            700009568
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 17:22)",
+        [
+            "Zucker's Bagels & Smoked Fish",
+            700039858
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:35, 23:59)",
+        [
+            "",
+            700021031
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "",
+            700021039
+        ]
+    ]
+]

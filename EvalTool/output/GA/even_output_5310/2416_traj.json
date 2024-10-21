@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Duane Reade",
+            700006023
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:54)",
+        [
+            "Delizia",
+            700039854
+        ]
+    ],
+    [
+        "Lunch and catch up on some reading or a podcast.",
+        "(13:26, 14:55)",
+        [
+            "Delizia",
+            700039854
+        ]
+    ],
+    [
+        "Have lunch and catch up on some reading or a podcast.",
+        "(15:49, 17:32)",
+        [
+            "Mexiterranean Grill",
+            700030631
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:19, 20:09)",
+        [
+            "2nd Ave Deli",
+            700014920
+        ]
+    ]
+]

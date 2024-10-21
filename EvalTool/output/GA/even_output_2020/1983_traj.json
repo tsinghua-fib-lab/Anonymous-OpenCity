@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000752
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:36)",
+        [
+            "Pho Tan Hoa",
+            700004838
+        ]
+    ],
+    [
+        "Lunch",
+        "(10:38, 13:27)",
+        [
+            "Bourbon and Branch",
+            700000851
+        ]
+    ],
+    [
+        "Socialize",
+        "(11:53, 13:13)",
+        [
+            "Bourbon and Branch",
+            700000851
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:55, 15:20)",
+        [
+            "Bourbon and Branch",
+            700000851
+        ]
+    ],
+    [
+        "Socialize",
+        "(15:36, 17:09)",
+        [
+            "Bourbon and Branch",
+            700000851
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:19, 20:17)",
+        [
+            "",
+            700000752
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:37, 23:06)",
+        [
+            "Bourbon and Branch",
+            700000851
+        ]
+    ],
+    [
+        "Stay at Bourbon and Branch",
+        "(23:45, 23:59)",
+        [
+            "Bourbon and Branch",
+            700000851
+        ]
+    ]
+]

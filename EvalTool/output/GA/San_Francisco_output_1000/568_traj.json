@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002466
+        ]
+    ],
+    [
+        "Next is Morning Exercise.",
+        "(10:00, 11:06)",
+        [
+            "",
+            700002466
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:29, 16:24)",
+        [
+            "",
+            700014427
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(12:46, 14:42)",
+        [
+            "Fort Point Beer Company",
+            700008874
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 20:10)",
+        [
+            "Project Juice",
+            700005335
+        ]
+    ],
+    [
+        "Next is Outdoor Activity.",
+        "(21:38, 23:13)",
+        [
+            "Fort Point Beer Company",
+            700008874
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "",
+            700008234
+        ]
+    ]
+]

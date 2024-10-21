@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700024471
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:23)",
+        [
+            "",
+            700024471
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:41, 12:59)",
+        [
+            "Spice Symphony",
+            700022979
+        ]
+    ],
+    [
+        "Lunch with Friends",
+        "(13:46, 15:11)",
+        [
+            "FDNY Engine 8/Ladder 2/Battalion 8",
+            700000530
+        ]
+    ],
+    [
+        "Lunch with Friends",
+        "(15:24, 16:48)",
+        [
+            "",
+            700020306
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:08, 20:32)",
+        [
+            "Link NYC",
+            700020323
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 22:14)",
+        [
+            "",
+            700020318
+        ]
+    ],
+    [
+        "Watch a Movie",
+        "(22:32, 23:59)",
+        [
+            "Link NYC",
+            700020323
+        ]
+    ],
+    [
+        "Wind Down for the Evening",
+        "(23:53, 23:59)",
+        [
+            "Link NYC",
+            700020323
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002100
+        ]
+    ],
+    [
+        "Go for a leisurely walk or jog in the nearby park",
+        "(10:00, 11:56)",
+        [
+            "",
+            700003200
+        ]
+    ],
+    [
+        "Go for a leisurely walk or jog in the nearby park",
+        "(12:39, 14:08)",
+        [
+            "",
+            700002100
+        ]
+    ],
+    [
+        "Engage in a fun leisure activity, such as playing a sport or going to a local museum or art gallery.",
+        "(14:07, 16:12)",
+        [
+            "Citi Bike - East 11th Street & Broadway",
+            700008021
+        ]
+    ],
+    [
+        "Engage in a fun leisure activity, such as playing a sport or going to a local museum or art gallery.",
+        "(16:23, 18:00)",
+        [
+            "Citi Bike - East 11th Street & Broadway",
+            700008021
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 19:20)",
+        [
+            "Shuko",
+            700010853
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Ishta Yoga",
+            700010138
+        ]
+    ]
+]

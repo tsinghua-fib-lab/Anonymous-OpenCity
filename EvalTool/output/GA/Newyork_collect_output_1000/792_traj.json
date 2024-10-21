@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:20)",
+        [
+            "Food Station",
+            700013892
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:57, 12:45)",
+        [
+            "Fa Wang Temple",
+            700017778
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(14:35, 15:38)",
+        [
+            "Fa Wang Temple",
+            700017778
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(15:43, 17:17)",
+        [
+            "Fa Wang Temple",
+            700017778
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:09, 20:53)",
+        [
+            "Centre Care Phamacy",
+            700005312
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "",
+            700025026
+        ]
+    ]
+]

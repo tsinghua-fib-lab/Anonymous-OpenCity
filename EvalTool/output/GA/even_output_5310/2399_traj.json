@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700012511
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:00, 11:58)",
+        [
+            "",
+            700012511
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(12:20, 14:28)",
+        [
+            "",
+            700012511
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:45, 15:52)",
+        [
+            "Citi Bike - River Terrace & Warren Street",
+            700027027
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:33, 19:43)",
+        [
+            "",
+            700036425
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:45, 21:52)",
+        [
+            "",
+            700036424
+        ]
+    ]
+]

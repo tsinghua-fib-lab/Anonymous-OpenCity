@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dental Office",
+            700024993
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:40)",
+        [
+            "Rivington Pizza",
+            700009177
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:21, 14:22)",
+        [
+            "Rivington Pizza",
+            700009177
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:51, 16:01)",
+        [
+            "Joey Roses",
+            700022489
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(15:56, 17:04)",
+        [
+            "Dental Office",
+            700024993
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(17:57, 18:52)",
+        [
+            "Dental Office",
+            700024993
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 22:49)",
+        [
+            "Joey Roses",
+            700022489
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(23:19, 23:59)",
+        [
+            "Dental Office",
+            700024993
+        ]
+    ]
+]

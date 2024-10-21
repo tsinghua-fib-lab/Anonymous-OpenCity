@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Cinco Coffee Company",
+            700006342
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:13)",
+        [
+            "Chelsea Bagel & Pizzeria",
+            700023815
+        ]
+    ],
+    [
+        "Watch a movie or catch up on your favorite TV shows.",
+        "(10:28, 12:06)",
+        [
+            "",
+            700019037
+        ]
+    ],
+    [
+        "Next activity after lunch",
+        "(12:27, 13:58)",
+        [
+            "Chelsea Bagel & Pizzeria",
+            700023815
+        ]
+    ],
+    [
+        "Watch a movie or catch up on your favorite TV shows.",
+        "(14:48, 16:13)",
+        [
+            "Chelsea Bagel & Pizzeria",
+            700023815
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:07, 21:35)",
+        [
+            "",
+            700021733
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:41, 23:59)",
+        [
+            "Masala King",
+            700023814
+        ]
+    ]
+]

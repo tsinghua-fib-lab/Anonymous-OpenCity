@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rex",
+            700006398
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(10:00, 10:57)",
+        [
+            "Rex",
+            700006398
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:21, 15:47)",
+        [
+            "Citi Bike - West 56th Street & 10th Avenue",
+            700008235
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:50, 18:36)",
+        [
+            "Beijing",
+            700008324
+        ]
+    ],
+    [
+        "Dinner Preparation & Eating",
+        "(17:59, 19:00)",
+        [
+            "Rex",
+            700006398
+        ]
+    ],
+    [
+        "Wind Down with Family/Friends or Reading",
+        "(19:42, 21:40)",
+        [
+            "Rex",
+            700006398
+        ]
+    ],
+    [
+        "Wind Down with Family/Friends or Reading",
+        "(22:10, 23:59)",
+        [
+            "Chipotle",
+            700018341
+        ]
+    ]
+]

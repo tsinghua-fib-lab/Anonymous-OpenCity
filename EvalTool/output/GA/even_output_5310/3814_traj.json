@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Manhattan Movement & Arts Center",
+            700015975
+        ]
+    ],
+    [
+        "next place",
+        "(09:00, 10:35)",
+        [
+            "",
+            700018331
+        ]
+    ],
+    [
+        "Next activity based on the schedule",
+        "(10:37, 12:32)",
+        [
+            "",
+            700018901
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:48, 13:53)",
+        [
+            "",
+            700018107
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a favorite series to relax and have some entertainment.",
+        "(16:35, 17:58)",
+        [
+            "",
+            700018100
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:54, 21:04)",
+        [
+            "",
+            700018348
+        ]
+    ],
+    [
+        "Stay at Manhattan Movement & Arts Center",
+        "(22:22, 23:50)",
+        [
+            "Manhattan Movement & Arts Center",
+            700015975
+        ]
+    ],
+    [
+        "Stay at Manhattan Movement & Arts Center.",
+        "(23:52, 23:59)",
+        [
+            "Manhattan Movement & Arts Center",
+            700015975
+        ]
+    ]
+]

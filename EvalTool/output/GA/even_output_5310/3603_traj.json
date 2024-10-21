@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018671
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:39)",
+        [
+            "",
+            700018674
+        ]
+    ],
+    [
+        "Leisure Activity: Movie or Reading",
+        "(11:38, 13:14)",
+        [
+            "",
+            700018673
+        ]
+    ],
+    [
+        "Leisure Activity: Movie or Reading",
+        "(14:14, 16:24)",
+        [
+            "",
+            700018671
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(16:43, 18:20)",
+        [
+            "Exchange Dental",
+            700008279
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 23:41)",
+        [
+            "",
+            700018672
+        ]
+    ]
+]

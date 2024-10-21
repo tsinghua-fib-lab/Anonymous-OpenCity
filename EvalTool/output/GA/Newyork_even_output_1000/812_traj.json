@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Claudette",
+            700020938
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:02)",
+        [
+            "Claudette",
+            700020938
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:34, 11:59)",
+        [
+            "Claudette",
+            700020938
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:40, 15:58)",
+        [
+            "",
+            700014876
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:28, 15:59)",
+        [
+            "Claudette",
+            700020938
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:19, 17:58)",
+        [
+            "Claudette",
+            700020938
+        ]
+    ],
+    [
+        "Catch Up on a TV Show or Movie",
+        "(18:01, 20:05)",
+        [
+            "Claudette",
+            700020938
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:10, 21:21)",
+        [
+            "Ideal Glass Studios",
+            700028889
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:49, 23:59)",
+        [
+            "",
+            700019501
+        ]
+    ]
+]

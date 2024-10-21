@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "United States Post Office",
+            700005035
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:49)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 13:56)",
+        [
+            "Starbucks",
+            700020924
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 18:17)",
+        [
+            "",
+            700005037
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:59, 22:49)",
+        [
+            "Il Violino",
+            700005036
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:26, 23:59)",
+        [
+            "Chase",
+            700005034
+        ]
+    ]
+]

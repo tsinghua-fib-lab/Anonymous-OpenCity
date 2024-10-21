@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "il laboratorio del gelato",
+            700003404
+        ]
+    ],
+    [
+        "Go for a Brunch with Friends",
+        "(09:00, 10:22)",
+        [
+            "Sweet Chick",
+            700017662
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:04, 15:20)",
+        [
+            "Sami & Susu",
+            700029766
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 17:33)",
+        [
+            "The Skinny Bar",
+            700017608
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(18:21, 19:42)",
+        [
+            "The Skinny Bar",
+            700017608
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:57, 21:21)",
+        [
+            "il laboratorio del gelato",
+            700003404
+        ]
+    ],
+    [
+        "Go to il laboratorio del gelato from Dinner Preparation and Family Time.",
+        "(22:13, 23:49)",
+        [
+            "il laboratorio del gelato",
+            700003404
+        ]
+    ],
+    [
+        "Go to il laboratorio del gelato",
+        "(23:49, 23:59)",
+        [
+            "il laboratorio del gelato",
+            700003404
+        ]
+    ]
+]

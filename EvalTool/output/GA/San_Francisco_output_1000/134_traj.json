@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Green Heart Foods",
+            700003203
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:27)",
+        [
+            "Base Camp",
+            700010870
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(12:57, 14:17)",
+        [
+            "Base Camp",
+            700010870
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(15:14, 17:10)",
+        [
+            "Base Camp",
+            700010870
+        ]
+    ],
+    [
+        "Family Time or Games Night",
+        "(18:06, 21:08)",
+        [
+            "Base Camp",
+            700010870
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 23:38)",
+        [
+            "",
+            700000047
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(23:07, 23:59)",
+        [
+            "Bender's Bar and Grill",
+            700002402
+        ]
+    ]
+]

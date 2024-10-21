@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700022131
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:41)",
+        [
+            "Manhattan Indian Flavor",
+            700006191
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:52, 16:13)",
+        [
+            "Manhattan Indian Flavor",
+            700006191
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:15, 18:30)",
+        [
+            "Manhattan Indian Flavor",
+            700006191
+        ]
+    ],
+    [
+        "Coffee Shop Visit",
+        "(18:42, 20:20)",
+        [
+            "Manhattan Indian Flavor",
+            700006191
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(20:35, 22:02)",
+        [
+            "Manhattan Indian Flavor",
+            700006191
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(22:39, 23:59)",
+        [
+            "Manhattan Indian Flavor",
+            700006191
+        ]
+    ]
+]

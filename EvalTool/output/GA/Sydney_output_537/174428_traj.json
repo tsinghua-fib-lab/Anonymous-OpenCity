@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700026672
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:25)",
+        [
+            "Chinatown Country Club",
+            700024859
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:15, 13:20)",
+        [
+            "Chinatown Country Club",
+            700024859
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 16:30)",
+        [
+            "",
+            700003275
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 18:13)",
+        [
+            "St Andrews",
+            700000690
+        ]
+    ],
+    [
+        "Exercise and Lunch",
+        "(20:46, 22:22)",
+        [
+            "Chinatown Country Club",
+            700024859
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:10, 23:59)",
+        [
+            "",
+            700003282
+        ]
+    ]
+]

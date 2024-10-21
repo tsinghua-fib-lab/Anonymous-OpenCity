@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Matador",
+            700000907
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:23)",
+        [
+            "Sutter Pub & Restaurant",
+            700008675
+        ]
+    ],
+    [
+        "Lunch Preparation and Eating",
+        "(13:09, 14:03)",
+        [
+            "Matador",
+            700000907
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 17:57)",
+        [
+            "",
+            700008205
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:41, 17:07)",
+        [
+            "Matador",
+            700000907
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(17:17, 18:38)",
+        [
+            "",
+            700000490
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:55, 21:49)",
+        [
+            "",
+            700000489
+        ]
+    ]
+]

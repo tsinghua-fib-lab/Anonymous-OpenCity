@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sugar Factory",
+            700008482
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:40)",
+        [
+            "",
+            700019525
+        ]
+    ],
+    [
+        "Lunch and catch up on some reading or a podcast.",
+        "(13:26, 14:51)",
+        [
+            "Sugar Factory",
+            700008482
+        ]
+    ],
+    [
+        "Have lunch and catch up on some reading or a podcast.",
+        "(15:49, 17:29)",
+        [
+            "",
+            700027200
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:19, 19:15)",
+        [
+            "",
+            700001780
+        ]
+    ]
+]

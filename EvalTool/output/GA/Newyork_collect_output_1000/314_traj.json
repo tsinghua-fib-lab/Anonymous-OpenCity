@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:01)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:09, 12:05)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:13, 13:59)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Social Time or Outdoor Activity",
+        "(14:30, 17:02)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:47, 22:33)",
+        [
+            "",
+            700022517
+        ]
+    ],
+    [
+        "Stay in Current Place",
+        "(23:11, 23:59)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ]
+]

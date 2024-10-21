@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700024624
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:42)",
+        [
+            "",
+            700024625
+        ]
+    ],
+    [
+        "Personal Leisure Time",
+        "(15:02, 17:40)",
+        [
+            "",
+            700024624
+        ]
+    ],
+    [
+        "Dinner Preparation & Relaxation",
+        "(18:04, 19:34)",
+        [
+            "",
+            700024617
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:40, 21:02)",
+        [
+            "",
+            700024624
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:17, 22:52)",
+        [
+            "",
+            700024620
+        ]
+    ],
+    [
+        "Stay at Dental Place.",
+        "(23:30, 23:59)",
+        [
+            "Citi Bike - Stanton St & Mangin St",
+            700008187
+        ]
+    ]
+]

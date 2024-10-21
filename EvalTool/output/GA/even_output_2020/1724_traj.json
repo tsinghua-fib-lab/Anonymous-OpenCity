@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009563
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:45)",
+        [
+            "",
+            700009566
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(13:02, 14:30)",
+        [
+            "",
+            700009567
+        ]
+    ],
+    [
+        "Lunch",
+        "(15:18, 16:41)",
+        [
+            "Cumberland Presbyterian Chinese Church",
+            700000284
+        ]
+    ],
+    [
+        "Meet Friends or Family",
+        "(17:39, 19:14)",
+        [
+            "Cumberland Presbyterian Chinese Church",
+            700000284
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:34, 21:11)",
+        [
+            "Cumberland Chinese School",
+            700000283
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(21:21, 22:46)",
+        [
+            "",
+            700009562
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:39, 23:59)",
+        [
+            "Telegraph Hill Cooperative Nursery School",
+            700003879
+        ]
+    ]
+]

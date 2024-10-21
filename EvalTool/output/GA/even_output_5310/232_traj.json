@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018076
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:36)",
+        [
+            "Kennedy Child Study Center",
+            700000274
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 19:59)",
+        [
+            "",
+            700000928
+        ]
+    ],
+    [
+        "Stay at current place",
+        "(21:52, 23:04)",
+        [
+            "Kennedy Child Study Center",
+            700000274
+        ]
+    ],
+    [
+        "Stay at current place",
+        "(23:05, 23:59)",
+        [
+            "",
+            700021973
+        ]
+    ]
+]

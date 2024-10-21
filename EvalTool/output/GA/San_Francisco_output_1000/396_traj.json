@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008213
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:09)",
+        [
+            "",
+            700010565
+        ]
+    ],
+    [
+        "Participate in a sports activity or exercise",
+        "(14:01, 16:05)",
+        [
+            "",
+            700010489
+        ]
+    ],
+    [
+        "Engage in a leisure activity (reading, gaming, or crafting)",
+        "(16:56, 18:00)",
+        [
+            "",
+            700008213
+        ]
+    ],
+    [
+        "Wind down with dinner and a movie",
+        "(18:36, 20:06)",
+        [
+            "",
+            700008213
+        ]
+    ],
+    [
+        "Go to Your Working Place.",
+        "(20:47, 22:14)",
+        [
+            "",
+            700010489
+        ]
+    ],
+    [
+        "Participate in a sports activity or exercise.",
+        "(22:30, 23:59)",
+        [
+            "",
+            700010843
+        ]
+    ],
+    [
+        "Participate in a sports activity or exercise.",
+        "(23:22, 23:59)",
+        [
+            "",
+            700008213
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gym & Sports Bar",
+            700018515
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:06)",
+        [
+            "Chipotle",
+            700004326
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 17:16)",
+        [
+            "Tend",
+            700040368
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:00, 21:07)",
+        [
+            "",
+            700002186
+        ]
+    ],
+    [
+        "Relax and watch a movie or series at home.",
+        "(19:15, 21:08)",
+        [
+            "Gym & Sports Bar",
+            700018515
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:34, 23:59)",
+        [
+            "",
+            700005853
+        ]
+    ]
+]

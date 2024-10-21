@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700026337
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:35)",
+        [
+            "Citi Bike - East 17th Street & Broadway",
+            700008028
+        ]
+    ],
+    [
+        "2:30 PM - Sports or Outdoor Activity",
+        "(14:44, 16:16)",
+        [
+            "Citi Bike - East 17th Street & Broadway",
+            700008028
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:57, 18:56)",
+        [
+            "Venchi",
+            700028579
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:24, 21:33)",
+        [
+            "Hale and Hearty Soups",
+            700009323
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:47, 23:59)",
+        [
+            "",
+            700002363
+        ]
+    ]
+]

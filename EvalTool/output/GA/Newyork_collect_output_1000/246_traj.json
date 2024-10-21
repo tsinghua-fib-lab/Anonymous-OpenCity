@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Spend some time reading or catching up on the latest news/articles",
+        "(10:00, 11:05)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Continue reading or catching up on the latest news/articles.",
+        "(11:46, 13:05)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Engage in a personal hobby or creative activity",
+        "(13:30, 14:54)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 16:46)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Stay at Mughlai and enjoy some more time there.",
+        "(17:44, 18:57)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 23:39)",
+        [
+            "Street Taco",
+            700006239
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(23:49, 23:59)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ]
+]

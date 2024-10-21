@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001239
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:53)",
+        [
+            "",
+            700000525
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(13:09, 14:49)",
+        [
+            "Crossfit Golden Gate",
+            700010674
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 16:26)",
+        [
+            "Metro United Bank",
+            700000524
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:35, 22:15)",
+        [
+            "Wells Fargo",
+            700003285
+        ]
+    ],
+    [
+        "Head to Wells Fargo for banking.",
+        "(20:49, 22:10)",
+        [
+            "Wells Fargo",
+            700003285
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "Bell Tower",
+            700005337
+        ]
+    ]
+]

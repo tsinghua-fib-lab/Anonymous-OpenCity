@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "16 Handles",
+            700024252
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:00, 11:30)",
+        [
+            "16 Handles",
+            700024252
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:54, 15:42)",
+        [
+            "Starbucks",
+            700022211
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:43, 20:59)",
+        [
+            "Starbucks",
+            700022211
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:27, 23:59)",
+        [
+            "",
+            700014657
+        ]
+    ]
+]

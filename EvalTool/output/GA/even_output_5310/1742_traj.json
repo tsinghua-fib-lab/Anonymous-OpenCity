@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "ChargePoint",
+            700012432
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:41)",
+        [
+            "",
+            700025676
+        ]
+    ],
+    [
+        "Relax at ChargePoint.",
+        "(13:36, 15:39)",
+        [
+            "ChargePoint",
+            700012432
+        ]
+    ],
+    [
+        "3:00 PM - 5:00 PM: Meet up with friends for an afternoon game (like basketball or tennis) or a leisurely stroll.",
+        "(16:03, 17:49)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "Relax at ChargePoint.",
+        "(17:54, 19:09)",
+        [
+            "ChargePoint",
+            700012432
+        ]
+    ],
+    [
+        "Stay at ChargePoint.",
+        "(19:34, 21:35)",
+        [
+            "NYC Discount Pharmacy",
+            700030624
+        ]
+    ],
+    [
+        "Visit The Mermaid Inn – Chelsea.",
+        "(20:48, 22:01)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "Stay at Sutton Cafe Restaurant.",
+        "(22:10, 23:32)",
+        [
+            "Marathon Coffee",
+            700039312
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "Au Za'atar",
+            700011621
+        ]
+    ]
+]

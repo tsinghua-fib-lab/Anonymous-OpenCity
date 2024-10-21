@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700017390
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:43)",
+        [
+            "",
+            700017441
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:20, 16:41)",
+        [
+            "Blue Bottle Coffee",
+            700005263
+        ]
+    ],
+    [
+        "Social Time at Blue Bottle Coffee",
+        "(16:42, 18:18)",
+        [
+            "Blue Bottle Coffee",
+            700005263
+        ]
+    ],
+    [
+        "Social Time at Blue Bottle Coffee",
+        "(18:25, 19:55)",
+        [
+            "Blue Bottle Coffee",
+            700005263
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:12, 23:59)",
+        [
+            "Bravo Pizza",
+            700018122
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Café Campana",
+            700066634
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:21)",
+        [
+            "",
+            700035475
+        ]
+    ],
+    [
+        "Engage in a hobby or creative activity.",
+        "(15:58, 16:54)",
+        [
+            "Café Campana",
+            700066634
+        ]
+    ],
+    [
+        "Stay engaging in a hobby or creative activity.",
+        "(17:48, 19:03)",
+        [
+            "",
+            700035478
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:58, 21:41)",
+        [
+            "Café de la Gare",
+            700066635
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "",
+            700004512
+        ]
+    ]
+]

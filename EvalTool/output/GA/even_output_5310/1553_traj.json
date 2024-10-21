@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Duane Reade",
+            700007837
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:08)",
+        [
+            "Six Happiness",
+            700017843
+        ]
+    ],
+    [
+        "brunch with friends",
+        "(12:38, 14:10)",
+        [
+            "Six Happiness",
+            700017843
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 20:12)",
+        [
+            "",
+            700006449
+        ]
+    ],
+    [
+        "Dinner with Family",
+        "(18:44, 19:54)",
+        [
+            "Duane Reade",
+            700007837
+        ]
+    ],
+    [
+        "Relaxation/Reading Time",
+        "(20:44, 22:13)",
+        [
+            "Gymboree",
+            700016058
+        ]
+    ],
+    [
+        "Relaxation/Reading Time",
+        "(22:48, 23:52)",
+        [
+            "Gymboree",
+            700016058
+        ]
+    ]
+]

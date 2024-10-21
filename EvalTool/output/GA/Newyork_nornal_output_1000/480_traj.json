@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Hell's Kitchen",
+            700004222
+        ]
+    ],
+    [
+        "Leisure Activity: Read / Relax",
+        "(09:00, 10:35)",
+        [
+            "",
+            700011301
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:58, 14:40)",
+        [
+            "Tabata Noodle Restaurant",
+            700022443
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(17:25, 18:58)",
+        [
+            "Tabata Noodle Restaurant",
+            700022443
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(19:32, 21:10)",
+        [
+            "Tabata Noodle Restaurant",
+            700022443
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(21:33, 23:28)",
+        [
+            "Hell's Kitchen Flea Market",
+            700009059
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(23:30, 23:59)",
+        [
+            "Tabata Noodle Restaurant",
+            700022443
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700014458
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(09:00, 10:26)",
+        [
+            "Citibank",
+            700004183
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:09, 12:48)",
+        [
+            "J's Kitchen New York",
+            700005270
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:24, 19:25)",
+        [
+            "Kati",
+            700007891
+        ]
+    ],
+    [
+        "Relax and Watch TV/Movies",
+        "(17:14, 19:09)",
+        [
+            "O'Hanlons Bar",
+            700016457
+        ]
+    ],
+    [
+        "Go to O'Hanlons Bar",
+        "(20:06, 22:06)",
+        [
+            "Citi Bike",
+            700024346
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:55, 23:59)",
+        [
+            "14th Street Y – Sports Center",
+            700007896
+        ]
+    ]
+]

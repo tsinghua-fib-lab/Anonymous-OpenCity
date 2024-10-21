@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pasteur",
+            700005318
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:34)",
+        [
+            "Pasteur",
+            700005318
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:32, 15:08)",
+        [
+            "Pasteur",
+            700005318
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:55, 16:01)",
+        [
+            "Pasteur",
+            700005318
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(16:28, 18:07)",
+        [
+            "Pasteur",
+            700005318
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 23:38)",
+        [
+            "Breakroom",
+            700012141
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(20:05, 21:30)",
+        [
+            "Breakroom",
+            700012141
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(22:21, 23:59)",
+        [
+            "Breakroom",
+            700012141
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(23:36, 23:59)",
+        [
+            "Breakroom",
+            700012141
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:05)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "Entertainment Time",
+        "(16:24, 17:54)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Go to Matto Espresso",
+        "(18:20, 19:36)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 23:59)",
+        [
+            "",
+            700000911
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Il Buco Alimentari",
+            700023862
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:40)",
+        [
+            "Current Coffee",
+            700023840
+        ]
+    ],
+    [
+        "Relaxing Time",
+        "(12:19, 13:52)",
+        [
+            "Current Coffee",
+            700023840
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:56, 19:47)",
+        [
+            "Kettl",
+            700023839
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:18, 23:59)",
+        [
+            "Swift Hibernian Lounge",
+            700003237
+        ]
+    ]
+]

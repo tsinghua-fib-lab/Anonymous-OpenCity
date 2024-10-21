@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000614
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:52)",
+        [
+            "",
+            700001594
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:09, 14:32)",
+        [
+            "",
+            700000673
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 19:48)",
+        [
+            "SIMÒ PIZZA",
+            700007658
+        ]
+    ],
+    [
+        "You decide to go to another place.",
+        "(19:27, 21:06)",
+        [
+            "SIMÒ PIZZA",
+            700007658
+        ]
+    ],
+    [
+        "You stay at your current place.",
+        "(21:30, 23:03)",
+        [
+            "SIMÒ PIZZA",
+            700007658
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:08, 23:59)",
+        [
+            "maman",
+            700004115
+        ]
+    ]
+]

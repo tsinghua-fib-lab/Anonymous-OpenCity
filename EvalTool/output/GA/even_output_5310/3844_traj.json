@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ],
+    [
+        "stay",
+        "(09:00, 10:04)",
+        [
+            "Small Door Veterinary",
+            700023462
+        ]
+    ],
+    [
+        "Next activity based on the schedule",
+        "(10:37, 12:30)",
+        [
+            "Small Door Veterinary",
+            700023462
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:48, 15:04)",
+        [
+            "Club Pilates",
+            700006202
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a favorite series to relax and have some entertainment.",
+        "(16:35, 18:00)",
+        [
+            "Malii Gramercy",
+            700023463
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:54, 20:37)",
+        [
+            "",
+            700002077
+        ]
+    ],
+    [
+        "Stay at Taco Bell",
+        "(22:22, 23:43)",
+        [
+            "Small Door Veterinary",
+            700023462
+        ]
+    ],
+    [
+        "Stay at Taco Bell.",
+        "(23:52, 23:59)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ]
+]

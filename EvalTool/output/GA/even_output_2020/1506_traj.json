@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Diamond Cafe",
+            700001751
+        ]
+    ],
+    [
+        "10:00 AM - Morning Walk",
+        "(09:00, 10:40)",
+        [
+            "Lupa Trattoria",
+            700001750
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:49, 16:06)",
+        [
+            "",
+            700014427
+        ]
+    ],
+    [
+        "Play Sports or Exercise",
+        "(16:37, 17:49)",
+        [
+            "Folk",
+            700006199
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:25, 20:09)",
+        [
+            "Diamond Cafe",
+            700001751
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:21, 23:59)",
+        [
+            "The UPS Store",
+            700001763
+        ]
+    ]
+]

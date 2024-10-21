@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700044906
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:18)",
+        [
+            "",
+            700062046
+        ]
+    ],
+    [
+        "Sport or Outdoor Activity",
+        "(14:40, 16:28)",
+        [
+            "",
+            700044906
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:03, 19:00)",
+        [
+            "Marco Polo",
+            700008079
+        ]
+    ],
+    [
+        "Evening Socializing or Game Night",
+        "(20:44, 23:15)",
+        [
+            "Il Gelato del Marchese",
+            700011014
+        ]
+    ],
+    [
+        "Evening Socializing or Game Night",
+        "(23:39, 23:59)",
+        [
+            "Il Gelato del Marchese",
+            700011014
+        ]
+    ]
+]

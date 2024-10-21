@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "McDonald's",
+            700006548
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:59)",
+        [
+            "Bamboo Sushi",
+            700039048
+        ]
+    ],
+    [
+        "Go for lunch",
+        "(12:24, 13:45)",
+        [
+            "Bamboo Sushi",
+            700039048
+        ]
+    ],
+    [
+        "Stay at McDonald's",
+        "(13:56, 15:17)",
+        [
+            "Bamboo Sushi",
+            700039048
+        ]
+    ],
+    [
+        "Stay at McDonald's",
+        "(15:39, 16:41)",
+        [
+            "",
+            700001778
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:39, 21:35)",
+        [
+            "Panda Express",
+            700011619
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 20:12)",
+        [
+            "Chipotle",
+            700017949
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:09, 23:59)",
+        [
+            "Le Pain Quotidien",
+            700006028
+        ]
+    ]
+]

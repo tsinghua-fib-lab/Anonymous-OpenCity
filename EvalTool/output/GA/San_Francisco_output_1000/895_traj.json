@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000661
+        ]
+    ],
+    [
+        "Go for a morning run or workout session",
+        "(09:00, 10:04)",
+        [
+            "McTeague's Saloon",
+            700001106
+        ]
+    ],
+    [
+        "Go for a morning run or workout session",
+        "(10:54, 11:55)",
+        [
+            "La Fina Estampa",
+            700004067
+        ]
+    ],
+    [
+        "Read a book or catch up on financial news",
+        "(12:22, 13:27)",
+        [
+            "Sammy's Cafe",
+            700004065
+        ]
+    ],
+    [
+        "Read a book or catch up on financial news;",
+        "(14:13, 15:55)",
+        [
+            "",
+            700008886
+        ]
+    ],
+    [
+        "Read a book or catch up on financial news.",
+        "(16:39, 18:46)",
+        [
+            "The Sampler's House",
+            700001104
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:32, 23:59)",
+        [
+            "The San Francisco Capoeira Center",
+            700012930
+        ]
+    ]
+]

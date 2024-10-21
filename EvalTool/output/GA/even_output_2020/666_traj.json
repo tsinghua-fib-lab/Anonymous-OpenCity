@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008968
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:07)",
+        [
+            "Russian Hill-Vallejo Street Crest Historic District",
+            700000320
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:33, 13:13)",
+        [
+            "Nuestra Senora De Guadalupe Church",
+            700000205
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:55, 18:02)",
+        [
+            "",
+            700008968
+        ]
+    ],
+    [
+        "Go to Nuestra Senora De Guadalupe Church",
+        "(19:52, 21:00)",
+        [
+            "Nuestra Senora De Guadalupe Church",
+            700000205
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:05, 23:59)",
+        [
+            "Enter the Cafe",
+            700002280
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002892
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:00, 11:00)",
+        [
+            "Urban Ritual",
+            700011000
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(11:51, 13:07)",
+        [
+            "Urban Ritual",
+            700011000
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(13:50, 15:17)",
+        [
+            "Urban Ritual",
+            700011000
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:51, 18:55)",
+        [
+            "",
+            700002894
+        ]
+    ],
+    [
+        "Watching Sports or TV",
+        "(19:28, 21:01)",
+        [
+            "Giola Pizzeria",
+            700002134
+        ]
+    ],
+    [
+        "Watching Sports or TV",
+        "(21:29, 23:24)",
+        [
+            "Suppenküche",
+            700000849
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "Urban Ritual",
+            700011000
+        ]
+    ]
+]

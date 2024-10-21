@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Happy Garden Palace",
+            700014866
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:09)",
+        [
+            "",
+            700015118
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:30, 14:31)",
+        [
+            "",
+            700037442
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 20:07)",
+        [
+            "",
+            700037443
+        ]
+    ],
+    [
+        "Stay at Happy Garden Palace and enjoy your leisure time.",
+        "(21:23, 23:05)",
+        [
+            "Happy Garden Palace",
+            700014866
+        ]
+    ],
+    [
+        "Stay at a restaurant and enjoy dinner",
+        "(23:17, 23:59)",
+        [
+            "Happy Garden Palace",
+            700014866
+        ]
+    ]
+]

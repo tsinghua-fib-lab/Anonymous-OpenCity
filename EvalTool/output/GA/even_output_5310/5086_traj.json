@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pret A Manger",
+            700020632
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:15)",
+        [
+            "Sarabeth's",
+            700011724
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 17:33)",
+        [
+            "Betony",
+            700009336
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 21:20)",
+        [
+            "Bike Rental Central Park",
+            700006307
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:23, 21:59)",
+        [
+            "Pret A Manger",
+            700020632
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(22:42, 23:59)",
+        [
+            "Pret A Manger",
+            700020632
+        ]
+    ]
+]

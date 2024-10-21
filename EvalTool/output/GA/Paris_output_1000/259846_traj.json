@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700063549
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:33)",
+        [
+            "",
+            700063555
+        ]
+    ],
+    [
+        "Sport or Outdoor Activity",
+        "(14:40, 15:48)",
+        [
+            "",
+            700063549
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:03, 17:59)",
+        [
+            "Pharmacie des Grands Boulevards",
+            700004699
+        ]
+    ],
+    [
+        "Evening Socializing or Game Night",
+        "(20:44, 23:19)",
+        [
+            "O'Sullivans café bar",
+            700006165
+        ]
+    ],
+    [
+        "Afternoon Downtime",
+        "(23:39, 23:59)",
+        [
+            "",
+            700007355
+        ]
+    ]
+]

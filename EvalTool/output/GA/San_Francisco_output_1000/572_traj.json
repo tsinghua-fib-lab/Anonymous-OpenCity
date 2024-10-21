@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001237
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:18)",
+        [
+            "Matterhorn",
+            700000951
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:16, 14:03)",
+        [
+            "Matterhorn",
+            700000951
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:32, 15:58)",
+        [
+            "Matterhorn",
+            700000951
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:49, 19:08)",
+        [
+            "Blue Barn",
+            700007283
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(21:28, 23:04)",
+        [
+            "La Folie",
+            700002089
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(22:40, 23:41)",
+        [
+            "La Folie",
+            700002089
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "Cresta's",
+            700004280
+        ]
+    ]
+]

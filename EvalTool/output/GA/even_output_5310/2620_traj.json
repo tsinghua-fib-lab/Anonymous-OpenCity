@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "NAYA Express",
+            700011109
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:55)",
+        [
+            "Maman",
+            700003515
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:46, 16:40)",
+        [
+            "Maman",
+            700003515
+        ]
+    ],
+    [
+        "Visit to an Art Gallery or Museum",
+        "(17:24, 18:53)",
+        [
+            "Maman",
+            700003515
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 22:25)",
+        [
+            "Gong Cha",
+            700006458
+        ]
+    ]
+]

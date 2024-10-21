@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Regent's Park Estate",
+            700006201
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:35)",
+        [
+            "",
+            700075340
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(12:17, 13:57)",
+        [
+            "Regent's Park Estate",
+            700006201
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(14:10, 15:57)",
+        [
+            "",
+            700075347
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:00, 17:29)",
+        [
+            "Albany Street Police Station",
+            700002925
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:05, 23:59)",
+        [
+            "Albany Street Police Station",
+            700002925
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:54, 23:59)",
+        [
+            "",
+            700004645
+        ]
+    ]
+]

@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700011511
+        ]
+    ],
+    [
+        "Go for a walk or exercise",
+        "(09:00, 10:50)",
+        [
+            "Mr. East Kitchen",
+            700010259
+        ]
+    ],
+    [
+        "Go for a walk or exercise",
+        "(09:51, 11:11)",
+        [
+            "Mr. East Kitchen",
+            700010259
+        ]
+    ],
+    [
+        "Read a book or listen to a podcast.",
+        "(11:48, 13:04)",
+        [
+            "Mr. East Kitchen",
+            700010259
+        ]
+    ],
+    [
+        "Read a book or listen to a podcast.",
+        "(13:15, 15:11)",
+        [
+            "Mr. East Kitchen",
+            700010259
+        ]
+    ],
+    [
+        "Go to Mr. East Kitchen",
+        "(15:34, 17:37)",
+        [
+            "Mr. East Kitchen",
+            700010259
+        ]
+    ],
+    [
+        "Go to Mr. East Kitchen",
+        "(18:00, 19:40)",
+        [
+            "Mr. East Kitchen",
+            700010259
+        ]
+    ],
+    [
+        "Stay and read a book or listen to a podcast",
+        "(20:27, 21:59)",
+        [
+            "Mr. East Kitchen",
+            700010259
+        ]
+    ],
+    [
+        "Go to Mr. East Kitchen",
+        "(22:17, 23:59)",
+        [
+            "Mr. East Kitchen",
+            700010259
+        ]
+    ],
+    [
+        "Stay and read a book or listen to a podcast",
+        "(23:58, 23:59)",
+        [
+            "Mr. East Kitchen",
+            700010259
+        ]
+    ]
+]

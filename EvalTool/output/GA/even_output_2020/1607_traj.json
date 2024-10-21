@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Taxi Stand at Broadway and Kearney (north side)",
+            700009905
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(10:00, 11:07)",
+        [
+            "Paris Pizza",
+            700004995
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(11:32, 13:04)",
+        [
+            "Paris Pizza",
+            700004995
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 15:23)",
+        [
+            "Osmanthus Dim Sum Lounge",
+            700004352
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:12, 20:10)",
+        [
+            "Paris Pizza",
+            700004995
+        ]
+    ],
+    [
+        "Evening Relaxation and Wind Down",
+        "(20:30, 22:39)",
+        [
+            "Taxi Stand at Broadway and Kearney (north side)",
+            700009905
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "Paris Pizza",
+            700004995
+        ]
+    ]
+]

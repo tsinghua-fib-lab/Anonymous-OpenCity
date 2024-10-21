@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Nam Kue School",
+            700000204
+        ]
+    ],
+    [
+        "Morning Exercise or Outdoor Activity",
+        "(10:00, 11:25)",
+        [
+            "Bank of America",
+            700008974
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(12:17, 13:47)",
+        [
+            "Bank of America",
+            700008974
+        ]
+    ],
+    [
+        "Relax and Unwind with a Book or Movie",
+        "(14:30, 16:08)",
+        [
+            "Bank of America",
+            700008974
+        ]
+    ],
+    [
+        "Late Afternoon Hobby or Sport",
+        "(16:26, 17:52)",
+        [
+            "Bank of America",
+            700008974
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 22:38)",
+        [
+            "Jinshan Cafe",
+            700014406
+        ]
+    ]
+]

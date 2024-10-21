@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001419
+        ]
+    ],
+    [
+        "Go for a Brunch with Friends",
+        "(09:00, 10:27)",
+        [
+            "Chola Coastal Indian Cuisine",
+            700030622
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:04, 13:42)",
+        [
+            "Kurant",
+            700014226
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 20:57)",
+        [
+            "",
+            700001294
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(18:21, 20:00)",
+        [
+            "Kurant",
+            700014226
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:57, 21:18)",
+        [
+            "",
+            700001419
+        ]
+    ],
+    [
+        "Go to Kurant from Dinner Preparation and Family Time.",
+        "(22:13, 23:45)",
+        [
+            "",
+            700002681
+        ]
+    ],
+    [
+        "Go to Chola Coastal Indian Cuisine",
+        "(23:49, 23:59)",
+        [
+            "Chola Coastal Indian Cuisine",
+            700030622
+        ]
+    ]
+]

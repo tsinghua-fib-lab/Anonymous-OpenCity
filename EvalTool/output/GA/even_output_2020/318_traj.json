@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014075
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:17)",
+        [
+            "Namaste",
+            700010531
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:44, 12:54)",
+        [
+            "Namaste",
+            700010531
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:15, 15:45)",
+        [
+            "Zushi Puzzle",
+            700010111
+        ]
+    ],
+    [
+        "Enjoy an outdoor activity at a nearby park.",
+        "(17:10, 18:46)",
+        [
+            "",
+            700008743
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:23, 20:43)",
+        [
+            "",
+            700008574
+        ]
+    ],
+    [
+        "Continue your day at the nearby park and relax.",
+        "(23:40, 23:59)",
+        [
+            "",
+            700008743
+        ]
+    ]
+]

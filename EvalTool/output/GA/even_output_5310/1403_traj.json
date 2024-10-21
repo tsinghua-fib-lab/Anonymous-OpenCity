@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chase",
+            700011165
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:49)",
+        [
+            "CVS Pharmacy",
+            700011386
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 13:36)",
+        [
+            "CVS Pharmacy",
+            700011386
+        ]
+    ],
+    [
+        "Cook Dinner or Try a New Recipe",
+        "(18:36, 19:57)",
+        [
+            "CVS Pharmacy",
+            700011386
+        ]
+    ],
+    [
+        "Cook Dinner or Try a New Recipe",
+        "(20:51, 22:30)",
+        [
+            "Chase",
+            700011165
+        ]
+    ],
+    [
+        "Cook Dinner or Try a New Recipe",
+        "(22:26, 23:59)",
+        [
+            "Halpern Pharmacy",
+            700017916
+        ]
+    ]
+]

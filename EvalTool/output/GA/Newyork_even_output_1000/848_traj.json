@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fumo",
+            700014743
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:03)",
+        [
+            "",
+            700002868
+        ]
+    ],
+    [
+        "You should spend some time reading a book or working on a personal project.",
+        "(11:10, 13:15)",
+        [
+            "",
+            700002868
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(13:44, 15:20)",
+        [
+            "Fumo",
+            700014743
+        ]
+    ],
+    [
+        "Reading or hobby time",
+        "(16:00, 17:35)",
+        [
+            "Fumo",
+            700014743
+        ]
+    ],
+    [
+        "You should spend some time unwinding with a movie or catching up on your favorite TV shows.",
+        "(17:44, 18:49)",
+        [
+            "",
+            700002868
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 23:59)",
+        [
+            "Bank of America",
+            700017485
+        ]
+    ],
+    [
+        "Relaxation and Entertainment",
+        "(21:50, 23:01)",
+        [
+            "Bank of America",
+            700017485
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:22, 23:59)",
+        [
+            "",
+            700001209
+        ]
+    ]
+]

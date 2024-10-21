@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sui Yoga Studio.Cafe",
+            700039534
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:35)",
+        [
+            "",
+            700020341
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:32, 14:32)",
+        [
+            "Tribeca Soho Animal Hospital",
+            700011617
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:02, 15:20)",
+        [
+            "",
+            700020346
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:36, 23:59)",
+        [
+            "Torch & Crown Brewing Company",
+            700020021
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:31, 23:59)",
+        [
+            "",
+            700020342
+        ]
+    ]
+]

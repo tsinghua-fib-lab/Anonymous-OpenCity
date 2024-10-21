@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Hertz",
+            700034221
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(09:00, 10:20)",
+        [
+            "Hertz",
+            700034221
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(10:56, 12:22)",
+        [
+            "Hertz",
+            700034221
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:27, 14:47)",
+        [
+            "Hertz",
+            700034221
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:59, 17:07)",
+        [
+            "Hertz",
+            700034221
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:33, 22:17)",
+        [
+            "Ella's Cafe",
+            700022438
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(22:34, 23:59)",
+        [
+            "",
+            700003028
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:45, 23:49)",
+        [
+            "THEP",
+            700006560
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of America",
+            700005332
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:48)",
+        [
+            "Momo's",
+            700001707
+        ]
+    ],
+    [
+        "Current place: Momo's. Stay for 1 hour 3 minutes.",
+        "(14:57, 16:09)",
+        [
+            "Motorcycle Parking (metered bays)",
+            700005856
+        ]
+    ],
+    [
+        "Current place: Momo's. Stay for 1 hour 3 minutes.",
+        "(16:47, 18:12)",
+        [
+            "Motorcycle Parking (metered bays)",
+            700005856
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 21:15)",
+        [
+            "Bank of America",
+            700005332
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(22:33, 23:59)",
+        [
+            "Motorcycle Parking (metered bays)",
+            700005856
+        ]
+    ]
+]

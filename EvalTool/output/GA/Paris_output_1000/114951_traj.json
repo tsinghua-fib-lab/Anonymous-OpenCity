@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cardiologue",
+            700066983
+        ]
+    ],
+    [
+        "Outdoor Activity/Exercise",
+        "(10:00, 11:10)",
+        [
+            "Cardiologue",
+            700066983
+        ]
+    ],
+    [
+        "Outdoor Activity/Exercise",
+        "(11:25, 13:17)",
+        [
+            "Cardiologue",
+            700066983
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 19:18)",
+        [
+            "",
+            700001680
+        ]
+    ],
+    [
+        "Hobby/Creative Time",
+        "(16:50, 18:10)",
+        [
+            "Cardiologue",
+            700066983
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:41, 22:32)",
+        [
+            "Grande Pharmacie du Départ",
+            700001677
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "Le Rapide de Lyon",
+            700003958
+        ]
+    ]
+]

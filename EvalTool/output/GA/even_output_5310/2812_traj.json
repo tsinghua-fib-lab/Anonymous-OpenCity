@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chipotle",
+            700008432
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:00, 11:02)",
+        [
+            "Garlic New York Pizza Bar",
+            700013039
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:55, 12:13)",
+        [
+            "Garlic New York Pizza Bar",
+            700013039
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:51, 16:08)",
+        [
+            "Psychic Readings by Gina",
+            700015587
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(17:18, 18:38)",
+        [
+            "Psychic Readings by Gina",
+            700015587
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 23:59)",
+        [
+            "Hill and Bay",
+            700009476
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "Bank of America",
+            700014952
+        ]
+    ]
+]

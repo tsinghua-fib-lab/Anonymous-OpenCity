@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013593
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:00, 11:39)",
+        [
+            "",
+            700013593
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(11:50, 13:10)",
+        [
+            "",
+            700013593
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:22, 15:45)",
+        [
+            "Cote Sud",
+            700000861
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:48, 21:09)",
+        [
+            "",
+            700008738
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "18th Street Station",
+            700000386
+        ]
+    ]
+]

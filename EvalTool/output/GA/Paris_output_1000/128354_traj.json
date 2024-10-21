@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Corner Haussmann",
+            700041900
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:36)",
+        [
+            "CIC",
+            700006115
+        ]
+    ],
+    [
+        "Next activity after outdoor activity.",
+        "(12:29, 14:05)",
+        [
+            "Restaurant Thai Thai",
+            700058923
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(14:45, 16:48)",
+        [
+            "Restaurant Thai Thai",
+            700058923
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:31, 19:04)",
+        [
+            "Restaurant Thai Thai",
+            700058923
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 21:21)",
+        [
+            "Corner Haussmann",
+            700041900
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009141
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:00, 11:01)",
+        [
+            "Asiento",
+            700003033
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:31, 12:37)",
+        [
+            "",
+            700000031
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:22, 18:59)",
+        [
+            "Bay Wheels",
+            700010406
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:30, 20:50)",
+        [
+            "Bay Wheels",
+            700010406
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:12, 23:59)",
+        [
+            "CoffeeShop",
+            700009552
+        ]
+    ]
+]

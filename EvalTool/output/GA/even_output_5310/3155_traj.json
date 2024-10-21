@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "49 Columbia Newsstand & Luncheonette",
+            700024990
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:42)",
+        [
+            "Kennedy Chicken",
+            700022201
+        ]
+    ],
+    [
+        "Current place, coffee or snack",
+        "(15:23, 17:01)",
+        [
+            "Rivington Pizza",
+            700009177
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:38, 20:03)",
+        [
+            "Rivington Pizza",
+            700009177
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:02, 23:47)",
+        [
+            "Joey Roses",
+            700022489
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:46, 23:59)",
+        [
+            "Pig & Khao",
+            700016709
+        ]
+    ]
+]

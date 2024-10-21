@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - East 33rd Street & 1st Avenue",
+            700008043
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:12)",
+        [
+            "",
+            700018896
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:45, 13:01)",
+        [
+            "El Parador Café",
+            700003606
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:41, 15:03)",
+        [
+            "El Parador Café",
+            700003606
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:58, 21:44)",
+        [
+            "",
+            700018896
+        ]
+    ],
+    [
+        "Dinner at Home",
+        "(19:36, 21:10)",
+        [
+            "El Parador Café",
+            700003606
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(21:55, 23:00)",
+        [
+            "El Parador Café",
+            700003606
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "NY Bagels & Cafe",
+            700010807
+        ]
+    ]
+]

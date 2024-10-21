@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "5 Napkin Burger",
+            700003849
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:23)",
+        [
+            "5 Napkin Burger",
+            700003849
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:06, 14:16)",
+        [
+            "5 Napkin Burger",
+            700003849
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:45, 16:34)",
+        [
+            "5 Napkin Burger",
+            700003849
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 18:40)",
+        [
+            "M & Pizza",
+            700030590
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:09, 22:33)",
+        [
+            "Two Boots Pizza",
+            700008807
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "Gallo Nero",
+            700003850
+        ]
+    ]
+]

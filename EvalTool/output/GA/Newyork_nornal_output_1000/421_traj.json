@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chipotle",
+            700003456
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:50)",
+        [
+            "Chipotle",
+            700003456
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 14:37)",
+        [
+            "Matts Grill",
+            700007283
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:58, 16:45)",
+        [
+            "Thai Chai Kitchen",
+            700006319
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:20, 21:00)",
+        [
+            "Deep Indian Kitchen",
+            700009722
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:04, 23:24)",
+        [
+            "Deep Indian Kitchen",
+            700009722
+        ]
+    ],
+    [
+        "Visit Deep Indian Kitchen",
+        "(23:34, 23:59)",
+        [
+            "Deep Indian Kitchen",
+            700009722
+        ]
+    ]
+]

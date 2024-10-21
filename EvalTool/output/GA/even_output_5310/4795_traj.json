@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030128
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(09:00, 10:08)",
+        [
+            "",
+            700030128
+        ]
+    ],
+    [
+        "Attend an online yoga class",
+        "(10:22, 11:23)",
+        [
+            "",
+            700030128
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:02, 13:18)",
+        [
+            "LaVista Pizza",
+            700030618
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:54, 21:47)",
+        [
+            "The Pita Grill",
+            700011530
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:12, 23:59)",
+        [
+            "Daniello's",
+            700014652
+        ]
+    ]
+]

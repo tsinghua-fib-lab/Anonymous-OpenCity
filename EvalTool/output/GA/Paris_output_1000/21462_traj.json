@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "L'Aéroclub",
+            700008649
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:53)",
+        [
+            "Kléber - Gouverneur Général Éboué",
+            700038368
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 15:10)",
+        [
+            "Kléber - Gouverneur Général Éboué",
+            700038368
+        ]
+    ],
+    [
+        "Relaxing Time",
+        "(15:35, 16:47)",
+        [
+            "Cuisine et Tentations",
+            700027298
+        ]
+    ],
+    [
+        "Watch a Movie",
+        "(17:03, 18:34)",
+        [
+            "Cuisine et Tentations",
+            700027298
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:03, 20:38)",
+        [
+            "Cuisine et Tentations",
+            700027298
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:38, 23:59)",
+        [
+            "Pharmacie de l'Héliport",
+            700004676
+        ]
+    ],
+    [
+        "Wind Down with TV or Reading",
+        "(23:44, 23:59)",
+        [
+            "Kléber - Gouverneur Général Éboué",
+            700038368
+        ]
+    ]
+]

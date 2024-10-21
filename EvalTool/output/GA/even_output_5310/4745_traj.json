@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rite Aid",
+            700008774
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:25)",
+        [
+            "Famous Amadeus",
+            700024860
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:42, 14:09)",
+        [
+            "Famous Amadeus",
+            700024860
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:55, 19:34)",
+        [
+            "Dig",
+            700022405
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:27, 22:56)",
+        [
+            "Russian Vodka Room",
+            700006505
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "Russian Vodka Room",
+            700006505
+        ]
+    ]
+]

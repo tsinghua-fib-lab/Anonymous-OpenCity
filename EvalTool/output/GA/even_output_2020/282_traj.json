@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "Morning workout",
+        "(09:00, 10:08)",
+        [
+            "",
+            700013442
+        ]
+    ],
+    [
+        "Visit a local market or café",
+        "(10:36, 12:06)",
+        [
+            "Cafe Lé",
+            700002314
+        ]
+    ],
+    [
+        "Lunch with friends or family",
+        "(13:11, 14:47)",
+        [
+            "Kopiku",
+            700004970
+        ]
+    ],
+    [
+        "Afternoon leisure activity",
+        "(15:33, 17:23)",
+        [
+            "",
+            700001241
+        ]
+    ],
+    [
+        "Dinner and evening catch-up",
+        "(18:41, 20:51)",
+        [
+            "",
+            700008288
+        ]
+    ],
+    [
+        "Dinner and evening catch-up",
+        "(20:10, 21:37)",
+        [
+            "",
+            700008291
+        ]
+    ],
+    [
+        "Relax at home",
+        "(21:56, 23:52)",
+        [
+            "",
+            700013307
+        ]
+    ],
+    [
+        "Afternoon leisure activity",
+        "(23:35, 23:59)",
+        [
+            "Bobo’s",
+            700013445
+        ]
+    ]
+]

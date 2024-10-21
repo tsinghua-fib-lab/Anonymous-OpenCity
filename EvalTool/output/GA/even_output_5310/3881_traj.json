@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020357
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:10)",
+        [
+            "Court Street Grocers",
+            700025602
+        ]
+    ],
+    [
+        "Relaxation and Reading",
+        "(10:49, 12:09)",
+        [
+            "Karakatta",
+            700011976
+        ]
+    ],
+    [
+        "Engage in a fun afternoon activity",
+        "(13:00, 14:54)",
+        [
+            "Karakatta",
+            700011976
+        ]
+    ],
+    [
+        "Engage in a fun afternoon activity",
+        "(15:07, 17:13)",
+        [
+            "Karakatta",
+            700011976
+        ]
+    ],
+    [
+        "Dinner Preparation or Dining Out.",
+        "(17:33, 18:53)",
+        [
+            "Citi Bike - LaGuardia Pl & W 3 St",
+            700008108
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:01, 22:55)",
+        [
+            "Tre Giovani",
+            700011126
+        ]
+    ],
+    [
+        "Evening Leisure",
+        "(22:04, 23:32)",
+        [
+            "",
+            700020358
+        ]
+    ],
+    [
+        "Evening Leisure",
+        "(23:32, 23:59)",
+        [
+            "",
+            700020359
+        ]
+    ]
+]

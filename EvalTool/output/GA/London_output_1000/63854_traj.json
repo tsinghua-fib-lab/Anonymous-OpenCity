@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:01)",
+        [
+            "Cinnamon Kitchen",
+            700019971
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:35, 14:01)",
+        [
+            "Cinnamon Kitchen",
+            700019971
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 17:48)",
+        [
+            "London Steakhouse Co",
+            700020409
+        ]
+    ],
+    [
+        "Personal Projects/Errands",
+        "(16:01, 18:08)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Family Time",
+        "(18:41, 20:19)",
+        [
+            "",
+            700020450
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:54, 23:50)",
+        [
+            "Mac and Wild",
+            700030294
+        ]
+    ]
+]

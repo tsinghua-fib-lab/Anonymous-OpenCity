@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002111
+        ]
+    ],
+    [
+        "Go for a Brunch with Friends",
+        "(09:00, 10:24)",
+        [
+            "Fanelli Cafe",
+            700007733
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:04, 14:41)",
+        [
+            "",
+            700024166
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 17:39)",
+        [
+            "",
+            700002125
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(18:21, 19:41)",
+        [
+            "Dig",
+            700014681
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:57, 21:28)",
+        [
+            "",
+            700002111
+        ]
+    ],
+    [
+        "Go to Dig from Dinner Preparation and Family Time.",
+        "(22:13, 23:42)",
+        [
+            "Fanelli Cafe",
+            700007733
+        ]
+    ],
+    [
+        "Go to Fanelli Cafe",
+        "(23:49, 23:59)",
+        [
+            "Fanelli Cafe",
+            700007733
+        ]
+    ]
+]

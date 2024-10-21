@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tallgrass Burger",
+            700005931
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(09:00, 10:34)",
+        [
+            "Kumo Sushi",
+            700005929
+        ]
+    ],
+    [
+        "Next activity from reading",
+        "(10:41, 12:48)",
+        [
+            "Kumo Sushi",
+            700005929
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(13:11, 15:05)",
+        [
+            "Starbucks",
+            700004184
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(15:33, 17:13)",
+        [
+            "Balade",
+            700003570
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:22, 20:31)",
+        [
+            "Naks",
+            700038129
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:21, 23:59)",
+        [
+            "S'MAC Community Fridge",
+            700004757
+        ]
+    ]
+]

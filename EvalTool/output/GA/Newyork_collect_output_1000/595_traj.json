@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:18)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "Outdoor activities or exercise",
+        "(14:46, 16:25)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:28, 21:16)",
+        [
+            "",
+            700022503
+        ]
+    ],
+    [
+        "Prepare dinner and unwind",
+        "(18:05, 19:39)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "Relax and read or browse online",
+        "(20:34, 22:08)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Relax and read or browse online",
+        "(22:35, 23:59)",
+        [
+            "Song Yu, DPM",
+            700023820
+        ]
+    ],
+    [
+        "Relax and read or browse online",
+        "(23:55, 23:59)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ]
+]

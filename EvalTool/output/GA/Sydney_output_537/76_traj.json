@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009226
+        ]
+    ],
+    [
+        "Next activity based on plan.",
+        "(09:00, 09:59)",
+        [
+            "",
+            700026510
+        ]
+    ],
+    [
+        "Go for a morning run or workout session.",
+        "(10:21, 11:50)",
+        [
+            "",
+            700026629
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 17:58)",
+        [
+            "Adina apartment hotel",
+            700005504
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 17:35)",
+        [
+            "",
+            700026274
+        ]
+    ],
+    [
+        "Go to a restaurant.",
+        "(19:10, 20:35)",
+        [
+            "Envoy Cafe",
+            700024842
+        ]
+    ],
+    [
+        "Visit a local cafe for a late night snack",
+        "(22:34, 23:59)",
+        [
+            "",
+            700026629
+        ]
+    ]
+]

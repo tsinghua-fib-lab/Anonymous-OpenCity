@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:50)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:21, 17:07)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Spend time enjoying leisure reading or catch up on personal projects.",
+        "(16:21, 17:42)",
+        [
+            "",
+            700001007
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:15, 23:05)",
+        [
+            "",
+            700001007
+        ]
+    ],
+    [
+        "Next wind down with some light activities like playing a game or watching TV.",
+        "(21:22, 22:55)",
+        [
+            "Eataly - SoHo",
+            700030656
+        ]
+    ],
+    [
+        "Wind down with some light activities like playing a game or watching TV.",
+        "(23:40, 23:59)",
+        [
+            "Eataly - SoHo",
+            700030656
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "United States Post Office",
+            700011121
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:35)",
+        [
+            "",
+            700020532
+        ]
+    ],
+    [
+        "Cultural Outing",
+        "(15:24, 17:05)",
+        [
+            "McDonald's",
+            700004339
+        ]
+    ],
+    [
+        "Cultural Outing",
+        "(17:05, 18:53)",
+        [
+            "United States Post Office",
+            700011121
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 20:34)",
+        [
+            "McDonald's",
+            700004339
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:59)",
+        [
+            "8th Avenue Dental Associates",
+            700004394
+        ]
+    ]
+]

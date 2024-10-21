@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Wake Up",
+        "(09:00, 10:33)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:55, 16:41)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:06, 14:38)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:42, 18:47)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:16, 23:32)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:54, 23:14)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ]
+]

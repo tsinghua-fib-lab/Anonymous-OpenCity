@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001476
+        ]
+    ],
+    [
+        "stay",
+        "(09:00, 10:06)",
+        [
+            "Bombay Grill House",
+            700014247
+        ]
+    ],
+    [
+        "Next activity based on the schedule",
+        "(10:37, 12:35)",
+        [
+            "Bombay Grill House",
+            700014247
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:48, 16:05)",
+        [
+            "",
+            700001707
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a favorite series to relax and have some entertainment.",
+        "(16:35, 17:51)",
+        [
+            "",
+            700002231
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:54, 23:59)",
+        [
+            "Arias Hell's Kitchen",
+            700008998
+        ]
+    ],
+    [
+        "Stay at ProHealth Pharmacy",
+        "(22:22, 23:57)",
+        [
+            "Atlas Social Club",
+            700021420
+        ]
+    ],
+    [
+        "Stay at ProHealth Pharmacy.",
+        "(23:52, 23:59)",
+        [
+            "",
+            700002062
+        ]
+    ]
+]

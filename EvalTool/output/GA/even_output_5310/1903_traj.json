@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Health Wise Pharmacy",
+            700016564
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:20)",
+        [
+            "New York City Board of Higher Education Headquarters",
+            700000556
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:35, 19:43)",
+        [
+            "",
+            700000666
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:51, 21:33)",
+        [
+            "Kobe Sushi",
+            700013982
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:59, 23:59)",
+        [
+            "Dubl Twister",
+            700006572
+        ]
+    ]
+]

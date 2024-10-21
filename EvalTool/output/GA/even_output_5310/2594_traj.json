@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Perfect Pint",
+            700007257
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:23)",
+        [
+            "Little Collins",
+            700020932
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:39, 11:56)",
+        [
+            "Little Collins",
+            700020932
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:25, 14:09)",
+        [
+            "Amaze",
+            700011107
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(14:03, 15:42)",
+        [
+            "Little Collins",
+            700020932
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 20:56)",
+        [
+            "Citi Bike - East 45th Street & 3rd Avenue",
+            700008049
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:08, 23:59)",
+        [
+            "",
+            700001177
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020608
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:34)",
+        [
+            "",
+            700020825
+        ]
+    ],
+    [
+        "Lunch with Family/Friends",
+        "(11:21, 13:02)",
+        [
+            "",
+            700020599
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:43, 15:27)",
+        [
+            "Ollie's To Go",
+            700023407
+        ]
+    ],
+    [
+        "Grocery Shopping or Errands",
+        "(17:55, 19:02)",
+        [
+            "",
+            700020609
+        ]
+    ],
+    [
+        "Afternoon Movie or TV Series",
+        "(19:24, 21:02)",
+        [
+            "Pil Pil",
+            700011160
+        ]
+    ],
+    [
+        "Afternoon Movie or TV Series",
+        "(21:45, 23:16)",
+        [
+            "Pil Pil",
+            700011160
+        ]
+    ],
+    [
+        "Dinner & Prepare for the Week",
+        "(23:48, 23:59)",
+        [
+            "Uva",
+            700023408
+        ]
+    ]
+]

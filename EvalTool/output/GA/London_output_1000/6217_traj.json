@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:08)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:33, 13:05)",
+        [
+            "",
+            700058298
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:19, 17:09)",
+        [
+            "Phoenix Heights Community Centre",
+            700055146
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:30, 20:48)",
+        [
+            "",
+            700061664
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 20:01)",
+        [
+            "",
+            700058300
+        ]
+    ],
+    [
+        "Catch Up on TV or Movies",
+        "(20:02, 21:36)",
+        [
+            "Cafe Samba",
+            700041267
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:59)",
+        [
+            "Oysteria",
+            700074336
+        ]
+    ]
+]

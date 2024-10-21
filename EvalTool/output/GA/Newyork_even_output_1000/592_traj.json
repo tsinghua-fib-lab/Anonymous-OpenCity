@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Masseria dei Vini",
+            700006399
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:32)",
+        [
+            "",
+            700007386
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:27, 18:52)",
+        [
+            "Capital One",
+            700003472
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 21:08)",
+        [
+            "Muddy Paws Rescue",
+            700020826
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(22:51, 23:59)",
+        [
+            "Muddy Paws Rescue",
+            700020826
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "Capital One",
+            700003472
+        ]
+    ]
+]

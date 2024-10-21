@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Crepe House",
+            700003561
+        ]
+    ],
+    [
+        "Next leisure activity: Visit an art gallery or museum",
+        "(10:00, 11:38)",
+        [
+            "Bottega",
+            700003560
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:45, 13:11)",
+        [
+            "Bottega",
+            700003560
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:25, 17:39)",
+        [
+            "Bottega",
+            700003560
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 18:04)",
+        [
+            "Esperpento",
+            700003013
+        ]
+    ],
+    [
+        "Next leisure activity: Visit an art gallery or museum",
+        "(20:07, 20:59)",
+        [
+            "Esperpento",
+            700003013
+        ]
+    ],
+    [
+        "next leisure activity",
+        "(22:00, 23:59)",
+        [
+            "Esperpento",
+            700003013
+        ]
+    ]
+]

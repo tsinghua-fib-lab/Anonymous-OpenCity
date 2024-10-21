@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sauced",
+            700011744
+        ]
+    ],
+    [
+        "Stay at: Baar Baar",
+        "(09:00, 10:00)",
+        [
+            "Dim Sum Palace",
+            700004725
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:47, 13:18)",
+        [
+            "",
+            700002761
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 20:08)",
+        [
+            "",
+            700001440
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:36, 20:01)",
+        [
+            "Dim Sum Palace",
+            700004725
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:47, 22:08)",
+        [
+            "La Vera Pizza",
+            700004726
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:11, 23:59)",
+        [
+            "$1.50 Fresh Pizza",
+            700014373
+        ]
+    ]
+]

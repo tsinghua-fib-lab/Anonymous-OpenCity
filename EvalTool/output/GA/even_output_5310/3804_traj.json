@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chase",
+            700003957
+        ]
+    ],
+    [
+        "next place",
+        "(09:00, 10:32)",
+        [
+            "Chelsea Juice",
+            700040383
+        ]
+    ],
+    [
+        "Next activity based on the schedule",
+        "(10:37, 12:13)",
+        [
+            "Chelsea Juice",
+            700040383
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:48, 16:15)",
+        [
+            "",
+            700004376
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a favorite series to relax and have some entertainment.",
+        "(16:35, 18:00)",
+        [
+            "Chelsea Juice",
+            700040383
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:54, 21:40)",
+        [
+            "Chase",
+            700004374
+        ]
+    ],
+    [
+        "Stay at Chase",
+        "(22:22, 23:52)",
+        [
+            "Chase",
+            700003957
+        ]
+    ],
+    [
+        "Stay at Chase.",
+        "(23:52, 23:59)",
+        [
+            "Chase",
+            700003957
+        ]
+    ]
+]

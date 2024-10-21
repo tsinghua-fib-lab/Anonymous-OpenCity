@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:34)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Continue to Leisure Time/Shopping",
+        "(10:58, 12:56)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 17:06)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Continue to Afternoon Leisure",
+        "(16:20, 17:57)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 23:59)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(22:35, 23:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

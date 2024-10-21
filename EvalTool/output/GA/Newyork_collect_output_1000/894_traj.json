@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:27)",
+        [
+            "",
+            700022519
+        ]
+    ],
+    [
+        "Engage in a hobby or work on a personal project.",
+        "(15:42, 17:34)",
+        [
+            "Gato",
+            700008661
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:37, 20:49)",
+        [
+            "Cafe Lyria",
+            700041008
+        ]
+    ],
+    [
+        "Stay at Link NYC",
+        "(22:59, 23:53)",
+        [
+            "Cafe Lyria",
+            700041008
+        ]
+    ]
+]

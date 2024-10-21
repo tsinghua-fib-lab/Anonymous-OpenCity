@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Jackalope",
+            700004192
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:29)",
+        [
+            "Bay Wheels",
+            700009579
+        ]
+    ],
+    [
+        "2:00 PM - Outdoor Activity",
+        "(12:54, 14:10)",
+        [
+            "upcider",
+            700008830
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 17:54)",
+        [
+            "",
+            700005112
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(16:19, 18:09)",
+        [
+            "Bay Wheels",
+            700009579
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 21:16)",
+        [
+            "Sushi Sato",
+            700001046
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:53, 21:06)",
+        [
+            "Sushi Sato",
+            700001046
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:31, 23:59)",
+        [
+            "Sliders",
+            700001110
+        ]
+    ]
+]

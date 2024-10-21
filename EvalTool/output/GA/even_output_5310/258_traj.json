@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gallo Nero",
+            700004112
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:24)",
+        [
+            "Gallo Nero",
+            700004112
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:31, 14:05)",
+        [
+            "Gallo Nero",
+            700004112
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 19:19)",
+        [
+            "Westside Theatre",
+            700007262
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:40, 23:44)",
+        [
+            "Chirping Chicken",
+            700014812
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(23:56, 23:59)",
+        [
+            "Gallo Nero",
+            700004112
+        ]
+    ]
+]

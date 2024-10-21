@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700014012
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(09:00, 10:29)",
+        [
+            "Deli Board",
+            700001849
+        ]
+    ],
+    [
+        "2:00 PM to 4:00 PM - Engage in a hobby or personal project",
+        "(10:41, 12:51)",
+        [
+            "",
+            700005927
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 17:37)",
+        [
+            "",
+            700005930
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(15:12, 16:50)",
+        [
+            "Deli Board",
+            700001849
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 23:46)",
+        [
+            "",
+            700005925
+        ]
+    ],
+    [
+        "Stay at Deli Board",
+        "(23:15, 23:59)",
+        [
+            "Little Free Library",
+            700010486
+        ]
+    ]
+]

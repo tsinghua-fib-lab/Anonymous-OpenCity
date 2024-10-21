@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700003550
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(09:00, 09:59)",
+        [
+            "Astor Court",
+            700011500
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(10:15, 11:58)",
+        [
+            "Astor Court",
+            700011500
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(13:04, 14:40)",
+        [
+            "Astor Court",
+            700011500
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:42, 17:34)",
+        [
+            "The Polo Bar",
+            700015254
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:20, 20:41)",
+        [
+            "",
+            700018851
+        ]
+    ],
+    [
+        "Visit Mictlān for dinner.",
+        "(21:51, 23:21)",
+        [
+            "The Polo Bar",
+            700015254
+        ]
+    ],
+    [
+        "Stay at Nuan Xin Rice Roll to wind down",
+        "(23:51, 23:59)",
+        [
+            "",
+            700017124
+        ]
+    ]
+]

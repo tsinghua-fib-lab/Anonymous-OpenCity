@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "TD Bank",
+            700010327
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:11)",
+        [
+            "",
+            700000861
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:09, 16:35)",
+        [
+            "New York Sports Clubs",
+            700018117
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(17:24, 18:50)",
+        [
+            "New York Sports Clubs",
+            700018117
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(19:19, 20:41)",
+        [
+            "New York Sports Clubs",
+            700018117
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 23:59)",
+        [
+            "Dos Toros Taqueria",
+            700013567
+        ]
+    ]
+]

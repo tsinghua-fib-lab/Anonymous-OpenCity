@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sidewalk Juice",
+            700010601
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:02)",
+        [
+            "",
+            700010735
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:32, 13:08)",
+        [
+            "Sidewalk Juice",
+            700010601
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:15, 17:26)",
+        [
+            "Bus Stop Pizza",
+            700004204
+        ]
+    ],
+    [
+        "Prepare for the Week",
+        "(17:57, 19:14)",
+        [
+            "Bus Stop Pizza",
+            700004204
+        ]
+    ],
+    [
+        "Prepare for the Week",
+        "(19:37, 22:12)",
+        [
+            "",
+            700002918
+        ]
+    ],
+    [
+        "Prepare for the Week",
+        "(22:12, 23:58)",
+        [
+            "",
+            700002918
+        ]
+    ],
+    [
+        "Prepare for the Week",
+        "(23:34, 23:59)",
+        [
+            "",
+            700002921
+        ]
+    ]
+]

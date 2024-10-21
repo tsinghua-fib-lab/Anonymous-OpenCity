@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009593
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:27)",
+        [
+            "The Snug",
+            700009931
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:57, 16:11)",
+        [
+            "",
+            700011041
+        ]
+    ],
+    [
+        "Watch a movie or binge a series on streaming platforms",
+        "(16:30, 17:57)",
+        [
+            "The Snug",
+            700009931
+        ]
+    ],
+    [
+        "Prepare a simple dinner and enjoy it around 6:00 PM.",
+        "(18:23, 19:59)",
+        [
+            "The Snug",
+            700009931
+        ]
+    ],
+    [
+        "Wind down with some light exercise or stretching",
+        "(20:31, 21:55)",
+        [
+            "",
+            700009593
+        ]
+    ],
+    [
+        "Relax at Verdi Club",
+        "(22:19, 23:52)",
+        [
+            "",
+            700009593
+        ]
+    ],
+    [
+        "Relax at Verdi Club",
+        "(23:56, 23:59)",
+        [
+            "",
+            700006163
+        ]
+    ]
+]

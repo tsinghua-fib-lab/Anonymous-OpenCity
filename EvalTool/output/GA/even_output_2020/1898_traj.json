@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008521
+        ]
+    ],
+    [
+        "Relaxation/Reading Time",
+        "(10:00, 10:50)",
+        [
+            "AltSchool",
+            700004887
+        ]
+    ],
+    [
+        "Relaxation/Reading Time",
+        "(11:34, 12:59)",
+        [
+            "AltSchool",
+            700004887
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:14, 15:03)",
+        [
+            "Radhaus",
+            700005921
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(15:31, 16:55)",
+        [
+            "Radhaus",
+            700005921
+        ]
+    ],
+    [
+        "Cooking or Preparing Dinner",
+        "(17:15, 19:07)",
+        [
+            "",
+            700004120
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(18:51, 20:06)",
+        [
+            "",
+            700007214
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(20:50, 22:10)",
+        [
+            "Radhaus",
+            700005921
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(22:14, 23:59)",
+        [
+            "Radhaus",
+            700005921
+        ]
+    ],
+    [
+        "Relaxation/Reading Time",
+        "(23:51, 23:59)",
+        [
+            "Southside Theater",
+            700004182
+        ]
+    ]
+]

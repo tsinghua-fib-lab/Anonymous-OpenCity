@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gallardo's",
+            700002414
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:52)",
+        [
+            "Ox Cafe",
+            700002474
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Project",
+        "(13:11, 15:03)",
+        [
+            "Ox Cafe",
+            700002474
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Project",
+        "(15:39, 17:02)",
+        [
+            "Ox Cafe",
+            700002474
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:32, 22:06)",
+        [
+            "Royal Cuckoo Market",
+            700010846
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:32, 23:59)",
+        [
+            "Inca Juice & Sandwiches",
+            700014030
+        ]
+    ],
+    [
+        "Stay at Buena Vista Water Fountain",
+        "(22:54, 23:59)",
+        [
+            "Taqueria Cancun",
+            700002389
+        ]
+    ]
+]

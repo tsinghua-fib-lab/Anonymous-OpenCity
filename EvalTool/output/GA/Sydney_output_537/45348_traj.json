@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Balmain Library",
+            700004069
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:20)",
+        [
+            "",
+            700029006
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:40, 18:08)",
+        [
+            "",
+            700007038
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(18:29, 19:49)",
+        [
+            "Balmain Library",
+            700004069
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(19:53, 21:18)",
+        [
+            "Balmain Library",
+            700004069
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:13, 23:59)",
+        [
+            "Alegrias Spanish Tapas",
+            700008560
+        ]
+    ]
+]

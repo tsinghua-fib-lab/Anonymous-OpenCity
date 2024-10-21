@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002889
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:55)",
+        [
+            "Suppenküche",
+            700000849
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:19, 18:21)",
+        [
+            "Giola Pizzeria",
+            700002134
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:37, 19:47)",
+        [
+            "Bike Parking",
+            700002840
+        ]
+    ],
+    [
+        "Go to Bike Parking",
+        "(20:33, 22:12)",
+        [
+            "Bike Parking",
+            700002840
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(22:33, 23:59)",
+        [
+            "Bike Parking",
+            700002840
+        ]
+    ]
+]

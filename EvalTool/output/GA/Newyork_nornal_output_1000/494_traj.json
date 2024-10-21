@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sugar Factory",
+            700008482
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the nearby park or neighborhood to enjoy the fresh air.",
+        "(09:00, 09:51)",
+        [
+            "Sugar Factory",
+            700008482
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:39, 14:22)",
+        [
+            "",
+            700019524
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:35, 20:10)",
+        [
+            "",
+            700019524
+        ]
+    ],
+    [
+        "Current Place: Sugar Factory; Stay Time: 1 hour 24 minutes",
+        "(21:36, 23:02)",
+        [
+            "Serafina",
+            700005700
+        ]
+    ],
+    [
+        "Next place: Sugar Factory",
+        "(23:34, 23:59)",
+        [
+            "Sugar Factory",
+            700008482
+        ]
+    ]
+]

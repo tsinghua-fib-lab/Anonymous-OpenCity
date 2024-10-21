@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "bOb Bar",
+            700004118
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 13:16)",
+        [
+            "bOb Bar",
+            700004118
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 13:23)",
+        [
+            "ViVi Bubble Tea",
+            700009268
+        ]
+    ],
+    [
+        "Spend some time unwinding at home",
+        "(14:09, 15:51)",
+        [
+            "ViVi Bubble Tea",
+            700009268
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:33, 17:52)",
+        [
+            "Rockwood Music Hall",
+            700009126
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:59, 22:45)",
+        [
+            "NYC Falafel Co",
+            700014055
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(23:58, 23:59)",
+        [
+            "",
+            700002794
+        ]
+    ]
+]

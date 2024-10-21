@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700017176
+        ]
+    ],
+    [
+        "Outdoor Exercise or Sports",
+        "(10:00, 11:08)",
+        [
+            "CityMD",
+            700018071
+        ]
+    ],
+    [
+        "Outdoor Exercise or Sports",
+        "(11:02, 12:54)",
+        [
+            "CityMD",
+            700018071
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:25, 15:57)",
+        [
+            "CityMD",
+            700018071
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:58, 17:56)",
+        [
+            "CityMD",
+            700018071
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 20:37)",
+        [
+            "Eli's Night Shift",
+            700019740
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:36, 22:43)",
+        [
+            "",
+            700001516
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(23:54, 23:59)",
+        [
+            "parma Nuova",
+            700014855
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020082
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:24)",
+        [
+            "Old Chelsea Station USPS",
+            700011146
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:39, 11:58)",
+        [
+            "Old Chelsea Station USPS",
+            700011146
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:25, 13:51)",
+        [
+            "",
+            700020144
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(14:03, 15:34)",
+        [
+            "Café Grumpy",
+            700006674
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 18:48)",
+        [
+            "",
+            700020142
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:08, 23:59)",
+        [
+            "Westville Chelsea",
+            700008985
+        ]
+    ]
+]

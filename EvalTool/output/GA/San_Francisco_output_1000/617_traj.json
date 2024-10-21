@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Stu's Kitchen",
+            700010917
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:50)",
+        [
+            "",
+            700008855
+        ]
+    ],
+    [
+        "Reading or catching up on a favorite podcast",
+        "(14:02, 16:06)",
+        [
+            "Compass Children's Center",
+            700013883
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:14, 21:05)",
+        [
+            "Morty's",
+            700005079
+        ]
+    ],
+    [
+        "Reading or catching up on a favorite podcast",
+        "(20:41, 22:15)",
+        [
+            "Jin Mi Korean Cuisine",
+            700005083
+        ]
+    ],
+    [
+        "Stay at Your Home and wind down for the day.",
+        "(22:56, 23:56)",
+        [
+            "Hello!",
+            700010211
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Regent's Park Estate",
+            700006201
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:00, 10:53)",
+        [
+            "",
+            700075375
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(11:26, 13:00)",
+        [
+            "Albany Street Police Station",
+            700002925
+        ]
+    ],
+    [
+        "Free Time/Relaxation",
+        "(13:55, 15:54)",
+        [
+            "",
+            700075342
+        ]
+    ],
+    [
+        "Continue Free Time/Relaxation",
+        "(16:29, 18:06)",
+        [
+            "",
+            700075383
+        ]
+    ],
+    [
+        "Free Time/Relaxation",
+        "(18:49, 20:13)",
+        [
+            "",
+            700004645
+        ]
+    ],
+    [
+        "Free Time/Relaxation",
+        "(20:24, 22:08)",
+        [
+            "La Fenice",
+            700004646
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:27, 23:59)",
+        [
+            "",
+            700075299
+        ]
+    ]
+]

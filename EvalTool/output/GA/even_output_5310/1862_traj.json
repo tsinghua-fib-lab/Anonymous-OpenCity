@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Shanghai Chinese Restaurant",
+            700021915
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:09)",
+        [
+            "Shanghai Chinese Restaurant",
+            700021915
+        ]
+    ],
+    [
+        "Brunch",
+        "(11:39, 12:59)",
+        [
+            "Shanghai Chinese Restaurant",
+            700021915
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:20, 18:30)",
+        [
+            "Jean Claude II",
+            700024581
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:11, 19:14)",
+        [
+            "Jean Claude II",
+            700024581
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(18:26, 19:54)",
+        [
+            "le Réveil",
+            700022437
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 22:25)",
+        [
+            "Bottega",
+            700024580
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:42, 23:59)",
+        [
+            "Two Wheels",
+            700021914
+        ]
+    ]
+]

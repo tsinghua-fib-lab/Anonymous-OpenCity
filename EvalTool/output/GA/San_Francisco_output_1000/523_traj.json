@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Animal Care & Control",
+            700003777
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 10:51)",
+        [
+            "Animal Care & Control",
+            700003777
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:13, 13:00)",
+        [
+            "Animal Care & Control",
+            700003777
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:06, 15:06)",
+        [
+            "Animal Care & Control",
+            700003777
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:53, 17:14)",
+        [
+            "",
+            700010627
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 23:18)",
+        [
+            "",
+            700010627
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:23, 23:59)",
+        [
+            "Project Commotion",
+            700010880
+        ]
+    ]
+]

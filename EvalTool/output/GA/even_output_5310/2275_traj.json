@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - West 54th Street & 9th Avenue",
+            700008234
+        ]
+    ],
+    [
+        "Relax and Read/Watch TV",
+        "(10:00, 11:58)",
+        [
+            "Citi Bike - West 54th Street & 9th Avenue",
+            700008234
+        ]
+    ],
+    [
+        "Relax and Read/Watch TV",
+        "(12:36, 14:04)",
+        [
+            "Citi Bike - West 54th Street & 9th Avenue",
+            700008234
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:47, 15:51)",
+        [
+            "Citi Bike - West 54th Street & 9th Avenue",
+            700008234
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:07, 18:53)",
+        [
+            "Citi Bike - West 54th Street & 9th Avenue",
+            700008234
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:35, 22:13)",
+        [
+            "Norma",
+            700006265
+        ]
+    ]
+]

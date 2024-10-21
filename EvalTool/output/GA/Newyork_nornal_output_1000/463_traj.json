@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:15)",
+        [
+            "Brooklyn Pizza Masters",
+            700030625
+        ]
+    ],
+    [
+        "Sports/Exercise",
+        "(11:31, 12:59)",
+        [
+            "Amaze",
+            700011528
+        ]
+    ],
+    [
+        "Entertainment",
+        "(13:51, 15:03)",
+        [
+            "",
+            700010702
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 20:17)",
+        [
+            "",
+            700010700
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:02, 23:49)",
+        [
+            "TD Bank",
+            700024872
+        ]
+    ]
+]

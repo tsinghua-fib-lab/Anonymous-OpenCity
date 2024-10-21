@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700034379
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(09:00, 10:33)",
+        [
+            "",
+            700034378
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:16, 13:38)",
+        [
+            "",
+            700034382
+        ]
+    ],
+    [
+        "Engage in a Hobby or Creative Activity",
+        "(16:35, 17:52)",
+        [
+            "",
+            700034385
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:39, 23:37)",
+        [
+            "MEDRITE Urgent Care",
+            700032058
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(22:41, 23:57)",
+        [
+            "MEDRITE Urgent Care",
+            700032058
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:55, 23:59)",
+        [
+            "",
+            700034380
+        ]
+    ]
+]

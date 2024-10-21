@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(10:00, 11:55)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:41, 15:37)",
+        [
+            "TD Bank",
+            700005943
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(16:35, 17:56)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(17:57, 19:02)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 23:59)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ]
+]

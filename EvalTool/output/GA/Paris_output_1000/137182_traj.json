@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700023470
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:53)",
+        [
+            "",
+            700023470
+        ]
+    ],
+    [
+        "Go to Oliphanie",
+        "(11:29, 13:00)",
+        [
+            "Oliphanie",
+            700019056
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:38, 18:38)",
+        [
+            "",
+            700030283
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:54, 17:00)",
+        [
+            "Oliphanie",
+            700019056
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:14, 19:16)",
+        [
+            "Le Bistrot Du Parc",
+            700035291
+        ]
+    ],
+    [
+        "Stay at Oliphanie",
+        "(19:58, 21:04)",
+        [
+            "Le Bistrot Du Parc",
+            700035291
+        ]
+    ],
+    [
+        "Stay at Oliphanie.",
+        "(21:33, 23:15)",
+        [
+            "Le Bistrot Du Parc",
+            700035291
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "",
+            700019647
+        ]
+    ]
+]

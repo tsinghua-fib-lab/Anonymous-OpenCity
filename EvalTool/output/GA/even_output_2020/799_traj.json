@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700007228
+        ]
+    ],
+    [
+        "Local Park Walk",
+        "(09:00, 10:56)",
+        [
+            "",
+            700004862
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(10:31, 12:06)",
+        [
+            "",
+            700000704
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:24, 14:18)",
+        [
+            "",
+            700007228
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:07, 16:10)",
+        [
+            "",
+            700007228
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(16:41, 18:06)",
+        [
+            "",
+            700007228
+        ]
+    ],
+    [
+        "Prepare Dinner & Wind Down",
+        "(18:33, 19:56)",
+        [
+            "",
+            700007228
+        ]
+    ],
+    [
+        "Next activity based on current time.",
+        "(20:43, 22:20)",
+        [
+            "The Crafty Fox",
+            700004836
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:03, 23:59)",
+        [
+            "",
+            700008955
+        ]
+    ],
+    [
+        "Unwind at the pub and socialize",
+        "(23:22, 23:59)",
+        [
+            "The Crafty Fox",
+            700004836
+        ]
+    ]
+]

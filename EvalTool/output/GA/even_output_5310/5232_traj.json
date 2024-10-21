@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Café Minerva",
+            700008486
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 11:06)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:07, 12:43)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:34, 14:59)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:49, 21:51)",
+        [
+            "",
+            700003040
+        ]
+    ],
+    [
+        "Stay at Bleecker Playground",
+        "(20:39, 22:11)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ],
+    [
+        "Stay at Bleecker Playground",
+        "(22:56, 23:51)",
+        [
+            "The Butcher’s Daughter",
+            700012523
+        ]
+    ]
+]

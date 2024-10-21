@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005276
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:06)",
+        [
+            "RT Rotisserie",
+            700009686
+        ]
+    ],
+    [
+        "preparing and having lunch",
+        "(12:15, 13:25)",
+        [
+            "RT Rotisserie",
+            700009686
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(14:10, 16:01)",
+        [
+            "Peet's Coffee",
+            700005278
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(17:03, 19:07)",
+        [
+            "RT Rotisserie",
+            700009686
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:27, 20:46)",
+        [
+            "",
+            700002919
+        ]
+    ]
+]

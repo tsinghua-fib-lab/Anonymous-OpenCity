@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Lenz's Delicatessen",
+            700018000
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:57)",
+        [
+            "",
+            700019283
+        ]
+    ],
+    [
+        "Catch Up on a Book or Hobby",
+        "(11:16, 12:35)",
+        [
+            "Little Free Library",
+            700019281
+        ]
+    ],
+    [
+        "Catch Up on a Book or Hobby",
+        "(13:04, 14:38)",
+        [
+            "Little Free Library",
+            700019281
+        ]
+    ],
+    [
+        "Catch Up on a Book or Hobby",
+        "(15:05, 16:51)",
+        [
+            "Little Free Library",
+            700019281
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:29, 19:23)",
+        [
+            "Citi Bike - East 20th Street & FDR Drive",
+            700008034
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 20th Street & FDR Drive.",
+        "(20:08, 21:36)",
+        [
+            "StuyFitness on 20th",
+            700028439
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:54, 23:59)",
+        [
+            "Citi Bike - East 20th Street & FDR Drive",
+            700008034
+        ]
+    ]
+]

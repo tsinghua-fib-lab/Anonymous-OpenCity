@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:23)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:38, 17:42)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "After 13 minutes, consider moving to your previous place, iPark.",
+        "(20:47, 21:52)",
+        [
+            "",
+            700018908
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 22:32)",
+        [
+            "Kenneth A. Mercer, MD",
+            700023846
+        ]
+    ]
+]

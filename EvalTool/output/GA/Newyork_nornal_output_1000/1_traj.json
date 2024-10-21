@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Lander College for Women",
+            700018332
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 11:09)",
+        [
+            "Lander College for Women",
+            700018332
+        ]
+    ],
+    [
+        "Finish exercising at Lander College for Women.",
+        "(11:17, 12:46)",
+        [
+            "Lander College for Women",
+            700018332
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:42, 19:33)",
+        [
+            "",
+            700018098
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:29, 21:51)",
+        [
+            "",
+            700018107
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:10, 23:59)",
+        [
+            "",
+            700018107
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Jack's Coffee",
+            700005699
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:46)",
+        [
+            "The Standard Ice Rink",
+            700008653
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:46, 12:57)",
+        [
+            "The Standard Ice Rink",
+            700008653
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:51, 19:32)",
+        [
+            "Shake Shack",
+            700040169
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:19, 17:11)",
+        [
+            "",
+            700002934
+        ]
+    ],
+    [
+        "Wind Down & TV Time",
+        "(21:21, 22:55)",
+        [
+            "Shake Shack",
+            700040169
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:41, 23:59)",
+        [
+            "Revel",
+            700007299
+        ]
+    ]
+]

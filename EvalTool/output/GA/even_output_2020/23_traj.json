@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000028
+        ]
+    ],
+    [
+        "Wake Up and Relax",
+        "(10:00, 12:10)",
+        [
+            "Verdi Club",
+            700000053
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:14, 14:24)",
+        [
+            "Verdi Club",
+            700000053
+        ]
+    ],
+    [
+        "Visit a Cultural Venue",
+        "(14:27, 16:51)",
+        [
+            "Ernest",
+            700002360
+        ]
+    ],
+    [
+        "5:00 PM - 6:00 PM Grocery Shopping",
+        "(17:10, 18:15)",
+        [
+            "",
+            700007520
+        ]
+    ],
+    [
+        "5:00 PM - 6:00 PM Grocery Shopping",
+        "(18:22, 19:29)",
+        [
+            "Bay Wheels",
+            700010934
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:52, 20:56)",
+        [
+            "",
+            700000026
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(21:43, 23:07)",
+        [
+            "Bay Wheels",
+            700013747
+        ]
+    ],
+    [
+        "Stay at Bay Wheels",
+        "(23:36, 23:59)",
+        [
+            "Bay Wheels",
+            700010934
+        ]
+    ]
+]

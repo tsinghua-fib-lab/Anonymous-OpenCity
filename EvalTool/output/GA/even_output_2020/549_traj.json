@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Colombini",
+            700001114
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(09:00, 10:01)",
+        [
+            "Colombini",
+            700001114
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:39, 12:02)",
+        [
+            "Halal Dastarkhan",
+            700005734
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:07, 13:57)",
+        [
+            "Halal Dastarkhan",
+            700005734
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(15:59, 17:01)",
+        [
+            "R Bar",
+            700008832
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(17:25, 19:22)",
+        [
+            "Halal Dastarkhan",
+            700005734
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:22, 22:15)",
+        [
+            "MCSF Rehearsal",
+            700013858
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "FDNY Engine 15/Ladder 18/Battalion 4",
+            700005440
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:19)",
+        [
+            "",
+            700022422
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:28, 15:17)",
+        [
+            "",
+            700033275
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(18:21, 19:50)",
+        [
+            "",
+            700022423
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(20:29, 21:52)",
+        [
+            "FDNY Engine 15/Ladder 18/Battalion 4",
+            700005440
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:41, 23:59)",
+        [
+            "LES Community Fridge",
+            700019686
+        ]
+    ]
+]

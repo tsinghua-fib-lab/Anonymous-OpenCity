@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CVS Pharmacy",
+            700006625
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:46)",
+        [
+            "Citizens Bank",
+            700003473
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:53, 19:39)",
+        [
+            "Chipotle",
+            700003456
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(19:42, 21:06)",
+        [
+            "Citizens Bank",
+            700003473
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(21:08, 21:53)",
+        [
+            "Citizens Bank",
+            700003473
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(22:32, 23:59)",
+        [
+            "CVS Pharmacy",
+            700006625
+        ]
+    ]
+]

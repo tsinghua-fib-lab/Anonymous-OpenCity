@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020701
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:19)",
+        [
+            "",
+            700020875
+        ]
+    ],
+    [
+        "Watch a movie or a series episode",
+        "(14:17, 16:02)",
+        [
+            "",
+            700020701
+        ]
+    ],
+    [
+        "Engage in a hobby (like crafting, playing a game, etc.)",
+        "(16:41, 17:45)",
+        [
+            "",
+            700020701
+        ]
+    ],
+    [
+        "Prepare a simple dinner and relax",
+        "(18:05, 20:15)",
+        [
+            "Rolls & Bowls",
+            700018460
+        ]
+    ],
+    [
+        "Prepare a simple dinner and relax",
+        "(20:17, 21:54)",
+        [
+            "",
+            700020701
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:26, 23:59)",
+        [
+            "",
+            700020701
+        ]
+    ]
+]

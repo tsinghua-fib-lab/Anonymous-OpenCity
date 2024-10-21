@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Domino's",
+            700034870
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:14)",
+        [
+            "Bombay Chowk",
+            700030629
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:49, 17:42)",
+        [
+            "Campagnola Restaurant",
+            700035807
+        ]
+    ],
+    [
+        "Sport Activity",
+        "(18:01, 20:04)",
+        [
+            "Campagnola Restaurant",
+            700035807
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 23:59)",
+        [
+            "",
+            700002551
+        ]
+    ]
+]

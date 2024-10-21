@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mateo’s",
+            700006651
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:03)",
+        [
+            "",
+            700000562
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:27, 16:17)",
+        [
+            "",
+            700000564
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:39, 20:22)",
+        [
+            "Golden Gate Hall",
+            700002751
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(22:00, 23:57)",
+        [
+            "Golden Gate Hall",
+            700002751
+        ]
+    ],
+    [
+        "Stay at Sancha Sushi",
+        "(23:53, 23:59)",
+        [
+            "Intersection for the Arts",
+            700006647
+        ]
+    ]
+]

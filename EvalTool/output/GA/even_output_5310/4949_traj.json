@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700004014
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:51)",
+        [
+            "",
+            700004014
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 17:23)",
+        [
+            "",
+            700009222
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(16:09, 17:36)",
+        [
+            "Citi Bike - Central Park South & 6th Avenue",
+            700007541
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(17:38, 18:37)",
+        [
+            "Citi Bike - Central Park South & 6th Avenue",
+            700007541
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:31, 23:59)",
+        [
+            "",
+            700019048
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "",
+            700006013
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Student Study Center",
+            700006391
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:50)",
+        [
+            "Chase",
+            700022149
+        ]
+    ],
+    [
+        "Lunch with friends",
+        "(13:00, 14:38)",
+        [
+            "",
+            700020049
+        ]
+    ],
+    [
+        "Stay at Chase.",
+        "(14:35, 16:43)",
+        [
+            "ViVi Bubble Tea",
+            700009160
+        ]
+    ],
+    [
+        "Stay at Chase.",
+        "(16:48, 18:01)",
+        [
+            "ViVi Bubble Tea",
+            700009160
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:34, 20:48)",
+        [
+            "",
+            700003017
+        ]
+    ],
+    [
+        "Stay at Place 1",
+        "(19:56, 20:56)",
+        [
+            "",
+            700003062
+        ]
+    ],
+    [
+        "Stay at Student Study Center.",
+        "(21:23, 22:54)",
+        [
+            "Student Study Center",
+            700006391
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "",
+            700002442
+        ]
+    ]
+]

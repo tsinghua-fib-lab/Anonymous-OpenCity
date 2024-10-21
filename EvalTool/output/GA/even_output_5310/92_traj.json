@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chef's Table at Brooklyn Fare",
+            700012930
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:49)",
+        [
+            "Dunkin'",
+            700004322
+        ]
+    ],
+    [
+        "Morning Routine",
+        "(11:13, 13:00)",
+        [
+            "",
+            700033464
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:15, 18:07)",
+        [
+            "Thai Select",
+            700013449
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 17:17)",
+        [
+            "Pastrami and Grill",
+            700006348
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 23:00)",
+        [
+            "",
+            700018024
+        ]
+    ],
+    [
+        "Evening Wind Down and Relaxation",
+        "(22:33, 23:50)",
+        [
+            "Subway",
+            700006068
+        ]
+    ],
+    [
+        "Evening Wind Down and Relaxation",
+        "(23:56, 23:59)",
+        [
+            "Subway",
+            700006068
+        ]
+    ]
+]

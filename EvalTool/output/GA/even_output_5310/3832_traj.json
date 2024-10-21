@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000870
+        ]
+    ],
+    [
+        "Take a Morning Walk or Attend a Yoga Class",
+        "(09:00, 10:26)",
+        [
+            "Island Burger and Shakes",
+            700009072
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 16:18)",
+        [
+            "Bricola",
+            700010144
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:53, 15:49)",
+        [
+            "The Coffee Pot",
+            700015896
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(19:05, 20:39)",
+        [
+            "The Coffee Pot",
+            700015896
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 23:53)",
+        [
+            "Empanada Mama",
+            700017510
+        ]
+    ]
+]

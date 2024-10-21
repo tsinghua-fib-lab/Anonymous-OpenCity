@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:00)",
+        [
+            "Le Café Marly",
+            700000049
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:34, 15:02)",
+        [
+            "",
+            700004910
+        ]
+    ],
+    [
+        "Prepare and have dinner, maybe trying out a new recipe or enjoying takeout.",
+        "(17:31, 19:07)",
+        [
+            "Le Café Marly",
+            700000049
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:54, 23:12)",
+        [
+            "",
+            700004903
+        ]
+    ],
+    [
+        "Stay at Paris Musée du Louvre, preparing for the next day.",
+        "(23:55, 23:59)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ]
+]

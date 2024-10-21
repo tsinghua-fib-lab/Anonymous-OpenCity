@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008260
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:24)",
+        [
+            "Abrazo",
+            700001592
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(11:33, 12:54)",
+        [
+            "Abrazo",
+            700001592
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(13:30, 15:10)",
+        [
+            "Abrazo",
+            700001592
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:39, 17:10)",
+        [
+            "Swensen's Ice Cream",
+            700001593
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:00, 21:11)",
+        [
+            "Stones Throw",
+            700003304
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "Stones Throw",
+            700003304
+        ]
+    ]
+]

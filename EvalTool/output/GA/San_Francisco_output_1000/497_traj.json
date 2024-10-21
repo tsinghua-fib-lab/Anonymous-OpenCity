@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "San Francisco Chinese Baptist Church",
+            700000270
+        ]
+    ],
+    [
+        "Next arrangement after breakfast.",
+        "(10:00, 11:23)",
+        [
+            "Spuntino",
+            700004753
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 16:39)",
+        [
+            "La Boulange",
+            700000890
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:31, 21:12)",
+        [
+            "Spuntino",
+            700004753
+        ]
+    ],
+    [
+        "Stay at your current location.",
+        "(22:14, 23:56)",
+        [
+            "",
+            700009106
+        ]
+    ]
+]

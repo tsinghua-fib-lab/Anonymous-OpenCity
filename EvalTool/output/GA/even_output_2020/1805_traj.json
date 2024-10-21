@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009995
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:27)",
+        [
+            "",
+            700009995
+        ]
+    ],
+    [
+        "2:00 PM - Outdoor Activity",
+        "(12:54, 15:04)",
+        [
+            "Ryoko's",
+            700001574
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 17:22)",
+        [
+            "Sutter Pub & Restaurant",
+            700008675
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:19, 19:54)",
+        [
+            "Sutter Pub & Restaurant",
+            700008675
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 20:31)",
+        [
+            "Stookey's Club Moderne",
+            700008671
+        ]
+    ],
+    [
+        "Stay at current place",
+        "(19:53, 20:50)",
+        [
+            "",
+            700000489
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:31, 23:59)",
+        [
+            "Piraat Pizzeria & Rotisserie",
+            700004532
+        ]
+    ]
+]

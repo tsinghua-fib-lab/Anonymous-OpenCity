@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700059252
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:10)",
+        [
+            "",
+            700011431
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:34, 16:09)",
+        [
+            "",
+            700067494
+        ]
+    ],
+    [
+        "Prepare and have dinner, maybe trying out a new recipe or enjoying takeout.",
+        "(17:31, 19:01)",
+        [
+            "",
+            700059252
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:54, 20:51)",
+        [
+            "",
+            700011440
+        ]
+    ],
+    [
+        "Prepare for the next day using your current surroundings.",
+        "(23:55, 23:59)",
+        [
+            "",
+            700011445
+        ]
+    ]
+]

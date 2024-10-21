@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "ChargePoint",
+            700012432
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(10:00, 11:37)",
+        [
+            "Café Grumpy",
+            700006674
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(11:25, 12:51)",
+        [
+            "Café Grumpy",
+            700006674
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:04, 18:24)",
+        [
+            "Socarrat Paella Bar",
+            700009368
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:05, 21:53)",
+        [
+            "Café Grumpy",
+            700006674
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:28, 23:59)",
+        [
+            "The Village Vanguard",
+            700013142
+        ]
+    ]
+]

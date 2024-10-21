@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Hertz",
+            700034221
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 09:53)",
+        [
+            "New York Sports Clubs",
+            700013511
+        ]
+    ],
+    [
+        "Community event or volunteer",
+        "(13:08, 15:07)",
+        [
+            "New York Sports Clubs",
+            700013511
+        ]
+    ],
+    [
+        "Community event or volunteer",
+        "(16:04, 19:06)",
+        [
+            "New York Sports Clubs",
+            700013511
+        ]
+    ],
+    [
+        "Current Place: New York Sports Clubs",
+        "(19:27, 20:55)",
+        [
+            "NR",
+            700017567
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:40, 23:59)",
+        [
+            "Domino's",
+            700034870
+        ]
+    ]
+]

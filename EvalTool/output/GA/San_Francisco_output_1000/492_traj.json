@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "El Castillito Taqueria",
+            700005078
+        ]
+    ],
+    [
+        "Next arrangement after breakfast.",
+        "(10:00, 11:09)",
+        [
+            "Tom Waddell Urban Health Clinic",
+            700013884
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 15:13)",
+        [
+            "Casa Mayah",
+            700013875
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:31, 20:09)",
+        [
+            "",
+            700008855
+        ]
+    ],
+    [
+        "Stay at your current location.",
+        "(22:14, 23:54)",
+        [
+            "El Castillito Taqueria",
+            700005078
+        ]
+    ]
+]

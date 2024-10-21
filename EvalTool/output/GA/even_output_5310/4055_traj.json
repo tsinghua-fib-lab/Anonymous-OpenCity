@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Jack Demsey's",
+            700008652
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 10:55)",
+        [
+            "caffé bene",
+            700014744
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:21, 12:55)",
+        [
+            "Market Crates",
+            700010840
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:54, 19:01)",
+        [
+            "Market Crates",
+            700010840
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:19, 21:57)",
+        [
+            "Antoya Korean BBQ",
+            700023636
+        ]
+    ]
+]

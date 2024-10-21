@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Centre du cadran solaire formé par l'Obélisque de la Concorde",
+            700072996
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:02)",
+        [
+            "Fontaine Wallace",
+            700001382
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:25, 17:24)",
+        [
+            "Rosa Bonheur",
+            700066383
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:58, 20:11)",
+        [
+            "",
+            700070255
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:14, 23:59)",
+        [
+            "Fontaine Wallace",
+            700063343
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "",
+            700029798
+        ]
+    ]
+]

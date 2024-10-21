@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010234
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:29)",
+        [
+            "The CAVALIER",
+            700003110
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:56, 12:57)",
+        [
+            "The CAVALIER",
+            700003110
+        ]
+    ],
+    [
+        "Transitioning from Brunch with Friends",
+        "(13:22, 14:52)",
+        [
+            "Sushi Hashiri",
+            700001059
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:48, 19:47)",
+        [
+            "San Francisco Fire Credit Union",
+            700004849
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:25, 23:59)",
+        [
+            "",
+            700010232
+        ]
+    ],
+    [
+        "Go to The CAVALIER.",
+        "(22:11, 23:59)",
+        [
+            "The CAVALIER",
+            700003110
+        ]
+    ]
+]

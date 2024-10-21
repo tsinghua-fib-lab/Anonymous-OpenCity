@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Aquarium Wharf",
+            700010106
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:53)",
+        [
+            "Pontoon Bar",
+            700001996
+        ]
+    ],
+    [
+        "Sports or Outdoor Activity",
+        "(16:40, 18:16)",
+        [
+            "Pontoon Bar",
+            700001996
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(18:29, 19:51)",
+        [
+            "Pontoon Bar",
+            700001996
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:53, 21:23)",
+        [
+            "Pontoon Bar",
+            700001996
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:13, 23:59)",
+        [
+            "",
+            700029885
+        ]
+    ]
+]

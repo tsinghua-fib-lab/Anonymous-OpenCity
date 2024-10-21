@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Montagu's Gusto",
+            700013038
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:44)",
+        [
+            "Gemini Diner",
+            700008665
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:10, 16:27)",
+        [
+            "CVS Pharmacy",
+            700008443
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(18:05, 19:44)",
+        [
+            "Psychic Readings by Gina",
+            700015587
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(20:27, 22:05)",
+        [
+            "Psychic Readings by Gina",
+            700015587
+        ]
+    ],
+    [
+        "Stay at Gemini Diner",
+        "(22:53, 23:59)",
+        [
+            "Designer Braces",
+            700006336
+        ]
+    ]
+]

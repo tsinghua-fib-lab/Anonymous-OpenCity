@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700031278
+        ]
+    ],
+    [
+        "Stay at the bench.",
+        "(10:00, 12:40)",
+        [
+            "",
+            700031278
+        ]
+    ],
+    [
+        "You have lunch at the nearby park.",
+        "(12:15, 13:22)",
+        [
+            "",
+            700031269
+        ]
+    ],
+    [
+        "You stay at the bench.",
+        "(13:33, 14:57)",
+        [
+            "",
+            700031277
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 18:24)",
+        [
+            "LES Community Fridge",
+            700019686
+        ]
+    ],
+    [
+        "Collaborate over cafe vibes.",
+        "(17:49, 19:24)",
+        [
+            "LES Community Fridge",
+            700019686
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:35, 23:59)",
+        [
+            "CVS Pharmacy",
+            700003821
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:59)",
+        [
+            "",
+            700031274
+        ]
+    ]
+]

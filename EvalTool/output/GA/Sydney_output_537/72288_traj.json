@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ayam Goreng 99",
+            700011064
+        ]
+    ],
+    [
+        "Workout session followed by a refreshing shower.",
+        "(09:00, 10:20)",
+        [
+            "Ayam Goreng 99",
+            700011064
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 14:14)",
+        [
+            "",
+            700024925
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 17:48)",
+        [
+            "",
+            700013407
+        ]
+    ],
+    [
+        "Relax at home, watch a movie or catch up on a TV series.",
+        "(18:43, 19:57)",
+        [
+            "Ayam Goreng 99",
+            700011064
+        ]
+    ],
+    [
+        "Relax at home, watch a movie or catch up on a TV series.",
+        "(20:54, 22:06)",
+        [
+            "",
+            700024923
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "",
+            700024923
+        ]
+    ]
+]

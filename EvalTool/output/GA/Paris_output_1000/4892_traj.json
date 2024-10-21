@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Outdoor Sports or Exercise",
+        "(09:00, 10:31)",
+        [
+            "",
+            700026031
+        ]
+    ],
+    [
+        "Outdoor Sports or Exercise",
+        "(11:00, 12:36)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:41, 13:54)",
+        [
+            "",
+            700026031
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 15:22)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 19:36)",
+        [
+            "",
+            700026033
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:21, 23:59)",
+        [
+            "",
+            700026030
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rex",
+            700006398
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:52)",
+        [
+            "Rubby Pizzeria Restaurant",
+            700006397
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 16:19)",
+        [
+            "Subway",
+            700006396
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:21, 19:34)",
+        [
+            "",
+            700018320
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:46, 23:59)",
+        [
+            "Link NYC",
+            700013053
+        ]
+    ],
+    [
+        "Proceed to sleep.",
+        "(22:27, 23:52)",
+        [
+            "Rex",
+            700006398
+        ]
+    ],
+    [
+        "Engage in leisure activity.",
+        "(23:53, 23:59)",
+        [
+            "Rex",
+            700006398
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York City Board of Higher Education Headquarters",
+            700000556
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:12)",
+        [
+            "OM",
+            700023446
+        ]
+    ],
+    [
+        "Stay at OM",
+        "(15:50, 16:56)",
+        [
+            "",
+            700016565
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:38, 21:05)",
+        [
+            "Gracie Mews Restaurant",
+            700013556
+        ]
+    ],
+    [
+        "Stay at OM",
+        "(23:00, 23:59)",
+        [
+            "Gracie Mews Restaurant",
+            700013556
+        ]
+    ]
+]

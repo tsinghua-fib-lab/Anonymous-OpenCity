@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700007725
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:55)",
+        [
+            "Bay Wheels",
+            700011025
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:10, 11:26)",
+        [
+            "",
+            700007724
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:05, 18:27)",
+        [
+            "",
+            700007725
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:49, 23:59)",
+        [
+            "Faces SF Hayes Valley Child Development Center Infant and Toddlers",
+            700011016
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:35, 23:59)",
+        [
+            "Koshland Park Community Garden",
+            700002451
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "Bob Ross LGBT Senior Center",
+            700013315
+        ]
+    ]
+]

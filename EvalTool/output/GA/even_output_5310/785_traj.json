@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Amaze",
+            700011528
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:56)",
+        [
+            "Amaze",
+            700011528
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:34, 14:00)",
+        [
+            "Amaze",
+            700011528
+        ]
+    ],
+    [
+        "Hobby or Craft",
+        "(14:45, 16:06)",
+        [
+            "Amaze",
+            700011528
+        ]
+    ],
+    [
+        "Hobby or Craft",
+        "(16:51, 17:56)",
+        [
+            "Amaze",
+            700011528
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 19:45)",
+        [
+            "Bistro Vendôme",
+            700011529
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:48, 22:55)",
+        [
+            "Amaze",
+            700011528
+        ]
+    ],
+    [
+        "You are currently at Amaze and will stay for 1 hour and 14 minutes.",
+        "(23:49, 23:59)",
+        [
+            "Bistro Vendôme",
+            700011529
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:36)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(11:19, 12:47)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Prepare Dinner and Relax",
+        "(13:07, 14:38)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:22, 21:43)",
+        [
+            "",
+            700022517
+        ]
+    ],
+    [
+        "Prepare Dinner and Relax",
+        "(18:45, 20:23)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:19, 23:37)",
+        [
+            "",
+            700001774
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010677
+        ]
+    ],
+    [
+        "Exercise or outdoor activity",
+        "(09:00, 10:00)",
+        [
+            "",
+            700010677
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:08, 15:18)",
+        [
+            "Mel's Kitchen",
+            700001047
+        ]
+    ],
+    [
+        "Hobby time or creative activities",
+        "(14:07, 15:58)",
+        [
+            "",
+            700010677
+        ]
+    ],
+    [
+        "Hobby time or creative activities",
+        "(16:13, 17:52)",
+        [
+            "Mel's Kitchen",
+            700001047
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:35, 22:32)",
+        [
+            "Mel's Kitchen",
+            700001047
+        ]
+    ],
+    [
+        "Go to Mel's Kitchen",
+        "(22:27, 23:56)",
+        [
+            "Tommy's Joynt",
+            700000592
+        ]
+    ],
+    [
+        "Stay at Tommy's Joynt",
+        "(23:54, 23:59)",
+        [
+            "First Unitarian Universalist Church",
+            700000201
+        ]
+    ]
+]

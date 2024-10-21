@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700007624
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:54)",
+        [
+            "",
+            700005215
+        ]
+    ],
+    [
+        "Explore Local Attractions",
+        "(11:33, 13:27)",
+        [
+            "",
+            700013846
+        ]
+    ],
+    [
+        "Explore Local Attractions",
+        "(13:38, 15:08)",
+        [
+            "Buena Vista Water Fountain",
+            700005211
+        ]
+    ],
+    [
+        "Explore Local Attractions",
+        "(15:38, 17:02)",
+        [
+            "Buena Vista Water Fountain",
+            700005211
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:58, 19:30)",
+        [
+            "",
+            700001467
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 23:59)",
+        [
+            "",
+            700013915
+        ]
+    ]
+]

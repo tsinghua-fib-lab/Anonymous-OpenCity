@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Homey",
+            700014023
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(09:00, 10:58)",
+        [
+            "Restaurante Hermelinda",
+            700014026
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:51, 13:50)",
+        [
+            "Commonwealth",
+            700004380
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:38, 15:02)",
+        [
+            "Commonwealth",
+            700004380
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:54, 17:57)",
+        [
+            "YAMO",
+            700004382
+        ]
+    ],
+    [
+        "Go to Restaurante Hermelinda",
+        "(21:12, 22:48)",
+        [
+            "Restaurante Hermelinda",
+            700014026
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:54, 23:59)",
+        [
+            "",
+            700008297
+        ]
+    ]
+]

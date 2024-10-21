@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003634
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:35)",
+        [
+            "",
+            700005636
+        ]
+    ],
+    [
+        "Engage in a hobby or read a book",
+        "(12:46, 14:08)",
+        [
+            "",
+            700009595
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(14:16, 15:21)",
+        [
+            "",
+            700005631
+        ]
+    ],
+    [
+        "Prepare and have dinner, followed by winding down",
+        "(18:06, 20:01)",
+        [
+            "",
+            700003634
+        ]
+    ],
+    [
+        "Prepare and have dinner, followed by winding down.",
+        "(20:02, 21:24)",
+        [
+            "",
+            700005629
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:56, 23:09)",
+        [
+            "",
+            700003633
+        ]
+    ]
+]

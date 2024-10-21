@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Curry Dream",
+            700016722
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:34)",
+        [
+            "Mangia Organic",
+            700009470
+        ]
+    ],
+    [
+        "Current place: Mangia Organic, stay until 2:00 PM for lunch",
+        "(12:39, 14:31)",
+        [
+            "LOFT39",
+            700040518
+        ]
+    ],
+    [
+        "Stay at Mangia Organic until 2:00 PM",
+        "(15:33, 17:38)",
+        [
+            "LOFT39",
+            700040518
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:49, 23:16)",
+        [
+            "Top of the strand",
+            700010944
+        ]
+    ],
+    [
+        "Travel to New York Grill and Deli for snacks.",
+        "(20:49, 22:02)",
+        [
+            "Hack Manhattan",
+            700004034
+        ]
+    ],
+    [
+        "Go to Gomi for drinks.",
+        "(22:41, 23:59)",
+        [
+            "Han Bat",
+            700030566
+        ]
+    ]
+]

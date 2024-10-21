@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "1. **11:00 AM - Brunch at a Trendy Café**",
+        "(10:00, 11:34)",
+        [
+            "Citibike",
+            700021679
+        ]
+    ],
+    [
+        "Brunch at a Trendy Café",
+        "(11:42, 12:55)",
+        [
+            "Fiftyfourth Street Public Bath and Gymnasium",
+            700000555
+        ]
+    ],
+    [
+        "Visit Local Art Gallery or Museum",
+        "(13:58, 16:12)",
+        [
+            "Citi Bike - East 52nd Street & 2nd Avenue",
+            700008055
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:42, 18:04)",
+        [
+            "TacoVision",
+            700029765
+        ]
+    ],
+    [
+        "Pamper Session at Spa",
+        "(18:25, 20:20)",
+        [
+            "Cafe Luce",
+            700038182
+        ]
+    ],
+    [
+        "Dinner Reservation at a High-End Restaurant",
+        "(20:24, 22:04)",
+        [
+            "Equinox",
+            700008521
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:07, 23:59)",
+        [
+            "Strangelove Bar NYC",
+            700023385
+        ]
+    ]
+]

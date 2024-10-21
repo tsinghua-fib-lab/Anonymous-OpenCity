@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Salad Box",
+            700021005
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:13)",
+        [
+            "Burger Village",
+            700033655
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:00, 14:57)",
+        [
+            "Burger Village",
+            700033655
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:10, 16:30)",
+        [
+            "",
+            700028495
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:12, 20:55)",
+        [
+            "Starbucks",
+            700020646
+        ]
+    ],
+    [
+        "Stay at Salad Box",
+        "(23:17, 23:59)",
+        [
+            "Salad Box",
+            700021005
+        ]
+    ]
+]

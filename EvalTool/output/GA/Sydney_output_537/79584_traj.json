@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700022522
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:04)",
+        [
+            "Chamberlain Hotel",
+            700000128
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:06, 12:55)",
+        [
+            "",
+            700031314
+        ]
+    ],
+    [
+        "Leisure Activity / Hobby",
+        "(13:16, 15:49)",
+        [
+            "HSBC",
+            700000157
+        ]
+    ],
+    [
+        "Watch a Sports Game",
+        "(16:06, 18:08)",
+        [
+            "St. Peter Julian's Catholic Church",
+            700000156
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:15, 20:45)",
+        [
+            "",
+            700026579
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:54, 23:59)",
+        [
+            "",
+            700026579
+        ]
+    ]
+]

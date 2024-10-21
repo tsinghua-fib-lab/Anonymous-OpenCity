@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:12)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(13:55, 14:50)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:59, 19:00)",
+        [
+            "",
+            700022517
+        ]
+    ],
+    [
+        "Next, Wind Down with TV or Relaxing Activities",
+        "(19:09, 22:10)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Wind Down with TV or Relaxing Activities",
+        "(22:59, 23:57)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Next, Wind Down with TV or Relaxing Activities",
+        "(23:57, 23:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ]
+]

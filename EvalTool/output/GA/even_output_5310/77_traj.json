@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chase",
+            700024967
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:09)",
+        [
+            "",
+            700002506
+        ]
+    ],
+    [
+        "Spend time reading or catching up on a hobby",
+        "(12:29, 13:55)",
+        [
+            "The Pita Grill",
+            700011530
+        ]
+    ],
+    [
+        "Spend time reading or catching up on a hobby",
+        "(14:23, 15:48)",
+        [
+            "Chola Coastal Indian Cuisine",
+            700030622
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:51, 20:53)",
+        [
+            "",
+            700039239
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 20:49)",
+        [
+            "",
+            700006525
+        ]
+    ],
+    [
+        "Stay at Chola Coastal Indian Cuisine.",
+        "(22:28, 23:55)",
+        [
+            "",
+            700039219
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Bank of America",
+            700012821
+        ]
+    ]
+]

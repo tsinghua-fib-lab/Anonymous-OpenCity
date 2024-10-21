@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700019673
+        ]
+    ],
+    [
+        "Leisure Reading or Relaxation",
+        "(10:00, 11:09)",
+        [
+            "",
+            700019673
+        ]
+    ],
+    [
+        "Leisure Reading or Relaxation",
+        "(11:39, 13:16)",
+        [
+            "Kafeneio",
+            700017416
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 18:10)",
+        [
+            "Marsitda Sushi",
+            700017733
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 22:29)",
+        [
+            "Pho Master",
+            700017415
+        ]
+    ],
+    [
+        "Leisure Reading or Relaxation",
+        "(23:19, 23:59)",
+        [
+            "Destination Roll",
+            700017731
+        ]
+    ]
+]

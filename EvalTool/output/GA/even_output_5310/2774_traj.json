@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700019383
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:22)",
+        [
+            "Le Pain Quotidien",
+            700019661
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:41, 14:08)",
+        [
+            "Shun Lee",
+            700007586
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:25, 16:57)",
+        [
+            "Shun Lee",
+            700007586
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:36, 18:37)",
+        [
+            "Shun Lee",
+            700007586
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 22:23)",
+        [
+            "",
+            700018271
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(22:47, 23:50)",
+        [
+            "Shun Lee",
+            700007586
+        ]
+    ]
+]

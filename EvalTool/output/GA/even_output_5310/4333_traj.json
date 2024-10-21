@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "McDonald's",
+            700004777
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:09)",
+        [
+            "Akina Sushi",
+            700007892
+        ]
+    ],
+    [
+        "Lunch and Relaxation",
+        "(11:38, 13:15)",
+        [
+            "Akina Sushi",
+            700007892
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:44, 16:19)",
+        [
+            "Akina Sushi",
+            700007892
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(17:07, 19:03)",
+        [
+            "",
+            700019432
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:22, 21:58)",
+        [
+            "Chase",
+            700004182
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:42, 23:59)",
+        [
+            "J's Kitchen New York",
+            700005270
+        ]
+    ]
+]

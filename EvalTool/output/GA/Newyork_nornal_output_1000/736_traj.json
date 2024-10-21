@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Auto Motion",
+            700018140
+        ]
+    ],
+    [
+        "10:00 AM - Exercise",
+        "(09:00, 11:34)",
+        [
+            "Comodo",
+            700008463
+        ]
+    ],
+    [
+        "10:00 AM - Exercise",
+        "(10:28, 11:58)",
+        [
+            "Smile To Go",
+            700016866
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:34, 17:41)",
+        [
+            "Citi Bike - Lexington Avenue & East 24th Street",
+            700008122
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:54, 14:53)",
+        [
+            "Citi Bike - Lexington Avenue & East 24th Street",
+            700008122
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:17, 16:56)",
+        [
+            "Starbucks",
+            700003975
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:48, 18:55)",
+        [
+            "Bao Bao Cafe",
+            700006219
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(20:20, 21:56)",
+        [
+            "Little Basil",
+            700006236
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:22, 23:59)",
+        [
+            "Wingstop",
+            700017933
+        ]
+    ]
+]

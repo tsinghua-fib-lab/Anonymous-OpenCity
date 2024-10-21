@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Pescstore",
+            700005075
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(09:00, 10:23)",
+        [
+            "New Thai Elephant",
+            700010410
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:20, 12:04)",
+        [
+            "",
+            700000518
+        ]
+    ],
+    [
+        "Brunch with Friends/Family",
+        "(12:45, 14:13)",
+        [
+            "New Thai Elephant",
+            700010410
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:10, 20:17)",
+        [
+            "Pizzeria & Grill",
+            700004977
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 19:51)",
+        [
+            "",
+            700000622
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(19:43, 20:51)",
+        [
+            "Pescstore",
+            700005075
+        ]
+    ],
+    [
+        "Evening Relaxation and TV Time",
+        "(21:40, 23:13)",
+        [
+            "Pescstore",
+            700005075
+        ]
+    ],
+    [
+        "Evening Relaxation and TV Time",
+        "(23:24, 23:59)",
+        [
+            "Pescstore",
+            700005075
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "CVS Pharmacy",
+            700033545
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:07)",
+        [
+            "The Malt House",
+            700022180
+        ]
+    ],
+    [
+        "Personal Project or Hobby",
+        "(10:25, 12:05)",
+        [
+            "The Malt House",
+            700022180
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 17:16)",
+        [
+            "Xi'an Famous Foods",
+            700014016
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:31, 21:21)",
+        [
+            "Friendly Gourmet Pizza",
+            700011425
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:44, 23:20)",
+        [
+            "Xi'an Famous Foods",
+            700014016
+        ]
+    ]
+]

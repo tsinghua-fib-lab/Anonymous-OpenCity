@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009355
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:00)",
+        [
+            "Starbucks",
+            700005116
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:13, 15:18)",
+        [
+            "Bay Area Strength and Nutrition",
+            700002401
+        ]
+    ],
+    [
+        "Household Chores",
+        "(11:53, 13:03)",
+        [
+            "Bay Area Strength and Nutrition",
+            700002401
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(13:46, 16:04)",
+        [
+            "Starbucks",
+            700005116
+        ]
+    ],
+    [
+        "Social Time or Community Engagement",
+        "(16:37, 18:04)",
+        [
+            "Starbucks",
+            700005116
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(19:07, 21:01)",
+        [
+            "Starbucks",
+            700005116
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(21:13, 22:44)",
+        [
+            "Starbucks",
+            700005116
+        ]
+    ],
+    [
+        "Stay at Starbucks",
+        "(23:24, 23:59)",
+        [
+            "Starbucks",
+            700005116
+        ]
+    ]
+]

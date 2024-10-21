@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030404
+        ]
+    ],
+    [
+        "Next place for catching up on TV or movies.",
+        "(09:00, 10:50)",
+        [
+            "",
+            700020731
+        ]
+    ],
+    [
+        "Catch up on TV or Movies",
+        "(10:52, 11:59)",
+        [
+            "",
+            700030404
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:47, 15:45)",
+        [
+            "",
+            700030409
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:55, 18:11)",
+        [
+            "",
+            700030401
+        ]
+    ],
+    [
+        "Stay at Home for Dinner and Wind Down",
+        "(21:38, 23:00)",
+        [
+            "",
+            700030404
+        ]
+    ],
+    [
+        "Stay at Home for Catching up on TV or Movies",
+        "(23:28, 23:59)",
+        [
+            "",
+            700030404
+        ]
+    ]
+]

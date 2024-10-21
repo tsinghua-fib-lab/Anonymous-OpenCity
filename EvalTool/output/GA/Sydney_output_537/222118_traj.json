@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006118
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:56)",
+        [
+            "Emperors Garden Bakery",
+            700011269
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(15:48, 18:04)",
+        [
+            "",
+            700006118
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:56, 20:40)",
+        [
+            "",
+            700017902
+        ]
+    ],
+    [
+        "Wind Down and Reflect",
+        "(20:48, 22:44)",
+        [
+            "",
+            700006118
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:12, 23:59)",
+        [
+            "Emperors Garden Bakery",
+            700011269
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700036562
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:11)",
+        [
+            "",
+            700036562
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 17:37)",
+        [
+            "",
+            700036562
+        ]
+    ],
+    [
+        "Stay at Le Petit Plateau",
+        "(20:54, 21:59)",
+        [
+            "Le Petit Plateau",
+            700017657
+        ]
+    ],
+    [
+        "Stay at Le Petit Plateau",
+        "(22:28, 23:50)",
+        [
+            "Le Petit Plateau",
+            700017657
+        ]
+    ]
+]

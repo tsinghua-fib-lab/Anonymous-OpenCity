@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CVS Pharmacy",
+            700015709
+        ]
+    ],
+    [
+        "Go for a relaxing walk or hike in a nearby park.",
+        "(10:00, 11:31)",
+        [
+            "The Crooked Knife",
+            700008588
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:30, 18:24)",
+        [
+            "",
+            700032012
+        ]
+    ],
+    [
+        "Engage in a fun sports activity, like playing tennis or cycling.",
+        "(18:24, 19:53)",
+        [
+            "The Crooked Knife",
+            700008588
+        ]
+    ],
+    [
+        "Wind down with a movie or TV show at home.",
+        "(20:06, 22:38)",
+        [
+            "The Crooked Knife",
+            700008588
+        ]
+    ],
+    [
+        "Stay at The Crooked Knife",
+        "(22:53, 23:59)",
+        [
+            "The Crooked Knife",
+            700008588
+        ]
+    ],
+    [
+        "Stay at CVS Pharmacy",
+        "(23:43, 23:59)",
+        [
+            "The Crooked Knife",
+            700008588
+        ]
+    ]
+]

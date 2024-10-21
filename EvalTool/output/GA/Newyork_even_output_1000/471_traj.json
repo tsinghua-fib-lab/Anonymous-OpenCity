@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002792
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:10)",
+        [
+            "Tri Dim Shanghai",
+            700019737
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 17:30)",
+        [
+            "Sushi Noz",
+            700019735
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 21:10)",
+        [
+            "Rothschild TLV",
+            700019738
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:23, 23:14)",
+        [
+            "Sushi Noz",
+            700019735
+        ]
+    ],
+    [
+        "Evening Wind Down with Reading",
+        "(22:03, 23:32)",
+        [
+            "Tri Dim Shanghai",
+            700019737
+        ]
+    ],
+    [
+        "Evening Wind Down with Reading",
+        "(23:58, 23:59)",
+        [
+            "Sushi Noz",
+            700019735
+        ]
+    ]
+]

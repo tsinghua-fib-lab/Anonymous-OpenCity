@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700015971
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(09:00, 09:54)",
+        [
+            "",
+            700015972
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(10:16, 11:31)",
+        [
+            "Cadence",
+            700034136
+        ]
+    ],
+    [
+        "Continue current plan.",
+        "(12:25, 14:41)",
+        [
+            "Cadence",
+            700034136
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(14:18, 15:55)",
+        [
+            "Cadence",
+            700034136
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:31, 21:16)",
+        [
+            "Avant Garden",
+            700009007
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 22:33)",
+        [
+            "Citi Bike - East 7th Street & Avenue A",
+            700004237
+        ]
+    ],
+    [
+        "Stay at Cadence.",
+        "(23:39, 23:59)",
+        [
+            "Cadence",
+            700034136
+        ]
+    ]
+]

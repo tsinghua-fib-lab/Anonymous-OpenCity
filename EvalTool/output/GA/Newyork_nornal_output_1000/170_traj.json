@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "McDonald's",
+            700003766
+        ]
+    ],
+    [
+        "Next activity after morning routine.",
+        "(09:00, 10:40)",
+        [
+            "Palace Theater",
+            700000566
+        ]
+    ],
+    [
+        "Leisure Reading or Skill Development",
+        "(10:48, 12:59)",
+        [
+            "Palace Theater",
+            700000566
+        ]
+    ],
+    [
+        "Leisure Reading or Skill Development",
+        "(13:58, 15:27)",
+        [
+            "Palace Theater",
+            700000566
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:38, 19:31)",
+        [
+            "Palace Theater",
+            700000566
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:56, 23:59)",
+        [
+            "",
+            700026618
+        ]
+    ]
+]

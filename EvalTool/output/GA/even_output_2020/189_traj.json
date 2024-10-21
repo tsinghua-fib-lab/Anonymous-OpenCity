@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "All Spice",
+            700003099
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Development",
+        "(10:00, 11:40)",
+        [
+            "All Spice",
+            700003099
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:13, 16:22)",
+        [
+            "Uncle Vito's Pizzeria",
+            700003101
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 18:53)",
+        [
+            "",
+            700000538
+        ]
+    ],
+    [
+        "Continue at Last Drop Tavern",
+        "(22:04, 23:29)",
+        [
+            "Last Drop Tavern",
+            700003100
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "Wells Fargo",
+            700000485
+        ]
+    ]
+]

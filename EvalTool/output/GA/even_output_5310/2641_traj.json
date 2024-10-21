@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Famous Original Ray's Pizza",
+            700004404
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:55)",
+        [
+            "",
+            700002525
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:46, 16:54)",
+        [
+            "Bocca di Bacco",
+            700008720
+        ]
+    ],
+    [
+        "Dinner Reservation",
+        "(17:24, 18:57)",
+        [
+            "Bocca di Bacco",
+            700008720
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 22:12)",
+        [
+            "Posh Pass NYC",
+            700003865
+        ]
+    ]
+]

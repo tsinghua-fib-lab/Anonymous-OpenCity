@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Continue with personal projects or hobbies.",
+        "(10:00, 12:10)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 13:59)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "Continue with personal projects or hobbies.",
+        "(15:27, 17:07)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "5:30 PM - 7:00 PM",
+        "(17:57, 19:34)",
+        [
+            "Coletta",
+            700015591
+        ]
+    ],
+    [
+        "Continue at AWOL Bar and Grill",
+        "(20:04, 22:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "AWOL Bar and Grill",
+        "(22:14, 23:38)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Continue at Mughlai;",
+        "(23:50, 23:59)",
+        [
+            "Dunkin'",
+            700024685
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "NYPD 6 PCT",
+            700004365
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 12:08)",
+        [
+            "NYPD 6 PCT",
+            700004365
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:56, 15:04)",
+        [
+            "NYPD 6 PCT",
+            700004365
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:20, 17:25)",
+        [
+            "NYPD 6 PCT",
+            700004365
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(17:55, 18:51)",
+        [
+            "NYPD 6 PCT",
+            700004365
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 20:59)",
+        [
+            "",
+            700000689
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Oslo Coffee Roasters",
+            700023339
+        ]
+    ]
+]

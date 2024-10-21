@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008297
+        ]
+    ],
+    [
+        "Leisure Reading/TV Time",
+        "(09:00, 10:25)",
+        [
+            "",
+            700008297
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:39, 15:41)",
+        [
+            "Action Car Rental",
+            700008452
+        ]
+    ],
+    [
+        "Leisure Reading/TV Time",
+        "(16:27, 17:57)",
+        [
+            "Action Car Rental",
+            700008452
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(18:54, 20:10)",
+        [
+            "",
+            700008453
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(20:29, 21:49)",
+        [
+            "Romano Pizza",
+            700008556
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:18, 23:59)",
+        [
+            "Icon Parking",
+            700011099
+        ]
+    ]
+]

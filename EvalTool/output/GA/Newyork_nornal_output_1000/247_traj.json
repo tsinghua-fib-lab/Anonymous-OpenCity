@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - University Pl & E 8 St",
+            700021684
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:59)",
+        [
+            "Citi Bike - University Pl & E 8 St",
+            700021684
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:30, 16:34)",
+        [
+            "Icon Parking",
+            700014875
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:46, 16:46)",
+        [
+            "Chase",
+            700007666
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:48, 20:59)",
+        [
+            "Icon Parking",
+            700014875
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:16, 23:59)",
+        [
+            "Citi Bike - University Pl & E 8 St",
+            700021684
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:22, 23:59)",
+        [
+            "New York Pen & Stationery",
+            700040625
+        ]
+    ]
+]

@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Don Ramon's",
+            700005052
+        ]
+    ],
+    [
+        "Go for a walk or exercise",
+        "(09:00, 10:04)",
+        [
+            "",
+            700000559
+        ]
+    ],
+    [
+        "Go for a walk or exercise",
+        "(09:51, 10:52)",
+        [
+            "Gaslamp Cafe",
+            700004522
+        ]
+    ],
+    [
+        "Read a book or listen to a podcast.",
+        "(11:48, 12:52)",
+        [
+            "Gaslamp Cafe",
+            700004522
+        ]
+    ],
+    [
+        "Read a book or listen to a podcast.",
+        "(13:15, 15:02)",
+        [
+            "Gaslamp Cafe",
+            700004522
+        ]
+    ],
+    [
+        "Stay and read a book or listen to a podcast",
+        "(15:34, 17:09)",
+        [
+            "Gaslamp Cafe",
+            700004522
+        ]
+    ],
+    [
+        "Stay and read a book or listen to a podcast",
+        "(18:00, 19:58)",
+        [
+            "Gaslamp Cafe",
+            700004522
+        ]
+    ],
+    [
+        "Stay and read a book or listen to a podcast",
+        "(20:27, 21:49)",
+        [
+            "Gaslamp Cafe",
+            700004522
+        ]
+    ],
+    [
+        "Stay at Gaslamp Cafe",
+        "(22:17, 23:59)",
+        [
+            "Gaslamp Cafe",
+            700004522
+        ]
+    ],
+    [
+        "Stay and read a book or listen to a podcast",
+        "(23:58, 23:59)",
+        [
+            "Gaslamp Cafe",
+            700004522
+        ]
+    ]
+]

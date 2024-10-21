@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kochi",
+            700006373
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:14)",
+        [
+            "Hallo Berlin",
+            700006371
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 16:45)",
+        [
+            "",
+            700002678
+        ]
+    ],
+    [
+        "Prepare Dinner and Cook",
+        "(18:28, 19:58)",
+        [
+            "Hallo Berlin",
+            700006371
+        ]
+    ],
+    [
+        "Prepare Dinner and Cook",
+        "(20:38, 22:06)",
+        [
+            "Hallo Berlin",
+            700006371
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:05, 23:59)",
+        [
+            "Hallo Berlin",
+            700006371
+        ]
+    ],
+    [
+        "Sleep or relax at Hallo Berlin.",
+        "(23:39, 23:59)",
+        [
+            "Hallo Berlin",
+            700006371
+        ]
+    ]
+]

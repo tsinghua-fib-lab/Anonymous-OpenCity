@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "Next activity based on the current plan.",
+        "(10:00, 11:51)",
+        [
+            "Tooley Street",
+            700009948
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:37, 18:01)",
+        [
+            "",
+            700008684
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 15:43)",
+        [
+            "Tooley Street",
+            700009948
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series on streaming platforms for some entertainment.",
+        "(18:57, 20:06)",
+        [
+            "",
+            700017167
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:32, 22:45)",
+        [
+            "",
+            700008684
+        ]
+    ]
+]

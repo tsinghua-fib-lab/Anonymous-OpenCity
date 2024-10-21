@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020599
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 11:20)",
+        [
+            "Citi Bike",
+            700020600
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 17:37)",
+        [
+            "Doc Watson's",
+            700023410
+        ]
+    ],
+    [
+        "Watch a Sports Game",
+        "(18:38, 19:59)",
+        [
+            "the Blue Mezze Bar",
+            700023409
+        ]
+    ],
+    [
+        "Watch a Sports Game",
+        "(20:28, 21:51)",
+        [
+            "the Blue Mezze Bar",
+            700023409
+        ]
+    ],
+    [
+        "Watch a Sports Game",
+        "(22:04, 23:35)",
+        [
+            "Value Price Pharmacy",
+            700020591
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "",
+            700020599
+        ]
+    ]
+]

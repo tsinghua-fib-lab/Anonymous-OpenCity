@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mobster Diner",
+            700019308
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:56)",
+        [
+            "",
+            700068025
+        ]
+    ],
+    [
+        "Engaging in a hobby or reading a book.",
+        "(16:34, 18:14)",
+        [
+            "",
+            700064154
+        ]
+    ],
+    [
+        "Engaging in a hobby or reading a book.",
+        "(19:01, 20:40)",
+        [
+            "Mobster Diner",
+            700019308
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:59)",
+        [
+            "",
+            700068025
+        ]
+    ]
+]

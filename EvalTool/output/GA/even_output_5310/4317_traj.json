@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700027179
+        ]
+    ],
+    [
+        "Outdoor Walk/Exercise",
+        "(10:00, 11:04)",
+        [
+            "Trinity Place Bar and Restaurant",
+            700009053
+        ]
+    ],
+    [
+        "Outdoor Walk/Exercise",
+        "(11:02, 12:07)",
+        [
+            "Trinity Place Bar and Restaurant",
+            700009053
+        ]
+    ],
+    [
+        "Lunch Preparation",
+        "(12:17, 14:02)",
+        [
+            "Trinity Place Bar and Restaurant",
+            700009053
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 16:31)",
+        [
+            "",
+            700027188
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:28, 23:59)",
+        [
+            "",
+            700027186
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:14, 23:59)",
+        [
+            "",
+            700010421
+        ]
+    ]
+]

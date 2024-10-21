@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "FDNY Engine 15/Ladder 18/Battalion 4",
+            700005440
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(09:00, 10:08)",
+        [
+            "FDNY Engine 15/Ladder 18/Battalion 4",
+            700005440
+        ]
+    ],
+    [
+        "Attend an online yoga class",
+        "(10:22, 11:26)",
+        [
+            "FDNY Engine 15/Ladder 18/Battalion 4",
+            700005440
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:02, 16:53)",
+        [
+            "",
+            700033275
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:54, 23:58)",
+        [
+            "Joan H. and Preston Robert Tisch Center",
+            700022907
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:12, 23:59)",
+        [
+            "GrandLo Cafe",
+            700022906
+        ]
+    ]
+]

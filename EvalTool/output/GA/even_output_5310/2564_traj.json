@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700003034
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:37)",
+        [
+            "Stone Street Coffee Company",
+            700014509
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:39, 11:52)",
+        [
+            "Stone Street Coffee Company",
+            700014509
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:25, 13:54)",
+        [
+            "Stone Street Coffee Company",
+            700014509
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(14:03, 15:35)",
+        [
+            "Stone Street Coffee Company",
+            700014509
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 20:56)",
+        [
+            "",
+            700000822
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:08, 23:59)",
+        [
+            "Stone Street Coffee Company",
+            700014509
+        ]
+    ]
+]

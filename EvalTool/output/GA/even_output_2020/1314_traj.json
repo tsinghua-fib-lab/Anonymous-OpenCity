@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005093
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:08)",
+        [
+            "Alamo Square Cafe",
+            700003053
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:32, 13:16)",
+        [
+            "Alamo Square Cafe",
+            700003053
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:15, 16:29)",
+        [
+            "",
+            700011071
+        ]
+    ],
+    [
+        "Prepare for the Week",
+        "(17:57, 19:01)",
+        [
+            "Little Free Library",
+            700010493
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(19:37, 22:05)",
+        [
+            "Little Free Library",
+            700010493
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(22:12, 23:07)",
+        [
+            "Little Free Library",
+            700010493
+        ]
+    ],
+    [
+        "Prepare for the Week",
+        "(23:34, 23:59)",
+        [
+            "Little Free Library",
+            700010493
+        ]
+    ]
+]

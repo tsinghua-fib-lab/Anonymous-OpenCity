@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the park.",
+        "(10:00, 10:56)",
+        [
+            "",
+            700004902
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(11:48, 13:28)",
+        [
+            "",
+            700004922
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(14:03, 15:38)",
+        [
+            "Chez Adel",
+            700018561
+        ]
+    ],
+    [
+        "Prepare and have dinner",
+        "(16:36, 18:01)",
+        [
+            "L'Écluse",
+            700035864
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:34, 23:15)",
+        [
+            "",
+            700056821
+        ]
+    ]
+]

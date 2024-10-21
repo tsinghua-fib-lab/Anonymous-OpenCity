@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "NYPD 17 PCT",
+            700004366
+        ]
+    ],
+    [
+        "Reading & Personal Development",
+        "(09:00, 10:27)",
+        [
+            "NYPD 17 PCT",
+            700004366
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:15, 12:27)",
+        [
+            "FDNY Engine 8/Ladder 2/Battalion 8",
+            700000530
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:00, 17:52)",
+        [
+            "FDNY Engine 8/Ladder 2/Battalion 8",
+            700000530
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:51, 21:04)",
+        [
+            "",
+            700001668
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(23:54, 23:59)",
+        [
+            "",
+            700001668
+        ]
+    ]
+]

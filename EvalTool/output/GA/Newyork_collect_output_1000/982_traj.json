@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:40)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:21, 14:00)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:55, 16:22)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:37, 17:55)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Relaxation/Leisure Reading",
+        "(17:53, 19:06)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Relaxation/Leisure Reading",
+        "(19:47, 21:06)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "stay at New York Comedy Club",
+        "(21:07, 22:51)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:21, 23:59)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ]
+]

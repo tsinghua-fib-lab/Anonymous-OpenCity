@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Georgies Coffee Shop",
+            700032478
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:47)",
+        [
+            "Health Save Pharmacy",
+            700004563
+        ]
+    ],
+    [
+        "Watch a few episodes of a favorite TV series or catch up on a movie.",
+        "(15:10, 17:06)",
+        [
+            "Health Save Pharmacy",
+            700004563
+        ]
+    ],
+    [
+        "Watch a few episodes of a favorite TV series or catch up on a movie.",
+        "(17:24, 19:09)",
+        [
+            "Georgies Coffee Shop",
+            700032478
+        ]
+    ],
+    [
+        "Prepare and enjoy dinner, followed by some downtime, possibly reading or browsing online.",
+        "(19:44, 21:17)",
+        [
+            "Georgies Coffee Shop",
+            700032478
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:57, 23:59)",
+        [
+            "Fusion",
+            700004633
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009300
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:04)",
+        [
+            "Hello!",
+            700010211
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 16:04)",
+        [
+            "",
+            700010279
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(17:10, 18:27)",
+        [
+            "",
+            700010287
+        ]
+    ],
+    [
+        "Prepare and have dinner, followed by relaxation",
+        "(18:47, 20:38)",
+        [
+            "Hello!",
+            700010211
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:59, 23:59)",
+        [
+            "Shovels Bar",
+            700002145
+        ]
+    ]
+]

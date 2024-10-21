@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chelsea Park Toilets",
+            700009102
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:48)",
+        [
+            "",
+            700020823
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:57, 13:19)",
+        [
+            "Marquee",
+            700017482
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:44, 15:11)",
+        [
+            "Marquee",
+            700017482
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:12, 21:39)",
+        [
+            "Highline Pizzeria",
+            700009122
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 20:46)",
+        [
+            "",
+            700001984
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "",
+            700037832
+        ]
+    ]
+]

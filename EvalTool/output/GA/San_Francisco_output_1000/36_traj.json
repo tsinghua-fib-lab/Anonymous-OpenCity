@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Carl's Jr.",
+            700003108
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:00)",
+        [
+            "",
+            700000097
+        ]
+    ],
+    [
+        "Continue Outdoor Activity",
+        "(12:14, 13:50)",
+        [
+            "USPS",
+            700005897
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(14:48, 15:59)",
+        [
+            "USPS",
+            700005897
+        ]
+    ],
+    [
+        "Continue Leisure Reading or Hobbies",
+        "(16:10, 17:47)",
+        [
+            "USPS",
+            700005897
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:48, 20:01)",
+        [
+            "",
+            700007490
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:15, 23:59)",
+        [
+            "",
+            700004896
+        ]
+    ],
+    [
+        "Next arrangement considering your plan",
+        "(23:33, 23:59)",
+        [
+            "Panda Express",
+            700004821
+        ]
+    ]
+]

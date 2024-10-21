@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sushi GoGo",
+            700010261
+        ]
+    ],
+    [
+        "Stay at Sushi GoGo and enjoy breakfast.",
+        "(10:00, 11:25)",
+        [
+            "Chennai Kings",
+            700005096
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:55, 14:52)",
+        [
+            "The Baked Bear",
+            700005368
+        ]
+    ],
+    [
+        "Stay at Sushi GoGo",
+        "(15:48, 16:56)",
+        [
+            "Taqueria El Farolito",
+            700005443
+        ]
+    ],
+    [
+        "Stay at Sushi GoGo and engage in a hobby.",
+        "(17:29, 19:06)",
+        [
+            "Sushi GoGo",
+            700010261
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 23:59)",
+        [
+            "Tanguito",
+            700003675
+        ]
+    ]
+]

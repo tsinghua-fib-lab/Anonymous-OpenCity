@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Nerai",
+            700039245
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:54)",
+        [
+            "Nerai",
+            700039245
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:01, 12:25)",
+        [
+            "",
+            700039237
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:42, 14:11)",
+        [
+            "Nerai",
+            700039245
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 18:52)",
+        [
+            "",
+            700039237
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:20, 18:51)",
+        [
+            "Nerai",
+            700039245
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:44, 23:59)",
+        [
+            "San Pietro Restaurant",
+            700024592
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:50, 23:59)",
+        [
+            "U.S. Athletic Training Center",
+            700013761
+        ]
+    ]
+]

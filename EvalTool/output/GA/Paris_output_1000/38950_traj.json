@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "86 Champs",
+            700033454
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:18)",
+        [
+            "G",
+            700058227
+        ]
+    ],
+    [
+        "Enjoy a meal at G.",
+        "(11:33, 12:59)",
+        [
+            "Gypsi Motel",
+            700059895
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 15:50)",
+        [
+            "Berri - Washington",
+            700003353
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:21, 18:22)",
+        [
+            "86 Champs",
+            700033454
+        ]
+    ],
+    [
+        "Stay at 86 Champs.",
+        "(21:07, 22:27)",
+        [
+            "Le Lincoln",
+            700003350
+        ]
+    ],
+    [
+        "Visit Torre di pizza.",
+        "(23:10, 23:59)",
+        [
+            "Starbucks",
+            700001935
+        ]
+    ]
+]

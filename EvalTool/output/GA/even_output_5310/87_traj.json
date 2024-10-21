@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002494
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:35)",
+        [
+            "Dr. Benjamin Paul",
+            700040418
+        ]
+    ],
+    [
+        "Spend time reading or catching up on a hobby",
+        "(12:29, 14:00)",
+        [
+            "",
+            700002494
+        ]
+    ],
+    [
+        "Spend time reading or catching up on a hobby",
+        "(14:23, 16:02)",
+        [
+            "",
+            700002494
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:51, 20:07)",
+        [
+            "Duane Reade",
+            700009654
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 22:38)",
+        [
+            "",
+            700002494
+        ]
+    ],
+    [
+        "Stay at Dr. Benjamin Paul.",
+        "(22:28, 23:51)",
+        [
+            "Jet's Pizza",
+            700032492
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "",
+            700011411
+        ]
+    ]
+]

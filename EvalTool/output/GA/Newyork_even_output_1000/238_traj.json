@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 30th Street & Park Avenue South",
+            700007570
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby",
+        "(10:00, 12:08)",
+        [
+            "Citi Bike - East 30th Street & Park Avenue South",
+            700007570
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby",
+        "(12:12, 13:56)",
+        [
+            "Citi Bike - East 30th Street & Park Avenue South",
+            700007570
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 16:47)",
+        [
+            "Dunkin'",
+            700003440
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 20:58)",
+        [
+            "Così",
+            700007577
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:32, 22:36)",
+        [
+            "",
+            700001054
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:19, 23:57)",
+        [
+            "",
+            700018845
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 30th Street & Park Avenue South",
+        "(23:57, 23:59)",
+        [
+            "Dig",
+            700022404
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001901
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(09:00, 10:03)",
+        [
+            "",
+            700001901
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(10:16, 11:29)",
+        [
+            "Lander College for Women",
+            700018332
+        ]
+    ],
+    [
+        "Continue current plan.",
+        "(12:25, 14:40)",
+        [
+            "Lander College for Women",
+            700018332
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(14:18, 15:50)",
+        [
+            "Lander College for Women",
+            700018332
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:31, 22:25)",
+        [
+            "",
+            700018898
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 23:27)",
+        [
+            "Tooth Works",
+            700036392
+        ]
+    ],
+    [
+        "Stay at Tooth Works.",
+        "(23:39, 23:59)",
+        [
+            "Tooth Works",
+            700036392
+        ]
+    ]
+]

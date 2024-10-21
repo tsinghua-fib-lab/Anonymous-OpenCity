@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 10:59)",
+        [
+            "One Medical",
+            700033968
+        ]
+    ],
+    [
+        "Continue exercising at One Medical.",
+        "(11:17, 12:47)",
+        [
+            "One Medical",
+            700033968
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:42, 18:21)",
+        [
+            "Tipsy Shanghai",
+            700015711
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(18:29, 21:53)",
+        [
+            "Tipsy Shanghai",
+            700015711
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:10, 23:59)",
+        [
+            "Blink Fitness",
+            700006453
+        ]
+    ]
+]

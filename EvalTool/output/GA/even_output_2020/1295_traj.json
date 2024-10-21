@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002889
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:23)",
+        [
+            "Giola Pizzeria",
+            700002134
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:49, 13:47)",
+        [
+            "Urban Ritual",
+            700011000
+        ]
+    ],
+    [
+        "Continue Brunch",
+        "(13:08, 14:43)",
+        [
+            "Giola Pizzeria",
+            700002134
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:24, 16:36)",
+        [
+            "Giola Pizzeria",
+            700002134
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:55, 18:02)",
+        [
+            "Giola Pizzeria",
+            700002134
+        ]
+    ],
+    [
+        "Coffee Break",
+        "(18:20, 19:47)",
+        [
+            "Urban Ritual",
+            700011000
+        ]
+    ],
+    [
+        "Watch a TV show or play board games with family/friends.",
+        "(20:49, 22:15)",
+        [
+            "Domo",
+            700011013
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:59)",
+        [
+            "Suppenküche",
+            700000849
+        ]
+    ]
+]

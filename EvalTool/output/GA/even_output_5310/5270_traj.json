@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - West 56th Street & 10th Avenue",
+            700008235
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:10)",
+        [
+            "",
+            700001192
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:41, 16:55)",
+        [
+            "Chipotle",
+            700018341
+        ]
+    ],
+    [
+        "You are currently at Chipotle enjoying a meal.",
+        "(20:11, 22:39)",
+        [
+            "",
+            700001792
+        ]
+    ],
+    [
+        "Wind down for the evening by watching a movie or catching up on a series.",
+        "(22:59, 23:59)",
+        [
+            "Citi Bike - West 56th Street & 10th Avenue",
+            700008235
+        ]
+    ]
+]

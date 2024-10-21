@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CityCarShare",
+            700001197
+        ]
+    ],
+    [
+        "Outdoor Walk/Exercise",
+        "(10:00, 10:55)",
+        [
+            "Mezes Kitchen & Wine Bar",
+            700003082
+        ]
+    ],
+    [
+        "Continue with Outdoor Walk/Exercise",
+        "(11:25, 12:52)",
+        [
+            "CityCarShare",
+            700001197
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:59, 14:00)",
+        [
+            "CityCarShare",
+            700001197
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:22, 15:50)",
+        [
+            "CityCarShare",
+            700001197
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:40, 17:41)",
+        [
+            "",
+            700002283
+        ]
+    ],
+    [
+        "Socializing/Connecting with Friends",
+        "(19:18, 20:56)",
+        [
+            "CityCarShare",
+            700001197
+        ]
+    ],
+    [
+        "Socializing/Connecting with Friends",
+        "(21:32, 22:57)",
+        [
+            "CityCarShare",
+            700001197
+        ]
+    ],
+    [
+        "Evening Wind Down/TV Time",
+        "(23:20, 23:59)",
+        [
+            "CityCarShare",
+            700001197
+        ]
+    ]
+]

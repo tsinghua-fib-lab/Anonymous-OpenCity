@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fida Market",
+            700005824
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:28)",
+        [
+            "Bank of America",
+            700001687
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 19:58)",
+        [
+            "",
+            700005965
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:59)",
+        [
+            "",
+            700000667
+        ]
+    ],
+    [
+        "Stay at the Fida Market",
+        "(22:45, 23:59)",
+        [
+            "Fida Market",
+            700005824
+        ]
+    ]
+]

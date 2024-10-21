@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ramini espresso bar",
+            700008902
+        ]
+    ],
+    [
+        "Next activity in daily plan.",
+        "(09:00, 09:56)",
+        [
+            "Ramini espresso bar",
+            700008902
+        ]
+    ],
+    [
+        "Next activity in daily plan",
+        "(10:24, 12:05)",
+        [
+            "Ramini espresso bar",
+            700008902
+        ]
+    ],
+    [
+        "Next activity in daily plan.",
+        "(12:10, 14:06)",
+        [
+            "Ramini espresso bar",
+            700008902
+        ]
+    ],
+    [
+        "Stay at Felice",
+        "(14:05, 15:57)",
+        [
+            "Kashmir 9",
+            700004291
+        ]
+    ],
+    [
+        "Stay at Ramini espresso bar.",
+        "(16:30, 18:05)",
+        [
+            "Ramini espresso bar",
+            700008902
+        ]
+    ],
+    [
+        "Stay at Ramini espresso bar.",
+        "(18:42, 20:09)",
+        [
+            "Ramini espresso bar",
+            700008902
+        ]
+    ],
+    [
+        "Stay at Ramini espresso bar.",
+        "(20:14, 22:21)",
+        [
+            "Ramini espresso bar",
+            700008902
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "",
+            700000932
+        ]
+    ]
+]

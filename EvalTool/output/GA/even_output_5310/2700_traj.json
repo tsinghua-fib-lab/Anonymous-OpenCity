@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010440
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:29)",
+        [
+            "",
+            700020822
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:32, 14:42)",
+        [
+            "Citi Bike - West 27th Street & 10th Avenue",
+            700010441
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:58, 16:15)",
+        [
+            "",
+            700010439
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 19:20)",
+        [
+            "Citi Bike - West 27th Street & 10th Avenue",
+            700010441
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:32, 23:59)",
+        [
+            "",
+            700020820
+        ]
+    ]
+]

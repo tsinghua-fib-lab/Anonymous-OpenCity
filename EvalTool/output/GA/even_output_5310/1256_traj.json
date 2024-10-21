@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Santander",
+            700020291
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:53)",
+        [
+            "Santander",
+            700020291
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:03, 13:53)",
+        [
+            "Santander",
+            700020291
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:39, 16:04)",
+        [
+            "Santander",
+            700020291
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:23, 20:08)",
+        [
+            "Taco Bell",
+            700034230
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(20:27, 21:53)",
+        [
+            "The Fitz",
+            700007290
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "Bank United",
+            700016442
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002915
+        ]
+    ],
+    [
+        "Morning exercise (jogging or gym)",
+        "(09:00, 09:59)",
+        [
+            "Bistro Central Parc",
+            700003566
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:22, 13:57)",
+        [
+            "Central Coffee and Tea",
+            700000687
+        ]
+    ],
+    [
+        "Watch a movie or attend a live event",
+        "(16:32, 17:59)",
+        [
+            "",
+            700009987
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:31, 21:22)",
+        [
+            "Ritual Coffee Roasters",
+            700004454
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Flippin' Burger",
+            700012558
+        ]
+    ]
+]

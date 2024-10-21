@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002080
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:34)",
+        [
+            "Starbucks",
+            700003310
+        ]
+    ],
+    [
+        "Next activity based on the plan",
+        "(11:29, 12:50)",
+        [
+            "Starbucks",
+            700003310
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:12, 18:22)",
+        [
+            "",
+            700014909
+        ]
+    ],
+    [
+        "Watch Sports/Game",
+        "(18:28, 19:50)",
+        [
+            "",
+            700002080
+        ]
+    ],
+    [
+        "You are at Starbucks. It's 20:33 and you can stay here more time.",
+        "(20:33, 22:38)",
+        [
+            "Starbucks",
+            700003310
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "Le Basket",
+            700003308
+        ]
+    ]
+]

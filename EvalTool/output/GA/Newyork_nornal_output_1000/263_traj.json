@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700040203
+        ]
+    ],
+    [
+        "Read or Write",
+        "(10:00, 11:31)",
+        [
+            "Intelligentsia Café",
+            700040204
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:24, 13:39)",
+        [
+            "",
+            700039907
+        ]
+    ],
+    [
+        "Grocery Shopping or Errands",
+        "(17:00, 18:40)",
+        [
+            "Artichoke Basille's Pizza",
+            700006141
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 23:33)",
+        [
+            "Highline Ballroom",
+            700007518
+        ]
+    ]
+]

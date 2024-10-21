@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009127
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:05)",
+        [
+            "",
+            700008333
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 16:43)",
+        [
+            "The Rustic",
+            700000829
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(16:37, 18:05)",
+        [
+            "Church Street Cafe",
+            700002101
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(18:17, 20:03)",
+        [
+            "Church Street Cafe",
+            700002101
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 23:59)",
+        [
+            "Walgreens & Live Fit Gym Underground Parking Garage",
+            700001410
+        ]
+    ]
+]

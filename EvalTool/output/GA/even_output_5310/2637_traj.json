@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "8th Avenue Dental Associates",
+            700004394
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park.",
+        "(10:00, 10:55)",
+        [
+            "",
+            700011122
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park.",
+        "(11:03, 12:50)",
+        [
+            "8th Avenue Dental Associates",
+            700004394
+        ]
+    ],
+    [
+        "Spend some time reading a book or doing a hobby.",
+        "(13:36, 15:09)",
+        [
+            "8th Avenue Dental Associates",
+            700004394
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:43, 18:27)",
+        [
+            "",
+            700022338
+        ]
+    ],
+    [
+        "Go for coffee or casual hangout with friends",
+        "(19:32, 21:24)",
+        [
+            "$1 Pizza",
+            700004349
+        ]
+    ],
+    [
+        "Wind down the day by watching a movie or binge-watching a series.",
+        "(21:30, 22:57)",
+        [
+            "8th Avenue Dental Associates",
+            700004394
+        ]
+    ],
+    [
+        "Winding down by watching a movie at home",
+        "(23:32, 23:59)",
+        [
+            "$1 Pizza",
+            700004349
+        ]
+    ]
+]

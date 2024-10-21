@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Equinox",
+            700035211
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:26)",
+        [
+            "Citi Bike - East 32nd Street & Park Avenue",
+            700008042
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:38, 14:12)",
+        [
+            "",
+            700001756
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:09, 16:56)",
+        [
+            "",
+            700001893
+        ]
+    ],
+    [
+        "Catch Up on IT Trends",
+        "(17:00, 17:54)",
+        [
+            "Equinox",
+            700035211
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:34, 21:29)",
+        [
+            "",
+            700019034
+        ]
+    ],
+    [
+        "Catch Up on IT Trends",
+        "(21:57, 23:03)",
+        [
+            "Chase",
+            700003432
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:03, 23:59)",
+        [
+            "",
+            700021734
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Wells Fargo",
+            700000855
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:37)",
+        [
+            "",
+            700002584
+        ]
+    ],
+    [
+        "Explore Local Attractions",
+        "(11:33, 13:32)",
+        [
+            "",
+            700008320
+        ]
+    ],
+    [
+        "Explore Local Attractions",
+        "(13:38, 15:09)",
+        [
+            "Starbucks",
+            700009200
+        ]
+    ],
+    [
+        "Explore Local Attractions",
+        "(15:38, 17:04)",
+        [
+            "Starbucks",
+            700009200
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:58, 22:11)",
+        [
+            "CorePower Yoga",
+            700000964
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 23:05)",
+        [
+            "",
+            700010134
+        ]
+    ]
+]

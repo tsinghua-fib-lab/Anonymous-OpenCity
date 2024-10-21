@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002479
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:24)",
+        [
+            "",
+            700002479
+        ]
+    ],
+    [
+        "Head to Macquarie University Library",
+        "(11:44, 13:20)",
+        [
+            "Macquarie University Library",
+            700002374
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:01, 18:25)",
+        [
+            "",
+            700002479
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:32, 21:53)",
+        [
+            "Library Café",
+            700008433
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 23:59)",
+        [
+            "Macquarie University Library",
+            700002374
+        ]
+    ],
+    [
+        "Watch a Movie/Show",
+        "(21:38, 23:43)",
+        [
+            "",
+            700008128
+        ]
+    ],
+    [
+        "Relax and Unwind",
+        "(23:37, 23:59)",
+        [
+            "",
+            700002479
+        ]
+    ]
+]

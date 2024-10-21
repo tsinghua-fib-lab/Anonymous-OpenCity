@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "East Side Animal Hospital",
+            700011457
+        ]
+    ],
+    [
+        "Next in the plan.",
+        "(09:00, 10:04)",
+        [
+            "Citi Bike - East 52nd Street & 2nd Avenue",
+            700008055
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:46, 15:47)",
+        [
+            "Andrew M. Lutzker, D.M.D.",
+            700009289
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 16:13)",
+        [
+            "CityMD",
+            700013539
+        ]
+    ],
+    [
+        "Attend cooking session for dinner preparation.",
+        "(18:09, 19:38)",
+        [
+            "Citi Bike - East 52nd Street & 2nd Avenue",
+            700008055
+        ]
+    ],
+    [
+        "Stay at East Side Animal Hospital",
+        "(20:22, 22:58)",
+        [
+            "Atomic Wings",
+            700021924
+        ]
+    ],
+    [
+        "Stay at La Vera Pizza",
+        "(22:12, 23:59)",
+        [
+            "",
+            700002220
+        ]
+    ]
+]

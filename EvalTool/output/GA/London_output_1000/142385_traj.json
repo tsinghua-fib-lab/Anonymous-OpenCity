@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:06)",
+        [
+            "Barbican Dental Centre",
+            700022486
+        ]
+    ],
+    [
+        "Reading/Creative Time",
+        "(14:59, 17:06)",
+        [
+            "Barbican Dental Centre",
+            700022486
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 21:53)",
+        [
+            "Original Bagel Bakery",
+            700025737
+        ]
+    ],
+    [
+        "Watch a Movie/Relax",
+        "(19:53, 20:56)",
+        [
+            "Barbican Dental Centre",
+            700022486
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:46, 23:59)",
+        [
+            "",
+            700065357
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700067003
+        ]
+    ]
+]

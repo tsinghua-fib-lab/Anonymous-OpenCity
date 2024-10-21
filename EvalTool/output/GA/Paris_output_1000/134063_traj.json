@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:34)",
+        [
+            "",
+            700004916
+        ]
+    ],
+    [
+        "Continue leisure time",
+        "(14:25, 16:02)",
+        [
+            "",
+            700004896
+        ]
+    ],
+    [
+        "Continue leisure time",
+        "(16:17, 17:56)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:40, 19:52)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "Go to Le Petit Cardinal and wind down.",
+        "(20:39, 22:19)",
+        [
+            "",
+            700004911
+        ]
+    ],
+    [
+        "Stay at Paris Musée du Louvre for leisure.",
+        "(22:53, 23:59)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chase",
+            700006017
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(09:00, 10:06)",
+        [
+            "Chase",
+            700006017
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:25, 12:56)",
+        [
+            "Rothaus Plastic Surgery",
+            700033646
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:53, 15:48)",
+        [
+            "Finnegan's Wake Pub",
+            700006025
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:46, 16:51)",
+        [
+            "Duane Reade",
+            700006023
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:35, 20:48)",
+        [
+            "Bank of America",
+            700006015
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:34, 21:33)",
+        [
+            "Cafe Luka",
+            700026128
+        ]
+    ]
+]

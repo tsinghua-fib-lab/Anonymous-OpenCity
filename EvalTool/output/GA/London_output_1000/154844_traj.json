@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Regent's Park Estate",
+            700006201
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(10:00, 11:00)",
+        [
+            "",
+            700075375
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(11:40, 12:50)",
+        [
+            "Albany Street Police Station",
+            700002925
+        ]
+    ],
+    [
+        "Engage in a hobby",
+        "(12:59, 14:24)",
+        [
+            "",
+            700075382
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(15:04, 15:58)",
+        [
+            "",
+            700075340
+        ]
+    ],
+    [
+        "Engage in a hobby or activity (like reading or crafting)",
+        "(15:19, 16:47)",
+        [
+            "The Old Dairy Cafe",
+            700030291
+        ]
+    ],
+    [
+        "Engage in a hobby or activity (like reading or crafting)",
+        "(17:32, 18:50)",
+        [
+            "The Old Dairy Cafe",
+            700030291
+        ]
+    ],
+    [
+        "Engage in a hobby or activity (like reading or crafting)",
+        "(19:37, 21:27)",
+        [
+            "goats",
+            700075313
+        ]
+    ],
+    [
+        "Stay at The Old Dairy Cafe",
+        "(21:19, 23:01)",
+        [
+            "The Old Dairy Cafe",
+            700030291
+        ]
+    ],
+    [
+        "Stay at Café Luca.",
+        "(23:18, 23:59)",
+        [
+            "Mail Boxes Etc.",
+            700026707
+        ]
+    ]
+]

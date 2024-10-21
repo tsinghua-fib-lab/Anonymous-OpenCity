@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "ChargePoint",
+            700012450
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 12:00)",
+        [
+            "B&W Deli & Pizzeria",
+            700011111
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 14:58)",
+        [
+            "In Common NYC Cafe",
+            700030302
+        ]
+    ],
+    [
+        "Spend the afternoon at a museum or art exhibit",
+        "(15:46, 17:56)",
+        [
+            "",
+            700029831
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:00, 19:01)",
+        [
+            "ChargePoint",
+            700012450
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:07)",
+        [
+            "Sushi Star",
+            700003750
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(22:14, 23:35)",
+        [
+            "Sushi Star",
+            700003750
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(23:47, 23:59)",
+        [
+            "Sushi Star",
+            700003750
+        ]
+    ]
+]

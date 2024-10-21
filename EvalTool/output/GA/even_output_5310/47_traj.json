@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Felice 64",
+            700006526
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:52)",
+        [
+            "Goldberg's Pharmacy",
+            700007629
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:22, 12:54)",
+        [
+            "Dunkin'",
+            700006549
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(13:30, 15:36)",
+        [
+            "",
+            700039951
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:01, 19:07)",
+        [
+            "Vitahealth Apothecary",
+            700041297
+        ]
+    ],
+    [
+        "Sleep at Felice 64 and wind down for the night.",
+        "(21:30, 22:50)",
+        [
+            "Pizza Park",
+            700033902
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:25, 23:59)",
+        [
+            "Felice 64",
+            700006526
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Club A Steakhouse",
+            700030620
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:59)",
+        [
+            "Club A Steakhouse",
+            700030620
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:22, 15:16)",
+        [
+            "Serendipity 3",
+            700009075
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 22:44)",
+        [
+            "High School of Art and Design",
+            700007101
+        ]
+    ],
+    [
+        "Stay at Club A Steakhouse",
+        "(23:35, 23:59)",
+        [
+            "Club A Steakhouse",
+            700030620
+        ]
+    ]
+]

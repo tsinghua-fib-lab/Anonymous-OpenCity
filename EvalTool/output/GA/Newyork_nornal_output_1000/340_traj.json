@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020970
+        ]
+    ],
+    [
+        "Go for a walk or engage in some light exercise",
+        "(10:00, 10:59)",
+        [
+            "",
+            700020970
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:14, 14:59)",
+        [
+            "",
+            700011006
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:16, 19:07)",
+        [
+            "East 34th Street/Midtown",
+            700003556
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:20, 22:12)",
+        [
+            "East 34th Street/Midtown",
+            700003556
+        ]
+    ]
+]

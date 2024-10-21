@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Halal Fried Chicken",
+            700001022
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:25)",
+        [
+            "Tower 737 Parking Garage",
+            700013910
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(12:01, 13:11)",
+        [
+            "Tower 737 Parking Garage",
+            700013910
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(13:31, 15:07)",
+        [
+            "Tower 737 Parking Garage",
+            700013910
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(15:34, 18:00)",
+        [
+            "Halal Fried Chicken",
+            700001022
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 23:59)",
+        [
+            "Marcela's Taqueria",
+            700001024
+        ]
+    ],
+    [
+        "Stay at Marcela's Taqueria",
+        "(23:14, 23:59)",
+        [
+            "Milan Pizza",
+            700001020
+        ]
+    ]
+]

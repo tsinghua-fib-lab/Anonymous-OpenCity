@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Barn Joo",
+            700016100
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:10)",
+        [
+            "Van Leeuwen",
+            700033962
+        ]
+    ],
+    [
+        "Go for a jog or a leisurely walk in the park.",
+        "(11:13, 12:23)",
+        [
+            "Van Leeuwen",
+            700033962
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:18, 15:32)",
+        [
+            "",
+            700026320
+        ]
+    ],
+    [
+        "Explore local art galleries or visit a museum.",
+        "(15:41, 17:46)",
+        [
+            "Joe Coffee",
+            700005177
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 23:07)",
+        [
+            "Flats Fix",
+            700013436
+        ]
+    ],
+    [
+        "Stay at Flats Fix.",
+        "(23:25, 23:59)",
+        [
+            "Flats Fix",
+            700013436
+        ]
+    ]
+]

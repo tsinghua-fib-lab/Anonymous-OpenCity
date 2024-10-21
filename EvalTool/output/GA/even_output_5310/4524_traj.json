@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Cupsoul",
+            700007888
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:44)",
+        [
+            "Citi Bike - East 15th Street & 3rd Avenue",
+            700008025
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(14:56, 17:56)",
+        [
+            "Cupsoul",
+            700007888
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(17:09, 19:09)",
+        [
+            "Cupsoul",
+            700007888
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:50, 23:33)",
+        [
+            "Joe Junior",
+            700009124
+        ]
+    ]
+]

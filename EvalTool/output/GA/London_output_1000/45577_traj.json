@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:01)",
+        [
+            "Newton Street",
+            700020796
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:35, 14:08)",
+        [
+            "Newton Street",
+            700020796
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 16:14)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Personal Projects/Errands",
+        "(16:01, 18:04)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Family Time",
+        "(18:41, 20:09)",
+        [
+            "",
+            700054511
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:54, 23:59)",
+        [
+            "",
+            700054511
+        ]
+    ]
+]

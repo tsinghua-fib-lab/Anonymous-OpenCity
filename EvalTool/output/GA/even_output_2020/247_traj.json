@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Civic Center BART (7th at Market)",
+            700002504
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:37)",
+        [
+            "",
+            700001578
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 14:57)",
+        [
+            "",
+            700013857
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:33, 17:03)",
+        [
+            "Thai Curry",
+            700012787
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 20:17)",
+        [
+            "The Hibernia",
+            700013880
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:04, 23:29)",
+        [
+            "Thai Curry",
+            700012787
+        ]
+    ]
+]

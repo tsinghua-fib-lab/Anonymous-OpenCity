@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:26)",
+        [
+            "",
+            700001228
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(13:23, 14:49)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(15:35, 17:11)",
+        [
+            "",
+            700011092
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:34, 21:29)",
+        [
+            "",
+            700002414
+        ]
+    ],
+    [
+        "Go out for dinner.",
+        "(22:34, 23:59)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ]
+]

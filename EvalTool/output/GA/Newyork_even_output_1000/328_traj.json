@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park.",
+        "(10:00, 11:00)",
+        [
+            "Chinese American Planning Council",
+            700005129
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park.",
+        "(11:15, 12:54)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park",
+        "(13:23, 15:18)",
+        [
+            "Chinese American Planning Council",
+            700005129
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:42, 20:17)",
+        [
+            "Sea of Galilee Church",
+            700014829
+        ]
+    ],
+    [
+        "Stay at Joe Coffee Company",
+        "(20:32, 22:10)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ],
+    [
+        "Stay at Joe Coffee Company.",
+        "(22:25, 23:27)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ],
+    [
+        "Stay at Joe Coffee Company;",
+        "(23:35, 23:59)",
+        [
+            "Chelsea Square Restaurant",
+            700004317
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "TD Bank",
+            700024872
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:12)",
+        [
+            "Brooklyn Pizza Masters",
+            700030625
+        ]
+    ],
+    [
+        "Spend time reading or catching up on a hobby",
+        "(12:29, 13:59)",
+        [
+            "Brooklyn Pizza Masters",
+            700030625
+        ]
+    ],
+    [
+        "Spend time reading or catching up on a hobby",
+        "(14:23, 15:57)",
+        [
+            "Brooklyn Pizza Masters",
+            700030625
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:51, 18:43)",
+        [
+            "Biscuits and Bath",
+            700030623
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 21:57)",
+        [
+            "",
+            700010702
+        ]
+    ],
+    [
+        "Stay at Brooklyn Pizza Masters.",
+        "(22:28, 23:52)",
+        [
+            "TD Bank",
+            700024872
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "",
+            700010697
+        ]
+    ]
+]

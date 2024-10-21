@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002786
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:51)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "2:30 PM - Sports or Outdoor Activity",
+        "(14:44, 16:13)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:57, 20:26)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:24, 23:19)",
+        [
+            "Public School MO94",
+            700000405
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:47, 23:59)",
+        [
+            "China Wok",
+            700019587
+        ]
+    ]
+]

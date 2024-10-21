@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Willow",
+            700024811
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:01)",
+        [
+            "",
+            700031465
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 13:22)",
+        [
+            "Fellini Coffee",
+            700006149
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 18:55)",
+        [
+            "Dim Sum Chelsea",
+            700004346
+        ]
+    ],
+    [
+        "Winding Down",
+        "(22:55, 23:59)",
+        [
+            "New London Pharmacy",
+            700004342
+        ]
+    ]
+]

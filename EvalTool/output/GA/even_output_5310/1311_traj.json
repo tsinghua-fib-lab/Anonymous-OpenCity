@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Beauty Bar",
+            700007879
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:08)",
+        [
+            "Beauty Bar",
+            700007879
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:52, 17:07)",
+        [
+            "Tina's Cuban Cuisine",
+            700038127
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:15, 20:00)",
+        [
+            "Beauty Bar",
+            700007879
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:44, 21:17)",
+        [
+            "Coyote Ugly Saloon",
+            700007878
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(23:50, 23:59)",
+        [
+            "",
+            700001648
+        ]
+    ]
+]

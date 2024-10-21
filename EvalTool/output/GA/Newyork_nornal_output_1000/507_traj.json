@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "CityMD",
+            700018071
+        ]
+    ],
+    [
+        "Outdoor Activity/Exercise",
+        "(09:00, 10:38)",
+        [
+            "CityMD",
+            700018071
+        ]
+    ],
+    [
+        "Catch Up on Reading/Personal Development",
+        "(11:01, 12:52)",
+        [
+            "CityMD",
+            700018071
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:56, 18:04)",
+        [
+            "",
+            700016434
+        ]
+    ],
+    [
+        "Grocery Shopping/Errands",
+        "(19:20, 20:46)",
+        [
+            "",
+            700015398
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:10, 23:44)",
+        [
+            "",
+            700015401
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Capital One",
+            700016396
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:39)",
+        [
+            "Ella Baker School",
+            700000282
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:58, 17:24)",
+        [
+            "Gotham Café",
+            700016395
+        ]
+    ],
+    [
+        "Dinner Prep",
+        "(18:15, 20:04)",
+        [
+            "Gotham Café",
+            700016395
+        ]
+    ],
+    [
+        "Dinner Prep",
+        "(20:21, 22:09)",
+        [
+            "Gotham Café",
+            700016395
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:20, 23:59)",
+        [
+            "",
+            700002662
+        ]
+    ]
+]

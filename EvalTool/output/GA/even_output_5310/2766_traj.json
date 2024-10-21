@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700024975
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:11)",
+        [
+            "",
+            700039398
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:46, 18:36)",
+        [
+            "Lila Acheson Wallace Library",
+            700000549
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:13, 22:02)",
+        [
+            "",
+            700024972
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:46, 23:59)",
+        [
+            "Alice Tully Hall",
+            700000587
+        ]
+    ]
+]

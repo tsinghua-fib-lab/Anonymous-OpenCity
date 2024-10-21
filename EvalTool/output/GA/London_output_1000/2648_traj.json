@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Have breakfast",
+        "(09:00, 10:04)",
+        [
+            "",
+            700023793
+        ]
+    ],
+    [
+        "next",
+        "(10:40, 12:05)",
+        [
+            "Cafe Diana",
+            700041556
+        ]
+    ],
+    [
+        "next",
+        "(13:04, 14:12)",
+        [
+            "Cafe Diana",
+            700041556
+        ]
+    ],
+    [
+        "creative hobby",
+        "(14:38, 16:45)",
+        [
+            "Cafe Diana",
+            700041556
+        ]
+    ],
+    [
+        "Next creative hobby activity",
+        "(17:03, 19:05)",
+        [
+            "De Amicis",
+            700041564
+        ]
+    ],
+    [
+        "Next creative hobby activity",
+        "(19:06, 21:03)",
+        [
+            "De Amicis",
+            700041564
+        ]
+    ],
+    [
+        "Creative hobby activity",
+        "(21:32, 23:23)",
+        [
+            "De Amicis",
+            700041564
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:23, 23:59)",
+        [
+            "Tequila Tex-Mex",
+            700005245
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dominican Academy",
+            700000281
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:20)",
+        [
+            "Dominican Academy",
+            700000281
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:06, 14:06)",
+        [
+            "Dominican Academy",
+            700000281
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:45, 16:32)",
+        [
+            "Dominican Academy",
+            700000281
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 21:52)",
+        [
+            "Citi Bike - East 66th Street & Madison Avenue",
+            700010152
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:09, 22:27)",
+        [
+            "Link NYC",
+            700017688
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "Altesi",
+            700019746
+        ]
+    ]
+]

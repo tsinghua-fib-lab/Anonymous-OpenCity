@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700012031
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the nearby park or nature reserve.",
+        "(10:00, 10:50)",
+        [
+            "Tavern on Jane",
+            700004114
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the nearby park or nature reserve.",
+        "(10:58, 12:09)",
+        [
+            "Tavern on Jane",
+            700004114
+        ]
+    ],
+    [
+        "Attend a yoga class or engage in a home workout.",
+        "(12:15, 13:51)",
+        [
+            "Tavern on Jane",
+            700004114
+        ]
+    ],
+    [
+        "Stay at Tavern on Jane for lunch.",
+        "(14:39, 16:11)",
+        [
+            "Village Pizza",
+            700003839
+        ]
+    ],
+    [
+        "current place and stay time",
+        "(16:25, 17:50)",
+        [
+            "",
+            700000896
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 21:34)",
+        [
+            "",
+            700000652
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 23:59)",
+        [
+            "Starbucks",
+            700003801
+        ]
+    ],
+    [
+        "current place and stay time",
+        "(22:11, 23:37)",
+        [
+            "Starbucks",
+            700003801
+        ]
+    ],
+    [
+        "Current place and stay time.",
+        "(23:49, 23:59)",
+        [
+            "Big Famous Deli & Grocery",
+            700011515
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:50)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 15:28)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(14:54, 16:16)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Hobby Time/Creative Project",
+        "(17:04, 18:31)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Hobby Time/Creative Project",
+        "(19:18, 21:50)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 23:59)",
+        [
+            "",
+            700002180
+        ]
+    ]
+]

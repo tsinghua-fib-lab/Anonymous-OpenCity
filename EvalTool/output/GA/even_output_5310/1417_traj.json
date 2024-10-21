@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:43)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Relax and Watch a Movie/Series",
+        "(12:10, 13:51)",
+        [
+            "",
+            700022517
+        ]
+    ],
+    [
+        "Spend Time on a Hobby or Craft",
+        "(14:20, 15:56)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 20:22)",
+        [
+            "",
+            700017443
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:11, 21:02)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(21:25, 23:08)",
+        [
+            "Auto Motion",
+            700018140
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:21, 23:59)",
+        [
+            "Citi Bike - Lexington Avenue & East 24th Street",
+            700008122
+        ]
+    ]
+]

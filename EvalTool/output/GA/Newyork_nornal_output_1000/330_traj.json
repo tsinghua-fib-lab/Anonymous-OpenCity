@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002131
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:16)",
+        [
+            "Barfly",
+            700004033
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:28, 17:11)",
+        [
+            "Gramercy Reading",
+            700020942
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(18:21, 19:59)",
+        [
+            "Gramercy Reading",
+            700020942
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(20:29, 21:55)",
+        [
+            "Gramercy Reading",
+            700020942
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:41, 23:59)",
+        [
+            "Ampersand",
+            700006110
+        ]
+    ]
+]

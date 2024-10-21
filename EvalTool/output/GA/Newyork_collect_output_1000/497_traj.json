@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:39)",
+        [
+            "",
+            700022515
+        ]
+    ],
+    [
+        "Engage in a physical activity, such as going for a run or hitting the gym.",
+        "(12:13, 13:00)",
+        [
+            "Seven Sins",
+            700006201
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 18:31)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "Get coffee and snacks with friends.",
+        "(16:34, 18:07)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "Meet up with friends at a café.",
+        "(18:52, 20:14)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "Stay at Pick a Bagel",
+        "(20:40, 22:05)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "Next arrangement based on Situation 10",
+        "(22:35, 23:44)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "Stay at Pick a Bagel.",
+        "(23:40, 23:59)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ]
+]

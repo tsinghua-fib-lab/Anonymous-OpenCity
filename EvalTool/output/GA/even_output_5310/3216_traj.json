@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Van Leeuwen Ice Cream",
+            700004525
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 11:00)",
+        [
+            "Van Leeuwen Ice Cream",
+            700004525
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:20, 13:56)",
+        [
+            "",
+            700001076
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:22, 19:55)",
+        [
+            "",
+            700001076
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(22:35, 23:59)",
+        [
+            "Paul's \"Da Burger Joint\"",
+            700004562
+        ]
+    ]
+]

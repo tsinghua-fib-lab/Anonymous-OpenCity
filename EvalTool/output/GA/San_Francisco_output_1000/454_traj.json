@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fiorella Polk Street",
+            700004277
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:39)",
+        [
+            "The Royal Oak",
+            700000646
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(16:19, 18:49)",
+        [
+            "Fiorella Polk Street",
+            700004277
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:34, 20:00)",
+        [
+            "Fiorella Polk Street",
+            700004277
+        ]
+    ],
+    [
+        "Stay at Fiorella Polk Street.",
+        "(20:40, 22:12)",
+        [
+            "Cresta's",
+            700004280
+        ]
+    ],
+    [
+        "Go to Müesi Cafe.",
+        "(23:28, 23:59)",
+        [
+            "Woods Polk Station",
+            700003160
+        ]
+    ]
+]

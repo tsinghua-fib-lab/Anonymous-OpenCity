@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chinatown",
+            700000385
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:57)",
+        [
+            "Bing Kong Tong Benevolent Association",
+            700001071
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(12:01, 12:51)",
+        [
+            "Bing Kong Tong Benevolent Association",
+            700001071
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(13:31, 15:09)",
+        [
+            "Bing Kong Tong Benevolent Association",
+            700001071
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(15:34, 17:55)",
+        [
+            "Bing Kong Tong Benevolent Association",
+            700001071
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 23:11)",
+        [
+            "",
+            700001138
+        ]
+    ],
+    [
+        "Stay at Bing Kong Tong Benevolent Association",
+        "(23:14, 23:59)",
+        [
+            "Bing Kong Tong Benevolent Association",
+            700001071
+        ]
+    ]
+]

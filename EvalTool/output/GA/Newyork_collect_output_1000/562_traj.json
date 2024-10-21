@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:17)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:32, 15:53)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:19, 18:01)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:39, 20:09)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:48, 23:59)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ]
+]

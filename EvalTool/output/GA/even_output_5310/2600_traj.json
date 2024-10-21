@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "pharmacy px",
+            700008546
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:19)",
+        [
+            "Sido",
+            700008544
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:46, 16:50)",
+        [
+            "Sido",
+            700008544
+        ]
+    ],
+    [
+        "Visit to an Art Gallery or Museum",
+        "(17:24, 18:52)",
+        [
+            "Keats",
+            700007331
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 23:59)",
+        [
+            "",
+            700002728
+        ]
+    ]
+]

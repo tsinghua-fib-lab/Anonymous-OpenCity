@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700026582
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:18)",
+        [
+            "Kesté Pizza & Vino",
+            700014026
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:33, 12:08)",
+        [
+            "Kesté Pizza & Vino",
+            700014026
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 18:06)",
+        [
+            "",
+            700026582
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(16:32, 17:53)",
+        [
+            "Kesté Pizza & Vino",
+            700014026
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(18:56, 20:27)",
+        [
+            "",
+            700034656
+        ]
+    ],
+    [
+        "After watching sports/entertainment, you should stay at your Current Place, CityMD.",
+        "(21:15, 22:54)",
+        [
+            "",
+            700010141
+        ]
+    ],
+    [
+        "Stay at CityMD.",
+        "(23:12, 23:59)",
+        [
+            "",
+            700034693
+        ]
+    ]
+]

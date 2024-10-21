@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:57)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:15, 12:05)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:57, 12:51)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:11, 15:02)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Downtime or Entertainment",
+        "(15:52, 17:53)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Afternoon Outing",
+        "(18:57, 19:51)",
+        [
+            "",
+            700014756
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:58, 23:59)",
+        [
+            "Boots",
+            700007546
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:40, 23:59)",
+        [
+            "",
+            700014758
+        ]
+    ]
+]

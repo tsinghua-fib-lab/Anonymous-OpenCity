@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030400
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:49)",
+        [
+            "",
+            700030393
+        ]
+    ],
+    [
+        "Hobbies or Creative Time",
+        "(15:18, 18:09)",
+        [
+            "Park Avenue Tavern",
+            700003426
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 22:45)",
+        [
+            "Metropolitan National Bank",
+            700003425
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower",
+            700004799
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:18)",
+        [
+            "Saint Teresa Catholic Church",
+            700000301
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:32, 14:42)",
+        [
+            "Saint Teresa Catholic Church",
+            700000301
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:41, 21:37)",
+        [
+            "Cracked & Battered",
+            700005780
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:36, 20:53)",
+        [
+            "Po'Boys Kitchen",
+            700008104
+        ]
+    ]
+]

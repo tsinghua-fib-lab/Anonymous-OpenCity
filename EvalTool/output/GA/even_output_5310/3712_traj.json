@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Koneko Cat Cafe",
+            700014947
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:31)",
+        [
+            "Square Pizza",
+            700021521
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:00, 17:28)",
+        [
+            "Square Pizza",
+            700021521
+        ]
+    ],
+    [
+        "Go to Dinner Preparation",
+        "(18:39, 19:51)",
+        [
+            "Koneko Cat Cafe",
+            700014947
+        ]
+    ],
+    [
+        "Go to Relaxation and TV Time",
+        "(20:06, 21:55)",
+        [
+            "Koneko Cat Cafe",
+            700014947
+        ]
+    ],
+    [
+        "Stay at Koneko Cat Cafe",
+        "(22:12, 23:59)",
+        [
+            "Koneko Cat Cafe",
+            700014947
+        ]
+    ]
+]

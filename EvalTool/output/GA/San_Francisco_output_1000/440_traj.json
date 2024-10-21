@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008765
+        ]
+    ],
+    [
+        "Morning Leisure Activities",
+        "(09:00, 11:09)",
+        [
+            "Mission Creek Cafe",
+            700002660
+        ]
+    ],
+    [
+        "Morning Leisure Activities",
+        "(11:58, 13:11)",
+        [
+            "Mission Creek Cafe",
+            700002660
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Sports",
+        "(13:16, 14:50)",
+        [
+            "",
+            700008211
+        ]
+    ],
+    [
+        "Catch Up with Family/Friends",
+        "(15:27, 16:53)",
+        [
+            "Mission Creek Cafe",
+            700002660
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 22:46)",
+        [
+            "20 Spot",
+            700006143
+        ]
+    ],
+    [
+        "Evening Relaxation and TV",
+        "(20:30, 22:56)",
+        [
+            "",
+            700008765
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "East West Bank",
+            700000631
+        ]
+    ]
+]

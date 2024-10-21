@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700040428
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:12)",
+        [
+            "",
+            700002220
+        ]
+    ],
+    [
+        "Have a leisurely time at La Pecora Bianca.",
+        "(13:36, 15:34)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ],
+    [
+        "3:00 PM - 5:00 PM: Meet up with friends for an afternoon game (like basketball or tennis) or a leisurely stroll.",
+        "(16:03, 17:35)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ],
+    [
+        "Spend time at La Pecora Bianca.",
+        "(17:54, 18:50)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ],
+    [
+        "Stay at ChargePoint.",
+        "(19:34, 21:02)",
+        [
+            "",
+            700002220
+        ]
+    ],
+    [
+        "Visit Juban.",
+        "(20:48, 22:10)",
+        [
+            "Van Leeuwen",
+            700007312
+        ]
+    ],
+    [
+        "Stay at Citizens of Chelsea.",
+        "(22:10, 23:38)",
+        [
+            "",
+            700002823
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ]
+]

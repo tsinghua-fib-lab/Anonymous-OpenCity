@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Indian Oven",
+            700000958
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(10:00, 11:13)",
+        [
+            "Metro Caffe",
+            700000960
+        ]
+    ],
+    [
+        "Relax at Metro Caffe",
+        "(12:02, 13:37)",
+        [
+            "Metro Caffe",
+            700000960
+        ]
+    ],
+    [
+        "Relax at Metro Caffe",
+        "(14:25, 15:59)",
+        [
+            "Metro Caffe",
+            700000960
+        ]
+    ],
+    [
+        "Relax at Metro Caffe",
+        "(16:10, 18:16)",
+        [
+            "Iza Ramen",
+            700003677
+        ]
+    ],
+    [
+        "Attend a sports event or match",
+        "(19:01, 20:18)",
+        [
+            "Iza Ramen",
+            700003677
+        ]
+    ],
+    [
+        "Relax at Metro Caffe",
+        "(21:02, 22:29)",
+        [
+            "Metro Caffe",
+            700000960
+        ]
+    ],
+    [
+        "Relax at Metro Caffe",
+        "(22:34, 23:59)",
+        [
+            "Metro Caffe",
+            700000960
+        ]
+    ]
+]

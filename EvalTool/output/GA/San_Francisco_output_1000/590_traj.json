@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000658
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:06)",
+        [
+            "",
+            700000658
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:10, 13:56)",
+        [
+            "",
+            700000658
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 20:13)",
+        [
+            "",
+            700002047
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:48, 19:04)",
+        [
+            "",
+            700000658
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(19:25, 21:08)",
+        [
+            "Walgreens",
+            700001121
+        ]
+    ],
+    [
+        "Relaxation and TV Watching",
+        "(21:54, 23:03)",
+        [
+            "Bob's Donuts",
+            700001135
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:05, 23:59)",
+        [
+            "Donuts & Things",
+            700001125
+        ]
+    ]
+]

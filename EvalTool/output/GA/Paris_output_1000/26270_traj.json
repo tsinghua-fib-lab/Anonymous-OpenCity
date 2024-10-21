@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700065558
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:05)",
+        [
+            "",
+            700045514
+        ]
+    ],
+    [
+        "Relax and enjoy a meal at Nihonkaku.",
+        "(11:33, 13:01)",
+        [
+            "Nihonkaku",
+            700014232
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 18:59)",
+        [
+            "",
+            700032692
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:21, 18:21)",
+        [
+            "Torre di pizza",
+            700015457
+        ]
+    ],
+    [
+        "Stay at Nihonkaku.",
+        "(21:07, 22:27)",
+        [
+            "Torre di pizza",
+            700015457
+        ]
+    ],
+    [
+        "Stay at Pomme de Pain.",
+        "(23:10, 23:59)",
+        [
+            "CCF",
+            700005536
+        ]
+    ]
+]

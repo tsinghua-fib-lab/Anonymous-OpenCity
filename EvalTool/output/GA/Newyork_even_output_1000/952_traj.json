@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:35)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:22, 14:31)",
+        [
+            "",
+            700020822
+        ]
+    ],
+    [
+        "Meal Prep for the Week",
+        "(13:53, 15:29)",
+        [
+            "",
+            700020823
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 19:02)",
+        [
+            "Chelsea Park Toilets",
+            700009102
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 20:41)",
+        [
+            "",
+            700000972
+        ]
+    ],
+    [
+        "Stay at Citizens of Chelsea",
+        "(23:40, 23:59)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ]
+]

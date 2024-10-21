@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Umpqua Bank",
+            700002809
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 11:03)",
+        [
+            "Umpqua Bank",
+            700002809
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:43, 12:59)",
+        [
+            "Noe Valley Smiles and Braces",
+            700002808
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 14:53)",
+        [
+            "Schumann Music Studio",
+            700006191
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:04, 16:57)",
+        [
+            "Schumann Music Studio",
+            700006191
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:43, 19:08)",
+        [
+            "Pressed Juicery",
+            700006188
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:57, 23:59)",
+        [
+            "Noe Valley Smiles and Braces",
+            700002807
+        ]
+    ]
+]

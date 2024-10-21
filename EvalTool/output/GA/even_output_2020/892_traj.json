@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Neighbor's Corner",
+            700005955
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:46)",
+        [
+            "Noe Valley Courts",
+            700001210
+        ]
+    ],
+    [
+        "Brunch with friends",
+        "(11:11, 12:36)",
+        [
+            "Noe Valley Courts",
+            700001210
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 15:17)",
+        [
+            "The UPS Store",
+            700001763
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 20:33)",
+        [
+            "The UPS Store",
+            700001763
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 22:03)",
+        [
+            "The UPS Store",
+            700001763
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Abrons Arts Center",
+            700000470
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:04)",
+        [
+            "",
+            700031277
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:02, 15:20)",
+        [
+            "CVS Pharmacy",
+            700003821
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 22:33)",
+        [
+            "A-1 Pizza",
+            700003820
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "El Castillo De Jagua",
+            700003816
+        ]
+    ]
+]

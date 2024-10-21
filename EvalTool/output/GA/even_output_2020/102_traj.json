@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Mortimer",
+            700001028
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:35)",
+        [
+            "Milan Pizza",
+            700001020
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:56, 13:04)",
+        [
+            "Milan Pizza",
+            700001020
+        ]
+    ],
+    [
+        "Transitioning from Brunch with Friends",
+        "(13:22, 14:46)",
+        [
+            "Pharaohs Mediterranean Sandwiches",
+            700001019
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:48, 19:35)",
+        [
+            "",
+            700000471
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:25, 21:52)",
+        [
+            "Halal Fried Chicken",
+            700001022
+        ]
+    ],
+    [
+        "Go to Halal Fried Chicken.",
+        "(22:11, 23:59)",
+        [
+            "Halal Fried Chicken",
+            700001022
+        ]
+    ]
+]

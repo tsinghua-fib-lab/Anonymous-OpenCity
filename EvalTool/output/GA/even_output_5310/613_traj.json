@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001531
+        ]
+    ],
+    [
+        "Outdoor Activity (11:00 AM - 1:00 PM)",
+        "(10:00, 12:09)",
+        [
+            "Gerlateria Gentile",
+            700007659
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:04, 13:57)",
+        [
+            "Gerlateria Gentile",
+            700007659
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 16:34)",
+        [
+            "",
+            700001124
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 20:51)",
+        [
+            "",
+            700001215
+        ]
+    ],
+    [
+        "After your time at Gerlateria Gentile, consider reading or relaxing at this café.",
+        "(23:13, 23:59)",
+        [
+            "maman",
+            700004115
+        ]
+    ]
+]

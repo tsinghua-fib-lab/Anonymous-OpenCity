@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Okinii",
+            700038169
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(09:00, 10:02)",
+        [
+            "Okinii",
+            700038169
+        ]
+    ],
+    [
+        "Next activity after morning walk",
+        "(10:11, 11:49)",
+        [
+            "The Malt House",
+            700011962
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(12:28, 13:53)",
+        [
+            "The Red Lion",
+            700008490
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(14:22, 16:08)",
+        [
+            "Wicked Willy's",
+            700008491
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 21:45)",
+        [
+            "Carroll Place",
+            700010236
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:55, 22:21)",
+        [
+            "The Lantern",
+            700011971
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "USPS",
+            700006040
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:25)",
+        [
+            "",
+            700000935
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:26, 15:17)",
+        [
+            "Sasabune",
+            700030652
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:22, 19:28)",
+        [
+            "Duane Reade",
+            700006023
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(20:50, 22:01)",
+        [
+            "Chase",
+            700006017
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:07, 23:59)",
+        [
+            "Bank of America",
+            700006015
+        ]
+    ]
+]

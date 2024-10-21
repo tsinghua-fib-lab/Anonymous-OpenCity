@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700027320
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:12)",
+        [
+            "Afficionado Coffee Roasters",
+            700023331
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 17:21)",
+        [
+            "Subway",
+            700027243
+        ]
+    ],
+    [
+        "Stay at an unspecified place",
+        "(17:32, 19:06)",
+        [
+            "Irish Arts Center",
+            700000479
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(20:05, 22:03)",
+        [
+            "The Daily Show with Trevor Noah",
+            700010957
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(22:33, 23:53)",
+        [
+            "",
+            700027320
+        ]
+    ]
+]

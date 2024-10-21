@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010975
+        ]
+    ],
+    [
+        "Next, you will engage in morning exercise.",
+        "(09:00, 10:06)",
+        [
+            "",
+            700010975
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:03, 11:52)",
+        [
+            "",
+            700008327
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:38, 20:28)",
+        [
+            "",
+            700008325
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:12, 21:21)",
+        [
+            "Sessions Training Center",
+            700011078
+        ]
+    ]
+]

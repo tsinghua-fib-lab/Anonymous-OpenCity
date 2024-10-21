@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700007810
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:31)",
+        [
+            "That's My Jam",
+            700004781
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:35, 14:29)",
+        [
+            "Sightglass",
+            700005386
+        ]
+    ],
+    [
+        "Relaxation/Entertainment",
+        "(15:20, 17:03)",
+        [
+            "Modern Animal",
+            700010096
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:42, 19:46)",
+        [
+            "Modern Animal",
+            700010096
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(19:46, 21:10)",
+        [
+            "Sightglass",
+            700005386
+        ]
+    ],
+    [
+        "Stay at Unspecified Location",
+        "(21:48, 22:59)",
+        [
+            "",
+            700007810
+        ]
+    ],
+    [
+        "Stay at Unspecified Location.",
+        "(23:50, 23:59)",
+        [
+            "Modern Animal",
+            700010096
+        ]
+    ]
+]

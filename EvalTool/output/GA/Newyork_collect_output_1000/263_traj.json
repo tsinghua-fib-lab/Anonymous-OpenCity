@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:58)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(12:14, 14:09)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(14:23, 15:56)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:48, 18:52)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:53, 23:59)",
+        [
+            "Lanzhou Beef Noodles",
+            700011139
+        ]
+    ]
+]

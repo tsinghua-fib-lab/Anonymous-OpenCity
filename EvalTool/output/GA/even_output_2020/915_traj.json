@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009976
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:00)",
+        [
+            "Blue Bottle",
+            700000066
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:17, 15:08)",
+        [
+            "The Snug",
+            700009931
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:53, 18:10)",
+        [
+            "Chouquet's",
+            700013505
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:42, 18:50)",
+        [
+            "",
+            700009976
+        ]
+    ],
+    [
+        "Wind Down",
+        "(19:52, 21:29)",
+        [
+            "Sarah Dix Hamlin School",
+            700000210
+        ]
+    ],
+    [
+        "Wind Down",
+        "(22:22, 23:59)",
+        [
+            "Sarah Dix Hamlin School",
+            700000210
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Urban Hawker",
+            700027588
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:52)",
+        [
+            "Gregory’s coffee",
+            700032007
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:38, 13:56)",
+        [
+            "",
+            700002292
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:01, 21:49)",
+        [
+            "Ellen's Stardust Diner",
+            700006091
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:05, 21:03)",
+        [
+            "",
+            700001138
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(21:16, 22:57)",
+        [
+            "Gregory’s coffee",
+            700032007
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "",
+            700001587
+        ]
+    ]
+]

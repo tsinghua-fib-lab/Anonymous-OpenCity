@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700012299
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:08)",
+        [
+            "MOD. Dining",
+            700024890
+        ]
+    ],
+    [
+        "Sports or Outdoor Activity",
+        "(16:40, 18:02)",
+        [
+            "MOD. Dining",
+            700024890
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(18:29, 19:49)",
+        [
+            "MOD. Dining",
+            700024890
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:53, 21:16)",
+        [
+            "MOD. Dining",
+            700024890
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:13, 23:59)",
+        [
+            "",
+            700027478
+        ]
+    ]
+]

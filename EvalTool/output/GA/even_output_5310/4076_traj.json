@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Big Famous Deli & Grocery",
+            700011515
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:52)",
+        [
+            "Big Famous Deli & Grocery",
+            700011515
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:30, 12:56)",
+        [
+            "Big Famous Deli & Grocery",
+            700011515
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:54, 13:50)",
+        [
+            "Big Famous Deli & Grocery",
+            700011515
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:19, 16:01)",
+        [
+            "Big Famous Deli & Grocery",
+            700011515
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:30, 17:58)",
+        [
+            "",
+            700003840
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:42, 20:18)",
+        [
+            "CVS Pharmacy",
+            700006136
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:10, 23:25)",
+        [
+            "Chase",
+            700003806
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(23:44, 23:59)",
+        [
+            "Big Famous Deli & Grocery",
+            700011515
+        ]
+    ]
+]

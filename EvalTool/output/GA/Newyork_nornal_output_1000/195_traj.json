@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Rasa",
+            700013891
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:19)",
+        [
+            "Stumptown",
+            700007515
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:16, 18:30)",
+        [
+            "Domino's",
+            700016138
+        ]
+    ],
+    [
+        "Engage in a recreational sports activity",
+        "(17:35, 19:14)",
+        [
+            "Ideal Glass Studios",
+            700028889
+        ]
+    ],
+    [
+        "Engage in a recreational sports activity",
+        "(19:26, 21:03)",
+        [
+            "Ideal Glass Studios",
+            700028889
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:59)",
+        [
+            "Arts and Crafts Beer Parlor",
+            700008981
+        ]
+    ]
+]

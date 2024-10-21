@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:41)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:15, 14:42)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Have dinner while discussing the day's activities and plan for the week ahead, including any upcoming classes or trainings.",
+        "(16:58, 18:09)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Meet up with friends or family for a casual game or engage in an outdoor activity like cycling or sports.",
+        "(18:02, 20:10)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Spend time at Gran Merci",
+        "(20:40, 22:50)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Stay at Gran Merci",
+        "(23:01, 23:59)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ]
+]

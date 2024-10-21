@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Another Cafe",
+            700000614
+        ]
+    ],
+    [
+        "Go for a walk at a local park or engage in some light exercise.",
+        "(09:00, 10:37)",
+        [
+            "Golden Horse Restaurant",
+            700008867
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:08, 16:43)",
+        [
+            "",
+            700010629
+        ]
+    ],
+    [
+        "Continue to enjoy your time at Another Cafe.",
+        "(16:02, 17:40)",
+        [
+            "Another Cafe",
+            700000614
+        ]
+    ],
+    [
+        "Enjoy your time at Another Cafe.",
+        "(17:45, 19:07)",
+        [
+            "Another Cafe",
+            700000614
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 21:05)",
+        [
+            "",
+            700001283
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:39, 23:50)",
+        [
+            "",
+            700008652
+        ]
+    ]
+]

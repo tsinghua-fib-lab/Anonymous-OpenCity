@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cat Club",
+            700001818
+        ]
+    ],
+    [
+        "Workout or Sports Activity",
+        "(10:00, 11:34)",
+        [
+            "Cat Club",
+            700001818
+        ]
+    ],
+    [
+        "Workout or Sports Activity",
+        "(11:36, 13:13)",
+        [
+            "Cat Club",
+            700001818
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:13, 18:17)",
+        [
+            "Basil Thai Resaurant & Bar",
+            700002410
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:34, 20:56)",
+        [
+            "Basil Thai Resaurant & Bar",
+            700002410
+        ]
+    ],
+    [
+        "Stay at Sisters Coffee Shop",
+        "(21:58, 22:50)",
+        [
+            "Basil Thai Resaurant & Bar",
+            700002410
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "",
+            700000866
+        ]
+    ]
+]

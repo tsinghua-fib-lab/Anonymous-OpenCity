@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Jones Wood Foundry",
+            700030635
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:20)",
+        [
+            "The Art Center",
+            700035808
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:16, 18:28)",
+        [
+            "Domino's",
+            700034870
+        ]
+    ],
+    [
+        "Engage in a recreational sports activity",
+        "(17:35, 19:00)",
+        [
+            "B&B Bagels",
+            700030630
+        ]
+    ],
+    [
+        "Engage in a recreational sports activity",
+        "(19:26, 20:54)",
+        [
+            "B&B Bagels",
+            700030630
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:59)",
+        [
+            "York Veterinary Center",
+            700038020
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:36)",
+        [
+            "Madison Restaurant",
+            700011537
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:10, 17:35)",
+        [
+            "East Side Animal Hospital",
+            700011457
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:29, 21:47)",
+        [
+            "",
+            700001712
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:43, 23:59)",
+        [
+            "Bareburger",
+            700006418
+        ]
+    ]
+]

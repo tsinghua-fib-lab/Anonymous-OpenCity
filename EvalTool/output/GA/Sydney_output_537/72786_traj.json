@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Alma",
+            700009374
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:40)",
+        [
+            "McDonald's",
+            700004242
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(11:44, 13:04)",
+        [
+            "",
+            700029890
+        ]
+    ],
+    [
+        "Socialize or Catch Up with Friends",
+        "(13:16, 14:55)",
+        [
+            "",
+            700005073
+        ]
+    ],
+    [
+        "Watch TV or a Movie",
+        "(14:45, 17:07)",
+        [
+            "",
+            700029892
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:31, 18:44)",
+        [
+            "Kurtosh",
+            700006345
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:19, 21:22)",
+        [
+            "",
+            700005073
+        ]
+    ],
+    [
+        "Socialize or Catch Up with Friends",
+        "(22:28, 23:59)",
+        [
+            "",
+            700029890
+        ]
+    ]
+]

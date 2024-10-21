@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 25th Street & 2nd Avenue",
+            700008039
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:25)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:54, 18:29)",
+        [
+            "Firecracker Wings",
+            700023829
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(16:00, 16:51)",
+        [
+            "Citi Bike - East 25th Street & 2nd Avenue",
+            700008039
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(17:00, 18:09)",
+        [
+            "",
+            700032014
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(18:22, 19:48)",
+        [
+            "",
+            700011173
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(20:24, 22:10)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "next arrangement after 22:51",
+        "(22:51, 23:59)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "UGC Ciné Cité Maillot",
+            700046609
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:50)",
+        [
+            "Chez Bertrand",
+            700014322
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:08, 14:40)",
+        [
+            "",
+            700001028
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(17:37, 19:15)",
+        [
+            "Bistrot lanterne",
+            700014323
+        ]
+    ],
+    [
+        "Spend time at Bistrot lanterne",
+        "(19:11, 20:41)",
+        [
+            "Bistrot lanterne",
+            700014323
+        ]
+    ],
+    [
+        "Next arrangement for Situation 3",
+        "(21:05, 22:20)",
+        [
+            "Bistrot lanterne",
+            700014323
+        ]
+    ],
+    [
+        "Next arrangement for Situation 3",
+        "(22:47, 23:59)",
+        [
+            "Bistrot lanterne",
+            700014323
+        ]
+    ],
+    [
+        "Stay",
+        "(23:58, 23:59)",
+        [
+            "Bistrot lanterne",
+            700014323
+        ]
+    ]
+]

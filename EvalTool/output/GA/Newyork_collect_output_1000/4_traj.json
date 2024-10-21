@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:38)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:15, 16:22)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Meet up with friends or family for a casual game or engage in an outdoor activity like cycling or sports.",
+        "(16:58, 18:01)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Meet up with friends or family for a casual game or engage in an outdoor activity like cycling or sports.",
+        "(18:02, 19:57)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Spend time at Sunflower Cafe",
+        "(20:40, 22:15)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Spend time at Sunflower Cafe",
+        "(23:01, 23:59)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ]
+]

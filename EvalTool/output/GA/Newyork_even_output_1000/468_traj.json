@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Calexico",
+            700011161
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:03)",
+        [
+            "",
+            700002370
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 17:11)",
+        [
+            "Doc Watson's",
+            700023410
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 19:30)",
+        [
+            "",
+            700020609
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:23, 21:39)",
+        [
+            "Lusardi's",
+            700019512
+        ]
+    ],
+    [
+        "Evening Wind Down with Reading",
+        "(22:03, 23:32)",
+        [
+            "Citi Bike",
+            700020600
+        ]
+    ],
+    [
+        "Evening Wind Down with Reading",
+        "(23:58, 23:59)",
+        [
+            "Our New Place",
+            700024817
+        ]
+    ]
+]

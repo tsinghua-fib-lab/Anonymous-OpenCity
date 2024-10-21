@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Café Campana",
+            700066634
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:31)",
+        [
+            "",
+            700035470
+        ]
+    ],
+    [
+        "Watch a Movie",
+        "(14:32, 16:08)",
+        [
+            "Café Campana",
+            700066634
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:03, 17:21)",
+        [
+            "",
+            700035477
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(20:43, 22:42)",
+        [
+            "Café Campana",
+            700066634
+        ]
+    ],
+    [
+        "Situation 2",
+        "(22:24, 23:59)",
+        [
+            "Café Campana",
+            700066634
+        ]
+    ],
+    [
+        "Go to Klay for light exercise and fresh air",
+        "(23:56, 23:59)",
+        [
+            "",
+            700035451
+        ]
+    ]
+]

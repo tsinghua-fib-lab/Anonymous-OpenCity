@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Have breakfast",
+        "(09:00, 10:05)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "stay",
+        "(10:40, 11:58)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "stay",
+        "(13:04, 14:03)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "stay at KFC",
+        "(14:38, 16:08)",
+        [
+            "",
+            700063206
+        ]
+    ],
+    [
+        "Next movie or series",
+        "(17:03, 18:53)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Next movie or series",
+        "(19:06, 20:10)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Next movie or series",
+        "(21:32, 23:53)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:23, 23:59)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005615
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:27)",
+        [
+            "The Fillmore Street Cafe",
+            700002343
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(14:35, 16:13)",
+        [
+            "The Fillmore Street Cafe",
+            700002343
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(16:50, 17:49)",
+        [
+            "The Fillmore Street Cafe",
+            700002343
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:46, 19:59)",
+        [
+            "",
+            700005621
+        ]
+    ],
+    [
+        "Go to Toast eatery",
+        "(20:37, 21:50)",
+        [
+            "",
+            700005615
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:46, 23:59)",
+        [
+            "Sheba Piano Lounge",
+            700005608
+        ]
+    ]
+]

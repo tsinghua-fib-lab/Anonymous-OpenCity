@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cafe Nook",
+            700001590
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:59)",
+        [
+            "Chinese Community Church",
+            700000245
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:24, 14:42)",
+        [
+            "Wells Fargo",
+            700003285
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:45, 16:50)",
+        [
+            "Up For Dayz",
+            700010667
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 21:31)",
+        [
+            "The Crepe House",
+            700002742
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 23:59)",
+        [
+            "",
+            700009910
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:33, 23:59)",
+        [
+            "Bay Wheels",
+            700006754
+        ]
+    ]
+]

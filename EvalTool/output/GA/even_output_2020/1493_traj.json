@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010479
+        ]
+    ],
+    [
+        "Morning Workout or Yoga Session",
+        "(10:00, 11:24)",
+        [
+            "Lupa Trattoria",
+            700001750
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(12:14, 14:15)",
+        [
+            "Noe Indian Kitchen",
+            700001753
+        ]
+    ],
+    [
+        "Afternoon Entertainment Activity",
+        "(14:30, 16:51)",
+        [
+            "Noe Indian Kitchen",
+            700001753
+        ]
+    ],
+    [
+        "Relax and Catch Up on a TV Show",
+        "(17:09, 19:09)",
+        [
+            "Patxi's Pizza",
+            700003208
+        ]
+    ],
+    [
+        "Relax and Catch Up on a TV Show",
+        "(20:06, 22:09)",
+        [
+            "The Little Chihuahua",
+            700003676
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:07, 23:59)",
+        [
+            "Noe Valley Spa",
+            700006195
+        ]
+    ]
+]

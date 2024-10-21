@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Marigold Cafe",
+            700012790
+        ]
+    ],
+    [
+        "Morning exercise",
+        "(09:00, 10:02)",
+        [
+            "CoffeeShop",
+            700009552
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:30, 13:27)",
+        [
+            "Asiento",
+            700003033
+        ]
+    ],
+    [
+        "Leisure reading or hobbies",
+        "(11:59, 13:57)",
+        [
+            "Asiento",
+            700003033
+        ]
+    ],
+    [
+        "Afternoon entertainment",
+        "(14:22, 17:06)",
+        [
+            "Asiento",
+            700003033
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:28, 22:58)",
+        [
+            "",
+            700001185
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:48, 23:59)",
+        [
+            "El Chato",
+            700010883
+        ]
+    ]
+]

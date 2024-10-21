@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700017642
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:29)",
+        [
+            "Fresh & Co",
+            700015252
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:59, 13:05)",
+        [
+            "Fresh & Co",
+            700015252
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:25, 14:53)",
+        [
+            "Fresh & Co",
+            700015252
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:12, 19:44)",
+        [
+            "",
+            700020306
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:43, 23:59)",
+        [
+            "NYPD 17 PCT",
+            700004366
+        ]
+    ],
+    [
+        "Next activity after biking at Duane Reade",
+        "(22:26, 23:55)",
+        [
+            "Duane Reade",
+            700020312
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "Dig",
+            700022397
+        ]
+    ]
+]

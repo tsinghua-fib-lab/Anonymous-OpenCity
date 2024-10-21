@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(08:00, 11:59)",
+        [
+            "",
+            700001548
+        ]
+    ],
+    [
+        "Personal Project or Hobby Time",
+        "(14:19, 16:16)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "Personal Project or Hobby Time",
+        "(15:58, 18:04)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 19:33)",
+        [
+            "",
+            700022520
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:48, 23:59)",
+        [
+            "iPark",
+            700018136
+        ]
+    ]
+]

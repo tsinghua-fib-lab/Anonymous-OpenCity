@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Haussman Printemps",
+            700006396
+        ]
+    ],
+    [
+        "Stay at Haussman Printemps",
+        "(09:00, 11:09)",
+        [
+            "Haussman Printemps",
+            700006396
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:12, 14:29)",
+        [
+            "Haussmann Galeries Lafayette",
+            700005040
+        ]
+    ],
+    [
+        "Stay at Haussman Printemps",
+        "(12:30, 13:59)",
+        [
+            "Haussman Printemps",
+            700006396
+        ]
+    ],
+    [
+        "Reading or enjoying a hobby at home",
+        "(14:22, 15:52)",
+        [
+            "Haussman Printemps",
+            700006396
+        ]
+    ],
+    [
+        "Lunch with friends or family",
+        "(16:14, 17:57)",
+        [
+            "Haussman Printemps",
+            700006396
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 23:59)",
+        [
+            "Guimi House",
+            700046329
+        ]
+    ],
+    [
+        "Chez Omar",
+        "(21:28, 22:48)",
+        [
+            "McDonald's",
+            700005038
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "Haussmann Galeries Lafayette",
+            700005031
+        ]
+    ]
+]

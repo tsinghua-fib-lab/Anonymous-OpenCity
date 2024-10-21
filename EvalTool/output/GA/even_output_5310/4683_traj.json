@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "NYU School of Medicine",
+            700003369
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:17)",
+        [
+            "Citi Bike - East 33rd Street & 1st Avenue",
+            700008043
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:08, 15:57)",
+        [
+            "Citi Bike - East 33rd Street & 1st Avenue",
+            700008043
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 21:07)",
+        [
+            "",
+            700014998
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 23:59)",
+        [
+            "",
+            700014998
+        ]
+    ]
+]

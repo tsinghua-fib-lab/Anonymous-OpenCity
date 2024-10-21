@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "ParkEast Veterinarians",
+            700022330
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:59)",
+        [
+            "Mission Ceviche",
+            700006556
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 17:01)",
+        [
+            "Cardiology Consultants of New York",
+            700038266
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:57, 18:17)",
+        [
+            "",
+            700020611
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:29, 23:59)",
+        [
+            "La Esquina",
+            700016597
+        ]
+    ]
+]

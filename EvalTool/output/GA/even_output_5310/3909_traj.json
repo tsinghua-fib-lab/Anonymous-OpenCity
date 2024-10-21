@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Gem Saloon",
+            700011140
+        ]
+    ],
+    [
+        "Go for a walk in the nearby park.",
+        "(10:00, 11:09)",
+        [
+            "7th Street Burger",
+            700015362
+        ]
+    ],
+    [
+        "Head to Tara Rose for a meal.",
+        "(11:26, 13:00)",
+        [
+            "Coletta",
+            700015591
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:52, 15:08)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 20:21)",
+        [
+            "Lanzhou Beef Noodles",
+            700011139
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 20:50)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "Go to Soft Swerve for ice cream.",
+        "(23:25, 23:59)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ]
+]

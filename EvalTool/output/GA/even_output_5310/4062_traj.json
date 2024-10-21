@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Breslin",
+            700003458
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the nearby park or nature reserve.",
+        "(10:00, 10:55)",
+        [
+            "Stumptown Coffee Roasters",
+            700016173
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the nearby park or nature reserve.",
+        "(10:58, 11:55)",
+        [
+            "Stumptown Coffee Roasters",
+            700016173
+        ]
+    ],
+    [
+        "Attend a yoga class or engage in a home workout.",
+        "(12:15, 13:37)",
+        [
+            "Stumptown Coffee Roasters",
+            700016173
+        ]
+    ],
+    [
+        "Stay at Stumptown Coffee Roasters for lunch.",
+        "(14:39, 16:06)",
+        [
+            "Nomad",
+            700010267
+        ]
+    ],
+    [
+        "current place and stay time",
+        "(16:25, 17:35)",
+        [
+            "Dr. Smood",
+            700018165
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 20:09)",
+        [
+            "INDAY",
+            700009262
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 23:59)",
+        [
+            "Broadway Cafe",
+            700003546
+        ]
+    ],
+    [
+        "current place and stay time",
+        "(22:11, 23:47)",
+        [
+            "",
+            700003089
+        ]
+    ],
+    [
+        "Current place and stay time.",
+        "(23:49, 23:59)",
+        [
+            "Citi Bike - Broadway & West 24th Street",
+            700007970
+        ]
+    ]
+]

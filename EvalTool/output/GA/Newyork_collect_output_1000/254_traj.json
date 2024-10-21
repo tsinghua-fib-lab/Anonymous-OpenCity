@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:50)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Personal Project/Study Time",
+        "(10:29, 12:31)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:43, 15:22)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:23, 17:48)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:56, 22:50)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ]
+]

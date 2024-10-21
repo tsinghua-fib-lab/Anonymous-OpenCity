@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Max Brenner",
+            700004767
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 10:59)",
+        [
+            "",
+            700026309
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:54, 13:28)",
+        [
+            "Max Brenner",
+            700004767
+        ]
+    ],
+    [
+        "Stay at Max Brenner",
+        "(14:30, 16:37)",
+        [
+            "",
+            700001972
+        ]
+    ],
+    [
+        "Entertainment",
+        "(17:27, 19:09)",
+        [
+            "",
+            700002433
+        ]
+    ],
+    [
+        "Stay at Unknown Place",
+        "(19:29, 21:09)",
+        [
+            "Citi Bike - University Place & East 13th Street",
+            700008193
+        ]
+    ],
+    [
+        "Stay at Max Brenner",
+        "(21:24, 22:30)",
+        [
+            "Citi Bike - University Place & East 13th Street",
+            700008193
+        ]
+    ],
+    [
+        "Stay at Max Brenner",
+        "(22:54, 23:59)",
+        [
+            "Citi Bike - University Place & East 13th Street",
+            700008193
+        ]
+    ]
+]

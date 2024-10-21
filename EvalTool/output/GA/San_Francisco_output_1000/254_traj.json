@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011106
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:50)",
+        [
+            "San Francisco Chinese Parent Committee School",
+            700000316
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(14:37, 17:11)",
+        [
+            "San Francisco Chinese Parent Committee School",
+            700000316
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 21:27)",
+        [
+            "Chinatown Community Children's Center",
+            700013911
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:58, 23:59)",
+        [
+            "",
+            700011105
+        ]
+    ]
+]

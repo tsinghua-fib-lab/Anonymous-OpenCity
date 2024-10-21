@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030412
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:32)",
+        [
+            "",
+            700030401
+        ]
+    ],
+    [
+        "Lunch with friends or family.",
+        "(13:14, 14:47)",
+        [
+            "",
+            700034857
+        ]
+    ],
+    [
+        "Go out for a fun afternoon activity.",
+        "(15:04, 17:31)",
+        [
+            "",
+            700034857
+        ]
+    ],
+    [
+        "Go out for a fun afternoon activity.",
+        "(16:56, 18:31)",
+        [
+            "Citi Bike - Grand Army Plaza & Central Park South",
+            700008084
+        ]
+    ],
+    [
+        "Go out for a fun afternoon activity",
+        "(19:16, 20:44)",
+        [
+            "Citi Bike - Grand Army Plaza & Central Park South",
+            700008084
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:43, 23:59)",
+        [
+            "",
+            700008561
+        ]
+    ]
+]

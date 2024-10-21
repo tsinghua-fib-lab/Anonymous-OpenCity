@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700022277
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:06)",
+        [
+            "",
+            700022277
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:31, 14:10)",
+        [
+            "Citi Bike - East 60th Street & York Avenue",
+            700008062
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(14:41, 17:07)",
+        [
+            "Citi Bike - East 60th Street & York Avenue",
+            700008062
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:51, 21:11)",
+        [
+            "",
+            700022279
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "",
+            700020453
+        ]
+    ]
+]

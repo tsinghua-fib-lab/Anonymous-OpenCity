@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Eureka Market",
+            700001048
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:26)",
+        [
+            "Eureka Market",
+            700001048
+        ]
+    ],
+    [
+        "Read a Book or Listen to Music",
+        "(14:11, 16:02)",
+        [
+            "Eureka Market",
+            700001048
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:02, 21:23)",
+        [
+            "",
+            700004025
+        ]
+    ],
+    [
+        "Read a Book or Listen to Music",
+        "(21:35, 23:51)",
+        [
+            "Eureka Market",
+            700001048
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(23:45, 23:59)",
+        [
+            "Eureka Market",
+            700001048
+        ]
+    ]
+]

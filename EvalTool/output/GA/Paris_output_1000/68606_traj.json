@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Lily de Neuilly",
+            700005214
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:34)",
+        [
+            "",
+            700048838
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 20:32)",
+        [
+            "École générale et technologique privée Marymount School",
+            700021359
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:01, 23:05)",
+        [
+            "Lily de Neuilly",
+            700005214
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "",
+            700048837
+        ]
+    ]
+]

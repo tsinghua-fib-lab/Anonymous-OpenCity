@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:30)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Try out a new hobby or work on a personal project",
+        "(16:14, 18:08)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Prepare and enjoy dinner, possibly trying out a new recipe.",
+        "(18:57, 20:30)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Watch sports or entertainment shows",
+        "(21:39, 23:03)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Go to Dragon Court.",
+        "(23:47, 23:59)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ]
+]

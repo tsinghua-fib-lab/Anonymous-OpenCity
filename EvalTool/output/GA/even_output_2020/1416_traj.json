@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hot Cookie",
+            700000837
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:11)",
+        [
+            "Catch",
+            700013847
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(11:08, 13:06)",
+        [
+            "Catch",
+            700013847
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:18, 15:02)",
+        [
+            "Catch",
+            700013847
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:02, 17:00)",
+        [
+            "Fitness SF",
+            700002287
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 23:56)",
+        [
+            "Catch",
+            700013847
+        ]
+    ],
+    [
+        "Socialize with Friends or Family",
+        "(21:41, 23:59)",
+        [
+            "Crystal Way",
+            700013879
+        ]
+    ],
+    [
+        "Socialize with Friends or Family",
+        "(23:44, 23:59)",
+        [
+            "Catch",
+            700013847
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Oasis Garden",
+            700000421
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:03)",
+        [
+            "Citi Bike - W 53 St & 10 Ave",
+            700008233
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:35, 14:03)",
+        [
+            "Citi Bike - W 53 St & 10 Ave",
+            700008233
+        ]
+    ],
+    [
+        "Personal Hobbies or DIY Projects",
+        "(14:57, 16:01)",
+        [
+            "Citi Bike - W 53 St & 10 Ave",
+            700008233
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:15, 18:02)",
+        [
+            "Citi Bike - W 53 St & 10 Ave",
+            700008233
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 23:44)",
+        [
+            "Citi Bike - W 53 St & 10 Ave",
+            700008233
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "",
+            700002723
+        ]
+    ]
+]

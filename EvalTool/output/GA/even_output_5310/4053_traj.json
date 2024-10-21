@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of Hope",
+            700010854
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the nearby park or nature reserve.",
+        "(10:00, 11:01)",
+        [
+            "Woorijip",
+            700009256
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the nearby park or nature reserve.",
+        "(10:58, 11:55)",
+        [
+            "Woorijip",
+            700009256
+        ]
+    ],
+    [
+        "Attend a yoga class or engage in a home workout.",
+        "(12:15, 13:42)",
+        [
+            "Woorijip",
+            700009256
+        ]
+    ],
+    [
+        "Stay at Woorijip for lunch.",
+        "(14:39, 16:03)",
+        [
+            "Gong Cha",
+            700014883
+        ]
+    ],
+    [
+        "current place and stay time",
+        "(16:25, 17:21)",
+        [
+            "Woorijip",
+            700009256
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 20:07)",
+        [
+            "Grace Street",
+            700020940
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 23:59)",
+        [
+            "Gong Cha",
+            700014883
+        ]
+    ],
+    [
+        "current place and stay time",
+        "(22:11, 23:43)",
+        [
+            "Woorijip",
+            700009256
+        ]
+    ],
+    [
+        "Current place and stay time.",
+        "(23:49, 23:59)",
+        [
+            "Woorijip",
+            700009256
+        ]
+    ]
+]

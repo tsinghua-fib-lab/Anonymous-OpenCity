@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Joe Junior",
+            700009124
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:37)",
+        [
+            "",
+            700002648
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:43, 13:50)",
+        [
+            "",
+            700002648
+        ]
+    ],
+    [
+        "Hobbies or Creative Time",
+        "(13:57, 14:52)",
+        [
+            "Joe Junior",
+            700009124
+        ]
+    ],
+    [
+        "Next: Hobbies or Creative Time",
+        "(15:20, 17:03)",
+        [
+            "Joe Junior",
+            700009124
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:35, 19:04)",
+        [
+            "Joe Junior",
+            700009124
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:31, 21:58)",
+        [
+            "Citi Bike - East 15th Street & 3rd Avenue",
+            700008025
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "",
+            700007886
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Pitt St & Stanton St",
+            700008166
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:50)",
+        [
+            "",
+            700001519
+        ]
+    ],
+    [
+        "Personal Project or Hobby",
+        "(12:37, 13:53)",
+        [
+            "Parkside Lounge",
+            700004037
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:48, 19:15)",
+        [
+            "Mughlai Indian Cuisine",
+            700010055
+        ]
+    ],
+    [
+        "Relaxation or Reading",
+        "(21:08, 22:51)",
+        [
+            "Mughlai Indian Cuisine",
+            700010055
+        ]
+    ],
+    [
+        "Relaxation or Reading",
+        "(23:52, 23:59)",
+        [
+            "The Mayfly",
+            700006700
+        ]
+    ]
+]

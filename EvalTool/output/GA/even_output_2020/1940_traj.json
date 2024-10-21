@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008312
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:09)",
+        [
+            "Martuni's",
+            700000006
+        ]
+    ],
+    [
+        "Stay at Martuni's.",
+        "(13:12, 14:45)",
+        [
+            "Perform for Life",
+            700005810
+        ]
+    ],
+    [
+        "Stay at Martuni's.",
+        "(15:37, 17:04)",
+        [
+            "Perform for Life",
+            700005810
+        ]
+    ],
+    [
+        "Stay at Martuni's",
+        "(18:00, 19:32)",
+        [
+            "Spice of America",
+            700008800
+        ]
+    ],
+    [
+        "Stay at Martuni's",
+        "(19:51, 20:59)",
+        [
+            "",
+            700008302
+        ]
+    ],
+    [
+        "Stay at Martuni's",
+        "(21:19, 22:52)",
+        [
+            "",
+            700009519
+        ]
+    ],
+    [
+        "Stay at Martuni's",
+        "(23:04, 23:59)",
+        [
+            "Spice of America",
+            700008800
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Martha Graham Center",
+            700014453
+        ]
+    ],
+    [
+        "Go for a morning jog or walk in the park",
+        "(10:00, 10:57)",
+        [
+            "Citi Bike - Bank St & Washington St",
+            700007956
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:05, 16:34)",
+        [
+            "",
+            700026648
+        ]
+    ],
+    [
+        "Stay and relax",
+        "(16:09, 17:57)",
+        [
+            "Citi Bike - Bank St & Washington St",
+            700007956
+        ]
+    ],
+    [
+        "Stay at Citi Bike - Bank St & Washington St.",
+        "(18:28, 19:49)",
+        [
+            "Citi Bike - Bank St & Washington St",
+            700007956
+        ]
+    ],
+    [
+        "Stay at the current place.",
+        "(20:21, 21:20)",
+        [
+            "Citi Bike - Bank St & Washington St",
+            700007956
+        ]
+    ],
+    [
+        "Stay at Citi Bike - Bank St & Washington St.",
+        "(22:35, 23:45)",
+        [
+            "Citi Bike - Bank St & Washington St",
+            700007956
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "Orient Express",
+            700014424
+        ]
+    ]
+]

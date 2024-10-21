@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:38)",
+        [
+            "",
+            700071193
+        ]
+    ],
+    [
+        "Grocery shopping or errands",
+        "(15:40, 16:40)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:33, 21:19)",
+        [
+            "",
+            700032589
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "",
+            700071193
+        ]
+    ]
+]

@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700005942
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:00)",
+        [
+            "Starbucks",
+            700005942
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:26, 12:01)",
+        [
+            "Starbucks",
+            700005942
+        ]
+    ],
+    [
+        "Exercise",
+        "(12:18, 13:56)",
+        [
+            "Starbucks",
+            700005942
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:36, 15:44)",
+        [
+            "The Town Hall",
+            700006517
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:38, 18:12)",
+        [
+            "The Town Hall",
+            700006517
+        ]
+    ],
+    [
+        "Stay at The Town Hall",
+        "(18:22, 20:03)",
+        [
+            "The Town Hall",
+            700006517
+        ]
+    ],
+    [
+        "Stay at The Town Hall",
+        "(20:47, 21:50)",
+        [
+            "The Town Hall",
+            700006517
+        ]
+    ],
+    [
+        "Stay at The Town Hall",
+        "(22:47, 23:51)",
+        [
+            "The Town Hall",
+            700006517
+        ]
+    ],
+    [
+        "Stay at The Town Hall",
+        "(23:51, 23:59)",
+        [
+            "Starbucks",
+            700005942
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:28)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Continue to Leisure Time/Shopping",
+        "(10:58, 13:02)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 18:43)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Continue to Leisure Time/Shopping",
+        "(16:20, 18:12)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 21:52)",
+        [
+            "Street Taco",
+            700006239
+        ]
+    ],
+    [
+        "Continue to Wind Down & Relax",
+        "(22:35, 23:59)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ]
+]

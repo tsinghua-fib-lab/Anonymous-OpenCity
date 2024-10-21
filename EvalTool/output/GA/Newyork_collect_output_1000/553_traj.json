@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:46)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:32, 16:07)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:19, 18:05)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:39, 20:13)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:48, 23:59)",
+        [
+            "Lanzhou Beef Noodles",
+            700011139
+        ]
+    ]
+]

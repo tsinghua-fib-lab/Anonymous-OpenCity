@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "HealthSource Pharmacy",
+            700015290
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:27)",
+        [
+            "Lucid Body House",
+            700006343
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:45, 12:53)",
+        [
+            "Lucid Body House",
+            700006343
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:41, 15:11)",
+        [
+            "Lucid Body House",
+            700006343
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:58, 19:10)",
+        [
+            "Bodyrok NYC",
+            700009383
+        ]
+    ],
+    [
+        "Dinner at Home",
+        "(19:36, 20:56)",
+        [
+            "Lucid Body House",
+            700006343
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(21:55, 23:09)",
+        [
+            "Bodyrok NYC",
+            700009383
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "",
+            700002164
+        ]
+    ]
+]

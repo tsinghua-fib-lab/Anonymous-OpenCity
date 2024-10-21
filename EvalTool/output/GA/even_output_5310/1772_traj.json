@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700025747
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:55)",
+        [
+            "",
+            700017575
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 20:13)",
+        [
+            "ChargePoint",
+            700012434
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(21:21, 22:57)",
+        [
+            "",
+            700025747
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(23:18, 23:59)",
+        [
+            "ChargePoint",
+            700012434
+        ]
+    ]
+]

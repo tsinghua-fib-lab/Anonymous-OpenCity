@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008513
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:00, 10:58)",
+        [
+            "",
+            700008513
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(11:51, 13:00)",
+        [
+            "China Live",
+            700005224
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(13:50, 15:30)",
+        [
+            "China Live",
+            700005224
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:51, 20:19)",
+        [
+            "China Live",
+            700005224
+        ]
+    ],
+    [
+        "Watching Sports or TV",
+        "(19:28, 21:02)",
+        [
+            "China Live",
+            700005224
+        ]
+    ],
+    [
+        "Watching Sports or TV",
+        "(21:29, 23:24)",
+        [
+            "Mona Lisa",
+            700002083
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "El Farolito",
+            700006214
+        ]
+    ]
+]

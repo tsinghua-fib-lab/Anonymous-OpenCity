@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002440
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:22)",
+        [
+            "Citi Bike - Christopher St & Greenwich St",
+            700007994
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 12:52)",
+        [
+            "",
+            700002920
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:50, 18:53)",
+        [
+            "",
+            700002563
+        ]
+    ],
+    [
+        "Next activity after dinner.",
+        "(19:21, 21:04)",
+        [
+            "",
+            700001467
+        ]
+    ],
+    [
+        "Go to Five Guys.",
+        "(21:53, 22:54)",
+        [
+            "",
+            700001225
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "Late Night Ramen at Takashi",
+            700008786
+        ]
+    ]
+]

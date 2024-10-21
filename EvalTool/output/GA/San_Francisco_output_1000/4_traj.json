@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Venticello",
+            700005060
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:35)",
+        [
+            "",
+            700008909
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby",
+        "(11:03, 12:39)",
+        [
+            "Venticello",
+            700005060
+        ]
+    ],
+    [
+        "Social Time with Friends/Family",
+        "(13:02, 15:53)",
+        [
+            "",
+            700008907
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:51, 21:45)",
+        [
+            "",
+            700008912
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:54, 23:35)",
+        [
+            "",
+            700008909
+        ]
+    ]
+]

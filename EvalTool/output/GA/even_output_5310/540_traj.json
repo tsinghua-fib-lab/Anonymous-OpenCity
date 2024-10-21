@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dunkin'",
+            700004185
+        ]
+    ],
+    [
+        "You stay at Dunkin'.",
+        "(10:00, 11:04)",
+        [
+            "",
+            700014458
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 13:37)",
+        [
+            "USPS",
+            700017695
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 23:35)",
+        [
+            "Bagel Boss",
+            700006701
+        ]
+    ],
+    [
+        "go to Citi Bike - 1st Avenue & East 15th Street",
+        "(23:52, 23:59)",
+        [
+            "Citi Bike - 1st Avenue & East 15th Street",
+            700007924
+        ]
+    ]
+]

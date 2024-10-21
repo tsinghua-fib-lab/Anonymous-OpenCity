@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Village Community Boathouse",
+            700009438
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(09:00, 10:35)",
+        [
+            "",
+            700007449
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:39, 14:44)",
+        [
+            "",
+            700019025
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(16:27, 17:54)",
+        [
+            "Citi Bike",
+            700020886
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(18:54, 20:01)",
+        [
+            "",
+            700019023
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(20:29, 22:03)",
+        [
+            "P3 Batting Cage",
+            700009439
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:18, 23:58)",
+        [
+            "",
+            700019022
+        ]
+    ]
+]

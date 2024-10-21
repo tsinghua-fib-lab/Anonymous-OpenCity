@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Flame",
+            700006116
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:31)",
+        [
+            "",
+            700040475
+        ]
+    ],
+    [
+        "Go for a walk in the park or around the neighborhood",
+        "(11:09, 12:19)",
+        [
+            "The Flame",
+            700006116
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(12:41, 13:34)",
+        [
+            "The Flame",
+            700006116
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:03, 19:41)",
+        [
+            "",
+            700040474
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 23:59)",
+        [
+            "",
+            700019672
+        ]
+    ]
+]

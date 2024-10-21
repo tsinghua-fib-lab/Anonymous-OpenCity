@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008853
+        ]
+    ],
+    [
+        "Go for a workout or engage in a sport",
+        "(10:00, 11:21)",
+        [
+            "Cantoo Latin Asian Rotisserie",
+            700010652
+        ]
+    ],
+    [
+        "Go for a workout or engage in a sport.",
+        "(11:46, 13:15)",
+        [
+            "Cantoo Latin Asian Rotisserie",
+            700010652
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:50, 16:12)",
+        [
+            "Zombie Village",
+            700001863
+        ]
+    ],
+    [
+        "Wind down the evening with a book or listening to music.",
+        "(19:20, 20:46)",
+        [
+            "The TL Cafe and Laundromat",
+            700010155
+        ]
+    ],
+    [
+        "Wind down the evening with a book or listening to music.",
+        "(21:41, 23:00)",
+        [
+            "The TL Cafe and Laundromat",
+            700010155
+        ]
+    ],
+    [
+        "Stay at home and wind down the evening with a book or listening to music.",
+        "(23:36, 23:59)",
+        [
+            "",
+            700008853
+        ]
+    ]
+]

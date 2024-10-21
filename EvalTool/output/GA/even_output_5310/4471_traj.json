@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "St. John's University",
+            700015007
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:15)",
+        [
+            "Chopt",
+            700021773
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 17:19)",
+        [
+            "Astor Place Greenmarket",
+            700019443
+        ]
+    ],
+    [
+        "Watch movie and relax",
+        "(21:05, 23:05)",
+        [
+            "Astor Place Greenmarket",
+            700019443
+        ]
+    ],
+    [
+        "Watch a movie or relax until some rest.",
+        "(23:34, 23:59)",
+        [
+            "Astor Place Greenmarket",
+            700019443
+        ]
+    ]
+]

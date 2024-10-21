@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700005467
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:58)",
+        [
+            "Bank of America",
+            700004124
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:47, 14:20)",
+        [
+            "Left Door",
+            700013631
+        ]
+    ],
+    [
+        "Afternoon Leisure",
+        "(15:18, 16:53)",
+        [
+            "Starbucks",
+            700005467
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:55, 20:28)",
+        [
+            "",
+            700014102
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:21, 20:50)",
+        [
+            "Left Door",
+            700013631
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "Extreme Pizza",
+            700005697
+        ]
+    ],
+    [
+        "Dinner with Family or Friends",
+        "(23:56, 23:59)",
+        [
+            "Left Door",
+            700013631
+        ]
+    ]
+]

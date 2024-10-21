@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pharmacie du Javelot",
+            700005405
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 11:08)",
+        [
+            "CrossFit Rive Gauche",
+            700033783
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:07, 14:26)",
+        [
+            "Sensation Dance",
+            700033953
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 16:32)",
+        [
+            "Crèche Municipale Javelot",
+            700022122
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:38, 21:48)",
+        [
+            "",
+            700024237
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:23, 23:59)",
+        [
+            "Crèche Municipale Javelot",
+            700022122
+        ]
+    ]
+]

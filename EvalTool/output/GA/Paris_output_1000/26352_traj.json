@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000468
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:33)",
+        [
+            "",
+            700000468
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 12:44)",
+        [
+            "Okame",
+            700039456
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 20:35)",
+        [
+            "Les Gourmets des Ternes",
+            700019306
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:02, 23:05)",
+        [
+            "Les Gourmets des Ternes",
+            700019306
+        ]
+    ],
+    [
+        "Stay at your current location.",
+        "(23:38, 23:59)",
+        [
+            "Okame",
+            700039456
+        ]
+    ]
+]

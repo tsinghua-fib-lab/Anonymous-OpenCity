@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bay Wheels",
+            700010084
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:05)",
+        [
+            "",
+            700008270
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:27, 17:28)",
+        [
+            "",
+            700014404
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:43, 22:15)",
+        [
+            "",
+            700011071
+        ]
+    ],
+    [
+        "Stay at Bay Wheels",
+        "(22:08, 23:43)",
+        [
+            "Little Free Library",
+            700010493
+        ]
+    ],
+    [
+        "Stay at Bay Wheels",
+        "(23:52, 23:59)",
+        [
+            "Little Free Library",
+            700010493
+        ]
+    ]
+]

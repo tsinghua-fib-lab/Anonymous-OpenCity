@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010479
+        ]
+    ],
+    [
+        "Outdoor Activity (10:30 AM - 12:00 PM)",
+        "(09:00, 10:26)",
+        [
+            "Chez Marius",
+            700001755
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:09, 15:52)",
+        [
+            "The Little Chihuahua",
+            700003676
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 20:47)",
+        [
+            "Subs, Inc.",
+            700001748
+        ]
+    ],
+    [
+        "Social Time",
+        "(20:38, 22:17)",
+        [
+            "Chez Marius",
+            700001755
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:36, 23:59)",
+        [
+            "The Valley Tavern",
+            700001771
+        ]
+    ],
+    [
+        "Wind Down",
+        "(23:58, 23:59)",
+        [
+            "",
+            700010479
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Golden Flower",
+            700000868
+        ]
+    ],
+    [
+        "Go for a Walk or Exercise",
+        "(10:00, 10:50)",
+        [
+            "ABC Cafe Restaurant",
+            700005138
+        ]
+    ],
+    [
+        "Go for a Walk or Exercise",
+        "(11:05, 13:00)",
+        [
+            "ABC Cafe Restaurant",
+            700005138
+        ]
+    ],
+    [
+        "Catch Up on Hobbies",
+        "(13:45, 15:37)",
+        [
+            "ABC Cafe Restaurant",
+            700005138
+        ]
+    ],
+    [
+        "Catch Up on Hobbies",
+        "(16:08, 18:08)",
+        [
+            "ABC Cafe Restaurant",
+            700005138
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:08, 21:35)",
+        [
+            "",
+            700009339
+        ]
+    ],
+    [
+        "Catch Up on Hobbies",
+        "(23:25, 23:59)",
+        [
+            "Golden Flower",
+            700000868
+        ]
+    ]
+]

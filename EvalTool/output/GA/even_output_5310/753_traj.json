@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Grand Sichuan",
+            700006165
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:10)",
+        [
+            "Famous Original Ray's Pizza",
+            700004404
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 15:52)",
+        [
+            "Citi Bike - 9th Avenue & West 22nd Street",
+            700007945
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:17, 23:03)",
+        [
+            "",
+            700002757
+        ]
+    ],
+    [
+        "Visit Empire Diner",
+        "(22:52, 23:59)",
+        [
+            "Posh Pass NYC",
+            700003865
+        ]
+    ],
+    [
+        "Stay at Uncle Nick's Restaurant",
+        "(23:58, 23:59)",
+        [
+            "",
+            700000822
+        ]
+    ]
+]

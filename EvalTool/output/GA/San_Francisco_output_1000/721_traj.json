@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Capital Restaurant",
+            700004691
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(09:00, 10:21)",
+        [
+            "Los Yucatecos",
+            700010867
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(10:50, 12:04)",
+        [
+            "Golden Lotus",
+            700003360
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(12:39, 13:44)",
+        [
+            "Los Yucatecos",
+            700010867
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:22, 19:56)",
+        [
+            "",
+            700004957
+        ]
+    ],
+    [
+        "Social Time",
+        "(20:03, 21:53)",
+        [
+            "Los Yucatecos",
+            700010867
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:59)",
+        [
+            "",
+            700009608
+        ]
+    ]
+]

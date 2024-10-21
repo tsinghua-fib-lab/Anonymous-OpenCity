@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Lafayette St & E 8 St",
+            700008112
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 11:07)",
+        [
+            "Citi Bike - Lafayette St & E 8 St",
+            700008112
+        ]
+    ],
+    [
+        "Current place: Citi Bike - Lafayette St & E 8 St, staying for brunch.",
+        "(11:34, 13:08)",
+        [
+            "Citi Bike - Lafayette St & E 8 St",
+            700008112
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:38, 17:53)",
+        [
+            "",
+            700002487
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 21:44)",
+        [
+            "",
+            700016765
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:07, 23:20)",
+        [
+            "Chase",
+            700021805
+        ]
+    ]
+]

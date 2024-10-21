@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700004120
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:06)",
+        [
+            "The Interval",
+            700004117
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(11:27, 13:34)",
+        [
+            "Lily Cai Chinese Dance Company",
+            700004186
+        ]
+    ],
+    [
+        "Next activity after brunch with friends",
+        "(14:05, 16:15)",
+        [
+            "SFMOMA Artists Gallery",
+            700004118
+        ]
+    ],
+    [
+        "Next activity after brunch with friends",
+        "(16:50, 18:22)",
+        [
+            "SFMOMA Artists Gallery",
+            700004118
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:12, 23:59)",
+        [
+            "Southside Theater",
+            700004182
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 23:59)",
+        [
+            "",
+            700004120
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(22:56, 23:59)",
+        [
+            "Fort Mason Farmer's Market",
+            700001594
+        ]
+    ]
+]

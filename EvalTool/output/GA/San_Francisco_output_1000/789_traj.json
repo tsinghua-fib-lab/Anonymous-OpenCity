@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000048
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:53)",
+        [
+            "",
+            700000048
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:58, 17:24)",
+        [
+            "Red Poppy Art House",
+            700004394
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:19, 16:22)",
+        [
+            "Red Poppy Art House",
+            700004394
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:02, 19:00)",
+        [
+            "Red Poppy Art House",
+            700004394
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:29, 20:06)",
+        [
+            "",
+            700001922
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:51, 22:57)",
+        [
+            "U.S. Bank",
+            700004873
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:01, 23:59)",
+        [
+            "",
+            700004883
+        ]
+    ]
+]

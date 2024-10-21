@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Union Square Cafe",
+            700018126
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:06)",
+        [
+            "Barbounia",
+            700018123
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(14:56, 16:16)",
+        [
+            "",
+            700002018
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(17:09, 18:50)",
+        [
+            "Union Square Cafe",
+            700018126
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:50, 23:04)",
+        [
+            "Oceans",
+            700005262
+        ]
+    ]
+]

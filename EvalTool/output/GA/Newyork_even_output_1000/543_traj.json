@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700027213
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 12:10)",
+        [
+            "Chomp Chomp",
+            700040555
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:20, 13:53)",
+        [
+            "Chomp Chomp",
+            700040555
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 20:19)",
+        [
+            "Cafe Himalaya",
+            700011791
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:01, 20:51)",
+        [
+            "Cafe Himalaya",
+            700011791
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:57, 22:32)",
+        [
+            "Cafe Himalaya",
+            700011791
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(22:49, 23:50)",
+        [
+            "Divya’s Kitchen",
+            700007340
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(23:57, 23:59)",
+        [
+            "Divya’s Kitchen",
+            700007340
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020901
+        ]
+    ],
+    [
+        "Go for a morning walk or jog in a nearby park.",
+        "(09:00, 09:57)",
+        [
+            "",
+            700026711
+        ]
+    ],
+    [
+        "Read a book or catch up on a favorite podcast.",
+        "(11:00, 12:20)",
+        [
+            "Frenchette Bakery",
+            700040170
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:39, 17:41)",
+        [
+            "Go Next Door",
+            700030516
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:54, 20:11)",
+        [
+            "",
+            700020906
+        ]
+    ],
+    [
+        "Next place after Go Next Door.",
+        "(22:16, 23:49)",
+        [
+            "The Glade",
+            700021787
+        ]
+    ],
+    [
+        "Current place and stay time at The Glade.",
+        "(23:55, 23:59)",
+        [
+            "The Glade",
+            700021787
+        ]
+    ]
+]

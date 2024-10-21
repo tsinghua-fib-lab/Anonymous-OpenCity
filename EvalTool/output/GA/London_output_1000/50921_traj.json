@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:53)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:15, 11:58)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:57, 13:02)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:11, 14:58)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Afternoon Outing",
+        "(15:52, 17:47)",
+        [
+            "",
+            700072082
+        ]
+    ],
+    [
+        "Afternoon Outing",
+        "(18:57, 19:52)",
+        [
+            "",
+            700078882
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:58, 21:48)",
+        [
+            "St. George's Square",
+            700009935
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:40, 23:59)",
+        [
+            "",
+            700065044
+        ]
+    ]
+]

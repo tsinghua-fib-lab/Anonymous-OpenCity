@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Atlantic Grill",
+            700006585
+        ]
+    ],
+    [
+        "Free Time / Relax",
+        "(10:00, 11:36)",
+        [
+            "Atlantic Grill",
+            700006585
+        ]
+    ],
+    [
+        "Free Time / Relax",
+        "(11:31, 12:56)",
+        [
+            "Atlantic Grill",
+            700006585
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:07, 15:56)",
+        [
+            "",
+            700018306
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:55, 20:18)",
+        [
+            "P.J. Clarke’s",
+            700019639
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:00, 23:59)",
+        [
+            "The Empire Rooftop",
+            700017466
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700007885
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:41)",
+        [
+            "",
+            700001714
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends",
+        "(11:42, 13:16)",
+        [
+            "Happy Burrito",
+            700007883
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(13:20, 15:56)",
+        [
+            "Happy Burrito",
+            700007883
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends",
+        "(16:34, 18:14)",
+        [
+            "Happy Burrito",
+            700007883
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends",
+        "(18:54, 20:21)",
+        [
+            "",
+            700001648
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:14, 23:59)",
+        [
+            "MooMooCha",
+            700023465
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "Aum Shanti",
+            700007875
+        ]
+    ]
+]

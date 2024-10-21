@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002186
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:58)",
+        [
+            "Capital One",
+            700004355
+        ]
+    ],
+    [
+        "Relax and Read or Watch TV",
+        "(12:26, 14:00)",
+        [
+            "Capital One",
+            700004355
+        ]
+    ],
+    [
+        "Engage in a Hobby or Craft",
+        "(14:12, 15:50)",
+        [
+            "Capital One",
+            700004355
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 18:36)",
+        [
+            "",
+            700020061
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:52, 23:59)",
+        [
+            "Chipotle",
+            700004326
+        ]
+    ]
+]

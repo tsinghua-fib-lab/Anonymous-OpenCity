@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Shukette",
+            700006166
+        ]
+    ],
+    [
+        "Outdoor Walk or Workout",
+        "(10:00, 11:33)",
+        [
+            "Shukette",
+            700006166
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:28, 18:00)",
+        [
+            "The Meatball Company",
+            700004406
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:04, 19:02)",
+        [
+            "CityMD",
+            700020713
+        ]
+    ],
+    [
+        "Wind Down & Family Time",
+        "(20:47, 22:07)",
+        [
+            "The Meatball Company",
+            700004406
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:59)",
+        [
+            "Citi Bike - 9th Avenue & West 22nd Street",
+            700007945
+        ]
+    ]
+]

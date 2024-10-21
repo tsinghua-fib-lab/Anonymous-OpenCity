@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "San Pietro Restaurant",
+            700024592
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:10)",
+        [
+            "San Pietro Restaurant",
+            700024592
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:01, 12:26)",
+        [
+            "",
+            700039237
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:42, 14:18)",
+        [
+            "San Pietro Restaurant",
+            700024592
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 17:10)",
+        [
+            "Astor Court",
+            700011500
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:20, 18:56)",
+        [
+            "San Pietro Restaurant",
+            700024592
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:44, 22:59)",
+        [
+            "U.S. Athletic Training Center",
+            700013761
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:50, 22:43)",
+        [
+            "Blue Bottle Coffee",
+            700012920
+        ]
+    ]
+]

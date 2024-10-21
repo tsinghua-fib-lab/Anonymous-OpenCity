@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Village Square Pizza",
+            700023302
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:00)",
+        [
+            "Jonty Jacobs",
+            700005290
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:15, 12:35)",
+        [
+            "",
+            700002440
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(13:43, 15:13)",
+        [
+            "Village Square Pizza",
+            700023302
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(16:01, 18:06)",
+        [
+            "Village Square Pizza",
+            700023302
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:20, 19:58)",
+        [
+            "",
+            700002051
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "Oslo Coffee Roasters",
+            700023339
+        ]
+    ]
+]

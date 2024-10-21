@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Madison St Pizza",
+            700018390
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:23)",
+        [
+            "Forever Taste Restaurant",
+            700018389
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 14:22)",
+        [
+            "Dunkin'",
+            700018397
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(14:34, 16:12)",
+        [
+            "Madison St Pizza",
+            700018390
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 21:40)",
+        [
+            "El Castillo De Manhattan",
+            700018400
+        ]
+    ],
+    [
+        "Grocery Shopping or Errands",
+        "(22:07, 23:44)",
+        [
+            "Chung Te Buddhist Association",
+            700038289
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:55, 23:59)",
+        [
+            "El Castillo De Manhattan",
+            700018400
+        ]
+    ]
+]

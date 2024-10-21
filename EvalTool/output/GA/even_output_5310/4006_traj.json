@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Santander",
+            700021666
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:25)",
+        [
+            "Shokudo",
+            700008373
+        ]
+    ],
+    [
+        "Watch a movie or catch up on your favorite TV shows.",
+        "(10:28, 11:51)",
+        [
+            "Shokudo",
+            700008373
+        ]
+    ],
+    [
+        "Next activity after lunch",
+        "(12:27, 14:01)",
+        [
+            "Shokudo",
+            700008373
+        ]
+    ],
+    [
+        "Watch a movie or catch up on your favorite TV shows.",
+        "(14:48, 16:14)",
+        [
+            "Shokudo",
+            700008373
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:07, 23:02)",
+        [
+            "Bodyrok NYC",
+            700009383
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:41, 23:59)",
+        [
+            "Dunkin' Donuts/Baskin Robbins",
+            700015289
+        ]
+    ]
+]

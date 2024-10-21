@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mee Sum Cafe",
+            700011013
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:56)",
+        [
+            "Sichuan Hot Pot Cuisine",
+            700011019
+        ]
+    ],
+    [
+        "Afternoon Outing",
+        "(14:06, 15:55)",
+        [
+            "PhoBar",
+            700019715
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:53, 17:52)",
+        [
+            "Sichuan Hot Pot Cuisine",
+            700011019
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:35, 23:59)",
+        [
+            "Yi Fang Tea",
+            700030079
+        ]
+    ]
+]

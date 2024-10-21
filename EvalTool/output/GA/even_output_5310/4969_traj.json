@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011052
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:52)",
+        [
+            "Citi Bike - East 2nd Street & 2nd Avenue",
+            700008030
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:42, 13:59)",
+        [
+            "Citi Bike - East 2nd Street & 2nd Avenue",
+            700008030
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 17:23)",
+        [
+            "",
+            700001161
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(17:19, 18:57)",
+        [
+            "Citi Bike - East 2nd Street & 2nd Avenue",
+            700008030
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:00, 19:52)",
+        [
+            "",
+            700011052
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:50, 23:47)",
+        [
+            "",
+            700011052
+        ]
+    ]
+]

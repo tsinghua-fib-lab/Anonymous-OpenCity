@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Claudio’s Pizza & Pasta",
+            700023913
+        ]
+    ],
+    [
+        "Morning Relaxation",
+        "(10:00, 11:21)",
+        [
+            "Claudio’s Pizza & Pasta",
+            700023913
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:40, 12:57)",
+        [
+            "Claudio’s Pizza & Pasta",
+            700023913
+        ]
+    ],
+    [
+        "Brunch",
+        "(13:19, 15:29)",
+        [
+            "Claudio’s Pizza & Pasta",
+            700023913
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 17:02)",
+        [
+            "",
+            700011436
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 21:51)",
+        [
+            "Le Privé",
+            700016021
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:31, 23:59)",
+        [
+            "Bloom 45",
+            700023102
+        ]
+    ],
+    [
+        "Continue at Tim Ho Wan to enjoy desserts or drinks.",
+        "(23:28, 23:59)",
+        [
+            "",
+            700013052
+        ]
+    ]
+]

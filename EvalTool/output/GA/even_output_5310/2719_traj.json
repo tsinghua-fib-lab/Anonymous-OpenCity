@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Emack & Bolio's",
+            700039306
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:51)",
+        [
+            "Citi Bike - East 52nd Street & 2nd Avenue",
+            700008055
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(14:17, 16:01)",
+        [
+            "Citi Bike - East 52nd Street & 2nd Avenue",
+            700008055
+        ]
+    ],
+    [
+        "Engage in a hobby (like crafting, playing a game, etc.)",
+        "(16:41, 17:38)",
+        [
+            "Citi Bike - East 52nd Street & 2nd Avenue",
+            700008055
+        ]
+    ],
+    [
+        "Prepare a simple dinner and relax",
+        "(18:05, 19:59)",
+        [
+            "",
+            700002823
+        ]
+    ],
+    [
+        "Prepare a simple dinner and relax",
+        "(20:17, 21:54)",
+        [
+            "Citi Bike - East 52nd Street & 2nd Avenue",
+            700008055
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:26, 23:59)",
+        [
+            "Aura's",
+            700038762
+        ]
+    ]
+]

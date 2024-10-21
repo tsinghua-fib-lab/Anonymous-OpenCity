@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Go for a walk or jog",
+        "(09:00, 10:00)",
+        [
+            "",
+            700063207
+        ]
+    ],
+    [
+        "Go for a walk or jog",
+        "(10:01, 11:59)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Go for a walk or jog",
+        "(12:18, 14:06)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Engage in a hobby",
+        "(14:55, 17:02)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Spend time with family or friends",
+        "(17:30, 19:09)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Have dinner and unwind",
+        "(19:27, 20:51)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:33, 23:59)",
+        [
+            "",
+            700011797
+        ]
+    ],
+    [
+        "Relax and watch TV or a movie",
+        "(23:56, 23:59)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ]
+]

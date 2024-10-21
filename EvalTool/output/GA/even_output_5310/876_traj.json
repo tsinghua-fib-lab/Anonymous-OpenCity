@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tacos del Este Superior",
+            700024279
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:28)",
+        [
+            "MPG Parking",
+            700040444
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 17:19)",
+        [
+            "",
+            700002662
+        ]
+    ],
+    [
+        "Family or Friend Time",
+        "(20:13, 22:50)",
+        [
+            "",
+            700002662
+        ]
+    ],
+    [
+        "Sleep at home.",
+        "(23:44, 23:59)",
+        [
+            "Tacos del Este Superior",
+            700024279
+        ]
+    ]
+]

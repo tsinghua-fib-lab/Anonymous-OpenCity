@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030390
+        ]
+    ],
+    [
+        "Have breakfast",
+        "(09:00, 10:10)",
+        [
+            "",
+            700030390
+        ]
+    ],
+    [
+        "Read a book or catch up on some shows",
+        "(10:03, 11:27)",
+        [
+            "",
+            700030390
+        ]
+    ],
+    [
+        "Read a book or catch up on some shows",
+        "(11:33, 13:09)",
+        [
+            "",
+            700030440
+        ]
+    ],
+    [
+        "Next activity is having lunch.",
+        "(13:37, 15:15)",
+        [
+            "",
+            700030390
+        ]
+    ],
+    [
+        "Next activity is having lunch.",
+        "(15:18, 16:53)",
+        [
+            "",
+            700030390
+        ]
+    ],
+    [
+        "Meet friends or family for coffee or a casual hangout",
+        "(17:00, 18:30)",
+        [
+            "CVS Pharmacy",
+            700022350
+        ]
+    ],
+    [
+        "Meet friends or family for coffee or a casual hangout",
+        "(18:34, 20:07)",
+        [
+            "Aveda Arts Institute",
+            700039539
+        ]
+    ],
+    [
+        "Meet friends or family for coffee or a casual hangout",
+        "(20:55, 21:52)",
+        [
+            "",
+            700022354
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:49, 23:59)",
+        [
+            "",
+            700020163
+        ]
+    ]
+]

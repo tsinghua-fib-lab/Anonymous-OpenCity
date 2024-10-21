@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000566
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:20)",
+        [
+            "",
+            700006652
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:53, 12:53)",
+        [
+            "Intersection for the Arts",
+            700006647
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:52, 18:33)",
+        [
+            "Yakiniku Shodai",
+            700002747
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:16, 18:29)",
+        [
+            "Golden Gate Hall",
+            700002751
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "",
+            700006648
+        ]
+    ]
+]

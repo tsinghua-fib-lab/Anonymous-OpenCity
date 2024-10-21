@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 11:28)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:30, 12:58)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Social Time",
+        "(13:33, 15:41)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:52, 17:28)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:12, 20:12)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(18:23, 20:04)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(20:57, 22:24)",
+        [
+            "Coletta",
+            700015591
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(23:22, 23:59)",
+        [
+            "7th Street Burger",
+            700015362
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Pizza Inferno",
+            700013490
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:29)",
+        [
+            "Nono",
+            700005694
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:30, 18:41)",
+        [
+            "Boom Boom Room",
+            700004783
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:24, 22:12)",
+        [
+            "The Social Study",
+            700009740
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:38, 23:59)",
+        [
+            "Sunday Bird",
+            700006054
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rose's Café",
+            700004244
+        ]
+    ],
+    [
+        "Watch a favorite TV show or movie.",
+        "(10:00, 11:22)",
+        [
+            "Mixt",
+            700005576
+        ]
+    ],
+    [
+        "Relax and watch a favorite TV show or movie.",
+        "(11:35, 12:56)",
+        [
+            "Mel's Drive-in",
+            700000056
+        ]
+    ],
+    [
+        "Engage in a personal hobby (reading, crafting, etc.)",
+        "(13:23, 15:05)",
+        [
+            "Saiwalks",
+            700003074
+        ]
+    ],
+    [
+        "Engage in a personal hobby",
+        "(15:04, 17:04)",
+        [
+            "Amour Vert",
+            700005919
+        ]
+    ],
+    [
+        "Prepare and have dinner, followed by a calming evening routine.",
+        "(17:24, 20:05)",
+        [
+            "Ristorante Parma",
+            700002296
+        ]
+    ],
+    [
+        "Prepare and have dinner, followed by a calming evening routine.",
+        "(20:04, 21:54)",
+        [
+            "California Wine Merchant",
+            700008807
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "California Wine Merchant",
+            700008807
+        ]
+    ]
+]

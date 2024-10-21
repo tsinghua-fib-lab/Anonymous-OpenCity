@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002302
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:48)",
+        [
+            "Grand Kosher Cafe",
+            700019773
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 15:43)",
+        [
+            "",
+            700031272
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(14:34, 15:42)",
+        [
+            "",
+            700002302
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 20:44)",
+        [
+            "Alphonso's Trattoria Pizzeria",
+            700003817
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(22:07, 23:30)",
+        [
+            "",
+            700001462
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:55, 23:59)",
+        [
+            "Wing Hing",
+            700003819
+        ]
+    ]
+]

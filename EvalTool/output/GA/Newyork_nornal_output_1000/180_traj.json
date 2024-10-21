@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003128
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:19)",
+        [
+            "Beautiful Voice NYC",
+            700012626
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:02, 16:39)",
+        [
+            "Pret A Manger",
+            700009569
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 23:23)",
+        [
+            "Ribalta Restaurant",
+            700004764
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "",
+            700002100
+        ]
+    ]
+]

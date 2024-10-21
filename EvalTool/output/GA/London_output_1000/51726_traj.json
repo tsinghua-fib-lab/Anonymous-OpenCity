@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:52)",
+        [
+            "",
+            700023754
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:20, 19:13)",
+        [
+            "Dolphin Square Fitness Club",
+            700003511
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:13, 22:41)",
+        [
+            "Dolphin Bar & Grill",
+            700026641
+        ]
+    ],
+    [
+        "Go out for dinner with friends or family",
+        "(23:06, 23:59)",
+        [
+            "",
+            700020437
+        ]
+    ]
+]

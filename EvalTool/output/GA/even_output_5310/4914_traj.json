@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700034431
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 10:01)",
+        [
+            "",
+            700037651
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:01, 12:04)",
+        [
+            "Urban Space ",
+            700008852
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:37, 17:26)",
+        [
+            "Citi Bike - East 43rd Street & Vanderbilt Avenue",
+            700008048
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 22:10)",
+        [
+            "",
+            700009399
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:12, 23:59)",
+        [
+            "Citi Bike - East 43rd Street & Vanderbilt Avenue",
+            700008048
+        ]
+    ]
+]

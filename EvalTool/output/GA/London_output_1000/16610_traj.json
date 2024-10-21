@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:36)",
+        [
+            "",
+            700054512
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:20, 18:01)",
+        [
+            "Newton Street",
+            700020796
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:13, 20:58)",
+        [
+            "",
+            700063433
+        ]
+    ],
+    [
+        "Go out for dinner with friends or family",
+        "(23:06, 23:59)",
+        [
+            "Newton Street",
+            700020796
+        ]
+    ]
+]

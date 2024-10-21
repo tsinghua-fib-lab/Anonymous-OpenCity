@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001460
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:14)",
+        [
+            "",
+            700001460
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:15, 16:53)",
+        [
+            "Skylark",
+            700016944
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(17:04, 18:35)",
+        [
+            "Skylark",
+            700016944
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(19:36, 20:56)",
+        [
+            "Skylark",
+            700016944
+        ]
+    ],
+    [
+        "Evening Relaxation/Reading",
+        "(21:29, 22:52)",
+        [
+            "",
+            700001460
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "BLT Fish",
+            700004492
+        ]
+    ]
+]

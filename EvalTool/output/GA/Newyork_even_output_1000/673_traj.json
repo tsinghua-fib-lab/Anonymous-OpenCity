@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Public School MO94",
+            700000405
+        ]
+    ],
+    [
+        "Workout or Outdoor Activity",
+        "(10:00, 11:26)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "Workout or Outdoor Activity",
+        "(12:14, 13:40)",
+        [
+            "Public School M188 The Island School",
+            700000020
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(14:42, 16:09)",
+        [
+            "Public School M188 The Island School",
+            700000020
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:28, 19:01)",
+        [
+            "Hamilton Fish Park Library",
+            700000552
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:58, 21:32)",
+        [
+            "Hamilton Fish Park Library",
+            700000552
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:34, 23:59)",
+        [
+            "Loisaida Drugs & Surgical",
+            700019568
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700018271
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(09:00, 10:40)",
+        [
+            "",
+            700018271
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(11:11, 12:37)",
+        [
+            "",
+            700018310
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:18, 19:13)",
+        [
+            "",
+            700018303
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends",
+        "(16:20, 17:56)",
+        [
+            "Citi Bike - West 63rd Street & Columbus Avenue",
+            700018167
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:56, 20:00)",
+        [
+            "",
+            700018312
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(20:24, 21:54)",
+        [
+            "",
+            700018300
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends",
+        "(22:41, 23:59)",
+        [
+            "",
+            700018302
+        ]
+    ]
+]

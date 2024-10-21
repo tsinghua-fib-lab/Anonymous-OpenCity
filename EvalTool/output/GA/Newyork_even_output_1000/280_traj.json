@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001951
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:42)",
+        [
+            "Hollywood Diner",
+            700004495
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 14:30)",
+        [
+            "The Hummus & Pita Co.",
+            700004231
+        ]
+    ],
+    [
+        "Relax and watch a movie or series",
+        "(15:25, 17:05)",
+        [
+            "The Hummus & Pita Co.",
+            700004231
+        ]
+    ],
+    [
+        "Prepare dinner and wind down.",
+        "(17:21, 19:52)",
+        [
+            "",
+            700035310
+        ]
+    ],
+    [
+        "Prepare dinner and wind down.",
+        "(21:03, 23:53)",
+        [
+            "",
+            700001951
+        ]
+    ],
+    [
+        "Next arrangement is to head to the nearest restaurant for a late-night snack.",
+        "(23:58, 23:59)",
+        [
+            "",
+            700001960
+        ]
+    ]
+]

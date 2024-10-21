@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Duane Reade",
+            700020312
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(09:00, 10:39)",
+        [
+            "The National",
+            700009357
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:07, 15:51)",
+        [
+            "",
+            700020306
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:10, 18:44)",
+        [
+            "",
+            700024953
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(20:08, 22:01)",
+        [
+            "",
+            700017642
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:23, 23:59)",
+        [
+            "Fresh & Co",
+            700015252
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "New York Luncheonette",
+            700009443
+        ]
+    ]
+]

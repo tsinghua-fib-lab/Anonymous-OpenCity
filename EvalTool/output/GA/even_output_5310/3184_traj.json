@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Yankee Pizza",
+            700018151
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:39)",
+        [
+            "",
+            700002389
+        ]
+    ],
+    [
+        "Current place, sports activity",
+        "(15:23, 16:54)",
+        [
+            "Studio 151",
+            700017656
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:38, 21:21)",
+        [
+            "",
+            700003007
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:02, 23:59)",
+        [
+            "Yankee Pizza",
+            700018151
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:46, 23:59)",
+        [
+            "Neighborhood Deli",
+            700018152
+        ]
+    ]
+]

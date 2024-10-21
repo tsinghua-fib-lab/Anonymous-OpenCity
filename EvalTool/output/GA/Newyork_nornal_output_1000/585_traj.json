@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Da Gennaro",
+            700005134
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(09:00, 10:10)",
+        [
+            "",
+            700033433
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:24, 11:54)",
+        [
+            "",
+            700033433
+        ]
+    ],
+    [
+        "Lunch preparation and enjoyment",
+        "(12:36, 14:10)",
+        [
+            "Da Gennaro",
+            700005134
+        ]
+    ],
+    [
+        "Creative Project/Workshop",
+        "(14:28, 16:07)",
+        [
+            "",
+            700033433
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 20:49)",
+        [
+            "",
+            700033426
+        ]
+    ],
+    [
+        "Go for a light jog or nature walk.",
+        "(19:45, 20:54)",
+        [
+            "",
+            700033433
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:51, 23:59)",
+        [
+            "Citi Bike - W 34 St & Hudson Blvd E",
+            700033393
+        ]
+    ],
+    [
+        "Stay at your working place.",
+        "(23:38, 23:59)",
+        [
+            "",
+            700033433
+        ]
+    ]
+]

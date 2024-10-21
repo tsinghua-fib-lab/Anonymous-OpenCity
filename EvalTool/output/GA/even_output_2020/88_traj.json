@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Taxi Stand at Stanford Court Hotel",
+            700009900
+        ]
+    ],
+    [
+        "Leisure Walk or Outdoor Activities",
+        "(10:00, 11:37)",
+        [
+            "Taxi Stand at Stanford Court Hotel",
+            700009900
+        ]
+    ],
+    [
+        "Leisure Walk or Outdoor Activities",
+        "(11:57, 13:34)",
+        [
+            "Taxi Stand at Stanford Court Hotel",
+            700009900
+        ]
+    ],
+    [
+        "Engage in a Hobby or Creative Activity",
+        "(14:22, 16:22)",
+        [
+            "Taxi Stand at Stanford Court Hotel",
+            700009900
+        ]
+    ],
+    [
+        "Engage in a Hobby or Creative Activity",
+        "(16:40, 18:12)",
+        [
+            "Taxi Stand at Stanford Court Hotel",
+            700009900
+        ]
+    ],
+    [
+        "Preparation for Dinner",
+        "(18:32, 19:56)",
+        [
+            "Taxi Stand at Stanford Court Hotel",
+            700009900
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(20:05, 22:21)",
+        [
+            "Taxi Stand at Stanford Court Hotel",
+            700009900
+        ]
+    ],
+    [
+        "stay",
+        "(23:16, 23:59)",
+        [
+            "Taxi Stand at Stanford Court Hotel",
+            700009900
+        ]
+    ]
+]

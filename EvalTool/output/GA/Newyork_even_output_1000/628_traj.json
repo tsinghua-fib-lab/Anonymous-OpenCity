@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700031166
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:13)",
+        [
+            "",
+            700031175
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 19:27)",
+        [
+            "",
+            700031164
+        ]
+    ],
+    [
+        "Prepare Dinner and Cook",
+        "(18:28, 19:51)",
+        [
+            "Citi Bike - South Street & Pike Street",
+            700031161
+        ]
+    ],
+    [
+        "Prepare Dinner and Cook",
+        "(20:38, 22:11)",
+        [
+            "Citi Bike - South Street & Pike Street",
+            700031161
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:05, 23:59)",
+        [
+            "",
+            700031175
+        ]
+    ],
+    [
+        "Sleep or relax at Citi Bike - South Street & Pike Street.",
+        "(23:39, 23:59)",
+        [
+            "Citi Bike - South Street & Pike Street",
+            700031161
+        ]
+    ]
+]

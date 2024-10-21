@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Beer Authority",
+            700006064
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:23)",
+        [
+            "Chipotle",
+            700013407
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 19:59)",
+        [
+            "Arby's",
+            700009845
+        ]
+    ],
+    [
+        "Evening Relaxation (6:30 PM - 9:00 PM)",
+        "(20:21, 23:01)",
+        [
+            "Pret A Manger",
+            700013410
+        ]
+    ],
+    [
+        "Current time is 23:24. The daily plan is finished, and it's time to sleep.",
+        "(23:24, 23:24)",
+        [
+            "Beer Authority",
+            700006064
+        ]
+    ],
+    [
+        "Next arrangement after waking up and breakfast",
+        "(23:40, 23:59)",
+        [
+            "Grays Papaya",
+            700016726
+        ]
+    ]
+]

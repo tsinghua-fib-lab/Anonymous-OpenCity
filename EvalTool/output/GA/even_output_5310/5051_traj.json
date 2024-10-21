@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sabor A Mexico",
+            700023473
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:35)",
+        [
+            "Pink's Cantina",
+            700017545
+        ]
+    ],
+    [
+        "Stay at Pink's Cantina",
+        "(11:58, 13:33)",
+        [
+            "Stickett Inn",
+            700026950
+        ]
+    ],
+    [
+        "Relax at Pink's Cantina",
+        "(14:16, 15:47)",
+        [
+            "Stickett Inn",
+            700026950
+        ]
+    ],
+    [
+        "Stay at Tarallucci e Vino",
+        "(16:44, 17:50)",
+        [
+            "Sabor A Mexico",
+            700023473
+        ]
+    ],
+    [
+        "Stay at Pink's Cantina and enjoy the ambiance.",
+        "(19:29, 21:08)",
+        [
+            "Stickett Inn",
+            700026950
+        ]
+    ],
+    [
+        "Stay at Pink's Cantina",
+        "(21:16, 22:35)",
+        [
+            "Stickett Inn",
+            700026950
+        ]
+    ],
+    [
+        "Stay at Pink's Cantina",
+        "(22:41, 23:59)",
+        [
+            "Stickett Inn",
+            700026950
+        ]
+    ]
+]

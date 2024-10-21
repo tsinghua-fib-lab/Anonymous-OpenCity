@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "BLT Prime",
+            700017615
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:06)",
+        [
+            "",
+            700017442
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:16, 18:46)",
+        [
+            "Chase",
+            700012809
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(16:57, 17:55)",
+        [
+            "BLT Prime",
+            700017615
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(18:28, 19:59)",
+        [
+            "BLT Prime",
+            700017615
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(20:13, 22:10)",
+        [
+            "Colomba Coffee",
+            700013973
+        ]
+    ],
+    [
+        "Dinner with Family or Friends",
+        "(22:27, 23:59)",
+        [
+            "",
+            700017440
+        ]
+    ]
+]

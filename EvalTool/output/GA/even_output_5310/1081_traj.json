@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Arrow Pharmacy",
+            700006117
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:52)",
+        [
+            "",
+            700002716
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(11:20, 13:16)",
+        [
+            "Fat Boys Burger",
+            700037177
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(13:51, 15:24)",
+        [
+            "Arrow Pharmacy",
+            700006117
+        ]
+    ],
+    [
+        "Dinner and Family Time",
+        "(16:07, 17:31)",
+        [
+            "Birch Coffee",
+            700014364
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:16, 19:44)",
+        [
+            "Arrow Pharmacy",
+            700006117
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:56, 21:36)",
+        [
+            "The Dental Office of Dr. Ronald Birnbaum",
+            700007280
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "Burrito Box",
+            700003874
+        ]
+    ]
+]

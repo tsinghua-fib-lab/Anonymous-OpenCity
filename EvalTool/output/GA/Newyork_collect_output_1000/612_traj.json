@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:41)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:57, 18:26)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:29, 23:48)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Visit a local bar or pub",
+        "(23:37, 23:59)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ]
+]

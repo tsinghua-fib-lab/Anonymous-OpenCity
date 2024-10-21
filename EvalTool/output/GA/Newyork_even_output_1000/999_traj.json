@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Venisalvi Cafe",
+            700013402
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(09:00, 09:56)",
+        [
+            "Venisalvi Cafe",
+            700013402
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:03, 12:13)",
+        [
+            "Venisalvi Cafe",
+            700013402
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 14:39)",
+        [
+            "Grace Cafe",
+            700006352
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:53, 19:10)",
+        [
+            "Dos Toros Taqueria",
+            700008668
+        ]
+    ],
+    [
+        "Prepare Dinner & Relax",
+        "(23:06, 23:59)",
+        [
+            "Distinguished Wakamba Lounge",
+            700007680
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Upholstery Store: Food and Wine",
+            700014448
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:47)",
+        [
+            "The Otheroom",
+            700014444
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:30, 14:55)",
+        [
+            "",
+            700000747
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:05, 16:28)",
+        [
+            "The Otheroom",
+            700014444
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:01, 18:36)",
+        [
+            "",
+            700002774
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:19, 23:59)",
+        [
+            "Body Logic",
+            700014447
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 23:20)",
+        [
+            "Wallsé",
+            700014449
+        ]
+    ]
+]

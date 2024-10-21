@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700003141
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:52)",
+        [
+            "Bread&roses",
+            700019503
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(14:04, 16:31)",
+        [
+            "Bread&roses",
+            700019503
+        ]
+    ],
+    [
+        "Socialize with friends or family",
+        "(17:24, 18:53)",
+        [
+            "Buddha-Bar Paris",
+            700000116
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 23:16)",
+        [
+            "Buddha-Bar Paris",
+            700000116
+        ]
+    ],
+    [
+        "Situation_2",
+        "(22:46, 23:59)",
+        [
+            "Buddha-Bar Paris",
+            700000116
+        ]
+    ],
+    [
+        "Go to Gangnam restaurant coréen",
+        "(23:47, 23:59)",
+        [
+            "Honor",
+            700003444
+        ]
+    ]
+]

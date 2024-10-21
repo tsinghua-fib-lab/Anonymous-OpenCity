@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700014183
+        ]
+    ],
+    [
+        "Morning exercise",
+        "(09:00, 09:59)",
+        [
+            "Philz Coffee",
+            700000411
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:30, 12:33)",
+        [
+            "",
+            700014183
+        ]
+    ],
+    [
+        "Leisure reading or hobbies",
+        "(11:59, 13:51)",
+        [
+            "Philz Coffee",
+            700000411
+        ]
+    ],
+    [
+        "Afternoon entertainment",
+        "(14:22, 16:51)",
+        [
+            "Philz Coffee",
+            700000411
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:28, 22:07)",
+        [
+            "Firefly",
+            700000412
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:48, 23:23)",
+        [
+            "Pixie Hall Studios",
+            700001776
+        ]
+    ]
+]

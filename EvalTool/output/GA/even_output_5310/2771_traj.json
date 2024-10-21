@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003161
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:28)",
+        [
+            "West Side YMCA",
+            700000596
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:53, 18:34)",
+        [
+            "",
+            700018282
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(17:17, 19:09)",
+        [
+            "West Side YMCA",
+            700000596
+        ]
+    ],
+    [
+        "Next activity: Watch a Sports Game or Movie",
+        "(19:52, 22:03)",
+        [
+            "West Side YMCA",
+            700000596
+        ]
+    ],
+    [
+        "Next activity: Watch a Sports Game or Movie.",
+        "(22:43, 23:59)",
+        [
+            "",
+            700019212
+        ]
+    ]
+]

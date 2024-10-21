@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Amura",
+            700011504
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 11:00)",
+        [
+            "Amura",
+            700011504
+        ]
+    ],
+    [
+        "You are currently at Amura.",
+        "(11:03, 11:56)",
+        [
+            "Citi Bike",
+            700020621
+        ]
+    ],
+    [
+        "Go for a relaxing walk in a local park.",
+        "(12:36, 14:10)",
+        [
+            "",
+            700020623
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 15:59)",
+        [
+            "H&H Midtown Bagels East",
+            700012538
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 22:58)",
+        [
+            "San Matteo Pizzeria e Cucina",
+            700015199
+        ]
+    ],
+    [
+        "Stay at Amura",
+        "(20:18, 22:08)",
+        [
+            "San Matteo Pizzeria e Cucina",
+            700015199
+        ]
+    ],
+    [
+        "Stay at Amura.",
+        "(22:48, 23:56)",
+        [
+            "Amura",
+            700011504
+        ]
+    ],
+    [
+        "Stay at Amura.",
+        "(23:43, 23:59)",
+        [
+            "Amura",
+            700011504
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Niagara",
+            700004860
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:24)",
+        [
+            "Citi Bike - Franklin St & W Broadway",
+            700008070
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:25, 15:18)",
+        [
+            "",
+            700037888
+        ]
+    ],
+    [
+        "Exercise Class",
+        "(17:10, 18:41)",
+        [
+            "Terra",
+            700009765
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:32, 23:04)",
+        [
+            "Cafe Clementine",
+            700010768
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:31, 23:59)",
+        [
+            "Cafe Clementine",
+            700010768
+        ]
+    ]
+]

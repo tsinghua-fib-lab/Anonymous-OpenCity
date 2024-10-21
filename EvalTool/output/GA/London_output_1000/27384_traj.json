@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(09:00, 10:35)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Continue to watch a movie or series",
+        "(11:15, 13:31)",
+        [
+            "Wagamama",
+            700017674
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:47, 18:05)",
+        [
+            "",
+            700063203
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:50, 21:58)",
+        [
+            "Wagamama",
+            700017674
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:57, 22:53)",
+        [
+            "Wagamama",
+            700017674
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(23:32, 23:59)",
+        [
+            "Wagamama",
+            700017674
+        ]
+    ]
+]

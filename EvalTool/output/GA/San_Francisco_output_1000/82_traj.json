@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000979
+        ]
+    ],
+    [
+        "Check Emails & Plan the Week",
+        "(10:00, 10:59)",
+        [
+            "",
+            700000979
+        ]
+    ],
+    [
+        "Check Emails & Plan the Week",
+        "(11:05, 12:06)",
+        [
+            "",
+            700000979
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:22, 17:50)",
+        [
+            "U.S. Naval Magnetic Silencing Range",
+            700001531
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:18, 22:18)",
+        [
+            "",
+            700002860
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(22:56, 23:59)",
+        [
+            "",
+            700000979
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Bouquet",
+            700025204
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:51)",
+        [
+            "Le Bouquet",
+            700025204
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:20, 13:29)",
+        [
+            "Le Bouquet",
+            700025204
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 16:45)",
+        [
+            "Al Capri",
+            700043911
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:37, 21:04)",
+        [
+            "Le Bouquet",
+            700025204
+        ]
+    ],
+    [
+        "Catching up with friends over dinner",
+        "(21:47, 22:59)",
+        [
+            "Daguerre Village",
+            700043910
+        ]
+    ],
+    [
+        "Leisure activity.",
+        "(23:10, 23:59)",
+        [
+            "",
+            700061141
+        ]
+    ]
+]

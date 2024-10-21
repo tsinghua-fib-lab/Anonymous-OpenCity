@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700033741
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:00)",
+        [
+            "",
+            700038534
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 16:22)",
+        [
+            "",
+            700038537
+        ]
+    ],
+    [
+        "Next activity after social activity",
+        "(16:56, 18:26)",
+        [
+            "Orangetheory Fitness",
+            700033966
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(19:18, 21:56)",
+        [
+            "Starbucks",
+            700016196
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:29, 23:59)",
+        [
+            "Café Cello",
+            700017597
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "BP",
+            700010544
+        ]
+    ],
+    [
+        "Go for a walk in the park",
+        "(09:00, 09:59)",
+        [
+            "Asser Levy Pool",
+            700003955
+        ]
+    ],
+    [
+        "Stay at Asser Levy Pool",
+        "(10:58, 11:54)",
+        [
+            "",
+            700031297
+        ]
+    ],
+    [
+        "Stay at Asser Levy Pool for a while longer.",
+        "(12:47, 14:10)",
+        [
+            "Asser Levy Pool",
+            700003955
+        ]
+    ],
+    [
+        "Stay at Asser Levy Pool",
+        "(14:20, 16:50)",
+        [
+            "Asser Levy Pool",
+            700003955
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:51, 21:02)",
+        [
+            "",
+            700031292
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:17, 23:36)",
+        [
+            "",
+            700031292
+        ]
+    ],
+    [
+        "Stay at Asser Levy Pool.",
+        "(22:00, 23:30)",
+        [
+            "Asser Levy Pool",
+            700003955
+        ]
+    ],
+    [
+        "Stay at Asser Levy Pool.",
+        "(23:36, 23:59)",
+        [
+            "Asser Levy Pool",
+            700003955
+        ]
+    ]
+]

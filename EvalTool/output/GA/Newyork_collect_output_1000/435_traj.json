@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:53)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:17, 16:15)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "Go to Kenneth A. Mercer, MD",
+        "(18:40, 20:01)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:38)",
+        [
+            "",
+            700024801
+        ]
+    ]
+]

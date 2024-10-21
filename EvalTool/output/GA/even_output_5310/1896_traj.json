@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001967
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(09:00, 10:06)",
+        [
+            "",
+            700001967
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:25, 15:56)",
+        [
+            "Istanbul Kebab House",
+            700017343
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:53, 17:56)",
+        [
+            "ViV",
+            700027347
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:46, 16:53)",
+        [
+            "Mom's Kitchen & Bar",
+            700014820
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:35, 18:57)",
+        [
+            "",
+            700000609
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:34, 22:27)",
+        [
+            "Casa Agave",
+            700009837
+        ]
+    ]
+]

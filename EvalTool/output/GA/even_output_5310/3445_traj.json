@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700017547
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:12)",
+        [
+            "",
+            700002681
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(13:46, 15:16)",
+        [
+            "Momofuku Noodle Bar",
+            700008883
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(15:24, 16:58)",
+        [
+            "Momofuku Noodle Bar",
+            700008883
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:53, 19:16)",
+        [
+            "Madina Halal Deli",
+            700039215
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:48, 20:53)",
+        [
+            "Madina Halal Deli",
+            700039215
+        ]
+    ],
+    [
+        "Stay at Home",
+        "(22:42, 23:59)",
+        [
+            "",
+            700001306
+        ]
+    ]
+]

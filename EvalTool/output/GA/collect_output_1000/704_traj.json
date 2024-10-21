@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030390
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:07)",
+        [
+            "Fogo de Chão",
+            700006513
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:48, 13:48)",
+        [
+            "Mozzarella & Vino",
+            700009441
+        ]
+    ],
+    [
+        "Afternoon Outing",
+        "(15:46, 17:52)",
+        [
+            "",
+            700027354
+        ]
+    ],
+    [
+        "You decide to stay in your current location until 19:00.",
+        "(18:22, 18:53)",
+        [
+            "",
+            700005949
+        ]
+    ],
+    [
+        "Stay at Hippodrome",
+        "(18:56, 20:06)",
+        [
+            "Apple Bank",
+            700005936
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:35, 23:59)",
+        [
+            "Randolph's Bar & Lounge",
+            700014628
+        ]
+    ],
+    [
+        "Stay at the current place",
+        "(23:53, 23:59)",
+        [
+            "Connolly's",
+            700007355
+        ]
+    ]
+]

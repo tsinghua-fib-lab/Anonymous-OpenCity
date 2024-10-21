@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008260
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:45)",
+        [
+            "Frascati",
+            700003306
+        ]
+    ],
+    [
+        "Stay at Frascati.",
+        "(11:38, 14:01)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ],
+    [
+        "Stay at Frascati",
+        "(14:30, 16:04)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ],
+    [
+        "Stay at Frascati.",
+        "(16:11, 17:51)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ],
+    [
+        "Stay at current location.",
+        "(18:26, 20:53)",
+        [
+            "Crunch Fitness",
+            700002088
+        ]
+    ],
+    [
+        "Stay at Baccus",
+        "(20:30, 22:04)",
+        [
+            "Fiorella Polk Street",
+            700004277
+        ]
+    ],
+    [
+        "Stay at Frascati",
+        "(22:33, 23:59)",
+        [
+            "Fiorella Polk Street",
+            700004277
+        ]
+    ],
+    [
+        "Stay at Frascati",
+        "(23:46, 23:59)",
+        [
+            "",
+            700000645
+        ]
+    ]
+]

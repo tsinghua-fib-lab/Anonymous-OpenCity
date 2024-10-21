@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Just Salad",
+            700020691
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:12)",
+        [
+            "Burger Joint",
+            700025734
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:27, 17:54)",
+        [
+            "",
+            700029817
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:28, 23:59)",
+        [
+            "Threes Brewing",
+            700025724
+        ]
+    ]
+]

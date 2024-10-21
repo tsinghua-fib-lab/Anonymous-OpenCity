@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(09:00, 10:51)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:03, 12:32)",
+        [
+            "",
+            700022520
+        ]
+    ],
+    [
+        "Socializing with Friends or Family.",
+        "(12:48, 14:38)",
+        [
+            "",
+            700022507
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:32, 18:58)",
+        [
+            "",
+            700022515
+        ]
+    ],
+    [
+        "Socializing with Friends or Family",
+        "(19:06, 20:51)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Socializing with Friends or Family",
+        "(22:01, 23:28)",
+        [
+            "CitiBike Station",
+            700007611
+        ]
+    ],
+    [
+        "Socializing with Friends or Family",
+        "(23:53, 23:59)",
+        [
+            "Apotheco Pharmacy",
+            700021514
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bond 45",
+            700006084
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:58)",
+        [
+            "Glass House Tavern",
+            700006542
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:20, 19:19)",
+        [
+            "The View Restaurant & Lounge",
+            700009094
+        ]
+    ],
+    [
+        "Stay at The View Restaurant & Lounge",
+        "(17:50, 20:00)",
+        [
+            "Bond 45",
+            700006084
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 23:59)",
+        [
+            "Rum House",
+            700006499
+        ]
+    ]
+]

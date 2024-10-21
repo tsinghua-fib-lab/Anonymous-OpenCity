@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002874
+        ]
+    ],
+    [
+        "Leisurely breakfast and coffee",
+        "(10:00, 12:10)",
+        [
+            "Chase",
+            700005034
+        ]
+    ],
+    [
+        "Go for a workout or attend a yoga class for some physical activity and relaxation.",
+        "(12:13, 14:06)",
+        [
+            "Chase",
+            700006017
+        ]
+    ],
+    [
+        "Go for a workout or attend a yoga class for some physical activity and relaxation.",
+        "(14:29, 15:57)",
+        [
+            "Chase",
+            700006017
+        ]
+    ],
+    [
+        "Go for a workout or attend a yoga class for some physical activity and relaxation.",
+        "(16:25, 18:08)",
+        [
+            "Chase",
+            700006017
+        ]
+    ],
+    [
+        "Stay at Chase.",
+        "(18:52, 20:14)",
+        [
+            "Chase",
+            700006017
+        ]
+    ],
+    [
+        "Decided to stay at Chase.",
+        "(20:34, 22:09)",
+        [
+            "Chase",
+            700006017
+        ]
+    ],
+    [
+        "Stay at Chase",
+        "(22:47, 23:46)",
+        [
+            "",
+            700002874
+        ]
+    ],
+    [
+        "Stay at Chase.",
+        "(23:39, 23:59)",
+        [
+            "Chase",
+            700006017
+        ]
+    ]
+]

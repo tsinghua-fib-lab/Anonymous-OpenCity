@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - 1st Avenue & East 18th Street",
+            700007925
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:12)",
+        [
+            "",
+            700001705
+        ]
+    ],
+    [
+        "Stay at Taco Bell Cantina for a bit.",
+        "(15:23, 16:38)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ],
+    [
+        "Stay at your current place.",
+        "(17:30, 18:53)",
+        [
+            "Citi Bike - 1st Avenue & East 18th Street",
+            700007925
+        ]
+    ],
+    [
+        "After dinner, relax with some light music or a podcast until bedtime.",
+        "(19:31, 21:32)",
+        [
+            "Citi Bike - 1st Avenue & East 18th Street",
+            700007925
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "Psychic Tarot",
+            700029598
+        ]
+    ]
+]

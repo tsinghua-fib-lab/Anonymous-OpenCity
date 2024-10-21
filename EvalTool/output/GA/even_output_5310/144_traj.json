@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Gina Mexicana",
+            700014700
+        ]
+    ],
+    [
+        "10:00 AM - 12:00 PM",
+        "(09:00, 11:08)",
+        [
+            "",
+            700017024
+        ]
+    ],
+    [
+        "11:49 AM - 12:00 PM: Stay at Gina Mexicana.",
+        "(11:49, 13:56)",
+        [
+            "Sweetgreen",
+            700016439
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 17:32)",
+        [
+            "Birch Coffee",
+            700009667
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 18:01)",
+        [
+            "Boar's Head Cafe",
+            700023485
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:10, 23:59)",
+        [
+            "Boar's Head Cafe",
+            700023485
+        ]
+    ]
+]

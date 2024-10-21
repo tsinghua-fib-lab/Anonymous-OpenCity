@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:57)",
+        [
+            "",
+            700059881
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:33, 18:14)",
+        [
+            "",
+            700059877
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:31, 23:07)",
+        [
+            "",
+            700059878
+        ]
+    ],
+    [
+        "Spend time watching a movie or binge-watching a series at Dragon Court.",
+        "(21:05, 22:30)",
+        [
+            "",
+            700010503
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "",
+            700059878
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Il Violino",
+            700005036
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 11:10)",
+        [
+            "Il Violino",
+            700005036
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 17:25)",
+        [
+            "Equinox",
+            700003705
+        ]
+    ],
+    [
+        "Home Relaxation",
+        "(14:21, 16:30)",
+        [
+            "Il Violino",
+            700005036
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:56, 19:34)",
+        [
+            "",
+            700002824
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:28, 20:54)",
+        [
+            "Il Violino",
+            700005036
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:05, 23:59)",
+        [
+            "Thomas Drugs",
+            700006589
+        ]
+    ],
+    [
+        "Go to Thomas Drugs to grab something.",
+        "(22:35, 23:42)",
+        [
+            "Thomas Drugs",
+            700006589
+        ]
+    ],
+    [
+        "Go to Thomas Drugs",
+        "(23:46, 23:59)",
+        [
+            "Thomas Drugs",
+            700006589
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Go for a morning walk or light exercise to energize for the day.",
+        "(10:00, 11:03)",
+        [
+            "",
+            700002414
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:47, 13:39)",
+        [
+            "",
+            700002414
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 19:10)",
+        [
+            "",
+            700001230
+        ]
+    ],
+    [
+        "Stay at Gezellig",
+        "(20:01, 21:56)",
+        [
+            "Espresso House",
+            700004090
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:49, 23:59)",
+        [
+            "Nando's",
+            700012204
+        ]
+    ]
+]

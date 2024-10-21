@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Babylon",
+            700008370
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 16:03)",
+        [
+            "Flying Cock",
+            700008557
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:42, 13:54)",
+        [
+            "Flying Cock",
+            700008557
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:55, 20:12)",
+        [
+            "Flying Cock",
+            700008557
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:27, 20:45)",
+        [
+            "Gold Coffee",
+            700036812
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "Wolfnights",
+            700006338
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Llama San",
+            700019657
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:32)",
+        [
+            "Vol de Nuit",
+            700014734
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:44, 14:07)",
+        [
+            "Red Bamboo",
+            700004945
+        ]
+    ],
+    [
+        "Watching a Movie/TV Show",
+        "(14:21, 16:19)",
+        [
+            "Llama San",
+            700019657
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:54, 21:24)",
+        [
+            "Citi Bike - Washington Pl & 6 Ave",
+            700008242
+        ]
+    ],
+    [
+        "Dinner & Family Time",
+        "(20:12, 21:57)",
+        [
+            "Llama San",
+            700019657
+        ]
+    ],
+    [
+        "Staying at home and enjoying leisure activities.",
+        "(21:54, 23:15)",
+        [
+            "Llama San",
+            700019657
+        ]
+    ]
+]

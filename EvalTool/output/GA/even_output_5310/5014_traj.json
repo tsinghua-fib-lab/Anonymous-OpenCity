@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Blank Street Coffee",
+            700033230
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:24)",
+        [
+            "The Dutch",
+            700007825
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:23, 15:54)",
+        [
+            "The New York Foundation",
+            700010265
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:59, 20:35)",
+        [
+            "Portofino Soho",
+            700012544
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(20:16, 22:02)",
+        [
+            "Citi Bike",
+            700028573
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:33, 23:59)",
+        [
+            "Dos Caminos",
+            700004745
+        ]
+    ]
+]

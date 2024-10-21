@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002298
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:00, 11:29)",
+        [
+            "Sunburst Espresso Bar",
+            700006181
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:49, 17:39)",
+        [
+            "Sushi Dairo",
+            700019489
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:54, 21:39)",
+        [
+            "Pete's Tavern",
+            700017288
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:59, 23:59)",
+        [
+            "Gupshup",
+            700033963
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:43, 23:59)",
+        [
+            "",
+            700002637
+        ]
+    ]
+]

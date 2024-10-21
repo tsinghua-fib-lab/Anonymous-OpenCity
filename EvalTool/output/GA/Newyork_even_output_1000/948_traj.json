@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Famous Original Ray's Pizza",
+            700004404
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:12)",
+        [
+            "Chelsea Square Restaurant",
+            700004317
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 16:57)",
+        [
+            "The Meatball Company",
+            700004406
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 22:34)",
+        [
+            "",
+            700003092
+        ]
+    ],
+    [
+        "Spa/Relaxation Time",
+        "(22:55, 23:59)",
+        [
+            "Tequila Chito's",
+            700014512
+        ]
+    ]
+]

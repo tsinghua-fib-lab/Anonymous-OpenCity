@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Magnolia Pub & Brewery",
+            700000008
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:50)",
+        [
+            "Bizza",
+            700007208
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:21, 17:51)",
+        [
+            "Sandy's",
+            700007209
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:46, 20:08)",
+        [
+            "",
+            700007639
+        ]
+    ],
+    [
+        "Movie Night",
+        "(22:44, 23:59)",
+        [
+            "Magnolia Pub & Brewery",
+            700000008
+        ]
+    ]
+]

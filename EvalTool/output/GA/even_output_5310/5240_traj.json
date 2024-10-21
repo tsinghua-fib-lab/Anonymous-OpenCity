@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700019584
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:58)",
+        [
+            "",
+            700031086
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:16, 21:16)",
+        [
+            "",
+            700019586
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(16:57, 18:35)",
+        [
+            "",
+            700031088
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(18:28, 19:54)",
+        [
+            "Laut",
+            700003856
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(20:13, 21:45)",
+        [
+            "",
+            700019584
+        ]
+    ],
+    [
+        "Dinner with Family or Friends",
+        "(22:27, 23:59)",
+        [
+            "",
+            700031094
+        ]
+    ]
+]

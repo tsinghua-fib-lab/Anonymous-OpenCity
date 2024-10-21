@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Relax or read a book",
+        "(10:00, 10:59)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(11:55, 12:50)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(13:03, 13:56)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Go to Old Oak Cafe & Restaurant.",
+        "(15:03, 16:38)",
+        [
+            "",
+            700072527
+        ]
+    ],
+    [
+        "Current place: Tachbrook Estate",
+        "(17:57, 19:09)",
+        [
+            "",
+            700023696
+        ]
+    ],
+    [
+        "Leisure activities or family time.",
+        "(19:18, 21:05)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 23:51)",
+        [
+            "",
+            700004104
+        ]
+    ]
+]

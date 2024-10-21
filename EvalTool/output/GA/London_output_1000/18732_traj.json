@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Lunch with friends or family, either at home or at a nearby restaurant.",
+        "(10:00, 11:38)",
+        [
+            "",
+            700071192
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:47, 13:46)",
+        [
+            "",
+            700064973
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 17:32)",
+        [
+            "",
+            700065035
+        ]
+    ],
+    [
+        "Stay at Tudor Rose Court",
+        "(20:01, 22:10)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:49, 23:59)",
+        [
+            "h.o.m.e",
+            700022487
+        ]
+    ]
+]

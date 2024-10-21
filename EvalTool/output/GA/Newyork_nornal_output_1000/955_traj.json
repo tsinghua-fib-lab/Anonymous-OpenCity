@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bagels on the Square",
+            700008697
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:16)",
+        [
+            "",
+            700001813
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(12:31, 13:36)",
+        [
+            "Bagels on the Square",
+            700008697
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:28, 18:08)",
+        [
+            "Downing Street Playgroup",
+            700024663
+        ]
+    ],
+    [
+        "Evening Wind-Down",
+        "(19:48, 20:59)",
+        [
+            "Bagels on the Square",
+            700008697
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:26, 23:59)",
+        [
+            "Bagels on the Square",
+            700008697
+        ]
+    ]
+]

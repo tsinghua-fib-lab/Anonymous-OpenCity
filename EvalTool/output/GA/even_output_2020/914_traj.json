@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Blue Bottle",
+            700000066
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:50)",
+        [
+            "Jackson Fillmore Trattoria",
+            700009518
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:17, 14:45)",
+        [
+            "Palmer's",
+            700005001
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:53, 17:51)",
+        [
+            "Smitten",
+            700009589
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:42, 19:00)",
+        [
+            "Blue Bottle",
+            700000066
+        ]
+    ],
+    [
+        "Wind Down",
+        "(19:52, 20:53)",
+        [
+            "",
+            700001525
+        ]
+    ],
+    [
+        "Wind Down",
+        "(22:22, 23:46)",
+        [
+            "Blue Bottle",
+            700000066
+        ]
+    ]
+]

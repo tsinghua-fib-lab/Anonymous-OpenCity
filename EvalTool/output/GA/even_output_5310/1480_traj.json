@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003138
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:27)",
+        [
+            "Citi Bike - East 32nd Street & Park Avenue",
+            700008042
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:11, 12:52)",
+        [
+            "Citi Bike - East 32nd Street & Park Avenue",
+            700008042
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:29, 15:08)",
+        [
+            "Citi Bike - East 32nd Street & Park Avenue",
+            700008042
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:40, 20:02)",
+        [
+            "Gregory's Coffee",
+            700007534
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:55, 23:59)",
+        [
+            "Chase",
+            700003432
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Theater for the New City",
+            700007749
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:59)",
+        [
+            "",
+            700017548
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:53, 16:55)",
+        [
+            "",
+            700020170
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(19:42, 21:02)",
+        [
+            "Kikoo",
+            700010189
+        ]
+    ],
+    [
+        "Return Home",
+        "(21:08, 22:53)",
+        [
+            "Theater for the New City",
+            700007749
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(22:32, 23:59)",
+        [
+            "Theater for the New City",
+            700007749
+        ]
+    ]
+]

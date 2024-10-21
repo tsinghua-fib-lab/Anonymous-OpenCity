@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002940
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:38)",
+        [
+            "Birch Coffee",
+            700009668
+        ]
+    ],
+    [
+        "next outdoor activities",
+        "(12:10, 13:41)",
+        [
+            "",
+            700001772
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:27, 15:58)",
+        [
+            "Profit",
+            700004867
+        ]
+    ],
+    [
+        "Attend a Sporting Event",
+        "(16:55, 18:01)",
+        [
+            "",
+            700002940
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:50, 23:07)",
+        [
+            "Ninth Street Espresso",
+            700013666
+        ]
+    ],
+    [
+        "Stay at Ninth Street Espresso",
+        "(23:40, 23:59)",
+        [
+            "Ninth Street Espresso",
+            700013666
+        ]
+    ]
+]

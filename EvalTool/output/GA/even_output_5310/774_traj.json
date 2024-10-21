@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CityMD",
+            700013539
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:00)",
+        [
+            "CityMD",
+            700013539
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:34, 13:55)",
+        [
+            "CityMD",
+            700013539
+        ]
+    ],
+    [
+        "Hobby or Craft",
+        "(14:45, 16:08)",
+        [
+            "CityMD",
+            700013539
+        ]
+    ],
+    [
+        "Hobby or Craft",
+        "(16:51, 18:16)",
+        [
+            "CityMD",
+            700013539
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 20:21)",
+        [
+            "",
+            700002220
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:48, 23:09)",
+        [
+            "CityMD",
+            700013539
+        ]
+    ],
+    [
+        "You are currently at CityMD and will stay for 1 hour and 18 minutes.",
+        "(23:49, 23:59)",
+        [
+            "La Pecora Bianca",
+            700013540
+        ]
+    ]
+]

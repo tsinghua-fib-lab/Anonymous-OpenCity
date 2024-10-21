@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Neighbor's Corner",
+            700005955
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:39)",
+        [
+            "Firefly",
+            700000412
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:26, 16:03)",
+        [
+            "The Little Chihuahua",
+            700003676
+        ]
+    ],
+    [
+        "Watch a Movie/Show",
+        "(15:05, 16:55)",
+        [
+            "Firefly",
+            700000412
+        ]
+    ],
+    [
+        "Watch a Movie/Show",
+        "(16:58, 18:32)",
+        [
+            "Firefly",
+            700000412
+        ]
+    ],
+    [
+        "Hobbies/Projects",
+        "(18:52, 20:02)",
+        [
+            "Firefly",
+            700000412
+        ]
+    ],
+    [
+        "Hobbies/Projects",
+        "(21:00, 22:35)",
+        [
+            "Firefly",
+            700000412
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:11, 23:59)",
+        [
+            "Barney's Gourmet Hamburgers",
+            700001752
+        ]
+    ]
+]

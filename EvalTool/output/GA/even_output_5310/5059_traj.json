@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000937
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:12)",
+        [
+            "",
+            700001621
+        ]
+    ],
+    [
+        "Leisure Time/Watch TV",
+        "(13:25, 15:47)",
+        [
+            "Madina Halal Deli",
+            700039215
+        ]
+    ],
+    [
+        "Leisure Time/Watch TV",
+        "(15:58, 17:14)",
+        [
+            "Madina Halal Deli",
+            700039215
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:08, 21:53)",
+        [
+            "Beron Beron",
+            700023472
+        ]
+    ],
+    [
+        "Visit Beron Beron",
+        "(22:14, 23:41)",
+        [
+            "Beron Beron",
+            700023472
+        ]
+    ]
+]

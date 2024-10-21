@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:31)",
+        [
+            "The Grosvenor",
+            700003236
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(11:42, 13:21)",
+        [
+            "The Grosvenor",
+            700003236
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 17:18)",
+        [
+            "",
+            700075131
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:57, 21:07)",
+        [
+            "",
+            700075131
+        ]
+    ],
+    [
+        "Next activity after current time 22:39 for Situation 10.",
+        "(22:39, 23:55)",
+        [
+            "The Grosvenor",
+            700003236
+        ]
+    ],
+    [
+        "Head to The Grosvenor for a drink.",
+        "(23:58, 23:59)",
+        [
+            "The Grosvenor",
+            700003236
+        ]
+    ]
+]

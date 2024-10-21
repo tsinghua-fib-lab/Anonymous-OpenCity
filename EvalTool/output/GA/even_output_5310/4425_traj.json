@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700025300
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:16)",
+        [
+            "Egg Shop",
+            700009477
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:25, 21:09)",
+        [
+            "Black Seed Bagels",
+            700010435
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:26, 22:53)",
+        [
+            "Black Seed Bagels",
+            700010435
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:01, 23:59)",
+        [
+            "Black Seed Bagels",
+            700010435
+        ]
+    ]
+]

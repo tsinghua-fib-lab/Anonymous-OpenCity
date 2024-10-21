@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005851
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:58)",
+        [
+            "Chase",
+            700003806
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:23, 13:57)",
+        [
+            "Chase",
+            700004047
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:32, 16:12)",
+        [
+            "",
+            700031530
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(16:54, 17:56)",
+        [
+            "",
+            700031521
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 21:06)",
+        [
+            "Tenthousand Coffee",
+            700033559
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(20:24, 22:00)",
+        [
+            "",
+            700031524
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(21:50, 22:59)",
+        [
+            "Tenthousand Coffee",
+            700033559
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:07, 23:59)",
+        [
+            "",
+            700031491
+        ]
+    ]
+]

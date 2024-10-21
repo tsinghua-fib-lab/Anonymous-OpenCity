@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030388
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(09:00, 10:06)",
+        [
+            "",
+            700030388
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(09:55, 11:02)",
+        [
+            "",
+            700030388
+        ]
+    ],
+    [
+        "Lunch and Catching Up with Friends",
+        "(11:18, 12:52)",
+        [
+            "",
+            700001937
+        ]
+    ],
+    [
+        "Lunch and Catching Up with Friends",
+        "(13:36, 15:58)",
+        [
+            "North Dumpling",
+            700014305
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:26, 18:48)",
+        [
+            "",
+            700025761
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:26, 20:38)",
+        [
+            "Clockwork Bar",
+            700004661
+        ]
+    ],
+    [
+        "Wind Down",
+        "(23:28, 23:59)",
+        [
+            "Clockwork Bar",
+            700004661
+        ]
+    ]
+]

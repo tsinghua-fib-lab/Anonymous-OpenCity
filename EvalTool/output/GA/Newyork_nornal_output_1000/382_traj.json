@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hell's Kitchen Flea Market",
+            700009059
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:18)",
+        [
+            "Tabata Noodle Restaurant",
+            700022443
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:31, 19:55)",
+        [
+            "2 Bros. Pizza",
+            700003271
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 22:27)",
+        [
+            "Sky Room",
+            700017108
+        ]
+    ],
+    [
+        "Stay at Hell's Kitchen Flea Market and reflect on your day.",
+        "(23:59, 23:59)",
+        [
+            "",
+            700011300
+        ]
+    ]
+]

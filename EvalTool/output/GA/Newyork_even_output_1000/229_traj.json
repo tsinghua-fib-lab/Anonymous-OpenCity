@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 33rd Street & 1st Avenue",
+            700008043
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby",
+        "(10:00, 11:51)",
+        [
+            "Citi Bike - East 33rd Street & 1st Avenue",
+            700008043
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby",
+        "(12:12, 13:56)",
+        [
+            "Citi Bike - East 33rd Street & 1st Avenue",
+            700008043
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 15:44)",
+        [
+            "",
+            700000894
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 19:35)",
+        [
+            "",
+            700019952
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:32, 19:52)",
+        [
+            "Skirball Institute of Biomolecular Medicine",
+            700000269
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:19, 23:59)",
+        [
+            "Citi Bike - East 33rd Street & 1st Avenue",
+            700008043
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 33rd Street & 1st Avenue",
+        "(23:57, 23:59)",
+        [
+            "Skirball Institute of Biomolecular Medicine",
+            700000269
+        ]
+    ]
+]

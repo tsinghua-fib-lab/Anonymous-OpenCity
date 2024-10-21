@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Live Fit Gym",
+            700006309
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:17)",
+        [
+            "Yellow Moto Pizzeria",
+            700007224
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:32, 16:05)",
+        [
+            "Bebop",
+            700009139
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 19:33)",
+        [
+            "Fort Point Beer Company",
+            700008874
+        ]
+    ],
+    [
+        "Relax and Watch a Movie or Series",
+        "(20:10, 21:31)",
+        [
+            "Fort Point Beer Company",
+            700008874
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:58, 23:59)",
+        [
+            "Tacolicious",
+            700005200
+        ]
+    ]
+]

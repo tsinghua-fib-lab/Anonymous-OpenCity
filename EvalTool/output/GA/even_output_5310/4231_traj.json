@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002394
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:01)",
+        [
+            "Century Pharmacy",
+            700018393
+        ]
+    ],
+    [
+        "Leisure Reading/TV",
+        "(15:41, 17:11)",
+        [
+            "Century Pharmacy",
+            700018393
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:59, 23:13)",
+        [
+            "Citi Bike",
+            700008129
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "Wallace S Whittaker Foundation Senior Center",
+            700018401
+        ]
+    ]
+]

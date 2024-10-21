@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700014706
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:38)",
+        [
+            "",
+            700017193
+        ]
+    ],
+    [
+        "Afternoon Hobby",
+        "(14:23, 15:57)",
+        [
+            "",
+            700014704
+        ]
+    ],
+    [
+        "Head to Citi Bike - Cleveland Pl & Spring St for hobby time.",
+        "(16:25, 18:09)",
+        [
+            "Citi Bike - Cleveland Pl & Spring St",
+            700007998
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(18:07, 19:43)",
+        [
+            "Citi Bike - Cleveland Pl & Spring St",
+            700007998
+        ]
+    ],
+    [
+        "Stay at Citi Bike - Cleveland Pl & Spring St for hobby time",
+        "(20:36, 21:48)",
+        [
+            "Citi Bike - Cleveland Pl & Spring St",
+            700007998
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:29, 23:59)",
+        [
+            "Storefront for Art and Architecture",
+            700000469
+        ]
+    ]
+]

@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ali Baba's Terrace",
+            700006423
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:02)",
+        [
+            "Shih Lee's Chinese Eastery",
+            700008421
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:26, 11:50)",
+        [
+            "",
+            700000635
+        ]
+    ],
+    [
+        "Exercise",
+        "(12:18, 13:59)",
+        [
+            "",
+            700001744
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:36, 15:52)",
+        [
+            "Keats",
+            700007331
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:38, 18:02)",
+        [
+            "Keats",
+            700007331
+        ]
+    ],
+    [
+        "Stay at Handsome Rice",
+        "(18:22, 20:10)",
+        [
+            "",
+            700001609
+        ]
+    ],
+    [
+        "Stay at Keats",
+        "(20:47, 21:53)",
+        [
+            "Keats",
+            700007331
+        ]
+    ],
+    [
+        "Stay at Ali Baba's Terrace",
+        "(22:47, 23:58)",
+        [
+            "pharmacy px",
+            700008546
+        ]
+    ],
+    [
+        "Stay at Ali Baba's Terrace",
+        "(23:51, 23:59)",
+        [
+            "La Trattoria",
+            700006424
+        ]
+    ]
+]

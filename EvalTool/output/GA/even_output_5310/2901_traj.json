@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Canal Street & Seward Park",
+            700004428
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:16)",
+        [
+            "Citi Bike - Canal Street & Seward Park",
+            700004428
+        ]
+    ],
+    [
+        "2:30 PM - 4:30 PM",
+        "(12:14, 14:28)",
+        [
+            "Citi Bike - Canal Street & Seward Park",
+            700004428
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:22, 21:25)",
+        [
+            "Citi Bike - Canal Street & Seward Park",
+            700004428
+        ]
+    ],
+    [
+        "Prepare and enjoy a gourmet dinner",
+        "(19:44, 21:10)",
+        [
+            "Little Canal",
+            700011046
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 23:03)",
+        [
+            "",
+            700023651
+        ]
+    ]
+]

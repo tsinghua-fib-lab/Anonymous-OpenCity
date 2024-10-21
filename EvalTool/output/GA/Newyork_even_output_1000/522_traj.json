@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002343
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:30)",
+        [
+            "",
+            700025039
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:20, 16:43)",
+        [
+            "Landmark Coffee Shop & Pancake House",
+            700011047
+        ]
+    ],
+    [
+        "Social Time at Landmark Coffee Shop & Pancake House",
+        "(16:42, 18:10)",
+        [
+            "Landmark Coffee Shop & Pancake House",
+            700011047
+        ]
+    ],
+    [
+        "Social Time at Landmark Coffee Shop & Pancake House",
+        "(18:25, 19:59)",
+        [
+            "Landmark Coffee Shop & Pancake House",
+            700011047
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:12, 22:58)",
+        [
+            "",
+            700025096
+        ]
+    ]
+]

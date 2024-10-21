@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006266
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:09)",
+        [
+            "atmx ATM",
+            700030262
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(14:32, 16:07)",
+        [
+            "",
+            700006266
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 20:09)",
+        [
+            "Vietnamese Street Food",
+            700006263
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(21:05, 22:31)",
+        [
+            "Vietnamese Street Food",
+            700006263
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:37, 23:40)",
+        [
+            "Vietnamese Street Food",
+            700006263
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(23:40, 23:59)",
+        [
+            "Vietnamese Street Food",
+            700006263
+        ]
+    ]
+]

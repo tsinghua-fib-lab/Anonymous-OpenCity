@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:21)",
+        [
+            "",
+            700022515
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:01, 16:54)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:56, 19:20)",
+        [
+            "",
+            700022507
+        ]
+    ],
+    [
+        "Next activity based on daily plan",
+        "(20:16, 21:57)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "Next activity based on daily plan",
+        "(22:22, 23:59)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ]
+]

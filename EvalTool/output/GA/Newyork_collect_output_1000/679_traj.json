@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Go for a refreshing walk or light exercise.",
+        "(10:00, 11:08)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Relax and watch a movie or binge-watch a favorite series.",
+        "(11:14, 13:13)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Stay at iPark to watch a movie or relax.",
+        "(14:05, 16:08)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:27, 22:25)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:08, 23:59)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ]
+]

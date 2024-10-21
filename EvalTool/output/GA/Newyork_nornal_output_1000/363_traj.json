@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:16)",
+        [
+            "Chelsea Square Restaurant",
+            700004317
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 15:05)",
+        [
+            "Blossom- Chelsea",
+            700008701
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:14, 20:58)",
+        [
+            "Qanoon",
+            700004408
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:11, 23:59)",
+        [
+            "Citizens of Chelsea",
+            700009783
+        ]
+    ]
+]

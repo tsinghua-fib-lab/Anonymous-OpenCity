@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001609
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:57)",
+        [
+            "",
+            700010341
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 16:13)",
+        [
+            "",
+            700010341
+        ]
+    ],
+    [
+        "Social or Leisure Activities",
+        "(14:49, 16:03)",
+        [
+            "Pennylane Coffee",
+            700006421
+        ]
+    ],
+    [
+        "Social or Leisure Activities",
+        "(16:54, 19:07)",
+        [
+            "Pennylane Coffee",
+            700006421
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:18, 23:59)",
+        [
+            "Matto Espresso",
+            700008913
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:09, 23:59)",
+        [
+            "Matto Espresso",
+            700008913
+        ]
+    ]
+]

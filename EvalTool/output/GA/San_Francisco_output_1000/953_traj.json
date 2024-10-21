@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Post & Parcel",
+            700005784
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:33)",
+        [
+            "Cracked & Battered",
+            700005780
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:18, 19:16)",
+        [
+            "",
+            700008729
+        ]
+    ],
+    [
+        "Shopping Trip",
+        "(15:49, 17:10)",
+        [
+            "Cracked & Battered",
+            700005780
+        ]
+    ],
+    [
+        "Shopping Trip",
+        "(18:01, 19:22)",
+        [
+            "Post & Parcel",
+            700005784
+        ]
+    ],
+    [
+        "Shopping Trip",
+        "(20:13, 21:42)",
+        [
+            "MacDaddy",
+            700005781
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(22:35, 23:59)",
+        [
+            "MacDaddy",
+            700005781
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ben & Jack's Steakhouse",
+            700008606
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:16)",
+        [
+            "",
+            700002898
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(13:52, 15:24)",
+        [
+            "Cafe 28",
+            700003846
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:14, 21:13)",
+        [
+            "Best Car Deals NY",
+            700011882
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:45, 22:33)",
+        [
+            "Best Car Deals NY",
+            700011882
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:24, 23:59)",
+        [
+            "Millionaire Driving",
+            700019687
+        ]
+    ]
+]

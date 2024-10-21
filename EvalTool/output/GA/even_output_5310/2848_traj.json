@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dunkin'",
+            700005846
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:51)",
+        [
+            "",
+            700011143
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:55, 14:53)",
+        [
+            "The Grey Dog",
+            700008662
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:41, 17:09)",
+        [
+            "The Grey Dog",
+            700008662
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:55, 19:07)",
+        [
+            "The Grey Dog",
+            700008662
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(19:35, 20:40)",
+        [
+            "The Grey Dog",
+            700008662
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:43, 23:59)",
+        [
+            "Starbucks",
+            700004347
+        ]
+    ]
+]

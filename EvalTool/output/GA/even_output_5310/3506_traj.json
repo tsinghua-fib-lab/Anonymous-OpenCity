@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005442
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(09:00, 09:59)",
+        [
+            "Citi Bike - Willett St & Delancey St",
+            700007963
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(10:34, 11:59)",
+        [
+            "Citi Bike - Willett St & Delancey St",
+            700007963
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 17:25)",
+        [
+            "",
+            700031270
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(18:09, 20:02)",
+        [
+            "",
+            700031269
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:02, 23:44)",
+        [
+            "",
+            700031268
+        ]
+    ],
+    [
+        "Stay in your Home.",
+        "(23:50, 23:59)",
+        [
+            "",
+            700005442
+        ]
+    ]
+]

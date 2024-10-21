@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CVS Pharmacy",
+            700024375
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:09)",
+        [
+            "",
+            700003059
+        ]
+    ],
+    [
+        "Relaxation/Reading Time",
+        "(12:39, 14:00)",
+        [
+            "CVS Pharmacy",
+            700024375
+        ]
+    ],
+    [
+        "Relaxation/Reading Time",
+        "(14:33, 16:12)",
+        [
+            "CVS Pharmacy",
+            700024375
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:20, 17:55)",
+        [
+            "Dr. Benjamin Paul",
+            700040418
+        ]
+    ],
+    [
+        "Wind Down/Watch TV or Movies",
+        "(20:42, 22:01)",
+        [
+            "",
+            700040690
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:16, 23:59)",
+        [
+            "",
+            700040690
+        ]
+    ]
+]

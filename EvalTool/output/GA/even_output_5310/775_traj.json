@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 51st Street & 1st Avenue",
+            700008053
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:10)",
+        [
+            "Citi Bike - East 51st Street & 1st Avenue",
+            700008053
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:34, 14:03)",
+        [
+            "Citi Bike - East 51st Street & 1st Avenue",
+            700008053
+        ]
+    ],
+    [
+        "Hobby or Craft",
+        "(14:45, 16:07)",
+        [
+            "Citi Bike - East 51st Street & 1st Avenue",
+            700008053
+        ]
+    ],
+    [
+        "Hobby or Craft",
+        "(16:51, 18:16)",
+        [
+            "Citi Bike - East 51st Street & 1st Avenue",
+            700008053
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 22:33)",
+        [
+            "Nations Café",
+            700006419
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:48, 22:53)",
+        [
+            "Citi Bike - East 51st Street & 1st Avenue",
+            700008053
+        ]
+    ],
+    [
+        "You are currently at Citi Bike - East 51st Street & 1st Avenue and will stay for 1 hour and 10 minutes.",
+        "(23:49, 23:59)",
+        [
+            "Nations Café",
+            700006419
+        ]
+    ]
+]

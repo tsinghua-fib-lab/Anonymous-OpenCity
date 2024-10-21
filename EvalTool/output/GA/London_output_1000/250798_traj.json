@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Peabody Hammersmith Estate",
+            700011400
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:07)",
+        [
+            "Peabody Hammersmith Estate",
+            700011400
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(12:57, 14:03)",
+        [
+            "Peabody Hammersmith Estate",
+            700011400
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:44, 17:19)",
+        [
+            "",
+            700065638
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:20, 22:19)",
+        [
+            "",
+            700065617
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "",
+            700065637
+        ]
+    ]
+]

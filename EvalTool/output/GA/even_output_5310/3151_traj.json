@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Columbia Pizza",
+            700006251
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:29)",
+        [
+            "Columbia Pizza",
+            700006251
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 16:00)",
+        [
+            "Sidney Hillman Playground",
+            700000415
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 18:02)",
+        [
+            "",
+            700001422
+        ]
+    ],
+    [
+        "Stay at Sidney Hillman Playground.",
+        "(16:53, 18:17)",
+        [
+            "",
+            700013154
+        ]
+    ],
+    [
+        "Stay at Columbia Pizza.",
+        "(19:20, 20:57)",
+        [
+            "",
+            700002302
+        ]
+    ],
+    [
+        "Stay at Columbia Pizza",
+        "(21:50, 22:53)",
+        [
+            "Columbia Pizza",
+            700006251
+        ]
+    ],
+    [
+        "Stay at Columbia Pizza.",
+        "(23:09, 23:59)",
+        [
+            "Columbia Pizza",
+            700006251
+        ]
+    ]
+]

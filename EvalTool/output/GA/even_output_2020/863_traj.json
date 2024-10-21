@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Maxfield's House of Caffeine",
+            700003619
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:45)",
+        [
+            "",
+            700008313
+        ]
+    ],
+    [
+        "Brunch with friends",
+        "(11:11, 12:41)",
+        [
+            "Pizza Due",
+            700009128
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 15:00)",
+        [
+            "Cervecería de MateVeza",
+            700002463
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 21:00)",
+        [
+            "",
+            700009001
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 23:59)",
+        [
+            "",
+            700008229
+        ]
+    ]
+]

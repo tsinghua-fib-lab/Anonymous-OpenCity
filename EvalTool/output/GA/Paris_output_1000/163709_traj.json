@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700070402
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:18)",
+        [
+            "",
+            700057391
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(14:28, 16:34)",
+        [
+            "Bar du Marché des Blancs Manteaux",
+            700019122
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(17:26, 19:06)",
+        [
+            "Bar du Marché des Blancs Manteaux",
+            700019122
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:40, 22:05)",
+        [
+            "Bar du Marché des Blancs Manteaux",
+            700019122
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(22:19, 23:56)",
+        [
+            "Bar du Marché des Blancs Manteaux",
+            700019122
+        ]
+    ]
+]

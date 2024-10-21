@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001688
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:20)",
+        [
+            "Gracie Mews Restaurant",
+            700013556
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 21:37)",
+        [
+            "Emack & Bolio's",
+            700008954
+        ]
+    ],
+    [
+        "Stay at Emack & Bolio's",
+        "(17:32, 18:57)",
+        [
+            "",
+            700040440
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(20:05, 22:15)",
+        [
+            "Smile Up Pediatric Dentistry & Orthodontics",
+            700033293
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(22:33, 23:59)",
+        [
+            "",
+            700001688
+        ]
+    ]
+]

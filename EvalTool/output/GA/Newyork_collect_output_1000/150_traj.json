@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:58)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:26, 14:54)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:36, 14:17)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(18:33, 20:12)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:33, 23:53)",
+        [
+            "Auto Motion",
+            700018140
+        ]
+    ]
+]

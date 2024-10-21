@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Extreme Pizza",
+            700001056
+        ]
+    ],
+    [
+        "Morning Routine",
+        "(10:00, 12:01)",
+        [
+            "",
+            700014012
+        ]
+    ],
+    [
+        "Morning Routine",
+        "(12:10, 13:40)",
+        [
+            "Extreme Pizza",
+            700001056
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 20:28)",
+        [
+            "",
+            700005924
+        ]
+    ],
+    [
+        "Leisure Reading or Relaxing",
+        "(16:33, 17:55)",
+        [
+            "Extreme Pizza",
+            700001056
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 22:53)",
+        [
+            "",
+            700005925
+        ]
+    ]
+]

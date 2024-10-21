@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "NYU Langone Health Orthopedics",
+            700006186
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:42)",
+        [
+            "",
+            700003099
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:52, 16:19)",
+        [
+            "NYU Langone Health Orthopedics",
+            700006186
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:15, 18:30)",
+        [
+            "NYU Langone Health Orthopedics",
+            700006186
+        ]
+    ],
+    [
+        "Coffee Shop Visit",
+        "(18:42, 20:05)",
+        [
+            "NYU Langone Health Orthopedics",
+            700006186
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(20:35, 22:15)",
+        [
+            "NYU Langone Health Orthopedics",
+            700006186
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(22:39, 23:59)",
+        [
+            "NYU Langone Health Orthopedics",
+            700006186
+        ]
+    ]
+]

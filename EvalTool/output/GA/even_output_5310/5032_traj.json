@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ali Baba's Terrace",
+            700006423
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:03)",
+        [
+            "Keats",
+            700007331
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:26, 12:03)",
+        [
+            "Keats",
+            700007331
+        ]
+    ],
+    [
+        "Exercise",
+        "(12:18, 13:58)",
+        [
+            "Keats",
+            700007331
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:36, 15:52)",
+        [
+            "Keats",
+            700007331
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:38, 18:04)",
+        [
+            "Keats",
+            700007331
+        ]
+    ],
+    [
+        "Stay at Ali Baba's Terrace",
+        "(18:22, 20:04)",
+        [
+            "Matto Espresso",
+            700008913
+        ]
+    ],
+    [
+        "Go to Keats",
+        "(20:47, 22:03)",
+        [
+            "Keats",
+            700007331
+        ]
+    ],
+    [
+        "Stay at La Cava Wine Bar",
+        "(22:47, 23:59)",
+        [
+            "Voilà Afrique",
+            700034218
+        ]
+    ],
+    [
+        "Stay at Ali Baba's Terrace",
+        "(23:51, 23:59)",
+        [
+            "Keats",
+            700007331
+        ]
+    ]
+]

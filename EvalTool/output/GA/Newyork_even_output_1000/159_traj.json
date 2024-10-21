@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700003165
+        ]
+    ],
+    [
+        "Go for a Brunch with Friends",
+        "(09:00, 10:28)",
+        [
+            "Casa Mono",
+            700006182
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:04, 15:40)",
+        [
+            "Friend of a Farmer",
+            700010270
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 18:31)",
+        [
+            "Flushing Bank",
+            700018130
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(18:21, 19:55)",
+        [
+            "Flushing Bank",
+            700018130
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:57, 21:37)",
+        [
+            "",
+            700003165
+        ]
+    ],
+    [
+        "Go to Friend of a Farmer from Dinner Preparation and Family Time.",
+        "(22:13, 23:32)",
+        [
+            "Citi Bike - East 16th Street & Irving Place",
+            700008027
+        ]
+    ],
+    [
+        "Go to Friend of a Farmer",
+        "(23:49, 23:59)",
+        [
+            "",
+            700002864
+        ]
+    ]
+]

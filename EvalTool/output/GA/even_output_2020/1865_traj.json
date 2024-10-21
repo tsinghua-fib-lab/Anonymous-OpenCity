@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005102
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 10:01)",
+        [
+            "Tuong Phong",
+            700005105
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(10:13, 11:48)",
+        [
+            "Tuong Phong",
+            700005105
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(12:35, 14:06)",
+        [
+            "Tuong Phong",
+            700005105
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(14:16, 15:53)",
+        [
+            "Tuong Phong",
+            700005105
+        ]
+    ],
+    [
+        "Hang Out with Friends or Family",
+        "(16:51, 18:08)",
+        [
+            "",
+            700009607
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 23:59)",
+        [
+            "Los Yucatecos",
+            700010867
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:58, 23:59)",
+        [
+            "",
+            700009604
+        ]
+    ]
+]

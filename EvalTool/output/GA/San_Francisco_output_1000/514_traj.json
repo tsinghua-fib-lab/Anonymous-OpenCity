@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Saints Peter and Paul School",
+            700000302
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 10:57)",
+        [
+            "Saints Peter and Paul School",
+            700000302
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:13, 12:52)",
+        [
+            "Saints Peter and Paul School",
+            700000302
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:06, 15:13)",
+        [
+            "Saints Peter and Paul School",
+            700000302
+        ]
+    ],
+    [
+        "Exercise",
+        "(15:53, 17:08)",
+        [
+            "Saints Peter and Paul School",
+            700000302
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 23:23)",
+        [
+            "",
+            700009110
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:23, 23:59)",
+        [
+            "Saints Peter and Paul School",
+            700000302
+        ]
+    ]
+]

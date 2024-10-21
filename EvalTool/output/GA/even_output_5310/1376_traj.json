@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rosemary's",
+            700026186
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:09)",
+        [
+            "TD Bank",
+            700011623
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:54, 13:24)",
+        [
+            "Citi Bike - 1st Avenue & East 18th Street",
+            700007925
+        ]
+    ],
+    [
+        "Stay at Unknown Place",
+        "(14:30, 16:01)",
+        [
+            "Ess-a-Bagel",
+            700023332
+        ]
+    ],
+    [
+        "Entertainment",
+        "(17:27, 19:05)",
+        [
+            "Psychic Tarot",
+            700029598
+        ]
+    ],
+    [
+        "Stay at Rosemary's",
+        "(19:29, 21:07)",
+        [
+            "Ess-a-Bagel",
+            700023332
+        ]
+    ],
+    [
+        "Stay at Unknown Place",
+        "(21:24, 22:19)",
+        [
+            "Ess-a-Bagel",
+            700023332
+        ]
+    ],
+    [
+        "Stay at Rosemary's",
+        "(22:54, 23:59)",
+        [
+            "Ess-a-Bagel",
+            700023332
+        ]
+    ]
+]

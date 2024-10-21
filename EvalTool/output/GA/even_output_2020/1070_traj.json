@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Akira",
+            700005338
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 11:09)",
+        [
+            "Limoncello",
+            700010262
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:03, 17:23)",
+        [
+            "Audium",
+            700006895
+        ]
+    ],
+    [
+        "Participate in a recreational activity.",
+        "(13:59, 15:04)",
+        [
+            "Planned Parenthood Northern California",
+            700010428
+        ]
+    ],
+    [
+        "Participate in recreational activity.",
+        "(15:27, 17:37)",
+        [
+            "Planned Parenthood Northern California",
+            700010428
+        ]
+    ],
+    [
+        "Stay at Limoncello",
+        "(17:40, 19:02)",
+        [
+            "Wayo",
+            700004063
+        ]
+    ],
+    [
+        "Stay at Limoncello;",
+        "(20:02, 21:23)",
+        [
+            "Planned Parenthood Northern California",
+            700010428
+        ]
+    ],
+    [
+        "Stay at Limoncello.",
+        "(21:55, 23:20)",
+        [
+            "Standard",
+            700012800
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:39, 23:59)",
+        [
+            "Benchmark Climbing",
+            700004069
+        ]
+    ]
+]

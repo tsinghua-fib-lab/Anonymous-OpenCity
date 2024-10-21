@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ho Foods",
+            700016101
+        ]
+    ],
+    [
+        "Read or Write",
+        "(10:00, 11:32)",
+        [
+            "Ho Foods",
+            700016101
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:24, 15:35)",
+        [
+            "Los Tacos NYC",
+            700009657
+        ]
+    ],
+    [
+        "Grocery Shopping or Errands",
+        "(17:00, 18:28)",
+        [
+            "Los Tacos NYC",
+            700009657
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 23:35)",
+        [
+            "Crif Dogs",
+            700022189
+        ]
+    ]
+]

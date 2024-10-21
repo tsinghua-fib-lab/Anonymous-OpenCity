@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "All Health Pharmacy",
+            700005137
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:55)",
+        [
+            "12 Corners",
+            700009270
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:37, 18:16)",
+        [
+            "",
+            700026183
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:09, 22:41)",
+        [
+            "Sweet Moment",
+            700010489
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(20:50, 21:59)",
+        [
+            "Sweet Moment",
+            700010489
+        ]
+    ],
+    [
+        "Stay at 12 Corners",
+        "(23:05, 23:59)",
+        [
+            "All Health Pharmacy",
+            700005137
+        ]
+    ]
+]

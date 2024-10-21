@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "NYU Langone Radiology",
+            700006205
+        ]
+    ],
+    [
+        "Stay at NYU Langone Radiology.",
+        "(09:00, 11:03)",
+        [
+            "Orion Diner & Grill",
+            700014321
+        ]
+    ],
+    [
+        "Stay at NYU Langone Radiology.",
+        "(11:54, 13:34)",
+        [
+            "",
+            700022505
+        ]
+    ],
+    [
+        "Current time: 13:45, stay at NYU Langone Radiology.",
+        "(13:45, 14:54)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "next activity based on the daily plan",
+        "(15:17, 16:23)",
+        [
+            "Orion Diner & Grill",
+            700014321
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 21:28)",
+        [
+            "",
+            700003099
+        ]
+    ],
+    [
+        "next",
+        "(21:45, 22:59)",
+        [
+            "Orion Diner & Grill",
+            700014321
+        ]
+    ],
+    [
+        "Stay at NYU Langone Radiology.",
+        "(23:08, 23:59)",
+        [
+            "Orion Diner & Grill",
+            700014321
+        ]
+    ]
+]

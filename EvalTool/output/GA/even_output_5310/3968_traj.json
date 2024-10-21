@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700018120
+        ]
+    ],
+    [
+        "Leisure Reading/TV Time",
+        "(09:00, 10:20)",
+        [
+            "",
+            700018120
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:39, 14:46)",
+        [
+            "",
+            700018501
+        ]
+    ],
+    [
+        "Leisure Reading/TV Time",
+        "(16:27, 17:55)",
+        [
+            "Starbucks",
+            700018502
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(18:54, 19:59)",
+        [
+            "Starbucks",
+            700018502
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(20:29, 22:07)",
+        [
+            "Andiamo Pizza",
+            700020218
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:18, 23:59)",
+        [
+            "",
+            700000973
+        ]
+    ]
+]

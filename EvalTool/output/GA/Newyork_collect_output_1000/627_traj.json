@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:21)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Reading or Learning Time",
+        "(11:17, 12:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 15:12)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:18, 23:59)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(20:58, 22:51)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ]
+]

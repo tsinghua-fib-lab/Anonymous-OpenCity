@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Alice",
+            700003960
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(09:00, 10:30)",
+        [
+            "Alice",
+            700003960
+        ]
+    ],
+    [
+        "Personal Project/Study Time",
+        "(10:49, 12:51)",
+        [
+            "Salvation Army Centennial Memorial Temple",
+            700000266
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:52, 18:40)",
+        [
+            "Satori Laser",
+            700040382
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:12, 19:43)",
+        [
+            "",
+            700020035
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 20:42)",
+        [
+            "",
+            700020033
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:12, 23:59)",
+        [
+            "",
+            700020097
+        ]
+    ]
+]

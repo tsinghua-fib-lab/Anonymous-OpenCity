@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005603
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(10:00, 10:56)",
+        [
+            "",
+            700008265
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:51, 13:04)",
+        [
+            "Little Star Pizza",
+            700001409
+        ]
+    ],
+    [
+        "Outdoor Activities",
+        "(13:50, 15:48)",
+        [
+            "Little Star Pizza",
+            700001409
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 20:17)",
+        [
+            "Che Fico",
+            700007285
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:57, 23:59)",
+        [
+            "El Rancho Grande",
+            700001901
+        ]
+    ]
+]

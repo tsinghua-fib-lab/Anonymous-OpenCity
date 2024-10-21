@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001739
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:42)",
+        [
+            "Eureka Market",
+            700001048
+        ]
+    ],
+    [
+        "Relaxing Afternoon",
+        "(14:00, 16:09)",
+        [
+            "",
+            700001739
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 21:00)",
+        [
+            "",
+            700014181
+        ]
+    ],
+    [
+        "Wind Down & Prepare for the Week",
+        "(21:12, 22:58)",
+        [
+            "18th Street Station",
+            700000386
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "Rainbow market",
+            700000859
+        ]
+    ]
+]

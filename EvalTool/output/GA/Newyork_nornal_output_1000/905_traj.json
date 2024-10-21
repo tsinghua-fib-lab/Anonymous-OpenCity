@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chase",
+            700004316
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:19)",
+        [
+            "Empire Diner",
+            700014303
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(14:42, 16:00)",
+        [
+            "",
+            700001670
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(16:25, 17:56)",
+        [
+            "Empire Diner",
+            700014303
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(18:50, 19:55)",
+        [
+            "New York Burger Co",
+            700004319
+        ]
+    ],
+    [
+        "Visit Empire Diner",
+        "(20:05, 22:19)",
+        [
+            "Empire Diner",
+            700014303
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:46, 23:19)",
+        [
+            "",
+            700001475
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "Juban",
+            700016943
+        ]
+    ]
+]

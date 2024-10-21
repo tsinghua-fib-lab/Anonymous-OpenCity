@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Estiatorio Milos",
+            700006310
+        ]
+    ],
+    [
+        "Go for a walk or visit a nearby park.",
+        "(10:00, 10:52)",
+        [
+            "Estiatorio Milos",
+            700006310
+        ]
+    ],
+    [
+        "Go for a walk or visit a nearby park.",
+        "(11:15, 13:02)",
+        [
+            "Estiatorio Milos",
+            700006310
+        ]
+    ],
+    [
+        "watch a movie or catch up on a favorite TV show",
+        "(13:08, 14:57)",
+        [
+            "Estiatorio Milos",
+            700006310
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a favorite TV show.",
+        "(15:29, 17:01)",
+        [
+            "Estiatorio Milos",
+            700006310
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 20:01)",
+        [
+            "PL",
+            700014629
+        ]
+    ],
+    [
+        "Stay at Estiatorio Milos",
+        "(22:15, 23:24)",
+        [
+            "Estiatorio Milos",
+            700006310
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "Kin Ramen",
+            700037315
+        ]
+    ]
+]

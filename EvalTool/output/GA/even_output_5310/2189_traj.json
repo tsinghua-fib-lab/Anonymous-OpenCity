@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002302
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:21)",
+        [
+            "",
+            700002302
+        ]
+    ],
+    [
+        "Move to Outdoor Activity",
+        "(11:15, 12:51)",
+        [
+            "El Castillo De Jagua",
+            700003816
+        ]
+    ],
+    [
+        "Move to Outdoor Activity",
+        "(13:51, 15:29)",
+        [
+            "",
+            700002302
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:34, 16:35)",
+        [
+            "",
+            700013154
+        ]
+    ],
+    [
+        "Lunch Preparation",
+        "(18:28, 19:59)",
+        [
+            "Nations Café",
+            700006419
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:48, 23:59)",
+        [
+            "NY Grill & Deli",
+            700009173
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "",
+            700030695
+        ]
+    ]
+]

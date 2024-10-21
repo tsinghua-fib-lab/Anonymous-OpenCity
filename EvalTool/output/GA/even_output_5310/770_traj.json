@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002220
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:52)",
+        [
+            "The Smith",
+            700006415
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:46, 14:55)",
+        [
+            "Citi Bike - East 52nd Street & 2nd Avenue",
+            700008055
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 19:32)",
+        [
+            "",
+            700002220
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 23:44)",
+        [
+            "CityMD",
+            700013539
+        ]
+    ]
+]

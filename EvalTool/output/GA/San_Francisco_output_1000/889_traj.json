@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Napoli Pizza",
+            700001102
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(09:00, 09:59)",
+        [
+            "Napoli Pizza",
+            700001102
+        ]
+    ],
+    [
+        "Catch up on household chores",
+        "(10:54, 11:54)",
+        [
+            "Napoli Pizza",
+            700001102
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 16:03)",
+        [
+            "Mustafio's Pizza",
+            700004191
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:37, 20:31)",
+        [
+            "Wen's Kitchen",
+            700001112
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 22:33)",
+        [
+            "DecoDance Bar",
+            700001108
+        ]
+    ],
+    [
+        "Next place after preparing dinner and winding down in Situation_5",
+        "(23:03, 23:59)",
+        [
+            "DecoDance Bar",
+            700001108
+        ]
+    ]
+]

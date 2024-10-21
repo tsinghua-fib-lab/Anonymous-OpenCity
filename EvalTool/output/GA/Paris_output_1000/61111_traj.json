@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Rally Passy",
+            700057948
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:01)",
+        [
+            "Fontaine Wallace",
+            700001509
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:50, 13:22)",
+        [
+            "",
+            700066632
+        ]
+    ],
+    [
+        "Dinner and Evening Wind Down",
+        "(14:20, 16:30)",
+        [
+            "Le Rally Passy",
+            700057948
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:02, 18:32)",
+        [
+            "Fontaine Wallace",
+            700001509
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:33, 23:59)",
+        [
+            "Settebello",
+            700046433
+        ]
+    ]
+]

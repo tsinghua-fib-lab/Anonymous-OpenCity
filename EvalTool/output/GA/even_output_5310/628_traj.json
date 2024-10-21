@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Flavor's House",
+            700021997
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:38)",
+        [
+            "",
+            700011174
+        ]
+    ],
+    [
+        "Continue reading or pursuing a hobby.",
+        "(13:10, 14:33)",
+        [
+            "Apotheco Pharmacy",
+            700021514
+        ]
+    ],
+    [
+        "Reading or pursuing a hobby",
+        "(15:04, 16:52)",
+        [
+            "Apotheco Pharmacy",
+            700021514
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 22:41)",
+        [
+            "",
+            700032014
+        ]
+    ],
+    [
+        "Stay at Flavor's House",
+        "(20:22, 21:49)",
+        [
+            "Apotheco Pharmacy",
+            700021514
+        ]
+    ],
+    [
+        "Stay at Flavor's House.",
+        "(22:23, 23:59)",
+        [
+            "Duane Reade",
+            700011388
+        ]
+    ]
+]

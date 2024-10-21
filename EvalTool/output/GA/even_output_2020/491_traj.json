@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000781
+        ]
+    ],
+    [
+        "Breakfast at home.",
+        "(10:00, 10:56)",
+        [
+            "Godzila Sushi",
+            700005179
+        ]
+    ],
+    [
+        "Go for a mid-morning walk or light jog in the park",
+        "(11:55, 12:56)",
+        [
+            "Godzila Sushi",
+            700005179
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 16:55)",
+        [
+            "",
+            700000784
+        ]
+    ],
+    [
+        "Spend time at home",
+        "(17:27, 18:50)",
+        [
+            "Round Medical Supply and Uniforms",
+            700005182
+        ]
+    ],
+    [
+        "Stay at Park Gym",
+        "(19:19, 20:42)",
+        [
+            "Park Gym",
+            700004905
+        ]
+    ],
+    [
+        "Stay at Park Gym",
+        "(21:23, 23:06)",
+        [
+            "Park Gym",
+            700004905
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "",
+            700000782
+        ]
+    ]
+]

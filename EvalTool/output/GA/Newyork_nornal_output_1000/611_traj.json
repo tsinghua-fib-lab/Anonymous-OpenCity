@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Horn's Hook Tavern",
+            700006575
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:56)",
+        [
+            "",
+            700001376
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 17:24)",
+        [
+            "",
+            700021610
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:21, 18:49)",
+        [
+            "Saint Stephen of Hungary Church",
+            700000277
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:46, 22:20)",
+        [
+            "Emack & Bolio's",
+            700008954
+        ]
+    ],
+    [
+        "Proceed to sleep.",
+        "(22:27, 23:59)",
+        [
+            "Zaab PuTawn",
+            700014840
+        ]
+    ],
+    [
+        "Engage in leisure activity.",
+        "(23:53, 23:59)",
+        [
+            "Zaab PuTawn",
+            700014840
+        ]
+    ]
+]

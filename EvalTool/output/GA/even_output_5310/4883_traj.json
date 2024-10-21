@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "V-Nam Cafe",
+            700005169
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:58)",
+        [
+            "V-Nam Cafe",
+            700005169
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:14, 12:34)",
+        [
+            "Little Gio's Pizza",
+            700024662
+        ]
+    ],
+    [
+        "Afternoon Activity",
+        "(15:46, 17:53)",
+        [
+            "East 1st Street & 1st Avenue",
+            700025321
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(17:58, 19:02)",
+        [
+            "East 1st Street & 1st Avenue",
+            700025321
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(19:20, 20:13)",
+        [
+            "East 1st Street & 1st Avenue",
+            700025321
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(20:33, 22:01)",
+        [
+            "One and One",
+            700005170
+        ]
+    ],
+    [
+        "Next relaxation or leisure time.",
+        "(22:12, 23:21)",
+        [
+            "East 1st Street & 1st Avenue",
+            700025321
+        ]
+    ],
+    [
+        "Next relaxation or leisure time.",
+        "(23:58, 23:59)",
+        [
+            "Lil' Frankies",
+            700007824
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Neighbor's Corner",
+            700005955
+        ]
+    ],
+    [
+        "Go for a walk or light exercise in the park",
+        "(09:00, 09:59)",
+        [
+            "",
+            700014183
+        ]
+    ],
+    [
+        "Spend some time reading or enjoying a hobby.",
+        "(10:52, 12:26)",
+        [
+            "Neighbor's Corner",
+            700005955
+        ]
+    ],
+    [
+        "Spend some time reading or enjoying a hobby.",
+        "(13:32, 15:06)",
+        [
+            "",
+            700013451
+        ]
+    ],
+    [
+        "Spend time reading or enjoying a hobby.",
+        "(15:58, 17:53)",
+        [
+            "The Edge",
+            700002191
+        ]
+    ],
+    [
+        "Continue reading or enjoying a hobby",
+        "(17:51, 19:13)",
+        [
+            "The Edge",
+            700002191
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:16, 23:59)",
+        [
+            "Thai Chef",
+            700002208
+        ]
+    ],
+    [
+        "Stay in Thai Chef",
+        "(21:36, 23:00)",
+        [
+            "Thai Chef",
+            700002208
+        ]
+    ],
+    [
+        "Stay in Thai Chef",
+        "(23:30, 23:59)",
+        [
+            "Thai Chef",
+            700002208
+        ]
+    ]
+]

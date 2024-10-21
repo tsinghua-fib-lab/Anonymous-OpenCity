@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700003020
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:37)",
+        [
+            "TD Bank",
+            700003534
+        ]
+    ],
+    [
+        "Family or Social Time",
+        "(13:04, 14:12)",
+        [
+            "TD Bank",
+            700003534
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 17:45)",
+        [
+            "Slatterlys Midtown Pub",
+            700030615
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 19:58)",
+        [
+            "Toledo",
+            700030614
+        ]
+    ],
+    [
+        "Next activity based on previous plan",
+        "(20:13, 21:50)",
+        [
+            "Peter Dillon's",
+            700006410
+        ]
+    ],
+    [
+        "Stay at Peter Dillon's until dinner preparations.",
+        "(21:58, 23:31)",
+        [
+            "Starbucks",
+            700003543
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:50, 23:59)",
+        [
+            "Slatterlys Midtown Pub",
+            700030615
+        ]
+    ]
+]

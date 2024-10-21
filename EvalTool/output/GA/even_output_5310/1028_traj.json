@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002733
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 14:55)",
+        [
+            "",
+            700038052
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(11:25, 12:53)",
+        [
+            "",
+            700038047
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(13:23, 15:04)",
+        [
+            "",
+            700038041
+        ]
+    ],
+    [
+        "Light Exercise",
+        "(15:14, 16:39)",
+        [
+            "Citi Bike - Catherine Street & Monroe Street",
+            700007990
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:44, 21:15)",
+        [
+            "",
+            700038051
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(20:03, 21:41)",
+        [
+            "Citi Bike - Catherine Street & Monroe Street",
+            700007990
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(21:48, 22:53)",
+        [
+            "Citi Bike - Catherine Street & Monroe Street",
+            700007990
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(23:35, 23:59)",
+        [
+            "Citi Bike - Catherine Street & Monroe Street",
+            700007990
+        ]
+    ]
+]

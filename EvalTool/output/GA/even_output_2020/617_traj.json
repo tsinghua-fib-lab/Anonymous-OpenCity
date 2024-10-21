@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002398
+        ]
+    ],
+    [
+        "Brunch at Home",
+        "(10:00, 11:20)",
+        [
+            "Fiorella Polk Street",
+            700004277
+        ]
+    ],
+    [
+        "Brunch at Home",
+        "(11:55, 13:27)",
+        [
+            "Fiorella Polk Street",
+            700004277
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:07, 18:45)",
+        [
+            "House of Sushi Teriyaki & Tempura",
+            700006483
+        ]
+    ],
+    [
+        "Prepare a Simple Dinner",
+        "(17:58, 18:49)",
+        [
+            "The Royal Oak",
+            700000646
+        ]
+    ],
+    [
+        "Wind Down with a Book or Podcast",
+        "(19:29, 21:03)",
+        [
+            "The Royal Oak",
+            700000646
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:14, 23:59)",
+        [
+            "House Rules",
+            700004279
+        ]
+    ]
+]

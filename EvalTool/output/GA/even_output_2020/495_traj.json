@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "San Francisco Athletic Club",
+            700004906
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:22)",
+        [
+            "Wells Fargo",
+            700000785
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:33, 11:53)",
+        [
+            "Wells Fargo",
+            700000785
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:00, 14:22)",
+        [
+            "Yum Yum Hunan",
+            700005281
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:20, 16:29)",
+        [
+            "Tataki",
+            700007726
+        ]
+    ],
+    [
+        "Watch a Movie/TV Series",
+        "(18:58, 20:40)",
+        [
+            "Tea Hut",
+            700010933
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 23:35)",
+        [
+            "Tea Hut",
+            700010933
+        ]
+    ]
+]

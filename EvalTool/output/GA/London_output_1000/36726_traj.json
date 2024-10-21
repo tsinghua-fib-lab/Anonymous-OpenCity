@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:16)",
+        [
+            "",
+            700063392
+        ]
+    ],
+    [
+        "Reading/Creative Time",
+        "(14:59, 16:55)",
+        [
+            "Ahli United Bank",
+            700017129
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 21:56)",
+        [
+            "The Churchill Bar",
+            700014241
+        ]
+    ],
+    [
+        "Watch a Movie/Relax",
+        "(19:53, 21:00)",
+        [
+            "The Churchill Bar",
+            700014241
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:46, 23:59)",
+        [
+            "",
+            700017145
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700017128
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020139
+        ]
+    ],
+    [
+        "Outdoor Walk or Jog",
+        "(10:00, 11:08)",
+        [
+            "",
+            700001764
+        ]
+    ],
+    [
+        "Outdoor Walk or Jog",
+        "(11:06, 13:03)",
+        [
+            "",
+            700020080
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:40, 16:10)",
+        [
+            "Motel Morris",
+            700017659
+        ]
+    ],
+    [
+        "Relaxation & Self-Care",
+        "(16:54, 17:57)",
+        [
+            "Motel Morris",
+            700017659
+        ]
+    ],
+    [
+        "Dinner Preparation or Dining Out",
+        "(18:51, 20:25)",
+        [
+            "",
+            700020082
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:25, 23:59)",
+        [
+            "",
+            700020142
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:48, 23:59)",
+        [
+            "Rocking Horse Cafe",
+            700004345
+        ]
+    ]
+]

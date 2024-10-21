@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Petit Parisienne",
+            700006570
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:41)",
+        [
+            "Xi'an Famous Foods",
+            700011164
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:20, 17:42)",
+        [
+            "Lusardi's",
+            700019512
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(16:26, 18:01)",
+        [
+            "Uva",
+            700023408
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:15, 20:05)",
+        [
+            "Le Petit Parisienne",
+            700006570
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:27, 22:06)",
+        [
+            "Dunkin'",
+            700016572
+        ]
+    ]
+]

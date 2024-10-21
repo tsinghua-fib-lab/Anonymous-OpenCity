@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "NR",
+            700017567
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(09:00, 10:03)",
+        [
+            "Starbucks",
+            700006559
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(09:59, 11:05)",
+        [
+            "Starbucks",
+            700006559
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(12:00, 13:52)",
+        [
+            "Starbucks",
+            700006559
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(14:37, 15:55)",
+        [
+            "Starbucks",
+            700006559
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 21:28)",
+        [
+            "The Raven Pub",
+            700016558
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:48, 21:51)",
+        [
+            "",
+            700002291
+        ]
+    ],
+    [
+        "Go to The Raven Pub and spend some time.",
+        "(23:35, 23:59)",
+        [
+            "The Raven Pub",
+            700016558
+        ]
+    ]
+]

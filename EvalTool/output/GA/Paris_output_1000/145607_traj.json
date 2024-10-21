@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Place de Passy",
+            700044189
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:55)",
+        [
+            "Place de Passy",
+            700044189
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:20, 13:13)",
+        [
+            "Place de Passy",
+            700044189
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 15:29)",
+        [
+            "Le Rally Passy",
+            700057948
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:37, 21:11)",
+        [
+            "Place de Passy",
+            700044189
+        ]
+    ],
+    [
+        "Catching up with friends over dinner",
+        "(21:47, 23:05)",
+        [
+            "",
+            700031486
+        ]
+    ],
+    [
+        "Catch up with friends over dinner.",
+        "(23:10, 23:59)",
+        [
+            "LCL",
+            700004033
+        ]
+    ]
+]

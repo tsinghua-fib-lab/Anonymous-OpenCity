@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "16 Handles",
+            700005855
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:31)",
+        [
+            "Citi Bike - West 20th Street & 8th Avenue",
+            700008206
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 18:57)",
+        [
+            "Walgreens",
+            700008794
+        ]
+    ],
+    [
+        "Participate in a fun recreational activity, like playing a sport or board games.",
+        "(16:43, 17:50)",
+        [
+            "Walgreens",
+            700008794
+        ]
+    ],
+    [
+        "Participate in a fun recreational activity, like playing a sport or board games.",
+        "(18:12, 20:10)",
+        [
+            "Walgreens",
+            700008794
+        ]
+    ],
+    [
+        "Choose to enjoy a movie or episodes of a TV series.",
+        "(20:58, 22:31)",
+        [
+            "Lasagna Ristorante",
+            700004338
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:21, 23:59)",
+        [
+            "",
+            700020028
+        ]
+    ]
+]

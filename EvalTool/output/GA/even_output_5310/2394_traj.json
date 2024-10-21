@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700035830
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:54)",
+        [
+            "Citi Bike - Vesey Pl & River Terrace",
+            700027026
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(12:23, 13:51)",
+        [
+            "",
+            700035827
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(14:37, 16:08)",
+        [
+            "Citi Bike - Vesey Pl & River Terrace",
+            700027026
+        ]
+    ],
+    [
+        "Hobby or Creative Time",
+        "(17:13, 19:53)",
+        [
+            "Citi Bike - Vesey Pl & River Terrace",
+            700027026
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(20:23, 21:52)",
+        [
+            "",
+            700036625
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:47, 23:59)",
+        [
+            "",
+            700036617
+        ]
+    ]
+]

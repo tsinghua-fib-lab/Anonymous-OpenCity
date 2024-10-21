@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Salmagundi Club",
+            700009045
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:10)",
+        [
+            "",
+            700000626
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:41, 12:54)",
+        [
+            "",
+            700001586
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:02, 14:52)",
+        [
+            "Taboonette",
+            700009390
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:02, 18:08)",
+        [
+            "Taboonette",
+            700009390
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(18:58, 20:08)",
+        [
+            "Taboonette",
+            700009390
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:24, 22:24)",
+        [
+            "Panera Bread",
+            700004773
+        ]
+    ]
+]

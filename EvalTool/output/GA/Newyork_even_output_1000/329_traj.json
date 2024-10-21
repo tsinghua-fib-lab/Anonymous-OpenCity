@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006164
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park.",
+        "(10:00, 11:06)",
+        [
+            "ChargePoint",
+            700012429
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park.",
+        "(11:15, 13:09)",
+        [
+            "",
+            700006164
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park",
+        "(13:23, 15:31)",
+        [
+            "ChargePoint",
+            700012429
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:42, 20:12)",
+        [
+            "Midtown Animal Hospital",
+            700019412
+        ]
+    ],
+    [
+        "Stay at ChargePoint",
+        "(20:32, 22:10)",
+        [
+            "ChargePoint",
+            700012429
+        ]
+    ],
+    [
+        "Stay at ChargePoint.",
+        "(22:25, 23:40)",
+        [
+            "ChargePoint",
+            700012429
+        ]
+    ],
+    [
+        "Stay at ChargePoint;",
+        "(23:35, 23:59)",
+        [
+            "Chipotle",
+            700008432
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chez Jacqueline",
+            700006248
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(09:00, 09:59)",
+        [
+            "Song’ E Napule",
+            700006253
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(10:34, 11:57)",
+        [
+            "Song’ E Napule",
+            700006253
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 16:04)",
+        [
+            "Villa Mosconi",
+            700006538
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:09, 20:02)",
+        [
+            "Villa Mosconi",
+            700006538
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:02, 23:59)",
+        [
+            "Bar Veloce",
+            700004932
+        ]
+    ],
+    [
+        "Stay in Villa Mosconi.",
+        "(23:50, 23:59)",
+        [
+            "Da Marcella",
+            700009099
+        ]
+    ]
+]

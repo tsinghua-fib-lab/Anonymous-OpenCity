@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - 8th Avenue & West 52nd Street",
+            700007943
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:49)",
+        [
+            "Karaoke Duet 53",
+            700017286
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:21, 15:20)",
+        [
+            "Karaoke Duet 53",
+            700017286
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:52, 17:43)",
+        [
+            "Cascade",
+            700016734
+        ]
+    ],
+    [
+        "Stay at Citi Bike - 8th Avenue & West 52nd Street",
+        "(21:28, 22:53)",
+        [
+            "Cascade",
+            700016734
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "Pick a Bagel",
+            700009214
+        ]
+    ]
+]

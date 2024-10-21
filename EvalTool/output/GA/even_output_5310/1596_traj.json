@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Royal 35 Steakhouse",
+            700011098
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:24)",
+        [
+            "",
+            700013661
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 16:52)",
+        [
+            "Devry College",
+            700006326
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:36, 22:13)",
+        [
+            "",
+            700021728
+        ]
+    ],
+    [
+        "Stay at Royal 35 Steakhouse",
+        "(22:10, 23:45)",
+        [
+            "Citi Bike - East 33rd Street & 5th Avenue",
+            700008044
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:41, 23:59)",
+        [
+            "CVS Pharmacy",
+            700014766
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "UNFCU",
+            700008423
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:23)",
+        [
+            "Sushi Time",
+            700008436
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 14:16)",
+        [
+            "",
+            700010343
+        ]
+    ],
+    [
+        "Personal Development",
+        "(14:49, 16:51)",
+        [
+            "The Palm Restaurant",
+            700006618
+        ]
+    ],
+    [
+        "Social or Leisure Activities",
+        "(16:54, 18:52)",
+        [
+            "The Palm Restaurant",
+            700006618
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:18, 20:48)",
+        [
+            "Subway",
+            700008422
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:09, 23:59)",
+        [
+            "",
+            700000635
+        ]
+    ]
+]

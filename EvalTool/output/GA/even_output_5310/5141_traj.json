@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001652
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:52)",
+        [
+            "Chase",
+            700007373
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:08, 14:30)",
+        [
+            "Yefsi Estiatorio",
+            700017619
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:48, 16:58)",
+        [
+            "Yefsi Estiatorio",
+            700017619
+        ]
+    ],
+    [
+        "Leisure Reading or Gaming",
+        "(17:36, 19:00)",
+        [
+            "Yefsi Estiatorio",
+            700017619
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:10, 23:26)",
+        [
+            "",
+            700000666
+        ]
+    ]
+]

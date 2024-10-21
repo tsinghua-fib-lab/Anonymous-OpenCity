@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Crown Shy",
+            700018346
+        ]
+    ],
+    [
+        "Go for a walk or engage in some light exercise",
+        "(10:00, 11:08)",
+        [
+            "Club A Steakhouse",
+            700030620
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:14, 16:28)",
+        [
+            "",
+            700002246
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:16, 19:56)",
+        [
+            "",
+            700002246
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:20, 21:58)",
+        [
+            "",
+            700002341
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700039226
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:41)",
+        [
+            "",
+            700005983
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:56, 14:09)",
+        [
+            "Juice Press",
+            700009155
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby",
+        "(14:24, 16:06)",
+        [
+            "Juice Press",
+            700009155
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:27, 20:30)",
+        [
+            "Citi Bike",
+            700039222
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:59)",
+        [
+            "Bond Vet",
+            700039225
+        ]
+    ],
+    [
+        "Visit Black Press Coffee.",
+        "(23:12, 23:59)",
+        [
+            "Black Press Coffee",
+            700030617
+        ]
+    ]
+]

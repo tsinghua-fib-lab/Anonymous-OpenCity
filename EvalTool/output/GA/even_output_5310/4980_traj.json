@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700031175
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:16)",
+        [
+            "",
+            700031171
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(13:53, 14:57)",
+        [
+            "Chase",
+            700035372
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(15:19, 16:46)",
+        [
+            "",
+            700000702
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(16:32, 17:54)",
+        [
+            "Chase",
+            700035372
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 20:07)",
+        [
+            "Pig 'N' Whistle On 36th",
+            700006621
+        ]
+    ],
+    [
+        "Stay at Pig 'N' Whistle On 36th",
+        "(20:27, 22:05)",
+        [
+            "Chase",
+            700035372
+        ]
+    ],
+    [
+        "Stay at Pig 'N' Whistle On 36th",
+        "(22:17, 23:54)",
+        [
+            "Chipotle",
+            700011003
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "Chase",
+            700035372
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Redwood Credit Union",
+            700010691
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:58)",
+        [
+            "USPS Fox Plaza",
+            700006147
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 17:44)",
+        [
+            "Project Juice",
+            700004826
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 23:59)",
+        [
+            "Project Juice",
+            700004826
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "Blue Bottle Coffee",
+            700003342
+        ]
+    ]
+]

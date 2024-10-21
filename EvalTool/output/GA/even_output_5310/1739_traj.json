@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "United Nations School",
+            700000040
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 09:51)",
+        [
+            "United Nations School",
+            700000040
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(10:15, 11:50)",
+        [
+            "Mimi's Piano Bar",
+            700014651
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(12:23, 13:56)",
+        [
+            "Mimi's Piano Bar",
+            700014651
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:33, 15:58)",
+        [
+            "",
+            700002319
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:59, 20:31)",
+        [
+            "",
+            700002823
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(22:59, 23:59)",
+        [
+            "",
+            700001253
+        ]
+    ]
+]

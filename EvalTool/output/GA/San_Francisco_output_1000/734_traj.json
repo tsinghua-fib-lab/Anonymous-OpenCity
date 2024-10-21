@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bay Wheels",
+            700010411
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(09:00, 10:20)",
+        [
+            "Bay Wheels",
+            700010411
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(10:50, 12:23)",
+        [
+            "Presidio Theater",
+            700002291
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(12:39, 13:33)",
+        [
+            "Bay Wheels",
+            700010411
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:22, 17:14)",
+        [
+            "Mamacita",
+            700003081
+        ]
+    ],
+    [
+        "Social Time",
+        "(20:03, 22:02)",
+        [
+            "Bay Wheels",
+            700010411
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:59)",
+        [
+            "Mezes Kitchen & Wine Bar",
+            700003082
+        ]
+    ]
+]

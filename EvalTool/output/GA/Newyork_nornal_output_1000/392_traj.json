@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:36)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 15:42)",
+        [
+            "7th Street Burger",
+            700015362
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:24, 20:54)",
+        [
+            "NY Kids Club",
+            700006234
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:54, 22:17)",
+        [
+            "bb.q Chicken",
+            700009137
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:56, 23:59)",
+        [
+            "Coppola's",
+            700008586
+        ]
+    ]
+]

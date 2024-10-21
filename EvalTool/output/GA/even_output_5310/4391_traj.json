@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700037058
+        ]
+    ],
+    [
+        "Wake up, enjoy a leisurely breakfast, and catch up on the news or read a book.",
+        "(09:00, 09:57)",
+        [
+            "",
+            700037058
+        ]
+    ],
+    [
+        "Return to home location",
+        "(10:49, 12:12)",
+        [
+            "",
+            700037064
+        ]
+    ],
+    [
+        "Spend time relaxing and possibly doing some light work or planning for the week ahead.",
+        "(12:34, 14:09)",
+        [
+            "",
+            700037055
+        ]
+    ],
+    [
+        "Visit a local art gallery or museum to appreciate some culture and creativity.",
+        "(14:30, 15:53)",
+        [
+            "Porter House Bar and Grill",
+            700009178
+        ]
+    ],
+    [
+        "Spend some time at a café, relaxing and possibly doing some light work or planning for the week ahead.",
+        "(16:03, 17:39)",
+        [
+            "Equinox",
+            700003468
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:08, 19:17)",
+        [
+            "",
+            700026446
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "",
+            700006014
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030414
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:19)",
+        [
+            "",
+            700030402
+        ]
+    ],
+    [
+        "Relaxing Reading/Watching TV",
+        "(14:24, 15:55)",
+        [
+            "Dntl",
+            700016706
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:18, 20:01)",
+        [
+            "The Flatiron Room",
+            700004872
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:27, 23:20)",
+        [
+            "Mulberry & Vine",
+            700009359
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Patent Pending",
+            700013359
+        ]
+    ]
+]

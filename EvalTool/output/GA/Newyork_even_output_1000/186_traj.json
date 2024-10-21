@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Avis",
+            700009010
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:21)",
+        [
+            "Le Pain Quotidien",
+            700010139
+        ]
+    ],
+    [
+        "Reading, leisurely stroll in the park afterward",
+        "(11:29, 12:34)",
+        [
+            "Le Pain Quotidien",
+            700010139
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:12, 18:10)",
+        [
+            "Hanson Fitness",
+            700017021
+        ]
+    ],
+    [
+        "Dinner Preparation and Evening Relaxation",
+        "(18:28, 20:02)",
+        [
+            "Wells Fargo",
+            700004763
+        ]
+    ],
+    [
+        "You are at Hanson Fitness. It's 20:33 and you can stay here more time.",
+        "(20:33, 22:30)",
+        [
+            "Hanson Fitness",
+            700017021
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "Three Times",
+            700015198
+        ]
+    ]
+]

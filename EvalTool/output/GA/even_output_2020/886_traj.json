@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700013308
+        ]
+    ],
+    [
+        "Go for a walk or light exercise in the park",
+        "(09:00, 10:04)",
+        [
+            "",
+            700013307
+        ]
+    ],
+    [
+        "Spend some time reading or enjoying a hobby.",
+        "(10:52, 12:25)",
+        [
+            "Cafe Lé",
+            700002314
+        ]
+    ],
+    [
+        "Spend some time reading or enjoying a hobby.",
+        "(13:32, 15:08)",
+        [
+            "Cafe Lé",
+            700002314
+        ]
+    ],
+    [
+        "Spend time reading or enjoying a hobby.",
+        "(15:58, 18:04)",
+        [
+            "Cafe Lé",
+            700002314
+        ]
+    ],
+    [
+        "Continue reading or enjoying a hobby",
+        "(17:51, 19:21)",
+        [
+            "Torraku Ramen",
+            700009796
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:16, 21:41)",
+        [
+            "",
+            700013446
+        ]
+    ],
+    [
+        "Stay in Cafe Lé",
+        "(21:36, 23:01)",
+        [
+            "Cafe Lé",
+            700002314
+        ]
+    ],
+    [
+        "Stay in Bay Wheels",
+        "(23:30, 23:59)",
+        [
+            "Bay Wheels",
+            700009442
+        ]
+    ]
+]

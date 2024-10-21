@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Burger King",
+            700003532
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 10:51)",
+        [
+            "Citi Bike - West 37th Street & 5th Avenue",
+            700008217
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:59, 12:34)",
+        [
+            "USPS",
+            700017123
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 17:15)",
+        [
+            "Capital One",
+            700003533
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:35, 22:46)",
+        [
+            "TD Bank",
+            700003534
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "",
+            700003020
+        ]
+    ]
+]

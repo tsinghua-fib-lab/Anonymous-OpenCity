@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rex",
+            700006398
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:29)",
+        [
+            "",
+            700001192
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:44, 13:56)",
+        [
+            "Rex",
+            700006398
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:07, 15:59)",
+        [
+            "Rex",
+            700006398
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(16:06, 17:59)",
+        [
+            "Rex",
+            700006398
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:05, 19:56)",
+        [
+            "Casabianca",
+            700018343
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(20:36, 22:37)",
+        [
+            "Rubby Pizzeria Restaurant",
+            700006397
+        ]
+    ],
+    [
+        "Stay at the current place (Little Italy Pizza) to relax and wind down.",
+        "(23:06, 23:59)",
+        [
+            "The Jin",
+            700008322
+        ]
+    ]
+]

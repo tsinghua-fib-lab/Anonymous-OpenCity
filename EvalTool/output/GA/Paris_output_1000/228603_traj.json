@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "Next activity after breakfast",
+        "(10:00, 11:38)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(11:44, 13:11)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:14, 18:08)",
+        [
+            "",
+            700004896
+        ]
+    ],
+    [
+        "Continue relaxation watching a movie or series.",
+        "(16:17, 17:55)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:01, 23:34)",
+        [
+            "",
+            700068292
+        ]
+    ],
+    [
+        "Continue relaxation at home",
+        "(21:20, 23:26)",
+        [
+            "",
+            700004922
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700004900
+        ]
+    ]
+]

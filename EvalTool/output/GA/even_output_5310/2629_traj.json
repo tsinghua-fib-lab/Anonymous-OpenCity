@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700037637
+        ]
+    ],
+    [
+        "Go for a morning walk",
+        "(10:00, 11:00)",
+        [
+            "",
+            700037638
+        ]
+    ],
+    [
+        "Spend time on a hobby or personal project",
+        "(11:24, 12:59)",
+        [
+            "",
+            700037637
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:27, 19:24)",
+        [
+            "Gregorys Coffee",
+            700020335
+        ]
+    ],
+    [
+        "Dinner and relax",
+        "(18:03, 19:59)",
+        [
+            "",
+            700037637
+        ]
+    ],
+    [
+        "Dinner and relax",
+        "(20:46, 22:08)",
+        [
+            "",
+            700037639
+        ]
+    ],
+    [
+        "Dinner and relax",
+        "(22:43, 23:59)",
+        [
+            "Juice Generation",
+            700020326
+        ]
+    ],
+    [
+        "Watch a late-night movie at home.",
+        "(23:50, 23:59)",
+        [
+            "",
+            700037637
+        ]
+    ]
+]

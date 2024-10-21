@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chase",
+            700024967
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:00, 10:50)",
+        [
+            "Chase",
+            700024967
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:16, 12:47)",
+        [
+            "Chase",
+            700024967
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:15, 15:06)",
+        [
+            "Chase",
+            700024967
+        ]
+    ],
+    [
+        "Afternoon Relaxation/Reading",
+        "(15:26, 17:07)",
+        [
+            "Chase",
+            700024967
+        ]
+    ],
+    [
+        "Afternoon Relaxation/Reading",
+        "(17:27, 18:41)",
+        [
+            "Daniello's",
+            700014652
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:59, 22:52)",
+        [
+            "Dunkin'",
+            700014649
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:23)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Reading or Learning Time",
+        "(11:17, 13:09)",
+        [
+            "CitiBike Station",
+            700007611
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 15:17)",
+        [
+            "",
+            700011175
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:18, 22:37)",
+        [
+            "Patrizia's",
+            700021516
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(20:58, 23:06)",
+        [
+            "Citi Bike - East 25th Street & 2nd Avenue",
+            700008039
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "Firecracker Wings",
+            700023829
+        ]
+    ]
+]

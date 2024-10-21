@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dirt Candy",
+            700008972
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:51)",
+        [
+            "",
+            700003209
+        ]
+    ],
+    [
+        "Preparation",
+        "(15:37, 17:16)",
+        [
+            "Dirt Candy",
+            700008972
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 19:14)",
+        [
+            "Barrio Chino",
+            700007397
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "Sunday to Sunday",
+            700007493
+        ]
+    ]
+]

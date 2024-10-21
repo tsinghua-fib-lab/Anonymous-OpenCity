@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chef Joe's Culinary Salon",
+            700010133
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:30)",
+        [
+            "Duboce Park Cafe",
+            700004210
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:31, 13:10)",
+        [
+            "Duboce Park Cafe",
+            700004210
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:51, 15:22)",
+        [
+            "Duboce Park Cafe",
+            700004210
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:41, 21:06)",
+        [
+            "",
+            700000946
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:47, 20:04)",
+        [
+            "",
+            700009126
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(20:21, 21:51)",
+        [
+            "",
+            700007932
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(22:20, 23:55)",
+        [
+            "",
+            700000949
+        ]
+    ],
+    [
+        "Prepare to sleep",
+        "(23:45, 23:59)",
+        [
+            "",
+            700009121
+        ]
+    ]
+]

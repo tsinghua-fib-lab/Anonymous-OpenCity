@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001015
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 15:04)",
+        [
+            "Jack's Wife Freda",
+            700009484
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:16, 16:46)",
+        [
+            "Sagra Pizza Bar",
+            700023317
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:16, 20:11)",
+        [
+            "",
+            700002960
+        ]
+    ],
+    [
+        "Dinner Preparation & Relaxation",
+        "(18:56, 19:55)",
+        [
+            "",
+            700016612
+        ]
+    ],
+    [
+        "Dinner Preparation & Relaxation",
+        "(20:59, 22:19)",
+        [
+            "Shake Shack",
+            700015698
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "",
+            700016613
+        ]
+    ]
+]

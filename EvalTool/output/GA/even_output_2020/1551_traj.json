@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "EVgo",
+            700013300
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:27)",
+        [
+            "Taxi Stand at Marriott Fisherman's Wharf (along North Point Street)",
+            700009953
+        ]
+    ],
+    [
+        "Stay at Taxi Stand at Marriott Fisherman's Wharf.",
+        "(11:38, 14:05)",
+        [
+            "",
+            700007362
+        ]
+    ],
+    [
+        "Stay at Taxi Stand at Marriott Fisherman's Wharf",
+        "(14:30, 15:56)",
+        [
+            "Hollywood Café",
+            700004694
+        ]
+    ],
+    [
+        "Stay at Taxi Stand at Marriott Fisherman's Wharf.",
+        "(16:11, 17:36)",
+        [
+            "Hollywood Café",
+            700004694
+        ]
+    ],
+    [
+        "Stay at current location.",
+        "(18:26, 21:00)",
+        [
+            "",
+            700001236
+        ]
+    ],
+    [
+        "Stay at Hollywood Café",
+        "(20:30, 21:52)",
+        [
+            "Hollywood Café",
+            700004694
+        ]
+    ],
+    [
+        "Stay at Hollywood Café",
+        "(22:33, 23:24)",
+        [
+            "Sushi GoGo",
+            700010261
+        ]
+    ],
+    [
+        "Stay at Hollywood Café",
+        "(23:46, 23:59)",
+        [
+            "Hollywood Café",
+            700004694
+        ]
+    ]
+]

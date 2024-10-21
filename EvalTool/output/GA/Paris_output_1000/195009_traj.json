@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700062591
+        ]
+    ],
+    [
+        "Next activity after breakfast",
+        "(10:00, 11:40)",
+        [
+            "Café Leone",
+            700034768
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(11:44, 13:15)",
+        [
+            "Café Leone",
+            700034768
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:14, 16:57)",
+        [
+            "",
+            700002411
+        ]
+    ],
+    [
+        "Continue relaxation watching a movie or series.",
+        "(16:17, 17:38)",
+        [
+            "Café Leone",
+            700034768
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:01, 22:49)",
+        [
+            "",
+            700065647
+        ]
+    ],
+    [
+        "Continue the leisure activity",
+        "(21:20, 23:15)",
+        [
+            "",
+            700015265
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700060900
+        ]
+    ]
+]

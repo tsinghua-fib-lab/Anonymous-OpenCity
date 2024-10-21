@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "York Road Estate",
+            700011813
+        ]
+    ],
+    [
+        "Relax and Read",
+        "(09:00, 10:05)",
+        [
+            "York Road Estate",
+            700011813
+        ]
+    ],
+    [
+        "Relax and Read",
+        "(10:08, 11:58)",
+        [
+            "York Road Estate",
+            700011813
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:46, 14:15)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "Dinner and Family Time",
+        "(18:14, 20:08)",
+        [
+            "York Road Estate",
+            700011813
+        ]
+    ],
+    [
+        "Post-Dinner Relaxation",
+        "(20:46, 22:20)",
+        [
+            "York Road Estate",
+            700011813
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:05, 23:59)",
+        [
+            "",
+            700067442
+        ]
+    ]
+]

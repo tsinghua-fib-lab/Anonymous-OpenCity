@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010479
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:21)",
+        [
+            "Vive La Tarte",
+            700006197
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:16, 14:02)",
+        [
+            "Patxi's Pizza",
+            700003208
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:32, 16:28)",
+        [
+            "Easy Breezy",
+            700003839
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:49, 21:19)",
+        [
+            "Chez Marius",
+            700001755
+        ]
+    ],
+    [
+        "Watch TV or Movie",
+        "(21:28, 22:23)",
+        [
+            "Patxi's Pizza",
+            700003208
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(22:40, 23:49)",
+        [
+            "Pixie Hall Studios",
+            700001776
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "Noe Valley Station",
+            700000393
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Maxine Hall Health Center",
+            700011008
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:24)",
+        [
+            "",
+            700011009
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:00, 19:05)",
+        [
+            "Bay Wheels",
+            700012547
+        ]
+    ],
+    [
+        "Errands or Light Chores",
+        "(17:24, 19:33)",
+        [
+            "Maxine Hall Health Center",
+            700011008
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:10, 22:28)",
+        [
+            "",
+            700005597
+        ]
+    ],
+    [
+        "Errands or Light Chores",
+        "(22:59, 23:59)",
+        [
+            "Maxine Hall Health Center",
+            700011008
+        ]
+    ]
+]

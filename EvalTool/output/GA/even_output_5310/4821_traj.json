@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Alphabet Fresh Pizza",
+            700005168
+        ]
+    ],
+    [
+        "Breakfast at Alphabet Fresh Pizza",
+        "(10:00, 11:10)",
+        [
+            "",
+            700020198
+        ]
+    ],
+    [
+        "Go for a morning jog or walk in the park",
+        "(11:54, 12:04)",
+        [
+            "",
+            700020195
+        ]
+    ],
+    [
+        "Go for a morning jog or walk in the park",
+        "(12:52, 14:02)",
+        [
+            "",
+            700002636
+        ]
+    ],
+    [
+        "Go for a morning jog or walk in the park",
+        "(14:27, 15:27)",
+        [
+            "",
+            700020217
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 18:44)",
+        [
+            "Cafe Social 68",
+            700003347
+        ]
+    ],
+    [
+        "Winding down with a movie or TV show at home",
+        "(21:43, 23:03)",
+        [
+            "Sing Sing",
+            700014756
+        ]
+    ],
+    [
+        "Wind down with a movie or TV show at home.",
+        "(23:45, 23:59)",
+        [
+            "Sing Sing",
+            700014756
+        ]
+    ]
+]

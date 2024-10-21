@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700004793
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:48)",
+        [
+            "",
+            700025352
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(15:25, 17:01)",
+        [
+            "Cafe Integral",
+            700009626
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:33, 19:04)",
+        [
+            "Little Rascal",
+            700026833
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:08, 21:00)",
+        [
+            "Little Italy",
+            700025363
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:57, 23:59)",
+        [
+            "Black Seed Bagels",
+            700010435
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:53, 23:59)",
+        [
+            "Nom Wah Nolita",
+            700004792
+        ]
+    ]
+]

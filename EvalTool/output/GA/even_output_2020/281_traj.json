@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:40)",
+        [
+            "Black Magic Voodoo Lounge",
+            700004971
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(11:27, 13:20)",
+        [
+            "Cafe Lé",
+            700002314
+        ]
+    ],
+    [
+        "Next activity after brunch with friends",
+        "(14:05, 16:19)",
+        [
+            "Cafe Lé",
+            700002314
+        ]
+    ],
+    [
+        "Next activity after brunch with friends",
+        "(16:50, 18:30)",
+        [
+            "Cafe Lé",
+            700002314
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:12, 23:59)",
+        [
+            "",
+            700013308
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 23:03)",
+        [
+            "Kui Shin Bo 2",
+            700004973
+        ]
+    ],
+    [
+        "Evening Relaxation & Planning for the Week",
+        "(22:56, 23:59)",
+        [
+            "",
+            700013308
+        ]
+    ]
+]

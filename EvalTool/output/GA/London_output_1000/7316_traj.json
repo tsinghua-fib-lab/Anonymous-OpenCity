@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wharton Cottages",
+            700012020
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:24)",
+        [
+            "Wharton Cottages",
+            700012020
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(11:53, 13:13)",
+        [
+            "Wharton Cottages",
+            700012020
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 18:49)",
+        [
+            "",
+            700025017
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 18:19)",
+        [
+            "",
+            700006872
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:51, 23:59)",
+        [
+            "",
+            700001363
+        ]
+    ],
+    [
+        "Next activity after current time",
+        "(23:11, 23:59)",
+        [
+            "",
+            700006872
+        ]
+    ]
+]

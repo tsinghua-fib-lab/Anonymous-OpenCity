@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mastro's",
+            700020845
+        ]
+    ],
+    [
+        "Next, proceed to Outdoor Exercise or Sports Activity.",
+        "(09:00, 10:35)",
+        [
+            "",
+            700008628
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping",
+        "(11:03, 12:35)",
+        [
+            "Magnolia Bakery",
+            700026637
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping from Mastro's.",
+        "(13:12, 15:02)",
+        [
+            "Santander",
+            700026511
+        ]
+    ],
+    [
+        "Proceed to Creative Hobby or Project Time.",
+        "(14:56, 16:53)",
+        [
+            "Santander",
+            700026511
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 19:09)",
+        [
+            "Ted's Montana Grill",
+            700009159
+        ]
+    ],
+    [
+        "Outdoor Exercise or Sports Activity",
+        "(21:26, 22:31)",
+        [
+            "Santander",
+            700026511
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Starbucks",
+            700026514
+        ]
+    ]
+]

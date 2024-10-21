@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "Le Pain Quotidien",
+            700010107
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(08:00, 09:22)",
+        [
+            "Le Pain Quotidien",
+            700010107
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:14, 11:59)",
+        [
+            "Le Pain Quotidien",
+            700010107
+        ]
+    ],
+    [
+        "Leisure or Hobby Time",
+        "(12:12, 13:38)",
+        [
+            "Pepone Café",
+            700027873
+        ]
+    ],
+    [
+        "Continue Leisure or Hobby Time",
+        "(13:46, 15:24)",
+        [
+            "Le Pain Quotidien",
+            700010107
+        ]
+    ],
+    [
+        "Lunch",
+        "(15:56, 17:28)",
+        [
+            "",
+            700002175
+        ]
+    ],
+    [
+        "Continue Leisure or Hobby Time",
+        "(18:01, 19:15)",
+        [
+            "Bibiche",
+            700055611
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:03, 23:25)",
+        [
+            "Pharmacie du Moulin",
+            700002947
+        ]
+    ]
+]

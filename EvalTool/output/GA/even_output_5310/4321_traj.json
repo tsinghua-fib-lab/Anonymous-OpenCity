@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002580
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:01)",
+        [
+            "Asia Roma",
+            700019722
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 16:54)",
+        [
+            "Tasty Dumpling",
+            700011016
+        ]
+    ],
+    [
+        "Watch a couple of episodes of a favorite TV show or enjoy a movie",
+        "(14:09, 16:10)",
+        [
+            "",
+            700002580
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:33, 21:52)",
+        [
+            "",
+            700001273
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:59, 23:55)",
+        [
+            "",
+            700002946
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(23:58, 23:59)",
+        [
+            "",
+            700002580
+        ]
+    ]
+]

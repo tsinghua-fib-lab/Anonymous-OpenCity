@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bay Wheels",
+            700010693
+        ]
+    ],
+    [
+        "Go for a walk or bike ride in a nearby park to enjoy the fresh air and some light exercise.",
+        "(09:00, 10:20)",
+        [
+            "",
+            700011029
+        ]
+    ],
+    [
+        "Go for a walk or bike ride in a nearby park to enjoy the fresh air and some light exercise.",
+        "(10:47, 12:12)",
+        [
+            "Mikado Sushi",
+            700004058
+        ]
+    ],
+    [
+        "1:00 PM - 3:00 PM",
+        "(12:30, 13:57)",
+        [
+            "Mikado Sushi",
+            700004058
+        ]
+    ],
+    [
+        "Stay at Jade Cafe to relax and enjoy the environment.",
+        "(14:13, 15:36)",
+        [
+            "Jade Cafe",
+            700005090
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(15:59, 17:27)",
+        [
+            "Mikado Sushi",
+            700004058
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(18:23, 19:50)",
+        [
+            "Jade Cafe",
+            700005090
+        ]
+    ],
+    [
+        "Afternoon Leisure",
+        "(20:51, 23:01)",
+        [
+            "Jade Cafe",
+            700005090
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:20, 23:59)",
+        [
+            "",
+            700010260
+        ]
+    ]
+]

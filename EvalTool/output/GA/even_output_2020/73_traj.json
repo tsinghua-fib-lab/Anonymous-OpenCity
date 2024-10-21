@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Taishan Specialty",
+            700002028
+        ]
+    ],
+    [
+        "Have breakfast",
+        "(10:00, 11:29)",
+        [
+            "Taishan Specialty",
+            700002028
+        ]
+    ],
+    [
+        "Stay at Taishan Specialty.",
+        "(12:00, 13:24)",
+        [
+            "Walgreens",
+            700000137
+        ]
+    ],
+    [
+        "Stay at Taishan Specialty.",
+        "(14:30, 15:59)",
+        [
+            "Walgreens",
+            700000137
+        ]
+    ],
+    [
+        "Stay at Taishan Specialty",
+        "(17:18, 18:56)",
+        [
+            "Walgreens",
+            700000137
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 21:31)",
+        [
+            "East West Bank",
+            700000631
+        ]
+    ],
+    [
+        "Stay at Taishan Specialty.",
+        "(22:34, 23:59)",
+        [
+            "Taishan Specialty",
+            700002028
+        ]
+    ]
+]

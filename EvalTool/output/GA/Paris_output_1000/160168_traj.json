@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fauve Paris L'abreuvoir",
+            700016124
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:43)",
+        [
+            "Tchaikhana de Boukhara",
+            700017134
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:25, 18:32)",
+        [
+            "Caffé créole",
+            700011107
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:58, 21:43)",
+        [
+            "Fragments",
+            700019814
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:14, 23:59)",
+        [
+            "Fragmentsparis",
+            700026853
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "Beaumarchais - Saint-Gilles",
+            700038710
+        ]
+    ]
+]

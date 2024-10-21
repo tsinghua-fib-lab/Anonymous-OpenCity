@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:50)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:00, 13:04)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 16:31)",
+        [
+            "",
+            700020450
+        ]
+    ],
+    [
+        "Socialize",
+        "(17:09, 18:40)",
+        [
+            "Planet Organic",
+            700021489
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:29, 20:57)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:51)",
+        [
+            "Fitness First",
+            700019570
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Old Bengal Bar",
+            700029330
+        ]
+    ]
+]

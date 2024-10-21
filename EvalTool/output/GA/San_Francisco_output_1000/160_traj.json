@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:33)",
+        [
+            "",
+            700013446
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:27, 13:18)",
+        [
+            "",
+            700013308
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(12:43, 14:07)",
+        [
+            "Cafe Lé",
+            700002314
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(14:12, 15:36)",
+        [
+            "Cafe Lé",
+            700002314
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(16:06, 17:38)",
+        [
+            "Black Magic Voodoo Lounge",
+            700004971
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 23:34)",
+        [
+            "",
+            700013446
+        ]
+    ],
+    [
+        "Evening Out or Social Activity",
+        "(19:54, 20:51)",
+        [
+            "Black Magic Voodoo Lounge",
+            700004971
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "Bobo’s",
+            700013445
+        ]
+    ]
+]

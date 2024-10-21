@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 11:13)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:30, 12:55)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Social Time",
+        "(13:33, 15:35)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:52, 17:30)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:12, 18:47)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(18:23, 19:57)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(20:57, 22:33)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(23:22, 23:59)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ]
+]

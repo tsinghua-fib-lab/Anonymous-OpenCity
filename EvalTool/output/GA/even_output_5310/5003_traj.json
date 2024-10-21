@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "O'Donoghue's",
+            700040424
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:55)",
+        [
+            "The Lambs Club",
+            700003780
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:26, 11:49)",
+        [
+            "The Lambs Club",
+            700003780
+        ]
+    ],
+    [
+        "Exercise",
+        "(12:18, 13:54)",
+        [
+            "The Lambs Club",
+            700003780
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:36, 15:47)",
+        [
+            "Starbucks",
+            700003496
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:38, 18:40)",
+        [
+            "Starbucks",
+            700003496
+        ]
+    ],
+    [
+        "Go to Starbucks",
+        "(18:22, 20:08)",
+        [
+            "Starbucks",
+            700003496
+        ]
+    ],
+    [
+        "Go to Starbucks",
+        "(20:47, 22:08)",
+        [
+            "Starbucks",
+            700003496
+        ]
+    ],
+    [
+        "Leave The Town Hall",
+        "(22:47, 23:38)",
+        [
+            "Starbucks",
+            700003496
+        ]
+    ],
+    [
+        "Stay at The Town Hall",
+        "(23:51, 23:59)",
+        [
+            "",
+            700026590
+        ]
+    ]
+]

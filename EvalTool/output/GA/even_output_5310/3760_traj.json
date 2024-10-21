@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000990
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:39)",
+        [
+            "",
+            700002800
+        ]
+    ],
+    [
+        "Have lunch at a trendy restaurant in the city.",
+        "(11:13, 13:39)",
+        [
+            "",
+            700000880
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:18, 14:50)",
+        [
+            "Hair of the dog",
+            700017607
+        ]
+    ],
+    [
+        "Explore local art galleries or visit a museum.",
+        "(15:41, 17:45)",
+        [
+            "Arlene's Grocery",
+            700005419
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 23:44)",
+        [
+            "Bareburger LES",
+            700016232
+        ]
+    ],
+    [
+        "Stay at Bareburger LES.",
+        "(23:25, 23:59)",
+        [
+            "Bareburger LES",
+            700016232
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001837
+        ]
+    ],
+    [
+        "Leisurely Brunch with Friends",
+        "(10:00, 11:53)",
+        [
+            "",
+            700003195
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:30, 13:41)",
+        [
+            "School for Poetic Computation",
+            700005695
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(16:42, 18:13)",
+        [
+            "School for Poetic Computation",
+            700005695
+        ]
+    ],
+    [
+        "Dinner and Family Time",
+        "(19:04, 20:10)",
+        [
+            "School for Poetic Computation",
+            700005695
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(20:41, 22:08)",
+        [
+            "School for Poetic Computation",
+            700005695
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "",
+            700023558
+        ]
+    ]
+]

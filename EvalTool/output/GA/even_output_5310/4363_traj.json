@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Coopers Craft & Kitchen",
+            700009203
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 11:05)",
+        [
+            "Coopers Craft & Kitchen",
+            700009203
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:59, 13:21)",
+        [
+            "Marufuku Ramen",
+            700041294
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:09, 16:12)",
+        [
+            "Marufuku Ramen",
+            700041294
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:19, 19:32)",
+        [
+            "Sunflower",
+            700004554
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:21, 23:59)",
+        [
+            "J-Spec",
+            700023244
+        ]
+    ],
+    [
+        "Stay at Coopers Craft & Kitchen.",
+        "(23:27, 23:59)",
+        [
+            "Coopers Craft & Kitchen",
+            700009203
+        ]
+    ]
+]

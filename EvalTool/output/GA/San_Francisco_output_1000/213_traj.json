@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sears Fine Food",
+            700004670
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:34)",
+        [
+            "Bank of America",
+            700000539
+        ]
+    ],
+    [
+        "Next sports/outdoor activities",
+        "(15:08, 16:58)",
+        [
+            "Bank of America",
+            700000539
+        ]
+    ],
+    [
+        "Sports/Outdoor Activities",
+        "(17:32, 18:59)",
+        [
+            "Morton's The Steakhouse",
+            700005814
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:45, 22:57)",
+        [
+            "Bank of America",
+            700000539
+        ]
+    ],
+    [
+        "Stay here",
+        "(23:41, 23:59)",
+        [
+            "Fanoos",
+            700003103
+        ]
+    ]
+]

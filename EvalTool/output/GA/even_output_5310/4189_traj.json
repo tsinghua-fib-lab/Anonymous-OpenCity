@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gemma",
+            700025752
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:59)",
+        [
+            "Sweetgreen",
+            700004722
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:00, 13:13)",
+        [
+            "Gemma",
+            700025752
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:47, 17:37)",
+        [
+            "Rod Rogers Dance Company",
+            700000570
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:50, 20:27)",
+        [
+            "Sweetgreen",
+            700004722
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(21:12, 22:57)",
+        [
+            "Gemma",
+            700025752
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:28, 23:59)",
+        [
+            "Sunday C&C Eatery",
+            700036816
+        ]
+    ]
+]

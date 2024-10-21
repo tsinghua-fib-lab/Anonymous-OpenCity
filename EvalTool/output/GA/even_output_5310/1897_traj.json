@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700009246
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(09:00, 10:07)",
+        [
+            "Starbucks",
+            700009246
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:25, 14:50)",
+        [
+            "",
+            700004039
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:53, 15:31)",
+        [
+            "Carnegie Diner & Cafe",
+            700031409
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:46, 16:49)",
+        [
+            "Times Square Diner & Grill",
+            700006383
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:35, 19:37)",
+        [
+            "Kung Fu Little Steamed Buns",
+            700008850
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:34, 23:59)",
+        [
+            "An'nam",
+            700006534
+        ]
+    ]
+]

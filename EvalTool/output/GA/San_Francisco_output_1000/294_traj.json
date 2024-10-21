@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Metro United Bank",
+            700000524
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:20)",
+        [
+            "Lush Gelato",
+            700003140
+        ]
+    ],
+    [
+        "Cook dinner",
+        "(13:41, 14:53)",
+        [
+            "Metro United Bank",
+            700000524
+        ]
+    ],
+    [
+        "Cook dinner",
+        "(14:57, 15:53)",
+        [
+            "Metro United Bank",
+            700000524
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 22:22)",
+        [
+            "Sidewalk Café",
+            700010409
+        ]
+    ],
+    [
+        "Enjoy dinner at Sidewalk Café.",
+        "(20:41, 22:40)",
+        [
+            "Sidewalk Café",
+            700010409
+        ]
+    ],
+    [
+        "Enjoy dinner at Sidewalk Café.",
+        "(23:41, 23:59)",
+        [
+            "Sidewalk Café",
+            700010409
+        ]
+    ]
+]

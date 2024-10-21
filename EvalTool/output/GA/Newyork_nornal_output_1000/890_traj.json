@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tad’s Steakhouse",
+            700015873
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:08)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ],
+    [
+        "Leisure Reading / Hobby Time",
+        "(10:32, 12:58)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ],
+    [
+        "Leisure Reading / Hobby Time",
+        "(13:39, 15:16)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:49, 17:02)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(16:55, 17:52)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:09, 23:02)",
+        [
+            "",
+            700013861
+        ]
+    ],
+    [
+        "Dinner and Prepare for the Week",
+        "(21:52, 23:59)",
+        [
+            "Winter Village",
+            700008515
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:38, 23:59)",
+        [
+            "Sweetgreen",
+            700040271
+        ]
+    ]
+]

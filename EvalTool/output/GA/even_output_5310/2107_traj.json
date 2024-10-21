@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - West End Ave / W 60 St",
+            700018679
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:03)",
+        [
+            "The Riverside School for Makers and Artists",
+            700020221
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:58, 14:11)",
+        [
+            "Starbucks",
+            700018337
+        ]
+    ],
+    [
+        "Continue Leisure Reading or Hobbies",
+        "(14:03, 16:08)",
+        [
+            "Citi Bike - West End Ave / W 60 St",
+            700018679
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:02, 17:05)",
+        [
+            "Citi Bike - West End Ave / W 60 St",
+            700018679
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:51, 21:09)",
+        [
+            "",
+            700019072
+        ]
+    ],
+    [
+        "Evening Wind Down & Reflection",
+        "(23:44, 23:59)",
+        [
+            "Manhattan Movement & Arts Center",
+            700015975
+        ]
+    ]
+]

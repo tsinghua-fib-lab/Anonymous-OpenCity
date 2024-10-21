@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Le Disque Bleu",
+            700006952
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:52)",
+        [
+            "",
+            700041052
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:34, 18:51)",
+        [
+            "",
+            700044578
+        ]
+    ],
+    [
+        "Prepare and have dinner, maybe trying out a new recipe or enjoying takeout.",
+        "(17:31, 19:07)",
+        [
+            "Le Disque Bleu",
+            700006952
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:54, 20:58)",
+        [
+            "Palais d'Istanbul",
+            700008509
+        ]
+    ],
+    [
+        "Prepare for the next day using your current surroundings.",
+        "(23:55, 23:59)",
+        [
+            "",
+            700041048
+        ]
+    ]
+]

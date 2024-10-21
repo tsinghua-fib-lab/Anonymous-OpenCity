@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Steam House",
+            700019761
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:05)",
+        [
+            "Steam House",
+            700019761
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:01, 12:36)",
+        [
+            "S. Wan Cafe",
+            700019762
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:42, 14:03)",
+        [
+            "S. Wan Cafe",
+            700019762
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 16:41)",
+        [
+            "",
+            700024248
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:20, 18:56)",
+        [
+            "Steam House",
+            700019761
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:44, 21:21)",
+        [
+            "S. Wan Cafe",
+            700019762
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:50, 23:59)",
+        [
+            "",
+            700024248
+        ]
+    ]
+]

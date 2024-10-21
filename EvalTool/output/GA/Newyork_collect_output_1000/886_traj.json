@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:08)",
+        [
+            "",
+            700002113
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:26, 16:25)",
+        [
+            "",
+            700017443
+        ]
+    ],
+    [
+        "Lunch and Leisure Time",
+        "(13:01, 14:30)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(15:17, 17:04)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:18, 19:00)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(19:15, 20:39)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(21:31, 23:02)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(23:15, 23:59)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ]
+]

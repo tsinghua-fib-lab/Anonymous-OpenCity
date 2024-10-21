@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:03)",
+        [
+            "Wagamama",
+            700017674
+        ]
+    ],
+    [
+        "Have lunch and catch up with friends or family.",
+        "(12:25, 13:50)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Have lunch and catch up with friends or family.",
+        "(14:18, 15:41)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(16:15, 17:41)",
+        [
+            "Newton Street",
+            700020796
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 23:59)",
+        [
+            "",
+            700006545
+        ]
+    ],
+    [
+        "Stay at Canberra Dental Practice",
+        "(22:41, 23:59)",
+        [
+            "",
+            700023876
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:32)",
+        [
+            "",
+            700023758
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(12:51, 13:55)",
+        [
+            "Dolphin Square Fitness Club",
+            700003511
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 19:49)",
+        [
+            "",
+            700003721
+        ]
+    ],
+    [
+        "Evening Leisure Activities",
+        "(20:34, 22:11)",
+        [
+            "",
+            700023758
+        ]
+    ],
+    [
+        "Evening Leisure Activities",
+        "(22:53, 23:59)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ]
+]

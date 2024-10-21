@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002503
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:38)",
+        [
+            "Citibank",
+            700006021
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:57, 12:25)",
+        [
+            "Citibank",
+            700006021
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(12:57, 14:01)",
+        [
+            "Citibank",
+            700006021
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(14:30, 15:51)",
+        [
+            "Citibank",
+            700006021
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(16:36, 17:58)",
+        [
+            "Citibank",
+            700006021
+        ]
+    ],
+    [
+        "Dinner and Reflective Evening",
+        "(18:20, 19:52)",
+        [
+            "Citibank",
+            700006021
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 23:59)",
+        [
+            "National Dental",
+            700016570
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:40, 23:59)",
+        [
+            "National Dental",
+            700016570
+        ]
+    ]
+]

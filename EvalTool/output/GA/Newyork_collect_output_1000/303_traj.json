@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:55)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:58, 19:59)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:52, 20:32)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:44, 23:59)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ]
+]

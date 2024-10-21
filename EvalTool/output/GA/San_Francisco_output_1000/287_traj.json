@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The UPS Store",
+            700010555
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:19)",
+        [
+            "",
+            700010680
+        ]
+    ],
+    [
+        "Watch TV shows or a movie",
+        "(13:41, 14:56)",
+        [
+            "The UPS Store",
+            700010555
+        ]
+    ],
+    [
+        "Watch TV shows or a movie",
+        "(14:57, 15:57)",
+        [
+            "The UPS Store",
+            700010555
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 20:04)",
+        [
+            "Bay Wheels",
+            700009616
+        ]
+    ],
+    [
+        "Go for coffee at Starbucks.",
+        "(20:41, 22:43)",
+        [
+            "Opera Plaza Cinema",
+            700000019
+        ]
+    ],
+    [
+        "Enjoy coffee at Starbucks.",
+        "(23:41, 23:59)",
+        [
+            "The Eye Institute",
+            700000797
+        ]
+    ]
+]

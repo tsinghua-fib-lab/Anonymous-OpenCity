@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700012864
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:20)",
+        [
+            "Mission Bar",
+            700001064
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:07, 13:30)",
+        [
+            "Mission Bar",
+            700001064
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:12, 17:50)",
+        [
+            "La Corneta",
+            700001065
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:12, 20:23)",
+        [
+            "La Copa Loca",
+            700012863
+        ]
+    ],
+    [
+        "Head to Prairie for some snacks.",
+        "(21:21, 22:56)",
+        [
+            "Limón Rotisserie",
+            700002650
+        ]
+    ],
+    [
+        "Head to Beauty Bar for drinks.",
+        "(23:32, 23:59)",
+        [
+            "Escape From New York Pizza",
+            700001858
+        ]
+    ]
+]

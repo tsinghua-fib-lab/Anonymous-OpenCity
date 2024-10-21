@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - 9th Avenue & West 28th Street",
+            700010574
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:24)",
+        [
+            "",
+            700018500
+        ]
+    ],
+    [
+        "1:30 PM - 3:00 PM: Visit a local art gallery or museum to explore and appreciate culture.",
+        "(14:16, 15:49)",
+        [
+            "Link NYC",
+            700020385
+        ]
+    ],
+    [
+        "Visit a local art gallery or museum to explore and appreciate culture.",
+        "(16:24, 18:03)",
+        [
+            "Uncle Nick's Restaurant",
+            700004352
+        ]
+    ],
+    [
+        "Visit a local art gallery or museum",
+        "(18:55, 20:35)",
+        [
+            "",
+            700020553
+        ]
+    ],
+    [
+        "Head out for an evening walk.",
+        "(20:59, 23:23)",
+        [
+            "Walters",
+            700018643
+        ]
+    ],
+    [
+        "Stay at Walters",
+        "(22:49, 23:59)",
+        [
+            "Walters",
+            700018643
+        ]
+    ]
+]

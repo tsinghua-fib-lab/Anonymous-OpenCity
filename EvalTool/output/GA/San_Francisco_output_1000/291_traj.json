@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008260
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:08)",
+        [
+            "",
+            700000118
+        ]
+    ],
+    [
+        "Catch up on personal hobbies",
+        "(13:41, 14:59)",
+        [
+            "",
+            700008260
+        ]
+    ],
+    [
+        "Catch up on personal hobbies",
+        "(14:57, 15:56)",
+        [
+            "",
+            700008260
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 21:08)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ],
+    [
+        "Watch a movie at Baccus.",
+        "(20:41, 22:51)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ],
+    [
+        "Enjoy dinner at Baccus.",
+        "(23:41, 23:59)",
+        [
+            "Baccus",
+            700001595
+        ]
+    ]
+]

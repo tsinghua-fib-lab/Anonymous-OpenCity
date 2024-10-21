@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "He Xie Grocery Store",
+            700016815
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:31)",
+        [
+            "Kopitiam Malaysian Coffee",
+            700016585
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:06, 17:24)",
+        [
+            "Kopitiam Malaysian Coffee",
+            700016585
+        ]
+    ],
+    [
+        "Wind down the day with some light reading or meditation.",
+        "(20:15, 21:51)",
+        [
+            "Kopitiam Malaysian Coffee",
+            700016585
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:59)",
+        [
+            "",
+            700023652
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "Jajaja Plantas Mexicanas",
+            700014784
+        ]
+    ]
+]

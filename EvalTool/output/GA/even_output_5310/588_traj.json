@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Goethe Institut",
+            700006178
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:01)",
+        [
+            "Bar Jamón",
+            700006180
+        ]
+    ],
+    [
+        "Watch a movie or TV show",
+        "(16:03, 17:42)",
+        [
+            "Pierre Loti",
+            700009384
+        ]
+    ],
+    [
+        "Prepare an early dinner",
+        "(18:22, 20:00)",
+        [
+            "Pierre Loti",
+            700009384
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:07, 23:11)",
+        [
+            "L’Americana",
+            700039654
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(23:23, 23:59)",
+        [
+            "Casa Mono",
+            700006182
+        ]
+    ]
+]

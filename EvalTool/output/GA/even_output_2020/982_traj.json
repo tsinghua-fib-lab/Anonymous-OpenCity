@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "El Lopo",
+            700001120
+        ]
+    ],
+    [
+        "Have lunch at a favorite restaurant or café.",
+        "(10:00, 10:52)",
+        [
+            "Aicha",
+            700001119
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:48, 13:00)",
+        [
+            "Providence",
+            700001118
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:21, 19:43)",
+        [
+            "Juniper",
+            700003199
+        ]
+    ],
+    [
+        "Attend a sports event or play a game of tennis with friends.",
+        "(18:18, 19:54)",
+        [
+            "El Lopo",
+            700001120
+        ]
+    ],
+    [
+        "Relax at home and catch up on a series or movie.",
+        "(18:58, 20:25)",
+        [
+            "El Lopo",
+            700001120
+        ]
+    ],
+    [
+        "Relax at home and catch up on a series or movie.",
+        "(20:30, 21:51)",
+        [
+            "El Lopo",
+            700001120
+        ]
+    ],
+    [
+        "Relax at home and catch up on a series or movie.",
+        "(22:50, 23:59)",
+        [
+            "El Lopo",
+            700001120
+        ]
+    ]
+]

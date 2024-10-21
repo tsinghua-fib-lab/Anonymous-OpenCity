@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030397
+        ]
+    ],
+    [
+        "Engage in Outdoor Activity",
+        "(09:00, 10:30)",
+        [
+            "",
+            700019340
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:14, 14:39)",
+        [
+            "Cafe 53",
+            700015178
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 16:03)",
+        [
+            "Apple Bank",
+            700005936
+        ]
+    ],
+    [
+        "Personal Project or Hobby Time",
+        "(16:53, 18:10)",
+        [
+            "",
+            700030397
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:33, 19:59)",
+        [
+            "",
+            700030397
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:45, 22:10)",
+        [
+            "",
+            700030397
+        ]
+    ],
+    [
+        "Next activity after completing a task.",
+        "(22:48, 23:59)",
+        [
+            "",
+            700030397
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030392
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:36)",
+        [
+            "",
+            700030416
+        ]
+    ],
+    [
+        "Lunch with friends or family.",
+        "(13:14, 14:34)",
+        [
+            "Terra Blues",
+            700025816
+        ]
+    ],
+    [
+        "Lunch with friends or family.",
+        "(15:04, 16:24)",
+        [
+            "Terra Blues",
+            700025816
+        ]
+    ],
+    [
+        "Go out for a fun afternoon activity.",
+        "(16:56, 18:32)",
+        [
+            "Terra Blues",
+            700025816
+        ]
+    ],
+    [
+        "Go out for a fun afternoon activity",
+        "(19:16, 20:38)",
+        [
+            "Terra Blues",
+            700025816
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:43, 23:59)",
+        [
+            "The Malt House",
+            700011962
+        ]
+    ]
+]

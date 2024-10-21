@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "El Pote Español",
+            700006708
+        ]
+    ],
+    [
+        "Go for a morning walk or jog in a nearby park.",
+        "(09:00, 10:06)",
+        [
+            "Sachi",
+            700006456
+        ]
+    ],
+    [
+        "Read a book or catch up on a favorite podcast.",
+        "(11:00, 12:21)",
+        [
+            "",
+            700006449
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:39, 17:49)",
+        [
+            "",
+            700011030
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:54, 21:34)",
+        [
+            "Six Happiness",
+            700017843
+        ]
+    ],
+    [
+        "Next place after relaxing at home.",
+        "(22:16, 23:46)",
+        [
+            "Townhouse Diner",
+            700006707
+        ]
+    ],
+    [
+        "Next place after visiting Townhouse Diner.",
+        "(23:55, 23:59)",
+        [
+            "The Bravest",
+            700017771
+        ]
+    ]
+]

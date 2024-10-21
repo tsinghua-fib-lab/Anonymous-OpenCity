@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 11:05)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:08, 12:37)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:22, 17:47)",
+        [
+            "",
+            700022517
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(19:03, 20:36)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Go to ZLS BBQ for a late-night meal",
+        "(21:22, 22:43)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ]
+]

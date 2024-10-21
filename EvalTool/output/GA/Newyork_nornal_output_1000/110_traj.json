@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Caffè Panna",
+            700021859
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:01)",
+        [
+            "Caffè Panna",
+            700021859
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:03, 14:04)",
+        [
+            "Caffè Panna",
+            700021859
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:27, 16:07)",
+        [
+            "Caffè Panna",
+            700021859
+        ]
+    ],
+    [
+        "Connect with Friends/Family",
+        "(16:31, 18:03)",
+        [
+            "Caffè Panna",
+            700021859
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:34, 20:03)",
+        [
+            "Friend of a Farmer",
+            700010270
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(20:23, 22:01)",
+        [
+            "Friend of a Farmer",
+            700010270
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:47, 23:59)",
+        [
+            "Daily Provisions",
+            700013079
+        ]
+    ]
+]

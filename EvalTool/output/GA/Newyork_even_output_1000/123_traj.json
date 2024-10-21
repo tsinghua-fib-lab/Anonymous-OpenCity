@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "E14 Medical Arts",
+            700018147
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:38)",
+        [
+            "Pila de Boba",
+            700038123
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:13, 17:30)",
+        [
+            "Panda Express",
+            700005924
+        ]
+    ],
+    [
+        "Evening Wind Down & TV",
+        "(20:34, 22:09)",
+        [
+            "Panda Express",
+            700005924
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:10, 23:59)",
+        [
+            "Chick-N-Smash",
+            700005925
+        ]
+    ]
+]

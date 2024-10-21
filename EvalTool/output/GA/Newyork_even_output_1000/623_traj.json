@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001786
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:52)",
+        [
+            "",
+            700001462
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 20:41)",
+        [
+            "",
+            700002155
+        ]
+    ],
+    [
+        "Prepare Dinner and Cook",
+        "(18:28, 20:06)",
+        [
+            "",
+            700031266
+        ]
+    ],
+    [
+        "Prepare Dinner and Cook",
+        "(20:38, 22:11)",
+        [
+            "Excuse my french",
+            700017476
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:05, 23:59)",
+        [
+            "",
+            700017605
+        ]
+    ],
+    [
+        "Sleep or relax at Daytripper NYC.",
+        "(23:39, 23:59)",
+        [
+            "Top Hops Beer Shop",
+            700007491
+        ]
+    ]
+]

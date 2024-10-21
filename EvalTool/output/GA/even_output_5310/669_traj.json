@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rite Aid",
+            700003959
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:35)",
+        [
+            "Rite Aid",
+            700003959
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:31, 17:07)",
+        [
+            "",
+            700020039
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:22, 20:12)",
+        [
+            "Rehoboth Spa Lounge",
+            700006393
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:15, 23:43)",
+        [
+            "",
+            700003192
+        ]
+    ],
+    [
+        "Current Place: Rite Aid, Stay Time: 1 hour 30 minutes",
+        "(23:38, 23:59)",
+        [
+            "Rehoboth Spa Lounge",
+            700006393
+        ]
+    ]
+]

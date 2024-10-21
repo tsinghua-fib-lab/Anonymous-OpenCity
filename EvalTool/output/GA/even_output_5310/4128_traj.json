@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fiat Café",
+            700009358
+        ]
+    ],
+    [
+        "Go for a walk or light exercise in a nearby park.",
+        "(10:00, 11:08)",
+        [
+            "",
+            700001528
+        ]
+    ],
+    [
+        "Go for a walk or light exercise in a nearby park.",
+        "(11:14, 12:11)",
+        [
+            "Fiat Café",
+            700009358
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 17:27)",
+        [
+            "",
+            700003210
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:19, 20:09)",
+        [
+            "CAVA",
+            700016047
+        ]
+    ],
+    [
+        "Stay at the current place",
+        "(20:17, 21:57)",
+        [
+            "Fiat Café",
+            700009358
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:20, 23:59)",
+        [
+            "Lombardi's Pizza",
+            700003345
+        ]
+    ]
+]

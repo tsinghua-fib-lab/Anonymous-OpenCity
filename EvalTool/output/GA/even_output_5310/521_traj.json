@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700022211
+        ]
+    ],
+    [
+        "You go to Starbucks.",
+        "(10:00, 10:58)",
+        [
+            "Starbucks",
+            700022211
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 15:53)",
+        [
+            "",
+            700020625
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 20:24)",
+        [
+            "Agora",
+            700020620
+        ]
+    ],
+    [
+        "go to USPS",
+        "(23:52, 23:59)",
+        [
+            "Anita La Mamma del Gelato",
+            700024251
+        ]
+    ]
+]

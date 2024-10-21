@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "M459 Manhattan International High School",
+            700000284
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:08)",
+        [
+            "Bethany Memorial Church",
+            700000275
+        ]
+    ],
+    [
+        "Catch Up with Family/Friends",
+        "(13:21, 15:23)",
+        [
+            "Bethany Memorial Church",
+            700000275
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:52, 19:53)",
+        [
+            "Hui Restaurant & Bar",
+            700038658
+        ]
+    ],
+    [
+        "Stay at Bethany Memorial Church",
+        "(21:28, 23:59)",
+        [
+            "Hui Restaurant & Bar",
+            700038658
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "Valley National Bank",
+            700014056
+        ]
+    ]
+]

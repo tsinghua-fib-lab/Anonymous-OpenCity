@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Wharton Cottages",
+            700012020
+        ]
+    ],
+    [
+        "Wake Up & Leisure Time",
+        "(09:00, 10:02)",
+        [
+            "Wharton Cottages",
+            700012020
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:09, 11:38)",
+        [
+            "Kings",
+            700079502
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:30, 12:51)",
+        [
+            "",
+            700001363
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:03, 18:24)",
+        [
+            "",
+            700025017
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(18:52, 20:07)",
+        [
+            "Kings",
+            700079502
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:14, 23:59)",
+        [
+            "",
+            700012127
+        ]
+    ]
+]

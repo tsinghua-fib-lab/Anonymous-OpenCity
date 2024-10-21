@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Joe's Pizza",
+            700020219
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:54)",
+        [
+            "Starbucks",
+            700003979
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:28, 14:46)",
+        [
+            "Starbucks",
+            700003979
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(18:21, 19:49)",
+        [
+            "Starbucks",
+            700003979
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(20:29, 22:00)",
+        [
+            "",
+            700035008
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:41, 23:59)",
+        [
+            "Bank of America",
+            700003977
+        ]
+    ]
+]

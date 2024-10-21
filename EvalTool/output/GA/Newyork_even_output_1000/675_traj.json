@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Murray St & West St",
+            700008143
+        ]
+    ],
+    [
+        "Workout or Outdoor Activity",
+        "(10:00, 11:36)",
+        [
+            "",
+            700036792
+        ]
+    ],
+    [
+        "Workout or Outdoor Activity",
+        "(12:14, 13:24)",
+        [
+            "Citi Bike - Murray St & West St",
+            700008143
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(14:42, 16:07)",
+        [
+            "Citi Bike - Murray St & West St",
+            700008143
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:28, 18:32)",
+        [
+            "",
+            700019877
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:58, 21:40)",
+        [
+            "",
+            700036795
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:34, 23:59)",
+        [
+            "",
+            700036788
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "USPS",
+            700005986
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:40)",
+        [
+            "Seamore's",
+            700021736
+        ]
+    ],
+    [
+        "Relax and Read or Watch TV",
+        "(12:26, 13:53)",
+        [
+            "pH7",
+            700040570
+        ]
+    ],
+    [
+        "Engage in a Hobby or Craft",
+        "(14:12, 15:39)",
+        [
+            "pH7",
+            700040570
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 21:04)",
+        [
+            "EJ's Luncheonette",
+            700009201
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:52, 23:59)",
+        [
+            "",
+            700000925
+        ]
+    ]
+]

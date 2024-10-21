@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Studio 151",
+            700017656
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:40)",
+        [
+            "CrossFit East River",
+            700018155
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(12:49, 14:10)",
+        [
+            "CrossFit East River",
+            700018155
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 19:41)",
+        [
+            "",
+            700002297
+        ]
+    ],
+    [
+        "Dinner and TV Time",
+        "(19:27, 20:50)",
+        [
+            "San Loco",
+            700011084
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 22:46)",
+        [
+            "Summit",
+            700021553
+        ]
+    ],
+    [
+        "Go to Summit",
+        "(22:14, 23:59)",
+        [
+            "Summit",
+            700021553
+        ]
+    ]
+]

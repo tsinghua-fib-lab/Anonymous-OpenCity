@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700013980
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:53)",
+        [
+            "Dento Piano Cafe",
+            700013990
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(14:35, 16:10)",
+        [
+            "",
+            700013987
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(16:50, 17:52)",
+        [
+            "Dento Piano Cafe",
+            700013990
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:46, 19:53)",
+        [
+            "Azucar Lounge",
+            700001885
+        ]
+    ],
+    [
+        "Stay at Dacha",
+        "(20:37, 22:12)",
+        [
+            "",
+            700013978
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:46, 23:59)",
+        [
+            "Normandie Hotel",
+            700004062
+        ]
+    ]
+]

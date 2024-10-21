@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013862
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:24)",
+        [
+            "",
+            700008629
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 18:04)",
+        [
+            "",
+            700007741
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 20:02)",
+        [
+            "Santander",
+            700026511
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:23, 21:19)",
+        [
+            "TD Bank",
+            700026510
+        ]
+    ],
+    [
+        "Evening Wind Down with Reading",
+        "(22:03, 23:22)",
+        [
+            "Chase",
+            700017600
+        ]
+    ],
+    [
+        "Evening Wind Down with Reading",
+        "(23:58, 23:59)",
+        [
+            "Chase",
+            700017600
+        ]
+    ]
+]

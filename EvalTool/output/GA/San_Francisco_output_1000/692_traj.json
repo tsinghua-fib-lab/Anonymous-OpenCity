@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010746
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:55)",
+        [
+            "",
+            700005603
+        ]
+    ],
+    [
+        "Reading or catching up on a favorite podcast",
+        "(14:02, 16:10)",
+        [
+            "Moya Cafe",
+            700001886
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:14, 20:17)",
+        [
+            "Bay Wheels",
+            700010120
+        ]
+    ],
+    [
+        "Reading or catching up on a favorite podcast",
+        "(20:41, 22:07)",
+        [
+            "Moya Cafe",
+            700001886
+        ]
+    ],
+    [
+        "Stay at Your Home and wind down for the day.",
+        "(22:56, 23:59)",
+        [
+            "All Star Cafe",
+            700008119
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001338
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:11)",
+        [
+            "Hao Noodle",
+            700016042
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:44, 13:57)",
+        [
+            "Hao Noodle",
+            700016042
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:07, 16:01)",
+        [
+            "Hao Noodle",
+            700016042
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(16:06, 18:09)",
+        [
+            "Hao Noodle",
+            700016042
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:05, 19:51)",
+        [
+            "Terremoto Coffee",
+            700018620
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(20:36, 22:46)",
+        [
+            "Citibank",
+            700003807
+        ]
+    ],
+    [
+        "Stay at the current place (Caffe Reggio) and enjoy the ambiance.",
+        "(23:06, 23:59)",
+        [
+            "Citi Bike",
+            700008202
+        ]
+    ]
+]

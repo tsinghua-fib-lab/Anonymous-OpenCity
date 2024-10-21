@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Planet Fitness",
+            700008314
+        ]
+    ],
+    [
+        "Enjoy leisurely breakfast with coffee.",
+        "(10:00, 10:50)",
+        [
+            "Planet Fitness",
+            700008314
+        ]
+    ],
+    [
+        "Enjoy leisurely breakfast with coffee",
+        "(11:52, 13:54)",
+        [
+            "Planet Fitness",
+            700008314
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:07, 18:12)",
+        [
+            "Alvin Ailey American Dance Theater",
+            700019874
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 20:32)",
+        [
+            "",
+            700002716
+        ]
+    ],
+    [
+        "Wind down the day by playing board games or chatting with family/friends.",
+        "(21:52, 22:50)",
+        [
+            "",
+            700002716
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:34, 23:59)",
+        [
+            "",
+            700002214
+        ]
+    ]
+]

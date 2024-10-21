@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002440
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:59)",
+        [
+            "Jonty Jacobs",
+            700005290
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:53, 12:56)",
+        [
+            "Jonty Jacobs",
+            700005290
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:29, 14:58)",
+        [
+            "",
+            700001597
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:55, 20:42)",
+        [
+            "",
+            700001763
+        ]
+    ],
+    [
+        "Stay at Jonty Jacobs.",
+        "(19:49, 21:15)",
+        [
+            "Starbucks",
+            700003845
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:05, 22:58)",
+        [
+            "",
+            700000839
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(23:32, 23:59)",
+        [
+            "NYPD 6 PCT",
+            700004365
+        ]
+    ]
+]

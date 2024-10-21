@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chez Édouard",
+            700023373
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:01)",
+        [
+            "Chez Édouard",
+            700023373
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 16:45)",
+        [
+            "Chez Édouard",
+            700023373
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 22:31)",
+        [
+            "Théâtre de l'Athénée - Louis-Jouvet",
+            700004983
+        ]
+    ],
+    [
+        "Stay at Théâtre de l'Athénée - Louis-Jouvet.",
+        "(23:10, 23:59)",
+        [
+            "Paparazzi",
+            700058327
+        ]
+    ]
+]

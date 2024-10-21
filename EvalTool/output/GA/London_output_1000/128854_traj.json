@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:52)",
+        [
+            "Cinnamon Kitchen",
+            700019971
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 13:13)",
+        [
+            "Café Luca",
+            700055102
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:03, 17:56)",
+        [
+            "Mac and Wild",
+            700030294
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:04, 22:03)",
+        [
+            "Enoteca da Luca",
+            700019572
+        ]
+    ]
+]

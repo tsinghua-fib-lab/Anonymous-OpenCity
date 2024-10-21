@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Pennylane Coffee",
+            700006421
+        ]
+    ],
+    [
+        "Exercise Session",
+        "(09:00, 09:51)",
+        [
+            "The Palm Restaurant",
+            700006618
+        ]
+    ],
+    [
+        "Exercise Session",
+        "(10:22, 11:51)",
+        [
+            "The Palm Restaurant",
+            700006618
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:37, 13:58)",
+        [
+            "Herbs thai bistro",
+            700008545
+        ]
+    ],
+    [
+        "Socializing or Errands",
+        "(14:25, 16:18)",
+        [
+            "",
+            700010342
+        ]
+    ],
+    [
+        "Prep for the Week",
+        "(16:55, 18:01)",
+        [
+            "Pennylane Coffee",
+            700006421
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(18:21, 19:53)",
+        [
+            "Pennylane Coffee",
+            700006421
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(20:40, 22:18)",
+        [
+            "",
+            700002253
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(23:09, 23:59)",
+        [
+            "",
+            700002253
+        ]
+    ]
+]

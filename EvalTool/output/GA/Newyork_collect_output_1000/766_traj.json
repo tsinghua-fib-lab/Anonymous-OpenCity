@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:03)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Engage in a hobby or work on a personal project.",
+        "(15:42, 17:38)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:37, 21:39)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Stay at Matto Espresso",
+        "(22:59, 23:54)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ]
+]

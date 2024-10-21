@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Troy",
+            700004117
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:35)",
+        [
+            "Spice Market",
+            700008840
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:44, 14:13)",
+        [
+            "Death By Pizza",
+            700016026
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:21, 16:21)",
+        [
+            "Old Homestead Steakhouse",
+            700007294
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:54, 19:21)",
+        [
+            "Creamline",
+            700010945
+        ]
+    ],
+    [
+        "Dinner & Family Time",
+        "(20:12, 22:06)",
+        [
+            "Troy",
+            700004117
+        ]
+    ],
+    [
+        "Moving to Catch NYC for dinner and family time.",
+        "(21:54, 23:59)",
+        [
+            "Catch NYC",
+            700005696
+        ]
+    ]
+]

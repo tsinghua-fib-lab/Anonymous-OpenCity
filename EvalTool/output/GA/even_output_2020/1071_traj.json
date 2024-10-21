@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "BevMo Parking",
+            700005333
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 11:07)",
+        [
+            "Limoncello",
+            700010262
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:03, 15:27)",
+        [
+            "Limoncello",
+            700010262
+        ]
+    ],
+    [
+        "Participate in a recreational activity.",
+        "(13:59, 15:09)",
+        [
+            "Limoncello",
+            700010262
+        ]
+    ],
+    [
+        "Participate in recreational activity.",
+        "(15:27, 17:23)",
+        [
+            "Limoncello",
+            700010262
+        ]
+    ],
+    [
+        "Stay at Limoncello",
+        "(17:40, 19:16)",
+        [
+            "Limoncello",
+            700010262
+        ]
+    ],
+    [
+        "Stay at Limoncello;",
+        "(20:02, 22:11)",
+        [
+            "Limoncello",
+            700010262
+        ]
+    ],
+    [
+        "Stay at Limoncello.",
+        "(21:55, 23:01)",
+        [
+            "Limoncello",
+            700010262
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:39, 23:59)",
+        [
+            "Trinity Episcopal Church",
+            700000212
+        ]
+    ]
+]

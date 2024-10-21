@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kitchen Paradise",
+            700017584
+        ]
+    ],
+    [
+        "Go for a walk or light exercise from 11:00 AM to 12:00 PM",
+        "(10:00, 10:58)",
+        [
+            "The Elgin",
+            700033654
+        ]
+    ],
+    [
+        "Go for a walk or light exercise from 11:00 AM to 12:00 PM",
+        "(12:03, 13:02)",
+        [
+            "The Elgin",
+            700033654
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 18:37)",
+        [
+            "",
+            700023231
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:32, 21:43)",
+        [
+            "McDonald's",
+            700009804
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "",
+            700019682
+        ]
+    ]
+]

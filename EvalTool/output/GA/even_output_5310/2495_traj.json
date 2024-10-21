@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "EJ's Luncheonette",
+            700009201
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:14)",
+        [
+            "SkinLab",
+            700040086
+        ]
+    ],
+    [
+        "Relax and Read or Watch TV",
+        "(12:26, 13:57)",
+        [
+            "SkinLab",
+            700040086
+        ]
+    ],
+    [
+        "Engage in a Hobby or Craft",
+        "(14:12, 15:52)",
+        [
+            "SkinLab",
+            700040086
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 20:13)",
+        [
+            "",
+            700009480
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:52, 23:59)",
+        [
+            "",
+            700000865
+        ]
+    ]
+]

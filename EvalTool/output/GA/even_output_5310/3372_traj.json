@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700031276
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:26)",
+        [
+            "",
+            700031277
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:25, 16:22)",
+        [
+            "",
+            700031277
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:06, 15:49)",
+        [
+            "Abrons Arts Center",
+            700000470
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(20:23, 22:08)",
+        [
+            "Abrons Arts Center",
+            700000470
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(22:13, 23:59)",
+        [
+            "A. 1. PIZZA SHOP",
+            700019774
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "",
+            700031274
+        ]
+    ]
+]

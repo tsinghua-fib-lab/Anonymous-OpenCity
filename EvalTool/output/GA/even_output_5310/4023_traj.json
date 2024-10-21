@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Little Owl",
+            700008993
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:58)",
+        [
+            "The Little Owl",
+            700008993
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:53, 12:54)",
+        [
+            "The Little Owl",
+            700008993
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(13:29, 14:59)",
+        [
+            "The Little Owl",
+            700008993
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:55, 20:12)",
+        [
+            "",
+            700000803
+        ]
+    ],
+    [
+        "Stay at 787 Coffee.",
+        "(19:49, 20:55)",
+        [
+            "",
+            700000803
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:05, 23:03)",
+        [
+            "",
+            700001532
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(23:32, 23:59)",
+        [
+            "",
+            700000644
+        ]
+    ]
+]

@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001547
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby",
+        "(09:00, 10:38)",
+        [
+            "Citi Bike - East 24th Street & Park Avenue South",
+            700008037
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby",
+        "(11:12, 12:35)",
+        [
+            "Citi Bike - East 24th Street & Park Avenue South",
+            700008037
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby",
+        "(12:37, 14:15)",
+        [
+            "Citi Bike - East 24th Street & Park Avenue South",
+            700008037
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(15:10, 16:32)",
+        [
+            "",
+            700001547
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(17:12, 18:36)",
+        [
+            "",
+            700001547
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(18:42, 20:10)",
+        [
+            "",
+            700001547
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 22:25)",
+        [
+            "Bank of America",
+            700008619
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:50)",
+        [
+            "Park Avenue Summer",
+            700017458
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:50, 23:59)",
+        [
+            "Popular Community Bank",
+            700008617
+        ]
+    ]
+]

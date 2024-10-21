@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dolly Varden",
+            700021892
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:02)",
+        [
+            "Sosa Borella",
+            700007345
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:30, 14:50)",
+        [
+            "Bank of America",
+            700007270
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:05, 16:39)",
+        [
+            "Bank of America",
+            700007270
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:01, 18:40)",
+        [
+            "Russian Samovar Restaurant and Piano Bar",
+            700007787
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:19, 23:59)",
+        [
+            "LinkNYC",
+            700019936
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 23:59)",
+        [
+            "",
+            700018229
+        ]
+    ]
+]

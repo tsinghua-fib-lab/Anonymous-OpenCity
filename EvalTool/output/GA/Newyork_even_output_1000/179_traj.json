@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - University Pl & E 8 St",
+            700021684
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:28)",
+        [
+            "NYU Silver School of Social Work",
+            700004199
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:59, 16:09)",
+        [
+            "Wanpo Tea Shop",
+            700038331
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:53, 16:58)",
+        [
+            "Wanpo Tea Shop",
+            700038331
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 22:57)",
+        [
+            "Pelicana Chicken",
+            700022811
+        ]
+    ],
+    [
+        "Go to Pelicana Chicken",
+        "(20:59, 22:32)",
+        [
+            "Pelicana Chicken",
+            700022811
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "Wanpo Tea Shop",
+            700038331
+        ]
+    ]
+]

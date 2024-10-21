@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "United Nations School",
+            700000040
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:44)",
+        [
+            "NY Grill & Deli",
+            700009173
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:14, 17:01)",
+        [
+            "",
+            700030705
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:40, 20:09)",
+        [
+            "",
+            700030704
+        ]
+    ],
+    [
+        "Late Afternoon Relaxation",
+        "(21:27, 23:59)",
+        [
+            "",
+            700030695
+        ]
+    ],
+    [
+        "Watch a Movie or Play Video Games",
+        "(23:20, 23:59)",
+        [
+            "United Nations School",
+            700000040
+        ]
+    ]
+]

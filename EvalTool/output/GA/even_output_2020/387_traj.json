@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010136
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:19)",
+        [
+            "Wells Fargo",
+            700000855
+        ]
+    ],
+    [
+        "Afternoon Leisure Activities",
+        "(14:00, 14:52)",
+        [
+            "",
+            700010136
+        ]
+    ],
+    [
+        "Afternoon Leisure Activities",
+        "(15:58, 18:06)",
+        [
+            "Wells Fargo",
+            700003213
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:16, 19:42)",
+        [
+            "",
+            700010136
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:18, 21:23)",
+        [
+            "The Castro Animal Hospital",
+            700010817
+        ]
+    ]
+]

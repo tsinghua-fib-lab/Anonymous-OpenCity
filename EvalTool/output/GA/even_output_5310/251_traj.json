@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Duane Reade",
+            700004140
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:20)",
+        [
+            "Blossom Du Jour",
+            700013066
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:56, 17:31)",
+        [
+            "Dalton's",
+            700013062
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:54, 19:25)",
+        [
+            "Mama Mia 44SW",
+            700004139
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 22:30)",
+        [
+            "Gallo Nero",
+            700003850
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(22:08, 23:43)",
+        [
+            "Frisson Espresso 44",
+            700025938
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:28, 23:59)",
+        [
+            "Citi Bike - 9th Avenue & West 45th Street",
+            700007946
+        ]
+    ]
+]

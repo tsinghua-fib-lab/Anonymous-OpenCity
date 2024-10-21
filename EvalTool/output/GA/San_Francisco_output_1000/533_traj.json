@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "First Union Baptist Church",
+            700000310
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 10:52)",
+        [
+            "First Union Baptist Church",
+            700000310
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:13, 12:54)",
+        [
+            "Western Addition Cultural Center",
+            700000433
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:06, 14:58)",
+        [
+            "First Union Baptist Church",
+            700000310
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:53, 17:06)",
+        [
+            "First Union Baptist Church",
+            700000310
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 23:49)",
+        [
+            "",
+            700002890
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:23, 23:59)",
+        [
+            "Salt & Straw",
+            700008621
+        ]
+    ]
+]

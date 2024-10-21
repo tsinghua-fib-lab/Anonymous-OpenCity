@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "NYC Discount Pharmacy",
+            700030624
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:34)",
+        [
+            "Go Noodle",
+            700039313
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:22, 12:54)",
+        [
+            "Amaze",
+            700011528
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(13:30, 15:23)",
+        [
+            "Amaze",
+            700011528
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:01, 20:41)",
+        [
+            "Coco Pizzaria",
+            700039033
+        ]
+    ],
+    [
+        "Sleep and wind down for the night.",
+        "(21:30, 22:54)",
+        [
+            "Coco Pizzaria",
+            700039033
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:25, 23:59)",
+        [
+            "NYC Discount Pharmacy",
+            700030624
+        ]
+    ]
+]

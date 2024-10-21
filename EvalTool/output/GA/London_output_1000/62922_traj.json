@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:05)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:22, 13:08)",
+        [
+            "",
+            700043206
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:35, 16:11)",
+        [
+            "Palace Garden Terrace",
+            700010133
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:12, 22:04)",
+        [
+            "",
+            700009149
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(23:07, 23:59)",
+        [
+            "Notting Hill Farmers' Market",
+            700010761
+        ]
+    ]
+]

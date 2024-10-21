@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Empire Diner",
+            700014303
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:05)",
+        [
+            "Empire Diner",
+            700014303
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(10:15, 11:44)",
+        [
+            "The Half King",
+            700008828
+        ]
+    ],
+    [
+        "Visit a Local Library or Community Center",
+        "(12:23, 13:57)",
+        [
+            "The Half King",
+            700008828
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:33, 15:57)",
+        [
+            "The Half King",
+            700008828
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:59, 20:35)",
+        [
+            "Empire Diner",
+            700014303
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(22:59, 23:59)",
+        [
+            "The Half King",
+            700008828
+        ]
+    ]
+]

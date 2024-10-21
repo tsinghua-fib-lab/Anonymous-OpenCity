@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020144
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:10)",
+        [
+            "Jungle Bird",
+            700004331
+        ]
+    ],
+    [
+        "Outdoor Activity (Walk in the Park)",
+        "(12:03, 13:12)",
+        [
+            "LOULOU",
+            700004335
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 18:41)",
+        [
+            "Rocking Horse Cafe",
+            700004345
+        ]
+    ],
+    [
+        "Spend quality time with family or friends, or engage in your hobby.",
+        "(19:32, 21:11)",
+        [
+            "Rocking Horse Cafe",
+            700004345
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:00, 23:59)",
+        [
+            "Gym & Sports Bar",
+            700018515
+        ]
+    ]
+]

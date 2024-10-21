@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:52)",
+        [
+            "",
+            700014757
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:57, 15:23)",
+        [
+            "Nando's",
+            700012204
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:58, 17:28)",
+        [
+            "",
+            700063207
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:35, 19:35)",
+        [
+            "",
+            700037620
+        ]
+    ],
+    [
+        "Dinner Preparation & Cooking",
+        "(19:19, 20:39)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Dinner Preparation & Cooking",
+        "(20:55, 21:54)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Dinner Preparation & Cooking",
+        "(22:31, 23:59)",
+        [
+            "Burger King",
+            700004086
+        ]
+    ]
+]

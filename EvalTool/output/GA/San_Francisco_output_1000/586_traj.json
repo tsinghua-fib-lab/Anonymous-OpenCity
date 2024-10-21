@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Enter the Cafe",
+            700002280
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:54)",
+        [
+            "Auspicious Clouds | Heavy Fog",
+            700008992
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(11:41, 12:57)",
+        [
+            "Happy Chinese Restaurant",
+            700004232
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:49, 16:56)",
+        [
+            "",
+            700009565
+        ]
+    ],
+    [
+        "Wind Down and Watch TV",
+        "(19:45, 20:52)",
+        [
+            "",
+            700009562
+        ]
+    ],
+    [
+        "Go to Seniore's Pizza",
+        "(21:27, 22:59)",
+        [
+            "Cumberland Chinese School",
+            700000283
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "",
+            700009565
+        ]
+    ]
+]

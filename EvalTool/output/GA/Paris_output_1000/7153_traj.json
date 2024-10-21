@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "Le Pub Saint Michel",
+            700039305
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(08:00, 09:21)",
+        [
+            "Mulberry Street",
+            700010885
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:14, 12:00)",
+        [
+            "Mulberry Street",
+            700010885
+        ]
+    ],
+    [
+        "Leisure or Hobby Time",
+        "(12:12, 13:52)",
+        [
+            "Le Minos",
+            700012305
+        ]
+    ],
+    [
+        "Continue Leisure or Hobby Time",
+        "(13:46, 15:07)",
+        [
+            "Mulberry Street",
+            700010885
+        ]
+    ],
+    [
+        "Wind Down",
+        "(15:56, 17:29)",
+        [
+            "Babil",
+            700060241
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:01, 19:31)",
+        [
+            "Bull's Brothers",
+            700012304
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:03, 23:59)",
+        [
+            "Le Bistrot 27",
+            700012312
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Robofun",
+            700006583
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:33)",
+        [
+            "Manhattan Hunter Science High School",
+            700000301
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 17:44)",
+        [
+            "The Maxine Greene High School for Imaginative Inquiry",
+            700029307
+        ]
+    ],
+    [
+        "Dinner Preparation & Meal",
+        "(18:46, 19:56)",
+        [
+            "",
+            700018462
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:10, 22:21)",
+        [
+            "",
+            700018240
+        ]
+    ]
+]

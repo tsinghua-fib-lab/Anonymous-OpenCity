@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hendrickson's",
+            700036809
+        ]
+    ],
+    [
+        "Wake up and relax",
+        "(10:00, 12:08)",
+        [
+            "Starbucks",
+            700014344
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:41, 14:25)",
+        [
+            "Treadwell Park",
+            700007620
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:56, 16:57)",
+        [
+            "Treadwell Park",
+            700007620
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:19, 21:59)",
+        [
+            "Hendrickson's",
+            700036809
+        ]
+    ],
+    [
+        "Wake up and relax",
+        "(22:35, 23:59)",
+        [
+            "Citi Bike - 1st Avenue & East 62nd Street",
+            700021683
+        ]
+    ]
+]

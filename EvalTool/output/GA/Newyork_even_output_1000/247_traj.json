@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:28)",
+        [
+            "",
+            700001769
+        ]
+    ],
+    [
+        "Take a bike ride to Citi Bike - Perry St & Bleecker St",
+        "(11:29, 14:00)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:12, 14:47)",
+        [
+            "",
+            700002284
+        ]
+    ],
+    [
+        "Watch Sports/Game",
+        "(18:28, 20:07)",
+        [
+            "",
+            700003045
+        ]
+    ],
+    [
+        "You are at Citi Bike - Perry St & Bleecker St. It's 20:33 and you can stay here more time.",
+        "(20:33, 22:34)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "",
+            700001049
+        ]
+    ]
+]

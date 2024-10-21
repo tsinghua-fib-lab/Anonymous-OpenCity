@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 20th Street & FDR Drive",
+            700008034
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:00)",
+        [
+            "Citi Bike - East 20th Street & FDR Drive",
+            700008034
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:54, 13:28)",
+        [
+            "Citi Bike - East 20th Street & FDR Drive",
+            700008034
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 20th Street & FDR Drive",
+        "(14:30, 16:28)",
+        [
+            "",
+            700017709
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(17:27, 18:53)",
+        [
+            "",
+            700017709
+        ]
+    ],
+    [
+        "Stay at Max Brenner",
+        "(19:29, 20:50)",
+        [
+            "",
+            700017724
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 20th Street & FDR Drive",
+        "(21:24, 22:22)",
+        [
+            "",
+            700017715
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 20th Street & FDR Drive",
+        "(22:54, 23:59)",
+        [
+            "Stuyvesant Cove Ferry Station",
+            700016688
+        ]
+    ]
+]

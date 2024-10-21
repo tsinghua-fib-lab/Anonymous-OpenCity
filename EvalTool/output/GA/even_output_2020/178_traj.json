@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008708
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Development",
+        "(10:00, 11:40)",
+        [
+            "",
+            700007009
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:13, 16:29)",
+        [
+            "Stookey's Club Moderne",
+            700008671
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 21:15)",
+        [
+            "The Blue Room",
+            700004526
+        ]
+    ],
+    [
+        "Continue at Stookey's Club Moderne",
+        "(22:04, 23:28)",
+        [
+            "Fresh Brew Coffee",
+            700004531
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "Fresh Brew Coffee",
+            700004531
+        ]
+    ]
+]

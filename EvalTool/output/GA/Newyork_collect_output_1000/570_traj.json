@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:35)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Projects",
+        "(14:57, 16:29)",
+        [
+            "Song Yu, DPM",
+            700023820
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 18:27)",
+        [
+            "",
+            700022503
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:33, 20:58)",
+        [
+            "M&T Bank",
+            700011624
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:33, 23:59)",
+        [
+            "CVS Pharmacy",
+            700011386
+        ]
+    ],
+    [
+        "Stay",
+        "(23:45, 23:59)",
+        [
+            "",
+            700022503
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000159
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:12)",
+        [
+            "Karen's Diner",
+            700021664
+        ]
+    ],
+    [
+        "Leisure/Personal Projects",
+        "(14:22, 16:54)",
+        [
+            "",
+            700006308
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:37, 19:57)",
+        [
+            "Cloud Thief",
+            700009664
+        ]
+    ],
+    [
+        "Stay at Cloud Thief",
+        "(22:41, 23:59)",
+        [
+            "Active Kids Childcare",
+            700006306
+        ]
+    ]
+]

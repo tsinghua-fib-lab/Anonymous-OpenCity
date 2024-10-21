@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Leisure Activity or Exercise",
+        "(10:00, 11:23)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "Go to Forefeathers",
+        "(11:27, 13:17)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 17:04)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:26, 21:03)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 21:22)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "Stay at Forefeathers",
+        "(23:46, 23:59)",
+        [
+            "The Globe",
+            700028483
+        ]
+    ]
+]

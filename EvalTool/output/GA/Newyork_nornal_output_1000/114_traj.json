@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001986
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:20)",
+        [
+            "University Animal Hospital",
+            700041299
+        ]
+    ],
+    [
+        "Engage in Outdoor Activity",
+        "(14:43, 16:18)",
+        [
+            "University Animal Hospital",
+            700041299
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 18:36)",
+        [
+            "Unique Green",
+            700041296
+        ]
+    ],
+    [
+        "Go to Unique Green",
+        "(22:46, 23:54)",
+        [
+            "Unique Green",
+            700041296
+        ]
+    ]
+]

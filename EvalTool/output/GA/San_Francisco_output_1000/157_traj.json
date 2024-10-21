@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "SVN West",
+            700009489
+        ]
+    ],
+    [
+        "Brunch (11:30 AM)",
+        "(10:00, 11:24)",
+        [
+            "",
+            700008953
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(11:53, 13:53)",
+        [
+            "SVN West",
+            700009489
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:59, 16:37)",
+        [
+            "Crossroads Pizzeria",
+            700002789
+        ]
+    ],
+    [
+        "Dinner Preparation (7:00 PM)",
+        "(18:48, 19:50)",
+        [
+            "Crossroads Pizzeria",
+            700002789
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(20:26, 22:02)",
+        [
+            "Crossroads Pizzeria",
+            700002789
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(22:03, 23:39)",
+        [
+            "Crossroads Pizzeria",
+            700002789
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(23:40, 23:59)",
+        [
+            "Crossroads Pizzeria",
+            700002789
+        ]
+    ]
+]

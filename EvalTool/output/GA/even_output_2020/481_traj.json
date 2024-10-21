@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "A16",
+            700003080
+        ]
+    ],
+    [
+        "Breakfast at home.",
+        "(10:00, 10:51)",
+        [
+            "First Federal Savings of San Rafael",
+            700000678
+        ]
+    ],
+    [
+        "Go for a mid-morning walk or light jog in the park",
+        "(11:55, 12:53)",
+        [
+            "First Federal Savings of San Rafael",
+            700000678
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 17:17)",
+        [
+            "Marina Chiropractic",
+            700000686
+        ]
+    ],
+    [
+        "Spend time at home",
+        "(17:27, 18:55)",
+        [
+            "First Federal Savings of San Rafael",
+            700000678
+        ]
+    ],
+    [
+        "Stay at A16",
+        "(19:19, 20:39)",
+        [
+            "A16",
+            700003080
+        ]
+    ],
+    [
+        "Spend time at home",
+        "(21:23, 22:48)",
+        [
+            "A16",
+            700003080
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Original Buffalo Wings",
+            700002284
+        ]
+    ]
+]

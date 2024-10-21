@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Neighbor's Corner",
+            700005955
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:55)",
+        [
+            "Firefly",
+            700000412
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 16:52)",
+        [
+            "Noe Valley Courts",
+            700001210
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(16:37, 18:03)",
+        [
+            "Firefly",
+            700000412
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(18:17, 19:58)",
+        [
+            "Firefly",
+            700000412
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 22:37)",
+        [
+            "Lupa Trattoria",
+            700001750
+        ]
+    ]
+]

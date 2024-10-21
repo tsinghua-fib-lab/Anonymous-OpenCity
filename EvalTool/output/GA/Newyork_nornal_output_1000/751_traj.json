@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Feile",
+            700006356
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:35)",
+        [
+            "Citi Bike - W 52 St / 11 Ave",
+            700008230
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:34, 13:11)",
+        [
+            "Citi Bike - W 52 St / 11 Ave",
+            700008230
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:54, 15:06)",
+        [
+            "Citi Bike - W 52 St / 11 Ave",
+            700008230
+        ]
+    ],
+    [
+        "Next activity after Leisure Time",
+        "(15:40, 16:51)",
+        [
+            "Citi Bike - W 52 St / 11 Ave",
+            700008230
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 18:44)",
+        [
+            "",
+            700027319
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 23:19)",
+        [
+            "The Daily Show with Trevor Noah",
+            700010957
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "",
+            700027322
+        ]
+    ]
+]

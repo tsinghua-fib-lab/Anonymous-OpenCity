@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(09:00, 10:36)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:34, 12:46)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 17:05)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:56, 23:59)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ],
+    [
+        "Stay at Sunflower Cafe",
+        "(22:54, 23:59)",
+        [
+            "",
+            700000911
+        ]
+    ]
+]

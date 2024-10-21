@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sponges Cafe",
+            700024732
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 10:54)",
+        [
+            "Sponges Cafe",
+            700024732
+        ]
+    ],
+    [
+        "Go for a walk in the park or exercise at home",
+        "(11:51, 12:50)",
+        [
+            "Northwell Health-GoHealth Urgent Care",
+            700013557
+        ]
+    ],
+    [
+        "Go for a walk in the park or exercise at home",
+        "(12:59, 13:41)",
+        [
+            "Northwell Health-GoHealth Urgent Care",
+            700013557
+        ]
+    ],
+    [
+        "Hobby or craft project",
+        "(14:10, 15:43)",
+        [
+            "Gracie Mews Restaurant",
+            700013556
+        ]
+    ],
+    [
+        "Stay",
+        "(16:35, 17:58)",
+        [
+            "Manhattan Mailroom",
+            700006574
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:32, 19:42)",
+        [
+            "Northwell Health-GoHealth Urgent Care",
+            700013557
+        ]
+    ],
+    [
+        "Stay",
+        "(20:05, 22:08)",
+        [
+            "Emack & Bolio's",
+            700008954
+        ]
+    ],
+    [
+        "Stay",
+        "(22:27, 23:59)",
+        [
+            "",
+            700040440
+        ]
+    ]
+]

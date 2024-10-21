@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002051
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:51)",
+        [
+            "",
+            700002051
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:34, 11:57)",
+        [
+            "Sushi Counter",
+            700040731
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:40, 16:49)",
+        [
+            "",
+            700001763
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:28, 16:05)",
+        [
+            "Sushi Counter",
+            700040731
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:19, 18:01)",
+        [
+            "Sushi Counter",
+            700040731
+        ]
+    ],
+    [
+        "Catch Up on a TV Show or Movie",
+        "(18:01, 20:00)",
+        [
+            "Sushi Counter",
+            700040731
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:10, 23:59)",
+        [
+            "Blackstone Coffee Roaster",
+            700023338
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:49, 23:59)",
+        [
+            "",
+            700002514
+        ]
+    ]
+]

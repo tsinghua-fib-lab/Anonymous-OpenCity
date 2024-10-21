@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mr. Pickle's Sandwich Shop",
+            700002448
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:22)",
+        [
+            "Base Camp",
+            700010870
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:20, 16:14)",
+        [
+            "20mission Hacker Hotel",
+            700002370
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:00, 20:12)",
+        [
+            "",
+            700000047
+        ]
+    ],
+    [
+        "Leisure Time/Personal Projects",
+        "(23:40, 23:59)",
+        [
+            "Base Camp",
+            700010870
+        ]
+    ]
+]

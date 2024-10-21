@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030400
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:00)",
+        [
+            "",
+            700030408
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:54, 18:47)",
+        [
+            "",
+            700030407
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:31, 23:56)",
+        [
+            "",
+            700030411
+        ]
+    ],
+    [
+        "Wind Down and Plan for the Week Ahead",
+        "(22:28, 23:59)",
+        [
+            "",
+            700030400
+        ]
+    ],
+    [
+        "Current Place: Your Home. Wind Down and Plan for the Week Ahead.",
+        "(23:51, 23:59)",
+        [
+            "",
+            700030400
+        ]
+    ]
+]

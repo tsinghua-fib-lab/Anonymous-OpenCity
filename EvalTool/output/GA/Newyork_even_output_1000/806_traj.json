@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Benjamin N. Cardozo School of Law",
+            700040567
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:47)",
+        [
+            "Citi Bike - West 13th Street & 5th Avenue",
+            700008196
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:13, 16:04)",
+        [
+            "",
+            700002270
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:04, 20:42)",
+        [
+            "Champion Pizza",
+            700022148
+        ]
+    ],
+    [
+        "Next place for leisure",
+        "(22:00, 23:14)",
+        [
+            "Champion Pizza",
+            700022148
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "CityMD",
+            700013554
+        ]
+    ]
+]

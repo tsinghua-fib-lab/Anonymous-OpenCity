@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Lexington Avenue & East 24th Street",
+            700008122
+        ]
+    ],
+    [
+        "Next activity: Morning Exercise",
+        "(09:00, 09:50)",
+        [
+            "Citi Bike - Lexington Avenue & East 24th Street",
+            700008122
+        ]
+    ],
+    [
+        "Next activity: Grocery Shopping",
+        "(10:08, 11:35)",
+        [
+            "Citi Bike - Lexington Avenue & East 24th Street",
+            700008122
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:33, 12:55)",
+        [
+            "Citi Bike - Lexington Avenue & East 24th Street",
+            700008122
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:37, 16:00)",
+        [
+            "",
+            700022513
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:34, 18:11)",
+        [
+            "",
+            700022513
+        ]
+    ],
+    [
+        "Next activity: Social Time",
+        "(17:41, 19:08)",
+        [
+            "Citi Bike - Lexington Avenue & East 24th Street",
+            700008122
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 23:43)",
+        [
+            "",
+            700011134
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "",
+            700011134
+        ]
+    ]
+]

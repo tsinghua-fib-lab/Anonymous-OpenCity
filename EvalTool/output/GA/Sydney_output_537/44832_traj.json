@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ataman Kebab and Burgers",
+            700026098
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:01)",
+        [
+            "Subway",
+            700006362
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 15:39)",
+        [
+            "",
+            700026547
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(16:41, 17:57)",
+        [
+            "Ataman Kebab and Burgers",
+            700026098
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:11, 21:57)",
+        [
+            "",
+            700026547
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:47, 23:59)",
+        [
+            "",
+            700026501
+        ]
+    ]
+]

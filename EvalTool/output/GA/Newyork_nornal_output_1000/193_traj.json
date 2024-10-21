@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002990
+        ]
+    ],
+    [
+        "Engage in some physical activity, such as going for a walk, jog, or participating in a workout class.",
+        "(10:00, 12:02)",
+        [
+            "",
+            700026126
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 15:04)",
+        [
+            "Caspary Auditorium",
+            700000565
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:10, 15:54)",
+        [
+            "Caspary Auditorium",
+            700000565
+        ]
+    ],
+    [
+        "Continue to spend time on a personal project or hobby.",
+        "(15:26, 16:57)",
+        [
+            "",
+            700035723
+        ]
+    ],
+    [
+        "Wind down the day with leisure activities.",
+        "(17:42, 19:11)",
+        [
+            "",
+            700002990
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:47, 22:26)",
+        [
+            "",
+            700039951
+        ]
+    ]
+]

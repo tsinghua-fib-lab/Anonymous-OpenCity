@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008260
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:00)",
+        [
+            "",
+            700000531
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:17, 15:05)",
+        [
+            "Amarena",
+            700002725
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:36, 20:01)",
+        [
+            "Lemongrass",
+            700002090
+        ]
+    ],
+    [
+        "Next activity based on the daily plan",
+        "(18:20, 19:51)",
+        [
+            "Leopold's",
+            700001060
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:12, 23:59)",
+        [
+            "Aux Delices Vietnamese Restaurant",
+            700002087
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:36, 23:59)",
+        [
+            "La Folie",
+            700002089
+        ]
+    ]
+]

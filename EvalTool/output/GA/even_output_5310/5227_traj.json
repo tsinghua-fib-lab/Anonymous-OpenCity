@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700018072
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(09:00, 09:58)",
+        [
+            "",
+            700010318
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(10:15, 11:50)",
+        [
+            "Tamam Falafel",
+            700025722
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(13:04, 14:34)",
+        [
+            "Tamam Falafel",
+            700025722
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:42, 20:01)",
+        [
+            "Tamam Falafel",
+            700025722
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:20, 21:23)",
+        [
+            "",
+            700016433
+        ]
+    ],
+    [
+        "Go to Tamam Falafel for dinner.",
+        "(21:51, 23:11)",
+        [
+            "Tamam Falafel",
+            700025722
+        ]
+    ],
+    [
+        "Stay at USPS to wind down",
+        "(23:51, 23:59)",
+        [
+            "USPS",
+            700010316
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "East Side Animal Hospital",
+            700011457
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(10:00, 10:54)",
+        [
+            "Atomic Wings",
+            700021924
+        ]
+    ],
+    [
+        "Read a book or enjoy a podcast",
+        "(11:52, 13:02)",
+        [
+            "Atomic Wings",
+            700021924
+        ]
+    ],
+    [
+        "Read a book or enjoy a podcast",
+        "(13:43, 14:42)",
+        [
+            "Bareburger",
+            700006418
+        ]
+    ],
+    [
+        "Read a book or enjoy a podcast",
+        "(15:20, 17:03)",
+        [
+            "Atomic Wings",
+            700021924
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 23:04)",
+        [
+            "Totto Ramen",
+            700009648
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:07, 23:59)",
+        [
+            "Shinya Shokudou",
+            700011509
+        ]
+    ]
+]

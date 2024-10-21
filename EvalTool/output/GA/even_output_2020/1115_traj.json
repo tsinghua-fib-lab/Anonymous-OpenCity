@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009618
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:16)",
+        [
+            "",
+            700008617
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:37, 12:14)",
+        [
+            "Fillmore Street Annex Garage",
+            700005624
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(12:30, 14:06)",
+        [
+            "Fillmore Street Annex Garage",
+            700005624
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(14:36, 16:41)",
+        [
+            "Fillmore Street Annex Garage",
+            700005624
+        ]
+    ],
+    [
+        "Family/Friends Hangout",
+        "(17:24, 18:58)",
+        [
+            "Pa'ina",
+            700005692
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:28, 22:16)",
+        [
+            "",
+            700008696
+        ]
+    ],
+    [
+        "Go to Fillmore Street Annex Garage",
+        "(20:42, 22:21)",
+        [
+            "Fillmore Street Annex Garage",
+            700005624
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "Club Mari's / Mogura",
+            700001705
+        ]
+    ]
+]

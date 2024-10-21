@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:23)",
+        [
+            "Citi Bike - E 6 St & Avenue D",
+            700008061
+        ]
+    ],
+    [
+        "Personal Development",
+        "(12:19, 14:23)",
+        [
+            "Citi Bike - E 6 St & Avenue D",
+            700008061
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:58, 20:42)",
+        [
+            "",
+            700002786
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:09, 22:11)",
+        [
+            "Ryan/NENA Comprehensive Heath Service Center",
+            700000264
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "",
+            700001034
+        ]
+    ]
+]

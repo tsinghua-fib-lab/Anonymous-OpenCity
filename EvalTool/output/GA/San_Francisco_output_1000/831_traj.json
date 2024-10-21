@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Cool Bar",
+            700012103
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(09:00, 10:22)",
+        [
+            "Cool Bar",
+            700012103
+        ]
+    ],
+    [
+        "2:00 PM to 4:00 PM - Engage in a hobby or personal project",
+        "(10:41, 12:43)",
+        [
+            "Cafe Pacific Plaza",
+            700010105
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 13:57)",
+        [
+            "The UPS Store",
+            700010162
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(15:12, 17:04)",
+        [
+            "Cool Bar",
+            700012103
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 21:24)",
+        [
+            "Van Ness Dental Care",
+            700010670
+        ]
+    ],
+    [
+        "Stay at Cool Bar",
+        "(23:15, 23:59)",
+        [
+            "Starbucks",
+            700004066
+        ]
+    ]
+]

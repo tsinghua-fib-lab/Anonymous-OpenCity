@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700017200
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:00)",
+        [
+            "",
+            700010406
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(14:44, 16:56)",
+        [
+            "",
+            700018211
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:19, 21:13)",
+        [
+            "",
+            700027340
+        ]
+    ],
+    [
+        "Next evening activities including social time",
+        "(20:10, 22:10)",
+        [
+            "Li'l Jay's Cafe",
+            700018088
+        ]
+    ],
+    [
+        "Current place and stay time",
+        "(22:46, 23:59)",
+        [
+            "",
+            700027465
+        ]
+    ]
+]

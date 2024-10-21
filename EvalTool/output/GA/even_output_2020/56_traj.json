@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Red's Place",
+            700004235
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:53)",
+        [
+            "Chase",
+            700006991
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:57, 15:10)",
+        [
+            "Chase",
+            700006991
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:28, 17:07)",
+        [
+            "Chase",
+            700006991
+        ]
+    ],
+    [
+        "Social Activity",
+        "(17:57, 19:24)",
+        [
+            "Chase",
+            700006991
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 23:59)",
+        [
+            "Lun Ting Cafe",
+            700004236
+        ]
+    ]
+]

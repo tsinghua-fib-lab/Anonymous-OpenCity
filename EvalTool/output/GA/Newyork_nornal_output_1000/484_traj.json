@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:37)",
+        [
+            "",
+            700010703
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:04, 16:57)",
+        [
+            "Neary’s",
+            700010786
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:30, 21:05)",
+        [
+            "Marathon Coffee",
+            700039312
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:12, 23:59)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Palmyra Restaurant",
+            700001268
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:14)",
+        [
+            "Bay Wheels",
+            700010738
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:25, 14:42)",
+        [
+            "",
+            700002923
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(17:28, 19:06)",
+        [
+            "Palmyra Restaurant",
+            700001268
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:55, 22:07)",
+        [
+            "Bay Wheels",
+            700010738
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:45, 23:59)",
+        [
+            "The Grind Cafe",
+            700004206
+        ]
+    ]
+]

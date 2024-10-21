@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fitness club",
+            700007605
+        ]
+    ],
+    [
+        "Go for a leisurely walk or jog in the park",
+        "(10:00, 10:58)",
+        [
+            "Bistrot Victoires",
+            700002494
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 15:05)",
+        [
+            "",
+            700045943
+        ]
+    ],
+    [
+        "Stay at Bistrot Victoires",
+        "(15:54, 17:53)",
+        [
+            "A Casaluna",
+            700002496
+        ]
+    ],
+    [
+        "Go to Crédit Foncier",
+        "(17:44, 19:10)",
+        [
+            "",
+            700035433
+        ]
+    ],
+    [
+        "Stay at Paris Eiffel Tower.",
+        "(19:25, 21:06)",
+        [
+            "",
+            700035514
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:12, 23:59)",
+        [
+            "",
+            700035513
+        ]
+    ]
+]

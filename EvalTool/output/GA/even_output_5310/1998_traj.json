@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020618
+        ]
+    ],
+    [
+        "Go for a walk or visit a nearby park.",
+        "(10:00, 10:51)",
+        [
+            "Yuka Japanese",
+            700011572
+        ]
+    ],
+    [
+        "Go for a walk or visit a nearby park.",
+        "(11:15, 12:59)",
+        [
+            "Yuka Japanese",
+            700011572
+        ]
+    ],
+    [
+        "watch a movie or catch up on a favorite TV show",
+        "(13:08, 15:10)",
+        [
+            "Yuka Japanese",
+            700011572
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a favorite TV show.",
+        "(15:29, 17:00)",
+        [
+            "Yuka Japanese",
+            700011572
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 20:37)",
+        [
+            "Amura",
+            700011504
+        ]
+    ],
+    [
+        "Stay at Yuka Japanese",
+        "(22:15, 23:38)",
+        [
+            "Yuka Japanese",
+            700011572
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "Comic Strip Live",
+            700013271
+        ]
+    ]
+]

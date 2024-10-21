@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001255
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:07)",
+        [
+            "Bleecker Street Bar",
+            700022136
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 14:46)",
+        [
+            "",
+            700004734
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:58, 18:34)",
+        [
+            "",
+            700001072
+        ]
+    ],
+    [
+        "Wind Down & Read/Reflect",
+        "(19:20, 20:56)",
+        [
+            "",
+            700001255
+        ]
+    ],
+    [
+        "Stay at Bowery Poetry.",
+        "(21:15, 22:55)",
+        [
+            "Cafe Lyria",
+            700041008
+        ]
+    ],
+    [
+        "Continue to Stay at Bowery Poetry.",
+        "(23:07, 23:59)",
+        [
+            "Cafe Angelique",
+            700013254
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "You will stay at Sunflower Cafe until 10:00 AM and then go for a walk.",
+        "(09:00, 10:37)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "Go for a walk or jog in a nearby park",
+        "(10:26, 11:56)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 14:43)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:42, 20:31)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "Stay at Shawarma & Grill",
+        "(21:51, 23:06)",
+        [
+            "Dunkin'",
+            700024685
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ]
+]

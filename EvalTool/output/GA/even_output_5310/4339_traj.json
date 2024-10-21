@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Kumo Sushi",
+            700005929
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:40)",
+        [
+            "Kumo Sushi",
+            700005929
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:27, 16:34)",
+        [
+            "Salma",
+            700029602
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:19, 19:06)",
+        [
+            "NYC Pharmacy",
+            700010262
+        ]
+    ],
+    [
+        "Social Time",
+        "(19:21, 21:08)",
+        [
+            "Gena's Grill",
+            700005930
+        ]
+    ],
+    [
+        "Spend time at Salma",
+        "(21:10, 22:38)",
+        [
+            "Salma",
+            700029602
+        ]
+    ],
+    [
+        "Spend time at Salma",
+        "(23:24, 23:59)",
+        [
+            "Salma",
+            700029602
+        ]
+    ]
+]

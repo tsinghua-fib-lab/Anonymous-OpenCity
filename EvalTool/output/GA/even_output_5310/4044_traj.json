@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700018844
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:49)",
+        [
+            "Five Guys",
+            700021659
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 14:57)",
+        [
+            "Subway",
+            700003544
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:50, 19:01)",
+        [
+            "Five Guys",
+            700021659
+        ]
+    ],
+    [
+        "Next activity after dinner.",
+        "(19:21, 20:50)",
+        [
+            "Five Guys",
+            700021659
+        ]
+    ],
+    [
+        "Go to Bangia.",
+        "(21:53, 22:58)",
+        [
+            "Bangia",
+            700021891
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "Kang Ho Dong Baekjeong",
+            700010021
+        ]
+    ]
+]

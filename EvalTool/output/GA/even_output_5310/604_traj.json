@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001058
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:51)",
+        [
+            "",
+            700001058
+        ]
+    ],
+    [
+        "Attend to Personal Projects or Hobbies",
+        "(10:12, 12:13)",
+        [
+            "",
+            700017576
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:12, 18:21)",
+        [
+            "Raising Cane's",
+            700038326
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:17, 21:02)",
+        [
+            "Mercantile Library Building",
+            700000550
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(21:19, 23:00)",
+        [
+            "Felix Roasting Co.",
+            700038325
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:07, 23:59)",
+        [
+            "Pret A Manger",
+            700039955
+        ]
+    ]
+]

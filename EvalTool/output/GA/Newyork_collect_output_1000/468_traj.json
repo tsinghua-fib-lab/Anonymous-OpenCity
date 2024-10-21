@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(09:00, 10:24)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(11:18, 12:55)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:55, 15:21)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:21, 22:19)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(23:45, 23:59)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ]
+]

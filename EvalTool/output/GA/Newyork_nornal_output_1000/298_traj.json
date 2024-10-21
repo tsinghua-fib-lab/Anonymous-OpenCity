@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700017128
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:06)",
+        [
+            "Sakagura",
+            700010036
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:03, 12:09)",
+        [
+            "Sakagura",
+            700010036
+        ]
+    ],
+    [
+        "Socializing with Friends/Family",
+        "(12:40, 15:40)",
+        [
+            "Sakagura",
+            700010036
+        ]
+    ],
+    [
+        "Socializing with Friends/Family",
+        "(15:49, 17:45)",
+        [
+            "Sakagura",
+            700010036
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:30, 23:27)",
+        [
+            "Café Hestia",
+            700011108
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(20:46, 22:06)",
+        [
+            "Sakagura",
+            700010036
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "Café Hestia",
+            700011108
+        ]
+    ]
+]

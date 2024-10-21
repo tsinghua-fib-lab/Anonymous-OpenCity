@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030321
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:43)",
+        [
+            "",
+            700019862
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 17:37)",
+        [
+            "",
+            700001342
+        ]
+    ],
+    [
+        "Relaxation and Entertainment",
+        "(17:34, 18:57)",
+        [
+            "",
+            700021974
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 23:59)",
+        [
+            "FDNY Engine 39/Ladder 16",
+            700000531
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 23:59)",
+        [
+            "Baker Theatre Building",
+            700006562
+        ]
+    ]
+]

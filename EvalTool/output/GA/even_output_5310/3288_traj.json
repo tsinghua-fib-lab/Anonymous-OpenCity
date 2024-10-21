@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "MPG",
+            700017887
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:51)",
+        [
+            "",
+            700019949
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:17, 14:04)",
+        [
+            "MPG",
+            700017887
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:12, 15:50)",
+        [
+            "Surreal Creamery",
+            700021513
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(16:17, 18:15)",
+        [
+            "Surreal Creamery",
+            700021513
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:18, 20:07)",
+        [
+            "Sahara's",
+            700006228
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(20:21, 21:48)",
+        [
+            "",
+            700006230
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:28, 23:59)",
+        [
+            "",
+            700024800
+        ]
+    ]
+]

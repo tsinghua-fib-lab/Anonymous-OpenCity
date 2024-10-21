@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002398
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:03)",
+        [
+            "Blue Barn",
+            700007283
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:07, 11:28)",
+        [
+            "Project Juice",
+            700002094
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:37, 16:07)",
+        [
+            "Bank of America",
+            700000644
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:20, 18:43)",
+        [
+            "Fiorella Polk Street",
+            700004277
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 21:46)",
+        [
+            "Blue Barn",
+            700007283
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "Bullitt",
+            700002093
+        ]
+    ]
+]

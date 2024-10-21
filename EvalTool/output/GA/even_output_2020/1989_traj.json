@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The TL Cafe and Laundromat",
+            700010155
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(09:00, 09:55)",
+        [
+            "The TL Cafe and Laundromat",
+            700010155
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:09, 14:23)",
+        [
+            "Pho Tan Hoa",
+            700004838
+        ]
+    ],
+    [
+        "Lunch Preparation & Eating",
+        "(12:01, 13:59)",
+        [
+            "The TL Cafe and Laundromat",
+            700010155
+        ]
+    ],
+    [
+        "Lunch Preparation & Eating",
+        "(14:45, 16:00)",
+        [
+            "The TL Cafe and Laundromat",
+            700010155
+        ]
+    ],
+    [
+        "Leisure Activity/Reading",
+        "(16:04, 18:05)",
+        [
+            "The TL Cafe and Laundromat",
+            700010155
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:32, 23:45)",
+        [
+            "Red Chilli",
+            700006059
+        ]
+    ],
+    [
+        "Prepare Dinner & Wind Down",
+        "(22:44, 23:59)",
+        [
+            "The TL Cafe and Laundromat",
+            700010155
+        ]
+    ]
+]

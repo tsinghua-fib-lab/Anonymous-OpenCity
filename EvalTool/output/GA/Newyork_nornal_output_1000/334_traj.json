@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:36)",
+        [
+            "Avenue D Pizza",
+            700019570
+        ]
+    ],
+    [
+        "Stay at VERS",
+        "(12:38, 14:17)",
+        [
+            "",
+            700001188
+        ]
+    ],
+    [
+        "stay at Citi Bike",
+        "(14:20, 16:50)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "next activity",
+        "(16:29, 17:50)",
+        [
+            "Avenue D Pizza",
+            700019570
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 20:41)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:47, 23:59)",
+        [
+            "",
+            700001824
+        ]
+    ],
+    [
+        "Stay at Avenue D Pizza",
+        "(22:21, 23:58)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "Stay at Avenue D Pizza",
+        "(23:42, 23:59)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ]
+]

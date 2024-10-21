@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tio Pio",
+            700004751
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 16:04)",
+        [
+            "",
+            700002737
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(15:25, 16:55)",
+        [
+            "Dear Rufino",
+            700024922
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:33, 20:11)",
+        [
+            "Jackdaw",
+            700004749
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:08, 21:00)",
+        [
+            "Jackdaw",
+            700004749
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:57, 22:10)",
+        [
+            "Butterdose",
+            700030432
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:53, 23:59)",
+        [
+            "Aum Shanti",
+            700007875
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chase",
+            700005775
+        ]
+    ],
+    [
+        "Wake Up and Leisurely Breakfast",
+        "(10:00, 11:59)",
+        [
+            "La Cabra",
+            700023337
+        ]
+    ],
+    [
+        "Wake Up and Leisurely Breakfast",
+        "(12:32, 14:35)",
+        [
+            "La Cabra",
+            700023337
+        ]
+    ],
+    [
+        "At current location until dinner preparation",
+        "(15:01, 15:09)",
+        [
+            "La Cabra",
+            700023337
+        ]
+    ],
+    [
+        "Relax and Watch a Movie",
+        "(17:25, 18:50)",
+        [
+            "La Cabra",
+            700023337
+        ]
+    ],
+    [
+        "Relax and Watch a Movie",
+        "(19:27, 21:11)",
+        [
+            "Chikalicious",
+            700011539
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(20:54, 22:30)",
+        [
+            "Chikalicious",
+            700011539
+        ]
+    ],
+    [
+        "Next activity after dinner preparation.",
+        "(23:09, 23:59)",
+        [
+            "Chikalicious",
+            700011539
+        ]
+    ]
+]

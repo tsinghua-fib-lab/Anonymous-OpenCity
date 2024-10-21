@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Scallywag's Irish Pub",
+            700013416
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:58)",
+        [
+            "Hell's Kitchen",
+            700004222
+        ]
+    ],
+    [
+        "Afternoon Hobby",
+        "(14:23, 16:00)",
+        [
+            "Trattoria Casa Di Isacco",
+            700008670
+        ]
+    ],
+    [
+        "Head to Trattoria Casa Di Isacco for social time.",
+        "(16:25, 17:53)",
+        [
+            "Trattoria Casa Di Isacco",
+            700008670
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:07, 19:27)",
+        [
+            "Trattoria Casa Di Isacco",
+            700008670
+        ]
+    ],
+    [
+        "Stay at Trattoria Casa Di Isacco for social time",
+        "(20:36, 21:45)",
+        [
+            "Trattoria Casa Di Isacco",
+            700008670
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:29, 23:59)",
+        [
+            "Taqueria Diana",
+            700008705
+        ]
+    ]
+]

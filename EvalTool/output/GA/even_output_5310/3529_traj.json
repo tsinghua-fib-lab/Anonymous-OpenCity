@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Rice Noodle",
+            700016623
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:45)",
+        [
+            "Bar Pitti",
+            700007729
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:26, 17:54)",
+        [
+            "",
+            700003084
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a TV series",
+        "(16:01, 17:51)",
+        [
+            "Bar Pitti",
+            700007729
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:39, 20:31)",
+        [
+            "Percy's Pizza",
+            700015334
+        ]
+    ],
+    [
+        "Have dinner and unwind with some relaxing music or a book.",
+        "(21:03, 22:36)",
+        [
+            "Bar Pitti",
+            700007729
+        ]
+    ],
+    [
+        "Stay at Bar Pitti.",
+        "(22:40, 23:59)",
+        [
+            "Bar Pitti",
+            700007729
+        ]
+    ]
+]

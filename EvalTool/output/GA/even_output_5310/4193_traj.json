@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010698
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:54)",
+        [
+            "NYC Discount Pharmacy",
+            700030624
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 18:36)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "Relax with personal hobbies",
+        "(17:08, 18:52)",
+        [
+            "Biscuits and Bath",
+            700030623
+        ]
+    ],
+    [
+        "Relax with personal hobbies",
+        "(19:11, 21:05)",
+        [
+            "NYC Discount Pharmacy",
+            700030624
+        ]
+    ],
+    [
+        "Wind down with a movie or binge-watch a series.",
+        "(21:33, 22:57)",
+        [
+            "NYC Discount Pharmacy",
+            700030624
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Sutton Bar Room",
+            700011531
+        ]
+    ]
+]

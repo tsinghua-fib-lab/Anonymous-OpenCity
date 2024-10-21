@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030388
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:08)",
+        [
+            "",
+            700030440
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:07, 15:49)",
+        [
+            "",
+            700030387
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(16:10, 18:01)",
+        [
+            "",
+            700030388
+        ]
+    ],
+    [
+        "Attend a Sports Event or Play Sports",
+        "(18:06, 19:26)",
+        [
+            "",
+            700037884
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:13, 23:59)",
+        [
+            "United States Post Office",
+            700009625
+        ]
+    ]
+]

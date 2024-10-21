@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Juice Press",
+            700020667
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:50)",
+        [
+            "Juice Press",
+            700020667
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 18:03)",
+        [
+            "",
+            700037143
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 16:39)",
+        [
+            "",
+            700037144
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:49, 23:06)",
+        [
+            "Wolfgang's Steakhouse",
+            700009058
+        ]
+    ]
+]

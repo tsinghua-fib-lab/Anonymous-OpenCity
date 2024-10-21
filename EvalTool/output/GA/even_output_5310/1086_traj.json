@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001192
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:21)",
+        [
+            "",
+            700002332
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:33, 11:53)",
+        [
+            "The Jin",
+            700008322
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 15:20)",
+        [
+            "",
+            700002747
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(16:32, 18:04)",
+        [
+            "",
+            700002310
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(18:56, 20:50)",
+        [
+            "",
+            700025687
+        ]
+    ],
+    [
+        "After watching sports/entertainment, you should stay at Starbucks.",
+        "(21:15, 22:46)",
+        [
+            "",
+            700002310
+        ]
+    ],
+    [
+        "Go to Starbucks.",
+        "(23:12, 23:59)",
+        [
+            "",
+            700002332
+        ]
+    ]
+]

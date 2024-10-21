@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:14)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:54, 15:06)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(18:35, 20:15)",
+        [
+            "Street Taco",
+            700006239
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:03, 22:48)",
+        [
+            "Lanzhou Beef Noodles",
+            700011139
+        ]
+    ],
+    [
+        "Prepare for the Upcoming Week",
+        "(23:19, 23:59)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ]
+]

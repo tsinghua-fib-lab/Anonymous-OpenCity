@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:42)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:41, 17:08)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:58, 18:04)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:11, 20:37)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(23:30, 23:59)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ]
+]

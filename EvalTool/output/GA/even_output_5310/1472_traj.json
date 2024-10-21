@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008518
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:06)",
+        [
+            "",
+            700000894
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:45, 13:10)",
+        [
+            "Tisch Cafe",
+            700024901
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:41, 15:14)",
+        [
+            "Tisch Cafe",
+            700024901
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:58, 18:07)",
+        [
+            "NY Bagels & Cafe",
+            700010807
+        ]
+    ],
+    [
+        "Dinner at Home",
+        "(19:36, 21:04)",
+        [
+            "",
+            700000894
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(21:55, 22:58)",
+        [
+            "Tisch Cafe",
+            700024901
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "Sophie's Cuban Express",
+            700008962
+        ]
+    ]
+]

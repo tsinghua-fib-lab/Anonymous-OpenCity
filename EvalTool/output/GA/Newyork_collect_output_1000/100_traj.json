@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:12)",
+        [
+            "",
+            700002621
+        ]
+    ],
+    [
+        "Lunch while catching up on a favorite podcast or some light reading.",
+        "(12:03, 13:03)",
+        [
+            "The Globe",
+            700028483
+        ]
+    ],
+    [
+        "Lunch while catching up on a favorite podcast or some light reading.",
+        "(13:01, 15:04)",
+        [
+            "The Globe",
+            700028483
+        ]
+    ],
+    [
+        "Go to The Globe",
+        "(15:46, 16:56)",
+        [
+            "The Globe",
+            700028483
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:32, 19:29)",
+        [
+            "",
+            700022519
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 23:44)",
+        [
+            "",
+            700022519
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(22:37, 23:59)",
+        [
+            "",
+            700017443
+        ]
+    ]
+]

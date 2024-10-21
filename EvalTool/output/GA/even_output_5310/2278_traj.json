@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018230
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 11:25)",
+        [
+            "NYPD Midtown North PCT",
+            700000578
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:06, 13:29)",
+        [
+            "NYPD Midtown North PCT",
+            700000578
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:22, 19:51)",
+        [
+            "P.F. Chang's",
+            700034827
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(17:42, 19:13)",
+        [
+            "Cosmic Diner",
+            700009042
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 23:35)",
+        [
+            "Cosmic Diner",
+            700009042
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(21:38, 23:03)",
+        [
+            "Karaoke Duet 53",
+            700017286
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(23:48, 23:59)",
+        [
+            "",
+            700018229
+        ]
+    ]
+]

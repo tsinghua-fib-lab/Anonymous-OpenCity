@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:06)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:14, 12:20)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:40, 14:58)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:48, 18:25)",
+        [
+            "Burger King",
+            700004086
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:45, 23:59)",
+        [
+            "Wagamama",
+            700017674
+        ]
+    ]
+]

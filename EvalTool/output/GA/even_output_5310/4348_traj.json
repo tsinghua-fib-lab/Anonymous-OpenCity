@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Fools Gold",
+            700009785
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:23)",
+        [
+            "The Late Late",
+            700005164
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:27, 13:12)",
+        [
+            "East 1st Street & 1st Avenue",
+            700025321
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:19, 18:59)",
+        [
+            "East 1st Street & 1st Avenue",
+            700025321
+        ]
+    ],
+    [
+        "Social Time",
+        "(19:21, 21:00)",
+        [
+            "East 1st Street & 1st Avenue",
+            700025321
+        ]
+    ],
+    [
+        "Spend time at Fools Gold",
+        "(21:10, 22:48)",
+        [
+            "Fools Gold",
+            700009785
+        ]
+    ],
+    [
+        "Spend time at Fools Gold",
+        "(23:24, 23:59)",
+        [
+            "Fools Gold",
+            700009785
+        ]
+    ]
+]

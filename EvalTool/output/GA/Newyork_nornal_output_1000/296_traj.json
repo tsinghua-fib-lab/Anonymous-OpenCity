@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Suki Sushi",
+            700017947
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:20)",
+        [
+            "Suki Sushi",
+            700017947
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(12:08, 14:08)",
+        [
+            "Suki Sushi",
+            700017947
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:17, 16:06)",
+        [
+            "Suki Sushi",
+            700017947
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:27, 18:02)",
+        [
+            "Saint Stephen of Hungary Church",
+            700000277
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:49, 23:37)",
+        [
+            "CVS Pharmacy",
+            700033545
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "Coffee Shop",
+            700041023
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Social Lounge",
+            700005997
+        ]
+    ],
+    [
+        "Breakfast and then go for Morning Exercise.",
+        "(10:00, 11:30)",
+        [
+            "Just Salad",
+            700021040
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(12:26, 14:08)",
+        [
+            "Just Salad",
+            700021040
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:41, 17:18)",
+        [
+            "CityMD",
+            700021028
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(18:05, 19:54)",
+        [
+            "Just Salad",
+            700021040
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(20:42, 22:10)",
+        [
+            "",
+            700026905
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "",
+            700026898
+        ]
+    ]
+]

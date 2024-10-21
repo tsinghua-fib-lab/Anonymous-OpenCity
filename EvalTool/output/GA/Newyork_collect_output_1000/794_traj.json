@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:28)",
+        [
+            "Smile Dental Center",
+            700023828
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:57, 13:00)",
+        [
+            "",
+            700022518
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(14:35, 15:43)",
+        [
+            "",
+            700006210
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(15:43, 17:18)",
+        [
+            "Smile Dental Center",
+            700023828
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:09, 22:08)",
+        [
+            "",
+            700006224
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "Apotheco Pharmacy",
+            700021514
+        ]
+    ]
+]

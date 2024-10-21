@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "USPS",
+            700004357
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(09:00, 10:38)",
+        [
+            "USPS",
+            700004357
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:46, 12:44)",
+        [
+            "Walters",
+            700018643
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(12:16, 13:50)",
+        [
+            "Walters",
+            700018643
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:07, 16:36)",
+        [
+            "",
+            700019799
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:42, 17:42)",
+        [
+            "USPS",
+            700004357
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 22:06)",
+        [
+            "Uncle Nick's Restaurant",
+            700004352
+        ]
+    ]
+]

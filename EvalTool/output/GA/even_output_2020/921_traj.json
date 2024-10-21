@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009109
+        ]
+    ],
+    [
+        "Wake Up and Enjoy a Leisurely Breakfast",
+        "(10:00, 11:07)",
+        [
+            "",
+            700009109
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:19, 15:34)",
+        [
+            "Mama's on Washington Square",
+            700000425
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 20:19)",
+        [
+            "",
+            700014410
+        ]
+    ],
+    [
+        "Next activity based on the plan.",
+        "(19:51, 21:19)",
+        [
+            "",
+            700014409
+        ]
+    ],
+    [
+        "Stay at home for reading/TV",
+        "(22:05, 23:30)",
+        [
+            "",
+            700009095
+        ]
+    ],
+    [
+        "Stay at home for reading/TV",
+        "(23:54, 23:59)",
+        [
+            "",
+            700009109
+        ]
+    ]
+]

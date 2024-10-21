@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000118
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:00)",
+        [
+            "",
+            700008969
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:34, 19:33)",
+        [
+            "Restricted Parking: Permit Holders Only",
+            700002086
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 23:59)",
+        [
+            "Metropolitan Bank",
+            700004198
+        ]
+    ]
+]

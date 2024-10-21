@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005092
+        ]
+    ],
+    [
+        "Go for a morning run or workout",
+        "(09:00, 10:04)",
+        [
+            "",
+            700005092
+        ]
+    ],
+    [
+        "Shower and get ready for the day",
+        "(11:04, 13:07)",
+        [
+            "",
+            700005092
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:27, 16:16)",
+        [
+            "Perilla",
+            700005302
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(17:58, 19:02)",
+        [
+            "Perilla",
+            700005302
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 23:59)",
+        [
+            "Taquería Estrella",
+            700005304
+        ]
+    ],
+    [
+        "Go to Locanda and stay",
+        "(23:53, 23:59)",
+        [
+            "Toronado",
+            700000001
+        ]
+    ]
+]

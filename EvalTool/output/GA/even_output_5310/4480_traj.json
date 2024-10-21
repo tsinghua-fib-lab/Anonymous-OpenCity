@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Mott St & Prince St",
+            700008142
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:31)",
+        [
+            "Café Habana",
+            700007829
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 17:37)",
+        [
+            "Café Gitane",
+            700015617
+        ]
+    ],
+    [
+        "Watch movie and relax",
+        "(21:05, 22:52)",
+        [
+            "Café Gitane",
+            700015617
+        ]
+    ],
+    [
+        "Stay at Café Gitane and enjoy the ambience.",
+        "(23:34, 23:59)",
+        [
+            "Café Gitane",
+            700015617
+        ]
+    ]
+]

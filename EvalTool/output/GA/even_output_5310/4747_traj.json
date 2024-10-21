@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bank of America",
+            700008772
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:58)",
+        [
+            "The Blue Dog Cookhouse & Bar",
+            700021830
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(12:19, 14:22)",
+        [
+            "The Blue Dog Cookhouse & Bar",
+            700021830
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(14:35, 16:04)",
+        [
+            "The Blue Dog Cookhouse & Bar",
+            700021830
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:24, 18:02)",
+        [
+            "The Blue Dog Cookhouse & Bar",
+            700021830
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:39, 19:57)",
+        [
+            "The Blue Dog Cookhouse & Bar",
+            700021830
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:15, 23:59)",
+        [
+            "Famous Amadeus",
+            700024860
+        ]
+    ],
+    [
+        "Social Time",
+        "(23:41, 23:59)",
+        [
+            "Famous Amadeus",
+            700024860
+        ]
+    ]
+]

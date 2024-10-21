@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(10:00, 11:23)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(12:16, 13:38)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:02, 17:13)",
+        [
+            "Pitt Cue",
+            700025948
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:23, 23:59)",
+        [
+            "Fitness First",
+            700019570
+        ]
+    ],
+    [
+        "Next activity after leisure time",
+        "(23:58, 23:59)",
+        [
+            "Pitt Cue",
+            700025948
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Go for a Walk/Exercise",
+        "(09:00, 10:01)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Continue walking/exercising",
+        "(10:43, 12:08)",
+        [
+            "McBurney YMCA",
+            700000595
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 18:23)",
+        [
+            "",
+            700020107
+        ]
+    ],
+    [
+        "Dinner and Prepare for the Week",
+        "(18:36, 20:03)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Next arrangement after activities of the day",
+        "(20:03, 21:26)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:23, 23:35)",
+        [
+            "",
+            700022506
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "",
+            700022506
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "West Village Veterinary Hospital",
+            700014263
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:52)",
+        [
+            "West Village Veterinary Hospital",
+            700014263
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:30, 13:06)",
+        [
+            "West Village Veterinary Hospital",
+            700014263
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:54, 13:52)",
+        [
+            "West Village Veterinary Hospital",
+            700014263
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:19, 15:56)",
+        [
+            "West Village Veterinary Hospital",
+            700014263
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:30, 17:57)",
+        [
+            "Mobil",
+            700005847
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:42, 20:08)",
+        [
+            "Mobil",
+            700005847
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:10, 23:27)",
+        [
+            "",
+            700000896
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(23:44, 23:59)",
+        [
+            "Starbucks",
+            700003801
+        ]
+    ]
+]

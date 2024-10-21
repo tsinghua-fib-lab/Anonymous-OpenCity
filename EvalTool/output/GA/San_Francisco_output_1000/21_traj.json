@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000658
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:33)",
+        [
+            "Live Fit Gym",
+            700000656
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby",
+        "(11:03, 12:25)",
+        [
+            "",
+            700002047
+        ]
+    ],
+    [
+        "Social Time with Friends/Family",
+        "(13:02, 16:00)",
+        [
+            "Moka Coffee",
+            700001133
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:51, 20:10)",
+        [
+            "Donuts & Things",
+            700001125
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:54, 23:59)",
+        [
+            "Toast eatery",
+            700003138
+        ]
+    ]
+]

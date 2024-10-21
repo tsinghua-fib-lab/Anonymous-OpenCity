@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "West Bank Cafe",
+            700014810
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:57)",
+        [
+            "West Bank Cafe",
+            700014810
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:45, 14:01)",
+        [
+            "Chez Josephine",
+            700014808
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:46, 16:10)",
+        [
+            "Chez Josephine",
+            700014808
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:53, 18:17)",
+        [
+            "Chez Josephine",
+            700014808
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 21:04)",
+        [
+            "Playwrights Horizons",
+            700014807
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:58, 23:59)",
+        [
+            "",
+            700019860
+        ]
+    ]
+]

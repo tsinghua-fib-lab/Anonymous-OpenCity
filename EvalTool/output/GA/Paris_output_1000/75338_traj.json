@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Go for a leisurely walk or jog in the park",
+        "(10:00, 11:06)",
+        [
+            "",
+            700072311
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 15:15)",
+        [
+            "",
+            700004278
+        ]
+    ],
+    [
+        "Stay at Paris Eiffel Tower",
+        "(15:54, 17:56)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Go to Paris Eiffel Tower",
+        "(17:44, 18:53)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Go to Crédit Foncier.",
+        "(19:25, 20:53)",
+        [
+            "Casa Bilete Turn",
+            700016419
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:12, 23:59)",
+        [
+            "",
+            700026032
+        ]
+    ]
+]

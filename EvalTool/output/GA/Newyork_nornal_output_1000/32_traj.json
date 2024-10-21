@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CVS Pharmacy",
+            700018263
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:43)",
+        [
+            "",
+            700033382
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:35, 19:37)",
+        [
+            "",
+            700022422
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(17:41, 19:05)",
+        [
+            "",
+            700033275
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:54, 23:12)",
+        [
+            "Joan H. and Preston Robert Tisch Center",
+            700022907
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(22:16, 23:55)",
+        [
+            "CVS Pharmacy",
+            700018263
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "Grand Street Pizza",
+            700022291
+        ]
+    ]
+]

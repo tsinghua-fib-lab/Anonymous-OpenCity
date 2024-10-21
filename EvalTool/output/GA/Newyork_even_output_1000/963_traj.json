@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Totto Ramen",
+            700009648
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 10:53)",
+        [
+            "",
+            700001712
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:57, 12:52)",
+        [
+            "Totto Ramen",
+            700009648
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:04, 15:47)",
+        [
+            "Bareburger",
+            700006418
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:46, 23:59)",
+        [
+            "Aura's",
+            700038762
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(23:30, 23:59)",
+        [
+            "TacoVision",
+            700029765
+        ]
+    ]
+]

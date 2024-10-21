@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Little Basil",
+            700006236
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:14)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:53, 19:04)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(19:42, 21:05)",
+        [
+            "Little Basil",
+            700006236
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(21:08, 22:50)",
+        [
+            "Little Basil",
+            700006236
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(22:32, 23:59)",
+        [
+            "Little Basil",
+            700006236
+        ]
+    ]
+]

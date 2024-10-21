@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700035723
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:45)",
+        [
+            "Murphy's Law",
+            700035436
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 15:32)",
+        [
+            "",
+            700035722
+        ]
+    ],
+    [
+        "Next activity after social activity",
+        "(16:56, 18:27)",
+        [
+            "ACA Acupuncture & Wellness",
+            700038177
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(19:18, 22:10)",
+        [
+            "Murphy's Law",
+            700035436
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:29, 23:59)",
+        [
+            "Coffee Inn",
+            700011162
+        ]
+    ]
+]

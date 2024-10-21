@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002337
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:26)",
+        [
+            "CoCo Fresh Tea & Juice",
+            700003973
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:55, 14:52)",
+        [
+            "CoCo Fresh Tea & Juice",
+            700003973
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:41, 17:15)",
+        [
+            "CoCo Fresh Tea & Juice",
+            700003973
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:55, 19:00)",
+        [
+            "CoCo Fresh Tea & Juice",
+            700003973
+        ]
+    ],
+    [
+        "Social Time",
+        "(19:35, 20:43)",
+        [
+            "Citi Bike - Lexington Avenue & East 24th Street",
+            700008122
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:43, 22:42)",
+        [
+            "Di Di Dumpling",
+            700011514
+        ]
+    ]
+]

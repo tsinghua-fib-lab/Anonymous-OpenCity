@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "EVgo",
+            700013300
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:22)",
+        [
+            "EVgo",
+            700013300
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:33, 12:55)",
+        [
+            "EVgo",
+            700013300
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(13:17, 14:53)",
+        [
+            "EVgo",
+            700013300
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(15:39, 16:54)",
+        [
+            "EVgo",
+            700013300
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:38, 21:50)",
+        [
+            "",
+            700007362
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:55, 22:48)",
+        [
+            "EVgo",
+            700013300
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(23:53, 23:59)",
+        [
+            "EVgo",
+            700013300
+        ]
+    ]
+]

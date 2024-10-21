@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700014402
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:21)",
+        [
+            "",
+            700007719
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:10, 12:47)",
+        [
+            "Little Free Library",
+            700010493
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 15:26)",
+        [
+            "",
+            700011071
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(18:22, 19:54)",
+        [
+            "Little Free Library",
+            700010493
+        ]
+    ],
+    [
+        "Leisure activity.",
+        "(20:53, 23:25)",
+        [
+            "Little Free Library",
+            700010493
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(23:04, 23:59)",
+        [
+            "Urban Remedy",
+            700012597
+        ]
+    ]
+]

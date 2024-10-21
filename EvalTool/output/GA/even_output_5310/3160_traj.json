@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700038038
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:39)",
+        [
+            "",
+            700038050
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 14:31)",
+        [
+            "",
+            700038036
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 16:09)",
+        [
+            "",
+            700038033
+        ]
+    ],
+    [
+        "Stay at a place with amenities.",
+        "(16:53, 18:31)",
+        [
+            "",
+            700038031
+        ]
+    ],
+    [
+        "Stay at a place with amenities.",
+        "(19:20, 20:46)",
+        [
+            "",
+            700038023
+        ]
+    ],
+    [
+        "Stay at a place with amenities",
+        "(21:50, 23:00)",
+        [
+            "",
+            700038038
+        ]
+    ],
+    [
+        "Stay at current place with amenities.",
+        "(23:09, 23:59)",
+        [
+            "",
+            700038031
+        ]
+    ]
+]

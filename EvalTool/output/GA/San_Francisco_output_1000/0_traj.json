@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008283
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:30)",
+        [
+            "",
+            700008283
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby",
+        "(11:03, 12:42)",
+        [
+            "tacolicious",
+            700004975
+        ]
+    ],
+    [
+        "Social Time with Friends/Family",
+        "(13:02, 16:00)",
+        [
+            "Bonita Taqueria Y Rotisserie",
+            700003076
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:51, 20:03)",
+        [
+            "Carmine F. Vicino",
+            700000685
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:54, 23:59)",
+        [
+            "Bank of America",
+            700002294
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030400
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:33)",
+        [
+            "",
+            700014224
+        ]
+    ],
+    [
+        "Next move to Relaxation & Reading",
+        "(14:05, 15:36)",
+        [
+            "Artichoke Basille's Pizza",
+            700018142
+        ]
+    ],
+    [
+        "Relaxation & Reading",
+        "(15:51, 17:55)",
+        [
+            "",
+            700007890
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:33, 19:50)",
+        [
+            "Nowhere",
+            700007897
+        ]
+    ],
+    [
+        "Go to Artichoke Basille's Pizza",
+        "(23:18, 23:59)",
+        [
+            "Nowhere",
+            700007897
+        ]
+    ]
+]

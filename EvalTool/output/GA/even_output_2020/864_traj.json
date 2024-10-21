@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008328
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:10)",
+        [
+            "Maxfield's House of Caffeine",
+            700003619
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:26, 16:03)",
+        [
+            "",
+            700008226
+        ]
+    ],
+    [
+        "Watch a Movie/Show",
+        "(15:05, 17:10)",
+        [
+            "Dolores Park Cafe",
+            700002416
+        ]
+    ],
+    [
+        "Watch a Movie/Show",
+        "(16:58, 18:36)",
+        [
+            "Dolores Park Cafe",
+            700002416
+        ]
+    ],
+    [
+        "Hobbies/Projects",
+        "(18:52, 19:50)",
+        [
+            "Dolores Park Cafe",
+            700002416
+        ]
+    ],
+    [
+        "Hobbies/Projects",
+        "(21:00, 22:37)",
+        [
+            "Dolores Park Cafe",
+            700002416
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:11, 23:59)",
+        [
+            "",
+            700009134
+        ]
+    ]
+]

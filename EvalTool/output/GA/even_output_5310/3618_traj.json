@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700023704
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:18)",
+        [
+            "",
+            700023693
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:39, 17:59)",
+        [
+            "",
+            700023693
+        ]
+    ],
+    [
+        "Go to Little Free Library",
+        "(20:03, 22:00)",
+        [
+            "Little Free Library",
+            700023699
+        ]
+    ],
+    [
+        "Stay at 'Little Free Library' for 1 hour.",
+        "(21:51, 22:55)",
+        [
+            "",
+            700023697
+        ]
+    ],
+    [
+        "Stay at Little Free Library",
+        "(23:00, 23:57)",
+        [
+            "Little Free Library",
+            700023699
+        ]
+    ],
+    [
+        "Stay at Little Free Library.",
+        "(23:50, 23:59)",
+        [
+            "Little Free Library",
+            700023699
+        ]
+    ]
+]

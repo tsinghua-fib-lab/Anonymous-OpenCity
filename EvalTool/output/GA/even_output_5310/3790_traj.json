@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700021868
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:10)",
+        [
+            "One Medical",
+            700033968
+        ]
+    ],
+    [
+        "Meet friends for coffee or drinks at a café.",
+        "(11:13, 12:40)",
+        [
+            "City Beer",
+            700033969
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:18, 16:31)",
+        [
+            "",
+            700016929
+        ]
+    ],
+    [
+        "Explore local art galleries or visit a museum.",
+        "(15:41, 17:38)",
+        [
+            "Starbucks",
+            700016930
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 22:54)",
+        [
+            "",
+            700016929
+        ]
+    ],
+    [
+        "Stay at Starbucks.",
+        "(23:25, 23:59)",
+        [
+            "Starbucks",
+            700016930
+        ]
+    ]
+]

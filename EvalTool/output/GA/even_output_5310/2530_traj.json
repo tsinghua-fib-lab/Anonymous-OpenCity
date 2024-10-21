@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Blink",
+            700012448
+        ]
+    ],
+    [
+        "Breakfast and then go for Morning Exercise.",
+        "(10:00, 11:30)",
+        [
+            "FIKA 7th Avenue",
+            700008328
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(12:26, 13:55)",
+        [
+            "FIKA 7th Avenue",
+            700008328
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:41, 17:13)",
+        [
+            "FIKA 7th Avenue",
+            700008328
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(18:05, 19:53)",
+        [
+            "FIKA 7th Avenue",
+            700008328
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(20:42, 22:10)",
+        [
+            "FIKA 7th Avenue",
+            700008328
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "",
+            700020074
+        ]
+    ]
+]

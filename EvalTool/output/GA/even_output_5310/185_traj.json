@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700019336
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:39)",
+        [
+            "CVS Pharmacy",
+            700007100
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:36, 16:44)",
+        [
+            "",
+            700003141
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:49, 16:47)",
+        [
+            "Fiddler on The Roof",
+            700014942
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:07, 18:10)",
+        [
+            "The Polynesian",
+            700017475
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:26, 22:30)",
+        [
+            "Zillions Pizza",
+            700040621
+        ]
+    ]
+]

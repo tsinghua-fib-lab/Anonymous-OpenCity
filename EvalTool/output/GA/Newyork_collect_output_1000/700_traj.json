@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:14)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Outdoor activities or exercise",
+        "(14:46, 16:08)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:28, 19:04)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Prepare dinner and unwind",
+        "(18:05, 19:27)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "Prepare dinner and unwind",
+        "(20:34, 22:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Relax and read or browse online",
+        "(22:35, 23:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Relax and read or browse online",
+        "(23:55, 23:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

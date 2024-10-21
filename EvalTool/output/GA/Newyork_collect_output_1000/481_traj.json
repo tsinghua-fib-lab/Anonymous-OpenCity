@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:21)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Engage in a physical activity, such as going for a run or hitting the gym.",
+        "(12:13, 13:09)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 14:57)",
+        [
+            "Little Basil",
+            700006236
+        ]
+    ],
+    [
+        "Stay at Pick a Bagel.",
+        "(16:34, 17:55)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Engage in physical activity.",
+        "(18:52, 20:01)",
+        [
+            "Handcraft",
+            700006233
+        ]
+    ],
+    [
+        "Stay at Matto Espresso",
+        "(20:40, 22:09)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Next arrangement based on Situation 9",
+        "(22:35, 23:50)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Stay at Matto Espresso.",
+        "(23:40, 23:59)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ]
+]

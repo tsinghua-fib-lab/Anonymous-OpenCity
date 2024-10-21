@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700070801
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:16)",
+        [
+            "",
+            700004914
+        ]
+    ],
+    [
+        "Sport or Outdoor Activity",
+        "(14:40, 16:31)",
+        [
+            "Starbucks",
+            700070801
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:03, 19:51)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "Evening Socializing or Game Night",
+        "(20:44, 23:08)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "Afternoon Downtime",
+        "(23:39, 23:59)",
+        [
+            "Le Café Marly",
+            700000049
+        ]
+    ]
+]

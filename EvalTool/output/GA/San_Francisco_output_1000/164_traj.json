@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New Sun Hong Kong Restaurant",
+            700002084
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:41)",
+        [
+            "Jamra",
+            700004013
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 19:05)",
+        [
+            "Specs Bar",
+            700000427
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:22, 21:35)",
+        [
+            "The Devil's Acre",
+            700004011
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:18, 23:59)",
+        [
+            "Jamra",
+            700004013
+        ]
+    ]
+]

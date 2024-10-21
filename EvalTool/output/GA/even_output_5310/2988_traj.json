@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Seven Grams Caffé",
+            700013714
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:44)",
+        [
+            "Little Italy Pizzeria & Deli",
+            700022206
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:34, 16:37)",
+        [
+            "The Greene Space at WNYC/WQXR",
+            700015374
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:25, 23:59)",
+        [
+            "",
+            700020161
+        ]
+    ],
+    [
+        "Stay at the Greene Space at WNYC/WQXR",
+        "(23:24, 23:59)",
+        [
+            "The Greene Space at WNYC/WQXR",
+            700015374
+        ]
+    ]
+]

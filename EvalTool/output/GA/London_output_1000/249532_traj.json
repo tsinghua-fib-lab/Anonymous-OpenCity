@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:06)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:00, 12:59)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 19:05)",
+        [
+            "",
+            700072527
+        ]
+    ],
+    [
+        "Socialize",
+        "(17:09, 18:50)",
+        [
+            "",
+            700072083
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:29, 23:59)",
+        [
+            "The Grosvenor",
+            700003236
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "",
+            700023759
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Pimlico Gardens, Grosvenor Road",
+            700007682
+        ]
+    ]
+]

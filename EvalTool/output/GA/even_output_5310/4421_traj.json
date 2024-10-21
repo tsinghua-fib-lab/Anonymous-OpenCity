@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700031474
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:49)",
+        [
+            "",
+            700025365
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:37, 13:47)",
+        [
+            "Saigon Vietnamese Sandwich",
+            700023103
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:09, 22:41)",
+        [
+            "Café Grumpy",
+            700012616
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(20:50, 22:05)",
+        [
+            "Café Grumpy",
+            700012616
+        ]
+    ],
+    [
+        "Stay at Café Grumpy",
+        "(23:05, 23:59)",
+        [
+            "",
+            700031474
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:00, 11:06)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(11:26, 12:56)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Free Time/Relaxation",
+        "(13:55, 16:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Continue Free Time/Relaxation",
+        "(16:29, 18:01)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Free Time/Relaxation",
+        "(18:49, 20:26)",
+        [
+            "Newton Street",
+            700020796
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(20:24, 22:03)",
+        [
+            "Newton Street",
+            700020796
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:27, 23:59)",
+        [
+            "Caffè Nero",
+            700004089
+        ]
+    ]
+]

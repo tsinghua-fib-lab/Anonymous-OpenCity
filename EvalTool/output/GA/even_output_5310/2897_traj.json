@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Black Star Bakery & Cafe",
+            700020869
+        ]
+    ],
+    [
+        "Enjoy breakfast",
+        "(10:00, 10:56)",
+        [
+            "Black Star Bakery & Cafe",
+            700020869
+        ]
+    ],
+    [
+        "Enjoy breakfast",
+        "(11:21, 13:07)",
+        [
+            "Black Star Bakery & Cafe",
+            700020869
+        ]
+    ],
+    [
+        "Plan activities for the day",
+        "(13:41, 15:19)",
+        [
+            "Nargila Grill",
+            700030891
+        ]
+    ],
+    [
+        "Enjoy breakfast",
+        "(16:22, 18:48)",
+        [
+            "Black Star Bakery & Cafe",
+            700020869
+        ]
+    ],
+    [
+        "Go to Nargila Grill.",
+        "(19:01, 20:57)",
+        [
+            "Nargila Grill",
+            700030891
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:55, 23:59)",
+        [
+            "Coffee Shop",
+            700041023
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(10:00, 11:02)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:50, 13:02)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 17:37)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:19, 21:13)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "",
+            700022517
+        ]
+    ]
+]

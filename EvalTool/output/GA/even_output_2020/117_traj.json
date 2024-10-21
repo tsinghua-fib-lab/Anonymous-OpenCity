@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Cafe Ellis",
+            700005186
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(09:00, 09:50)",
+        [
+            "Black cat",
+            700006127
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(10:41, 12:03)",
+        [
+            "Black cat",
+            700006127
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:16, 13:36)",
+        [
+            "Black cat",
+            700006127
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:31, 16:05)",
+        [
+            "Black cat",
+            700006127
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:22, 20:05)",
+        [
+            "",
+            700000806
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:04, 23:59)",
+        [
+            "Falafel City",
+            700005195
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:59)",
+        [
+            "Falafel City",
+            700005195
+        ]
+    ]
+]

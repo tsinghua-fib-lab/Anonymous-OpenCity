@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:16)",
+        [
+            "",
+            700022433
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:16, 16:46)",
+        [
+            "Columbia Pizza",
+            700006251
+        ]
+    ],
+    [
+        "Engage in a recreational sports activity",
+        "(17:35, 19:05)",
+        [
+            "Citi Bike - Columbia St & Rivington St",
+            700008005
+        ]
+    ],
+    [
+        "Engage in a recreational sports activity",
+        "(19:26, 21:10)",
+        [
+            "Citi Bike - Columbia St & Rivington St",
+            700008005
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:59)",
+        [
+            "",
+            700002518
+        ]
+    ]
+]

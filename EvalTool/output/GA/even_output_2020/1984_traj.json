@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000751
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:05)",
+        [
+            "Kokio Republic",
+            700003440
+        ]
+    ],
+    [
+        "Leisurely Walk or Hike",
+        "(12:14, 14:04)",
+        [
+            "Osha BBQ",
+            700000475
+        ]
+    ],
+    [
+        "Afternoon Movie or TV Show Binge",
+        "(14:19, 16:51)",
+        [
+            "",
+            700000751
+        ]
+    ],
+    [
+        "Cooking a New Recipe",
+        "(17:02, 18:39)",
+        [
+            "",
+            700000751
+        ]
+    ],
+    [
+        "Dinner and Board Games with Family or Friends",
+        "(19:31, 22:04)",
+        [
+            "",
+            700000751
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:07, 23:59)",
+        [
+            "Louder",
+            700010154
+        ]
+    ],
+    [
+        "Cooking a New Recipe",
+        "(23:19, 23:59)",
+        [
+            "",
+            700000751
+        ]
+    ]
+]

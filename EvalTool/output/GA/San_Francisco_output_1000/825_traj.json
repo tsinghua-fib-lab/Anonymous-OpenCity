@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009145
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(09:00, 10:21)",
+        [
+            "International Smoke",
+            700004841
+        ]
+    ],
+    [
+        "6:30 PM to 7:00 PM - Prepare and have dinner",
+        "(10:41, 12:17)",
+        [
+            "",
+            700009145
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 15:42)",
+        [
+            "",
+            700000031
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(15:12, 16:52)",
+        [
+            "",
+            700010802
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 23:08)",
+        [
+            "",
+            700009868
+        ]
+    ],
+    [
+        "Stay at International Smoke",
+        "(23:15, 23:59)",
+        [
+            "Farmhouse Kitchen",
+            700004057
+        ]
+    ]
+]

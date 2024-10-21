@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Giordano Bros.",
+            700001215
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:59)",
+        [
+            "Stanza",
+            700004114
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:14, 16:16)",
+        [
+            "Arinell Pizza",
+            700002227
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:16, 18:27)",
+        [
+            "",
+            700008220
+        ]
+    ],
+    [
+        "Stay at Stanza.",
+        "(19:11, 21:10)",
+        [
+            "Stanza",
+            700004114
+        ]
+    ],
+    [
+        "Next, go to Great Saigon.",
+        "(21:57, 23:07)",
+        [
+            "Arinell Pizza",
+            700002227
+        ]
+    ],
+    [
+        "Next, stay at EastWest Unibank, or meet up with friends for coffee.",
+        "(23:46, 23:59)",
+        [
+            "IndoChine",
+            700009584
+        ]
+    ]
+]

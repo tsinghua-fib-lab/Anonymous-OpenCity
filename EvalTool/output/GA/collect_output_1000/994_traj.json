@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030416
+        ]
+    ],
+    [
+        "Spend some time reading or browsing online",
+        "(10:00, 11:10)",
+        [
+            "",
+            700030407
+        ]
+    ],
+    [
+        "Break at a nearby bench.",
+        "(11:43, 12:52)",
+        [
+            "",
+            700030403
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 15:56)",
+        [
+            "",
+            700030411
+        ]
+    ],
+    [
+        "Visit Your Working Place for more productive reading.",
+        "(18:35, 20:16)",
+        [
+            "TAO Downtown Nightclub",
+            700010043
+        ]
+    ],
+    [
+        "Wind down with a movie or reading.",
+        "(20:11, 22:05)",
+        [
+            "",
+            700030416
+        ]
+    ],
+    [
+        "Go to Your Working Place.",
+        "(22:55, 23:59)",
+        [
+            "TAO Downtown Nightclub",
+            700010043
+        ]
+    ]
+]

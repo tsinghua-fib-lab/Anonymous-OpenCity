@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Manhattan Indian Flavor",
+            700006191
+        ]
+    ],
+    [
+        "next_activity",
+        "(09:00, 10:03)",
+        [
+            "",
+            700022131
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:52, 11:52)",
+        [
+            "Corkbuzz",
+            700009207
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:44, 14:35)",
+        [
+            "Corkbuzz",
+            700009207
+        ]
+    ],
+    [
+        "Go to Corkbuzz and enjoy leisure reading.",
+        "(17:14, 19:23)",
+        [
+            "Corkbuzz",
+            700009207
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 23:52)",
+        [
+            "Lenwich",
+            700004765
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:54, 23:59)",
+        [
+            "Citi Bike",
+            700020404
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014648
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:49)",
+        [
+            "Aura's",
+            700038762
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:25, 16:00)",
+        [
+            "TacoVision",
+            700029765
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:40, 19:15)",
+        [
+            "Emack & Bolio's",
+            700039306
+        ]
+    ],
+    [
+        "Stay at Nargila Grill",
+        "(22:06, 23:07)",
+        [
+            "",
+            700014648
+        ]
+    ],
+    [
+        "Stay at HealthSource Pharmacy & Health Food Store",
+        "(23:51, 23:59)",
+        [
+            "",
+            700014648
+        ]
+    ]
+]

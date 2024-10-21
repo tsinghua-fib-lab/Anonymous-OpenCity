@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700037116
+        ]
+    ],
+    [
+        "Go for a walk or jog in the park",
+        "(09:00, 10:05)",
+        [
+            "",
+            700037112
+        ]
+    ],
+    [
+        "Reading or catching up on a hobby",
+        "(10:22, 11:25)",
+        [
+            "",
+            700037099
+        ]
+    ],
+    [
+        "Reading or catching up on a hobby",
+        "(11:48, 13:04)",
+        [
+            "Kolkota Chai Company",
+            700008397
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 14:32)",
+        [
+            "Cafe Cortadito",
+            700008392
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:34, 21:30)",
+        [
+            "Duane Reade",
+            700008396
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 22:50)",
+        [
+            "Duane Reade",
+            700008396
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "Wild Project",
+            700014724
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:05)",
+        [
+            "",
+            700022517
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:26, 12:10)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:36, 13:58)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(18:33, 19:58)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:33, 22:24)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ]
+]

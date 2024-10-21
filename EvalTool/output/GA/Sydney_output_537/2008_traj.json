@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Food Hall",
+            700002497
+        ]
+    ],
+    [
+        "Go for a morning walk or jog in the park",
+        "(09:00, 10:03)",
+        [
+            "",
+            700014352
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:11, 15:57)",
+        [
+            "Scissors and Tonges",
+            700022543
+        ]
+    ],
+    [
+        "Engage in a sports activity or play a game",
+        "(14:30, 15:56)",
+        [
+            "Lilly's",
+            700025293
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:39, 17:51)",
+        [
+            "Oliver Brown",
+            700011308
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:13, 23:59)",
+        [
+            "Pasticceria Caruso",
+            700031456
+        ]
+    ]
+]

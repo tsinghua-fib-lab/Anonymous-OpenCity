@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Gene Frankel Theatre",
+            700009310
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:31)",
+        [
+            "Citi Bike - Great Jones St",
+            700008087
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:59, 19:25)",
+        [
+            "Citi Bike - Great Jones St",
+            700008087
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:53, 17:12)",
+        [
+            "Citi Bike - Great Jones St",
+            700008087
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 19:59)",
+        [
+            "Vic's",
+            700023914
+        ]
+    ],
+    [
+        "Stay at the current place",
+        "(20:59, 22:28)",
+        [
+            "Gene Frankel Theatre",
+            700009310
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "",
+            700001255
+        ]
+    ]
+]

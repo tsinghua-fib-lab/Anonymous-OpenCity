@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Smalls Jazz Club",
+            700009221
+        ]
+    ],
+    [
+        "Leisure reading or hobbies",
+        "(10:00, 11:26)",
+        [
+            "Smalls Jazz Club",
+            700009221
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 16:03)",
+        [
+            "Stonewall Inn",
+            700000472
+        ]
+    ],
+    [
+        "Evening relaxation and planning for the week",
+        "(17:07, 19:01)",
+        [
+            "Stonewall Inn",
+            700000472
+        ]
+    ],
+    [
+        "Evening relaxation and planning for the week",
+        "(20:01, 21:00)",
+        [
+            "Stonewall Inn",
+            700000472
+        ]
+    ],
+    [
+        "Stay at Stonewall Inn",
+        "(21:40, 22:45)",
+        [
+            "Stonewall Inn",
+            700000472
+        ]
+    ],
+    [
+        "Stay at Kettle of Fish",
+        "(23:01, 23:59)",
+        [
+            "Smalls Jazz Club",
+            700009221
+        ]
+    ]
+]

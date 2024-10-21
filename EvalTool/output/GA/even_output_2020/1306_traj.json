@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Domo",
+            700011013
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:53)",
+        [
+            "Linden & Laguna",
+            700009521
+        ]
+    ],
+    [
+        "reading a book or catching up on your favorite podcasts",
+        "(12:15, 13:20)",
+        [
+            "Domo",
+            700011013
+        ]
+    ],
+    [
+        "Engage in a fun hobby or craft project",
+        "(14:10, 16:05)",
+        [
+            "Domo",
+            700011013
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(17:03, 18:55)",
+        [
+            "Domo",
+            700011013
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:27, 23:59)",
+        [
+            "Bike Parking",
+            700002840
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "La Brochette Steakhouse",
+            700016939
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(09:00, 09:56)",
+        [
+            "Sushi Zo",
+            700016937
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(10:12, 11:48)",
+        [
+            "Sushi Zo",
+            700016937
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 12:59)",
+        [
+            "Citi Bike",
+            700021661
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 22:52)",
+        [
+            "La Stanza",
+            700016936
+        ]
+    ],
+    [
+        "Next go to Bo Law Kung Fu for an evening class to relax.",
+        "(23:07, 23:59)",
+        [
+            "Nirvana Indian Cuisine",
+            700010325
+        ]
+    ]
+]

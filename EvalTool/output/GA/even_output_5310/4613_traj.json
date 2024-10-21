@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pret A Manger",
+            700039955
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 11:06)",
+        [
+            "Pret A Manger",
+            700039955
+        ]
+    ],
+    [
+        "Current place: Pret A Manger, staying for brunch.",
+        "(11:34, 13:08)",
+        [
+            "Pret A Manger",
+            700039955
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:38, 15:11)",
+        [
+            "TMPL Fitness Astor Place",
+            700038327
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 20:35)",
+        [
+            "",
+            700002885
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:07, 22:38)",
+        [
+            "",
+            700001649
+        ]
+    ]
+]

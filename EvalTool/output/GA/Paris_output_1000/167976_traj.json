@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700022789
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:53)",
+        [
+            "",
+            700017263
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(14:04, 16:39)",
+        [
+            "",
+            700069789
+        ]
+    ],
+    [
+        "Socialize with friends or family",
+        "(17:24, 19:01)",
+        [
+            "LoveHotel Châtelet",
+            700056402
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 23:05)",
+        [
+            "Lalaland",
+            700056399
+        ]
+    ],
+    [
+        "Situation_10",
+        "(22:46, 23:58)",
+        [
+            "Lalaland",
+            700056399
+        ]
+    ],
+    [
+        "Go to LoveHotel Châtelet",
+        "(23:47, 23:59)",
+        [
+            "LoveHotel Châtelet",
+            700056402
+        ]
+    ]
+]

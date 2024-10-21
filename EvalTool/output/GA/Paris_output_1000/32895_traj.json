@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Frog & Rosbif",
+            700069457
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:23)",
+        [
+            "Pharmacie Mutualiste",
+            700002657
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:08, 13:54)",
+        [
+            "La Boule Maître Kebabier",
+            700002653
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:05, 19:53)",
+        [
+            "Petit Bao 小包子",
+            700069458
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:45, 20:51)",
+        [
+            "Pharmacie Internationale Centrale",
+            700018170
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:53, 23:59)",
+        [
+            "Tuk Tuk Naan",
+            700025193
+        ]
+    ]
+]

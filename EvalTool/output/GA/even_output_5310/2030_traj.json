@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Amore Pizza Cafe",
+            700010037
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:21)",
+        [
+            "24 Hour Parking",
+            700008320
+        ]
+    ],
+    [
+        "Stay at 24 Hour Parking.",
+        "(12:18, 14:36)",
+        [
+            "24 Hour Parking",
+            700008320
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:00, 17:17)",
+        [
+            "CityMD",
+            700013538
+        ]
+    ],
+    [
+        "Stay at 24 Hour Parking.",
+        "(21:15, 23:08)",
+        [
+            "CityMD",
+            700013538
+        ]
+    ],
+    [
+        "Stay at Amore Pizza Cafe.",
+        "(23:10, 23:59)",
+        [
+            "Amore Pizza Cafe",
+            700010037
+        ]
+    ]
+]

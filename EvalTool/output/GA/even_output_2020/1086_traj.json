@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Walgreens",
+            700000764
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 12:08)",
+        [
+            "BevMo Parking",
+            700005333
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 17:19)",
+        [
+            "BevMo Parking",
+            700005333
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:56, 17:54)",
+        [
+            "Cafe Pacific Plaza",
+            700010105
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 19:31)",
+        [
+            "Cool Bar",
+            700012103
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "",
+            700001240
+        ]
+    ]
+]

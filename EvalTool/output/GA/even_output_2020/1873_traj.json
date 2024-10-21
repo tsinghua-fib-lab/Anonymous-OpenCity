@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Himalayan Pizza & Momo",
+            700005080
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:37)",
+        [
+            "Morty's",
+            700005079
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:35, 13:04)",
+        [
+            "Morty's",
+            700005079
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:13, 15:39)",
+        [
+            "Fluid Cooperative Cafe",
+            700009453
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 22:01)",
+        [
+            "Bini's Kitchen",
+            700010641
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(23:43, 23:59)",
+        [
+            "Wells Fargo",
+            700005081
+        ]
+    ]
+]

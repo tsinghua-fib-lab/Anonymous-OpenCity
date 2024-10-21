@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002166
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 12:07)",
+        [
+            "The Mermaid Inn – Chelsea",
+            700024609
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 13:00)",
+        [
+            "",
+            700003765
+        ]
+    ],
+    [
+        "Have lunch at a nice restaurant with friends",
+        "(15:46, 17:13)",
+        [
+            "",
+            700003765
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:00, 21:22)",
+        [
+            "",
+            700001670
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:59)",
+        [
+            "",
+            700039910
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(22:14, 23:34)",
+        [
+            "The Mermaid Inn – Chelsea",
+            700024609
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(23:47, 23:59)",
+        [
+            "The Mermaid Inn – Chelsea",
+            700024609
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "Leisure reading or hobbies",
+        "(10:00, 11:27)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 17:28)",
+        [
+            "",
+            700001669
+        ]
+    ],
+    [
+        "Evening relaxation and planning for the week",
+        "(17:07, 18:50)",
+        [
+            "Made in New York Pizza",
+            700027989
+        ]
+    ],
+    [
+        "Evening relaxation and planning for the week",
+        "(20:01, 21:01)",
+        [
+            "Made in New York Pizza",
+            700027989
+        ]
+    ],
+    [
+        "Stay at Made in New York Pizza",
+        "(21:40, 22:58)",
+        [
+            "Made in New York Pizza",
+            700027989
+        ]
+    ],
+    [
+        "Stay at Made in New York Pizza",
+        "(23:01, 23:59)",
+        [
+            "White Horse Tavern",
+            700008957
+        ]
+    ]
+]

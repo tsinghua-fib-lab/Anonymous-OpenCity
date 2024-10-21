@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:58)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:09, 12:02)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:13, 13:53)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Social Time or Outdoor Activity",
+        "(14:30, 16:54)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:47, 22:32)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Next Activity",
+        "(23:11, 23:59)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ]
+]

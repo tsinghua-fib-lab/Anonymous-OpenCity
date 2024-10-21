@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001743
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 11:03)",
+        [
+            "",
+            700001743
+        ]
+    ],
+    [
+        "Next activity: Light jog or yoga session in the park.",
+        "(11:34, 12:44)",
+        [
+            "maman",
+            700004115
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:38, 14:25)",
+        [
+            "",
+            700001531
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 18:30)",
+        [
+            "El Cantinero",
+            700014259
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:07, 23:01)",
+        [
+            "Fields Good Chicken",
+            700034078
+        ]
+    ]
+]

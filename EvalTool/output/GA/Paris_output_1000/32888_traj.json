@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "Next activity to engage in is a morning leisure activity like reading a book or light exercise.",
+        "(10:00, 11:03)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:51, 12:08)",
+        [
+            "",
+            700004912
+        ]
+    ],
+    [
+        "Next activity to engage in is a morning leisure activity.",
+        "(12:35, 13:37)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 16:59)",
+        [
+            "Le Café Marly",
+            700000049
+        ]
+    ],
+    [
+        "Go to café",
+        "(17:09, 18:49)",
+        [
+            "Le Café Marly",
+            700000049
+        ]
+    ],
+    [
+        "Go to café at Le Café Marly.",
+        "(19:17, 20:55)",
+        [
+            "Le Café Marly",
+            700000049
+        ]
+    ],
+    [
+        "Stay at Le Café Marly.",
+        "(21:50, 23:29)",
+        [
+            "Le Café Marly",
+            700000049
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "",
+            700004899
+        ]
+    ]
+]

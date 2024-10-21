@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700019284
+        ]
+    ],
+    [
+        "Go for a Brunch with Friends",
+        "(09:00, 10:32)",
+        [
+            "Starbucks",
+            700035381
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:04, 12:32)",
+        [
+            "Citizens Bank",
+            700035375
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 18:42)",
+        [
+            "Pret A Manger",
+            700035376
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(18:21, 19:51)",
+        [
+            "Pret A Manger",
+            700035376
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:57, 21:27)",
+        [
+            "",
+            700019284
+        ]
+    ],
+    [
+        "Go to Bistro les Amis from Dinner Preparation and Family Time.",
+        "(22:13, 23:35)",
+        [
+            "Citi Bike - East 14th Street & Avenue B",
+            700008024
+        ]
+    ],
+    [
+        "Go to San Carlo Osteria Piemonte",
+        "(23:49, 23:59)",
+        [
+            "Bright Horizons Early Education & Preschool",
+            700009253
+        ]
+    ]
+]

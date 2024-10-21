@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Atelier de Restauration et de Conservation des Photographies de la Ville de Paris",
+            700002778
+        ]
+    ],
+    [
+        "Next activity to engage in is a morning leisure activity like reading a book or light exercise.",
+        "(10:00, 10:58)",
+        [
+            "Atelier de Restauration et de Conservation des Photographies de la Ville de Paris",
+            700002778
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:51, 12:11)",
+        [
+            "",
+            700047147
+        ]
+    ],
+    [
+        "Next activity to engage in is a morning leisure activity.",
+        "(12:35, 13:53)",
+        [
+            "",
+            700047152
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 15:54)",
+        [
+            "",
+            700047151
+        ]
+    ],
+    [
+        "Go to restaurant",
+        "(17:09, 18:43)",
+        [
+            "Chez Mademoiselle",
+            700002780
+        ]
+    ],
+    [
+        "Stay at Paris Musée du Louvre.",
+        "(19:17, 21:02)",
+        [
+            "",
+            700047155
+        ]
+    ],
+    [
+        "Stay at Chez Mademoiselle.",
+        "(21:50, 23:16)",
+        [
+            "Chez Mademoiselle",
+            700002780
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "",
+            700047149
+        ]
+    ]
+]

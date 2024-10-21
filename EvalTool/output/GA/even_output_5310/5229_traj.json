@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "USPS",
+            700016436
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:08)",
+        [
+            "Colomba Coffee",
+            700013973
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:01, 12:40)",
+        [
+            "Colomba Coffee",
+            700013973
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:57, 13:58)",
+        [
+            "Colomba Coffee",
+            700013973
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:30, 15:54)",
+        [
+            "Colomba Coffee",
+            700013973
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:45, 18:20)",
+        [
+            "",
+            700017442
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(20:09, 21:30)",
+        [
+            "Colomba Coffee",
+            700013973
+        ]
+    ],
+    [
+        "Go to visit friends or family",
+        "(21:48, 23:57)",
+        [
+            "Colomba Coffee",
+            700013973
+        ]
+    ],
+    [
+        "Stay at Colomba Coffee",
+        "(23:43, 23:59)",
+        [
+            "Colomba Coffee",
+            700013973
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pakwan",
+            700000846
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:13)",
+        [
+            "Picaro",
+            700003396
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(12:59, 14:05)",
+        [
+            "Picaro",
+            700003396
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 18:59)",
+        [
+            "Stanza",
+            700004114
+        ]
+    ],
+    [
+        "Watch TV or relax before bed",
+        "(20:35, 22:09)",
+        [
+            "Stanza",
+            700004114
+        ]
+    ],
+    [
+        "Next activity after relaxing day",
+        "(22:24, 23:56)",
+        [
+            "Stanza",
+            700004114
+        ]
+    ],
+    [
+        "Next activity after relaxing day",
+        "(23:46, 23:59)",
+        [
+            "Stanza",
+            700004114
+        ]
+    ]
+]

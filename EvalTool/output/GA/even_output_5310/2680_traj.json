@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pronto Pizza",
+            700017585
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:34)",
+        [
+            "Valley Bank",
+            700029920
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:24, 17:07)",
+        [
+            "Valley Bank",
+            700029920
+        ]
+    ],
+    [
+        "Cultural Outing",
+        "(17:05, 18:56)",
+        [
+            "Valley Bank",
+            700029920
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 23:33)",
+        [
+            "TsuroTonTan",
+            700017586
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:59)",
+        [
+            "Delis 48",
+            700009827
+        ]
+    ]
+]

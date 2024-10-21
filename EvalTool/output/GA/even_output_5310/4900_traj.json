@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "One White Street",
+            700005343
+        ]
+    ],
+    [
+        "11:00 AM – Morning Exercise",
+        "(10:00, 11:32)",
+        [
+            "One White Street",
+            700005343
+        ]
+    ],
+    [
+        "Continue to Leisure Activity or Shopping",
+        "(12:11, 13:54)",
+        [
+            "",
+            700030905
+        ]
+    ],
+    [
+        "Leisure Activity or Shopping",
+        "(14:21, 16:24)",
+        [
+            "",
+            700031385
+        ]
+    ],
+    [
+        "Continue to Leisure Activity or Shopping",
+        "(17:03, 18:32)",
+        [
+            "One White Street",
+            700005343
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:21, 22:29)",
+        [
+            "",
+            700001596
+        ]
+    ],
+    [
+        "Relax at home",
+        "(23:24, 23:59)",
+        [
+            "One White Street",
+            700005343
+        ]
+    ]
+]

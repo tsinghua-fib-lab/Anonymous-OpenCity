@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008232
+        ]
+    ],
+    [
+        "Go for a walk or jog in the park",
+        "(09:00, 09:57)",
+        [
+            "Taqueria El Buen Sabor",
+            700004390
+        ]
+    ],
+    [
+        "Stay at Taqueria El Buen Sabor",
+        "(10:37, 12:16)",
+        [
+            "Good Good Culture Club",
+            700002499
+        ]
+    ],
+    [
+        "Have lunch with friends or family",
+        "(12:45, 14:09)",
+        [
+            "",
+            700008232
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a TV series",
+        "(14:31, 16:22)",
+        [
+            "",
+            700008232
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:22, 20:40)",
+        [
+            "",
+            700008234
+        ]
+    ],
+    [
+        "Wind down with some light reading or relaxation.",
+        "(19:24, 20:54)",
+        [
+            "Souvla",
+            700007447
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 23:59)",
+        [
+            "Taqueria El Buen Sabor",
+            700004390
+        ]
+    ]
+]

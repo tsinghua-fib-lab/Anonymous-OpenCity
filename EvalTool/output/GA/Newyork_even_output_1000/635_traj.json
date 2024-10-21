@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000711
+        ]
+    ],
+    [
+        "Workout or Outdoor Activity",
+        "(10:00, 11:24)",
+        [
+            "Golden Diner",
+            700014779
+        ]
+    ],
+    [
+        "Workout or Outdoor Activity",
+        "(12:14, 13:45)",
+        [
+            "Golden Diner",
+            700014779
+        ]
+    ],
+    [
+        "Relaxation/Reading Time",
+        "(14:42, 16:13)",
+        [
+            "",
+            700000711
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:28, 19:32)",
+        [
+            "",
+            700038447
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:58, 21:00)",
+        [
+            "",
+            700038453
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:34, 23:59)",
+        [
+            "",
+            700038441
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700036164
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:27)",
+        [
+            "",
+            700036169
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:41, 19:46)",
+        [
+            "",
+            700036169
+        ]
+    ],
+    [
+        "You are currently at a restaurant enjoying dinner.",
+        "(20:11, 22:07)",
+        [
+            "",
+            700036166
+        ]
+    ],
+    [
+        "Wind down for the evening by watching a movie or catching up on a series.",
+        "(22:59, 23:59)",
+        [
+            "",
+            700036164
+        ]
+    ]
+]

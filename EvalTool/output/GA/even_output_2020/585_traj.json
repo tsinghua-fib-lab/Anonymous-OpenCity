@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Workshop SF",
+            700007337
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:58)",
+        [
+            "Trax",
+            700000010
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:47, 14:44)",
+        [
+            "",
+            700007623
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(16:43, 18:01)",
+        [
+            "",
+            700007621
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(18:04, 19:55)",
+        [
+            "Workshop SF",
+            700007337
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(20:20, 21:49)",
+        [
+            "Coffee to the People",
+            700005262
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(22:28, 23:56)",
+        [
+            "Hippie Thai Street Food",
+            700007281
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "Sunshine Coast: Hookah Fusion Bar",
+            700003031
+        ]
+    ]
+]

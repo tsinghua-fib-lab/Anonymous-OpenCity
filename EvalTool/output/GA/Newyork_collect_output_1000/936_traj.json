@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Read/Relax Time",
+        "(09:00, 10:38)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Continue reading at Sunflower Cafe",
+        "(10:43, 12:23)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 14:29)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Dinner and Prepare for the Week",
+        "(18:36, 20:22)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Next arrangement after activities of the day",
+        "(20:03, 21:23)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:23, 23:40)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ]
+]

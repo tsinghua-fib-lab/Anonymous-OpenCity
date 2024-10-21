@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000990
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:50)",
+        [
+            "Yokoya",
+            700011352
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(12:30, 14:03)",
+        [
+            "Yokoya",
+            700011352
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 16:48)",
+        [
+            "bOb Bar",
+            700004118
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(18:50, 19:54)",
+        [
+            "bOb Bar",
+            700004118
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:58, 22:16)",
+        [
+            "Macondo",
+            700009070
+        ]
+    ]
+]

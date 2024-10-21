@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "1 Av & E 14 St",
+            700011090
+        ]
+    ],
+    [
+        "Lunch Preparation and Meal",
+        "(09:00, 09:59)",
+        [
+            "1 Av & E 14 St",
+            700011090
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 15:22)",
+        [
+            "US Post Office",
+            700021998
+        ]
+    ],
+    [
+        "Social Time",
+        "(13:57, 15:03)",
+        [
+            "US Post Office",
+            700021998
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:07, 17:00)",
+        [
+            "1 Av & E 14 St",
+            700011090
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:14, 18:41)",
+        [
+            "Panda Express",
+            700005924
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:19, 23:59)",
+        [
+            "O'Hanlons Bar",
+            700016457
+        ]
+    ],
+    [
+        "stay in the current place",
+        "(23:07, 23:59)",
+        [
+            "New Arc Chicken",
+            700017085
+        ]
+    ]
+]

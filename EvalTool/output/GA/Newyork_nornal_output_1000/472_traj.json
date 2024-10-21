@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Antica",
+            700033648
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the nearby park or neighborhood to enjoy the fresh air.",
+        "(09:00, 09:55)",
+        [
+            "Antica",
+            700033648
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:39, 15:37)",
+        [
+            "Pokébab",
+            700016035
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:35, 21:17)",
+        [
+            "Wells Fargo",
+            700004063
+        ]
+    ],
+    [
+        "Current Place: Wells Fargo; Stay Time: 1 hour 24 minutes",
+        "(21:36, 22:56)",
+        [
+            "Antica",
+            700033648
+        ]
+    ],
+    [
+        "Next place: Antica",
+        "(23:34, 23:59)",
+        [
+            "Antica",
+            700033648
+        ]
+    ]
+]

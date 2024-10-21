@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008855
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:16)",
+        [
+            "Hospitality House",
+            700013882
+        ]
+    ],
+    [
+        "Lunch Preparation and Eating",
+        "(12:03, 13:09)",
+        [
+            "Hospitality House",
+            700013882
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 14:42)",
+        [
+            "Halal Spot",
+            700010117
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:39, 21:36)",
+        [
+            "Casa Mayah",
+            700013875
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:31, 23:59)",
+        [
+            "Hospitality House",
+            700013874
+        ]
+    ]
+]

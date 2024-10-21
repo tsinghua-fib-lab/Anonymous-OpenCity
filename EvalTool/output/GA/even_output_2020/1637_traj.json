@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "King St. Dental",
+            700011163
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(10:00, 10:55)",
+        [
+            "",
+            700012821
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(11:32, 12:57)",
+        [
+            "King St. Dental",
+            700011163
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 17:24)",
+        [
+            "Public House",
+            700002128
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:12, 20:03)",
+        [
+            "",
+            700012821
+        ]
+    ],
+    [
+        "Evening Relaxation and Wind Down",
+        "(20:30, 23:22)",
+        [
+            "King St. Dental",
+            700011163
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "",
+            700012822
+        ]
+    ]
+]

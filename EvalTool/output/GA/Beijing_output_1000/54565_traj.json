@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "光大大厦",
+            700357738
+        ]
+    ],
+    [
+        "Go for a morning walk or jog at the park",
+        "(10:00, 10:55)",
+        [
+            "高登大厦停车场",
+            700060586
+        ]
+    ],
+    [
+        "Go for a morning walk or jog at the park.",
+        "(10:59, 12:39)",
+        [
+            "高登大厦停车场",
+            700060586
+        ]
+    ],
+    [
+        "Have lunch at a nearby café",
+        "(12:42, 14:05)",
+        [
+            "广州大厦西餐厅",
+            700194124
+        ]
+    ],
+    [
+        "Attend a local sports event or activity.",
+        "(14:24, 16:00)",
+        [
+            "广州大厦西餐厅",
+            700194124
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:27, 18:48)",
+        [
+            "广州大厦-商品部",
+            700456138
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:48, 19:39)",
+        [
+            "广州大厦-会议厅",
+            700215407
+        ]
+    ],
+    [
+        "Prepare and have dinner with friends or family",
+        "(23:35, 23:59)",
+        [
+            "广州大厦-室内冲浪泳池",
+            700884042
+        ]
+    ]
+]

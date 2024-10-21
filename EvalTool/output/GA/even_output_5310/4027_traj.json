@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Jonty Jacobs",
+            700005290
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:32)",
+        [
+            "Sushi Counter",
+            700040731
+        ]
+    ],
+    [
+        "Watch a movie or catch up on your favorite TV shows.",
+        "(10:28, 12:02)",
+        [
+            "Sushi Counter",
+            700040731
+        ]
+    ],
+    [
+        "Next activity after lunch",
+        "(12:27, 13:53)",
+        [
+            "Sushi Counter",
+            700040731
+        ]
+    ],
+    [
+        "You are currently at Sushi Counter.",
+        "(14:48, 16:39)",
+        [
+            "",
+            700001597
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:07, 22:46)",
+        [
+            "",
+            700001569
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:41, 23:59)",
+        [
+            "Northfork",
+            700020677
+        ]
+    ]
+]

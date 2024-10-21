@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Royal Exhibition Hotel",
+            700023651
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:28)",
+        [
+            "Campos",
+            700020008
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(15:34, 16:56)",
+        [
+            "Royal Exhibition Hotel",
+            700023651
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:07, 19:52)",
+        [
+            "Numero Uno",
+            700006963
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 20:46)",
+        [
+            "Ground 407 Elizabeth Street",
+            700007925
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:05, 23:59)",
+        [
+            "Numero Uno",
+            700006963
+        ]
+    ]
+]

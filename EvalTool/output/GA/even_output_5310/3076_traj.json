@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Julius",
+            700005271
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:51)",
+        [
+            "Partners Coffee",
+            700009840
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:21, 14:39)",
+        [
+            "Empellon Taqueria",
+            700005689
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 19:46)",
+        [
+            "Chase",
+            700004313
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:54, 23:05)",
+        [
+            "Annisa",
+            700003334
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "Boucherie",
+            700030494
+        ]
+    ]
+]

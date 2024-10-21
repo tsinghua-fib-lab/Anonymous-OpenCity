@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Txikito",
+            700004676
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park.",
+        "(10:00, 11:10)",
+        [
+            "",
+            700002197
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park.",
+        "(11:03, 12:59)",
+        [
+            "Txikito",
+            700004676
+        ]
+    ],
+    [
+        "Spend some time reading a book or doing a hobby.",
+        "(13:36, 15:04)",
+        [
+            "Txikito",
+            700004676
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:43, 21:19)",
+        [
+            "Downtown Veterinary Clinic",
+            700012428
+        ]
+    ],
+    [
+        "Go for coffee or casual hangout with friends",
+        "(19:32, 21:22)",
+        [
+            "",
+            700001442
+        ]
+    ],
+    [
+        "Wind down the day by watching a movie or binge-watching a series.",
+        "(21:30, 23:08)",
+        [
+            "Txikito",
+            700004676
+        ]
+    ],
+    [
+        "Stay at home",
+        "(23:32, 23:59)",
+        [
+            "Txikito",
+            700004676
+        ]
+    ]
+]

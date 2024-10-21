@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ping Yang",
+            700001044
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:31)",
+        [
+            "",
+            700010113
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 17:00)",
+        [
+            "Ha-Ra",
+            700001037
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(17:10, 18:34)",
+        [
+            "Ha-Ra",
+            700001037
+        ]
+    ],
+    [
+        "Prepare and have dinner, followed by relaxation",
+        "(18:47, 20:40)",
+        [
+            "Ping Yang",
+            700001044
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:59, 23:59)",
+        [
+            "House of Thai",
+            700001043
+        ]
+    ]
+]

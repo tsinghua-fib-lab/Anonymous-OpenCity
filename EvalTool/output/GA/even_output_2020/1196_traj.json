@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chai Bar by David Rio",
+            700005255
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:47)",
+        [
+            "",
+            700010250
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 21:29)",
+        [
+            "Taqueria Can-Cún",
+            700004317
+        ]
+    ],
+    [
+        "Family/Friends Time",
+        "(19:36, 21:45)",
+        [
+            "Taqueria Can-Cún",
+            700004317
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:57, 23:59)",
+        [
+            "Gai",
+            700001606
+        ]
+    ]
+]

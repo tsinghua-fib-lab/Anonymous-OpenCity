@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rosemary's",
+            700026186
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:59)",
+        [
+            "First Avenue Veterinary Hospital",
+            700006196
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 13:47)",
+        [
+            "Salk School of Science",
+            700000288
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:51, 19:57)",
+        [
+            "L'Angeletto",
+            700006193
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 23:06)",
+        [
+            "Posto",
+            700006194
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:45, 22:12)",
+        [
+            "Posto",
+            700006194
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:35, 23:59)",
+        [
+            "",
+            700022129
+        ]
+    ]
+]

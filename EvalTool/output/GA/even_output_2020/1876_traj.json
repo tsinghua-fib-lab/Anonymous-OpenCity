@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008855
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the park nearby",
+        "(10:00, 10:50)",
+        [
+            "",
+            700008855
+        ]
+    ],
+    [
+        "Next, go for a leisurely walk in the park nearby.",
+        "(11:08, 12:59)",
+        [
+            "",
+            700000806
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:51, 16:06)",
+        [
+            "Amigos",
+            700005120
+        ]
+    ],
+    [
+        "Still at your chosen location to enjoy the ambiance.",
+        "(19:39, 21:51)",
+        [
+            "",
+            700008855
+        ]
+    ],
+    [
+        "Stay at Morty's",
+        "(22:10, 23:22)",
+        [
+            "",
+            700008856
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "",
+            700009615
+        ]
+    ]
+]

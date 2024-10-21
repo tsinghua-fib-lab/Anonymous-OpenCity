@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Luke’s Bar & Grill",
+            700014854
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:35)",
+        [
+            "Tri Dim Shanghai",
+            700019737
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:13, 21:02)",
+        [
+            "",
+            700000948
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(17:08, 18:26)",
+        [
+            "Tri Dim Shanghai",
+            700019737
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(19:25, 21:51)",
+        [
+            "Tri Dim Shanghai",
+            700019737
+        ]
+    ],
+    [
+        "Head to Rothschild TLV for a meal",
+        "(22:29, 23:59)",
+        [
+            "Rothschild TLV",
+            700019738
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(23:55, 23:59)",
+        [
+            "Rothschild TLV",
+            700019738
+        ]
+    ]
+]

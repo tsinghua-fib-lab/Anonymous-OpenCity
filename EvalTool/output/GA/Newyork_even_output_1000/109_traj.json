@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Viva Cucina",
+            700026605
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:31)",
+        [
+            "KGB Bar",
+            700008751
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:39, 16:45)",
+        [
+            "Via Della Pace",
+            700025815
+        ]
+    ],
+    [
+        "Social or Family Time",
+        "(16:35, 19:07)",
+        [
+            "Citi Bike - East 4th Street & 2nd Avenue",
+            700008046
+        ]
+    ],
+    [
+        "Prepare Dinner & Wind Down",
+        "(19:24, 20:52)",
+        [
+            "Citi Bike - East 4th Street & 2nd Avenue",
+            700008046
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:50, 23:35)",
+        [
+            "New York Comedy Club",
+            700023587
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mymy",
+            700003062
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:24)",
+        [
+            "CityPop",
+            700004245
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 14:45)",
+        [
+            "Walgreens",
+            700001121
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:03, 16:26)",
+        [
+            "CityPop",
+            700004245
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:48, 18:19)",
+        [
+            "CityPop",
+            700004245
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:01, 23:59)",
+        [
+            "Pine Street Station San Francisco Post Office",
+            700000395
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:55, 23:59)",
+        [
+            "CityPop",
+            700004245
+        ]
+    ]
+]

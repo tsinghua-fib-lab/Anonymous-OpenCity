@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Brazen Head",
+            700005651
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:53)",
+        [
+            "The Brazen Head",
+            700005651
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:17, 13:24)",
+        [
+            "Wells Fargo",
+            700004122
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(13:39, 15:14)",
+        [
+            "Wells Fargo",
+            700004122
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(15:28, 17:07)",
+        [
+            "Wells Fargo",
+            700004122
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 19:39)",
+        [
+            "Bus Stop",
+            700004822
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:57)",
+        [
+            "Bank of America",
+            700004124
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cruise Bar",
+            700000206
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:37)",
+        [
+            "Guylian",
+            700006923
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:30, 16:25)",
+        [
+            "Zia Pina Pizzeria",
+            700009840
+        ]
+    ],
+    [
+        "Prep Dinner",
+        "(18:03, 20:20)",
+        [
+            "Zia Pina Pizzeria",
+            700009840
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:27, 23:59)",
+        [
+            "The Rocks Chemist",
+            700001362
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:21, 23:59)",
+        [
+            "La Renaissance Pâtisserie and Cafe",
+            700006946
+        ]
+    ]
+]

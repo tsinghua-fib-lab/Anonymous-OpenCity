@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002466
+        ]
+    ],
+    [
+        "Go for a jog or outdoor exercise in the park",
+        "(10:00, 10:55)",
+        [
+            "Diamond Cafe",
+            700001751
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:04, 16:52)",
+        [
+            "The Rabbit Hole Theater Company",
+            700006198
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:19, 16:44)",
+        [
+            "Dash",
+            700001749
+        ]
+    ],
+    [
+        "Meet friends for a coffee or a casual catch-up",
+        "(17:31, 18:57)",
+        [
+            "Philz Coffee",
+            700000411
+        ]
+    ],
+    [
+        "Attend a sports event or watch a game at home",
+        "(19:42, 21:02)",
+        [
+            "",
+            700014425
+        ]
+    ],
+    [
+        "Go to Diamond Cafe",
+        "(22:02, 22:59)",
+        [
+            "Diamond Cafe",
+            700001751
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "Folk",
+            700006199
+        ]
+    ]
+]

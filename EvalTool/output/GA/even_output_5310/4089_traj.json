@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Grounded",
+            700008485
+        ]
+    ],
+    [
+        "Stay at a nearby cafe.",
+        "(10:00, 11:01)",
+        [
+            "Cafe Cluny",
+            700008694
+        ]
+    ],
+    [
+        "Stay at Cafe Cluny.",
+        "(11:47, 13:03)",
+        [
+            "Cafe Cluny",
+            700008694
+        ]
+    ],
+    [
+        "Stay at Cafe Cluny",
+        "(12:24, 14:10)",
+        [
+            "Cafe Cluny",
+            700008694
+        ]
+    ],
+    [
+        "Stay at Cafe Cluny",
+        "(13:33, 15:17)",
+        [
+            "Cafe Cluny",
+            700008694
+        ]
+    ],
+    [
+        "Stay at Cafe Cluny.",
+        "(15:08, 16:03)",
+        [
+            "Cafe Cluny",
+            700008694
+        ]
+    ],
+    [
+        "Stay at Cafe Cluny.",
+        "(17:01, 19:09)",
+        [
+            "Cafe Cluny",
+            700008694
+        ]
+    ],
+    [
+        "Stay at Cafe Cluny.",
+        "(19:43, 20:56)",
+        [
+            "Cafe Cluny",
+            700008694
+        ]
+    ],
+    [
+        "Stay at Cafe Cluny",
+        "(21:43, 23:44)",
+        [
+            "Cafe Cluny",
+            700008694
+        ]
+    ],
+    [
+        "Stay at Cafe Cluny.",
+        "(23:38, 23:59)",
+        [
+            "Cafe Cluny",
+            700008694
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bagels & Co.",
+            700016561
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(09:00, 10:22)",
+        [
+            "Bagels & Co.",
+            700016561
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(10:56, 12:33)",
+        [
+            "Eleanor Roosevelt High School",
+            700011817
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:27, 14:48)",
+        [
+            "Eleanor Roosevelt High School",
+            700011817
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:59, 17:01)",
+        [
+            "Eleanor Roosevelt High School",
+            700011817
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:33, 21:15)",
+        [
+            "Gracie Square Hospital",
+            700000396
+        ]
+    ],
+    [
+        "Dinner and Evening Wind Down",
+        "(22:34, 23:59)",
+        [
+            "Gracie Square Hospital",
+            700000396
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:45, 23:59)",
+        [
+            "Gracie Square Hospital",
+            700000396
+        ]
+    ]
+]

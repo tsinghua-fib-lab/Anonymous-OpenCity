@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:20)",
+        [
+            "",
+            700006547
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:12, 13:47)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "View a Movie or TV Series",
+        "(13:46, 16:10)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "View a Movie or TV Series",
+        "(14:47, 16:13)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 19:01)",
+        [
+            "",
+            700063206
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(21:26, 22:33)",
+        [
+            "Gezellig",
+            700011877
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(22:20, 23:59)",
+        [
+            "Gezellig",
+            700011877
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(23:57, 23:59)",
+        [
+            "Gezellig",
+            700011877
+        ]
+    ]
+]

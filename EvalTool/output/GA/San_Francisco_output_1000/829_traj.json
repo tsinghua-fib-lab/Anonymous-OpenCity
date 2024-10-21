@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700004066
+        ]
+    ],
+    [
+        "Morning exercise (jogging or gym)",
+        "(09:00, 10:04)",
+        [
+            "Wayo",
+            700004063
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:22, 13:28)",
+        [
+            "Route 101",
+            700003308
+        ]
+    ],
+    [
+        "Watch a movie or attend a live event",
+        "(16:32, 17:54)",
+        [
+            "USA Parking",
+            700004068
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:31, 21:38)",
+        [
+            "USA Parking",
+            700004068
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Van Ness Family Dentist",
+            700003307
+        ]
+    ]
+]

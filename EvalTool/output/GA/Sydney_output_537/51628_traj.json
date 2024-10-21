@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700028862
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:27)",
+        [
+            "Bank of Queensland",
+            700007405
+        ]
+    ],
+    [
+        "Head to Bank of Queensland",
+        "(11:44, 13:07)",
+        [
+            "Bank of Queensland",
+            700007405
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:01, 15:37)",
+        [
+            "",
+            700010915
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:32, 18:56)",
+        [
+            "Sushi Boat",
+            700010280
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 21:19)",
+        [
+            "",
+            700029763
+        ]
+    ],
+    [
+        "Watch a Movie/Show",
+        "(21:38, 23:37)",
+        [
+            "Public Toilet North Sydney Train Station",
+            700008611
+        ]
+    ],
+    [
+        "Relax and Unwind",
+        "(23:37, 23:59)",
+        [
+            "",
+            700028862
+        ]
+    ]
+]

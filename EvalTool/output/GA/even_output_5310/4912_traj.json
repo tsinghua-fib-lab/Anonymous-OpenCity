@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001758
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:39)",
+        [
+            "Osteria Carlina",
+            700034573
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:15, 14:09)",
+        [
+            "Osteria Carlina",
+            700034573
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:35, 20:09)",
+        [
+            "Walker's",
+            700008847
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:32, 20:23)",
+        [
+            "Brandy Library",
+            700008846
+        ]
+    ],
+    [
+        "Shopping/Errands",
+        "(23:17, 23:59)",
+        [
+            "Downtown Pediatrics",
+            700034570
+        ]
+    ]
+]

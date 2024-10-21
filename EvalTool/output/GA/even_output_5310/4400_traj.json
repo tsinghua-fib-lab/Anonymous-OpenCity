@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700036903
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:50)",
+        [
+            "Benvenuto Cafe Tribeca",
+            700005340
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:37, 16:14)",
+        [
+            "",
+            700036892
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:09, 20:49)",
+        [
+            "Duane Reade",
+            700018641
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(20:50, 22:07)",
+        [
+            "Duane Reade",
+            700018641
+        ]
+    ],
+    [
+        "Stay at 310 Bowery Bar",
+        "(23:05, 23:59)",
+        [
+            "",
+            700036903
+        ]
+    ]
+]

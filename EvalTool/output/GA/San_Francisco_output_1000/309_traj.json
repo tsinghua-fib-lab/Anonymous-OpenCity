@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Shovels Bar",
+            700002145
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:31)",
+        [
+            "",
+            700010290
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 19:35)",
+        [
+            "Outta Sight Pizza",
+            700010213
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:59)",
+        [
+            "",
+            700010280
+        ]
+    ],
+    [
+        "Stay at the Outta Sight Pizza",
+        "(22:45, 23:59)",
+        [
+            "Outta Sight Pizza",
+            700010213
+        ]
+    ]
+]

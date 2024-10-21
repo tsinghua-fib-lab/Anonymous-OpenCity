@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:10)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(11:03, 13:03)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Afternoon Outing",
+        "(13:50, 15:57)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:30, 22:32)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(21:33, 23:04)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(23:09, 23:59)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ]
+]

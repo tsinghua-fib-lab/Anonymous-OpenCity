@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chipotle",
+            700008432
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:32)",
+        [
+            "Chipotle",
+            700008432
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:59, 13:27)",
+        [
+            "Chipotle",
+            700008432
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:44, 18:47)",
+        [
+            "Chipotle",
+            700008432
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 23:47)",
+        [
+            "",
+            700014923
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:26, 23:59)",
+        [
+            "Starbucks",
+            700003607
+        ]
+    ]
+]

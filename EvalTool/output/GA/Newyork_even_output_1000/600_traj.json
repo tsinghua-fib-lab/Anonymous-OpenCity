@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020030
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(09:00, 10:29)",
+        [
+            "",
+            700000833
+        ]
+    ],
+    [
+        "Next activity after Leisure Reading or Hobby Time",
+        "(10:31, 12:07)",
+        [
+            "Venchi",
+            700028579
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:21, 13:57)",
+        [
+            "Venchi",
+            700028579
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:52, 19:26)",
+        [
+            "Venchi",
+            700028579
+        ]
+    ],
+    [
+        "Next activity after Relaxing Evening.",
+        "(19:22, 22:07)",
+        [
+            "Venchi",
+            700028579
+        ]
+    ],
+    [
+        "Stay in the current place for relaxation.",
+        "(22:35, 23:59)",
+        [
+            "Venchi",
+            700028579
+        ]
+    ]
+]

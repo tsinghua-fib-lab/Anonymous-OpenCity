@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002931
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:57)",
+        [
+            "Ideal Glass Studios",
+            700028889
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:14, 15:51)",
+        [
+            "Marlton Esprsso Bar",
+            700028888
+        ]
+    ],
+    [
+        "Afternoon Activity",
+        "(15:46, 17:08)",
+        [
+            "Ideal Glass Studios",
+            700028889
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(17:58, 19:03)",
+        [
+            "Ideal Glass Studios",
+            700028889
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(19:20, 21:14)",
+        [
+            "Marlton Esprsso Bar",
+            700028888
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(20:33, 22:01)",
+        [
+            "Marlton Esprsso Bar",
+            700028888
+        ]
+    ],
+    [
+        "Next relaxation or leisure time.",
+        "(22:12, 23:26)",
+        [
+            "",
+            700001867
+        ]
+    ],
+    [
+        "Next relaxation or leisure time.",
+        "(23:58, 23:59)",
+        [
+            "Marlton Esprsso Bar",
+            700028888
+        ]
+    ]
+]

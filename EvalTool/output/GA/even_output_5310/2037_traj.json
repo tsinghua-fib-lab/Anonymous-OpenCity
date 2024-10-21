@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700018408
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:39)",
+        [
+            "",
+            700019671
+        ]
+    ],
+    [
+        "Stay at 24 Hour Parking until 1 PM.",
+        "(11:28, 13:06)",
+        [
+            "24 Hour Parking",
+            700008320
+        ]
+    ],
+    [
+        "Decide to stay at 24 Hour Parking until 1 PM.",
+        "(13:19, 15:00)",
+        [
+            "24 Hour Parking",
+            700008320
+        ]
+    ],
+    [
+        "Stay at 24 Hour Parking until 1 PM.",
+        "(15:46, 17:41)",
+        [
+            "24 Hour Parking",
+            700008320
+        ]
+    ],
+    [
+        "Have dinner.",
+        "(18:27, 19:51)",
+        [
+            "24 Hour Parking",
+            700008320
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 23:22)",
+        [
+            "Red Cork",
+            700008321
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "",
+            700019671
+        ]
+    ]
+]

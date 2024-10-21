@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Palings Kitchen and Bar",
+            700008556
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:53)",
+        [
+            "The Royal George",
+            700020647
+        ]
+    ],
+    [
+        "Catch Up on a Show or Movie",
+        "(15:47, 17:13)",
+        [
+            "The Royal George",
+            700020647
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:14, 21:21)",
+        [
+            "",
+            700002118
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:50, 23:59)",
+        [
+            "",
+            700026607
+        ]
+    ]
+]

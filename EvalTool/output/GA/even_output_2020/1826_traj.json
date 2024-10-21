@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000493
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:04)",
+        [
+            "City ATM",
+            700005128
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:47, 16:17)",
+        [
+            "Berlin Döner & Kebab House",
+            700008881
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:47, 17:50)",
+        [
+            "Berlin Döner & Kebab House",
+            700008881
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 23:35)",
+        [
+            "",
+            700010427
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(22:39, 23:59)",
+        [
+            "Zipcar",
+            700002403
+        ]
+    ]
+]

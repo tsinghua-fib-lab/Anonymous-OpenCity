@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Detour",
+            700006931
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:40)",
+        [
+            "Peet's Coffee",
+            700000876
+        ]
+    ],
+    [
+        "Start personal project or hobby",
+        "(11:41, 13:47)",
+        [
+            "Alex Fitness",
+            700000875
+        ]
+    ],
+    [
+        "Spend time on a personal project or hobby.",
+        "(13:55, 14:51)",
+        [
+            "Dumpling House",
+            700010736
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 17:45)",
+        [
+            "Dumpling House",
+            700010736
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 23:59)",
+        [
+            "Barry's Bootcamp",
+            700006311
+        ]
+    ],
+    [
+        "Stay at The Detour",
+        "(23:19, 23:59)",
+        [
+            "Fitness SF",
+            700002287
+        ]
+    ]
+]

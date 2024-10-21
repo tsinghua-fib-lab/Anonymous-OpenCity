@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:47)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Projects",
+        "(14:57, 16:35)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 18:57)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:33, 21:01)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:33, 23:59)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ],
+    [
+        "Visit",
+        "(23:45, 23:59)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:10)",
+        [
+            "Firecracker Wings",
+            700023829
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:42, 17:41)",
+        [
+            "CitiBike Station",
+            700007611
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 18:27)",
+        [
+            "Citi Bike - East 25th Street & 2nd Avenue",
+            700008039
+        ]
+    ],
+    [
+        "Go to Forefeathers.",
+        "(19:35, 21:37)",
+        [
+            "Smile Dental Center",
+            700023828
+        ]
+    ],
+    [
+        "Stay at Smile Dental Center",
+        "(21:44, 23:53)",
+        [
+            "Smile Dental Center",
+            700023828
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "",
+            700011173
+        ]
+    ]
+]

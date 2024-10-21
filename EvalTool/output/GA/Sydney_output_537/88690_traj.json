@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chinese Noodle Restaurant",
+            700009706
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:31)",
+        [
+            "",
+            700021805
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(15:34, 16:55)",
+        [
+            "It's Time for Thai",
+            700008849
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:07, 18:58)",
+        [
+            "The Jungle",
+            700010874
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 23:59)",
+        [
+            "Scubar",
+            700008191
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:05, 23:59)",
+        [
+            "",
+            700026458
+        ]
+    ]
+]

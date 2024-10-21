@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700011238
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(09:00, 10:22)",
+        [
+            "",
+            700011238
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 12:56)",
+        [
+            "Capital One",
+            700008637
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:08, 17:07)",
+        [
+            "Subway",
+            700013322
+        ]
+    ],
+    [
+        "Dinner Preparation and Relaxation",
+        "(18:59, 19:59)",
+        [
+            "Citi Bike - East 45th Street & 3rd Avenue",
+            700008049
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:55, 22:29)",
+        [
+            "Citi Bike - East 45th Street & 3rd Avenue",
+            700008049
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:24, 23:59)",
+        [
+            "Le pain quotidien",
+            700013127
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Link NYC",
+            700019913
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:06)",
+        [
+            "",
+            700001053
+        ]
+    ],
+    [
+        "Stay at VERS",
+        "(12:38, 13:58)",
+        [
+            "Wine:30",
+            700007572
+        ]
+    ],
+    [
+        "next activity",
+        "(14:20, 15:57)",
+        [
+            "Wine:30",
+            700007572
+        ]
+    ],
+    [
+        "next activity",
+        "(16:29, 17:59)",
+        [
+            "Wine:30",
+            700007572
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 22:59)",
+        [
+            "Psychic",
+            700013453
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:47, 23:59)",
+        [
+            "California Pizza Kitchen",
+            700008419
+        ]
+    ],
+    [
+        "Stay at Wine:30",
+        "(22:21, 23:50)",
+        [
+            "Citi Bike - East 30th Street & Park Avenue South",
+            700007570
+        ]
+    ],
+    [
+        "Stay at Wine:30",
+        "(23:42, 23:59)",
+        [
+            "Citi Bike - East 30th Street & Park Avenue South",
+            700007570
+        ]
+    ]
+]

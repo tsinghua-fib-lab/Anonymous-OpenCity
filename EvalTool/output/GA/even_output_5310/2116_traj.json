@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:01)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:58, 12:49)",
+        [
+            "Il Violino",
+            700005036
+        ]
+    ],
+    [
+        "Continue Leisure Reading or Hobbies",
+        "(14:03, 15:58)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(16:02, 16:58)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:51, 21:34)",
+        [
+            "",
+            700002824
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(23:44, 23:59)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ]
+]

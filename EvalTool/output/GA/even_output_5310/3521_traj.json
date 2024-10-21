@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Rice Noodle",
+            700016623
+        ]
+    ],
+    [
+        "Walk in the park",
+        "(10:00, 10:50)",
+        [
+            "Avalon New York",
+            700012184
+        ]
+    ],
+    [
+        "Next, you will have lunch.",
+        "(11:29, 12:49)",
+        [
+            "Avalon New York",
+            700012184
+        ]
+    ],
+    [
+        "Lunch at Avalon New York",
+        "(13:32, 15:04)",
+        [
+            "Avalon New York",
+            700012184
+        ]
+    ],
+    [
+        "Stay at Avalon New York.",
+        "(15:19, 17:21)",
+        [
+            "Creperie",
+            700008873
+        ]
+    ],
+    [
+        "Stay at Avalon New York for coffee with friends.",
+        "(17:56, 18:56)",
+        [
+            "Avalon New York",
+            700012184
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 23:59)",
+        [
+            "Berlin Döner",
+            700040208
+        ]
+    ]
+]

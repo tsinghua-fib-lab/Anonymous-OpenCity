@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Duane Reade",
+            700004369
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park.",
+        "(10:00, 11:05)",
+        [
+            "",
+            700037143
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park.",
+        "(11:15, 13:01)",
+        [
+            "",
+            700037143
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park",
+        "(13:23, 15:03)",
+        [
+            "",
+            700037143
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:42, 19:18)",
+        [
+            "",
+            700037148
+        ]
+    ],
+    [
+        "Stay at Duane Reade",
+        "(20:32, 22:03)",
+        [
+            "Duane Reade",
+            700004369
+        ]
+    ],
+    [
+        "Stay at Duane Reade.",
+        "(22:25, 23:21)",
+        [
+            "Duane Reade",
+            700004369
+        ]
+    ],
+    [
+        "Stay at Duane Reade;",
+        "(23:35, 23:59)",
+        [
+            "Chama Mama",
+            700023404
+        ]
+    ]
+]

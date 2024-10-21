@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "UniCredit Bank",
+            700015285
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:38)",
+        [
+            "",
+            700009109
+        ]
+    ],
+    [
+        "Go for a jog or a leisurely walk in the park.",
+        "(11:13, 12:44)",
+        [
+            "Previti pizza",
+            700003523
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:18, 17:19)",
+        [
+            "Chase",
+            700003518
+        ]
+    ],
+    [
+        "Prepare and enjoy a home-cooked dinner.",
+        "(15:41, 17:36)",
+        [
+            "",
+            700038597
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 19:58)",
+        [
+            "",
+            700038578
+        ]
+    ],
+    [
+        "Stay at UniCredit Bank.",
+        "(23:25, 23:59)",
+        [
+            "UniCredit Bank",
+            700015285
+        ]
+    ]
+]

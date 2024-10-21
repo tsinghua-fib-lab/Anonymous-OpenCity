@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000494
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(09:00, 10:32)",
+        [
+            "Happy Donut",
+            700000523
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:01, 12:07)",
+        [
+            "Happy Donut",
+            700000523
+        ]
+    ],
+    [
+        "Watch TV or Movies",
+        "(13:04, 14:42)",
+        [
+            "Happy Donut",
+            700000523
+        ]
+    ],
+    [
+        "Watch TV or Movies",
+        "(15:06, 16:30)",
+        [
+            "Happy Donut",
+            700000523
+        ]
+    ],
+    [
+        "Next activity",
+        "(17:25, 18:40)",
+        [
+            "Happy Donut",
+            700000523
+        ]
+    ],
+    [
+        "Stay at Happy Donut for additional leisure time.",
+        "(19:11, 21:21)",
+        [
+            "Happy Donut",
+            700000523
+        ]
+    ],
+    [
+        "Stay at Happy Donut",
+        "(21:38, 22:45)",
+        [
+            "Happy Donut",
+            700000523
+        ]
+    ],
+    [
+        "Stay at Happy Donut",
+        "(23:07, 23:59)",
+        [
+            "Happy Donut",
+            700000523
+        ]
+    ]
+]

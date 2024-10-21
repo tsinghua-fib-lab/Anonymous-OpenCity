@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:01)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:17, 16:47)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "Go to CityMD",
+        "(18:40, 20:02)",
+        [
+            "CityMD",
+            700013548
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:59)",
+        [
+            "",
+            700022520
+        ]
+    ]
+]

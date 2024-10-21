@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Lenz's Delicatessen",
+            700018000
+        ]
+    ],
+    [
+        "Exercise or outdoor activity",
+        "(10:00, 11:08)",
+        [
+            "StuyFitness on 20th",
+            700028439
+        ]
+    ],
+    [
+        "Read or engage in a hobby",
+        "(11:21, 12:55)",
+        [
+            "StuyFitness on 20th",
+            700028439
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:52, 18:25)",
+        [
+            "TD Bank",
+            700011623
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 23:11)",
+        [
+            "Ess-a-Bagel",
+            700023332
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:36, 23:59)",
+        [
+            "Ess-a-Bagel",
+            700023332
+        ]
+    ]
+]

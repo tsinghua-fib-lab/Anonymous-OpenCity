@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Spend some time reading or catching up on the latest news/articles",
+        "(10:00, 10:57)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Stay at Mughlai and enjoy a meal or relax.",
+        "(11:46, 12:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Stay at Mughlai and enjoy a meal or relax",
+        "(13:30, 15:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 20:57)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill and enjoy some drinks.",
+        "(17:44, 18:54)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 23:59)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill",
+        "(23:49, 23:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ]
+]

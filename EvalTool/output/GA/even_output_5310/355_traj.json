@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "TD Bank",
+            700005981
+        ]
+    ],
+    [
+        "Stay at home until the next plan.",
+        "(09:00, 10:01)",
+        [
+            "TD Bank",
+            700005981
+        ]
+    ],
+    [
+        "Stay at TD Bank",
+        "(11:03, 12:38)",
+        [
+            "TD Bank",
+            700005981
+        ]
+    ],
+    [
+        "Stay at Grocery Shopping until the next plan.",
+        "(13:12, 14:38)",
+        [
+            "",
+            700001313
+        ]
+    ],
+    [
+        "Stay at TD Bank.",
+        "(14:56, 16:19)",
+        [
+            "TD Bank",
+            700005981
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 21:24)",
+        [
+            "",
+            700002685
+        ]
+    ],
+    [
+        "Continue staying",
+        "(21:26, 23:59)",
+        [
+            "TD Bank",
+            700005981
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Citi bike - 3rd Avenue & East 72nd Street",
+            700017450
+        ]
+    ]
+]

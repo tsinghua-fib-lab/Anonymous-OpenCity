@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sweets Bakery",
+            700014719
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:03)",
+        [
+            "",
+            700002884
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:52, 17:21)",
+        [
+            "",
+            700037877
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:44, 18:03)",
+        [
+            "Chase",
+            700014257
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:28, 19:58)",
+        [
+            "Chase",
+            700014257
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 23:15)",
+        [
+            "Kam Hing Coffee Shop",
+            700024733
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(23:55, 23:59)",
+        [
+            "Kam Hing Coffee Shop",
+            700024733
+        ]
+    ]
+]

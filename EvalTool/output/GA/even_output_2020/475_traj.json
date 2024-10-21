@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Morris",
+            700004942
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:28)",
+        [
+            "Starbucks",
+            700002361
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:33, 12:11)",
+        [
+            "Starbucks",
+            700002361
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(13:00, 14:38)",
+        [
+            "Starbucks",
+            700002361
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:20, 17:49)",
+        [
+            "Mission Hill Saloon",
+            700004521
+        ]
+    ],
+    [
+        "Watch a Movie/TV Series",
+        "(18:58, 20:43)",
+        [
+            "Live Sushi Bar",
+            700005901
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 23:59)",
+        [
+            "San Francisco Center for the Book (SFCB)",
+            700006917
+        ]
+    ]
+]

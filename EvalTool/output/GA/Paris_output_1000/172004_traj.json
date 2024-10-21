@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Joe & The Juice",
+            700071603
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:29)",
+        [
+            "",
+            700010231
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(14:04, 16:37)",
+        [
+            "Joe & The Juice",
+            700071603
+        ]
+    ],
+    [
+        "Socialize with friends or family",
+        "(17:24, 18:56)",
+        [
+            "Joe & The Juice",
+            700071603
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 22:47)",
+        [
+            "",
+            700007418
+        ]
+    ],
+    [
+        "Situation_7",
+        "(22:46, 23:59)",
+        [
+            "Joe & The Juice",
+            700071603
+        ]
+    ],
+    [
+        "Go to Joe & The Juice",
+        "(23:47, 23:59)",
+        [
+            "Joe & The Juice",
+            700071603
+        ]
+    ]
+]

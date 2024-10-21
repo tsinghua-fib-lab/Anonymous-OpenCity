@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ajisen Ramen",
+            700011505
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:10)",
+        [
+            "Escape",
+            700018792
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:43, 15:52)",
+        [
+            "Pioneers Bar NYC",
+            700013388
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:08, 19:09)",
+        [
+            "Deweys pub",
+            700012400
+        ]
+    ],
+    [
+        "Stay at current place",
+        "(18:22, 19:38)",
+        [
+            "Deweys pub",
+            700012400
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:36, 23:14)",
+        [
+            "Emigrant Savings Bank",
+            700004370
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "PNC Bank",
+            700004371
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011176
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:20)",
+        [
+            "Brickhouse Cafe and Bar",
+            700000112
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 15:44)",
+        [
+            "",
+            700011840
+        ]
+    ],
+    [
+        "Dinner Preparation and Enjoying a Meal",
+        "(19:06, 20:30)",
+        [
+            "Brickhouse Cafe and Bar",
+            700000112
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 23:27)",
+        [
+            "",
+            700011838
+        ]
+    ]
+]

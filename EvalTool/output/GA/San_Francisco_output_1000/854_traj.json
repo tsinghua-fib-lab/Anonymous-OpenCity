@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Halal Dastarkhan",
+            700005734
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:35)",
+        [
+            "Le Marais Bakery Market Cafe",
+            700009497
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:17, 17:05)",
+        [
+            "Crostini & Java",
+            700001113
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:36, 19:17)",
+        [
+            "Aces",
+            700000492
+        ]
+    ],
+    [
+        "Next activity based on the daily plan",
+        "(18:20, 19:42)",
+        [
+            "Sammie Cafe",
+            700008994
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:12, 23:59)",
+        [
+            "Pho 808",
+            700010114
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:36, 23:59)",
+        [
+            "Ha-Ra",
+            700001037
+        ]
+    ]
+]

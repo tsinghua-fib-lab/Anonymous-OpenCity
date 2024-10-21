@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:12)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:25, 12:01)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:27, 16:19)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(16:23, 18:09)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Watch a Movie or Binge a Series",
+        "(19:03, 20:55)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:44, 23:59)",
+        [
+            "Little Basil",
+            700006236
+        ]
+    ]
+]

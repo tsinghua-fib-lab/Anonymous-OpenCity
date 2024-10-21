@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Zombie Village",
+            700001863
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:53)",
+        [
+            "Jonell's",
+            700005122
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:05, 14:12)",
+        [
+            "Zombie Village",
+            700001863
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:46, 16:29)",
+        [
+            "Mom Banh Mi",
+            700005191
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:12, 21:59)",
+        [
+            "",
+            700000808
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:08, 23:59)",
+        [
+            "The Salvation Army Ray and Joan Kroc Corps Community Center",
+            700013868
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Boys & Girls Clubs of San Francisco Tenderloin Clubhouse",
+            700013881
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002921
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:17)",
+        [
+            "Art Student's League of New York",
+            700020815
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:30, 19:12)",
+        [
+            "Petrossian",
+            700003481
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(15:46, 17:04)",
+        [
+            "Petrossian",
+            700003481
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:04, 19:00)",
+        [
+            "",
+            700001204
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:13, 22:09)",
+        [
+            "",
+            700002796
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:50, 23:59)",
+        [
+            "Burger Joint",
+            700006305
+        ]
+    ]
+]

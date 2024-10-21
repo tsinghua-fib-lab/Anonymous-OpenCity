@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Nono",
+            700005694
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:01)",
+        [
+            "Nono",
+            700005694
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:10, 13:59)",
+        [
+            "Nono",
+            700005694
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 17:25)",
+        [
+            "Nono",
+            700005694
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:48, 19:00)",
+        [
+            "Nono",
+            700005694
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(19:25, 20:54)",
+        [
+            "Club Mari's / Mogura",
+            700001705
+        ]
+    ],
+    [
+        "Relaxation and TV Watching",
+        "(21:54, 22:50)",
+        [
+            "Festa Wine & Cocktail Lounge",
+            700008691
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:05, 23:59)",
+        [
+            "",
+            700008699
+        ]
+    ]
+]

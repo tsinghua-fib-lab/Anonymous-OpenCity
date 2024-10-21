@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003067
+        ]
+    ],
+    [
+        "Stay at Everyman Espresso",
+        "(10:00, 12:10)",
+        [
+            "",
+            700001331
+        ]
+    ],
+    [
+        "Stay at Everyman Espresso",
+        "(11:40, 13:01)",
+        [
+            "Café Gitane",
+            700015617
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:22, 14:13)",
+        [
+            "",
+            700001330
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:14, 19:59)",
+        [
+            "Prince Street Pizza",
+            700009979
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 20:49)",
+        [
+            "Café Habana",
+            700007829
+        ]
+    ]
+]

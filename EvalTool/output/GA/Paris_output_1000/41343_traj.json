@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Recharge Navigo",
+            700037764
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the park.",
+        "(10:00, 10:58)",
+        [
+            "",
+            700004492
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the park",
+        "(11:48, 12:57)",
+        [
+            "Five Guys",
+            700002618
+        ]
+    ],
+    [
+        "Stay at the bench",
+        "(14:03, 16:01)",
+        [
+            "Recharge Navigo",
+            700037764
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(16:36, 20:05)",
+        [
+            "Five Guys",
+            700002618
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:34, 20:49)",
+        [
+            "Opera Ramen",
+            700006302
+        ]
+    ]
+]

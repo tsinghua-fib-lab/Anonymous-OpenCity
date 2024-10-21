@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - West 11th Street & 6th Avenue",
+            700008195
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:39)",
+        [
+            "Citi Bike - West 11th Street & 6th Avenue",
+            700008195
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:48, 11:51)",
+        [
+            "Citi Bike - West 11th Street & 6th Avenue",
+            700008195
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:37, 13:50)",
+        [
+            "Citi Bike - West 11th Street & 6th Avenue",
+            700008195
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:48, 16:07)",
+        [
+            "Citi Bike - West 11th Street & 6th Avenue",
+            700008195
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(16:10, 17:33)",
+        [
+            "Citi Bike - West 11th Street & 6th Avenue",
+            700008195
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:30, 22:47)",
+        [
+            "",
+            700002384
+        ]
+    ],
+    [
+        "Stay at Citi Bike - West 11th Street & 6th Avenue",
+        "(23:29, 23:59)",
+        [
+            "Citi Bike - West 11th Street & 6th Avenue",
+            700008195
+        ]
+    ]
+]

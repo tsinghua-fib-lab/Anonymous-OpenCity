@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Jack's Stir Brew Coffee",
+            700031418
+        ]
+    ],
+    [
+        "Next in the plan.",
+        "(09:00, 09:53)",
+        [
+            "",
+            700007675
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:46, 16:08)",
+        [
+            "",
+            700029793
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 16:32)",
+        [
+            "American Bar",
+            700028575
+        ]
+    ],
+    [
+        "Attend cooking session for dinner preparation.",
+        "(18:09, 19:29)",
+        [
+            "American Bar",
+            700028575
+        ]
+    ],
+    [
+        "Stay at Jack's Stir Brew Coffee",
+        "(20:22, 22:00)",
+        [
+            "American Bar",
+            700028575
+        ]
+    ],
+    [
+        "Stay at La Vera Pizza",
+        "(22:12, 23:59)",
+        [
+            "",
+            700007672
+        ]
+    ]
+]

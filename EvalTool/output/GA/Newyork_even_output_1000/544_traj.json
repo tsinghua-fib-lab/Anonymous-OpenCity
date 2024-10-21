@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Empire State Driving School",
+            700018902
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 11:50)",
+        [
+            "Empire State Driving School",
+            700018902
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:20, 14:04)",
+        [
+            "Empire State Driving School",
+            700018902
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 19:17)",
+        [
+            "",
+            700018102
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:01, 21:04)",
+        [
+            "",
+            700018106
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:57, 22:30)",
+        [
+            "Empire State Driving School",
+            700018902
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(22:49, 23:59)",
+        [
+            "",
+            700018333
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(23:57, 23:59)",
+        [
+            "Empire State Driving School",
+            700018902
+        ]
+    ]
+]

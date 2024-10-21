@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001652
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:26)",
+        [
+            "Dubl Twister",
+            700006572
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(11:47, 12:54)",
+        [
+            "Dubl Twister",
+            700006572
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 16:29)",
+        [
+            "Aki Sushi",
+            700011536
+        ]
+    ],
+    [
+        "Grocery Shopping/Errands",
+        "(15:30, 16:56)",
+        [
+            "Aki Sushi",
+            700011536
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:47, 22:53)",
+        [
+            "SLim Dental Kids",
+            700016563
+        ]
+    ],
+    [
+        "Stay at SLim Dental Kids.",
+        "(23:17, 23:59)",
+        [
+            "SLim Dental Kids",
+            700016563
+        ]
+    ]
+]

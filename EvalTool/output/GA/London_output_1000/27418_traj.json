@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Regent's Park Estate",
+            700006201
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(10:00, 11:06)",
+        [
+            "",
+            700075340
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(11:40, 13:09)",
+        [
+            "Albany Street Police Station",
+            700002925
+        ]
+    ],
+    [
+        "Lunch with family or friends",
+        "(12:59, 14:25)",
+        [
+            "",
+            700075347
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(15:04, 16:04)",
+        [
+            "Albany Street Police Station",
+            700002925
+        ]
+    ],
+    [
+        "Engage in a hobby or activity (like reading or crafting)",
+        "(15:19, 16:44)",
+        [
+            "",
+            700004645
+        ]
+    ],
+    [
+        "Engage in a hobby or activity (like reading or crafting)",
+        "(17:32, 18:59)",
+        [
+            "Albany Street Police Station",
+            700002925
+        ]
+    ],
+    [
+        "Relax and unwind by watching a movie or playing games",
+        "(19:37, 21:00)",
+        [
+            "Albany Street Police Station",
+            700002925
+        ]
+    ],
+    [
+        "Stay at Albany Street Police Station",
+        "(21:19, 23:03)",
+        [
+            "Albany Street Police Station",
+            700002925
+        ]
+    ],
+    [
+        "Stay at Albany Street Police Station.",
+        "(23:18, 23:59)",
+        [
+            "Albany Street Police Station",
+            700002925
+        ]
+    ]
+]

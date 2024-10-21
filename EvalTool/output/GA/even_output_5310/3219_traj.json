@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "agavi juice",
+            700009658
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:04)",
+        [
+            "Senya",
+            700011351
+        ]
+    ],
+    [
+        "Go to Senya for lunch.",
+        "(15:23, 16:20)",
+        [
+            "Senya",
+            700011351
+        ]
+    ],
+    [
+        "Stay at Maya Mezcal until dinner preparation.",
+        "(17:30, 18:54)",
+        [
+            "7th Street burger",
+            700024353
+        ]
+    ],
+    [
+        "After dinner, relax with some light music or a podcast until bedtime.",
+        "(19:31, 20:37)",
+        [
+            "Senya",
+            700011351
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "Dunkin Donuts",
+            700039853
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cafe Isabella",
+            700008996
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:46)",
+        [
+            "",
+            700008997
+        ]
+    ],
+    [
+        "Outdoor Activity / Exercise",
+        "(13:33, 15:39)",
+        [
+            "Venticello",
+            700005060
+        ]
+    ],
+    [
+        "Outdoor Activity / Exercise",
+        "(16:11, 17:40)",
+        [
+            "Nob Hill Cafe",
+            700004947
+        ]
+    ],
+    [
+        "Outdoor Activity / Exercise",
+        "(18:04, 19:52)",
+        [
+            "",
+            700008906
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:04, 23:59)",
+        [
+            "",
+            700008913
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "",
+            700008895
+        ]
+    ]
+]

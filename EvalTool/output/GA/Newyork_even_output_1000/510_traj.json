@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001516
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(10:00, 11:58)",
+        [
+            "",
+            700001516
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:43, 14:08)",
+        [
+            "Eli's Night Shift",
+            700019740
+        ]
+    ],
+    [
+        "Leisure Time/Entertainment",
+        "(15:08, 18:07)",
+        [
+            "",
+            700002957
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:58, 23:59)",
+        [
+            "Tri Dim Shanghai",
+            700019737
+        ]
+    ],
+    [
+        "Leisure Time/Entertainment",
+        "(21:41, 22:38)",
+        [
+            "Don Filippo",
+            700015281
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "Sushi Noz",
+            700019735
+        ]
+    ]
+]

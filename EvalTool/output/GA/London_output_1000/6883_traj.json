@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:08)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:56, 11:52)",
+        [
+            "",
+            700069985
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:57, 14:47)",
+        [
+            "Urban Meadow Cafe",
+            700031990
+        ]
+    ],
+    [
+        "Socializing",
+        "(17:44, 19:11)",
+        [
+            "Urban Meadow Cafe",
+            700031990
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:47, 21:52)",
+        [
+            "Urban Meadow Cafe",
+            700031990
+        ]
+    ],
+    [
+        "Socializing",
+        "(22:26, 23:59)",
+        [
+            "Bayswater Maria Montessori Children's House",
+            700013725
+        ]
+    ]
+]

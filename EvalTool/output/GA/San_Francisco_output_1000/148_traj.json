@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013925
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:38)",
+        [
+            "",
+            700013932
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:27, 13:01)",
+        [
+            "",
+            700013926
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(12:43, 14:18)",
+        [
+            "",
+            700013934
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(14:12, 15:37)",
+        [
+            "Starbucks",
+            700004066
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(16:06, 17:41)",
+        [
+            "Wayo",
+            700004063
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 23:06)",
+        [
+            "Franklin Pharmacy",
+            700009872
+        ]
+    ],
+    [
+        "Evening Out or Social Activity",
+        "(19:54, 21:04)",
+        [
+            "Franklin Pharmacy",
+            700009872
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "Wayo",
+            700004063
+        ]
+    ]
+]

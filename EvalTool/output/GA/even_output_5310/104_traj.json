@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "LAVO Italian Restaurant",
+            700019752
+        ]
+    ],
+    [
+        "10:00 AM - 12:00 PM",
+        "(09:00, 11:04)",
+        [
+            "",
+            700001370
+        ]
+    ],
+    [
+        "11:49 AM - 12:00 PM: Stay at LAVO Italian Restaurant.",
+        "(11:49, 13:15)",
+        [
+            "Baskin-Robbins",
+            700006349
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 16:16)",
+        [
+            "Tavola",
+            700020690
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 18:28)",
+        [
+            "Bombay Tandoori",
+            700004292
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:10, 23:59)",
+        [
+            "Pastrami and Grill",
+            700006348
+        ]
+    ]
+]

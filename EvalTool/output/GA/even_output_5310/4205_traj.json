@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi bike - East 68th Street & 3rd Avenue",
+            700017449
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:45)",
+        [
+            "",
+            700021975
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:43, 19:14)",
+        [
+            "Kennedy Child Study Center",
+            700000274
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:08, 19:25)",
+        [
+            "",
+            700017189
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:22, 19:53)",
+        [
+            "Citi bike - East 68th Street & 3rd Avenue",
+            700017449
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:36, 23:59)",
+        [
+            "Padoca Bakery",
+            700032490
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "",
+            700014655
+        ]
+    ]
+]

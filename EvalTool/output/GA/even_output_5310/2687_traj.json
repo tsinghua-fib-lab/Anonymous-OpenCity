@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hippodrome Parking",
+            700003741
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:17)",
+        [
+            "",
+            700014937
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 18:32)",
+        [
+            "City National Bank",
+            700005939
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(18:49, 20:13)",
+        [
+            "Gregory Coffee",
+            700003739
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 23:59)",
+        [
+            "6th Avenue Shopping Court",
+            700014940
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(23:50, 23:59)",
+        [
+            "Gregory Coffee",
+            700003739
+        ]
+    ]
+]

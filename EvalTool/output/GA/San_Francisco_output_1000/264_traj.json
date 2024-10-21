@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Foreign Cinema",
+            700002290
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:07)",
+        [
+            "Doc's Clock",
+            700004875
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:21, 15:05)",
+        [
+            "",
+            700010565
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:46, 20:26)",
+        [
+            "Udupi Palace",
+            700010985
+        ]
+    ],
+    [
+        "Movie Night",
+        "(22:44, 23:58)",
+        [
+            "Foreign Cinema",
+            700002290
+        ]
+    ]
+]

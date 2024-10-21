@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bar None",
+            700005378
+        ]
+    ],
+    [
+        "Go for a workout or a jog",
+        "(10:00, 10:58)",
+        [
+            "Equinox Gym",
+            700002315
+        ]
+    ],
+    [
+        "Go for a workout or a jog",
+        "(11:03, 12:02)",
+        [
+            "Equinox Gym",
+            700002315
+        ]
+    ],
+    [
+        "Go for a workout or a jog",
+        "(12:46, 13:54)",
+        [
+            "Equinox Gym",
+            700002315
+        ]
+    ],
+    [
+        "Visit a local farmers' market or boutique shops",
+        "(14:04, 15:02)",
+        [
+            "",
+            700008809
+        ]
+    ],
+    [
+        "Engage in a leisure activity like reading or crafting",
+        "(15:23, 17:30)",
+        [
+            "Equinox Gym",
+            700002315
+        ]
+    ],
+    [
+        "Stay at Equinox Gym",
+        "(17:05, 18:04)",
+        [
+            "Extreme Pizza",
+            700005697
+        ]
+    ],
+    [
+        "Stay at Equinox Gym",
+        "(18:48, 20:20)",
+        [
+            "Extreme Pizza",
+            700005697
+        ]
+    ],
+    [
+        "Stay at Equinox Gym",
+        "(21:06, 22:40)",
+        [
+            "Extreme Pizza",
+            700005697
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:03, 23:59)",
+        [
+            "Flores",
+            700005578
+        ]
+    ]
+]

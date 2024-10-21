@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002700
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast.",
+        "(10:00, 11:29)",
+        [
+            "",
+            700002700
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:30, 15:17)",
+        [
+            "",
+            700002953
+        ]
+    ],
+    [
+        "Engage in a fun sports activity, like playing tennis or cycling.",
+        "(18:24, 19:54)",
+        [
+            "Sweetgreen",
+            700012917
+        ]
+    ],
+    [
+        "Stay at home.",
+        "(20:06, 22:30)",
+        [
+            "Sweetgreen",
+            700012917
+        ]
+    ],
+    [
+        "Stay at home",
+        "(22:53, 23:59)",
+        [
+            "",
+            700002700
+        ]
+    ],
+    [
+        "Stay at home",
+        "(23:43, 23:59)",
+        [
+            "",
+            700001977
+        ]
+    ]
+]

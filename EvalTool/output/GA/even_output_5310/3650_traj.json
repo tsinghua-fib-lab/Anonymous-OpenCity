@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Top Hops Beer Shop",
+            700007491
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:35)",
+        [
+            "",
+            700003209
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:00, 14:56)",
+        [
+            "Top Hops Beer Shop",
+            700007491
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:10, 17:32)",
+        [
+            "Whipped - Urban Dessert Lab",
+            700005431
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:12, 22:36)",
+        [
+            "Whipped - Urban Dessert Lab",
+            700005431
+        ]
+    ],
+    [
+        "Stay at Top Hops Beer Shop",
+        "(23:17, 23:59)",
+        [
+            "Top Hops Beer Shop",
+            700007491
+        ]
+    ]
+]

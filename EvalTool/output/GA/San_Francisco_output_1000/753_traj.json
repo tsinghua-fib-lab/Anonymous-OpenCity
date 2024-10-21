@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fort Mason Chapel",
+            700000288
+        ]
+    ],
+    [
+        "go for a relaxing walk in the park",
+        "(10:00, 10:59)",
+        [
+            "Cafe Franco",
+            700004379
+        ]
+    ],
+    [
+        "You are currently at Cafe Franco.",
+        "(11:12, 12:51)",
+        [
+            "Golden Gate National Recreation Area Park Headquarters",
+            700003055
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:53, 14:24)",
+        [
+            "",
+            700007644
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 17:18)",
+        [
+            "Chin up bar",
+            700002477
+        ]
+    ],
+    [
+        "You are currently at Cafe Franco.",
+        "(21:27, 23:15)",
+        [
+            "Chin up bar",
+            700002477
+        ]
+    ],
+    [
+        "Stay at Cafe Franco",
+        "(23:57, 23:59)",
+        [
+            "Chin up bar",
+            700002477
+        ]
+    ]
+]

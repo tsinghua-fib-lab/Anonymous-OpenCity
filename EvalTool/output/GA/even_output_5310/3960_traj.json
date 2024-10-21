@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gramercy Ale House",
+            700020943
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:21)",
+        [
+            "Think Coffee",
+            700020941
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:37, 17:48)",
+        [
+            "The Globe",
+            700028483
+        ]
+    ],
+    [
+        "Casual Shopping",
+        "(17:09, 18:05)",
+        [
+            "Think Coffee",
+            700020941
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 20:01)",
+        [
+            "",
+            700002711
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "New China",
+            700016574
+        ]
+    ]
+]

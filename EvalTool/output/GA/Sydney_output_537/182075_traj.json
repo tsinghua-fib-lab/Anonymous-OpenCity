@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005994
+        ]
+    ],
+    [
+        "Next activity based on plan.",
+        "(09:00, 11:39)",
+        [
+            "",
+            700022569
+        ]
+    ],
+    [
+        "Go to a nearby cafe after breakfast.",
+        "(10:21, 11:33)",
+        [
+            "Signature Espresso",
+            700006508
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 14:27)",
+        [
+            "Wilson Darling Park",
+            700009616
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 16:48)",
+        [
+            "",
+            700026395
+        ]
+    ],
+    [
+        "Spend time at Wilson Darling Park.",
+        "(19:10, 20:48)",
+        [
+            "Wilson Darling Park",
+            700009616
+        ]
+    ],
+    [
+        "Go to a sports event nearby",
+        "(22:34, 23:59)",
+        [
+            "",
+            700022569
+        ]
+    ]
+]

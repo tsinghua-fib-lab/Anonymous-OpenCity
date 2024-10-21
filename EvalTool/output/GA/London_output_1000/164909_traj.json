@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "Leisure Activities or Sports",
+        "(09:00, 11:03)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:07, 14:02)",
+        [
+            "Sphinx Hall",
+            700050004
+        ]
+    ],
+    [
+        "Socializing/Visiting Friends",
+        "(17:00, 18:50)",
+        [
+            "",
+            700065881
+        ]
+    ],
+    [
+        "Socializing/Visiting Friends",
+        "(19:27, 20:53)",
+        [
+            "",
+            700065950
+        ]
+    ],
+    [
+        "Socializing/Visiting Friends",
+        "(21:31, 22:40)",
+        [
+            "",
+            700050016
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:12, 23:59)",
+        [
+            "",
+            700065881
+        ]
+    ]
+]

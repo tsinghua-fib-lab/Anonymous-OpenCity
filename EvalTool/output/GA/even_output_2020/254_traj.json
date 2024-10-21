@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Union Square Sports Bar",
+            700002321
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:01)",
+        [
+            "Taquerria Castillo B2",
+            700003551
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 13:38)",
+        [
+            "Punjab Kabab House",
+            700003022
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:36, 15:57)",
+        [
+            "Punjab Kabab House",
+            700003022
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:20, 17:47)",
+        [
+            "Punjab Kabab House",
+            700003022
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:20, 23:58)",
+        [
+            "Carl's Jr.",
+            700003108
+        ]
+    ],
+    [
+        "Sleep at The Brazen Head.",
+        "(23:58, 23:59)",
+        [
+            "Taxi Stand at Parc 55 (along Eddy St)",
+            700009886
+        ]
+    ]
+]

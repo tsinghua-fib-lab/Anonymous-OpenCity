@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700007851
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:09)",
+        [
+            "",
+            700006485
+        ]
+    ],
+    [
+        "Engage in a hobby or read a book",
+        "(12:46, 13:59)",
+        [
+            "Chai Bar by David Rio",
+            700005255
+        ]
+    ],
+    [
+        "Watch a movie or binge a TV series",
+        "(14:16, 17:12)",
+        [
+            "The Rumpus Room",
+            700004676
+        ]
+    ],
+    [
+        "Prepare and have dinner, followed by winding down",
+        "(18:06, 20:09)",
+        [
+            "",
+            700007851
+        ]
+    ],
+    [
+        "Prepare and have dinner, followed by winding down.",
+        "(20:02, 21:38)",
+        [
+            "Birdsong",
+            700009295
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:56, 23:50)",
+        [
+            "West Bay Pilipino Multi-Service Center",
+            700004748
+        ]
+    ]
+]

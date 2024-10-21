@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:05)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:35, 16:12)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:20, 17:45)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(18:04, 22:52)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 23:59)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ]
+]

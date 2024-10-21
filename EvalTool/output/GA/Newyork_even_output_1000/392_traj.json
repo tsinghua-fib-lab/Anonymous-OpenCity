@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001045
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:40)",
+        [
+            "",
+            700026127
+        ]
+    ],
+    [
+        "Afternoon Hobby",
+        "(14:23, 15:54)",
+        [
+            "Caspary Auditorium",
+            700000565
+        ]
+    ],
+    [
+        "Head to Caspary Auditorium for hobby time.",
+        "(16:25, 18:00)",
+        [
+            "Caspary Auditorium",
+            700000565
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(18:07, 19:46)",
+        [
+            "Caspary Auditorium",
+            700000565
+        ]
+    ],
+    [
+        "Stay at Caspary Auditorium",
+        "(20:36, 21:50)",
+        [
+            "Caspary Auditorium",
+            700000565
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:29, 23:59)",
+        [
+            "",
+            700002039
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Il Punto Ristorante",
+            700008707
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:36)",
+        [
+            "Pomodoro Italian Restaurant",
+            700008669
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:36, 14:07)",
+        [
+            "Subway",
+            700006068
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(14:49, 16:06)",
+        [
+            "Snack EOS",
+            700006350
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:07, 20:08)",
+        [
+            "Citi Bike - West 39th Street & 9th Avenue",
+            700008219
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:26, 23:59)",
+        [
+            "Tabata Noodle Restaurant",
+            700022443
+        ]
+    ]
+]

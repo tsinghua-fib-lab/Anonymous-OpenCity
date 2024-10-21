@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ginza",
+            700013041
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:26)",
+        [
+            "Row House",
+            700017243
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:55, 14:52)",
+        [
+            "Row House",
+            700017243
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:41, 17:17)",
+        [
+            "Row House",
+            700017243
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:55, 19:03)",
+        [
+            "Row House",
+            700017243
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(19:35, 20:49)",
+        [
+            "iPizzaNY",
+            700006340
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:43, 23:15)",
+        [
+            "iPizzaNY",
+            700006340
+        ]
+    ]
+]

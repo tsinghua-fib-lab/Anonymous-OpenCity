@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014194
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(10:00, 10:59)",
+        [
+            "Cocina Mayah Restaurant",
+            700010698
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(11:05, 13:10)",
+        [
+            "Cocina Mayah Restaurant",
+            700010698
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:30, 15:08)",
+        [
+            "Cocina Mayah Restaurant",
+            700010698
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:57, 16:18)",
+        [
+            "Cocina Mayah Restaurant",
+            700010698
+        ]
+    ],
+    [
+        "Afternoon Sports",
+        "(16:47, 18:08)",
+        [
+            "Slate",
+            700005796
+        ]
+    ],
+    [
+        "Continue with Dinner Preparation and Meal",
+        "(18:13, 20:05)",
+        [
+            "Cocina Mayah Restaurant",
+            700010698
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 22:16)",
+        [
+            "U.S. Bank",
+            700004339
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "Poc-Chuc",
+            700004983
+        ]
+    ]
+]

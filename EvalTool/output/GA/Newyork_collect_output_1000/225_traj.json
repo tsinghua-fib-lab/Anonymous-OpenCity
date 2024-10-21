@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:10)",
+        [
+            "Flavor's House",
+            700021997
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(14:54, 15:54)",
+        [
+            "Apotheco Pharmacy",
+            700021514
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:30, 18:07)",
+        [
+            "Peppa's Jerk Chicken",
+            700021515
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:08, 23:02)",
+        [
+            "",
+            700024800
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:15, 23:59)",
+        [
+            "Ostrica",
+            700015361
+        ]
+    ],
+    [
+        "Engage in a leisure activity.",
+        "(23:29, 23:59)",
+        [
+            "CVS Pharmacy",
+            700015709
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pharmacie de la Butte Montmartre",
+            700002946
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:38)",
+        [
+            "",
+            700033431
+        ]
+    ],
+    [
+        "Social Time/Activities",
+        "(13:42, 16:06)",
+        [
+            "",
+            700028472
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:24, 20:45)",
+        [
+            "Pharmacie du Moulin",
+            700002947
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 22:37)",
+        [
+            "Le Taroudant",
+            700005096
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "",
+            700033431
+        ]
+    ]
+]

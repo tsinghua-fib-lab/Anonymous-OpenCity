@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005093
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:09)",
+        [
+            "The Center SF Tea House",
+            700004695
+        ]
+    ],
+    [
+        "preparing and having lunch",
+        "(12:15, 13:20)",
+        [
+            "The Center SF Tea House",
+            700004695
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(14:10, 16:08)",
+        [
+            "The Center SF Tea House",
+            700004695
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(17:03, 18:56)",
+        [
+            "The Center SF Tea House",
+            700004695
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:27, 23:59)",
+        [
+            "Paula's Cafe",
+            700005487
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009110
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:23)",
+        [
+            "",
+            700009110
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:10, 12:42)",
+        [
+            "",
+            700009117
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 18:00)",
+        [
+            "",
+            700009090
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(18:22, 20:04)",
+        [
+            "",
+            700009110
+        ]
+    ],
+    [
+        "Catch up with friends or family.",
+        "(20:53, 22:21)",
+        [
+            "",
+            700009110
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(23:04, 23:59)",
+        [
+            "",
+            700009110
+        ]
+    ]
+]

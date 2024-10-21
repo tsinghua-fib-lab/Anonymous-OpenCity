@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020624
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(10:00, 11:51)",
+        [
+            "",
+            700020624
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:43, 14:13)",
+        [
+            "Chick-fil-a",
+            700041024
+        ]
+    ],
+    [
+        "Leisure Time/Entertainment",
+        "(15:08, 18:06)",
+        [
+            "Chick-fil-a",
+            700041024
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:58, 20:58)",
+        [
+            "Sojourn",
+            700030668
+        ]
+    ],
+    [
+        "Leisure Time/Entertainment",
+        "(21:41, 22:42)",
+        [
+            "Lusardi's",
+            700019512
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "",
+            700020609
+        ]
+    ]
+]

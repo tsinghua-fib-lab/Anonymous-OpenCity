@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pathé Parnasse",
+            700000228
+        ]
+    ],
+    [
+        "Next activity based on the plan",
+        "(10:00, 11:38)",
+        [
+            "Juni",
+            700013175
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:02, 17:25)",
+        [
+            "Kebab Corner",
+            700008596
+        ]
+    ],
+    [
+        "Current place with extended stay.",
+        "(15:07, 16:34)",
+        [
+            "Juni",
+            700013175
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:46, 21:37)",
+        [
+            "Starbucks",
+            700008582
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:18, 21:34)",
+        [
+            "Les Bains d'Odessa",
+            700024861
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:07, 23:55)",
+        [
+            "Hippopotamus",
+            700007109
+        ]
+    ]
+]

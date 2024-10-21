@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020544
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:07)",
+        [
+            "",
+            700020544
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:14, 14:05)",
+        [
+            "United States Post Office",
+            700011121
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:29, 15:51)",
+        [
+            "Duane Reade",
+            700004329
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(15:52, 17:14)",
+        [
+            "Hey Yuet",
+            700040165
+        ]
+    ],
+    [
+        "Sports or Exercise",
+        "(17:53, 19:08)",
+        [
+            "Hey Yuet",
+            700040165
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(19:54, 20:57)",
+        [
+            "the Chelsea Bell",
+            700010314
+        ]
+    ],
+    [
+        "Stay at the Chelsea Bell and relax",
+        "(21:21, 22:58)",
+        [
+            "the Chelsea Bell",
+            700010314
+        ]
+    ],
+    [
+        "Stay at the Chelsea Bell and relax",
+        "(23:01, 23:59)",
+        [
+            "the Chelsea Bell",
+            700010314
+        ]
+    ]
+]

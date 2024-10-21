@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Morning Routine (10:00 AM - 11:00 AM)",
+        "(10:00, 11:53)",
+        [
+            "",
+            700011173
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 14:26)",
+        [
+            "The Accorn School",
+            700024882
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(15:17, 16:38)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:28, 20:58)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "",
+            700018137
+        ]
+    ]
+]

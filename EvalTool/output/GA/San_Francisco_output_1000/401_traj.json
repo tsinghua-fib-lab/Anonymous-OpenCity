@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Diamond Cafe",
+            700001751
+        ]
+    ],
+    [
+        "Morning Routine",
+        "(10:00, 11:31)",
+        [
+            "Contigo Kitchen + Cava",
+            700001758
+        ]
+    ],
+    [
+        "Next activity after morning routine",
+        "(12:18, 13:54)",
+        [
+            "Peasant Pies",
+            700001762
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:07, 19:16)",
+        [
+            "Dash",
+            700001749
+        ]
+    ],
+    [
+        "Shopping",
+        "(18:06, 19:52)",
+        [
+            "Dash",
+            700001749
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:03, 22:21)",
+        [
+            "The UPS Store",
+            700001763
+        ]
+    ]
+]

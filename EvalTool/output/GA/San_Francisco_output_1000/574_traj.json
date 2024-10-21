@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005718
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:51)",
+        [
+            "",
+            700005718
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:10, 13:58)",
+        [
+            "",
+            700005718
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 18:36)",
+        [
+            "Mission Picnic",
+            700005604
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:48, 18:52)",
+        [
+            "",
+            700005718
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(19:25, 21:03)",
+        [
+            "Tinto",
+            700003558
+        ]
+    ],
+    [
+        "Relaxation and TV Watching",
+        "(21:54, 22:52)",
+        [
+            "",
+            700005718
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:05, 23:59)",
+        [
+            "Collegio De La Mission",
+            700000200
+        ]
+    ]
+]

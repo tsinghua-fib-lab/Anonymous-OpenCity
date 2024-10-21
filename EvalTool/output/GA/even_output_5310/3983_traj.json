@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008296
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:58)",
+        [
+            "Craft + Carry",
+            700002556
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(12:16, 13:56)",
+        [
+            "Craft + Carry",
+            700002556
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:27, 15:50)",
+        [
+            "Craft + Carry",
+            700002556
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 21:28)",
+        [
+            "Birch Coffee",
+            700009668
+        ]
+    ],
+    [
+        "Home Relaxation",
+        "(21:14, 23:47)",
+        [
+            "Home Base",
+            700004866
+        ]
+    ],
+    [
+        "Home Relaxation",
+        "(23:58, 23:59)",
+        [
+            "Craft + Carry",
+            700002556
+        ]
+    ]
+]

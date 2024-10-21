@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Baker Street Pub",
+            700009362
+        ]
+    ],
+    [
+        "Engage in a light workout or yoga session to start the day with energy.",
+        "(10:00, 11:20)",
+        [
+            "Baker Street Pub",
+            700009362
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 15:13)",
+        [
+            "Hendrickson's",
+            700036809
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 18:17)",
+        [
+            "Sutton Animal Hospital",
+            700036806
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:12, 19:59)",
+        [
+            "Sea Salt Grill & Bar",
+            700036808
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 20:55)",
+        [
+            "",
+            700006036
+        ]
+    ]
+]

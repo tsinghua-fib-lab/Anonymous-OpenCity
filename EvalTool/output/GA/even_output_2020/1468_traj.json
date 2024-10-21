@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010565
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:50)",
+        [
+            "Mission Creek Cafe",
+            700002660
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:07, 13:30)",
+        [
+            "Mission Creek Cafe",
+            700002660
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:12, 19:42)",
+        [
+            "",
+            700008209
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:12, 21:05)",
+        [
+            "Sutter 899 Valencia Street Care Center",
+            700012229
+        ]
+    ],
+    [
+        "Stay at Lazy Bear for a casual evening.",
+        "(21:21, 22:26)",
+        [
+            "Loló",
+            700003672
+        ]
+    ],
+    [
+        "Go to Inca Juice & Sandwiches for a light meal.",
+        "(23:32, 23:59)",
+        [
+            "",
+            700010565
+        ]
+    ]
+]

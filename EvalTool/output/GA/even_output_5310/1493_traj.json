@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Prestige Car Rental",
+            700008333
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:46)",
+        [
+            "Laura Perlmutter Center for Women's Imaging",
+            700006332
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:45, 13:09)",
+        [
+            "",
+            700001704
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:41, 15:07)",
+        [
+            "",
+            700035333
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:58, 21:36)",
+        [
+            "",
+            700001834
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(19:36, 21:00)",
+        [
+            "",
+            700001834
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(21:55, 23:08)",
+        [
+            "Prestige Car Rental",
+            700008333
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "One Two Thai",
+            700007488
+        ]
+    ]
+]

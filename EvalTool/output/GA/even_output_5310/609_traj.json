@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wanpo Tea Shop",
+            700038331
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:27)",
+        [
+            "New York Pen & Stationery",
+            700040625
+        ]
+    ],
+    [
+        "Continue reading or pursuing a hobby.",
+        "(13:10, 14:37)",
+        [
+            "Wanpo Tea Shop",
+            700038331
+        ]
+    ],
+    [
+        "Watching a movie or binge-watching a TV series",
+        "(15:04, 17:28)",
+        [
+            "Wanpo Tea Shop",
+            700038331
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 19:24)",
+        [
+            "Dunkin'",
+            700010769
+        ]
+    ],
+    [
+        "Stay at Wanpo Tea Shop",
+        "(20:22, 21:59)",
+        [
+            "Pelicana Chicken",
+            700022811
+        ]
+    ],
+    [
+        "Stay at Wanpo Tea Shop.",
+        "(22:23, 23:59)",
+        [
+            "Wanpo Tea Shop",
+            700038331
+        ]
+    ]
+]

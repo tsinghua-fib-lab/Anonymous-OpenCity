@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Circular Quay 4B",
+            700000001
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:08)",
+        [
+            "",
+            700030147
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 12:20)",
+        [
+            "",
+            700009881
+        ]
+    ],
+    [
+        "Next, you will visit a nearby park or a recreational area.",
+        "(12:23, 14:06)",
+        [
+            "",
+            700007797
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:23, 16:33)",
+        [
+            "",
+            700008350
+        ]
+    ],
+    [
+        "Engage in a hobby (e.g., reading, gaming, or crafting)",
+        "(17:26, 19:01)",
+        [
+            "",
+            700027578
+        ]
+    ],
+    [
+        "Stay at Circular Quay 4B.",
+        "(19:43, 21:19)",
+        [
+            "",
+            700006639
+        ]
+    ],
+    [
+        "Stay at Circular Quay 4B.",
+        "(22:01, 23:25)",
+        [
+            "Circular Quay 4B",
+            700000001
+        ]
+    ],
+    [
+        "Stay at Circular Quay 4B",
+        "(23:25, 23:59)",
+        [
+            "Circular Quay 5A",
+            700000000
+        ]
+    ]
+]

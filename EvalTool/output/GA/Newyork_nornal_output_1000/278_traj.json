@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001967
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:58)",
+        [
+            "VERS",
+            700026506
+        ]
+    ],
+    [
+        "Stay at VERS",
+        "(12:38, 14:18)",
+        [
+            "Istanbul Kebab House",
+            700017343
+        ]
+    ],
+    [
+        "next activity",
+        "(14:20, 16:09)",
+        [
+            "Istanbul Kebab House",
+            700017343
+        ]
+    ],
+    [
+        "next activity",
+        "(16:29, 17:49)",
+        [
+            "Istanbul Kebab House",
+            700017343
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 20:04)",
+        [
+            "VERS",
+            700026506
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:47, 21:41)",
+        [
+            "IPizzaNY",
+            700014822
+        ]
+    ],
+    [
+        "Stay at IPizzaNY",
+        "(22:21, 23:42)",
+        [
+            "Gazalas",
+            700014821
+        ]
+    ],
+    [
+        "Stay at IPizzaNY",
+        "(23:42, 23:59)",
+        [
+            "Gazalas",
+            700014821
+        ]
+    ]
+]

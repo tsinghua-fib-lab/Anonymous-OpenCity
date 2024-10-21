@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Benoit",
+            700007350
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:49)",
+        [
+            "Pret A Manger",
+            700027355
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(13:53, 15:09)",
+        [
+            "Pret A Manger",
+            700027355
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(15:19, 16:21)",
+        [
+            "Pret A Manger",
+            700027355
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(16:32, 18:00)",
+        [
+            "Pret A Manger",
+            700027355
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 19:29)",
+        [
+            "Pret A Manger",
+            700027355
+        ]
+    ],
+    [
+        "Stay at Pret A Manger",
+        "(20:27, 21:55)",
+        [
+            "Benoit",
+            700007350
+        ]
+    ],
+    [
+        "Stay at Benoit",
+        "(22:17, 23:37)",
+        [
+            "Benoit",
+            700007350
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "La Bonne Soupe",
+            700009199
+        ]
+    ]
+]

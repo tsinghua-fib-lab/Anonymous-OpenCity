@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006163
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:37)",
+        [
+            "",
+            700011040
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:47, 13:59)",
+        [
+            "Jackson Fillmore Trattoria",
+            700009518
+        ]
+    ],
+    [
+        "Afternoon Leisure",
+        "(15:18, 16:44)",
+        [
+            "",
+            700006163
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:55, 18:12)",
+        [
+            "Jane",
+            700009590
+        ]
+    ],
+    [
+        "Dinner with Family or Friends",
+        "(19:21, 20:54)",
+        [
+            "",
+            700006163
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "Peet's Coffee",
+            700009937
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(23:56, 23:59)",
+        [
+            "Starbucks",
+            700000065
+        ]
+    ]
+]

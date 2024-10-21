@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008520
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the park nearby",
+        "(10:00, 10:50)",
+        [
+            "Radhaus",
+            700005921
+        ]
+    ],
+    [
+        "Next, go to Radhaus.",
+        "(11:08, 13:03)",
+        [
+            "Radhaus",
+            700005921
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:51, 19:08)",
+        [
+            "Young Performers Theatre",
+            700004184
+        ]
+    ],
+    [
+        "Stay, perhaps planning for the next day.",
+        "(19:39, 21:35)",
+        [
+            "",
+            700008520
+        ]
+    ],
+    [
+        "Stay at Young Performers Theatre",
+        "(22:10, 23:28)",
+        [
+            "Young Performers Theatre",
+            700004184
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "The Interval",
+            700004117
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:46)",
+        [
+            "Madison Restaurant",
+            700011537
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(12:23, 13:44)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:49, 16:13)",
+        [
+            "",
+            700038170
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:14, 20:52)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:04, 21:38)",
+        [
+            "",
+            700025676
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:03, 23:59)",
+        [
+            "",
+            700025676
+        ]
+    ],
+    [
+        "Sleep at Home",
+        "(23:31, 23:59)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ]
+]

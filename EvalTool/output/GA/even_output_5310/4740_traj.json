@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dolly Varden",
+            700021892
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:42)",
+        [
+            "Fiorentina",
+            700013969
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:08, 18:35)",
+        [
+            "Fiorentina",
+            700013969
+        ]
+    ],
+    [
+        "Watch a movie and enjoy some snacks before settling in for the night.",
+        "(21:27, 23:01)",
+        [
+            "Fiorentina",
+            700013969
+        ]
+    ],
+    [
+        "Go to sleep.",
+        "(23:55, 23:59)",
+        [
+            "Dolly Varden",
+            700021892
+        ]
+    ]
+]

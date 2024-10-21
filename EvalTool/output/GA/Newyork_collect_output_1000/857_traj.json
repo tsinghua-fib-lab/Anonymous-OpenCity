@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:16)",
+        [
+            "Smile Dental Center",
+            700023828
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(13:55, 15:03)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:59, 19:27)",
+        [
+            "",
+            700022515
+        ]
+    ],
+    [
+        "Next, Wind Down with TV or Relaxing Activities",
+        "(19:09, 22:00)",
+        [
+            "",
+            700002113
+        ]
+    ],
+    [
+        "Wind Down with TV or Relaxing Activities",
+        "(22:59, 23:52)",
+        [
+            "CityMD",
+            700013548
+        ]
+    ],
+    [
+        "Stay at New York Comedy Club",
+        "(23:57, 23:59)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ]
+]

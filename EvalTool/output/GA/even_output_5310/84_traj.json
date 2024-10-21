@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002061
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:53)",
+        [
+            "",
+            700002061
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:56, 16:48)",
+        [
+            "Duane Reade",
+            700009654
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:04, 15:35)",
+        [
+            "USPS",
+            700017574
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 21:31)",
+        [
+            "The Jeffrey Craft Beer, Coctails & Bites",
+            700010005
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "",
+            700030124
+        ]
+    ]
+]

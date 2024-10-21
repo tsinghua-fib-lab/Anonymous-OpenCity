@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001239
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:04)",
+        [
+            "Lutheran Church of the Holy Chapel",
+            700000230
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(13:20, 13:59)",
+        [
+            "Lutheran Church of the Holy Chapel",
+            700000230
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:59, 15:46)",
+        [
+            "Up For Dayz",
+            700010667
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:24, 17:48)",
+        [
+            "",
+            700009527
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 23:54)",
+        [
+            "",
+            700000525
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Thai Spice",
+            700004190
+        ]
+    ]
+]

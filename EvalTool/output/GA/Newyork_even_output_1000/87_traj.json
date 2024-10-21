@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700025315
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:19)",
+        [
+            "",
+            700020186
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 13:23)",
+        [
+            "Amor y Amargo General Store",
+            700004859
+        ]
+    ],
+    [
+        "Personal Development",
+        "(13:03, 14:51)",
+        [
+            "Amor y Amargo General Store",
+            700004859
+        ]
+    ],
+    [
+        "Personal Development",
+        "(15:56, 17:31)",
+        [
+            "Amor y Amargo General Store",
+            700004859
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:27, 22:55)",
+        [
+            "",
+            700020189
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:10, 23:59)",
+        [
+            "",
+            700020190
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Phoenix Garden",
+            700007839
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:54)",
+        [
+            "Sachi",
+            700006456
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 15:00)",
+        [
+            "Townhouse Diner",
+            700006707
+        ]
+    ],
+    [
+        "Social or Leisure Activities",
+        "(14:49, 16:55)",
+        [
+            "Townhouse Diner",
+            700006707
+        ]
+    ],
+    [
+        "Social or Leisure Activities",
+        "(16:54, 18:57)",
+        [
+            "Townhouse Diner",
+            700006707
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:18, 21:19)",
+        [
+            "Six Happiness",
+            700017843
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:09, 23:59)",
+        [
+            "",
+            700011030
+        ]
+    ]
+]

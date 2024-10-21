@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Horn's Hook Tavern",
+            700006575
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:45)",
+        [
+            "Felice",
+            700024260
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:13, 20:29)",
+        [
+            "La Mia Pizza",
+            700014046
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(17:08, 18:34)",
+        [
+            "Bar Felice",
+            700024255
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(19:25, 22:06)",
+        [
+            "Bar Felice",
+            700024255
+        ]
+    ],
+    [
+        "Chill at Bar Felice to end the day",
+        "(22:29, 23:59)",
+        [
+            "Bar Felice",
+            700024255
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(23:55, 23:59)",
+        [
+            "Bar Felice",
+            700024255
+        ]
+    ]
+]

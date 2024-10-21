@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Wonderland Bar",
+            700041293
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:22)",
+        [
+            "Block Drug Stores",
+            700004560
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(13:36, 15:13)",
+        [
+            "Frank",
+            700041295
+        ]
+    ],
+    [
+        "Relaxation/TV/Reading",
+        "(15:44, 17:15)",
+        [
+            "Wonderland Bar",
+            700041293
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:31, 19:06)",
+        [
+            "Frank",
+            700041295
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:40, 20:50)",
+        [
+            "Frank",
+            700041295
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:30, 23:59)",
+        [
+            "",
+            700001777
+        ]
+    ]
+]

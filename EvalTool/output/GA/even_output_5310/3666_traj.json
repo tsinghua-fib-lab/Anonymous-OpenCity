@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001089
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:33)",
+        [
+            "Little Free Library",
+            700024710
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:01, 17:46)",
+        [
+            "",
+            700001846
+        ]
+    ],
+    [
+        "Spend time with family or friends",
+        "(16:48, 17:56)",
+        [
+            "",
+            700000875
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 21:29)",
+        [
+            "",
+            700002762
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "Citi Bike - Allen Street & Rivington Street",
+            700004296
+        ]
+    ]
+]

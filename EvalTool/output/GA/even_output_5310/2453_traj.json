@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700037623
+        ]
+    ],
+    [
+        "Next activity in the daily plan",
+        "(10:00, 11:58)",
+        [
+            "",
+            700037624
+        ]
+    ],
+    [
+        "Go for a relaxing walk or hike in a nearby park or nature reserve.",
+        "(12:02, 14:05)",
+        [
+            "",
+            700037623
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:00, 19:55)",
+        [
+            "Grand Central Place",
+            700003428
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 20:41)",
+        [
+            "Citi Bike - Pershing Square South",
+            700008163
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:08, 23:59)",
+        [
+            "Pershing Square",
+            700008462
+        ]
+    ]
+]

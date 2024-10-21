@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:49)",
+        [
+            "Citi Bike - East 25th Street & 2nd Avenue",
+            700008039
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:57, 15:16)",
+        [
+            "Song Yu, DPM",
+            700023820
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:29, 23:26)",
+        [
+            "Smile Dental Center",
+            700023828
+        ]
+    ],
+    [
+        "Go for a late-night snack",
+        "(23:37, 23:59)",
+        [
+            "",
+            700022503
+        ]
+    ]
+]

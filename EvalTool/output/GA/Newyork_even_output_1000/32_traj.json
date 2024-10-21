@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700033273
+        ]
+    ],
+    [
+        "Leisure Activity or Sport",
+        "(10:00, 12:03)",
+        [
+            "",
+            700022423
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:02, 17:07)",
+        [
+            "",
+            700033272
+        ]
+    ],
+    [
+        "Leisure Activity or Sport",
+        "(15:43, 17:09)",
+        [
+            "",
+            700033270
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:21, 20:44)",
+        [
+            "Joan H. and Preston Robert Tisch Center",
+            700022907
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:14, 23:59)",
+        [
+            "Joan H. and Preston Robert Tisch Center",
+            700022907
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "Grand St. Settlement Community Center",
+            700022905
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700023591
+        ]
+    ],
+    [
+        "Read or Write",
+        "(10:00, 11:23)",
+        [
+            "RFX Studio",
+            700029596
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:24, 16:33)",
+        [
+            "David's Pharmacy",
+            700006190
+        ]
+    ],
+    [
+        "Grocery Shopping or Errands",
+        "(17:00, 18:38)",
+        [
+            "Passport Health Gramercy Park Travel Clinic",
+            700025936
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 22:58)",
+        [
+            "David's Pharmacy",
+            700006190
+        ]
+    ]
+]

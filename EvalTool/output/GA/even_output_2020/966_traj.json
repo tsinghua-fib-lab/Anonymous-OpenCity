@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Zipcar",
+            700001203
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:16)",
+        [
+            "Zipcar",
+            700001203
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:02, 14:01)",
+        [
+            "",
+            700000975
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 18:07)",
+        [
+            "Côte Ouest Bistro",
+            700002031
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(19:42, 21:38)",
+        [
+            "Côte Ouest Bistro",
+            700002031
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(21:18, 22:41)",
+        [
+            "Côte Ouest Bistro",
+            700002031
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "",
+            700010593
+        ]
+    ]
+]

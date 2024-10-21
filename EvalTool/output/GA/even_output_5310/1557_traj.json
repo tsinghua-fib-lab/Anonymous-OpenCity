@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Icon Parking",
+            700003603
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:24)",
+        [
+            "Sai Gon Dep",
+            700017844
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 17:32)",
+        [
+            "Six Happiness",
+            700017843
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:36, 22:06)",
+        [
+            "",
+            700017846
+        ]
+    ],
+    [
+        "Stay at Paramount Tower Garage",
+        "(22:10, 23:30)",
+        [
+            "Duane Reade",
+            700007837
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:41, 23:59)",
+        [
+            "El Pote Español",
+            700006708
+        ]
+    ]
+]

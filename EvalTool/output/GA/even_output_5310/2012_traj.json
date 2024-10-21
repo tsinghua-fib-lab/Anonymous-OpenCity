@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Noodies Thai Kitchen",
+            700017503
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:26)",
+        [
+            "El Centro",
+            700006320
+        ]
+    ],
+    [
+        "Moving to next activity.",
+        "(12:33, 14:36)",
+        [
+            "El Centro",
+            700006320
+        ]
+    ],
+    [
+        "continue with the plan",
+        "(14:35, 16:25)",
+        [
+            "Citi Bike - West 54th Street & 9th Avenue",
+            700008234
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:46, 20:57)",
+        [
+            "Chong Qing Noodle",
+            700021404
+        ]
+    ],
+    [
+        "Current place: Chong Qing Noodle",
+        "(21:42, 23:09)",
+        [
+            "Chong Qing Noodle",
+            700021404
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "",
+            700021422
+        ]
+    ]
+]

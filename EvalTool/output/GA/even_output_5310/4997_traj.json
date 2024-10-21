@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Soul Dental West",
+            700027230
+        ]
+    ],
+    [
+        "Leisurely Stroll or Exercise",
+        "(10:00, 11:42)",
+        [
+            "Citi Bike - 11th Avenue & West 59th Street",
+            700005834
+        ]
+    ],
+    [
+        "Leisurely Stroll or Exercise",
+        "(11:27, 13:09)",
+        [
+            "Citi Bike - 11th Avenue & West 59th Street",
+            700005834
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(13:09, 15:06)",
+        [
+            "Soul Dental West",
+            700027230
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:56, 21:17)",
+        [
+            "Club Pilates",
+            700027244
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(20:15, 22:10)",
+        [
+            "Century Medical & Dental Center",
+            700024962
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "",
+            700027342
+        ]
+    ]
+]

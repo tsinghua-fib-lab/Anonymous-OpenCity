@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Start breakfast at Devonshire Square.",
+        "(10:00, 11:01)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Start Leisure Activity",
+        "(11:48, 13:01)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:21, 14:27)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:01, 16:44)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:04, 18:00)",
+        [
+            "Fitness First",
+            700019570
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 23:34)",
+        [
+            "Enoteca da Luca",
+            700019572
+        ]
+    ]
+]

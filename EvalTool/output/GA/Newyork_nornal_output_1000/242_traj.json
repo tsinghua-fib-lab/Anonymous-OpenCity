@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Il Violino",
+            700005036
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:20)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "order pizza and relax",
+        "(12:52, 13:55)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "Spend time on a personal project or hobby.",
+        "(14:07, 17:01)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "Meet up with friends or family for coffee or a light snack at a nearby café.",
+        "(17:17, 18:52)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 21:50)",
+        [
+            "Equinox",
+            700003705
+        ]
+    ],
+    [
+        "Stay at Starbucks.",
+        "(23:21, 23:59)",
+        [
+            "United States Post Office",
+            700005035
+        ]
+    ]
+]

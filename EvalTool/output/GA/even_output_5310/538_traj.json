@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sai Gon Dep",
+            700017844
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 10:51)",
+        [
+            "Sai Gon Dep",
+            700017844
+        ]
+    ],
+    [
+        "You are currently at Sai Gon Dep.",
+        "(11:03, 12:00)",
+        [
+            "Paramount Tower Garage",
+            700011031
+        ]
+    ],
+    [
+        "Find another local park nearby for a walk.",
+        "(12:36, 13:57)",
+        [
+            "Romanian Cultural Center",
+            700000478
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 15:06)",
+        [
+            "El Rio Grande",
+            700003448
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 23:35)",
+        [
+            "",
+            700002726
+        ]
+    ],
+    [
+        "Stay at Sai Gon Dep",
+        "(20:18, 21:50)",
+        [
+            "El Rio Grande",
+            700003448
+        ]
+    ],
+    [
+        "Stay at Sai Gon Dep.",
+        "(22:48, 23:40)",
+        [
+            "Sai Gon Dep",
+            700017844
+        ]
+    ],
+    [
+        "Stay at Sai Gon Dep.",
+        "(23:43, 23:59)",
+        [
+            "Sai Gon Dep",
+            700017844
+        ]
+    ]
+]

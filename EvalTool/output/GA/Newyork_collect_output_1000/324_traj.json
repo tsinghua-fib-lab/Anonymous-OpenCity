@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:33)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Continue to Afternoon Leisure",
+        "(10:58, 13:02)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 18:55)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Continue to Afternoon Leisure",
+        "(16:20, 18:00)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 23:59)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Stay at iPark",
+        "(22:35, 23:59)",
+        [
+            "Street Taco",
+            700006239
+        ]
+    ]
+]

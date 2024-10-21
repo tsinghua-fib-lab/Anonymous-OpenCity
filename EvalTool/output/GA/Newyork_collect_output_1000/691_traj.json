@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(09:00, 11:03)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:03, 13:05)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Lunch.",
+        "(12:48, 14:56)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:32, 21:03)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Socializing with Friends or Family",
+        "(19:06, 20:59)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Socializing with Friends or Family",
+        "(22:01, 23:59)",
+        [
+            "Little Basil",
+            700006236
+        ]
+    ],
+    [
+        "Socializing with Friends or Family",
+        "(23:53, 23:59)",
+        [
+            "Little Basil",
+            700006236
+        ]
+    ]
+]

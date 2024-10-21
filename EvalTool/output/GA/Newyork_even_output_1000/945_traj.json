@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020103
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:20)",
+        [
+            "Fle-Fle Grill",
+            700006162
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:22, 15:23)",
+        [
+            "",
+            700020103
+        ]
+    ],
+    [
+        "Meal Prep for the Week",
+        "(13:53, 15:13)",
+        [
+            "Trailer Park Lounge",
+            700040174
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 20:13)",
+        [
+            "",
+            700020102
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 22:18)",
+        [
+            "",
+            700004227
+        ]
+    ],
+    [
+        "Stay at Trailer Park Lounge",
+        "(23:40, 23:59)",
+        [
+            "Trailer Park Lounge",
+            700040174
+        ]
+    ]
+]

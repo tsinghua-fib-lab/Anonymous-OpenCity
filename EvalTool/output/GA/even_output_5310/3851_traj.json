@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Rolf's",
+            700006200
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:54)",
+        [
+            "",
+            700002711
+        ]
+    ],
+    [
+        "Relaxation and Reading",
+        "(10:49, 12:14)",
+        [
+            "Gramercy Ale House",
+            700020943
+        ]
+    ],
+    [
+        "Engage in a fun afternoon activity",
+        "(13:00, 14:51)",
+        [
+            "Gramercy Ale House",
+            700020943
+        ]
+    ],
+    [
+        "Engage in a fun afternoon activity",
+        "(15:07, 17:15)",
+        [
+            "Gramercy Ale House",
+            700020943
+        ]
+    ],
+    [
+        "Dinner Preparation or Dining Out.",
+        "(17:33, 18:55)",
+        [
+            "Rolf's",
+            700006200
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:01, 23:59)",
+        [
+            "",
+            700006198
+        ]
+    ],
+    [
+        "Evening Leisure",
+        "(22:04, 23:31)",
+        [
+            "Gramercy Ale House",
+            700020943
+        ]
+    ],
+    [
+        "Evening Leisure",
+        "(23:32, 23:59)",
+        [
+            "",
+            700006198
+        ]
+    ]
+]

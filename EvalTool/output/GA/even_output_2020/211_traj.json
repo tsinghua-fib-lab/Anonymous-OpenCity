@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sing Sing",
+            700005101
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:02)",
+        [
+            "",
+            700009607
+        ]
+    ],
+    [
+        "Spend time reading a book or catching up on a hobby.",
+        "(15:27, 17:00)",
+        [
+            "Sing Sing",
+            700005101
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:06, 19:50)",
+        [
+            "",
+            700009557
+        ]
+    ],
+    [
+        "Meet friends for drinks.",
+        "(19:38, 21:04)",
+        [
+            "Black cat",
+            700006127
+        ]
+    ],
+    [
+        "Stay at Sing Sing",
+        "(21:26, 23:20)",
+        [
+            "Black cat",
+            700006127
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Sing Sing",
+            700005101
+        ]
+    ]
+]

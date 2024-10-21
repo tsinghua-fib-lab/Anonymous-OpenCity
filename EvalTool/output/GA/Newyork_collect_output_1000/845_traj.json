@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:38)",
+        [
+            "",
+            700022506
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(13:55, 14:56)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:59, 18:05)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Current Place: Link NYC, Stay Time: 0 hours 0 minutes",
+        "(19:09, 22:08)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Wind Down with TV or Relaxing Activities",
+        "(22:59, 23:50)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Stay at Link NYC",
+        "(23:57, 23:59)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ]
+]

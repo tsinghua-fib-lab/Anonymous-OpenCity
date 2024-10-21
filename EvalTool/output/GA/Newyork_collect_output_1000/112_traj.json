@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:14)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(16:18, 17:56)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(18:32, 19:53)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(21:11, 22:53)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:38, 23:59)",
+        [
+            "",
+            700018138
+        ]
+    ]
+]

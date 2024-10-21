@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001525
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:32)",
+        [
+            "",
+            700037210
+        ]
+    ],
+    [
+        "Creative Work",
+        "(13:56, 15:54)",
+        [
+            "",
+            700037204
+        ]
+    ],
+    [
+        "Connect with friends or family, either in person or virtually, for some catch-up time.",
+        "(17:00, 18:28)",
+        [
+            "",
+            700037208
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:13, 20:09)",
+        [
+            "NYPD 1 PCT",
+            700004362
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:35, 23:27)",
+        [
+            "Osteria Carlina",
+            700034573
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "",
+            700022495
+        ]
+    ]
+]

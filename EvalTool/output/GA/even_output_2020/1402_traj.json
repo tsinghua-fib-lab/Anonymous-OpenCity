@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009131
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:00)",
+        [
+            "Fayes Coffee",
+            700010806
+        ]
+    ],
+    [
+        "Next outdoor activity",
+        "(15:18, 16:47)",
+        [
+            "Crunch Fitness",
+            700002088
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:17, 19:00)",
+        [
+            "",
+            700000645
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 21:46)",
+        [
+            "Loving Cup",
+            700002091
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:19, 23:59)",
+        [
+            "Fueling Station",
+            700002064
+        ]
+    ]
+]

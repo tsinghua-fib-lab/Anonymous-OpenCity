@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pizza Olla",
+            700001199
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:38)",
+        [
+            "",
+            700030506
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(15:48, 18:06)",
+        [
+            "Pizza Olla",
+            700001199
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:56, 23:59)",
+        [
+            "Roseville RSL",
+            700003047
+        ]
+    ],
+    [
+        "Wind Down and Reflect",
+        "(20:48, 22:40)",
+        [
+            "Pizza Olla",
+            700001199
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:12, 23:59)",
+        [
+            "",
+            700000333
+        ]
+    ]
+]

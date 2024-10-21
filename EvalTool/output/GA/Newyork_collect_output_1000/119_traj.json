@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:39)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:21, 18:21)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Spend time enjoying leisure reading or catch up on personal projects.",
+        "(16:21, 17:42)",
+        [
+            "",
+            700031200
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:15, 21:23)",
+        [
+            "",
+            700031216
+        ]
+    ],
+    [
+        "Next wind down with some light activities like playing a game or watching TV.",
+        "(21:22, 22:56)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Wind down with some light activities like playing a game or watching TV.",
+        "(23:40, 23:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

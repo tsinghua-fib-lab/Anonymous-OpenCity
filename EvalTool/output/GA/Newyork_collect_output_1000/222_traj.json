@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:09)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(14:54, 15:58)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:30, 18:02)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:08, 23:33)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:15, 23:16)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Prepare for dinner and relax.",
+        "(23:29, 23:59)",
+        [
+            "Street Taco",
+            700006239
+        ]
+    ]
+]

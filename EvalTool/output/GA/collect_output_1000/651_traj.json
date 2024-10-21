@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030395
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 15:01)",
+        [
+            "",
+            700030392
+        ]
+    ],
+    [
+        "Lunch with friends or family.",
+        "(13:14, 14:34)",
+        [
+            "Yong Kang Street",
+            700006177
+        ]
+    ],
+    [
+        "Go out for a fun afternoon activity.",
+        "(15:04, 17:35)",
+        [
+            "Yong Kang Street",
+            700006177
+        ]
+    ],
+    [
+        "Go out for a fun afternoon activity.",
+        "(16:56, 18:23)",
+        [
+            "Yong Kang Street",
+            700006177
+        ]
+    ],
+    [
+        "Continue staying at Yong Kang Street",
+        "(19:16, 20:46)",
+        [
+            "Yong Kang Street",
+            700006177
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:43, 23:10)",
+        [
+            "",
+            700026837
+        ]
+    ]
+]

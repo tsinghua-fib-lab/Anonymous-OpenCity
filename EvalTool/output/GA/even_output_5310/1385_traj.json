@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - East 20th Street & FDR Drive",
+            700008034
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:29)",
+        [
+            "",
+            700017727
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:15, 13:06)",
+        [
+            "Citi Bike - East 20th Street & FDR Drive",
+            700008034
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:49, 16:01)",
+        [
+            "Citi Bike - East 20th Street & FDR Drive",
+            700008034
+        ]
+    ],
+    [
+        "Hobbies or Sports",
+        "(15:48, 17:14)",
+        [
+            "Citi Bike - East 20th Street & FDR Drive",
+            700008034
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:21, 20:45)",
+        [
+            "",
+            700017712
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:31, 23:09)",
+        [
+            "Citi Bike - East 20th Street & FDR Drive",
+            700008034
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:46, 23:59)",
+        [
+            "",
+            700017724
+        ]
+    ]
+]

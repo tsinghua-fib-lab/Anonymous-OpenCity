@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Burger Joint",
+            700006305
+        ]
+    ],
+    [
+        "Wake Up and Leisure Breakfast",
+        "(10:00, 10:57)",
+        [
+            "Burger Joint",
+            700006305
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 16:11)",
+        [
+            "Duane Reade",
+            700006006
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(15:32, 16:57)",
+        [
+            "Duane Reade",
+            700006006
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 22:09)",
+        [
+            "Bike Rental Central Park",
+            700006307
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "Mangia",
+            700007514
+        ]
+    ]
+]

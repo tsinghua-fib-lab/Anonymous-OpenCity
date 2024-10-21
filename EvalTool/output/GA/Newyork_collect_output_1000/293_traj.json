@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:09)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "Engage in a physical activity, such as going for a run or hitting the gym.",
+        "(12:13, 13:04)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 18:09)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Stay at HSBC.",
+        "(16:34, 18:08)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "Stay at HSBC.",
+        "(18:52, 20:15)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "Stay at HSBC",
+        "(20:40, 22:03)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "Next arrangement based on Situation 2",
+        "(22:35, 23:42)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "Move to the next place based on Situation 2.",
+        "(23:40, 23:59)",
+        [
+            "Awe Sum Dim Sum",
+            700028539
+        ]
+    ]
+]

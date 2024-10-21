@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700024478
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:16)",
+        [
+            "Sinigual",
+            700009269
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(12:30, 14:07)",
+        [
+            "Sinigual",
+            700009269
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 15:33)",
+        [
+            "Sanwicherie",
+            700009315
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(18:50, 19:53)",
+        [
+            "Sinigual",
+            700009269
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:58, 23:59)",
+        [
+            "",
+            700024473
+        ]
+    ]
+]

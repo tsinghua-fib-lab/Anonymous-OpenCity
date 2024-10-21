@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Four Seasons",
+            700003419
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:58)",
+        [
+            "",
+            700017690
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:22, 12:54)",
+        [
+            "Dig",
+            700022397
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(13:30, 15:34)",
+        [
+            "Dig",
+            700022397
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:01, 21:09)",
+        [
+            "Duane Reade",
+            700020312
+        ]
+    ],
+    [
+        "Sleep at Felice 64 and wind down for the night.",
+        "(21:30, 22:54)",
+        [
+            "Four Seasons",
+            700003419
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:25, 23:59)",
+        [
+            "Four Seasons",
+            700003419
+        ]
+    ]
+]

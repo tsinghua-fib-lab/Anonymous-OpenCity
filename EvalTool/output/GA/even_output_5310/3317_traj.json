@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bo Law Kung Fu",
+            700019350
+        ]
+    ],
+    [
+        "Prepare and Have Breakfast",
+        "(10:00, 11:20)",
+        [
+            "Bo Law Kung Fu",
+            700019350
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:59, 14:05)",
+        [
+            "Bo Law Kung Fu",
+            700019350
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 18:59)",
+        [
+            "Williamsburg Pizza",
+            700022360
+        ]
+    ],
+    [
+        "Relaxation/Watch a Movie",
+        "(15:50, 17:08)",
+        [
+            "Williamsburg Pizza",
+            700022360
+        ]
+    ],
+    [
+        "Relaxation/Watch a Movie",
+        "(17:08, 18:36)",
+        [
+            "Takumi",
+            700016045
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:07, 23:59)",
+        [
+            "",
+            700001428
+        ]
+    ],
+    [
+        "Relaxation/Watch a Movie",
+        "(23:51, 23:59)",
+        [
+            "Gotham Archery",
+            700015005
+        ]
+    ]
+]

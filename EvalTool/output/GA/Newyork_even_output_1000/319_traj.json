@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700024477
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:12)",
+        [
+            "",
+            700008428
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 17:12)",
+        [
+            "",
+            700011238
+        ]
+    ],
+    [
+        "Relax and watch a movie or series",
+        "(15:25, 16:57)",
+        [
+            "The Perfect Pint",
+            700007257
+        ]
+    ],
+    [
+        "Prepare dinner and wind down.",
+        "(17:21, 20:10)",
+        [
+            "",
+            700024477
+        ]
+    ],
+    [
+        "Relax and watch a movie or series.",
+        "(21:03, 23:09)",
+        [
+            "Tesla Supercharger",
+            700016580
+        ]
+    ],
+    [
+        "Next arrangement is to get dinner at the near restaurant with friends.",
+        "(23:58, 23:59)",
+        [
+            "Barnes Bistro",
+            700006422
+        ]
+    ]
+]

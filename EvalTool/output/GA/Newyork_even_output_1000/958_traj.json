@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020515
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:01)",
+        [
+            "Midtown Tennis Club",
+            700004340
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(13:14, 14:44)",
+        [
+            "Midtown Tennis Club",
+            700004340
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:33, 16:42)",
+        [
+            "Citi Bike",
+            700020538
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:14, 20:54)",
+        [
+            "",
+            700020536
+        ]
+    ],
+    [
+        "Catch Up on Reading or Hobbies",
+        "(21:15, 22:52)",
+        [
+            "",
+            700020515
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "",
+            700020540
+        ]
+    ]
+]

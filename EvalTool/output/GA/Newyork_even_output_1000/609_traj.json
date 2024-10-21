@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700009156
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(10:00, 12:03)",
+        [
+            "Starbucks",
+            700009156
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:43, 16:45)",
+        [
+            "",
+            700020401
+        ]
+    ],
+    [
+        "Leisure Time/Entertainment",
+        "(15:08, 18:05)",
+        [
+            "United States Post Office",
+            700009825
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:58, 23:57)",
+        [
+            "The Harold",
+            700011459
+        ]
+    ],
+    [
+        "Leisure Time/Entertainment",
+        "(21:41, 22:36)",
+        [
+            "",
+            700018159
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "",
+            700026836
+        ]
+    ]
+]

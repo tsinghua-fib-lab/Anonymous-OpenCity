@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000664
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:54)",
+        [
+            "Chica",
+            700005216
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:13, 12:43)",
+        [
+            "",
+            700011068
+        ]
+    ],
+    [
+        "Household Chores",
+        "(11:53, 13:04)",
+        [
+            "",
+            700009354
+        ]
+    ],
+    [
+        "Household Chores",
+        "(13:46, 15:57)",
+        [
+            "Bay Area Strength and Nutrition",
+            700002401
+        ]
+    ],
+    [
+        "Social Time or Community Engagement",
+        "(16:37, 18:04)",
+        [
+            "Bay Area Strength and Nutrition",
+            700002401
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(19:07, 21:00)",
+        [
+            "Bay Area Strength and Nutrition",
+            700002401
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(21:13, 22:36)",
+        [
+            "Bay Area Strength and Nutrition",
+            700002401
+        ]
+    ],
+    [
+        "Stay at Bay Area Strength and Nutrition",
+        "(23:24, 23:59)",
+        [
+            "Bay Area Strength and Nutrition",
+            700002401
+        ]
+    ]
+]

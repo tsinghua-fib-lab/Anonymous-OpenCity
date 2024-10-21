@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002993
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park.",
+        "(10:00, 10:53)",
+        [
+            "",
+            700022009
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park.",
+        "(11:15, 12:57)",
+        [
+            "",
+            700002993
+        ]
+    ],
+    [
+        "Spend the afternoon watching a movie or binge-watching a series",
+        "(13:23, 15:58)",
+        [
+            "Emporer Dumpling",
+            700006291
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:42, 16:35)",
+        [
+            "",
+            700001841
+        ]
+    ],
+    [
+        "Stay at Emporer Dumpling",
+        "(20:32, 22:03)",
+        [
+            "Emporer Dumpling",
+            700006291
+        ]
+    ],
+    [
+        "Stay at Emporer Dumpling.",
+        "(22:25, 23:29)",
+        [
+            "Emporer Dumpling",
+            700006291
+        ]
+    ],
+    [
+        "Stay at Emporer Dumpling;",
+        "(23:35, 23:59)",
+        [
+            "Andiamo Pizza",
+            700018836
+        ]
+    ]
+]

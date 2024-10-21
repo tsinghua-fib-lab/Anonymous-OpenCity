@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700040475
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:21)",
+        [
+            "",
+            700040475
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(12:10, 13:39)",
+        [
+            "ChargePoint",
+            700012454
+        ]
+    ],
+    [
+        "Enjoy a Leisure Activity",
+        "(13:49, 15:38)",
+        [
+            "ChargePoint",
+            700012454
+        ]
+    ],
+    [
+        "Watch a Movie/TV Series",
+        "(16:37, 18:10)",
+        [
+            "ChargePoint",
+            700012454
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 19:22)",
+        [
+            "",
+            700026463
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:45, 21:50)",
+        [
+            "ChargePoint",
+            700012454
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:37, 23:56)",
+        [
+            "Dizzy’s Club",
+            700015356
+        ]
+    ]
+]

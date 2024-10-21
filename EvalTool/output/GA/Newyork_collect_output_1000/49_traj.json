@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:43)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:22, 13:44)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:20, 17:35)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Relaxing Evening & TV Time",
+        "(16:34, 18:07)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Relaxing Evening & TV Time",
+        "(18:39, 19:59)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 23:52)",
+        [
+            "",
+            700022511
+        ]
+    ],
+    [
+        "Evening outing",
+        "(22:51, 23:59)",
+        [
+            "",
+            700002112
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002828
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:51)",
+        [
+            "Breads Bakery",
+            700009565
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:03, 12:06)",
+        [
+            "Breads Bakery",
+            700009565
+        ]
+    ],
+    [
+        "Socializing with Friends/Family",
+        "(12:40, 15:36)",
+        [
+            "Breads Bakery",
+            700009565
+        ]
+    ],
+    [
+        "Socializing with Friends/Family",
+        "(15:49, 17:49)",
+        [
+            "Breads Bakery",
+            700009565
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:30, 21:24)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(20:46, 22:12)",
+        [
+            "Starbucks",
+            700005942
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "Charlie Palmer Steak",
+            700020814
+        ]
+    ]
+]

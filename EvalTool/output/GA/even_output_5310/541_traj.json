@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dunkin'",
+            700004185
+        ]
+    ],
+    [
+        "You go to Tipsy Shanghai.",
+        "(10:00, 10:50)",
+        [
+            "Esquire Pharmacy",
+            700026187
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 17:00)",
+        [
+            "Citibank",
+            700004183
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 23:08)",
+        [
+            "Esquire Pharmacy",
+            700026187
+        ]
+    ],
+    [
+        "go to High School for Health Professions and Human Services",
+        "(23:52, 23:59)",
+        [
+            "High School for Health Professions and Human Services",
+            700000007
+        ]
+    ]
+]

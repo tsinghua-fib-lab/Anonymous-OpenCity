@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dr. Alexander Shifrin's Medical Group",
+            700028217
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:47)",
+        [
+            "Chase",
+            700016440
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(11:47, 13:03)",
+        [
+            "Chase",
+            700016440
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 15:54)",
+        [
+            "Sweetgreen",
+            700016439
+        ]
+    ],
+    [
+        "Grocery Shopping/Errands",
+        "(15:30, 17:06)",
+        [
+            "Chase",
+            700016440
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:47, 21:06)",
+        [
+            "Amali",
+            700022978
+        ]
+    ],
+    [
+        "Stay at Washington Square Dinner.",
+        "(23:17, 23:59)",
+        [
+            "USPS",
+            700014701
+        ]
+    ]
+]

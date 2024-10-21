@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rai Rai Ken",
+            700017542
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:12)",
+        [
+            "MUD",
+            700008802
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(13:46, 15:09)",
+        [
+            "Shabu-Tatsu",
+            700017541
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(15:24, 16:54)",
+        [
+            "Shabu-Tatsu",
+            700017541
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:53, 19:25)",
+        [
+            "Chase",
+            700005777
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:48, 21:08)",
+        [
+            "La Cabra",
+            700023337
+        ]
+    ],
+    [
+        "Stay at Rai Rai Ken",
+        "(22:42, 23:59)",
+        [
+            "Downtown Social",
+            700024688
+        ]
+    ]
+]

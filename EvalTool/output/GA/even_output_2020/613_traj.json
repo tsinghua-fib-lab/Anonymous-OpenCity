@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Matterhorn",
+            700000951
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:51)",
+        [
+            "",
+            700002430
+        ]
+    ],
+    [
+        "Afternoon Sports or Exercise",
+        "(12:26, 14:03)",
+        [
+            "Matterhorn",
+            700000951
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:42, 15:42)",
+        [
+            "Wasabi & Ginger",
+            700002399
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 22:22)",
+        [
+            "Street",
+            700006484
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:49, 23:59)",
+        [
+            "Bullitt",
+            700002093
+        ]
+    ]
+]

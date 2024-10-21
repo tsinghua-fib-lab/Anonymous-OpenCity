@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Parker",
+            700005779
+        ]
+    ],
+    [
+        "10:00 AM - Morning Walk",
+        "(09:00, 10:26)",
+        [
+            "MacDaddy",
+            700005781
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:49, 13:41)",
+        [
+            "Parker",
+            700005779
+        ]
+    ],
+    [
+        "Play Sports or Exercise",
+        "(16:37, 17:48)",
+        [
+            "Provender",
+            700005783
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:25, 19:58)",
+        [
+            "Parker",
+            700005779
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:21, 23:59)",
+        [
+            "MacDaddy",
+            700005781
+        ]
+    ]
+]

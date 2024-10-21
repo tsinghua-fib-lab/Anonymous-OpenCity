@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008260
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:05)",
+        [
+            "Russian Hill-Vallejo Street Crest Historic District",
+            700000320
+        ]
+    ],
+    [
+        "Stay at Russian Hill-Vallejo Street Crest Historic District.",
+        "(11:38, 14:09)",
+        [
+            "",
+            700008989
+        ]
+    ],
+    [
+        "Stay at Russian Hill-Vallejo Street Crest Historic District",
+        "(14:30, 15:57)",
+        [
+            "Trattoria Contadina",
+            700005084
+        ]
+    ],
+    [
+        "Stay at Russian Hill-Vallejo Street Crest Historic District.",
+        "(16:11, 17:45)",
+        [
+            "Trattoria Contadina",
+            700005084
+        ]
+    ],
+    [
+        "Stay at current location.",
+        "(18:26, 19:51)",
+        [
+            "Trattoria Contadina",
+            700005084
+        ]
+    ],
+    [
+        "Stay at Trattoria Contadina",
+        "(20:30, 21:56)",
+        [
+            "Trattoria Contadina",
+            700005084
+        ]
+    ],
+    [
+        "Stay at Russian Hill-Vallejo Street Crest Historic District",
+        "(22:33, 23:35)",
+        [
+            "Trattoria Contadina",
+            700005084
+        ]
+    ],
+    [
+        "Stay at Russian Hill-Vallejo Street Crest Historic District",
+        "(23:46, 23:59)",
+        [
+            "",
+            700000624
+        ]
+    ]
+]

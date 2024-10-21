@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:39)",
+        [
+            "",
+            700002005
+        ]
+    ],
+    [
+        "2:30 PM - Sports or Outdoor Activity",
+        "(14:44, 16:16)",
+        [
+            "United States Post Office",
+            700005035
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:57, 18:01)",
+        [
+            "Joanne Trattoria",
+            700013909
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:24, 23:59)",
+        [
+            "Joanne Trattoria",
+            700013909
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:47, 23:59)",
+        [
+            "",
+            700001081
+        ]
+    ]
+]

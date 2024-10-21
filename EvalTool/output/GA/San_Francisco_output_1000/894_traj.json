@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002103
+        ]
+    ],
+    [
+        "Go for a morning run or workout session",
+        "(09:00, 10:02)",
+        [
+            "",
+            700005838
+        ]
+    ],
+    [
+        "Go for a morning run or workout session",
+        "(10:54, 12:00)",
+        [
+            "",
+            700002103
+        ]
+    ],
+    [
+        "Read a book or catch up on financial news",
+        "(12:22, 13:18)",
+        [
+            "",
+            700007622
+        ]
+    ],
+    [
+        "Read a book or catch up on financial news;",
+        "(14:13, 16:10)",
+        [
+            "",
+            700005213
+        ]
+    ],
+    [
+        "Read a book or catch up on financial news.",
+        "(16:39, 18:41)",
+        [
+            "",
+            700005215
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:32, 23:59)",
+        [
+            "",
+            700007787
+        ]
+    ]
+]

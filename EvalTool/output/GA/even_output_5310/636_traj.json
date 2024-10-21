@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700011173
+        ]
+    ],
+    [
+        "Walk or light workout in a nearby park",
+        "(09:00, 10:56)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:42, 17:05)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 17:01)",
+        [
+            "",
+            700022505
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:05, 21:38)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ]
+]

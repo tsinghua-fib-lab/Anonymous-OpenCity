@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Santander",
+            700021666
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:56)",
+        [
+            "New York Sports Club",
+            700015287
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:53, 13:07)",
+        [
+            "New York Sports Club",
+            700015287
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:29, 15:02)",
+        [
+            "Miraj Healthy Grill",
+            700015193
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:55, 18:53)",
+        [
+            "New York Sports Club",
+            700015287
+        ]
+    ],
+    [
+        "Stay at Captain's Cafe.",
+        "(19:49, 20:58)",
+        [
+            "",
+            700024802
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:05, 23:12)",
+        [
+            "Prestige Car Rental",
+            700008333
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(23:32, 23:59)",
+        [
+            "",
+            700035331
+        ]
+    ]
+]

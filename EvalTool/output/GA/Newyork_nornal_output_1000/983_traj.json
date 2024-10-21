@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700034670
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:25)",
+        [
+            "",
+            700034673
+        ]
+    ],
+    [
+        "Go for a morning jog or yoga session to start the day with some physical activity.",
+        "(12:09, 13:34)",
+        [
+            "",
+            700034670
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 18:45)",
+        [
+            "",
+            700034644
+        ]
+    ],
+    [
+        "Stay at Squires Diner",
+        "(17:59, 18:53)",
+        [
+            "",
+            700034643
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:33, 23:59)",
+        [
+            "",
+            700034646
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "",
+            700034540
+        ]
+    ]
+]

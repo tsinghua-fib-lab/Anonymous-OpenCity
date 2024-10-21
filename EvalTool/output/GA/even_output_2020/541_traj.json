@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "McTeague's Saloon",
+            700001106
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:37)",
+        [
+            "Aicha",
+            700001119
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:32, 17:34)",
+        [
+            "Bay Area Smash Room",
+            700012799
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 19:32)",
+        [
+            "",
+            700008885
+        ]
+    ],
+    [
+        "Relax and Watch a Movie or Series",
+        "(20:10, 21:31)",
+        [
+            "Mayes Oyster House",
+            700001105
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:58, 23:59)",
+        [
+            "Crepes Ooh La La",
+            700001111
+        ]
+    ]
+]

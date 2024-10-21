@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Essen Chelsea",
+            700016702
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park.",
+        "(10:00, 10:50)",
+        [
+            "",
+            700036344
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park.",
+        "(11:15, 12:42)",
+        [
+            "",
+            700036330
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park",
+        "(13:23, 15:18)",
+        [
+            "Essen Chelsea",
+            700016702
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:42, 19:42)",
+        [
+            "Andiamo Pizza",
+            700009277
+        ]
+    ],
+    [
+        "Stay at Essen Chelsea",
+        "(20:32, 21:53)",
+        [
+            "Essen Chelsea",
+            700016702
+        ]
+    ],
+    [
+        "Stay at Essen Chelsea.",
+        "(22:25, 23:30)",
+        [
+            "Essen Chelsea",
+            700016702
+        ]
+    ],
+    [
+        "Stay at Essen Chelsea;",
+        "(23:35, 23:59)",
+        [
+            "Memo Shish Kebab",
+            700016703
+        ]
+    ]
+]

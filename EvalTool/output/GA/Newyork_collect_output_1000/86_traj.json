@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:27)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 15:45)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:43, 20:09)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Wind Down with TV/Movies",
+        "(22:20, 23:54)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ]
+]

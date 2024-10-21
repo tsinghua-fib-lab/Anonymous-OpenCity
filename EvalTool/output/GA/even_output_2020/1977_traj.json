@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Casements",
+            700014035
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:08)",
+        [
+            "El Corazón Café",
+            700014033
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:05, 14:08)",
+        [
+            "El Corazón Café",
+            700014033
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:46, 15:40)",
+        [
+            "Bay Wheels",
+            700014028
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:12, 22:04)",
+        [
+            "Taqueria Cancun",
+            700002389
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:08, 23:59)",
+        [
+            "",
+            700009534
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Prairie",
+            700002475
+        ]
+    ]
+]

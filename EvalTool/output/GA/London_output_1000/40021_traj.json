@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:26)",
+        [
+            "Mail Boxes Etc.",
+            700041565
+        ]
+    ],
+    [
+        "Have lunch and catch up with friends or family.",
+        "(12:25, 14:03)",
+        [
+            "Mail Boxes Etc.",
+            700041565
+        ]
+    ],
+    [
+        "Have lunch and catch up with friends or family.",
+        "(14:18, 15:43)",
+        [
+            "Mail Boxes Etc.",
+            700041565
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(16:15, 17:55)",
+        [
+            "Mail Boxes Etc.",
+            700041565
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 22:00)",
+        [
+            "Notting Hill Kebab",
+            700029286
+        ]
+    ],
+    [
+        "Stay at Mail Boxes Etc.",
+        "(22:41, 23:59)",
+        [
+            "Mail Boxes Etc.",
+            700041565
+        ]
+    ]
+]

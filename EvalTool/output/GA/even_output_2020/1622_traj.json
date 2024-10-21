@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Comprehensive Dental Care",
+            700004019
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:13)",
+        [
+            "Happy Chinese Restaurant",
+            700004232
+        ]
+    ],
+    [
+        "Current place: Happy Chinese Restaurant. Stay for 1 hour 3 minutes.",
+        "(14:57, 16:03)",
+        [
+            "",
+            700002666
+        ]
+    ],
+    [
+        "Current place: Happy Chinese Restaurant. Stay for 1 hour 3 minutes.",
+        "(16:47, 18:09)",
+        [
+            "Blue Sky Restaurant",
+            700011104
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 20:49)",
+        [
+            "Taishan Specialty",
+            700002028
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(22:33, 23:59)",
+        [
+            "Hi-Way",
+            700005006
+        ]
+    ]
+]

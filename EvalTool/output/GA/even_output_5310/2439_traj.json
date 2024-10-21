@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gansevoort Market",
+            700008484
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:41)",
+        [
+            "RH Rooftop Restaurant",
+            700007298
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(14:08, 16:09)",
+        [
+            "Jack's Coffee",
+            700005699
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(16:22, 18:01)",
+        [
+            "Gansevoort Market",
+            700008484
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:02, 20:53)",
+        [
+            "",
+            700019524
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:41, 23:40)",
+        [
+            "RH Rooftop Restaurant",
+            700007298
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(23:30, 23:59)",
+        [
+            "Serafina",
+            700005700
+        ]
+    ]
+]

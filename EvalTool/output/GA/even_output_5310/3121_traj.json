@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Dive",
+            700005435
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:30)",
+        [
+            "Bacaro",
+            700007400
+        ]
+    ],
+    [
+        "Personal Leisure Time",
+        "(15:02, 17:22)",
+        [
+            "Bacaro",
+            700007400
+        ]
+    ],
+    [
+        "Personal Leisure Time",
+        "(18:04, 20:02)",
+        [
+            "Bacaro",
+            700007400
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:40, 20:52)",
+        [
+            "Bacaro",
+            700007400
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:17, 22:58)",
+        [
+            "Bacaro",
+            700007400
+        ]
+    ],
+    [
+        "Stay at Bacaro.",
+        "(23:30, 23:59)",
+        [
+            "Bacaro",
+            700007400
+        ]
+    ]
+]

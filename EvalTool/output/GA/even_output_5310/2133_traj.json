@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700024987
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:51)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 14:49)",
+        [
+            "",
+            700002005
+        ]
+    ],
+    [
+        "Home Relaxation",
+        "(14:21, 16:25)",
+        [
+            "",
+            700024987
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:56, 21:44)",
+        [
+            "Thomas Drugs",
+            700006589
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:28, 20:55)",
+        [
+            "",
+            700024987
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:05, 23:59)",
+        [
+            "Le Boite en Bois",
+            700020925
+        ]
+    ],
+    [
+        "Go to Starbucks for a drink.",
+        "(22:35, 23:59)",
+        [
+            "Starbucks",
+            700020924
+        ]
+    ],
+    [
+        "Stay at Joe Coffee Company",
+        "(23:46, 23:59)",
+        [
+            "",
+            700001509
+        ]
+    ]
+]

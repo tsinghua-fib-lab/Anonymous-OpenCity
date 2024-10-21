@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003732
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast.",
+        "(10:00, 11:03)",
+        [
+            "",
+            700002850
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:36, 14:47)",
+        [
+            "",
+            700002852
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 14:42)",
+        [
+            "",
+            700002850
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 18:23)",
+        [
+            "",
+            700002852
+        ]
+    ],
+    [
+        "Have dinner with friends at a nice restaurant.",
+        "(20:10, 21:47)",
+        [
+            "U.S. Naval Magnetic Silencing Range",
+            700001531
+        ]
+    ],
+    [
+        "Stay at U.S. Naval Magnetic Silencing Range",
+        "(22:20, 23:51)",
+        [
+            "U.S. Naval Magnetic Silencing Range",
+            700001531
+        ]
+    ]
+]

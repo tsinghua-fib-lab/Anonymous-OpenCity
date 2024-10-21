@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700019790
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:12)",
+        [
+            "Panera Bread",
+            700006169
+        ]
+    ],
+    [
+        "Leisure Reading/TV",
+        "(15:41, 17:15)",
+        [
+            "Panera Bread",
+            700006169
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:59, 21:55)",
+        [
+            "Ninth Street Espresso",
+            700018451
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "Panera Bread",
+            700006169
+        ]
+    ]
+]

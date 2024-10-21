@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Our New Place",
+            700024817
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:51)",
+        [
+            "Citi Bike",
+            700020600
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:35, 13:53)",
+        [
+            "Citi Bike",
+            700020600
+        ]
+    ],
+    [
+        "Personal Hobbies or DIY Projects",
+        "(14:57, 16:09)",
+        [
+            "Citi Bike",
+            700020600
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:15, 18:05)",
+        [
+            "Calexico",
+            700011161
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 20:16)",
+        [
+            "Heidi’s House",
+            700011844
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Calexico",
+            700011161
+        ]
+    ]
+]

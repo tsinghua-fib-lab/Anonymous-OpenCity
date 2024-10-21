@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008352
+        ]
+    ],
+    [
+        "Outdoor Walk/Exercise",
+        "(10:00, 10:58)",
+        [
+            "",
+            700008354
+        ]
+    ],
+    [
+        "Continue with Outdoor Walk/Exercise",
+        "(11:25, 12:51)",
+        [
+            "Chutney",
+            700001685
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:59, 14:05)",
+        [
+            "Chutney",
+            700001685
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:22, 15:53)",
+        [
+            "Chutney",
+            700001685
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:40, 21:37)",
+        [
+            "Marcela's Taqueria",
+            700001024
+        ]
+    ],
+    [
+        "Socializing/Connecting with Friends",
+        "(19:18, 21:06)",
+        [
+            "Chutney",
+            700001685
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(21:32, 22:56)",
+        [
+            "Chutney",
+            700001685
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(23:20, 23:59)",
+        [
+            "Chutney",
+            700001685
+        ]
+    ]
+]

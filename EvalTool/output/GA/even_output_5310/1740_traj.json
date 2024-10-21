@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700025676
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:28)",
+        [
+            "TD Bank",
+            700024872
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:14, 12:42)",
+        [
+            "Brooklyn Pizza Masters",
+            700030625
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:40, 17:51)",
+        [
+            "",
+            700014479
+        ]
+    ],
+    [
+        "Late Afternoon Relaxation",
+        "(21:27, 23:59)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "Watch a Movie or Play Video Games",
+        "(23:20, 23:59)",
+        [
+            "",
+            700025676
+        ]
+    ]
+]

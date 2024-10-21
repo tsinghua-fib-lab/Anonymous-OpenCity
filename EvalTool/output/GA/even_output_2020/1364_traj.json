@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "El Castillito Taqueria",
+            700001265
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:00, 11:30)",
+        [
+            "El Castillito Taqueria",
+            700001265
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(11:50, 13:30)",
+        [
+            "El Castillito Taqueria",
+            700001265
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:22, 16:17)",
+        [
+            "Infinity Training Center",
+            700001631
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:48, 23:33)",
+        [
+            "Beit Rima",
+            700001264
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "Shanghai Dumpling King",
+            700003644
+        ]
+    ]
+]

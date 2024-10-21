@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700031194
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(09:00, 09:56)",
+        [
+            "",
+            700031162
+        ]
+    ],
+    [
+        "Head to a nearby cafe for some light refreshments.",
+        "(10:51, 12:07)",
+        [
+            "",
+            700018035
+        ]
+    ],
+    [
+        "Head to nearby cafe for refreshments",
+        "(12:56, 14:11)",
+        [
+            "EA Dumpling",
+            700034228
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:19, 20:13)",
+        [
+            "DiNapoli",
+            700016444
+        ]
+    ],
+    [
+        "Stay at EA Dumpling to relax.",
+        "(18:46, 20:03)",
+        [
+            "",
+            700021867
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:11, 23:59)",
+        [
+            "ChargePoint",
+            700012434
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:33)",
+        [
+            "United States Post Office",
+            700005035
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:58, 15:59)",
+        [
+            "Starbucks",
+            700020924
+        ]
+    ],
+    [
+        "Continue Leisure Reading or Hobbies",
+        "(14:03, 15:58)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(16:02, 17:58)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:51, 19:08)",
+        [
+            "Thomas Drugs",
+            700006589
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(23:44, 23:59)",
+        [
+            "The Migrant Kitchen",
+            700016762
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013859
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:07)",
+        [
+            "",
+            700001134
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:13, 20:02)",
+        [
+            "Sidewalk Clock at 522 5th Avenue",
+            700009489
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 22:59)",
+        [
+            "",
+            700014939
+        ]
+    ],
+    [
+        "Next activity",
+        "(23:20, 23:59)",
+        [
+            "Sidewalk Clock at 522 5th Avenue",
+            700009489
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Gramercy Cafe",
+            700006179
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:36)",
+        [
+            "Cupsoul",
+            700007888
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:35, 12:14)",
+        [
+            "Cupsoul",
+            700007888
+        ]
+    ],
+    [
+        "go to Cupsoul",
+        "(12:49, 14:16)",
+        [
+            "Cupsoul",
+            700007888
+        ]
+    ],
+    [
+        "Watch Favorite TV Show or Movie",
+        "(14:27, 16:05)",
+        [
+            "Cupsoul",
+            700007888
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 21:34)",
+        [
+            "Gramercy Cafe",
+            700006179
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:37, 23:59)",
+        [
+            "For U",
+            700007887
+        ]
+    ]
+]

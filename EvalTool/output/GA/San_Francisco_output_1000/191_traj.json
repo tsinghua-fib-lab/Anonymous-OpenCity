@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010479
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:38)",
+        [
+            "",
+            700010479
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:10, 12:40)",
+        [
+            "Subs, Inc.",
+            700001748
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 18:13)",
+        [
+            "Peasant Pies",
+            700001762
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(18:22, 20:02)",
+        [
+            "Subs, Inc.",
+            700001748
+        ]
+    ],
+    [
+        "Catch up with friends or family.",
+        "(20:53, 22:33)",
+        [
+            "Subs, Inc.",
+            700001748
+        ]
+    ],
+    [
+        "Leisure activity",
+        "(23:04, 23:59)",
+        [
+            "Noe Valley Spa",
+            700006195
+        ]
+    ]
+]

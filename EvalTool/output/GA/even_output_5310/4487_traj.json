@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Lafayette St & Jersey St",
+            700008113
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:02)",
+        [
+            "Torrisi",
+            700040465
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast",
+        "(11:51, 13:01)",
+        [
+            "Torrisi",
+            700040465
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast",
+        "(12:59, 14:28)",
+        [
+            "Torrisi",
+            700040465
+        ]
+    ],
+    [
+        "Prepare to have dinner",
+        "(14:10, 15:47)",
+        [
+            "The Market NYC",
+            700010792
+        ]
+    ],
+    [
+        "Hobby",
+        "(16:35, 18:07)",
+        [
+            "Mulberry Branch",
+            700005958
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:32, 20:44)",
+        [
+            "",
+            700024187
+        ]
+    ],
+    [
+        "Stay",
+        "(20:05, 21:26)",
+        [
+            "",
+            700024185
+        ]
+    ],
+    [
+        "Stay",
+        "(22:27, 23:54)",
+        [
+            "Citi Bike - Lafayette St & Jersey St",
+            700008113
+        ]
+    ]
+]

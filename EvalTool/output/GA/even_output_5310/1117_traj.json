@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - W 22 St & 10 Ave",
+            700008208
+        ]
+    ],
+    [
+        "Next activity in daily plan.",
+        "(09:00, 09:54)",
+        [
+            "Chase",
+            700004316
+        ]
+    ],
+    [
+        "Next activity in daily plan",
+        "(10:24, 11:53)",
+        [
+            "Chase",
+            700004316
+        ]
+    ],
+    [
+        "Next activity in daily plan.",
+        "(12:10, 13:41)",
+        [
+            "Chase",
+            700004316
+        ]
+    ],
+    [
+        "Stay at Bar Felice",
+        "(14:05, 15:51)",
+        [
+            "",
+            700001322
+        ]
+    ],
+    [
+        "Stay at Chase.",
+        "(16:30, 17:59)",
+        [
+            "Chase",
+            700004316
+        ]
+    ],
+    [
+        "Stay at Chase.",
+        "(18:42, 20:13)",
+        [
+            "Chase",
+            700004316
+        ]
+    ],
+    [
+        "Stay at Chase.",
+        "(20:14, 21:22)",
+        [
+            "Chase",
+            700004316
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "",
+            700003765
+        ]
+    ]
+]

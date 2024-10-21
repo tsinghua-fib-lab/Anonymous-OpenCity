@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ripley-Grier Flexible Spaces",
+            700030958
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:15)",
+        [
+            "",
+            700001935
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:38, 16:52)",
+        [
+            "District Social",
+            700013399
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:16, 22:06)",
+        [
+            "Houndstooth Pub",
+            700010315
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "White Castle",
+            700038112
+        ]
+    ]
+]

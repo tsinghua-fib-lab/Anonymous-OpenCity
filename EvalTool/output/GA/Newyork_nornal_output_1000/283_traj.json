@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Aujla's",
+            700005439
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:32)",
+        [
+            "Bar Belly",
+            700007399
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:31, 17:50)",
+        [
+            "Le Dive",
+            700005435
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 23:16)",
+        [
+            "Dimes",
+            700010943
+        ]
+    ],
+    [
+        "Stay at Aujla's and enjoy a leisurely morning.",
+        "(23:59, 23:59)",
+        [
+            "Carlota",
+            700038013
+        ]
+    ]
+]

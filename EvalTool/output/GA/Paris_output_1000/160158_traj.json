@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Rosa Bonheur",
+            700002186
+        ]
+    ],
+    [
+        "Start Leisure Activities",
+        "(09:00, 10:33)",
+        [
+            "Rosa Bonheur",
+            700002186
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(11:01, 13:04)",
+        [
+            "Rosa Bonheur",
+            700002186
+        ]
+    ],
+    [
+        "Start Exercise",
+        "(13:59, 15:27)",
+        [
+            "",
+            700027103
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:48, 17:01)",
+        [
+            "",
+            700058527
+        ]
+    ],
+    [
+        "Stay at Rosa Bonheur",
+        "(21:35, 22:52)",
+        [
+            "",
+            700027100
+        ]
+    ],
+    [
+        "Stay at Rosa Bonheur",
+        "(23:03, 23:59)",
+        [
+            "Rosa Bonheur",
+            700002186
+        ]
+    ]
+]

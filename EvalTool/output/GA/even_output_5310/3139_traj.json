@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:22)",
+        [
+            "Public School MO94",
+            700000405
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:17, 13:26)",
+        [
+            "",
+            700022436
+        ]
+    ],
+    [
+        "Social Time/Activities with Friends or Family",
+        "(17:02, 18:40)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:09, 21:06)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:56, 23:59)",
+        [
+            "",
+            700001824
+        ]
+    ]
+]

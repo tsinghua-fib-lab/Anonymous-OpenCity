@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bareburger",
+            700033961
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:34)",
+        [
+            "Dan & John's Wings",
+            700020946
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 17:50)",
+        [
+            "H&H Bagels",
+            700005181
+        ]
+    ],
+    [
+        "Catching Up on a Book or Movie",
+        "(18:38, 20:13)",
+        [
+            "H&H Bagels",
+            700005181
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:13, 21:48)",
+        [
+            "Bareburger",
+            700033961
+        ]
+    ]
+]

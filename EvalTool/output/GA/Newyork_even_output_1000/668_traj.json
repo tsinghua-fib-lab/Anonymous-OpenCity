@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Potluck Club",
+            700026919
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:11)",
+        [
+            "Gem",
+            700021157
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:29, 17:10)",
+        [
+            "Citi Bike",
+            700029589
+        ]
+    ],
+    [
+        "Social Time",
+        "(19:30, 20:53)",
+        [
+            "Citi Bike",
+            700029589
+        ]
+    ],
+    [
+        "Go to Little Flower Playground",
+        "(21:43, 23:39)",
+        [
+            "Chinese American Planning Council",
+            700005129
+        ]
+    ],
+    [
+        "Visit Little Flower Playground",
+        "(23:15, 23:59)",
+        [
+            "Citi Bike",
+            700029589
+        ]
+    ]
+]

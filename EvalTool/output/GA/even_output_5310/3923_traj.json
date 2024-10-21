@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sagra Pizza Bar",
+            700023317
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:59)",
+        [
+            "The Market Table",
+            700007502
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 16:23)",
+        [
+            "Berimbau do Brasil",
+            700008989
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(15:32, 17:07)",
+        [
+            "Berimbau do Brasil",
+            700008989
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 23:59)",
+        [
+            "P.S. Burgers",
+            700009485
+        ]
+    ]
+]

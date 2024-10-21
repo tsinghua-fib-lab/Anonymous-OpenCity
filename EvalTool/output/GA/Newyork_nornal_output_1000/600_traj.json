@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "One and One",
+            700005170
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:45)",
+        [
+            "East 1st Street & 1st Avenue",
+            700025321
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 18:18)",
+        [
+            "",
+            700025323
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:53, 20:44)",
+        [
+            "Lucien",
+            700039852
+        ]
+    ],
+    [
+        "Wind Down – TV or Family Time",
+        "(20:53, 22:04)",
+        [
+            "One and One",
+            700005170
+        ]
+    ],
+    [
+        "Wind Down – TV or Family Time",
+        "(21:53, 23:01)",
+        [
+            "One and One",
+            700005170
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "V-Nam Cafe",
+            700005169
+        ]
+    ]
+]

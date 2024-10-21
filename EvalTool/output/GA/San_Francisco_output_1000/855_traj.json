@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008708
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:16)",
+        [
+            "Stookey's Club Moderne",
+            700008671
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:17, 16:56)",
+        [
+            "The Summer Place",
+            700002139
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:36, 17:26)",
+        [
+            "Bluestone Lane",
+            700008804
+        ]
+    ],
+    [
+        "Stay at The Summer Place",
+        "(18:20, 19:56)",
+        [
+            "",
+            700000900
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:12, 23:59)",
+        [
+            "Union Square Dental Group",
+            700010796
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:36, 23:59)",
+        [
+            "",
+            700010689
+        ]
+    ]
+]

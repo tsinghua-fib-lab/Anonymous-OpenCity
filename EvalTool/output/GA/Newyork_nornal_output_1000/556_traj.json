@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Saint James Place & Pearl Street",
+            700008183
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:46)",
+        [
+            "",
+            700037349
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:04, 17:23)",
+        [
+            "",
+            700037339
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:30, 18:31)",
+        [
+            "",
+            700037326
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:12, 23:59)",
+        [
+            "Citi Bike - Saint James Place & Pearl Street",
+            700008183
+        ]
+    ]
+]

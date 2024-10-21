@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Rite Aid",
+            700004407
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:30)",
+        [
+            "Rite Aid",
+            700004407
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(11:09, 13:13)",
+        [
+            "Rite Aid",
+            700004407
+        ]
+    ],
+    [
+        "Pursue a Hobby or Project",
+        "(12:52, 15:00)",
+        [
+            "Rite Aid",
+            700004407
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:15, 18:03)",
+        [
+            "",
+            700003092
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:37, 23:05)",
+        [
+            "Rite Aid",
+            700004407
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "",
+            700013926
+        ]
+    ]
+]

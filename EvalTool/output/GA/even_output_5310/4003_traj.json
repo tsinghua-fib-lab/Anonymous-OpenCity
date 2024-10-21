@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700021673
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:08)",
+        [
+            "HealthSource Pharmacy",
+            700015290
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:53, 13:05)",
+        [
+            "HealthSource Pharmacy",
+            700015290
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(13:29, 14:57)",
+        [
+            "Santander",
+            700021666
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:55, 19:51)",
+        [
+            "",
+            700008567
+        ]
+    ],
+    [
+        "Stay at Santander.",
+        "(19:49, 21:15)",
+        [
+            "",
+            700008567
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:05, 23:14)",
+        [
+            "",
+            700001834
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(23:32, 23:59)",
+        [
+            "",
+            700001291
+        ]
+    ]
+]

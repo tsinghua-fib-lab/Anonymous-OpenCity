@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wharton Cottages",
+            700012020
+        ]
+    ],
+    [
+        "Next activity based on the current plan.",
+        "(10:00, 12:09)",
+        [
+            "Margery Street",
+            700009634
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:37, 16:50)",
+        [
+            "",
+            700066094
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 19:52)",
+        [
+            "",
+            700066094
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series on streaming platforms for some entertainment.",
+        "(18:57, 20:07)",
+        [
+            "",
+            700056178
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:32, 23:59)",
+        [
+            "",
+            700076209
+        ]
+    ]
+]

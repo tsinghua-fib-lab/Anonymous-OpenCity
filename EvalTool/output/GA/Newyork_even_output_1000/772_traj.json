@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002314
+        ]
+    ],
+    [
+        "Stay at Bait and Hook",
+        "(10:00, 12:01)",
+        [
+            "Mon Cheri",
+            700006192
+        ]
+    ],
+    [
+        "Stay at Dr. Mohammad Rimawi",
+        "(11:40, 13:13)",
+        [
+            "",
+            700010340
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:22, 18:06)",
+        [
+            "NYU Langone Health Orthopedics",
+            700006186
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:14, 20:39)",
+        [
+            "",
+            700010340
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 20:51)",
+        [
+            "Citi Bike - East 20th Street & 2nd Avenue",
+            700008033
+        ]
+    ]
+]

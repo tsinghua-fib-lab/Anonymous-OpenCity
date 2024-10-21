@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700016556
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:29)",
+        [
+            "",
+            700039815
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:50, 14:53)",
+        [
+            "École maternelle Aristide Briand",
+            700043197
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(16:16, 18:20)",
+        [
+            "École maternelle Aristide Briand",
+            700043197
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:30, 20:22)",
+        [
+            "",
+            700039815
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(23:18, 23:59)",
+        [
+            "École maternelle Aristide Briand",
+            700043198
+        ]
+    ]
+]

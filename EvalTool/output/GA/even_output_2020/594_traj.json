@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Heirloom Cafe",
+            700002062
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:07)",
+        [
+            "John O'Connell High School",
+            700000046
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:47, 15:15)",
+        [
+            "El Faro",
+            700002038
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(16:43, 17:51)",
+        [
+            "Heirloom Cafe",
+            700002062
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(18:04, 19:57)",
+        [
+            "Heirloom Cafe",
+            700002062
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(20:20, 22:00)",
+        [
+            "Hua Zang Si",
+            700001809
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(22:28, 23:59)",
+        [
+            "Green Heart Foods",
+            700003203
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "Limón Rotisserie",
+            700002650
+        ]
+    ]
+]

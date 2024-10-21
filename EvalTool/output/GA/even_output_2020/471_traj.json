@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gallardo's",
+            700002414
+        ]
+    ],
+    [
+        "Breakfast at home.",
+        "(10:00, 10:51)",
+        [
+            "Robin's Cafe",
+            700002583
+        ]
+    ],
+    [
+        "Go for a mid-morning walk or light jog in the park",
+        "(11:55, 13:10)",
+        [
+            "Gallardo's",
+            700002414
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 14:41)",
+        [
+            "Steppin’ Out Dance Studio",
+            700010818
+        ]
+    ],
+    [
+        "Meet friends for coffee or a social outing",
+        "(17:27, 18:54)",
+        [
+            "Steppin’ Out Dance Studio",
+            700010818
+        ]
+    ],
+    [
+        "Meet friends for coffee or a social outing",
+        "(19:19, 20:55)",
+        [
+            "",
+            700005243
+        ]
+    ],
+    [
+        "Stay at home",
+        "(21:23, 22:45)",
+        [
+            "Homey",
+            700014023
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Ria",
+            700004295
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(09:00, 10:33)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(10:43, 13:50)",
+        [
+            "",
+            700022517
+        ]
+    ],
+    [
+        "Exercise",
+        "(12:45, 13:52)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Afternoon Leisure Activities",
+        "(14:51, 16:23)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Exercise",
+        "(16:45, 18:05)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:41, 21:19)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Night at Matto Espresso",
+        "(23:35, 23:59)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ]
+]

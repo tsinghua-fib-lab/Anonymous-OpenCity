@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Fiftyfourth Street Public Bath and Gymnasium",
+            700000555
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:59)",
+        [
+            "United Nations School",
+            700000040
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(12:23, 13:48)",
+        [
+            "Fiftyfourth Street Public Bath and Gymnasium",
+            700000555
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:49, 17:44)",
+        [
+            "Fiftyfourth Street Public Bath and Gymnasium",
+            700000555
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(18:14, 19:23)",
+        [
+            "Fiftyfourth Street Public Bath and Gymnasium",
+            700000555
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:04, 21:40)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:03, 23:59)",
+        [
+            "",
+            700035316
+        ]
+    ],
+    [
+        "Sleep at Madison Restaurant",
+        "(23:31, 23:59)",
+        [
+            "Citi Bike - East 55th Street & 2nd Avenue",
+            700008057
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gelatoville Gelataria",
+            700004753
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:40)",
+        [
+            "",
+            700038110
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:43, 14:14)",
+        [
+            "Ferns",
+            700008782
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:45, 18:05)",
+        [
+            "",
+            700017547
+        ]
+    ],
+    [
+        "Sports/Leisure Activity",
+        "(16:44, 18:06)",
+        [
+            "Ferns",
+            700008782
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:07, 21:42)",
+        [
+            "Theater for the New City",
+            700007749
+        ]
+    ],
+    [
+        "Sports/Leisure Activity",
+        "(23:19, 23:59)",
+        [
+            "Theater for the New City",
+            700007749
+        ]
+    ]
+]

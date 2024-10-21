@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - West Thames St",
+            700008248
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:02)",
+        [
+            "",
+            700035756
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:29, 13:49)",
+        [
+            "Citi Bike - West Thames St",
+            700008248
+        ]
+    ],
+    [
+        "Outdoor Activities",
+        "(14:21, 16:04)",
+        [
+            "Citi Bike - West Thames St",
+            700008248
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:19, 18:28)",
+        [
+            "",
+            700035752
+        ]
+    ],
+    [
+        "Visit Vanilla Gorilla Cafe for a snack",
+        "(19:49, 21:29)",
+        [
+            "Citi Bike - West Thames St",
+            700008248
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:53, 23:10)",
+        [
+            "",
+            700035714
+        ]
+    ]
+]

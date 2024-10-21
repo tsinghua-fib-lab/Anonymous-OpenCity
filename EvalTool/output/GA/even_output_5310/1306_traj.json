@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "David's Pharmacy",
+            700006190
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:32)",
+        [
+            "Citi Bike - East 19th Street & 3rd Avenue",
+            700008029
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:35, 11:55)",
+        [
+            "Citi Bike - East 19th Street & 3rd Avenue",
+            700008029
+        ]
+    ],
+    [
+        "go to Outdoor Activity",
+        "(12:49, 14:10)",
+        [
+            "Citi Bike - East 19th Street & 3rd Avenue",
+            700008029
+        ]
+    ],
+    [
+        "Watch Favorite TV Show or Movie",
+        "(14:27, 16:09)",
+        [
+            "Citi Bike - East 19th Street & 3rd Avenue",
+            700008029
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 22:08)",
+        [
+            "David's Pharmacy",
+            700006190
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:37, 23:59)",
+        [
+            "RFX Studio",
+            700029596
+        ]
+    ]
+]

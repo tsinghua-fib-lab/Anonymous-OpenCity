@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Capital One",
+            700003472
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:45)",
+        [
+            "Blue Seafood Bar",
+            700017505
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:40, 13:59)",
+        [
+            "Blue Seafood Bar",
+            700017505
+        ]
+    ],
+    [
+        "Lunch at Blue Seafood Bar",
+        "(14:24, 16:00)",
+        [
+            "Blue Seafood Bar",
+            700017505
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:34, 17:55)",
+        [
+            "Blue Seafood Bar",
+            700017505
+        ]
+    ],
+    [
+        "Stay at Blue Seafood Bar",
+        "(18:12, 19:51)",
+        [
+            "Blue Seafood Bar",
+            700017505
+        ]
+    ],
+    [
+        "Stay at Due",
+        "(20:04, 21:34)",
+        [
+            "BluePearl",
+            700012378
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:53, 23:59)",
+        [
+            "Cafe 424",
+            700031620
+        ]
+    ]
+]

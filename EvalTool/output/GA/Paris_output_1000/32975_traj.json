@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700067237
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:57)",
+        [
+            "Les Tours de Notre-Dame",
+            700002410
+        ]
+    ],
+    [
+        "Sport or Outdoor Activity",
+        "(14:40, 16:47)",
+        [
+            "",
+            700067237
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:03, 19:24)",
+        [
+            "",
+            700036582
+        ]
+    ],
+    [
+        "Evening Socializing or Game Night",
+        "(20:44, 23:17)",
+        [
+            "Les Tours de Notre-Dame",
+            700002410
+        ]
+    ],
+    [
+        "Afternoon Downtime",
+        "(23:39, 23:59)",
+        [
+            "Arcole - Notre-Dame",
+            700044050
+        ]
+    ]
+]

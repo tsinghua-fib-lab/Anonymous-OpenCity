@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Romanian Cultural Center",
+            700000478
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:22)",
+        [
+            "NYC Dental Center",
+            700015027
+        ]
+    ],
+    [
+        "Go for a walk in the park or around the neighborhood",
+        "(11:09, 12:06)",
+        [
+            "Romanian Cultural Center",
+            700000478
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(12:41, 13:44)",
+        [
+            "Romanian Cultural Center",
+            700000478
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:03, 15:50)",
+        [
+            "Tipsy Shanghai",
+            700015711
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 23:51)",
+        [
+            "",
+            700021868
+        ]
+    ]
+]

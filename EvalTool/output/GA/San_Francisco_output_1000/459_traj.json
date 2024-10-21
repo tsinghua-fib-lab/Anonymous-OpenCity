@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Little Kitchen",
+            700000642
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:10)",
+        [
+            "Aux Delices Vietnamese Restaurant",
+            700002087
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:19, 17:48)",
+        [
+            "Woods Polk Station",
+            700003160
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:34, 19:41)",
+        [
+            "Woods Polk Station",
+            700003160
+        ]
+    ],
+    [
+        "Stay at Woods Polk Station.",
+        "(20:40, 22:15)",
+        [
+            "Bank of America",
+            700000644
+        ]
+    ],
+    [
+        "Go to Aux Delices Vietnamese Restaurant.",
+        "(23:28, 23:59)",
+        [
+            "Aux Delices Vietnamese Restaurant",
+            700002087
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Alhamra",
+            700010700
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:03)",
+        [
+            "Mission Workshop",
+            700002229
+        ]
+    ],
+    [
+        "Continue Outdoor Activity",
+        "(12:14, 14:09)",
+        [
+            "Mission Workshop",
+            700002229
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(14:48, 16:03)",
+        [
+            "Mission Workshop",
+            700002229
+        ]
+    ],
+    [
+        "Continue Leisure Reading or Hobbies",
+        "(16:10, 17:50)",
+        [
+            "Mission Workshop",
+            700002229
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:48, 19:50)",
+        [
+            "West of Pecos",
+            700006310
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:15, 23:06)",
+        [
+            "Puerto Allegre",
+            700000836
+        ]
+    ],
+    [
+        "Next arrangement considering your plan",
+        "(23:33, 23:59)",
+        [
+            "Alhamra",
+            700010700
+        ]
+    ]
+]

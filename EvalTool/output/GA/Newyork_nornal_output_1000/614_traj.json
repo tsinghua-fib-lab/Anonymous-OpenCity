@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700016875
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:13)",
+        [
+            "UN Visitors Café",
+            700008540
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:53, 16:38)",
+        [
+            "",
+            700030745
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(19:42, 21:02)",
+        [
+            "",
+            700030744
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(21:08, 23:03)",
+        [
+            "UN Visitors Café",
+            700008540
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(22:32, 23:55)",
+        [
+            "",
+            700016875
+        ]
+    ]
+]

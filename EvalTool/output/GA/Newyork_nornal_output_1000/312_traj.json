@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cipriani",
+            700004068
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:51)",
+        [
+            "",
+            700031532
+        ]
+    ],
+    [
+        "Stay at VERS",
+        "(12:38, 14:13)",
+        [
+            "Food Truck Buenos Nachos Amigos",
+            700024875
+        ]
+    ],
+    [
+        "next activity",
+        "(14:20, 15:51)",
+        [
+            "Food Truck Buenos Nachos Amigos",
+            700024875
+        ]
+    ],
+    [
+        "next activity",
+        "(16:29, 18:07)",
+        [
+            "Food Truck Buenos Nachos Amigos",
+            700024875
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 20:30)",
+        [
+            "Proper Food",
+            700004071
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:47, 22:34)",
+        [
+            "",
+            700031532
+        ]
+    ],
+    [
+        "Stay at Proper Food",
+        "(22:21, 23:45)",
+        [
+            "Deutsche Bank",
+            700003414
+        ]
+    ],
+    [
+        "Stay at Proper Food",
+        "(23:42, 23:59)",
+        [
+            "Deutsche Bank",
+            700003414
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mexico Lindo",
+            700006222
+        ]
+    ],
+    [
+        "Go for a relaxing walk or hike in a nearby park.",
+        "(10:00, 11:40)",
+        [
+            "",
+            700032014
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:30, 13:49)",
+        [
+            "CitiBike Station",
+            700007611
+        ]
+    ],
+    [
+        "Engage in a fun sports activity, like playing tennis or cycling.",
+        "(18:24, 20:00)",
+        [
+            "Smile Dental Center",
+            700023828
+        ]
+    ],
+    [
+        "Stay at home.",
+        "(20:06, 22:34)",
+        [
+            "Smile Dental Center",
+            700023828
+        ]
+    ],
+    [
+        "Stay at Smile Dental Center",
+        "(22:53, 23:59)",
+        [
+            "Smile Dental Center",
+            700023828
+        ]
+    ],
+    [
+        "Stay at Smile Dental Center",
+        "(23:43, 23:59)",
+        [
+            "Smile Dental Center",
+            700023828
+        ]
+    ]
+]

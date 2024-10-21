@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cafe Réveille",
+            700003283
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:31)",
+        [
+            "Bell Tower",
+            700005337
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:18, 14:04)",
+        [
+            "Bell Tower",
+            700005337
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:55, 16:44)",
+        [
+            "Bell Tower",
+            700005337
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:52, 20:25)",
+        [
+            "",
+            700000652
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:07, 22:54)",
+        [
+            "Cafe Réveille",
+            700003283
+        ]
+    ],
+    [
+        "Evening Wind Down.",
+        "(23:36, 23:59)",
+        [
+            "Cafe Réveille",
+            700003283
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001222
+        ]
+    ],
+    [
+        "Watch Sports/Game",
+        "(09:00, 10:58)",
+        [
+            "",
+            700001222
+        ]
+    ],
+    [
+        "Watch Sports/Game",
+        "(11:16, 12:51)",
+        [
+            "",
+            700001222
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:42, 15:19)",
+        [
+            "",
+            700001222
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:36, 16:59)",
+        [
+            "Citi Bike - Broadway & East 14th Street",
+            700007968
+        ]
+    ],
+    [
+        "Dinner Preparation & Eating",
+        "(17:38, 19:15)",
+        [
+            "",
+            700001222
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:43, 21:54)",
+        [
+            "",
+            700026310
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(22:40, 23:59)",
+        [
+            "Citi Bike - Broadway & East 14th Street",
+            700007968
+        ]
+    ]
+]

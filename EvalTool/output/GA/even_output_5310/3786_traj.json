@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020107
+        ]
+    ],
+    [
+        "Go for a walk or light jog in the park",
+        "(10:00, 11:05)",
+        [
+            "East of Eighth",
+            700009192
+        ]
+    ],
+    [
+        "Go for a walk or light jog in the park",
+        "(11:34, 13:02)",
+        [
+            "East of Eighth",
+            700009192
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch.",
+        "(12:39, 14:02)",
+        [
+            "East of Eighth",
+            700009192
+        ]
+    ],
+    [
+        "Prepare for and engage in a fun hobby or DIY project.",
+        "(14:18, 16:20)",
+        [
+            "East of Eighth",
+            700009192
+        ]
+    ],
+    [
+        "Stay at New Amsterdam School",
+        "(15:44, 17:28)",
+        [
+            "Bank of America",
+            700004336
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:52, 22:15)",
+        [
+            "Barracuda Bar",
+            700015366
+        ]
+    ],
+    [
+        "Stay at Excellent Dumpling House.",
+        "(19:33, 21:41)",
+        [
+            "Momofuku Nishi",
+            700009104
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:32, 23:59)",
+        [
+            "Popeyes",
+            700004343
+        ]
+    ],
+    [
+        "Stay at Excellent Dumpling House",
+        "(23:53, 23:59)",
+        [
+            "Trailer Park Lounge",
+            700040174
+        ]
+    ]
+]

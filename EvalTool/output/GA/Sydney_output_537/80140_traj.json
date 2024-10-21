@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700022576
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:21)",
+        [
+            "Kingsleys Australian Steakhouse",
+            700008253
+        ]
+    ],
+    [
+        "Sports or Outdoor Activity",
+        "(16:40, 18:18)",
+        [
+            "Kingsleys Australian Steakhouse",
+            700008253
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(18:29, 20:06)",
+        [
+            "Kingsleys Australian Steakhouse",
+            700008253
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:53, 21:32)",
+        [
+            "Kingsleys Australian Steakhouse",
+            700008253
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:13, 23:59)",
+        [
+            "Mr Tipley's",
+            700002961
+        ]
+    ]
+]

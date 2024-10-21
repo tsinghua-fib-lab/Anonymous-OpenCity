@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Lexington Avenue & East 24th Street",
+            700008122
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:31)",
+        [
+            "Newman Library and Technology Center",
+            700000553
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 17:31)",
+        [
+            "",
+            700003094
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:24, 20:46)",
+        [
+            "Starbucks",
+            700003975
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:54, 22:19)",
+        [
+            "CoCo Fresh Tea & Juice",
+            700003973
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:56, 23:59)",
+        [
+            "Pure Grit BBQ",
+            700032019
+        ]
+    ]
+]

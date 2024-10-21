@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Shanghai Kelly's",
+            700000648
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:33)",
+        [
+            "",
+            700000649
+        ]
+    ],
+    [
+        "Relaxation/Entertainment",
+        "(14:38, 16:04)",
+        [
+            "",
+            700001150
+        ]
+    ],
+    [
+        "Cooking and Preparing Dinner",
+        "(16:22, 18:15)",
+        [
+            "Tai Chi Restaurant",
+            700002099
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:15, 20:43)",
+        [
+            "Tai Chi Restaurant",
+            700002099
+        ]
+    ],
+    [
+        "Next Arrangements: Go to Tai Chi Restaurant",
+        "(20:14, 21:39)",
+        [
+            "Tai Chi Restaurant",
+            700002099
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:31, 23:59)",
+        [
+            "Ollei",
+            700013230
+        ]
+    ]
+]

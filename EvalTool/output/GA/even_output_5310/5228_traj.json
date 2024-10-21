@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018072
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:00)",
+        [
+            "",
+            700018072
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:01, 12:22)",
+        [
+            "",
+            700017195
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:57, 13:57)",
+        [
+            "Duane Reade",
+            700010319
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:30, 16:04)",
+        [
+            "Duane Reade",
+            700010319
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:45, 18:32)",
+        [
+            "Tamam Falafel",
+            700025722
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(20:09, 21:39)",
+        [
+            "Duane Reade",
+            700010319
+        ]
+    ],
+    [
+        "Stay at Tamam Falafel",
+        "(21:48, 23:56)",
+        [
+            "Tamam Falafel",
+            700025722
+        ]
+    ],
+    [
+        "Stay at Duane Reade",
+        "(23:43, 23:59)",
+        [
+            "Duane Reade",
+            700010319
+        ]
+    ]
+]

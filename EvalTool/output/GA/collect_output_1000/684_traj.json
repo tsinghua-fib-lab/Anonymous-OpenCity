@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030441
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:03)",
+        [
+            "",
+            700009110
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:58, 14:19)",
+        [
+            "Citi Bike - Broadway & West 51st Street",
+            700007977
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:17, 19:11)",
+        [
+            "Pret A Manger",
+            700006516
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:39, 21:05)",
+        [
+            "",
+            700030441
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:18, 23:53)",
+        [
+            "",
+            700030441
+        ]
+    ]
+]

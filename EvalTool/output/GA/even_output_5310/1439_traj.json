@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700019559
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:38)",
+        [
+            "Duane Reade",
+            700011388
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 18:30)",
+        [
+            "CitiBike Station",
+            700007611
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:22, 16:57)",
+        [
+            "",
+            700032014
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 23:24)",
+        [
+            "Explore + Discover Early Learning Center",
+            700006223
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:22, 23:59)",
+        [
+            "The Accorn School",
+            700024882
+        ]
+    ]
+]

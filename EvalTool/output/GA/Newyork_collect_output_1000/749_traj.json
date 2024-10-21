@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:29)",
+        [
+            "",
+            700022520
+        ]
+    ],
+    [
+        "Wind Down and Relax",
+        "(14:05, 16:09)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ],
+    [
+        "Wind Down and Relax",
+        "(16:26, 18:02)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 20:20)",
+        [
+            "Club Pilates",
+            700006202
+        ]
+    ],
+    [
+        "Catch Up on Movies/TV Series",
+        "(21:26, 23:59)",
+        [
+            "Ralph's Italian Ices",
+            700006208
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citibank",
+            700004183
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(09:00, 10:22)",
+        [
+            "Citi Bike - 1st Avenue & East 15th Street",
+            700007924
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:16, 13:01)",
+        [
+            "Citi Bike - 1st Avenue & East 15th Street",
+            700007924
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 18:25)",
+        [
+            "No. 1 New York Kitchen",
+            700011620
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:52, 16:56)",
+        [
+            "No. 1 New York Kitchen",
+            700011620
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:00, 18:04)",
+        [
+            "No. 1 New York Kitchen",
+            700011620
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 23:24)",
+        [
+            "",
+            700014458
+        ]
+    ],
+    [
+        "Evening Wind-down",
+        "(23:30, 23:59)",
+        [
+            "No. 1 New York Kitchen",
+            700011620
+        ]
+    ]
+]

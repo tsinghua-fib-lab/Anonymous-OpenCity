@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "FIKA 9th Avenue",
+            700008331
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park.",
+        "(10:00, 10:57)",
+        [
+            "Grainne Cafe",
+            700023155
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park.",
+        "(11:03, 12:59)",
+        [
+            "Grainne Cafe",
+            700023155
+        ]
+    ],
+    [
+        "Spend some time reading a book or doing a hobby.",
+        "(13:36, 14:56)",
+        [
+            "FIKA 9th Avenue",
+            700008331
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:43, 20:03)",
+        [
+            "Blossom- Chelsea",
+            700008701
+        ]
+    ],
+    [
+        "Go for coffee or casual hangout with friends",
+        "(19:32, 21:38)",
+        [
+            "Dil e Punjab Deli",
+            700004409
+        ]
+    ],
+    [
+        "Wind down the day by watching a movie or binge-watching a series.",
+        "(21:30, 23:03)",
+        [
+            "FIKA 9th Avenue",
+            700008331
+        ]
+    ],
+    [
+        "Winding down by watching a movie at home",
+        "(23:32, 23:59)",
+        [
+            "FIKA 9th Avenue",
+            700008331
+        ]
+    ]
+]

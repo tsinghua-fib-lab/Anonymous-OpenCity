@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bar Jamón",
+            700006180
+        ]
+    ],
+    [
+        "Leisurely Breakfast",
+        "(10:00, 11:35)",
+        [
+            "Casa Mono",
+            700006182
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:34, 15:32)",
+        [
+            "Friend of a Farmer",
+            700010270
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:47, 16:25)",
+        [
+            "Friend of a Farmer",
+            700010270
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 19:16)",
+        [
+            "Boucherie",
+            700018128
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:36, 23:58)",
+        [
+            "Chase",
+            700018129
+        ]
+    ]
+]

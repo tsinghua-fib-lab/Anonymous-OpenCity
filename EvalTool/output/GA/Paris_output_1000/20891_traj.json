@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005633
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 10:59)",
+        [
+            "Le Dernier Bar avant la Fin du Monde",
+            700007398
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:52, 13:18)",
+        [
+            "Le Dernier Bar avant la Fin du Monde",
+            700007398
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:06, 16:54)",
+        [
+            "Le Terminus du Châtelet",
+            700019515
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:53, 18:46)",
+        [
+            "L'amphi",
+            700069181
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 23:59)",
+        [
+            "",
+            700008943
+        ]
+    ]
+]

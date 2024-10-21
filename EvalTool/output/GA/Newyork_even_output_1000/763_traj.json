@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bond Vet",
+            700017552
+        ]
+    ],
+    [
+        "Go for a run or workout at the gym.",
+        "(10:00, 10:51)",
+        [
+            "Bond Vet",
+            700017552
+        ]
+    ],
+    [
+        "Go for a run or workout at the gym",
+        "(11:55, 13:08)",
+        [
+            "Bond Vet",
+            700017552
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:37, 15:38)",
+        [
+            "Bond Vet",
+            700017552
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:43, 22:12)",
+        [
+            "Chase",
+            700004182
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:26, 23:59)",
+        [
+            "Citi Bike",
+            700023925
+        ]
+    ]
+]

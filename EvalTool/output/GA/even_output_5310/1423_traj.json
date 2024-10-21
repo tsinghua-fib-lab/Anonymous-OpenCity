@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Accorn School",
+            700024882
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:09)",
+        [
+            "Citi Bike - East 27th Street & 1st Avenue",
+            700008040
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 15:07)",
+        [
+            "",
+            700032015
+        ]
+    ],
+    [
+        "Cook Dinner or Try a New Recipe",
+        "(18:36, 20:07)",
+        [
+            "The Accorn School",
+            700024882
+        ]
+    ],
+    [
+        "Cook Dinner or Try a New Recipe",
+        "(20:51, 22:25)",
+        [
+            "The Accorn School",
+            700024882
+        ]
+    ],
+    [
+        "Cook Dinner or Try a New Recipe",
+        "(22:26, 23:53)",
+        [
+            "The Accorn School",
+            700024882
+        ]
+    ]
+]

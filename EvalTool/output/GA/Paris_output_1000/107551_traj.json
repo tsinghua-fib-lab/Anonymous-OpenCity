@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 11:34)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(11:38, 13:07)",
+        [
+            "",
+            700026028
+        ]
+    ],
+    [
+        "Afternoon Sports/Exercise",
+        "(13:29, 14:54)",
+        [
+            "",
+            700068718
+        ]
+    ],
+    [
+        "Afternoon Sports/Exercise",
+        "(15:38, 17:01)",
+        [
+            "Police nationale",
+            700016471
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:27, 19:03)",
+        [
+            "",
+            700026029
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:39, 23:59)",
+        [
+            "",
+            700026029
+        ]
+    ]
+]

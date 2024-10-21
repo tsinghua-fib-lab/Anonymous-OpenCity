@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dunkin'",
+            700008332
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:17)",
+        [
+            "Le Pain Quotidien",
+            700013645
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:15, 14:01)",
+        [
+            "",
+            700003138
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(13:43, 15:16)",
+        [
+            "Le Pain Quotidien",
+            700013645
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(16:01, 17:50)",
+        [
+            "Le Pain Quotidien",
+            700013645
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:20, 20:05)",
+        [
+            "",
+            700019038
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "HSBC",
+            700003433
+        ]
+    ]
+]

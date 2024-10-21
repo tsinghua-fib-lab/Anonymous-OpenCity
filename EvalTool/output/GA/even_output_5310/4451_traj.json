@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Jose Luis",
+            700014661
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:21)",
+        [
+            "",
+            700002822
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 19:18)",
+        [
+            "Chinatown Community Fridge & Pantry",
+            700026441
+        ]
+    ],
+    [
+        "Watch movie and relax",
+        "(21:05, 22:57)",
+        [
+            "Chinatown Community Fridge & Pantry",
+            700026441
+        ]
+    ],
+    [
+        "Stay at home and go to bed.",
+        "(23:34, 23:59)",
+        [
+            "Jose Luis",
+            700014661
+        ]
+    ]
+]

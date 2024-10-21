@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Atomic Wings",
+            700021924
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:53)",
+        [
+            "Morning Star Cafe",
+            700014376
+        ]
+    ],
+    [
+        "Leisure Activities (TV/Movies)",
+        "(13:04, 14:41)",
+        [
+            "The Horny Ram",
+            700015293
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 16:21)",
+        [
+            "",
+            700001712
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 22:41)",
+        [
+            "",
+            700001712
+        ]
+    ],
+    [
+        "Next activity based on previous plan",
+        "(20:13, 21:51)",
+        [
+            "",
+            700001253
+        ]
+    ],
+    [
+        "Go to Royal 35 Steakhouse.",
+        "(21:58, 23:25)",
+        [
+            "",
+            700001712
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:50, 23:59)",
+        [
+            "",
+            700001253
+        ]
+    ]
+]

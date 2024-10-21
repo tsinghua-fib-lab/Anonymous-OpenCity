@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Kingston Hall",
+            700010019
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 10:06)",
+        [
+            "",
+            700036877
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:01, 12:01)",
+        [
+            "Chanson le Salon",
+            700009757
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:37, 13:53)",
+        [
+            "Benvenuto Cafe Tribeca",
+            700005340
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 20:20)",
+        [
+            "",
+            700001263
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:12, 23:59)",
+        [
+            "",
+            700036900
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Apple Bank",
+            700016437
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(10:00, 11:40)",
+        [
+            "Apple Bank",
+            700016437
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(11:09, 13:03)",
+        [
+            "Apple Bank",
+            700016437
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:32, 15:08)",
+        [
+            "Joe & The Juice",
+            700023486
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:01, 17:16)",
+        [
+            "Pick a Bagel",
+            700014702
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:17, 20:26)",
+        [
+            "",
+            700010793
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:16, 23:59)",
+        [
+            "Korean Express",
+            700014716
+        ]
+    ]
+]

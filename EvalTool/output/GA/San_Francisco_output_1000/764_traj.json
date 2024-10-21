@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "City College of San Francisco Chinatown North Beach Campus",
+            700000401
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:36)",
+        [
+            "Le Sandwich",
+            700008162
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:07, 11:29)",
+        [
+            "",
+            700009113
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:37, 13:39)",
+        [
+            "",
+            700014410
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:20, 20:59)",
+        [
+            "",
+            700014411
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 23:32)",
+        [
+            "",
+            700014408
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "",
+            700014412
+        ]
+    ]
+]

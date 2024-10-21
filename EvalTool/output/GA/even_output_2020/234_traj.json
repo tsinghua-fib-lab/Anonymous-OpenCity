@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010290
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:46)",
+        [
+            "",
+            700010278
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 15:13)",
+        [
+            "",
+            700010278
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(17:10, 18:35)",
+        [
+            "",
+            700010280
+        ]
+    ],
+    [
+        "Prepare and have dinner, followed by relaxation",
+        "(18:47, 20:41)",
+        [
+            "Philz Coffee",
+            700009299
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:59, 23:59)",
+        [
+            "The Coffee Smith",
+            700005057
+        ]
+    ]
+]

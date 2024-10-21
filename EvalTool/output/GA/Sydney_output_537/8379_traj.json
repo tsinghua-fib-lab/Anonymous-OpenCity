@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014314
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:25)",
+        [
+            "",
+            700014313
+        ]
+    ],
+    [
+        "Relaxation and Leisure Reading",
+        "(13:08, 15:02)",
+        [
+            "",
+            700014221
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:30, 16:58)",
+        [
+            "",
+            700014221
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(18:02, 19:35)",
+        [
+            "",
+            700014306
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 23:04)",
+        [
+            "Ryedales Tavern",
+            700002158
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "",
+            700011944
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "The Coffee Emporium",
+            700027106
+        ]
+    ]
+]

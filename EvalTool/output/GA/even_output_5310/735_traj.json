@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "icon 24hr Parking",
+            700010474
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:59)",
+        [
+            "Citi Bike - East 39th Street & 2nd Avenue",
+            700008045
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:51, 14:11)",
+        [
+            "Phoenix Garden",
+            700007839
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:24, 17:12)",
+        [
+            "",
+            700017846
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(17:45, 19:57)",
+        [
+            "Phoenix Garden",
+            700007839
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 23:31)",
+        [
+            "Amazon Hub Locker",
+            700007836
+        ]
+    ]
+]

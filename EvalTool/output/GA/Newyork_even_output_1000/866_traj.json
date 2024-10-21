@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Renee Weiler Concert Hall",
+            700011240
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:44)",
+        [
+            "Caliente Cab",
+            700011124
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:01, 18:39)",
+        [
+            "",
+            700000938
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(18:26, 20:26)",
+        [
+            "The Garret",
+            700008982
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:41, 20:45)",
+        [
+            "",
+            700003121
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(21:10, 23:50)",
+        [
+            "Caliente Cab",
+            700011124
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(23:12, 23:59)",
+        [
+            "Caliente Cab",
+            700011124
+        ]
+    ]
+]

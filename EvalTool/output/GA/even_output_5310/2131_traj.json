@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002202
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:36)",
+        [
+            "Le Boite en Bois",
+            700020925
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:50, 12:17)",
+        [
+            "Equinox",
+            700003705
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:45, 14:02)",
+        [
+            "Equinox",
+            700003705
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:31, 16:02)",
+        [
+            "",
+            700002874
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(16:10, 18:19)",
+        [
+            "Chase",
+            700005034
+        ]
+    ],
+    [
+        "Next destination: Dinner Preparation",
+        "(18:29, 20:06)",
+        [
+            "",
+            700002202
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:10, 23:59)",
+        [
+            "United States Post Office",
+            700005035
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:37, 23:53)",
+        [
+            "United States Post Office",
+            700005035
+        ]
+    ]
+]

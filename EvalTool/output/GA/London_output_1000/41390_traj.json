@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Go for a walk or engage in a sports activity",
+        "(09:00, 10:32)",
+        [
+            "Urban Meadow Cafe",
+            700031990
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:57, 13:24)",
+        [
+            "",
+            700022698
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 19:30)",
+        [
+            "Black Lion Gate",
+            700010195
+        ]
+    ],
+    [
+        "Relax with leisure activities",
+        "(19:54, 22:04)",
+        [
+            "Black Lion Gate",
+            700010195
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Black Lion Gate",
+            700010195
+        ]
+    ],
+    [
+        "Go to K's apartment",
+        "(23:58, 23:59)",
+        [
+            "",
+            700022758
+        ]
+    ]
+]

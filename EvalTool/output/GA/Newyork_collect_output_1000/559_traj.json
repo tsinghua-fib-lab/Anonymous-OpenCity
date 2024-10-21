@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:14)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Projects",
+        "(14:57, 16:17)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 21:22)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(19:33, 21:08)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:33, 23:59)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Stay",
+        "(23:45, 23:59)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ]
+]

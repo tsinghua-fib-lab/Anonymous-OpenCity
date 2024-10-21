@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Maialino",
+            700010143
+        ]
+    ],
+    [
+        "Relax and enjoy some leisure reading or catch up on social media",
+        "(09:00, 09:50)",
+        [
+            "Maialino",
+            700010143
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:02, 13:19)",
+        [
+            "",
+            700000861
+        ]
+    ],
+    [
+        "Spend time with family or friends, either in person or via video call.",
+        "(16:04, 17:58)",
+        [
+            "Maialino",
+            700010143
+        ]
+    ],
+    [
+        "Spend time with family or friends, either in person or via video call",
+        "(18:01, 19:59)",
+        [
+            "Maialino",
+            700010143
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:43, 23:44)",
+        [
+            "L'Express",
+            700014918
+        ]
+    ],
+    [
+        "go to L'Express",
+        "(22:38, 23:59)",
+        [
+            "Bravo Pizza",
+            700018122
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "L'Express",
+            700014918
+        ]
+    ]
+]

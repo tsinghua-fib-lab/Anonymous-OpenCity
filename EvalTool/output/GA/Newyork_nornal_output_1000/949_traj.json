@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Neary’s",
+            700010786
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:53)",
+        [
+            "",
+            700010703
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(12:31, 13:30)",
+        [
+            "",
+            700010703
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:28, 15:23)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "Evening Wind-Down",
+        "(19:48, 20:50)",
+        [
+            "Neary’s",
+            700010786
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:26, 23:59)",
+        [
+            "NYC Discount Pharmacy",
+            700030624
+        ]
+    ]
+]

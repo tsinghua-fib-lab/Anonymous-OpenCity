@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Club Mari's / Mogura",
+            700001705
+        ]
+    ],
+    [
+        "Go for a morning walk",
+        "(10:00, 10:57)",
+        [
+            "Izumiya",
+            700008686
+        ]
+    ],
+    [
+        "Catch up on household chores",
+        "(11:33, 12:51)",
+        [
+            "Matcha Cafe Maiko",
+            700008684
+        ]
+    ],
+    [
+        "Engage in a hobby or creative activity",
+        "(13:51, 15:29)",
+        [
+            "Beque",
+            700008685
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:24, 19:07)",
+        [
+            "Udon Mugizo",
+            700008689
+        ]
+    ],
+    [
+        "Stay at current location to relax and reflect.",
+        "(21:17, 22:39)",
+        [
+            "",
+            700008697
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "",
+            700008696
+        ]
+    ]
+]

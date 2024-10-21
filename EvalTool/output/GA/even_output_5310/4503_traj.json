@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Coucou",
+            700010850
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:07)",
+        [
+            "Le Coucou",
+            700010850
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(12:59, 13:56)",
+        [
+            "Smile To Go",
+            700013895
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 19:08)",
+        [
+            "UFC Gym",
+            700014901
+        ]
+    ],
+    [
+        "Relaxing Time at Home",
+        "(20:51, 22:13)",
+        [
+            "Le Coucou",
+            700010850
+        ]
+    ],
+    [
+        "Stay at Lucky's",
+        "(22:44, 23:59)",
+        [
+            "",
+            700002679
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:50, 23:59)",
+        [
+            "",
+            700001784
+        ]
+    ]
+]

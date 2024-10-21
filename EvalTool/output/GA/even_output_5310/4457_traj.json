@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sponges Cafe",
+            700024732
+        ]
+    ],
+    [
+        "Walk or exercise",
+        "(10:00, 10:54)",
+        [
+            "Mount Sinai Medical Center Chinatown",
+            700028531
+        ]
+    ],
+    [
+        "Go for a walk in the park or exercise at home",
+        "(11:51, 12:59)",
+        [
+            "Mount Sinai Medical Center Chinatown",
+            700028531
+        ]
+    ],
+    [
+        "Go for a walk in the park or exercise at home",
+        "(12:59, 13:37)",
+        [
+            "",
+            700025027
+        ]
+    ],
+    [
+        "Hobby or craft project",
+        "(14:10, 15:40)",
+        [
+            "Mount Sinai Medical Center Chinatown",
+            700028531
+        ]
+    ],
+    [
+        "Exercise",
+        "(16:35, 17:50)",
+        [
+            "",
+            700025025
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:32, 20:32)",
+        [
+            "NY 99 Cents Pizza",
+            700032001
+        ]
+    ],
+    [
+        "Dinner",
+        "(20:05, 21:43)",
+        [
+            "Kingwuu",
+            700019767
+        ]
+    ],
+    [
+        "Stay",
+        "(22:27, 23:56)",
+        [
+            "",
+            700002822
+        ]
+    ]
+]

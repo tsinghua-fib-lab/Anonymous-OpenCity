@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Rivington Street & Chrystie Street",
+            700008170
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:55)",
+        [
+            "Banzarbar",
+            700017019
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:42, 13:56)",
+        [
+            "Banzarbar",
+            700017019
+        ]
+    ],
+    [
+        "Catch Up on Reading or Hobbies",
+        "(14:32, 16:02)",
+        [
+            "Banzarbar",
+            700017019
+        ]
+    ],
+    [
+        "Catch Up on Reading or Hobbies",
+        "(16:52, 17:57)",
+        [
+            "Banzarbar",
+            700017019
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:22, 20:01)",
+        [
+            "Morgenstern's Finest Ice Cream",
+            700011032
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(20:18, 21:55)",
+        [
+            "",
+            700021921
+        ]
+    ],
+    [
+        "Catch Up on Reading or Hobbies",
+        "(22:19, 23:40)",
+        [
+            "",
+            700022271
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:46, 23:59)",
+        [
+            "",
+            700022271
+        ]
+    ]
+]

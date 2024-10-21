@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700021966
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:05)",
+        [
+            "",
+            700021961
+        ]
+    ],
+    [
+        "Mid-Morning Leisure Activity",
+        "(12:21, 14:19)",
+        [
+            "",
+            700021966
+        ]
+    ],
+    [
+        "Afternoon Sports/Outdoor Activity",
+        "(14:51, 15:50)",
+        [
+            "",
+            700021966
+        ]
+    ],
+    [
+        "Afternoon Sports/Outdoor Activity",
+        "(15:56, 16:52)",
+        [
+            "Grand Kosher Cafe",
+            700019773
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(17:57, 19:05)",
+        [
+            "",
+            700021966
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 23:59)",
+        [
+            "",
+            700021965
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(23:19, 23:59)",
+        [
+            "",
+            700021966
+        ]
+    ]
+]

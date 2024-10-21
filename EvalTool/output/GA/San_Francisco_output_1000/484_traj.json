@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005093
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:36)",
+        [
+            "First Friendship Institutional Baptist Church",
+            700000287
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:25, 15:12)",
+        [
+            "",
+            700005093
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(17:28, 18:55)",
+        [
+            "First Friendship Institutional Baptist Church",
+            700000287
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:55, 22:00)",
+        [
+            "First Friendship Institutional Baptist Church",
+            700000287
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:45, 23:59)",
+        [
+            "Peacock Lounge",
+            700005486
+        ]
+    ]
+]

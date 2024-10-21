@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Caféier",
+            700004195
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the park.",
+        "(10:00, 10:55)",
+        [
+            "Charles de Gaulle - Louis Philippe",
+            700044173
+        ]
+    ],
+    [
+        "Engage in a hobby or read a book",
+        "(11:48, 13:20)",
+        [
+            "Le Caféier",
+            700004195
+        ]
+    ],
+    [
+        "Engage in a hobby or read a book",
+        "(14:03, 16:00)",
+        [
+            "Le Caféier",
+            700004195
+        ]
+    ],
+    [
+        "Watch a favorite sports game or movie",
+        "(16:36, 18:57)",
+        [
+            "Le Caféier",
+            700004195
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:34, 23:59)",
+        [
+            "Pharmacie Bilgraer",
+            700004196
+        ]
+    ]
+]

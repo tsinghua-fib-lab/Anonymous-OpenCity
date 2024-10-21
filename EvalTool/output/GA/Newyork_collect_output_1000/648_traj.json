@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:54)",
+        [
+            "",
+            700022519
+        ]
+    ],
+    [
+        "Outdoor activities or exercise",
+        "(14:46, 16:20)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:28, 21:44)",
+        [
+            "",
+            700022507
+        ]
+    ],
+    [
+        "Prepare dinner and unwind",
+        "(18:05, 19:42)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a series",
+        "(20:34, 22:06)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "Relax and read or browse online",
+        "(22:35, 23:59)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "Prepare dinner and unwind",
+        "(23:55, 23:59)",
+        [
+            "",
+            700018138
+        ]
+    ]
+]

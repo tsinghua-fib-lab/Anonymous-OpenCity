@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 14th Street & Avenue B",
+            700008024
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:36)",
+        [
+            "Yu Suen Garden",
+            700000417
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:04, 20:28)",
+        [
+            "B-Side",
+            700020934
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:18, 20:00)",
+        [
+            "Public School 196",
+            700000049
+        ]
+    ],
+    [
+        "Wind Down and Reflect",
+        "(20:18, 21:53)",
+        [
+            "Public School 196",
+            700000049
+        ]
+    ],
+    [
+        "Stay at Casa Adela",
+        "(21:59, 23:38)",
+        [
+            "Public School 196",
+            700000049
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:43, 23:59)",
+        [
+            "Burgers on B",
+            700029810
+        ]
+    ]
+]

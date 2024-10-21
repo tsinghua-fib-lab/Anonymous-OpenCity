@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002312
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:37)",
+        [
+            "Arlene's Grocery",
+            700005419
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 15:30)",
+        [
+            "Bonsai Kakigori",
+            700017079
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:02, 18:58)",
+        [
+            "Thief LES",
+            700017078
+        ]
+    ],
+    [
+        "Stay at Arlene's Grocery",
+        "(23:36, 23:59)",
+        [
+            "Bonsai Kakigori",
+            700017079
+        ]
+    ]
+]

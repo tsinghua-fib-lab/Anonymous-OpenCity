@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002735
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:06)",
+        [
+            "",
+            700002733
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:33, 15:17)",
+        [
+            "Anina",
+            700009468
+        ]
+    ],
+    [
+        "Exercise",
+        "(15:14, 16:34)",
+        [
+            "Bay Wheels",
+            700011001
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:10, 18:40)",
+        [
+            "",
+            700002729
+        ]
+    ],
+    [
+        "Leisure Activity before Relaxing at Home",
+        "(18:39, 20:14)",
+        [
+            "Zero&",
+            700009989
+        ]
+    ],
+    [
+        "Leisure Activity before Relaxing at Home",
+        "(20:05, 21:54)",
+        [
+            "Souvla",
+            700003175
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "",
+            700002729
+        ]
+    ]
+]

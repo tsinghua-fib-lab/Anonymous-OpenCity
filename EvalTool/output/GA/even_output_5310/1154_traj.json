@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005037
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:15)",
+        [
+            "The Migrant Kitchen",
+            700016762
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 16:00)",
+        [
+            "",
+            700005038
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 18:44)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:59, 23:26)",
+        [
+            "Joanne Trattoria",
+            700013909
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:26, 23:59)",
+        [
+            "",
+            700003205
+        ]
+    ]
+]

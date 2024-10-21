@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700018241
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:34)",
+        [
+            "Casabianca",
+            700018343
+        ]
+    ],
+    [
+        "meet friends for dessert",
+        "(12:52, 13:57)",
+        [
+            "Rubby Pizzeria Restaurant",
+            700006397
+        ]
+    ],
+    [
+        "Spend time on a personal project or hobby.",
+        "(14:07, 16:55)",
+        [
+            "Rubby Pizzeria Restaurant",
+            700006397
+        ]
+    ],
+    [
+        "Stay at Boucherie for some quiet moments while you prepare for the week ahead.",
+        "(17:17, 19:02)",
+        [
+            "",
+            700018320
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 22:36)",
+        [
+            "",
+            700018319
+        ]
+    ],
+    [
+        "Stay at Rubby Pizzeria Restaurant.",
+        "(23:21, 23:59)",
+        [
+            "Casabianca",
+            700018343
+        ]
+    ]
+]

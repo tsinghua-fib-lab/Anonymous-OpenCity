@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002302
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:51)",
+        [
+            "",
+            700001786
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:55, 16:38)",
+        [
+            "",
+            700002302
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:41, 15:53)",
+        [
+            "Alphonso's Trattoria Pizzeria",
+            700003817
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:18, 18:25)",
+        [
+            "Citi Bike - Grand Street / Henry Street",
+            700008097
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:57, 22:07)",
+        [
+            "People's Choice Pharmacy",
+            700003818
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(22:55, 23:59)",
+        [
+            "East Side Glatt",
+            700019775
+        ]
+    ]
+]

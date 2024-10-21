@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mezze and Mooore",
+            700000083
+        ]
+    ],
+    [
+        "10:00 AM - Wake up and have a leisurely breakfast",
+        "(10:00, 11:02)",
+        [
+            "Mezze and Mooore",
+            700000083
+        ]
+    ],
+    [
+        "Next activity: Prepare lunch",
+        "(11:51, 13:21)",
+        [
+            "Mezze and Mooore",
+            700000083
+        ]
+    ],
+    [
+        "Next activity: Prepare lunch",
+        "(13:05, 14:35)",
+        [
+            "Mezze and Mooore",
+            700000083
+        ]
+    ],
+    [
+        "Current activity: Watch a sports game or favorite show.",
+        "(14:05, 15:45)",
+        [
+            "Mezze and Mooore",
+            700000083
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:42, 17:22)",
+        [
+            "",
+            700010684
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:57, 23:59)",
+        [
+            "",
+            700010901
+        ]
+    ]
+]

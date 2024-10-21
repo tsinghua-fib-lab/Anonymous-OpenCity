@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Link NYC",
+            700020181
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:37)",
+        [
+            "Link NYC",
+            700020181
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(13:46, 15:22)",
+        [
+            "The Sabieng Thai",
+            700008754
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(15:24, 17:04)",
+        [
+            "The Sabieng Thai",
+            700008754
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:53, 19:25)",
+        [
+            "",
+            700020208
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(19:48, 20:58)",
+        [
+            "The Sabieng Thai",
+            700008754
+        ]
+    ],
+    [
+        "Stay at Link NYC",
+        "(22:42, 23:59)",
+        [
+            "",
+            700020208
+        ]
+    ]
+]

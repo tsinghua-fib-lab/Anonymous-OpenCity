@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "George Moscone Elementary",
+            700000176
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:58)",
+        [
+            "",
+            700006006
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:25, 14:58)",
+        [
+            "Mutiny Radio.fm",
+            700010912
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 17:11)",
+        [
+            "Heirloom Cafe",
+            700002062
+        ]
+    ],
+    [
+        "Stay at George Moscone Elementary.",
+        "(17:12, 18:47)",
+        [
+            "Trick Dog",
+            700004201
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 21:14)",
+        [
+            "",
+            700010802
+        ]
+    ]
+]

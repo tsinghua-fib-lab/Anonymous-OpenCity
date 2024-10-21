@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tin",
+            700001623
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:42)",
+        [
+            "Erik Erikson Library",
+            700004904
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 14:41)",
+        [
+            "Tin",
+            700001623
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:03, 16:31)",
+        [
+            "Erik Erikson Library",
+            700004904
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:48, 18:24)",
+        [
+            "Erik Erikson Library",
+            700004904
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:01, 23:59)",
+        [
+            "",
+            700014223
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:55, 23:59)",
+        [
+            "",
+            700000092
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700029404
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:50)",
+        [
+            "Blue Ribbon Fried Chicken",
+            700009142
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:27, 15:31)",
+        [
+            "Bowery Meat Company",
+            700012124
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:03, 15:28)",
+        [
+            "",
+            700040519
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:05, 17:59)",
+        [
+            "Blue Ribbon Fried Chicken",
+            700009142
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(18:20, 20:01)",
+        [
+            "Blue Ribbon Fried Chicken",
+            700009142
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(20:17, 22:01)",
+        [
+            "Blue Ribbon Fried Chicken",
+            700009142
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "Bowery Meat Company",
+            700012124
+        ]
+    ],
+    [
+        "Stay at Sutton Cafe Restaurant",
+        "(23:56, 23:59)",
+        [
+            "Bowery Meat Company",
+            700012124
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000494
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park",
+        "(10:00, 10:51)",
+        [
+            "",
+            700000494
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:50, 17:41)",
+        [
+            "",
+            700000650
+        ]
+    ],
+    [
+        "Go to Tai Chi Restaurant",
+        "(13:53, 14:53)",
+        [
+            "Tai Chi Restaurant",
+            700002099
+        ]
+    ],
+    [
+        "Next place: Lunch at Tai Chi Restaurant.",
+        "(15:53, 17:02)",
+        [
+            "Tai Chi Restaurant",
+            700002099
+        ]
+    ],
+    [
+        "Currently at: Tai Chi Restaurant, stay time.",
+        "(18:06, 19:59)",
+        [
+            "Tai Chi Restaurant",
+            700002099
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:46, 23:59)",
+        [
+            "Lord Stanley",
+            700002098
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Marathon Coffee",
+            700039312
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:04)",
+        [
+            "Neary’s",
+            700010786
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(14:42, 15:57)",
+        [
+            "",
+            700010700
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(16:25, 18:07)",
+        [
+            "Bistro Vendôme",
+            700011529
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(18:50, 19:53)",
+        [
+            "Duane Reade",
+            700030439
+        ]
+    ],
+    [
+        "Visit Neary’s",
+        "(20:05, 22:18)",
+        [
+            "Neary’s",
+            700010786
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:46, 23:59)",
+        [
+            "",
+            700010698
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ]
+]

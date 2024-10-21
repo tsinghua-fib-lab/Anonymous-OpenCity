@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York City Board of Higher Education Headquarters",
+            700000556
+        ]
+    ],
+    [
+        "Go for a walk or visit a nearby park.",
+        "(10:00, 11:03)",
+        [
+            "New York City Board of Higher Education Headquarters",
+            700000556
+        ]
+    ],
+    [
+        "Go for a walk or visit a nearby park.",
+        "(11:15, 12:59)",
+        [
+            "New York City Board of Higher Education Headquarters",
+            700000556
+        ]
+    ],
+    [
+        "watch a movie or catch up on a favorite TV show",
+        "(13:08, 14:53)",
+        [
+            "New York City Board of Higher Education Headquarters",
+            700000556
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a favorite TV show.",
+        "(15:29, 16:57)",
+        [
+            "New York City Board of Higher Education Headquarters",
+            700000556
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 22:16)",
+        [
+            "",
+            700000666
+        ]
+    ],
+    [
+        "Stay at New York City Board of Higher Education Headquarters",
+        "(22:15, 23:32)",
+        [
+            "New York City Board of Higher Education Headquarters",
+            700000556
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "",
+            700002790
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bank of the Orient",
+            700000634
+        ]
+    ],
+    [
+        "Exercise or outdoor activity",
+        "(09:00, 10:05)",
+        [
+            "Cumberland Chinese School",
+            700000283
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:08, 15:40)",
+        [
+            "",
+            700009564
+        ]
+    ],
+    [
+        "Hobby time or creative activities",
+        "(14:07, 16:13)",
+        [
+            "Cumberland Chinese School",
+            700000283
+        ]
+    ],
+    [
+        "Hobby time or creative activities",
+        "(16:13, 18:08)",
+        [
+            "Cumberland Chinese School",
+            700000283
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:35, 23:47)",
+        [
+            "",
+            700009566
+        ]
+    ],
+    [
+        "Go to Cumberland Chinese School",
+        "(22:27, 23:48)",
+        [
+            "Cumberland Chinese School",
+            700000283
+        ]
+    ],
+    [
+        "Stay at Cumberland Chinese School",
+        "(23:54, 23:59)",
+        [
+            "Cumberland Chinese School",
+            700000283
+        ]
+    ]
+]

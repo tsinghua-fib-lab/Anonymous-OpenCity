@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:03)",
+        [
+            "City Grill",
+            700050003
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:35, 14:10)",
+        [
+            "City Grill",
+            700050003
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 19:00)",
+        [
+            "",
+            700065952
+        ]
+    ],
+    [
+        "Personal Projects/Errands",
+        "(16:01, 17:51)",
+        [
+            "",
+            700065882
+        ]
+    ],
+    [
+        "Family Time",
+        "(18:41, 20:02)",
+        [
+            "",
+            700065952
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:54, 23:59)",
+        [
+            "Egyptian House",
+            700050002
+        ]
+    ]
+]

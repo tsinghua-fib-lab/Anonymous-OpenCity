@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Century Pharmacy",
+            700018393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:59)",
+        [
+            "Century Pharmacy",
+            700018393
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 14:22)",
+        [
+            "Madison St Pizza",
+            700018390
+        ]
+    ],
+    [
+        "Relaxation and Leisure Time",
+        "(14:34, 16:02)",
+        [
+            "Citi Bike",
+            700008129
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 17:58)",
+        [
+            "",
+            700001219
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(22:07, 23:35)",
+        [
+            "Mitr Thai",
+            700016194
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:55, 23:59)",
+        [
+            "Nino's 46",
+            700017595
+        ]
+    ]
+]

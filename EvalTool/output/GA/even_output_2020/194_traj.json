@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Fishmandu Sushi",
+            700010101
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:10)",
+        [
+            "Mongol Cafe",
+            700010102
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:03, 11:04)",
+        [
+            "Mongol Cafe",
+            700010102
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(11:21, 12:23)",
+        [
+            "Fishmandu Sushi",
+            700010101
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(13:22, 15:05)",
+        [
+            "Fishmandu Sushi",
+            700010101
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(15:47, 18:21)",
+        [
+            "Fishmandu Sushi",
+            700010101
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 22:29)",
+        [
+            "Ha-Ra",
+            700001037
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "Zipcar",
+            700000589
+        ]
+    ]
+]

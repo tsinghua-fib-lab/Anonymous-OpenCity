@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008209
+        ]
+    ],
+    [
+        "11:30 AM - Leisure Reading",
+        "(10:00, 11:35)",
+        [
+            "Vogue Cafe",
+            700031685
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:45, 13:05)",
+        [
+            "IMAX Sydney",
+            700029889
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:26, 15:53)",
+        [
+            "Vogue Cafe",
+            700031685
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:21, 22:03)",
+        [
+            "",
+            700029893
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:19, 23:08)",
+        [
+            "ARA Darling Quarter Theatre",
+            700004244
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:25, 23:59)",
+        [
+            "ARA Darling Quarter Theatre",
+            700004244
+        ]
+    ]
+]

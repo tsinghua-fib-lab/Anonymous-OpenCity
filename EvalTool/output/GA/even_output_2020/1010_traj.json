@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wells Fargo",
+            700004122
+        ]
+    ],
+    [
+        "Go for a workout or a jog",
+        "(10:00, 10:56)",
+        [
+            "San Francisco Sleep Diagnostics",
+            700003678
+        ]
+    ],
+    [
+        "Go for a workout or a jog",
+        "(11:03, 12:07)",
+        [
+            "San Francisco Sleep Diagnostics",
+            700003678
+        ]
+    ],
+    [
+        "Go for a workout or a jog",
+        "(12:46, 13:54)",
+        [
+            "San Francisco Sleep Diagnostics",
+            700003678
+        ]
+    ],
+    [
+        "Visit a local farmers' market or boutique shops",
+        "(14:04, 15:02)",
+        [
+            "Bus Stop",
+            700004822
+        ]
+    ],
+    [
+        "Attend a matinee or watch a film at home",
+        "(15:23, 17:25)",
+        [
+            "Bus Stop",
+            700004822
+        ]
+    ],
+    [
+        "Stay at Bus Stop",
+        "(17:05, 18:13)",
+        [
+            "",
+            700005990
+        ]
+    ],
+    [
+        "Stay at Bus Stop",
+        "(18:48, 20:13)",
+        [
+            "KAIYŌ",
+            700000984
+        ]
+    ],
+    [
+        "Stay at Bus Stop",
+        "(21:06, 22:42)",
+        [
+            "KAIYŌ",
+            700000984
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:03, 23:59)",
+        [
+            "KAIYŌ",
+            700000984
+        ]
+    ]
+]

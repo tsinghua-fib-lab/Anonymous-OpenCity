@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:57)",
+        [
+            "",
+            700010698
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:00, 17:17)",
+        [
+            "",
+            700010703
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:47, 17:35)",
+        [
+            "Kiss My Slice Pizzaria",
+            700010701
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:50, 21:47)",
+        [
+            "",
+            700010698
+        ]
+    ],
+    [
+        "Socializing",
+        "(21:12, 22:53)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:28, 23:59)",
+        [
+            "",
+            700010702
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014627
+        ]
+    ],
+    [
+        "Go for a walk or visit a nearby park.",
+        "(10:00, 11:00)",
+        [
+            "Chopt",
+            700006309
+        ]
+    ],
+    [
+        "Go for a walk or visit a nearby park.",
+        "(11:15, 12:59)",
+        [
+            "Chopt",
+            700006309
+        ]
+    ],
+    [
+        "watch a movie or catch up on a favorite TV show",
+        "(13:08, 14:58)",
+        [
+            "Chopt",
+            700006309
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a favorite TV show.",
+        "(15:29, 16:50)",
+        [
+            "Chopt",
+            700006309
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 19:30)",
+        [
+            "Burger Joint",
+            700014365
+        ]
+    ],
+    [
+        "Stay at Chopt",
+        "(22:15, 23:20)",
+        [
+            "Chopt",
+            700006309
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "fresh&co",
+            700006007
+        ]
+    ]
+]

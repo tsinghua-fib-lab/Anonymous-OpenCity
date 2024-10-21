@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002921
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(09:00, 10:40)",
+        [
+            "The Little Chihuahua",
+            700001465
+        ]
+    ],
+    [
+        "2:00 PM to 4:00 PM - Engage in a hobby or personal project",
+        "(10:41, 12:49)",
+        [
+            "The Little Chihuahua",
+            700001465
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 14:33)",
+        [
+            "San Francisco Prosthetic Orthotix Service, Inc.",
+            700004782
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(15:12, 16:50)",
+        [
+            "The Little Chihuahua",
+            700001465
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 20:13)",
+        [
+            "Souvenir Coffee",
+            700004209
+        ]
+    ],
+    [
+        "Stay at The Little Chihuahua",
+        "(23:15, 23:59)",
+        [
+            "Souvenir Coffee",
+            700004209
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030981
+        ]
+    ],
+    [
+        "Leisure Activity / Hobbies",
+        "(10:00, 11:40)",
+        [
+            "",
+            700030981
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 13:17)",
+        [
+            "Boom Boom Room",
+            700012318
+        ]
+    ],
+    [
+        "Dinner Preparation and Relaxation",
+        "(18:12, 19:54)",
+        [
+            "Boom Boom Room",
+            700012318
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:33, 23:43)",
+        [
+            "",
+            700020912
+        ]
+    ],
+    [
+        "Leisure Activity / Hobbies",
+        "(22:44, 23:59)",
+        [
+            "Boom Boom Room",
+            700012318
+        ]
+    ]
+]

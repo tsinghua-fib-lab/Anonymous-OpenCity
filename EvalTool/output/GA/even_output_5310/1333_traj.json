@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Casa Mono",
+            700006182
+        ]
+    ],
+    [
+        "Leisurely Breakfast",
+        "(10:00, 11:40)",
+        [
+            "Friend of a Farmer",
+            700010270
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:34, 15:23)",
+        [
+            "Caffè Panna",
+            700021859
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:47, 16:12)",
+        [
+            "Caffè Panna",
+            700021859
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 19:27)",
+        [
+            "Bar Jamón",
+            700006180
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:36, 23:59)",
+        [
+            "Irving Farm Coffee Roasters",
+            700012420
+        ]
+    ]
+]

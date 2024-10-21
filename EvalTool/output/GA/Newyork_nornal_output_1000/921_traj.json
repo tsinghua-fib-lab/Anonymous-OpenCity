@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "NºBetween",
+            700040417
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(09:00, 10:30)",
+        [
+            "NºBetween",
+            700040417
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(11:16, 12:53)",
+        [
+            "NºBetween",
+            700040417
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 18:43)",
+        [
+            "",
+            700024196
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:52, 17:06)",
+        [
+            "",
+            700024195
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:00, 17:55)",
+        [
+            "NºBetween",
+            700040417
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 21:03)",
+        [
+            "L'Atelier de Joël Robuchon",
+            700019588
+        ]
+    ],
+    [
+        "Evening Wind-down",
+        "(23:30, 23:59)",
+        [
+            "",
+            700024197
+        ]
+    ]
+]

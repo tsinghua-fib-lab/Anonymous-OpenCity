@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Arancini Pizza and Pasta",
+            700005215
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:50)",
+        [
+            "Harshita's Kitchen",
+            700009855
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:05, 15:29)",
+        [
+            "The Vines",
+            700025674
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:10, 23:59)",
+        [
+            "",
+            700016776
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Jones Wood Foundry",
+            700030635
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:57)",
+        [
+            "Manny Cantor Center",
+            700006688
+        ]
+    ],
+    [
+        "Lunch and Relaxation",
+        "(11:38, 13:17)",
+        [
+            "Manny Cantor Center",
+            700006688
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:44, 16:09)",
+        [
+            "Manny Cantor Center",
+            700006688
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(17:07, 19:13)",
+        [
+            "Manny Cantor Center",
+            700006688
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:22, 22:07)",
+        [
+            "",
+            700021946
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:42, 23:59)",
+        [
+            "Jones Wood Foundry",
+            700030635
+        ]
+    ]
+]

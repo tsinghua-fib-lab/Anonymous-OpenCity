@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "USPS",
+            700005982
+        ]
+    ],
+    [
+        "Leisure Activity or Sport",
+        "(10:00, 11:50)",
+        [
+            "Santander",
+            700020291
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:02, 13:31)",
+        [
+            "Bank United",
+            700016442
+        ]
+    ],
+    [
+        "Leisure Activity or Sport",
+        "(15:43, 16:50)",
+        [
+            "Santander",
+            700020291
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:21, 19:21)",
+        [
+            "Starbucks",
+            700004420
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:14, 23:59)",
+        [
+            "",
+            700015393
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "",
+            700039220
+        ]
+    ]
+]

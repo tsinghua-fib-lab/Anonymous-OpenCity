@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001457
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:28)",
+        [
+            "fit lite by 24hr fitness",
+            700002794
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:25, 14:35)",
+        [
+            "",
+            700005708
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(17:28, 18:55)",
+        [
+            "",
+            700001457
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:55, 22:01)",
+        [
+            "fit lite by 24hr fitness",
+            700002794
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:45, 23:59)",
+        [
+            "",
+            700005708
+        ]
+    ]
+]

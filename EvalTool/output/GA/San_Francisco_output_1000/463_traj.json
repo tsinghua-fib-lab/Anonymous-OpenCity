@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Alamo Square Cafe",
+            700003053
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:01)",
+        [
+            "",
+            700003723
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:19, 17:55)",
+        [
+            "",
+            700003718
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:34, 20:00)",
+        [
+            "Alamo Square Cafe",
+            700003053
+        ]
+    ],
+    [
+        "Stay at Alamo Square Cafe.",
+        "(20:40, 22:20)",
+        [
+            "",
+            700003719
+        ]
+    ],
+    [
+        "Go to Alamo Square Cafe.",
+        "(23:28, 23:59)",
+        [
+            "Alamo Square Cafe",
+            700003053
+        ]
+    ]
+]

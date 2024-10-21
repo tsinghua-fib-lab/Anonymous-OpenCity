@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700066106
+        ]
+    ],
+    [
+        "next activity after breakfast",
+        "(09:00, 09:52)",
+        [
+            "",
+            700066106
+        ]
+    ],
+    [
+        "Relax with a book or podcast",
+        "(10:46, 12:07)",
+        [
+            "",
+            700066106
+        ]
+    ],
+    [
+        "Afternoon leisure activity (sports or hobbies)",
+        "(12:37, 15:06)",
+        [
+            "Breizh Café",
+            700010547
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:24, 20:57)",
+        [
+            "Pink Flamingo",
+            700020330
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:40, 23:35)",
+        [
+            "",
+            700034068
+        ]
+    ],
+    [
+        "Go to Chaak.",
+        "(22:36, 23:59)",
+        [
+            "",
+            700034072
+        ]
+    ]
+]

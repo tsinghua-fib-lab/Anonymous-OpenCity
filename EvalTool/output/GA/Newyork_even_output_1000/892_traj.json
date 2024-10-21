@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gansevoort Market",
+            700008484
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:21)",
+        [
+            "Pastis",
+            700016067
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(14:20, 16:14)",
+        [
+            "",
+            700001780
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:58, 20:32)",
+        [
+            "",
+            700019524
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 23:27)",
+        [
+            "Bill's Bar & Burger",
+            700007845
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Spice Market",
+            700008840
+        ]
+    ]
+]

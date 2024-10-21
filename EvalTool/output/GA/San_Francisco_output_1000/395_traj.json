@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000031
+        ]
+    ],
+    [
+        "Workout or Sports Activity",
+        "(10:00, 11:25)",
+        [
+            "Rhea’s Cafe",
+            700005988
+        ]
+    ],
+    [
+        "Workout or Sports Activity",
+        "(11:36, 13:02)",
+        [
+            "Rhea’s Cafe",
+            700005988
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:13, 17:46)",
+        [
+            "Farmhouse Kitchen",
+            700004057
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:34, 21:08)",
+        [
+            "Farmhouse Kitchen",
+            700004057
+        ]
+    ],
+    [
+        "Stay at Rhea's Cafe",
+        "(21:58, 23:02)",
+        [
+            "",
+            700009868
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "",
+            700000031
+        ]
+    ]
+]

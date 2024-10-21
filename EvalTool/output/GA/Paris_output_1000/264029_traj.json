@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Prohibido",
+            700027734
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:57)",
+        [
+            "Pharmacie du Moulin",
+            700002947
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:25, 15:24)",
+        [
+            "Le Pain Quotidien",
+            700010107
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:58, 21:44)",
+        [
+            "Le Pain Quotidien",
+            700010107
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:14, 23:35)",
+        [
+            "Un Zèbre à Montmartre",
+            700027068
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "",
+            700028472
+        ]
+    ]
+]

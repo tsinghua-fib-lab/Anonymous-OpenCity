@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Minako",
+            700004298
+        ]
+    ],
+    [
+        "next activity after breakfast",
+        "(10:00, 12:03)",
+        [
+            "La Oaxaqueña",
+            700004240
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:27, 13:57)",
+        [
+            "La Oaxaqueña",
+            700004240
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:01, 15:40)",
+        [
+            "La Oaxaqueña",
+            700004240
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(15:52, 17:55)",
+        [
+            "La Oaxaqueña",
+            700004240
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:01, 23:55)",
+        [
+            "L'emigrante",
+            700001686
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:55, 23:59)",
+        [
+            "Full Gospel Assembly Church",
+            700000289
+        ]
+    ]
+]

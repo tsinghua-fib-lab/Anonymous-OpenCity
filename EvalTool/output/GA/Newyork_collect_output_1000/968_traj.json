@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:51)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 20:19)",
+        [
+            "",
+            700022505
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:20, 22:30)",
+        [
+            "",
+            700002077
+        ]
+    ],
+    [
+        "Stay at New York Comedy Club",
+        "(23:36, 23:59)",
+        [
+            "Gramercy Diagnostic Radiology",
+            700023460
+        ]
+    ]
+]

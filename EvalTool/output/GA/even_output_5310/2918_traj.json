@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700022347
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:48)",
+        [
+            "The Woo",
+            700016229
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(11:53, 12:59)",
+        [
+            "The Woo",
+            700016229
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:26, 14:53)",
+        [
+            "The Woo",
+            700016229
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(15:44, 17:06)",
+        [
+            "The Woo",
+            700016229
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:13, 19:47)",
+        [
+            "",
+            700022347
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:00, 23:59)",
+        [
+            "Vestry",
+            700039541
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "La Sirène",
+            700009191
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Il Cantinori",
+            700040153
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:59)",
+        [
+            "",
+            700000878
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 15:56)",
+        [
+            "Il Cantinori",
+            700040153
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:51, 17:21)",
+        [
+            "",
+            700000878
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 20:38)",
+        [
+            "Institute of Audio Research",
+            700007662
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:45, 22:21)",
+        [
+            "Institute of Audio Research",
+            700007662
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:35, 23:59)",
+        [
+            "Gerlateria Gentile",
+            700007659
+        ]
+    ]
+]

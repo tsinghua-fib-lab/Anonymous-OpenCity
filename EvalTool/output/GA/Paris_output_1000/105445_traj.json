@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Saint Laurent Café",
+            700057269
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:35)",
+        [
+            "CIC",
+            700022310
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:44, 16:22)",
+        [
+            "Café Kitsuné",
+            700054994
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:23, 21:41)",
+        [
+            "Café des Tuileries",
+            700035939
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:33, 23:59)",
+        [
+            "",
+            700067207
+        ]
+    ]
+]

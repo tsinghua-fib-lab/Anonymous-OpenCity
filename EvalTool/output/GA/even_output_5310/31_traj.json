@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kiss My Slice Pizzaria",
+            700010701
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:17)",
+        [
+            "Sushi Ginza",
+            700006518
+        ]
+    ],
+    [
+        "Afternoon Leisure/Errands",
+        "(12:52, 15:30)",
+        [
+            "",
+            700010700
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:12, 20:29)",
+        [
+            "",
+            700010702
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:51, 20:01)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:16, 23:59)",
+        [
+            "Au Za'atar",
+            700011621
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Duane Reade",
+            700030439
+        ]
+    ]
+]

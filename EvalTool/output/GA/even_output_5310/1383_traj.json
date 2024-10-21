@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 20th Street & FDR Drive",
+            700008034
+        ]
+    ],
+    [
+        "Go for a leisurely walk or jog in the nearby park",
+        "(10:00, 12:08)",
+        [
+            "StuyFitness on 20th",
+            700028439
+        ]
+    ],
+    [
+        "Go for a leisurely walk or jog in the nearby park",
+        "(12:39, 14:02)",
+        [
+            "StuyFitness on 20th",
+            700028439
+        ]
+    ],
+    [
+        "Engage in a fun leisure activity, such as playing a sport or going to a local museum or art gallery.",
+        "(14:07, 15:59)",
+        [
+            "StuyFitness on 20th",
+            700028439
+        ]
+    ],
+    [
+        "Engage in a fun leisure activity, such as playing a sport or going to a local museum or art gallery.",
+        "(16:23, 17:56)",
+        [
+            "StuyFitness on 20th",
+            700028439
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 21:49)",
+        [
+            "",
+            700017720
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "",
+            700017720
+        ]
+    ]
+]

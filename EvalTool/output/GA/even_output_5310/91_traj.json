@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Duane Reade",
+            700011875
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:06)",
+        [
+            "Duane Reade",
+            700011875
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:12, 13:53)",
+        [
+            "Duane Reade",
+            700011875
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:46, 16:09)",
+        [
+            "Duane Reade",
+            700011875
+        ]
+    ],
+    [
+        "Grocery Shopping & Meal Prep",
+        "(16:51, 18:27)",
+        [
+            "Duane Reade",
+            700011875
+        ]
+    ],
+    [
+        "Stay at Duane Reade",
+        "(18:50, 19:55)",
+        [
+            "Duane Reade",
+            700011875
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:09, 23:44)",
+        [
+            "Dunkin'",
+            700007535
+        ]
+    ],
+    [
+        "Go to Dunkin'",
+        "(22:20, 23:59)",
+        [
+            "Friedman`s",
+            700009482
+        ]
+    ],
+    [
+        "Stay at Duane Reade",
+        "(23:51, 23:59)",
+        [
+            "Duane Reade",
+            700011875
+        ]
+    ]
+]

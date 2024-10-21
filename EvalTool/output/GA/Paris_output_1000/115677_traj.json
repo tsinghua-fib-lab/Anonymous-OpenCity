@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "L'Orriu du Beauvau",
+            700019339
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(10:00, 11:54)",
+        [
+            "",
+            700004655
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 18:13)",
+        [
+            "Café Beauvau",
+            700061120
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(16:46, 18:24)",
+        [
+            "Café Beauvau",
+            700061120
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:10, 20:34)",
+        [
+            "Elysée Lounge",
+            700003149
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:05, 23:59)",
+        [
+            "",
+            700004657
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(23:54, 23:59)",
+        [
+            "Café Beauvau",
+            700061120
+        ]
+    ]
+]

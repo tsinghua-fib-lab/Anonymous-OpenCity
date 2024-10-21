@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Zipcar",
+            700001203
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:20)",
+        [
+            "Côte Ouest Bistro",
+            700002031
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:02, 14:10)",
+        [
+            "",
+            700010568
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 19:48)",
+        [
+            "Sessions at the Presidio",
+            700002756
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(19:42, 20:47)",
+        [
+            "Sessions at the Presidio",
+            700002756
+        ]
+    ],
+    [
+        "Social Time",
+        "(21:18, 23:14)",
+        [
+            "",
+            700010581
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "",
+            700010582
+        ]
+    ]
+]

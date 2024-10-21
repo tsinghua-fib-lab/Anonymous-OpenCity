@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030398
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:01)",
+        [
+            "",
+            700030392
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:07, 16:07)",
+        [
+            "",
+            700030396
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(16:10, 18:20)",
+        [
+            "Little Italy Pizza",
+            700024873
+        ]
+    ],
+    [
+        "Attend a Sports Event or Play Sports",
+        "(18:06, 19:44)",
+        [
+            "Kuu",
+            700039049
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:13, 23:27)",
+        [
+            "Chipotle",
+            700017949
+        ]
+    ]
+]

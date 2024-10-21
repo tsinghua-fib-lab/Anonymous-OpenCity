@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Wharton Cottages",
+            700012020
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:03)",
+        [
+            "",
+            700025022
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 14:33)",
+        [
+            "Express",
+            700038279
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:44, 19:45)",
+        [
+            "Laoma",
+            700057864
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(20:06, 21:26)",
+        [
+            "Mediterraneo",
+            700017609
+        ]
+    ],
+    [
+        "Next outing considering the remaining time.",
+        "(22:01, 23:36)",
+        [
+            "Costa",
+            700038273
+        ]
+    ],
+    [
+        "Stay at Costa",
+        "(23:36, 23:59)",
+        [
+            "Costa",
+            700038273
+        ]
+    ]
+]

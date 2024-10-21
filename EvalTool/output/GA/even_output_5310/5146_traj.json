@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001652
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(10:00, 11:30)",
+        [
+            "",
+            700000666
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(11:09, 12:51)",
+        [
+            "Gotham Pizza",
+            700013968
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:32, 14:52)",
+        [
+            "Dubl Twister",
+            700006572
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:01, 19:05)",
+        [
+            "Kossar's Bagels & Bialys",
+            700033870
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:17, 22:05)",
+        [
+            "SLim Dental Kids",
+            700016563
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:16, 23:59)",
+        [
+            "Aki Sushi",
+            700011536
+        ]
+    ]
+]

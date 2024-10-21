@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:50)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(12:14, 14:13)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(14:23, 16:10)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:48, 22:37)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:53, 23:59)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ]
+]

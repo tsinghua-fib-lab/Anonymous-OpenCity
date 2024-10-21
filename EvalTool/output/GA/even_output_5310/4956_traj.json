@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Duane Reade",
+            700006005
+        ]
+    ],
+    [
+        "Leisurely Stroll or Exercise",
+        "(10:00, 10:50)",
+        [
+            "Duane Reade",
+            700006005
+        ]
+    ],
+    [
+        "Leisurely Stroll or Exercise",
+        "(11:27, 13:07)",
+        [
+            "Duane Reade",
+            700006005
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(13:09, 15:06)",
+        [
+            "Duane Reade",
+            700006005
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:56, 20:15)",
+        [
+            "Citi Bike - West 56th Street & 6th Avenue",
+            700008236
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(20:15, 22:13)",
+        [
+            "Chipotle",
+            700006003
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "Starbucks",
+            700006009
+        ]
+    ]
+]

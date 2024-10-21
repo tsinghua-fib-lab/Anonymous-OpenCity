@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:22)",
+        [
+            "",
+            700021650
+        ]
+    ],
+    [
+        "Stay at Chapin School until 1 PM.",
+        "(11:28, 12:50)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "Decide to stay at Chapin School until 1 PM.",
+        "(13:19, 14:53)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "Stay at Chapin School until 1 PM.",
+        "(15:46, 17:42)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "Continue to hobby time.",
+        "(18:27, 19:57)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 21:11)",
+        [
+            "",
+            700021646
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "",
+            700021645
+        ]
+    ]
+]

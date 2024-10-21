@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002503
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:10)",
+        [
+            "Saint Stephen of Hungary School",
+            700000297
+        ]
+    ],
+    [
+        "Hobby Time or Creative Project",
+        "(14:08, 16:05)",
+        [
+            "Saint Stephen of Hungary School",
+            700000297
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:07, 21:47)",
+        [
+            "Ralph's Italian Ices",
+            700024259
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:37, 23:59)",
+        [
+            "Botte UES",
+            700027029
+        ]
+    ],
+    [
+        "Go to Botte UES and spend time there.",
+        "(23:19, 23:59)",
+        [
+            "Botte UES",
+            700027029
+        ]
+    ]
+]

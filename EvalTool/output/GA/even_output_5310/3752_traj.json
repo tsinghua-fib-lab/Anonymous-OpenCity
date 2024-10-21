@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Punch Bar & Grill",
+            700013386
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:56)",
+        [
+            "oyster bar",
+            700017114
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 17:42)",
+        [
+            "The Campbell Bar",
+            700011239
+        ]
+    ],
+    [
+        "Late Afternoon Movie",
+        "(18:13, 20:41)",
+        [
+            "The Campbell Bar",
+            700011239
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:56, 22:05)",
+        [
+            "",
+            700009408
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(23:04, 23:59)",
+        [
+            "Punch Bar & Grill",
+            700013386
+        ]
+    ]
+]

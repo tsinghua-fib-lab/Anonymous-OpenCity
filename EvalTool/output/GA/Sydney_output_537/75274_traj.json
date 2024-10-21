@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Vogue Cafe",
+            700031685
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:10)",
+        [
+            "Vogue Cafe",
+            700031685
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:24, 15:43)",
+        [
+            "McDonald's",
+            700004242
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:46, 21:39)",
+        [
+            "ARA Darling Quarter Theatre",
+            700004244
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:19, 23:49)",
+        [
+            "Gelatissimo",
+            700004243
+        ]
+    ]
+]

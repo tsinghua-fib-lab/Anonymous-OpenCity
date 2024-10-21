@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Duane Reade",
+            700006023
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:51)",
+        [
+            "Duane Reade",
+            700006023
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:32, 18:16)",
+        [
+            "",
+            700002551
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:30, 22:13)",
+        [
+            "Campagnola Restaurant",
+            700035807
+        ]
+    ],
+    [
+        "Relax and watch a movie or series.",
+        "(20:59, 22:09)",
+        [
+            "Duane Reade",
+            700006023
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Chase",
+            700006017
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700035519
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:42)",
+        [
+            "",
+            700035521
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(11:12, 12:33)",
+        [
+            "",
+            700035519
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(12:40, 13:54)",
+        [
+            "Caffe Napoli",
+            700005146
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:05, 18:46)",
+        [
+            "Casa Bella",
+            700005303
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:41, 23:41)",
+        [
+            "Caffe Napoli",
+            700005146
+        ]
+    ]
+]

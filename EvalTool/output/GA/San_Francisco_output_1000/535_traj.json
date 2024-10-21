@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Two Sons Sandwiches",
+            700004800
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:48)",
+        [
+            "Next Level Burger",
+            700011024
+        ]
+    ],
+    [
+        "Relaxation/Reading",
+        "(16:36, 18:06)",
+        [
+            "Two Sons Sandwiches",
+            700004800
+        ]
+    ],
+    [
+        "Watch TV/Movies",
+        "(19:00, 20:59)",
+        [
+            "Two Sons Sandwiches",
+            700004800
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:06, 22:42)",
+        [
+            "Jamba",
+            700006374
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:36, 23:59)",
+        [
+            "",
+            700011031
+        ]
+    ]
+]

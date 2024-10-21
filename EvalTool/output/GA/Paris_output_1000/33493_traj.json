@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:39)",
+        [
+            "Toilette Tour Eiffel",
+            700004831
+        ]
+    ],
+    [
+        "Engage in a hobby or creative activity.",
+        "(15:58, 17:03)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Stay engaging in a hobby or creative activity.",
+        "(17:48, 19:07)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:58, 22:16)",
+        [
+            "",
+            700058672
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "",
+            700026032
+        ]
+    ]
+]

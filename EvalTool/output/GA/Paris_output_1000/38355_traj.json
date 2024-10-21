@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kebab House",
+            700071009
+        ]
+    ],
+    [
+        "Go for a leisurely walk or jog in the park",
+        "(10:00, 10:56)",
+        [
+            "La Belle Équipe",
+            700021732
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 16:27)",
+        [
+            "",
+            700073839
+        ]
+    ],
+    [
+        "Stay at La Belle Équipe",
+        "(15:54, 18:01)",
+        [
+            "La Belle Équipe",
+            700021732
+        ]
+    ],
+    [
+        "Go to La Belle Équipe",
+        "(17:44, 18:56)",
+        [
+            "La Belle Équipe",
+            700021732
+        ]
+    ],
+    [
+        "Go to Paris Musée du Louvre.",
+        "(19:25, 21:02)",
+        [
+            "Palomino",
+            700073197
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:12, 23:59)",
+        [
+            "",
+            700073085
+        ]
+    ]
+]

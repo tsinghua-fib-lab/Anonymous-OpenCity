@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006800
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:51)",
+        [
+            "SoulCycle",
+            700004060
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 19:38)",
+        [
+            "SoulCycle",
+            700004060
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:22, 23:59)",
+        [
+            "Hot Cookie",
+            700000837
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:18, 23:59)",
+        [
+            "Marcello's Pizza",
+            700002181
+        ]
+    ]
+]

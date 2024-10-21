@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Avenue D & E 12 St",
+            700007952
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:13)",
+        [
+            "",
+            700010655
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(12:38, 13:59)",
+        [
+            "Citi Bike - Avenue D & E 12 St",
+            700007952
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(14:36, 15:57)",
+        [
+            "Citi Bike - Avenue D & E 12 St",
+            700007952
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 18:54)",
+        [
+            "",
+            700003596
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(20:32, 22:11)",
+        [
+            "",
+            700003577
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(22:21, 23:59)",
+        [
+            "Citi Bike - Avenue D & E 12 St",
+            700007952
+        ]
+    ]
+]

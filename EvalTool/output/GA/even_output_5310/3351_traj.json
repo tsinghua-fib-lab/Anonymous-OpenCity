@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sweetgreen",
+            700020927
+        ]
+    ],
+    [
+        "Stay at Sweetgreen.",
+        "(10:00, 13:26)",
+        [
+            "Sweetgreen",
+            700020927
+        ]
+    ],
+    [
+        "You have lunch at Sweetgreen.",
+        "(12:15, 13:24)",
+        [
+            "Sweetgreen",
+            700020927
+        ]
+    ],
+    [
+        "You stay at Sweetgreen for a bit longer.",
+        "(13:33, 14:56)",
+        [
+            "Chase",
+            700005034
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 20:23)",
+        [
+            "",
+            700002874
+        ]
+    ],
+    [
+        "Catch up over coffee.",
+        "(17:49, 19:15)",
+        [
+            "",
+            700005038
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:35, 21:36)",
+        [
+            "Il Violino",
+            700005036
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:59)",
+        [
+            "",
+            700005037
+        ]
+    ]
+]

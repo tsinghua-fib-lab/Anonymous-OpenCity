@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cafe Luka",
+            700026128
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:54)",
+        [
+            "tasti D-lite",
+            700038521
+        ]
+    ],
+    [
+        "Leisure Time/Creative Activity",
+        "(16:12, 18:07)",
+        [
+            "tasti D-lite",
+            700038521
+        ]
+    ],
+    [
+        "Dinner Preparation/Cooking",
+        "(18:49, 20:10)",
+        [
+            "tasti D-lite",
+            700038521
+        ]
+    ],
+    [
+        "Wind Down & Movie Night",
+        "(20:40, 23:07)",
+        [
+            "tasti D-lite",
+            700038521
+        ]
+    ],
+    [
+        "next place for leisure time/creative activity since it's 23:05 and the movie night is already over.",
+        "(23:05, 23:59)",
+        [
+            "tasti D-lite",
+            700038521
+        ]
+    ]
+]

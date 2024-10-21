@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bay Wheels",
+            700010529
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 10:59)",
+        [
+            "",
+            700002885
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:33, 13:16)",
+        [
+            "",
+            700002883
+        ]
+    ],
+    [
+        "Lunch with Friends",
+        "(15:14, 16:40)",
+        [
+            "Monsieur Benjamin",
+            700007836
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:10, 18:45)",
+        [
+            "Afterwork Bar",
+            700003665
+        ]
+    ],
+    [
+        "Leisure Activity before Relaxing at Home",
+        "(18:39, 20:19)",
+        [
+            "Afterwork Bar",
+            700003665
+        ]
+    ],
+    [
+        "Leisure Activity before Relaxing at Home",
+        "(20:05, 21:35)",
+        [
+            "Zero&",
+            700009989
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "Blue Bottle Coffee",
+            700002366
+        ]
+    ]
+]

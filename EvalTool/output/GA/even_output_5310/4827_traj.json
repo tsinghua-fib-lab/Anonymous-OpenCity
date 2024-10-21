@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mama'a Bar",
+            700005171
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:08)",
+        [
+            "Kolkota Chai Company",
+            700008397
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:15, 17:03)",
+        [
+            "Kolkota Chai Company",
+            700008397
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(17:04, 18:26)",
+        [
+            "Kolkota Chai Company",
+            700008397
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(19:36, 21:05)",
+        [
+            "Kolkota Chai Company",
+            700008397
+        ]
+    ],
+    [
+        "Evening Relaxation/Reading",
+        "(21:29, 23:05)",
+        [
+            "29B Teahouse",
+            700008393
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "POST",
+            700014302
+        ]
+    ]
+]

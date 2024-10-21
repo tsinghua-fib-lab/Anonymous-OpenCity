@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700004227
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:18)",
+        [
+            "New London Pharmacy",
+            700004342
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:20, 18:30)",
+        [
+            "Fle-Fle Grill",
+            700006162
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(20:04, 21:30)",
+        [
+            "New London Pharmacy",
+            700004342
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(22:17, 23:43)",
+        [
+            "New London Pharmacy",
+            700004342
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(23:55, 23:59)",
+        [
+            "Barracuda Bar",
+            700015366
+        ]
+    ]
+]

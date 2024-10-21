@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008230
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:39)",
+        [
+            "",
+            700009681
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:27, 12:28)",
+        [
+            "",
+            700009002
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(12:43, 13:33)",
+        [
+            "",
+            700008229
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(14:12, 15:41)",
+        [
+            "",
+            700008230
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(16:06, 17:42)",
+        [
+            "",
+            700009661
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 19:16)",
+        [
+            "",
+            700009676
+        ]
+    ],
+    [
+        "Evening Out or Social Activity",
+        "(19:54, 21:00)",
+        [
+            "",
+            700008999
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "",
+            700009676
+        ]
+    ]
+]

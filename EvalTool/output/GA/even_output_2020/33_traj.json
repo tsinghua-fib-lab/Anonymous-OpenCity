@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tokyo Express: Teriyaki House",
+            700005018
+        ]
+    ],
+    [
+        "Wake Up and Relax",
+        "(10:00, 11:54)",
+        [
+            "Jack's Restaurant",
+            700014396
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:14, 14:20)",
+        [
+            "Fault Radio",
+            700011111
+        ]
+    ],
+    [
+        "Visit a Cultural Venue",
+        "(14:27, 17:02)",
+        [
+            "So Hunan",
+            700005016
+        ]
+    ],
+    [
+        "5:00 PM - 6:00 PM Grocery Shopping",
+        "(17:10, 18:09)",
+        [
+            "",
+            700010547
+        ]
+    ],
+    [
+        "5:00 PM - 6:00 PM Grocery Shopping",
+        "(18:22, 19:36)",
+        [
+            "Latte Express",
+            700004416
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:52, 21:10)",
+        [
+            "Latte Express",
+            700004416
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(21:43, 23:08)",
+        [
+            "Latte Express",
+            700004416
+        ]
+    ],
+    [
+        "Stay at Fault Radio",
+        "(23:36, 23:59)",
+        [
+            "Fault Radio",
+            700011111
+        ]
+    ]
+]

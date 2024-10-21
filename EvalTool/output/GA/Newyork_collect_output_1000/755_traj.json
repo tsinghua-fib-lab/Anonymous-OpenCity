@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:03)",
+        [
+            "The Malt House",
+            700022180
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:10, 13:25)",
+        [
+            "Aroy Dee Thai Kitchen",
+            700008769
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:53, 15:22)",
+        [
+            "d Elici",
+            700007243
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 20:24)",
+        [
+            "Duane Reade",
+            700032169
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "Flagstar Bank",
+            700022182
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:35)",
+        [
+            "",
+            700022517
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:33, 14:20)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:00, 20:08)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "At-Home Leisure or Hobbies",
+        "(18:18, 20:01)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "At-Home Leisure or Hobbies",
+        "(20:45, 23:08)",
+        [
+            "NY Kids Club",
+            700006234
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:00, 23:59)",
+        [
+            "Flame Hibachi",
+            700015891
+        ]
+    ]
+]

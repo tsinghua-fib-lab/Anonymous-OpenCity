@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003190
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 13:21)",
+        [
+            "Canyon Road Bar & Grill",
+            700027032
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 14:45)",
+        [
+            "Canyon Road Bar & Grill",
+            700027032
+        ]
+    ],
+    [
+        "Attend a local event, art exhibition, or concert",
+        "(14:09, 16:03)",
+        [
+            "Canyon Road Bar & Grill",
+            700027032
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:33, 18:20)",
+        [
+            "Jones Wood Foundry",
+            700030635
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:59, 23:59)",
+        [
+            "The Pony Bar",
+            700006042
+        ]
+    ],
+    [
+        "Attend a local event, art exhibition, or concert",
+        "(23:58, 23:59)",
+        [
+            "Canyon Road Bar & Grill",
+            700027032
+        ]
+    ]
+]

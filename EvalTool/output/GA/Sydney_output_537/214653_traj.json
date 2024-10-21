@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chamberlain Hotel",
+            700000128
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:04)",
+        [
+            "Thai Street Food",
+            700014466
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 17:37)",
+        [
+            "",
+            700013171
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(17:59, 19:23)",
+        [
+            "World Square Pub",
+            700002039
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 23:59)",
+        [
+            "",
+            700000159
+        ]
+    ],
+    [
+        "Stay at your Home.",
+        "(22:58, 23:59)",
+        [
+            "World Square Pub",
+            700002039
+        ]
+    ]
+]

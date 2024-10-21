@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The City Taqueria",
+            700007891
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:11)",
+        [
+            "San Francisco Athletic Club",
+            700004906
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:30, 18:44)",
+        [
+            "The City Taqueria",
+            700007891
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:24, 23:59)",
+        [
+            "b on the go",
+            700010094
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:38, 23:59)",
+        [
+            "Starbucks",
+            700004907
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Bombardier",
+            700048748
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(10:00, 11:54)",
+        [
+            "La Table de Colette",
+            700061084
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:35, 17:43)",
+        [
+            "Tata Monique",
+            700000102
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(16:32, 17:50)",
+        [
+            "Tata Monique",
+            700000102
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:04, 22:06)",
+        [
+            "La Table de Colette",
+            700061084
+        ]
+    ],
+    [
+        "Go to La Bombe",
+        "(22:00, 23:32)",
+        [
+            "",
+            700062180
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(23:44, 23:59)",
+        [
+            "The Bombardier",
+            700048748
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - East 55th Street & 2nd Avenue",
+            700008057
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:54)",
+        [
+            "",
+            700025746
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 14:39)",
+        [
+            "",
+            700021867
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:56, 15:56)",
+        [
+            "East Side Club",
+            700016874
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:03, 20:51)",
+        [
+            "",
+            700021867
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:53, 23:45)",
+        [
+            "The Naked Pig",
+            700034231
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Franklin D. Roosevelt Station Post Office",
+            700006417
+        ]
+    ]
+]

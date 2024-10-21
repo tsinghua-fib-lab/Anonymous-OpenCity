@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kisa",
+            700040691
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:41)",
+        [
+            "El Churro",
+            700017610
+        ]
+    ],
+    [
+        "Go for a jog or a leisurely walk in the park.",
+        "(11:13, 12:39)",
+        [
+            "Yokoya",
+            700011352
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:18, 18:31)",
+        [
+            "ViVi Bubble Tea",
+            700009268
+        ]
+    ],
+    [
+        "Explore local art galleries or visit a museum.",
+        "(15:41, 17:39)",
+        [
+            "NYC Falafel Co",
+            700014055
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 23:59)",
+        [
+            "Fossetta",
+            700009040
+        ]
+    ],
+    [
+        "Stay at Fossetta.",
+        "(23:25, 23:59)",
+        [
+            "Fossetta",
+            700009040
+        ]
+    ]
+]

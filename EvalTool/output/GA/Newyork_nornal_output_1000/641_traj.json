@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001297
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 11:40)",
+        [
+            "Citi Bike - West 25th Street & 6th Avenue",
+            700008211
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 13:45)",
+        [
+            "MedRite Urgent Care",
+            700039401
+        ]
+    ],
+    [
+        "Watch a Sports Game",
+        "(18:38, 19:59)",
+        [
+            "MedRite Urgent Care",
+            700039401
+        ]
+    ],
+    [
+        "Watch a Sports Game",
+        "(20:28, 21:54)",
+        [
+            "MedRite Urgent Care",
+            700039401
+        ]
+    ],
+    [
+        "Watch a Sports Game",
+        "(22:04, 23:44)",
+        [
+            "",
+            700001297
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "J. J. Kinahan's",
+            700006093
+        ]
+    ]
+]

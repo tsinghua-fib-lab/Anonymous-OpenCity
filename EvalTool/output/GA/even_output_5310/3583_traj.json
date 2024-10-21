@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Manhattan Kayak Company",
+            700007596
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:30)",
+        [
+            "",
+            700009797
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:19, 17:17)",
+        [
+            "",
+            700033475
+        ]
+    ],
+    [
+        "Family or Friend Time",
+        "(16:18, 17:46)",
+        [
+            "Manhattan Kayak Company",
+            700007596
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:55, 23:20)",
+        [
+            "Manhattan Kayak Company",
+            700007596
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:51, 23:59)",
+        [
+            "",
+            700033475
+        ]
+    ]
+]

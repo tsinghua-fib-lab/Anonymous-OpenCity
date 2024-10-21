@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700015041
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:46)",
+        [
+            "Pharmacie du Carrefour",
+            700018321
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:49, 13:57)",
+        [
+            "",
+            700018276
+        ]
+    ],
+    [
+        "Afternoon Leisure",
+        "(14:21, 16:55)",
+        [
+            "Pharmacie du Carrefour",
+            700018321
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(17:40, 18:52)",
+        [
+            "Pharmacie du Carrefour",
+            700018321
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:48, 23:23)",
+        [
+            "",
+            700026073
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:43, 23:59)",
+        [
+            "",
+            700005692
+        ]
+    ],
+    [
+        "Go to BRED.",
+        "(23:48, 23:59)",
+        [
+            "Chirurgien-dentiste",
+            700026732
+        ]
+    ]
+]

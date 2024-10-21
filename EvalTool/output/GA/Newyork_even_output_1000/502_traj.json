@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Masseria Caffé & Bakery",
+            700006400
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:45)",
+        [
+            "Allie II parking",
+            700008310
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(13:36, 15:12)",
+        [
+            "Emmy Squared",
+            700008309
+        ]
+    ],
+    [
+        "Relaxation/TV/Reading",
+        "(15:44, 17:22)",
+        [
+            "Emmy Squared",
+            700008309
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:31, 18:57)",
+        [
+            "",
+            700018100
+        ]
+    ],
+    [
+        "Evening Wind-down",
+        "(19:40, 20:51)",
+        [
+            "Masseria Caffé & Bakery",
+            700006400
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:30, 23:59)",
+        [
+            "Allie II parking",
+            700008310
+        ]
+    ]
+]

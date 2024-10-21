@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Public School M188 The Island School",
+            700000020
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:20)",
+        [
+            "Erin's Pharmacy",
+            700005416
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 16:36)",
+        [
+            "",
+            700002786
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(13:38, 15:00)",
+        [
+            "",
+            700002391
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:22, 16:42)",
+        [
+            "",
+            700002730
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:06, 20:54)",
+        [
+            "Citi Bike - E 2 St & Avenue C",
+            700008032
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(21:33, 23:00)",
+        [
+            "",
+            700002266
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:28, 23:59)",
+        [
+            "",
+            700002391
+        ]
+    ]
+]

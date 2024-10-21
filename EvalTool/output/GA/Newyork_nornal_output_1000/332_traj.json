@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700019406
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:57)",
+        [
+            "McDonald's",
+            700012417
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:28, 15:49)",
+        [
+            "Dunkin'",
+            700018397
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(18:21, 19:44)",
+        [
+            "Lamar's Bagel Express",
+            700038180
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(20:29, 21:54)",
+        [
+            "",
+            700038559
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:41, 23:59)",
+        [
+            "",
+            700038571
+        ]
+    ]
+]

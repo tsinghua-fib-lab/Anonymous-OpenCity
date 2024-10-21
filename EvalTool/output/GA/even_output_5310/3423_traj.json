@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Iglesia de Cristo",
+            700004736
+        ]
+    ],
+    [
+        "Wake Up and Leisurely Breakfast",
+        "(10:00, 12:08)",
+        [
+            "Il Gusto Pizza",
+            700023843
+        ]
+    ],
+    [
+        "Wake Up and Leisurely Breakfast",
+        "(12:32, 14:25)",
+        [
+            "The Black Ant",
+            700004737
+        ]
+    ],
+    [
+        "At current location until dinner preparation",
+        "(15:01, 15:10)",
+        [
+            "The Boiler Room",
+            700011743
+        ]
+    ],
+    [
+        "Relax and Watch a Movie",
+        "(17:25, 18:59)",
+        [
+            "The Bean",
+            700004735
+        ]
+    ],
+    [
+        "Relax and Watch a Movie",
+        "(19:27, 21:16)",
+        [
+            "Bronx Brewery",
+            700004739
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(20:54, 22:35)",
+        [
+            "The Boiler Room",
+            700011743
+        ]
+    ],
+    [
+        "Next activity after dinner preparation.",
+        "(23:09, 23:59)",
+        [
+            "The Black Ant",
+            700004737
+        ]
+    ]
+]

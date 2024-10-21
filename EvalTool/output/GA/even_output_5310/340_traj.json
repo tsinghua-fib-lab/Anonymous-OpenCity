@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001293
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:51)",
+        [
+            "",
+            700001293
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:32, 16:56)",
+        [
+            "Mercury Bar & Key Café",
+            700011989
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(20:53, 22:01)",
+        [
+            "Mercury Bar & Key Café",
+            700011989
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(22:27, 23:59)",
+        [
+            "Mercury Bar & Key Café",
+            700011989
+        ]
+    ],
+    [
+        "Continue staying at Mercury Bar & Key Café",
+        "(23:47, 23:59)",
+        [
+            "Mercury Bar & Key Café",
+            700011989
+        ]
+    ]
+]

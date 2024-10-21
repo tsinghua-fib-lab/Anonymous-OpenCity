@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ],
+    [
+        "Prepare and Have Breakfast",
+        "(10:00, 11:31)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:59, 14:06)",
+        [
+            "Taco Bell Cantina",
+            700012758
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 16:32)",
+        [
+            "TD Bank",
+            700011623
+        ]
+    ],
+    [
+        "Relaxation/Watch a Movie",
+        "(15:50, 17:06)",
+        [
+            "TD Bank",
+            700011623
+        ]
+    ],
+    [
+        "Relaxation/Watch a Movie",
+        "(17:08, 18:41)",
+        [
+            "Training Zone",
+            700006195
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:07, 21:20)",
+        [
+            "Psychic Tarot",
+            700029598
+        ]
+    ],
+    [
+        "Relaxation/Watch a Movie",
+        "(23:51, 23:59)",
+        [
+            "Walgreens",
+            700017553
+        ]
+    ]
+]

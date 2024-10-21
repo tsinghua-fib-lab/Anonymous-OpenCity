@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002622
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the nearby park or nature reserve.",
+        "(10:00, 11:03)",
+        [
+            "Blenheim",
+            700007512
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the nearby park or nature reserve.",
+        "(10:58, 12:00)",
+        [
+            "Blenheim",
+            700007512
+        ]
+    ],
+    [
+        "Attend a yoga class or engage in a home workout.",
+        "(12:15, 13:39)",
+        [
+            "Blenheim",
+            700007512
+        ]
+    ],
+    [
+        "Stay at Blenheim for lunch.",
+        "(14:39, 16:11)",
+        [
+            "Arthur & Sons",
+            700005702
+        ]
+    ],
+    [
+        "current place and stay time",
+        "(16:25, 17:50)",
+        [
+            "Tavern on Jane",
+            700004114
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 23:24)",
+        [
+            "",
+            700012031
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 23:59)",
+        [
+            "Village Pizza",
+            700003839
+        ]
+    ],
+    [
+        "current place and stay time",
+        "(22:11, 23:35)",
+        [
+            "Village Pizza",
+            700003839
+        ]
+    ],
+    [
+        "Current place and stay time.",
+        "(23:49, 23:59)",
+        [
+            "Art Bar",
+            700010310
+        ]
+    ]
+]

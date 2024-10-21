@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000967
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:14)",
+        [
+            "Halal Fried Chicken",
+            700001022
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:49, 12:59)",
+        [
+            "Marcela's Taqueria",
+            700001024
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 14:39)",
+        [
+            "Ox & Tiger",
+            700009310
+        ]
+    ],
+    [
+        "Prepare a Dinner",
+        "(18:29, 19:52)",
+        [
+            "Ox & Tiger",
+            700009310
+        ]
+    ],
+    [
+        "Stay at Halal Fried Chicken",
+        "(20:35, 22:25)",
+        [
+            "Ox & Tiger",
+            700009310
+        ]
+    ],
+    [
+        "Stay at Halal Fried Chicken",
+        "(22:39, 23:59)",
+        [
+            "Tower 737 Parking Garage",
+            700013909
+        ]
+    ]
+]

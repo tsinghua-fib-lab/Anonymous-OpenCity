@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bocado",
+            700001871
+        ]
+    ],
+    [
+        "Go for a walk at a local park or engage in some light exercise.",
+        "(09:00, 10:28)",
+        [
+            "SPiN SF",
+            700003163
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:08, 13:24)",
+        [
+            "",
+            700001965
+        ]
+    ],
+    [
+        "Continue enjoying your time at Crunch Fitness.",
+        "(16:02, 17:27)",
+        [
+            "Crunch Fitness",
+            700011573
+        ]
+    ],
+    [
+        "Prepare and enjoy dinner, possibly trying to cook a new dish or sharing a meal with family.",
+        "(17:45, 19:08)",
+        [
+            "Bocado",
+            700001871
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 23:55)",
+        [
+            "",
+            700014171
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:39, 22:45)",
+        [
+            "",
+            700010440
+        ]
+    ]
+]

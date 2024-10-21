@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Asa Sushi",
+            700000679
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:09)",
+        [
+            "Original Buffalo Wings",
+            700002284
+        ]
+    ],
+    [
+        "Read a Book or Listen to Music",
+        "(14:11, 15:51)",
+        [
+            "Original Buffalo Wings",
+            700002284
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:02, 17:48)",
+        [
+            "Hole in the Wall Pizza",
+            700012978
+        ]
+    ],
+    [
+        "Read a Book or Listen to Music",
+        "(21:35, 23:05)",
+        [
+            "Hole in the Wall Pizza",
+            700012978
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(23:45, 23:59)",
+        [
+            "Golden Gate Urgent Care",
+            700013914
+        ]
+    ]
+]

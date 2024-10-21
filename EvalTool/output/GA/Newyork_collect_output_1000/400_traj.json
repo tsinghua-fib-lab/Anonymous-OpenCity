@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:41)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Engage in a physical activity, such as going for a run or hitting the gym.",
+        "(12:13, 13:02)",
+        [
+            "",
+            700022520
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 16:57)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ],
+    [
+        "Stay at 7th Street Burger.",
+        "(16:34, 18:08)",
+        [
+            "",
+            700001612
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill.",
+        "(18:52, 20:07)",
+        [
+            "Suboxone Treatment Clinic",
+            700006209
+        ]
+    ],
+    [
+        "Stay at New York Comedy Club",
+        "(20:40, 21:51)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Next arrangement based on Situation 6",
+        "(22:35, 23:30)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Stay at New York Comedy Club.",
+        "(23:40, 23:59)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ]
+]

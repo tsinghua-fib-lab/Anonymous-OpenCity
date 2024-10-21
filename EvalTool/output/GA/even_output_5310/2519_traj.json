@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Otto's tacos",
+            700010268
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:08)",
+        [
+            "MiDoctor Urgent Care",
+            700024724
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:58, 12:48)",
+        [
+            "IPizzaNY",
+            700014822
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:52, 13:18)",
+        [
+            "MiDoctor Urgent Care",
+            700024724
+        ]
+    ],
+    [
+        "Leisure and Entertainment",
+        "(14:15, 15:10)",
+        [
+            "",
+            700002749
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:33, 20:46)",
+        [
+            "Otto's tacos",
+            700010268
+        ]
+    ],
+    [
+        "Stay at 'Otto's tacos' for a late night snack.",
+        "(22:25, 23:44)",
+        [
+            "",
+            700006376
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Taxi Stand at W San Francisco (along Howard St)",
+            700009894
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:01)",
+        [
+            "",
+            700013337
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:57, 15:08)",
+        [
+            "Taxi Stand at W San Francisco (along Howard St)",
+            700009894
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:28, 17:00)",
+        [
+            "Fogo de Chão",
+            700009166
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(17:57, 19:20)",
+        [
+            "Fogo de Chão",
+            700009166
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 22:11)",
+        [
+            "",
+            700010995
+        ]
+    ]
+]

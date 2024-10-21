@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Il Posto Accanto",
+            700015886
+        ]
+    ],
+    [
+        "Engage in a recreational activity, such as going for a jog or a bike ride in a nearby park.",
+        "(10:00, 12:06)",
+        [
+            "Il Posto Accanto",
+            700015886
+        ]
+    ],
+    [
+        "Next activity based on the plan.",
+        "(12:33, 14:31)",
+        [
+            "Cafe Cortadito",
+            700008392
+        ]
+    ],
+    [
+        "Attend a leisurely activity, like visiting a museum, art gallery, or catching a matinee movie.",
+        "(14:55, 16:52)",
+        [
+            "Cafe Cortadito",
+            700008392
+        ]
+    ],
+    [
+        "Attend a leisurely activity",
+        "(17:08, 19:10)",
+        [
+            "Cafe Cortadito",
+            700008392
+        ]
+    ],
+    [
+        "Attend a leisurely activity.",
+        "(19:14, 21:05)",
+        [
+            "Cafe Cortadito",
+            700008392
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:50, 23:59)",
+        [
+            "Gaia Italian Cafè",
+            700019567
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bank of Baroda",
+            700003431
+        ]
+    ],
+    [
+        "Next activity: Morning Exercise",
+        "(09:00, 10:09)",
+        [
+            "Bank of Baroda",
+            700003431
+        ]
+    ],
+    [
+        "Next activity: Grocery Shopping",
+        "(10:08, 11:36)",
+        [
+            "Bank of Baroda",
+            700003431
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:33, 12:53)",
+        [
+            "Bank of Baroda",
+            700003431
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:37, 16:24)",
+        [
+            "TD Bank",
+            700019910
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:34, 20:55)",
+        [
+            "Capital One",
+            700003438
+        ]
+    ],
+    [
+        "Next activity: Social Time",
+        "(17:41, 19:05)",
+        [
+            "The Cutting Room",
+            700015883
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 23:59)",
+        [
+            "",
+            700021671
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "Chipotle",
+            700003437
+        ]
+    ]
+]

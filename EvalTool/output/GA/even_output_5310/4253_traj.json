@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "drip coffee makers",
+            700039251
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:46)",
+        [
+            "",
+            700031433
+        ]
+    ],
+    [
+        "You are currently enjoying brunch with friends",
+        "(12:17, 13:47)",
+        [
+            "",
+            700031434
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:17, 16:12)",
+        [
+            "",
+            700031435
+        ]
+    ],
+    [
+        "Prepare a nice dinner at home",
+        "(18:32, 20:04)",
+        [
+            "drip coffee makers",
+            700039251
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:00, 23:59)",
+        [
+            "",
+            700031440
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(22:49, 23:59)",
+        [
+            "drip coffee makers",
+            700039251
+        ]
+    ]
+]

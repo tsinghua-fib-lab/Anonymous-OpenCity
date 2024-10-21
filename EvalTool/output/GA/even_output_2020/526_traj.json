@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bistro Central Parc",
+            700003566
+        ]
+    ],
+    [
+        "Have a leisurely breakfast",
+        "(09:00, 09:55)",
+        [
+            "Bistro Central Parc",
+            700003566
+        ]
+    ],
+    [
+        "Stay at Bistro Central Parc",
+        "(10:37, 12:03)",
+        [
+            "",
+            700007803
+        ]
+    ],
+    [
+        "Have lunch with friends or family",
+        "(12:45, 14:06)",
+        [
+            "Bistro Central Parc",
+            700003566
+        ]
+    ],
+    [
+        "Have lunch with friends or family",
+        "(14:31, 15:27)",
+        [
+            "Bistro Central Parc",
+            700003566
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:22, 19:01)",
+        [
+            "Papalote",
+            700001811
+        ]
+    ],
+    [
+        "Wind down with some light reading or relaxation.",
+        "(19:24, 21:04)",
+        [
+            "Papalote",
+            700001811
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 23:07)",
+        [
+            "",
+            700001447
+        ]
+    ]
+]

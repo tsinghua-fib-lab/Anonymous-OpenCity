@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010696
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:37)",
+        [
+            "",
+            700007520
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(16:54, 18:02)",
+        [
+            "San Francisco SPCA Pet Adoption Center - Mission Campus",
+            700003778
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 22:43)",
+        [
+            "",
+            700000051
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(22:20, 23:57)",
+        [
+            "San Francisco SPCA Pet Adoption Center - Mission Campus",
+            700003778
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "Animal Care & Control",
+            700003777
+        ]
+    ]
+]

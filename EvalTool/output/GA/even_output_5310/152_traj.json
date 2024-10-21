@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "SigSpace",
+            700040100
+        ]
+    ],
+    [
+        "Brunch",
+        "(09:00, 09:58)",
+        [
+            "SigSpace",
+            700040100
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:44, 15:40)",
+        [
+            "The UPS Store",
+            700028203
+        ]
+    ],
+    [
+        "Sports",
+        "(16:17, 17:38)",
+        [
+            "Happy Family",
+            700029118
+        ]
+    ],
+    [
+        "Stay at Happy Family",
+        "(18:34, 20:24)",
+        [
+            "Citi Bike - West 43rd Street & 10th Avenue",
+            700008222
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(20:40, 21:56)",
+        [
+            "",
+            700011436
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(22:51, 23:59)",
+        [
+            "Bloom 45",
+            700023102
+        ]
+    ]
+]

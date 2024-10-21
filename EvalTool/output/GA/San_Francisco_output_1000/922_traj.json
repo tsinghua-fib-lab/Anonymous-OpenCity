@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of America",
+            700003207
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:01)",
+        [
+            "Bistro SF Grill",
+            700001764
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:18, 18:06)",
+        [
+            "Barney's Gourmet Hamburgers",
+            700001752
+        ]
+    ],
+    [
+        "Shopping Trip",
+        "(15:49, 17:22)",
+        [
+            "The UPS Store",
+            700001763
+        ]
+    ],
+    [
+        "Shopping Trip",
+        "(18:01, 19:36)",
+        [
+            "Barney's Gourmet Hamburgers",
+            700001752
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(20:13, 21:52)",
+        [
+            "Bank of America",
+            700003207
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(22:35, 23:59)",
+        [
+            "Bank of America",
+            700003207
+        ]
+    ]
+]

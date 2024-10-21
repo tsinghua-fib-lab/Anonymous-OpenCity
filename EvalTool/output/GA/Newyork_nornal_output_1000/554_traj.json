@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "McDonald's",
+            700007105
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:02)",
+        [
+            "Dos Toros Taqueria",
+            700013571
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:56, 13:11)",
+        [
+            "Dos Toros Taqueria",
+            700013571
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:15, 14:47)",
+        [
+            "",
+            700001776
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:22, 16:51)",
+        [
+            "Dos Toros Taqueria",
+            700013571
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:41, 19:11)",
+        [
+            "Dos Toros Taqueria",
+            700013571
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 21:08)",
+        [
+            "P.J. Moran's",
+            700007358
+        ]
+    ]
+]

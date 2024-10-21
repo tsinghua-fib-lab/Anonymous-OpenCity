@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Juice Generation",
+            700009853
+        ]
+    ],
+    [
+        "Read or Write",
+        "(10:00, 11:33)",
+        [
+            "",
+            700034907
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:24, 12:26)",
+        [
+            "Fields Good Chicken",
+            700013671
+        ]
+    ],
+    [
+        "Grocery Shopping or Errands",
+        "(17:00, 18:37)",
+        [
+            "Peaches",
+            700020686
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 23:20)",
+        [
+            "Papaya Dog",
+            700009745
+        ]
+    ]
+]

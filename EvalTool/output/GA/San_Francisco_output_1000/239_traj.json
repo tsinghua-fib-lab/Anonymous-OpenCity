@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008279
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:34)",
+        [
+            "One Montgomery Terrace",
+            700004698
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:14, 14:09)",
+        [
+            "",
+            700008171
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:16, 21:28)",
+        [
+            "",
+            700000506
+        ]
+    ],
+    [
+        "Stay at Grant Place.",
+        "(19:11, 20:53)",
+        [
+            "McDonald's",
+            700002342
+        ]
+    ],
+    [
+        "Next, stay at SoulCycle.",
+        "(21:57, 23:15)",
+        [
+            "Bank of America",
+            700000143
+        ]
+    ],
+    [
+        "Next, go to the Orpheum Theatre.",
+        "(23:46, 23:59)",
+        [
+            "Bank of America",
+            700000143
+        ]
+    ]
+]

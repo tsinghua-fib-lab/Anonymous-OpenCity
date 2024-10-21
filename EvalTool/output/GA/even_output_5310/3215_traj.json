@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Setsugekka",
+            700017094
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:24)",
+        [
+            "Senya",
+            700011351
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:43, 14:08)",
+        [
+            "Senya",
+            700011351
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:45, 17:45)",
+        [
+            "Huertas",
+            700014141
+        ]
+    ],
+    [
+        "Sports/Leisure Activity",
+        "(16:44, 17:55)",
+        [
+            "Huertas",
+            700014141
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:07, 23:04)",
+        [
+            "Raku East Village",
+            700015960
+        ]
+    ],
+    [
+        "Sports/Leisure Activity",
+        "(23:19, 23:59)",
+        [
+            "Raku East Village",
+            700015960
+        ]
+    ]
+]

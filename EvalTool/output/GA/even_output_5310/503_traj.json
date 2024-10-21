@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700007284
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:22)",
+        [
+            "Matts Grill",
+            700007283
+        ]
+    ],
+    [
+        "Late Afternoon Relaxation",
+        "(12:33, 14:05)",
+        [
+            "Matts Grill",
+            700007283
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:33, 18:37)",
+        [
+            "Luigi's Pizza",
+            700007282
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:33, 23:26)",
+        [
+            "",
+            700018227
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:39, 23:59)",
+        [
+            "Vizio",
+            700007286
+        ]
+    ]
+]

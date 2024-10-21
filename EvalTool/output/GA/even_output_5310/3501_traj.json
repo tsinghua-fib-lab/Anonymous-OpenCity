@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005442
+        ]
+    ],
+    [
+        "Walk in the park",
+        "(10:00, 11:10)",
+        [
+            "Sidney Hillman Playground",
+            700000415
+        ]
+    ],
+    [
+        "Next, you will have lunch.",
+        "(11:29, 12:57)",
+        [
+            "Wa Lung Kitchen",
+            700003815
+        ]
+    ],
+    [
+        "Lunch at Wa Lung Kitchen",
+        "(13:32, 15:06)",
+        [
+            "Wa Lung Kitchen",
+            700003815
+        ]
+    ],
+    [
+        "Stay at Wa Lung Kitchen.",
+        "(15:19, 16:54)",
+        [
+            "",
+            700002302
+        ]
+    ],
+    [
+        "Stay at Wing Hing for coffee with friends.",
+        "(17:56, 18:51)",
+        [
+            "Wing Hing",
+            700003819
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 23:59)",
+        [
+            "CVS Pharmacy",
+            700003821
+        ]
+    ]
+]

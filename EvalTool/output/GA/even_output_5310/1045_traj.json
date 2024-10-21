@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "At nine Restaurant & Bar",
+            700008666
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:46)",
+        [
+            "",
+            700002484
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:12, 16:40)",
+        [
+            "Shorty’s",
+            700015203
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:32, 18:05)",
+        [
+            "",
+            700014809
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 16:47)",
+        [
+            "",
+            700001111
+        ]
+    ],
+    [
+        "Go out for lunch.",
+        "(15:59, 18:38)",
+        [
+            "Citibank",
+            700003848
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 21:14)",
+        [
+            "Starbucks",
+            700006098
+        ]
+    ],
+    [
+        "Go out for lunch.",
+        "(20:33, 22:04)",
+        [
+            "Chirping Chicken",
+            700014812
+        ]
+    ],
+    [
+        "Stay at Starbucks.",
+        "(22:08, 23:59)",
+        [
+            "Starbucks",
+            700006098
+        ]
+    ]
+]

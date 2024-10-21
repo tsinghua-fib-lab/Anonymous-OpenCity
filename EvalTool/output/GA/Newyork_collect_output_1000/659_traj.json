@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:45)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(14:07, 15:13)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Creative Time",
+        "(15:56, 17:34)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Creative Time",
+        "(17:44, 19:53)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(20:36, 23:06)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Next, stay at Dog & Bone.",
+        "(23:47, 23:59)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ]
+]

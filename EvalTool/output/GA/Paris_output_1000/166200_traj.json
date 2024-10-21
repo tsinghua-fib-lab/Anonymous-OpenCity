@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Joe & The Juice",
+            700071603
+        ]
+    ],
+    [
+        "next activity after breakfast",
+        "(09:00, 10:23)",
+        [
+            "Joe & The Juice",
+            700071603
+        ]
+    ],
+    [
+        "Morning exercise or walk",
+        "(10:46, 12:14)",
+        [
+            "Joe & The Juice",
+            700071603
+        ]
+    ],
+    [
+        "Afternoon leisure activity (sports or hobbies)",
+        "(12:37, 15:12)",
+        [
+            "Joe & The Juice",
+            700071603
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:24, 18:20)",
+        [
+            "Café de l'Opéra",
+            700010228
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:40, 23:16)",
+        [
+            "Pharmacie Carré Opéra",
+            700010239
+        ]
+    ],
+    [
+        "Stay at Parking Zenpark Parmentier.",
+        "(22:36, 23:45)",
+        [
+            "",
+            700055249
+        ]
+    ]
+]

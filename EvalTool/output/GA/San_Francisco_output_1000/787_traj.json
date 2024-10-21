@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001237
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:06)",
+        [
+            "",
+            700001237
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:58, 18:02)",
+        [
+            "",
+            700000494
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:19, 16:13)",
+        [
+            "Berber",
+            700002778
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:02, 19:12)",
+        [
+            "Berber",
+            700002778
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:29, 19:58)",
+        [
+            "House of Sushi Teriyaki & Tempura",
+            700006483
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:51, 22:06)",
+        [
+            "",
+            700000647
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:01, 23:59)",
+        [
+            "",
+            700002269
+        ]
+    ]
+]

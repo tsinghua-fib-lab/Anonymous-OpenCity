@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dragon Well",
+            700010643
+        ]
+    ],
+    [
+        "Morning workout",
+        "(09:00, 10:01)",
+        [
+            "Marina Theatre",
+            700002046
+        ]
+    ],
+    [
+        "Afternoon leisure activity",
+        "(10:36, 13:36)",
+        [
+            "Marina Theatre",
+            700002046
+        ]
+    ],
+    [
+        "Afternoon leisure activity",
+        "(13:11, 15:38)",
+        [
+            "Marina Theatre",
+            700002046
+        ]
+    ],
+    [
+        "Afternoon leisure activity",
+        "(15:33, 17:24)",
+        [
+            "First National Bank of Northern California",
+            700004891
+        ]
+    ],
+    [
+        "Dinner and evening catch-up",
+        "(18:41, 20:47)",
+        [
+            "Ace Wasabi's",
+            700002306
+        ]
+    ],
+    [
+        "Dinner and evening catch-up",
+        "(20:10, 21:46)",
+        [
+            "Saiwalks",
+            700003074
+        ]
+    ],
+    [
+        "Relax at home",
+        "(21:56, 23:04)",
+        [
+            "Bay Watch",
+            700003070
+        ]
+    ],
+    [
+        "Afternoon leisure activity",
+        "(23:35, 23:59)",
+        [
+            "Nectar Wine Lounge",
+            700003073
+        ]
+    ]
+]

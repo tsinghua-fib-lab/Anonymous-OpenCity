@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Presidio Pizza Company",
+            700007980
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 12:10)",
+        [
+            "The City Taqueria",
+            700007891
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:10, 14:36)",
+        [
+            "Tataki",
+            700007726
+        ]
+    ],
+    [
+        "Participate in a fun sports activity, such as tennis or a group fitness class.",
+        "(17:58, 19:35)",
+        [
+            "b on the go",
+            700010094
+        ]
+    ],
+    [
+        "Wind down the day by watching a movie or reading a book.",
+        "(20:12, 22:28)",
+        [
+            "Presidio Pizza Company",
+            700007980
+        ]
+    ],
+    [
+        "Stay at Presidio Pizza Company",
+        "(23:39, 23:59)",
+        [
+            "Presidio Pizza Company",
+            700007980
+        ]
+    ]
+]

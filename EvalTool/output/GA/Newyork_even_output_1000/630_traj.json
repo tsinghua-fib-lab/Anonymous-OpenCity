@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "World Buddhist Center",
+            700038290
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:01)",
+        [
+            "",
+            700018399
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 19:50)",
+        [
+            "",
+            700018394
+        ]
+    ],
+    [
+        "Prepare Dinner and Cook",
+        "(18:28, 20:08)",
+        [
+            "World Buddhist Center",
+            700038290
+        ]
+    ],
+    [
+        "Prepare Dinner and Cook",
+        "(20:38, 22:04)",
+        [
+            "World Buddhist Center",
+            700038290
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:05, 23:59)",
+        [
+            "Wu's Wonton King",
+            700014786
+        ]
+    ],
+    [
+        "Sleep or relax at Wu's Wonton King.",
+        "(23:39, 23:59)",
+        [
+            "",
+            700018396
+        ]
+    ]
+]

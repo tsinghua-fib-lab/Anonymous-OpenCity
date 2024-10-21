@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700025306
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:08)",
+        [
+            "C&B",
+            700011422
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 16:10)",
+        [
+            "Citi Bike",
+            700008060
+        ]
+    ],
+    [
+        "Personal Development",
+        "(13:03, 14:54)",
+        [
+            "Citi Bike",
+            700008060
+        ]
+    ],
+    [
+        "Personal Development",
+        "(15:56, 17:16)",
+        [
+            "Citi Bike",
+            700008060
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:27, 20:31)",
+        [
+            "St. Brigid School",
+            700008660
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:10, 23:59)",
+        [
+            "Vazacs Horseshoe Bar",
+            700004429
+        ]
+    ]
+]

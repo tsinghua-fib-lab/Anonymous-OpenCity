@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Neighbor's Corner",
+            700005955
+        ]
+    ],
+    [
+        "Outdoor Activity Followed by Lunch with Friends",
+        "(10:00, 11:30)",
+        [
+            "Seward Street Slides",
+            700001634
+        ]
+    ],
+    [
+        "Outdoor Activity Followed by Lunch with Friends",
+        "(11:43, 13:06)",
+        [
+            "Seward Street Slides",
+            700001634
+        ]
+    ],
+    [
+        "Outdoor Activity Followed by Lunch with Friends",
+        "(14:08, 16:11)",
+        [
+            "Seward Street Slides",
+            700001634
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(16:22, 17:44)",
+        [
+            "Seward Street Slides",
+            700001634
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(18:53, 20:28)",
+        [
+            "Seward Street Slides",
+            700001634
+        ]
+    ],
+    [
+        "Stay at Seward Street Slides.",
+        "(20:26, 21:54)",
+        [
+            "Seward Street Slides",
+            700001634
+        ]
+    ],
+    [
+        "Stay at Woodhouse Fish Co.",
+        "(22:58, 23:59)",
+        [
+            "",
+            700008738
+        ]
+    ],
+    [
+        "Stay at Woodhouse Fish Co.",
+        "(23:56, 23:59)",
+        [
+            "Pasta Panino",
+            700013702
+        ]
+    ]
+]

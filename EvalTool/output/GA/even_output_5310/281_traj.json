@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Altesi",
+            700019746
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:22)",
+        [
+            "Daniel",
+            700006547
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:56, 13:23)",
+        [
+            "Citi Bike - East 66th Street & Madison Avenue",
+            700010152
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:54, 15:53)",
+        [
+            "Peter G Peterson Center for International Studies",
+            700000293
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 23:08)",
+        [
+            "Citi Bike - East 68th Street & Madison Avenue",
+            700021682
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(22:08, 23:44)",
+        [
+            "Citi Bike - East 68th Street & Madison Avenue",
+            700021682
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:28, 23:59)",
+        [
+            "",
+            700018006
+        ]
+    ]
+]

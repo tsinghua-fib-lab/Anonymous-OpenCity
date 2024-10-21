@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001652
+        ]
+    ],
+    [
+        "Wake Up and Relax",
+        "(09:00, 10:04)",
+        [
+            "",
+            700016565
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:36, 11:52)",
+        [
+            "",
+            700001652
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:05, 13:57)",
+        [
+            "",
+            700001652
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:54, 16:04)",
+        [
+            "",
+            700001652
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:19, 21:58)",
+        [
+            "",
+            700016565
+        ]
+    ],
+    [
+        "Go to the nearby restaurant or cafe and spend time relaxing.",
+        "(20:28, 22:18)",
+        [
+            "Harvest Chinese & Thai Cuisine",
+            700027031
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:36, 23:59)",
+        [
+            "Plug Uglies",
+            700024871
+        ]
+    ]
+]

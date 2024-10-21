@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "Café Montorgueil",
+            700034815
+        ]
+    ],
+    [
+        "9:00 AM - Read or Study",
+        "(08:00, 09:07)",
+        [
+            "Café du Centre",
+            700035520
+        ]
+    ],
+    [
+        "Read or Study",
+        "(09:37, 10:58)",
+        [
+            "Café Montorgueil",
+            700034815
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 14:43)",
+        [
+            "Au Rocher de Cancale",
+            700008828
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:55, 17:26)",
+        [
+            "Baguette",
+            700002648
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 21:48)",
+        [
+            "O' Scià",
+            700000076
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "La daronne",
+            700070422
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mangia",
+            700007514
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:55)",
+        [
+            "Mangia",
+            700007514
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 14:11)",
+        [
+            "Citi Bike - West 56th Street & 6th Avenue",
+            700008236
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(16:09, 17:48)",
+        [
+            "Citi Bike - West 56th Street & 6th Avenue",
+            700008236
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(17:38, 18:35)",
+        [
+            "Mangia",
+            700007514
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:31, 23:12)",
+        [
+            "",
+            700011845
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "Whiskey Trader",
+            700007354
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Cafe International",
+            700000956
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:30)",
+        [
+            "Cafe International",
+            700000956
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:33, 13:03)",
+        [
+            "Cafe International",
+            700000956
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(13:17, 15:03)",
+        [
+            "Cafe International",
+            700000956
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(15:39, 17:05)",
+        [
+            "Cafe International",
+            700000956
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:38, 19:56)",
+        [
+            "",
+            700005491
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:55, 22:51)",
+        [
+            "Cafe International",
+            700000956
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(23:53, 23:59)",
+        [
+            "Cafe International",
+            700000956
+        ]
+    ]
+]

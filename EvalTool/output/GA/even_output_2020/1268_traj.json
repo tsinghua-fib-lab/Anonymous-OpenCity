@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002883
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:04)",
+        [
+            "NaYa Dessert Cafe",
+            700008949
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:19, 17:12)",
+        [
+            "Anina",
+            700009468
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:37, 20:29)",
+        [
+            "Hazie's",
+            700001489
+        ]
+    ],
+    [
+        "Go to Zenpo Sushi",
+        "(20:33, 21:56)",
+        [
+            "Anina",
+            700009468
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(22:33, 23:53)",
+        [
+            "Anina",
+            700009468
+        ]
+    ]
+]

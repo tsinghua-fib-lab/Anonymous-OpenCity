@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Westfield Market Place",
+            700027343
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:08)",
+        [
+            "Citi Bike - West 47th Street & 10th Avenue",
+            700008227
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:58, 14:04)",
+        [
+            "Jolly Goat Coffee",
+            700014457
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:52, 13:13)",
+        [
+            "Westfield Market Place",
+            700027343
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:15, 15:37)",
+        [
+            "Food King",
+            700027345
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:33, 21:00)",
+        [
+            "The Waylon",
+            700009727
+        ]
+    ],
+    [
+        "Stay at 'Westfield Market Place' to unwind.",
+        "(22:25, 23:59)",
+        [
+            "Westfield Market Place",
+            700027343
+        ]
+    ]
+]

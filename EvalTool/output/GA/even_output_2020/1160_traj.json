@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003633
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:13)",
+        [
+            "",
+            700005641
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:42, 17:10)",
+        [
+            "",
+            700005702
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(18:05, 19:53)",
+        [
+            "Central Gardens",
+            700002143
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(20:26, 22:00)",
+        [
+            "",
+            700003633
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "San Francisco Go Club Dojo",
+            700009577
+        ]
+    ]
+]

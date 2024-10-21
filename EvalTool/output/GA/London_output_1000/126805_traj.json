@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 12:07)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:29, 13:51)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:53, 18:06)",
+        [
+            "",
+            700011091
+        ]
+    ],
+    [
+        "Evening Wrap-Up with a Book or Podcast",
+        "(19:58, 21:07)",
+        [
+            "",
+            700054683
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:05, 23:59)",
+        [
+            "",
+            700054511
+        ]
+    ],
+    [
+        "Evening Wrap-Up with a Book or Podcast",
+        "(22:48, 23:59)",
+        [
+            "",
+            700064343
+        ]
+    ]
+]

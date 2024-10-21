@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Pitt St & Stanton St",
+            700008166
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:27)",
+        [
+            "Citi Bike - Rivington Street & Ridge Street",
+            700008171
+        ]
+    ],
+    [
+        "Leisure Activity/Outdoor Time",
+        "(15:08, 16:38)",
+        [
+            "Citi Bike - Rivington Street & Ridge Street",
+            700008171
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:39, 17:50)",
+        [
+            "Citi Bike - Rivington Street & Ridge Street",
+            700008171
+        ]
+    ],
+    [
+        "Cook Dinner",
+        "(18:29, 19:32)",
+        [
+            "All My Children Daycare & Nursery",
+            700022425
+        ]
+    ],
+    [
+        "Wind Down and Read/Reflection Time",
+        "(20:09, 21:41)",
+        [
+            "Citi Bike - Pitt St & Stanton St",
+            700008166
+        ]
+    ],
+    [
+        "Wind Down and Read/Reflection Time",
+        "(21:54, 23:05)",
+        [
+            "Church of Our Lady of Sorrows",
+            700022995
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(23:46, 23:59)",
+        [
+            "Citi Bike - Pitt St & Stanton St",
+            700008166
+        ]
+    ]
+]

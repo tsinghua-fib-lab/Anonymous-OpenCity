@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700022985
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:10)",
+        [
+            "",
+            700025864
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:46, 12:05)",
+        [
+            "Paddington Grind",
+            700030988
+        ]
+    ],
+    [
+        "Exercise",
+        "(12:35, 13:55)",
+        [
+            "Paddington Grind",
+            700030988
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:35, 16:08)",
+        [
+            "Paddington Grind",
+            700030988
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 21:26)",
+        [
+            "Westpac",
+            700009119
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(19:24, 21:29)",
+        [
+            "Paddington Grind",
+            700030988
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(21:50, 23:18)",
+        [
+            "Paddington Grind",
+            700030988
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(23:13, 23:59)",
+        [
+            "Paddington Grind",
+            700030988
+        ]
+    ]
+]

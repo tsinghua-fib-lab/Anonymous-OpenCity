@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018315
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:22)",
+        [
+            "Casabianca",
+            700018343
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(13:53, 14:56)",
+        [
+            "Casabianca",
+            700018343
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(15:19, 16:52)",
+        [
+            "Casabianca",
+            700018343
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(16:32, 18:00)",
+        [
+            "Independence High School",
+            700006395
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 20:38)",
+        [
+            "Link NYC",
+            700013055
+        ]
+    ],
+    [
+        "Stay at Casabianca",
+        "(20:27, 21:56)",
+        [
+            "Link NYC",
+            700013055
+        ]
+    ],
+    [
+        "Stay at Casabianca",
+        "(22:17, 23:47)",
+        [
+            "Casabianca",
+            700018343
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "Subway",
+            700006396
+        ]
+    ]
+]

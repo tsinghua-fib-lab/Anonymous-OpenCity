@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Marcela's Taqueria",
+            700001024
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 15:03)",
+        [
+            "Bourbon and Branch",
+            700000851
+        ]
+    ],
+    [
+        "Reading",
+        "(15:13, 16:53)",
+        [
+            "Bourbon and Branch",
+            700000851
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:50, 23:24)",
+        [
+            "EF",
+            700013941
+        ]
+    ],
+    [
+        "Stay at Bourbon and Branch.",
+        "(23:52, 23:59)",
+        [
+            "Bourbon and Branch",
+            700000851
+        ]
+    ]
+]

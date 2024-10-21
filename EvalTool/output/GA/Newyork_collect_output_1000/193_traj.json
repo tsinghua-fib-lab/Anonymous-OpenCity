@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Leisure Activity or Exercise",
+        "(10:00, 11:37)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Go to Mughlai",
+        "(11:27, 13:25)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 18:01)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:26, 19:56)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 23:59)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "Visit AWOL Bar and Grill",
+        "(23:46, 23:59)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:17)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Sports or Group Activity",
+        "(14:09, 15:31)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:55, 18:42)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Relaxation & Wind Down",
+        "(19:15, 20:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Stay at New York Comedy Club",
+        "(21:40, 23:06)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "Stay at New York Comedy Club",
+        "(23:53, 23:59)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ]
+]

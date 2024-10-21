@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003605
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:42)",
+        [
+            "St Vartan Play Group Preschool",
+            700003609
+        ]
+    ],
+    [
+        "Attend a yoga or fitness class",
+        "(15:02, 16:35)",
+        [
+            "",
+            700024694
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:59, 22:06)",
+        [
+            "",
+            700018202
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a TV series",
+        "(20:15, 22:20)",
+        [
+            "",
+            700003605
+        ]
+    ],
+    [
+        "Stay at your current place",
+        "(22:07, 23:17)",
+        [
+            "St Vartan Play Group Preschool",
+            700003609
+        ]
+    ],
+    [
+        "Wind down and watch a movie or catch up on a TV series",
+        "(23:41, 23:59)",
+        [
+            "",
+            700003605
+        ]
+    ]
+]

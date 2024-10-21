@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002899
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:02)",
+        [
+            "First Union Baptist church",
+            700005094
+        ]
+    ],
+    [
+        "Social Time",
+        "(13:02, 13:53)",
+        [
+            "First Union Baptist church",
+            700005094
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 19:21)",
+        [
+            "African American Art & Culture Complex",
+            700006135
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(19:42, 21:09)",
+        [
+            "",
+            700002899
+        ]
+    ],
+    [
+        "Social Time",
+        "(21:18, 23:24)",
+        [
+            "First Union Baptist church",
+            700005094
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "",
+            700002899
+        ]
+    ]
+]

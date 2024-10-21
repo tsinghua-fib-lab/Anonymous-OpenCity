@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Kopitiam Malaysian Coffee",
+            700016585
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:06)",
+        [
+            "Shun Chang Chicken Duck Super",
+            700016813
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:46, 15:16)",
+        [
+            "",
+            700023660
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(15:31, 17:06)",
+        [
+            "Shun Chang Chicken Duck Super",
+            700016813
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 22:34)",
+        [
+            "Citi Bike - Canal Street & Seward Park",
+            700004428
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:53, 23:59)",
+        [
+            "",
+            700023696
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:22, 23:59)",
+        [
+            "",
+            700023655
+        ]
+    ]
+]

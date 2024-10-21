@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002252
+        ]
+    ],
+    [
+        "Wake Up & Breakfast",
+        "(09:00, 10:02)",
+        [
+            "Malt & Mold",
+            700006207
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:12, 13:49)",
+        [
+            "East 20th Street",
+            700003576
+        ]
+    ],
+    [
+        "Movie or TV Show",
+        "(14:56, 16:07)",
+        [
+            "East 20th Street",
+            700003576
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(17:02, 18:41)",
+        [
+            "East 20th Street",
+            700003576
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 20:57)",
+        [
+            "Ralph's Italian Ices",
+            700006208
+        ]
+    ],
+    [
+        "Dinner Prep & Family Time",
+        "(22:18, 23:49)",
+        [
+            "East 20th Street",
+            700003576
+        ]
+    ],
+    [
+        "Wind Down & Plan for the Week",
+        "(23:48, 23:59)",
+        [
+            "Suboxone Treatment Clinic",
+            700006209
+        ]
+    ]
+]

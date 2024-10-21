@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002904
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:29)",
+        [
+            "Bar 821",
+            700004866
+        ]
+    ],
+    [
+        "Engage in a Hobby or Craft",
+        "(13:26, 14:56)",
+        [
+            "Bar 821",
+            700004866
+        ]
+    ],
+    [
+        "Socialize, Call a Friend or Family",
+        "(15:07, 15:57)",
+        [
+            "The Mill",
+            700002649
+        ]
+    ],
+    [
+        "Hobby or Craft",
+        "(16:44, 18:40)",
+        [
+            "",
+            700002905
+        ]
+    ],
+    [
+        "Prepare and Have Dinner",
+        "(18:54, 19:50)",
+        [
+            "Bar 821",
+            700004866
+        ]
+    ],
+    [
+        "Prepare and Have Dinner",
+        "(20:33, 21:56)",
+        [
+            "El Rancho Grande",
+            700001901
+        ]
+    ],
+    [
+        "Socialize, Call a Friend or Family",
+        "(21:05, 22:13)",
+        [
+            "The Mill",
+            700002649
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:05, 23:59)",
+        [
+            "El Rancho Grande",
+            700001901
+        ]
+    ]
+]

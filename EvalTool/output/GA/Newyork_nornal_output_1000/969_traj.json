@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001951
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:31)",
+        [
+            "",
+            700020038
+        ]
+    ],
+    [
+        "Go for a morning jog or yoga session to start the day with some physical activity.",
+        "(12:09, 13:29)",
+        [
+            "McDonald's",
+            700010937
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 17:46)",
+        [
+            "McDonald's",
+            700010937
+        ]
+    ],
+    [
+        "Stay at McDonald's",
+        "(17:59, 19:00)",
+        [
+            "McDonald's",
+            700010937
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:33, 21:40)",
+        [
+            "",
+            700020040
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "McDonald's",
+            700010937
+        ]
+    ]
+]

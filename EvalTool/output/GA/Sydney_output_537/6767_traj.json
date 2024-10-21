@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Circular Quay 6B",
+            700030978
+        ]
+    ],
+    [
+        "Next activity based on plan.",
+        "(09:00, 10:35)",
+        [
+            "",
+            700027582
+        ]
+    ],
+    [
+        "Go to the cafe.",
+        "(10:21, 11:51)",
+        [
+            "",
+            700006638
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 14:07)",
+        [
+            "",
+            700030837
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 18:55)",
+        [
+            "",
+            700030843
+        ]
+    ],
+    [
+        "Relax at home and watch a movie.",
+        "(19:10, 21:53)",
+        [
+            "Circular Quay 6B",
+            700030978
+        ]
+    ],
+    [
+        "Visit a bar for a nightcap",
+        "(22:34, 23:59)",
+        [
+            "",
+            700027578
+        ]
+    ]
+]

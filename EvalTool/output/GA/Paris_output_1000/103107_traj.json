@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le 2bis Café",
+            700035600
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:28)",
+        [
+            "Le 2bis Café",
+            700035600
+        ]
+    ],
+    [
+        "Next activity after outdoor activity.",
+        "(12:29, 13:54)",
+        [
+            "Traiteur Asiatique",
+            700044700
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(14:45, 16:37)",
+        [
+            "Traiteur Asiatique",
+            700044700
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:31, 19:10)",
+        [
+            "Traiteur Asiatique",
+            700044700
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 22:18)",
+        [
+            "Traiteur Asiatique",
+            700044700
+        ]
+    ]
+]

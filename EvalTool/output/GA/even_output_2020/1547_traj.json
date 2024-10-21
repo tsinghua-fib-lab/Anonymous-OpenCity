@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Queen Mediterranean Pizzeria",
+            700013302
+        ]
+    ],
+    [
+        "10:00 AM - Morning Walk",
+        "(09:00, 10:36)",
+        [
+            "San Francisco Brewing Co.",
+            700009150
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:49, 14:01)",
+        [
+            "",
+            700009922
+        ]
+    ],
+    [
+        "Play Sports or Exercise",
+        "(16:37, 17:59)",
+        [
+            "Subpar Arcade",
+            700009149
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:25, 19:52)",
+        [
+            "Queen Mediterranean Pizzeria",
+            700013302
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:21, 22:11)",
+        [
+            "",
+            700005311
+        ]
+    ]
+]

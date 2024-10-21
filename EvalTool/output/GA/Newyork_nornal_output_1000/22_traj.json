@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Goethe Institut",
+            700006178
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:37)",
+        [
+            "The Headless Horseman",
+            700007368
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:35, 18:30)",
+        [
+            "Sticky's",
+            700014533
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(17:41, 18:51)",
+        [
+            "Apple Bank",
+            700010689
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:54, 23:59)",
+        [
+            "Apple Bank",
+            700010689
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(22:16, 23:36)",
+        [
+            "Apple Bank",
+            700010689
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "",
+            700016456
+        ]
+    ]
+]

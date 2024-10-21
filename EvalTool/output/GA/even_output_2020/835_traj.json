@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mezze and Mooore",
+            700000083
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(10:00, 11:05)",
+        [
+            "Bar Part Time",
+            700009517
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(11:05, 12:57)",
+        [
+            "Bar Part Time",
+            700009517
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:30, 15:10)",
+        [
+            "Bar Part Time",
+            700009517
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:57, 16:34)",
+        [
+            "Bar Part Time",
+            700009517
+        ]
+    ],
+    [
+        "Afternoon Sports",
+        "(16:47, 18:14)",
+        [
+            "Valencia Street Muscle",
+            700000835
+        ]
+    ],
+    [
+        "Stay at Bar Part Time",
+        "(18:13, 20:02)",
+        [
+            "Bar Part Time",
+            700009517
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 22:12)",
+        [
+            "",
+            700008335
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "",
+            700008322
+        ]
+    ]
+]

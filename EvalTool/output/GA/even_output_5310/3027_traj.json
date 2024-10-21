@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike",
+            700029589
+        ]
+    ],
+    [
+        "Stay at Citi Bike.",
+        "(09:00, 10:27)",
+        [
+            "New York Chinese Alliance Church",
+            700014828
+        ]
+    ],
+    [
+        "Stay at Citi Bike.",
+        "(11:54, 13:22)",
+        [
+            "D3 Busline",
+            700005131
+        ]
+    ],
+    [
+        "Current time: 13:45, stay at Citi Bike.",
+        "(13:45, 15:02)",
+        [
+            "",
+            700014827
+        ]
+    ],
+    [
+        "next activity based on the daily plan",
+        "(15:17, 16:24)",
+        [
+            "New York Chinese Alliance Church",
+            700014828
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 22:26)",
+        [
+            "Chinese American Planning Council",
+            700005129
+        ]
+    ],
+    [
+        "next",
+        "(21:45, 23:05)",
+        [
+            "Citi Bike",
+            700029589
+        ]
+    ],
+    [
+        "Stay at Citi Bike.",
+        "(23:08, 23:59)",
+        [
+            "Chinese American Planning Council",
+            700005129
+        ]
+    ]
+]

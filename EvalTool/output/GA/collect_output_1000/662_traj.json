@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030388
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:59)",
+        [
+            "Citi Bike - Lexington Avenue & East 29th Street",
+            700008123
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(12:17, 14:03)",
+        [
+            "",
+            700030388
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(14:53, 16:59)",
+        [
+            "Citi Bike - Lexington Avenue & East 29th Street",
+            700008123
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:13, 22:29)",
+        [
+            "",
+            700019944
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(22:03, 23:59)",
+        [
+            "Citi Bike - Lexington Avenue & East 29th Street",
+            700008123
+        ]
+    ]
+]

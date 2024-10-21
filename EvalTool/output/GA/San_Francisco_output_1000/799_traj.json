@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009140
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:10)",
+        [
+            "Victoria Mews",
+            700000021
+        ]
+    ],
+    [
+        "Hobbies/Personal Projects",
+        "(15:08, 16:59)",
+        [
+            "Victoria Mews",
+            700000021
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:49, 18:55)",
+        [
+            "Victoria Mews",
+            700000021
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:08, 20:55)",
+        [
+            "Victoria Mews",
+            700000021
+        ]
+    ],
+    [
+        "Evening Relaxation/Family Time",
+        "(21:48, 22:53)",
+        [
+            "Victoria Mews",
+            700000021
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "",
+            700013651
+        ]
+    ]
+]

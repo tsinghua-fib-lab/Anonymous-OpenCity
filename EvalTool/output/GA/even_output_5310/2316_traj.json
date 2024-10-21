@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001772
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:44)",
+        [
+            "",
+            700002826
+        ]
+    ],
+    [
+        "Outdoor Activities or Sports",
+        "(15:10, 16:34)",
+        [
+            "Little Canal",
+            700011046
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(17:46, 19:09)",
+        [
+            "He Xie Grocery Store",
+            700016815
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:11, 23:59)",
+        [
+            "He Xie Grocery Store",
+            700016815
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:48, 23:59)",
+        [
+            "Century Pharmacy",
+            700017098
+        ]
+    ]
+]

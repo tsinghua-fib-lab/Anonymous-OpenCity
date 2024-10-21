@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fossetta",
+            700009040
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:04)",
+        [
+            "Macondo",
+            700009070
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(12:49, 14:09)",
+        [
+            "Macondo",
+            700009070
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 18:13)",
+        [
+            "",
+            700025322
+        ]
+    ],
+    [
+        "Dinner and TV Time",
+        "(19:27, 21:05)",
+        [
+            "East 1st Street & 1st Avenue",
+            700025321
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 23:59)",
+        [
+            "",
+            700025322
+        ]
+    ],
+    [
+        "Stay at Fossetta",
+        "(22:14, 23:59)",
+        [
+            "Fossetta",
+            700009040
+        ]
+    ]
+]

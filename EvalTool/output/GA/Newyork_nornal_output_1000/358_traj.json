@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700023452
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 10:57)",
+        [
+            "Chase",
+            700022145
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:50, 12:58)",
+        [
+            "Chase",
+            700022145
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:28, 15:02)",
+        [
+            "Chase",
+            700022145
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(15:11, 16:42)",
+        [
+            "LL Studio Yoga",
+            700023322
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(17:21, 18:52)",
+        [
+            "Coten",
+            700015261
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 23:59)",
+        [
+            "Juice Press",
+            700014332
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "Pret A Manger",
+            700017255
+        ]
+    ]
+]

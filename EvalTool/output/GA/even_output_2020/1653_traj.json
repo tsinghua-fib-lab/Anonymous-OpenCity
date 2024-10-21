@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dentist office",
+            700001958
+        ]
+    ],
+    [
+        "Have lunch at a favorite local restaurant or try a new cafe.",
+        "(10:00, 11:35)",
+        [
+            "Better Than Sweet",
+            700008995
+        ]
+    ],
+    [
+        "Have lunch at a favorite local restaurant or try a new cafe.",
+        "(12:11, 14:06)",
+        [
+            "Better Than Sweet",
+            700008995
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:07, 17:16)",
+        [
+            "Restricted Parking: Permit Holders Only",
+            700002086
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:02, 20:33)",
+        [
+            "",
+            700010556
+        ]
+    ]
+]

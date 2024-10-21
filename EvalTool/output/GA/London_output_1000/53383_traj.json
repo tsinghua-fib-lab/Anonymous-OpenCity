@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:31)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:25, 12:50)",
+        [
+            "Enoteca da Luca",
+            700019572
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:02, 17:22)",
+        [
+            "",
+            700027174
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(15:36, 17:31)",
+        [
+            "Bean About Town",
+            700038039
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:53, 23:39)",
+        [
+            "",
+            700003238
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:27, 21:45)",
+        [
+            "",
+            700003238
+        ]
+    ]
+]

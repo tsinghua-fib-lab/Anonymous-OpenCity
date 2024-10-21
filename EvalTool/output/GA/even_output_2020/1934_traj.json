@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "UCSF dental school clinic",
+            700001272
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:59)",
+        [
+            "The Mint",
+            700001945
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:13, 14:05)",
+        [
+            "EzCare Clinic",
+            700007430
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 14:53)",
+        [
+            "",
+            700008324
+        ]
+    ],
+    [
+        "Leisure Activity/Entertainment",
+        "(14:02, 16:09)",
+        [
+            "EzCare Clinic",
+            700007430
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:10, 18:13)",
+        [
+            "EzCare Clinic",
+            700007430
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:25, 20:57)",
+        [
+            "Sessions Training Center",
+            700011078
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(21:41, 23:06)",
+        [
+            "",
+            700008338
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(23:13, 23:59)",
+        [
+            "",
+            700008324
+        ]
+    ]
+]

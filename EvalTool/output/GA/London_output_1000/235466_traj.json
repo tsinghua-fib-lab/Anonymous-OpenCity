@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Browning Estate",
+            700011047
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:24)",
+        [
+            "Mail Boxes Etc.",
+            700031599
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(13:23, 15:03)",
+        [
+            "Mail Boxes Etc.",
+            700031599
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(15:35, 17:05)",
+        [
+            "Manor Place Surgery",
+            700007067
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:34, 18:55)",
+        [
+            "Charcoal & Meze",
+            700031603
+        ]
+    ],
+    [
+        "Go out to watch the movie.",
+        "(22:34, 23:49)",
+        [
+            "Ossie's Jerk Chicken",
+            700008093
+        ]
+    ]
+]

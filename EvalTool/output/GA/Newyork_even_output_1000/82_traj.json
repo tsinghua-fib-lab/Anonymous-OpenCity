@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Alphabet Fresh Pizza",
+            700005168
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:10)",
+        [
+            "The Library",
+            700006113
+        ]
+    ],
+    [
+        "Social Time",
+        "(14:30, 16:56)",
+        [
+            "Double Down Saloon",
+            700014258
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:26, 19:20)",
+        [
+            "Boulton & Watt",
+            700003730
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:28, 22:17)",
+        [
+            "Taverna Di Bacco",
+            700012923
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:46, 23:59)",
+        [
+            "CVS Pharmacy",
+            700017197
+        ]
+    ]
+]

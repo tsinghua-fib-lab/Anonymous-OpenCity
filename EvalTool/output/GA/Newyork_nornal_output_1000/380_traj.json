@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700021863
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 10:59)",
+        [
+            "Citi Bike - Pitt St & Stanton St",
+            700008166
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:52, 13:51)",
+        [
+            "Citi Bike - Pitt St & Stanton St",
+            700008166
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:01, 16:03)",
+        [
+            "",
+            700022433
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:09, 17:55)",
+        [
+            "",
+            700021864
+        ]
+    ],
+    [
+        "Dinner Preparation & Cooking",
+        "(18:21, 20:02)",
+        [
+            "",
+            700021863
+        ]
+    ],
+    [
+        "Dinner Preparation & Cooking",
+        "(20:59, 23:00)",
+        [
+            "Caracas Arepa Bar",
+            700006696
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:58, 23:59)",
+        [
+            "Our Lady of Sorrows School",
+            700000191
+        ]
+    ]
+]

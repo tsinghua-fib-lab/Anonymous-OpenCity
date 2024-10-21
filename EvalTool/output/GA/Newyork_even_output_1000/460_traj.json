@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kobe Sushi",
+            700013982
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:37)",
+        [
+            "",
+            700001652
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:20, 18:18)",
+        [
+            "Dubl Twister",
+            700006572
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(16:26, 17:58)",
+        [
+            "Dubl Twister",
+            700006572
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:15, 20:22)",
+        [
+            "Kobe Sushi",
+            700013982
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:27, 23:59)",
+        [
+            "Jupioca",
+            700033869
+        ]
+    ]
+]

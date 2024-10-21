@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Goldberg's Pharmacy",
+            700007629
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:37)",
+        [
+            "Sushi Yoshizawa",
+            700041300
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:27, 14:07)",
+        [
+            "Sushi Yoshizawa",
+            700041300
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:04, 16:05)",
+        [
+            "",
+            700006037
+        ]
+    ],
+    [
+        "Late Afternoon Relaxation",
+        "(18:13, 19:47)",
+        [
+            "",
+            700001986
+        ]
+    ],
+    [
+        "Late Afternoon Relaxation",
+        "(20:04, 21:53)",
+        [
+            "Dunkin'",
+            700006549
+        ]
+    ],
+    [
+        "Stay at Dunkin'",
+        "(22:37, 23:59)",
+        [
+            "",
+            700040421
+        ]
+    ]
+]

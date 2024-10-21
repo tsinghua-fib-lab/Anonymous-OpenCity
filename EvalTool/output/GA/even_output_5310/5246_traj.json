@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700023966
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(09:00, 10:09)",
+        [
+            "",
+            700034914
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(10:15, 12:10)",
+        [
+            "Plaza Deli",
+            700009733
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(13:04, 14:32)",
+        [
+            "Plaza Deli",
+            700009733
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:42, 20:19)",
+        [
+            "",
+            700001804
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:20, 17:57)",
+        [
+            "",
+            700023964
+        ]
+    ],
+    [
+        "Stay at Plaza Deli.",
+        "(21:51, 23:30)",
+        [
+            "Plaza Deli",
+            700009733
+        ]
+    ],
+    [
+        "Stay at Made in New York Pizza",
+        "(23:51, 23:59)",
+        [
+            "",
+            700023964
+        ]
+    ]
+]

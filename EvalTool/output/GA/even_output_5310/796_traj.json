@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Weill Cornell Medicine",
+            700041063
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(10:00, 11:00)",
+        [
+            "Weill Cornell Medicine",
+            700041063
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:27, 16:24)",
+        [
+            "",
+            700001923
+        ]
+    ],
+    [
+        "Visit Friends/Family",
+        "(16:45, 18:05)",
+        [
+            "Weill Cornell Medicine",
+            700041063
+        ]
+    ],
+    [
+        "Visit Friends/Family",
+        "(18:48, 20:01)",
+        [
+            "Weill Cornell Medicine",
+            700041063
+        ]
+    ],
+    [
+        "Stay at 'Coco Pizzaria'",
+        "(20:06, 22:09)",
+        [
+            "Starbucks",
+            700041304
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:46, 23:59)",
+        [
+            "",
+            700035721
+        ]
+    ]
+]

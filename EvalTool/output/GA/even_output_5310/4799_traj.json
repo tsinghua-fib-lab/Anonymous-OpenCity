@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:55)",
+        [
+            "Au Za'atar",
+            700011621
+        ]
+    ],
+    [
+        "Stay at Frolla Cafè",
+        "(12:43, 14:17)",
+        [
+            "Au Za'atar",
+            700011621
+        ]
+    ],
+    [
+        "Stay at Frolla Cafè",
+        "(14:36, 16:05)",
+        [
+            "Sutton Bar Room",
+            700011531
+        ]
+    ],
+    [
+        "Stay at Frolla Cafè",
+        "(16:21, 18:00)",
+        [
+            "Coco Pizzaria",
+            700039033
+        ]
+    ],
+    [
+        "Engage in a hobby or creative activity, like painting or crafting",
+        "(18:05, 20:10)",
+        [
+            "Sutton Bar Room",
+            700011531
+        ]
+    ],
+    [
+        "Stay at Frolla Cafè",
+        "(20:51, 22:30)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "Stay at Frolla Cafè",
+        "(23:21, 23:59)",
+        [
+            "Brooklyn Pizza Masters",
+            700030625
+        ]
+    ]
+]

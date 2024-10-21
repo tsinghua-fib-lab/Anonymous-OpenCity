@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700027198
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast",
+        "(10:00, 11:09)",
+        [
+            "",
+            700027198
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the park",
+        "(11:15, 12:45)",
+        [
+            "Citi Bike - Gansevoort Street & Hudson Street",
+            700020929
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 16:30)",
+        [
+            "Kobrick Coffee",
+            700008899
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 21:37)",
+        [
+            "Spice Market",
+            700008840
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "Bill's Bar & Burger",
+            700007845
+        ]
+    ]
+]

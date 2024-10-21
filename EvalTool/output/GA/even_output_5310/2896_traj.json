@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Nargila Grill",
+            700030891
+        ]
+    ],
+    [
+        "Enjoy breakfast",
+        "(10:00, 11:00)",
+        [
+            "Nargila Grill",
+            700030891
+        ]
+    ],
+    [
+        "Go for a leisurely walk or jog in the park",
+        "(11:21, 13:06)",
+        [
+            "",
+            700002932
+        ]
+    ],
+    [
+        "Accomplish tasks",
+        "(13:41, 15:15)",
+        [
+            "Nargila Grill",
+            700030891
+        ]
+    ],
+    [
+        "Enjoy breakfast",
+        "(16:22, 18:54)",
+        [
+            "Nargila Grill",
+            700030891
+        ]
+    ],
+    [
+        "Go to Fiftyfourth Street Public Bath and Gymnasium.",
+        "(19:01, 21:04)",
+        [
+            "Coffee Shop",
+            700041023
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:55, 23:59)",
+        [
+            "Saint Stephen of Hungary Church",
+            700000277
+        ]
+    ]
+]

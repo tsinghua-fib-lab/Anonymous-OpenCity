@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001558
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:07)",
+        [
+            "",
+            700001662
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(14:08, 15:57)",
+        [
+            "Gansevoort Market",
+            700008484
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(16:22, 17:57)",
+        [
+            "Pastis",
+            700016067
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:02, 21:04)",
+        [
+            "Gansevoort Market",
+            700008484
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:41, 23:50)",
+        [
+            "Gansevoort Market",
+            700008484
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(23:30, 23:59)",
+        [
+            "Gansevoort Market",
+            700008484
+        ]
+    ]
+]

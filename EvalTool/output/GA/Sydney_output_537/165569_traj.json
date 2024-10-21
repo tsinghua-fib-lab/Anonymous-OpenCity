@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gojima",
+            700010773
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:04)",
+        [
+            "Flying Fish and Chips",
+            700010770
+        ]
+    ],
+    [
+        "Catch Up on a Show or Movie",
+        "(15:47, 17:11)",
+        [
+            "Flying Fish and Chips",
+            700010770
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:14, 23:18)",
+        [
+            "Pyrmont Doctors",
+            700031639
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:50, 23:59)",
+        [
+            "Ribs and Burgers",
+            700010774
+        ]
+    ]
+]

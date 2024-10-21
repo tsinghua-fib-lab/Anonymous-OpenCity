@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003195
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:21)",
+        [
+            "",
+            700002774
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(12:15, 14:08)",
+        [
+            "Capital One",
+            700004302
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:13, 18:45)",
+        [
+            "Citi Bike - East 59th Street & Madison Avenue",
+            700018855
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(17:04, 18:54)",
+        [
+            "Avra Madison Estiatorio",
+            700019749
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:33, 23:59)",
+        [
+            "",
+            700034850
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:51, 23:59)",
+        [
+            "",
+            700002392
+        ]
+    ]
+]

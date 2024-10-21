@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dolores Outpost",
+            700010150
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:58)",
+        [
+            "",
+            700009677
+        ]
+    ],
+    [
+        "Relaxation/Reading",
+        "(16:36, 17:57)",
+        [
+            "Dolores Outpost",
+            700010150
+        ]
+    ],
+    [
+        "Watch TV/Movies",
+        "(19:00, 20:53)",
+        [
+            "Dolores Outpost",
+            700010150
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:06, 23:08)",
+        [
+            "Chase",
+            700005336
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:36, 23:59)",
+        [
+            "Souvla",
+            700007447
+        ]
+    ]
+]

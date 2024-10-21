@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Le Cube Bar",
+            700034323
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:34)",
+        [
+            "Le Cube Bar",
+            700034323
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 12:44)",
+        [
+            "",
+            700006398
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 21:38)",
+        [
+            "",
+            700012615
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:02, 22:53)",
+        [
+            "Joe & The Juice",
+            700071603
+        ]
+    ],
+    [
+        "Stay at Le Cube Bar.",
+        "(23:38, 23:59)",
+        [
+            "Joe & The Juice",
+            700071603
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mamacita",
+            700003081
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:21)",
+        [
+            "tacolicious",
+            700004975
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:14, 18:47)",
+        [
+            "Golden Gate Urgent Care",
+            700013914
+        ]
+    ],
+    [
+        "Stay at Golden Gate Urgent Care",
+        "(19:45, 20:51)",
+        [
+            "Golden Gate Urgent Care",
+            700013914
+        ]
+    ],
+    [
+        "Wind down the day with some light reading or watching TV.",
+        "(21:10, 23:17)",
+        [
+            "Urban Pet Hospital",
+            700004933
+        ]
+    ],
+    [
+        "Stay at Golden Gate Urgent Care",
+        "(23:41, 23:59)",
+        [
+            "twisted",
+            700008623
+        ]
+    ]
+]

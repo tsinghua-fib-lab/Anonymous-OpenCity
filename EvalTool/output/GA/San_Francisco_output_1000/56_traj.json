@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Franchino",
+            700001463
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:35)",
+        [
+            "Franchino",
+            700001463
+        ]
+    ],
+    [
+        "Socializing",
+        "(16:02, 17:37)",
+        [
+            "New Sun Hong Kong Restaurant",
+            700002084
+        ]
+    ],
+    [
+        "Socializing",
+        "(18:21, 19:29)",
+        [
+            "New Sun Hong Kong Restaurant",
+            700002084
+        ]
+    ],
+    [
+        "Socializing",
+        "(20:37, 22:20)",
+        [
+            "Jamra",
+            700004013
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:40, 23:51)",
+        [
+            "15 Romolo",
+            700000429
+        ]
+    ]
+]

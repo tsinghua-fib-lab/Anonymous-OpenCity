@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:46)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:21, 19:28)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Spend time enjoying leisure reading or catch up on personal projects.",
+        "(16:21, 17:54)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:15, 19:39)",
+        [
+            "",
+            700022507
+        ]
+    ],
+    [
+        "Next wind down with some light activities like playing a game or watching TV.",
+        "(21:22, 23:05)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Wind down with some light activities like playing a game or watching TV.",
+        "(23:40, 23:59)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:09)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:15, 13:33)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "Engage in a hobby or interest, such as painting, writing, or working on a skill development project.",
+        "(16:58, 17:56)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Engage in a hobby or interest, such as painting, writing, or working on a skill development project.",
+        "(18:02, 20:07)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Spend time at Mughlai",
+        "(20:40, 22:01)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(23:01, 23:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

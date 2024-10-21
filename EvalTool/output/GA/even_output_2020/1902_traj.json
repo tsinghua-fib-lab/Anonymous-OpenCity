@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kui Shin Bo 2",
+            700004973
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park",
+        "(10:00, 11:04)",
+        [
+            "Black Magic Voodoo Lounge",
+            700004971
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:50, 13:00)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "Go to Chestnut Diner",
+        "(13:53, 14:55)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "Next place: Shopping or exploring local shops.",
+        "(15:53, 17:09)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "Currently at: Kopiku, stay time.",
+        "(18:06, 20:04)",
+        [
+            "Kopiku",
+            700004970
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:46, 23:59)",
+        [
+            "Vikings Giant Subs",
+            700004972
+        ]
+    ]
+]

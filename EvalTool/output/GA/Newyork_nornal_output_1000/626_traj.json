@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Bank St & Washington St",
+            700007956
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:25)",
+        [
+            "Wallsé",
+            700014449
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:02, 12:31)",
+        [
+            "Wallsé",
+            700014449
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 18:30)",
+        [
+            "The Otheroom",
+            700014444
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:08, 15:12)",
+        [
+            "",
+            700001822
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(16:18, 18:04)",
+        [
+            "Turks and Frogs",
+            700014423
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 20:44)",
+        [
+            "",
+            700013049
+        ]
+    ],
+    [
+        "stay",
+        "(23:20, 23:59)",
+        [
+            "Citi Bike - Bank St & Washington St",
+            700007956
+        ]
+    ]
+]

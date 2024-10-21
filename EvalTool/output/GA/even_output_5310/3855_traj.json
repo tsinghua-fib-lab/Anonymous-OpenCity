@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003099
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:08)",
+        [
+            "",
+            700001612
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(15:40, 17:04)",
+        [
+            "Sahib Indian Cuisine",
+            700016454
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(17:08, 18:22)",
+        [
+            "Sahib Indian Cuisine",
+            700016454
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 21:53)",
+        [
+            "Tacos Times Square",
+            700033072
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(20:06, 21:41)",
+        [
+            "Saravanaa Bhavan",
+            700009157
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:06, 23:52)",
+        [
+            "Wingstop",
+            700017933
+        ]
+    ]
+]

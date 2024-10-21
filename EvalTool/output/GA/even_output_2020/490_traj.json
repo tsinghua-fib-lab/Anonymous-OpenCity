@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Park Gym",
+            700004905
+        ]
+    ],
+    [
+        "Breakfast at home.",
+        "(10:00, 11:05)",
+        [
+            "Park Gym",
+            700004905
+        ]
+    ],
+    [
+        "Go for a mid-morning walk or light jog in the park",
+        "(11:55, 13:00)",
+        [
+            "Park Gym",
+            700004905
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 17:20)",
+        [
+            "My Father’s Kitchen",
+            700004903
+        ]
+    ],
+    [
+        "Spend time at home",
+        "(17:27, 18:58)",
+        [
+            "My Father’s Kitchen",
+            700004903
+        ]
+    ],
+    [
+        "Spend time at home",
+        "(19:19, 20:45)",
+        [
+            "Park Gym",
+            700004905
+        ]
+    ],
+    [
+        "Stay at Park Gym",
+        "(21:23, 23:00)",
+        [
+            "Park Gym",
+            700004905
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "San Francisco Athletic Club",
+            700004906
+        ]
+    ]
+]

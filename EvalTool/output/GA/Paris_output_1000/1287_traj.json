@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700026464
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:43)",
+        [
+            "Chaussée d'Antin - Haussmann",
+            700042520
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:28, 18:51)",
+        [
+            "Doriimu",
+            700005036
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:46, 20:36)",
+        [
+            "Murphy's House",
+            700006142
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:55, 18:54)",
+        [
+            "L'Opéra Restaurant",
+            700005770
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:55, 23:13)",
+        [
+            "",
+            700012610
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(23:46, 23:59)",
+        [
+            "Chaussée d'Antin - Haussmann",
+            700042520
+        ]
+    ]
+]

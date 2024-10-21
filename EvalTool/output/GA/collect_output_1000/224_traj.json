@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030399
+        ]
+    ],
+    [
+        "Spend some time relaxing and catching up on social media or reading.",
+        "(09:00, 09:50)",
+        [
+            "",
+            700036421
+        ]
+    ],
+    [
+        "Go for a walk or do some light exercise.",
+        "(10:46, 11:52)",
+        [
+            "",
+            700036421
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:46, 16:02)",
+        [
+            "Duane Reade",
+            700014091
+        ]
+    ],
+    [
+        "Engage in a hobby or read a book",
+        "(15:17, 16:59)",
+        [
+            "Duane Reade",
+            700014091
+        ]
+    ],
+    [
+        "Engage in a hobby (like painting, crafting, or playing an instrument) or read a book.",
+        "(17:18, 18:53)",
+        [
+            "",
+            700036447
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 22:38)",
+        [
+            "",
+            700036436
+        ]
+    ],
+    [
+        "Go to Squires Diner",
+        "(21:19, 22:58)",
+        [
+            "",
+            700024129
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "",
+            700036449
+        ]
+    ]
+]

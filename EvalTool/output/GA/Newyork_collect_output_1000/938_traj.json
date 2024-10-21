@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(09:00, 10:34)",
+        [
+            "Starbucks",
+            700009781
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:33, 12:52)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Outdoor Activities/Sports",
+        "(13:25, 15:09)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(15:20, 16:45)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(16:54, 18:24)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Wind Down and Prepare Dinner",
+        "(18:31, 19:57)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:16, 23:59)",
+        [
+            "",
+            700022506
+        ]
+    ]
+]

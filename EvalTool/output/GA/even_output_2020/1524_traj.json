@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chez Maman East",
+            700002767
+        ]
+    ],
+    [
+        "Morning exercise",
+        "(09:00, 09:56)",
+        [
+            "Provender",
+            700005783
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:30, 12:20)",
+        [
+            "MacDaddy",
+            700005781
+        ]
+    ],
+    [
+        "Leisure reading or hobbies",
+        "(11:59, 14:09)",
+        [
+            "MacDaddy",
+            700005781
+        ]
+    ],
+    [
+        "Afternoon entertainment",
+        "(14:22, 17:01)",
+        [
+            "MacDaddy",
+            700005781
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:28, 18:44)",
+        [
+            "",
+            700005777
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:48, 23:58)",
+        [
+            "Papito",
+            700002766
+        ]
+    ]
+]

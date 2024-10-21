@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Wake Up",
+        "(09:00, 10:22)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:55, 14:59)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:06, 14:46)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:42, 17:53)",
+        [
+            "7th Street Burger",
+            700015362
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:16, 23:46)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:54, 23:27)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Thai V Express",
+            700017625
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013576
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:38)",
+        [
+            "",
+            700009354
+        ]
+    ],
+    [
+        "Stay at current location.",
+        "(11:38, 14:08)",
+        [
+            "",
+            700009355
+        ]
+    ],
+    [
+        "Stay at current location",
+        "(14:30, 15:57)",
+        [
+            "Bay Area Strength and Nutrition",
+            700002401
+        ]
+    ],
+    [
+        "Stay at Bay Area Strength and Nutrition.",
+        "(16:11, 17:46)",
+        [
+            "Starbucks",
+            700005116
+        ]
+    ],
+    [
+        "Stay at Bay Area Strength and Nutrition.",
+        "(18:26, 19:50)",
+        [
+            "Starbucks",
+            700005116
+        ]
+    ],
+    [
+        "Stay at Bay Area Strength and Nutrition",
+        "(20:30, 22:00)",
+        [
+            "Bay Area Strength and Nutrition",
+            700002401
+        ]
+    ],
+    [
+        "Stay at Bay Area Strength and Nutrition",
+        "(22:33, 23:43)",
+        [
+            "Starbucks",
+            700005116
+        ]
+    ],
+    [
+        "Stay at Bay Area Strength and Nutrition",
+        "(23:46, 23:59)",
+        [
+            "Bay Area Strength and Nutrition",
+            700002401
+        ]
+    ]
+]

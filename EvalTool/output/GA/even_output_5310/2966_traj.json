@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "San Loco",
+            700012112
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:11)",
+        [
+            "Stanton Street Pizza",
+            700023754
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 14:34)",
+        [
+            "Ludlow Flea Market",
+            700026291
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:02, 19:44)",
+        [
+            "San Loco",
+            700012112
+        ]
+    ],
+    [
+        "Stay at Stanton Street Pizza",
+        "(23:36, 23:59)",
+        [
+            "San Loco",
+            700012112
+        ]
+    ]
+]

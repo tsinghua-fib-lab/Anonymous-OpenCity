@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Go for a Walk/Exercise",
+        "(09:00, 10:31)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ],
+    [
+        "Stay at Citi Bike for exercise",
+        "(10:43, 11:49)",
+        [
+            "Citi Bike - West 43rd Street & 6th Avenue",
+            700008223
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 15:28)",
+        [
+            "Forty Four",
+            700003738
+        ]
+    ],
+    [
+        "Dinner and Prepare for the Week",
+        "(18:36, 19:58)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Continue relaxing at Dog & Bone",
+        "(20:03, 21:28)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:23, 23:59)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ]
+]

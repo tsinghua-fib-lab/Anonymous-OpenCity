@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700017517
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(09:00, 10:06)",
+        [
+            "Becco",
+            700032711
+        ]
+    ],
+    [
+        "Catch up on chores and errands",
+        "(10:13, 11:37)",
+        [
+            "Becco",
+            700032711
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:46, 15:58)",
+        [
+            "Citi Bike - West 41st Street & 8th Avenue",
+            700008220
+        ]
+    ],
+    [
+        "Catch up on chores and errands",
+        "(16:01, 18:00)",
+        [
+            "Becco",
+            700032711
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 20:14)",
+        [
+            "",
+            700019875
+        ]
+    ]
+]

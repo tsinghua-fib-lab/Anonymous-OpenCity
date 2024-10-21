@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700034764
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:57)",
+        [
+            "",
+            700023434
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 17:26)",
+        [
+            "Citi Bike - Spruce St & Nassau St",
+            700008181
+        ]
+    ],
+    [
+        "Dinner Preparation & Meal",
+        "(18:46, 19:56)",
+        [
+            "Citi Bike - Spruce St & Nassau St",
+            700008181
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:10, 21:36)",
+        [
+            "",
+            700034752
+        ]
+    ]
+]

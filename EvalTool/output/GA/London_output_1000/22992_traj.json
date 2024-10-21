@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:52)",
+        [
+            "",
+            700006547
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(12:51, 14:20)",
+        [
+            "EC",
+            700005629
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 18:18)",
+        [
+            "Holborn Car Park",
+            700011062
+        ]
+    ],
+    [
+        "Evening Leisure Activities",
+        "(20:34, 22:11)",
+        [
+            "",
+            700064296
+        ]
+    ],
+    [
+        "Evening Leisure Activities",
+        "(22:53, 23:59)",
+        [
+            "Holborn Car Park",
+            700011062
+        ]
+    ]
+]

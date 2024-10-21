@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Deli El Chapincito",
+            700039827
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:08)",
+        [
+            "Deli El Chapincito",
+            700039827
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:26, 12:05)",
+        [
+            "Deli El Chapincito",
+            700039827
+        ]
+    ],
+    [
+        "Exercise",
+        "(12:18, 14:02)",
+        [
+            "Deli El Chapincito",
+            700039827
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:36, 16:01)",
+        [
+            "Handsome Rice",
+            700008459
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:38, 18:16)",
+        [
+            "Handsome Rice",
+            700008459
+        ]
+    ],
+    [
+        "Go to Handsome Rice",
+        "(18:22, 20:09)",
+        [
+            "Handsome Rice",
+            700008459
+        ]
+    ],
+    [
+        "Stay at Handsome Rice",
+        "(20:47, 22:05)",
+        [
+            "Handsome Rice",
+            700008459
+        ]
+    ],
+    [
+        "Stay at Deli El Chapincito",
+        "(22:47, 23:59)",
+        [
+            "Deli El Chapincito",
+            700039827
+        ]
+    ],
+    [
+        "Stay at Handsome Rice",
+        "(23:51, 23:59)",
+        [
+            "Hong Kong Noodle Sariku Sushi",
+            700008757
+        ]
+    ]
+]

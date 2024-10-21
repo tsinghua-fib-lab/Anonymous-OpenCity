@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Général Leclerc",
+            700008061
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:53)",
+        [
+            "",
+            700048216
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(16:32, 17:58)",
+        [
+            "Haki Ramen",
+            700070473
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 23:32)",
+        [
+            "La Petite Étoile",
+            700071502
+        ]
+    ],
+    [
+        "Go to La Petite Étoile for a suitable dining option.",
+        "(20:54, 21:50)",
+        [
+            "La Petite Étoile",
+            700071502
+        ]
+    ],
+    [
+        "Catch Up on Reading or Hobbies",
+        "(22:08, 23:16)",
+        [
+            "La Petite Étoile",
+            700071502
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:26, 23:59)",
+        [
+            "Général Leclerc",
+            700008061
+        ]
+    ]
+]

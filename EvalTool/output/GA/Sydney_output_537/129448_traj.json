@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Cargo bar",
+            700002038
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:19)",
+        [
+            "",
+            700013132
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 13:46)",
+        [
+            "",
+            700028866
+        ]
+    ],
+    [
+        "You are currently at Circular Quay 4B and will stay here.",
+        "(12:23, 13:52)",
+        [
+            "Darling Harbour, King St Wharf 7",
+            700013768
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:23, 17:25)",
+        [
+            "Cargo bar",
+            700002038
+        ]
+    ],
+    [
+        "Stay at Circular Quay 4B",
+        "(17:26, 19:04)",
+        [
+            "Darling Harbour Wharf 9",
+            700010477
+        ]
+    ],
+    [
+        "Stay at Circular Quay 4B.",
+        "(19:43, 21:49)",
+        [
+            "Darling Harbour Wharf 9",
+            700010477
+        ]
+    ],
+    [
+        "Visit Royal Copenhagen Ice Cream Cone Co.",
+        "(22:01, 23:24)",
+        [
+            "Casa di Nico",
+            700004246
+        ]
+    ],
+    [
+        "Stay at Circular Quay 4B",
+        "(23:25, 23:59)",
+        [
+            "Darling Harbour, King St Wharf 4",
+            700016642
+        ]
+    ]
+]

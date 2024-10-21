@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Dr. William L. Gee House",
+            700008887
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:51)",
+        [
+            "Halal Dastarkhan",
+            700005734
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:24, 17:06)",
+        [
+            "",
+            700000661
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:36, 21:33)",
+        [
+            "",
+            700009348
+        ]
+    ],
+    [
+        "stay",
+        "(23:05, 23:59)",
+        [
+            "Halal Dastarkhan",
+            700005734
+        ]
+    ]
+]

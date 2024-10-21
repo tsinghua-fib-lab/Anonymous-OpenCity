@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chicos Pizza",
+            700005192
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:54)",
+        [
+            "Cafecito",
+            700010245
+        ]
+    ],
+    [
+        "Socialize",
+        "(10:38, 13:40)",
+        [
+            "Cafecito",
+            700010245
+        ]
+    ],
+    [
+        "Socialize",
+        "(11:53, 13:27)",
+        [
+            "Cafecito",
+            700010245
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:55, 15:34)",
+        [
+            "Cafecito",
+            700010245
+        ]
+    ],
+    [
+        "Socialize",
+        "(15:36, 17:16)",
+        [
+            "Cafecito",
+            700010245
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:19, 20:42)",
+        [
+            "Chicos Pizza",
+            700005192
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:37, 23:13)",
+        [
+            "Pho Tan Hoa",
+            700004838
+        ]
+    ],
+    [
+        "Stay at Chicos Pizza",
+        "(23:45, 23:59)",
+        [
+            "Chicos Pizza",
+            700005192
+        ]
+    ]
+]

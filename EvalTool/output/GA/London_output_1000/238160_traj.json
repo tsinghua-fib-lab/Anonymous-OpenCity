@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:08)",
+        [
+            "",
+            700063392
+        ]
+    ],
+    [
+        "Outdoor Leisure Activities",
+        "(15:33, 17:39)",
+        [
+            "Nando's",
+            700012204
+        ]
+    ],
+    [
+        "Outdoor Leisure Activities",
+        "(18:22, 20:07)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Dinner Preparation and Dinner",
+        "(19:54, 21:03)",
+        [
+            "",
+            700063206
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:57, 23:59)",
+        [
+            "Southampton Place",
+            700010363
+        ]
+    ]
+]

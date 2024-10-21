@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002917
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:12)",
+        [
+            "",
+            700002289
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 21:01)",
+        [
+            "Sea Salt Grill & Bar",
+            700036808
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(21:21, 23:15)",
+        [
+            "",
+            700002917
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(23:18, 23:59)",
+        [
+            "Sea Salt Grill & Bar",
+            700036808
+        ]
+    ]
+]

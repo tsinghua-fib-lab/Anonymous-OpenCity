@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "California Institute of Fashion",
+            700000280
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 11:08)",
+        [
+            "California Institute of Fashion",
+            700000280
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:43, 12:56)",
+        [
+            "Equinox Gym",
+            700002315
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 18:25)",
+        [
+            "Flores",
+            700005578
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:04, 17:07)",
+        [
+            "Flores",
+            700005578
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:43, 19:11)",
+        [
+            "",
+            700014113
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:57, 23:59)",
+        [
+            "Bar None",
+            700005378
+        ]
+    ]
+]

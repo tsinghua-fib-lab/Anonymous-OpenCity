@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700021730
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:47)",
+        [
+            "Ravagh Persian Grill",
+            700038118
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(13:52, 15:16)",
+        [
+            "Ravagh Persian Grill",
+            700038118
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:14, 20:09)",
+        [
+            "Kosher in Midtown",
+            700006344
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:45, 21:51)",
+        [
+            "",
+            700019038
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:24, 23:59)",
+        [
+            "Hamachi 34",
+            700019183
+        ]
+    ]
+]

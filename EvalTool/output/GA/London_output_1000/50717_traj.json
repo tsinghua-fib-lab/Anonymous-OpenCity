@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "West End Sidings Estate",
+            700010380
+        ]
+    ],
+    [
+        "Go for a walk or engage in a sports activity",
+        "(09:00, 10:24)",
+        [
+            "",
+            700071480
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:57, 15:06)",
+        [
+            "",
+            700009187
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 19:12)",
+        [
+            "",
+            700018027
+        ]
+    ],
+    [
+        "Relax with leisure activities",
+        "(19:54, 21:55)",
+        [
+            "West End Sidings Estate",
+            700010380
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:58)",
+        [
+            "",
+            700009185
+        ]
+    ],
+    [
+        "Go to West End Sidings Estate",
+        "(23:58, 23:59)",
+        [
+            "West End Sidings Estate",
+            700010380
+        ]
+    ]
+]

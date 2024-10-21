@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "John Doe Bar & Kitchen",
+            700008607
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:50)",
+        [
+            "",
+            700025103
+        ]
+    ],
+    [
+        "1:30 PM - 3:00 PM: Visit a local art gallery or museum to explore and appreciate culture.",
+        "(14:16, 15:44)",
+        [
+            "John Doe Bar & Kitchen",
+            700008607
+        ]
+    ],
+    [
+        "Visit a local art gallery or museum to explore and appreciate culture.",
+        "(16:24, 18:00)",
+        [
+            "",
+            700025108
+        ]
+    ],
+    [
+        "Head out for an evening walk",
+        "(18:55, 20:36)",
+        [
+            "John Doe Bar & Kitchen",
+            700008607
+        ]
+    ],
+    [
+        "Stay at John Doe Bar & Kitchen.",
+        "(20:59, 23:27)",
+        [
+            "John Doe Bar & Kitchen",
+            700008607
+        ]
+    ],
+    [
+        "Stay at John Doe Bar & Kitchen",
+        "(22:49, 23:59)",
+        [
+            "John Doe Bar & Kitchen",
+            700008607
+        ]
+    ]
+]

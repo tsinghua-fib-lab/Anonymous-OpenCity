@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Think Coffee",
+            700011151
+        ]
+    ],
+    [
+        "Breakfast at Think Coffee",
+        "(10:00, 11:16)",
+        [
+            "Nom Wah Tea Parlor",
+            700008959
+        ]
+    ],
+    [
+        "Relax and read a book or enjoy some personal time",
+        "(11:54, 13:07)",
+        [
+            "Nom Wah Tea Parlor",
+            700008959
+        ]
+    ],
+    [
+        "Relax and read a book or enjoy some personal time",
+        "(12:52, 14:27)",
+        [
+            "Nom Wah Tea Parlor",
+            700008959
+        ]
+    ],
+    [
+        "Relax and read a book or enjoy some personal time",
+        "(14:27, 15:26)",
+        [
+            "Nom Wah Tea Parlor",
+            700008959
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 21:42)",
+        [
+            "Nom Wah Tea Parlor",
+            700008959
+        ]
+    ],
+    [
+        "Winding down with a movie or TV show at home",
+        "(21:43, 22:54)",
+        [
+            "Think Coffee",
+            700011151
+        ]
+    ],
+    [
+        "Wind down with a movie or TV show at home.",
+        "(23:45, 23:59)",
+        [
+            "Nom Wah Tea Parlor",
+            700008959
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Woolworths Petrol",
+            700004299
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:23)",
+        [
+            "Doncaster Room",
+            700018707
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:15, 13:25)",
+        [
+            "Doncaster Room",
+            700018707
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 16:12)",
+        [
+            "",
+            700018537
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 19:43)",
+        [
+            "",
+            700025530
+        ]
+    ],
+    [
+        "Exercise and Lunch",
+        "(20:46, 22:09)",
+        [
+            "Eastbank",
+            700006949
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:10, 23:59)",
+        [
+            "",
+            700026261
+        ]
+    ]
+]

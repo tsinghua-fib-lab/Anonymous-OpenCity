@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fresh&Co",
+            700015240
+        ]
+    ],
+    [
+        "Wake Up and Relax",
+        "(10:00, 11:20)",
+        [
+            "Manhattan Sikh Center",
+            700016448
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:08, 14:52)",
+        [
+            "Fresh&Co",
+            700015240
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 18:46)",
+        [
+            "Pret A Manger",
+            700006029
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:57, 23:04)",
+        [
+            "",
+            700021027
+        ]
+    ],
+    [
+        "Dinner Preparation/Cooking",
+        "(19:21, 20:03)",
+        [
+            "Fresh&Co",
+            700015240
+        ]
+    ],
+    [
+        "Dinner Preparation/Cooking",
+        "(20:29, 21:51)",
+        [
+            "",
+            700021027
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:50, 23:59)",
+        [
+            "Dunkin'",
+            700006024
+        ]
+    ]
+]

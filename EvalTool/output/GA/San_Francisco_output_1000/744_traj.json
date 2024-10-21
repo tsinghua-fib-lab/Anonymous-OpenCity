@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009495
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(09:00, 10:36)",
+        [
+            "Angel Cafe & Deli",
+            700000147
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(10:50, 12:06)",
+        [
+            "Kokio Republic",
+            700003440
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(12:39, 13:47)",
+        [
+            "Angel Cafe & Deli",
+            700000147
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:22, 17:58)",
+        [
+            "724 Hookah Lounge",
+            700009493
+        ]
+    ],
+    [
+        "Social Time",
+        "(20:03, 21:58)",
+        [
+            "Angel Cafe & Deli",
+            700000147
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:58)",
+        [
+            "Bandit",
+            700005462
+        ]
+    ]
+]

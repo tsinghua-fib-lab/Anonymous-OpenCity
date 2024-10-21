@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001488
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:59)",
+        [
+            "QUATORZE bis",
+            700024258
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:57, 13:14)",
+        [
+            "QUATORZE bis",
+            700024258
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:44, 15:22)",
+        [
+            "QUATORZE bis",
+            700024258
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:12, 18:04)",
+        [
+            "Coffee Shop",
+            700041023
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 22:19)",
+        [
+            "AOC East",
+            700024257
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "QUATORZE bis",
+            700024258
+        ]
+    ]
+]

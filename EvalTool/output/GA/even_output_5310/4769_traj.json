@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ba‘al Cafe & Falafel",
+            700005273
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:20)",
+        [
+            "Citi Bike - 6 Ave & Broome St",
+            700007938
+        ]
+    ],
+    [
+        "Stay at Citi Bike - 6 Ave & Broome St",
+        "(12:43, 14:10)",
+        [
+            "Black Tap",
+            700009114
+        ]
+    ],
+    [
+        "Stay at Citi Bike - 6 Ave & Broome St",
+        "(14:36, 16:10)",
+        [
+            "Black Tap",
+            700009114
+        ]
+    ],
+    [
+        "Stay at Citi Bike - 6 Ave & Broome St",
+        "(16:21, 17:49)",
+        [
+            "Pera SoHo",
+            700011977
+        ]
+    ],
+    [
+        "Engage in a hobby or creative activity, like painting or crafting",
+        "(18:05, 19:52)",
+        [
+            "",
+            700001187
+        ]
+    ],
+    [
+        "Stay at Pera SoHo",
+        "(20:51, 22:46)",
+        [
+            "Pera SoHo",
+            700011977
+        ]
+    ],
+    [
+        "Stay at Ba‘al Cafe & Falafel",
+        "(23:21, 23:59)",
+        [
+            "Pera SoHo",
+            700011977
+        ]
+    ]
+]

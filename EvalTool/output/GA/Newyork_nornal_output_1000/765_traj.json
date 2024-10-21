@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700031457
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:57)",
+        [
+            "",
+            700031466
+        ]
+    ],
+    [
+        "Personal Project or Hobby",
+        "(10:25, 11:56)",
+        [
+            "Chelsea Market Passage",
+            700007255
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 14:34)",
+        [
+            "Citi Bike - W 16 St & The High Line",
+            700008201
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:31, 22:18)",
+        [
+            "",
+            700024199
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:44, 23:59)",
+        [
+            "",
+            700024194
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "Go for a walk or engage in a sports activity",
+        "(09:00, 10:27)",
+        [
+            "Egyptian House",
+            700050002
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:57, 17:02)",
+        [
+            "",
+            700065882
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 20:02)",
+        [
+            "",
+            700066096
+        ]
+    ],
+    [
+        "Relax with leisure activities",
+        "(19:54, 21:59)",
+        [
+            "",
+            700066096
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:24)",
+        [
+            "",
+            700050016
+        ]
+    ],
+    [
+        "Go to White City Estate",
+        "(23:58, 23:59)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ]
+]

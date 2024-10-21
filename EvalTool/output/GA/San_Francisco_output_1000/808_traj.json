@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Peet's Coffee",
+            700009937
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:00)",
+        [
+            "The Snug",
+            700009931
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:58, 16:55)",
+        [
+            "",
+            700011041
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:19, 16:13)",
+        [
+            "The Snug",
+            700009931
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:02, 19:11)",
+        [
+            "The Snug",
+            700009931
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:29, 19:50)",
+        [
+            "",
+            700011065
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:51, 23:59)",
+        [
+            "",
+            700011040
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:01, 23:59)",
+        [
+            "Taxi Stand at CPMC Pacific Campus (along Buchanan at Clay St)",
+            700009951
+        ]
+    ]
+]

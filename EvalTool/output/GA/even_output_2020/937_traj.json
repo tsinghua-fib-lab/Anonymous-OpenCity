@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "True Laurel",
+            700010876
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:43)",
+        [
+            "",
+            700010802
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:35, 14:20)",
+        [
+            "Sightglass Coffee",
+            700004272
+        ]
+    ],
+    [
+        "Relaxation/Entertainment",
+        "(15:20, 17:09)",
+        [
+            "Sightglass Coffee",
+            700004272
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:42, 19:06)",
+        [
+            "Sightglass Coffee",
+            700004272
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(19:46, 21:10)",
+        [
+            "Flour + Water",
+            700002060
+        ]
+    ],
+    [
+        "Stay at Sightglass Coffee",
+        "(21:48, 22:54)",
+        [
+            "Sightglass Coffee",
+            700004272
+        ]
+    ],
+    [
+        "Stay at Sightglass Coffee.",
+        "(23:50, 23:59)",
+        [
+            "Flour + Water",
+            700002060
+        ]
+    ]
+]

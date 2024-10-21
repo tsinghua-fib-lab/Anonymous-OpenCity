@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "b on the go",
+            700010094
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:41)",
+        [
+            "Presidio Pizza Company",
+            700007980
+        ]
+    ],
+    [
+        "Relax at the home base",
+        "(13:41, 14:59)",
+        [
+            "Starbucks",
+            700004907
+        ]
+    ],
+    [
+        "Relax at the home base",
+        "(14:57, 16:09)",
+        [
+            "Starbucks",
+            700004907
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 18:22)",
+        [
+            "El Burrito Express",
+            700005282
+        ]
+    ],
+    [
+        "Try dinner at Jerusalem Church of God in Christ.",
+        "(20:41, 22:48)",
+        [
+            "El Burrito Express",
+            700005282
+        ]
+    ],
+    [
+        "Enjoy dinner at Ramen Izakaya Goku.",
+        "(23:41, 23:59)",
+        [
+            "Tea Hut",
+            700010933
+        ]
+    ]
+]

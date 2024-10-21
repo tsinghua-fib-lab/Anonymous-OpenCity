@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Wellman's HealthMart",
+            700004384
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:29)",
+        [
+            "Wells Fargo",
+            700004387
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(13:02, 14:32)",
+        [
+            "",
+            700001613
+        ]
+    ],
+    [
+        "Lunch",
+        "(15:18, 17:14)",
+        [
+            "Wells Fargo",
+            700000635
+        ]
+    ],
+    [
+        "Meet Friends or Family",
+        "(17:39, 19:09)",
+        [
+            "Wells Fargo",
+            700000635
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:34, 21:11)",
+        [
+            "",
+            700010513
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(21:21, 22:46)",
+        [
+            "",
+            700000535
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:39, 23:59)",
+        [
+            "Ha Tea",
+            700003878
+        ]
+    ]
+]

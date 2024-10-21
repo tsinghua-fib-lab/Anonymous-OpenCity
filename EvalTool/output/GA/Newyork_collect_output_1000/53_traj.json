@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Continue with personal projects or hobbies.",
+        "(10:00, 12:09)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 13:38)",
+        [
+            "",
+            700018138
+        ]
+    ],
+    [
+        "Continue with personal projects or hobbies.",
+        "(15:27, 17:05)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "5:30 PM - 7:00 PM",
+        "(17:57, 19:28)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Continue at Dog & Bone",
+        "(20:04, 22:12)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Mughlai",
+        "(22:14, 23:37)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Continue at Mughlai;",
+        "(23:50, 23:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

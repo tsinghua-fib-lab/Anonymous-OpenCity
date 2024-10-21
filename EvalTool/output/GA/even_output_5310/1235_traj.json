@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "Chase",
+            700004320
+        ]
+    ],
+    [
+        "go to this place",
+        "(08:00, 13:44)",
+        [
+            "Chase",
+            700004316
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(11:54, 13:51)",
+        [
+            "Chase",
+            700004320
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(15:03, 16:35)",
+        [
+            "Chase",
+            700004320
+        ]
+    ],
+    [
+        "Dinner preparation & family time",
+        "(17:19, 18:53)",
+        [
+            "Chase",
+            700004320
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:14, 21:00)",
+        [
+            "New York Burger Co",
+            700004319
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:28, 22:58)",
+        [
+            "Chase",
+            700004320
+        ]
+    ],
+    [
+        "Go to Evening Wind Down",
+        "(23:08, 23:59)",
+        [
+            "Chase",
+            700004320
+        ]
+    ]
+]

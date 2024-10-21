@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Aoba",
+            700009506
+        ]
+    ],
+    [
+        "Morning exercise (jogging or gym)",
+        "(09:00, 09:50)",
+        [
+            "Morning Star Church",
+            700000203
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:22, 15:11)",
+        [
+            "",
+            700000789
+        ]
+    ],
+    [
+        "Watch a movie or attend a live event",
+        "(16:32, 18:06)",
+        [
+            "",
+            700007546
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:31, 19:28)",
+        [
+            "",
+            700013763
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Lone Star Saloon",
+            700010474
+        ]
+    ]
+]

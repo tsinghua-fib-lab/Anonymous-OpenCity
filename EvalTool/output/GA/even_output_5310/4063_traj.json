@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Auto Broker New York",
+            700011881
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the nearby park or nature reserve.",
+        "(10:00, 10:54)",
+        [
+            "Café au bon gout",
+            700003238
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the nearby park or nature reserve.",
+        "(10:58, 12:00)",
+        [
+            "Café au bon gout",
+            700003238
+        ]
+    ],
+    [
+        "Attend a yoga class or engage in a home workout.",
+        "(12:15, 13:35)",
+        [
+            "Café au bon gout",
+            700003238
+        ]
+    ],
+    [
+        "Stay at Café au bon gout for lunch.",
+        "(14:39, 16:18)",
+        [
+            "Café au bon gout",
+            700003238
+        ]
+    ],
+    [
+        "current place and stay time",
+        "(16:25, 18:03)",
+        [
+            "Café au bon gout",
+            700003238
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 19:45)",
+        [
+            "Citi Bike - 5th Avenue & East 29th Street",
+            700007937
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 23:59)",
+        [
+            "",
+            700025105
+        ]
+    ],
+    [
+        "current place and stay time",
+        "(22:11, 23:42)",
+        [
+            "",
+            700025110
+        ]
+    ],
+    [
+        "Current place and stay time.",
+        "(23:49, 23:59)",
+        [
+            "",
+            700025108
+        ]
+    ]
+]

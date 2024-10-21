@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000803
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:54)",
+        [
+            "",
+            700000739
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(14:44, 17:06)",
+        [
+            "Late Night Ramen at Takashi",
+            700008786
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:19, 20:00)",
+        [
+            "",
+            700002563
+        ]
+    ],
+    [
+        "Next evening activities including social time",
+        "(20:10, 22:20)",
+        [
+            "Late Night Ramen at Takashi",
+            700008786
+        ]
+    ],
+    [
+        "Next evening activities including social time",
+        "(22:46, 23:59)",
+        [
+            "",
+            700002457
+        ]
+    ]
+]

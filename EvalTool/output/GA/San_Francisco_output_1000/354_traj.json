@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005005
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:24)",
+        [
+            "Tupelo",
+            700005003
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(12:16, 13:39)",
+        [
+            "Tupelo",
+            700005003
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:30, 19:25)",
+        [
+            "Maggie McGarrys",
+            700006897
+        ]
+    ],
+    [
+        "Relax at Tupelo.",
+        "(17:11, 19:05)",
+        [
+            "Tupelo",
+            700005003
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:25, 23:59)",
+        [
+            "Chubby Noodle",
+            700001681
+        ]
+    ]
+]

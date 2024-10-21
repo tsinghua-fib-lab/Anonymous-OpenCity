@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Spring Valley Elementary School",
+            700000271
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:23)",
+        [
+            "Spring Valley Elementary School",
+            700000271
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:02, 14:22)",
+        [
+            "Spring Valley Elementary School",
+            700000271
+        ]
+    ],
+    [
+        "Lunch",
+        "(15:18, 16:58)",
+        [
+            "Spring Valley Elementary School",
+            700000271
+        ]
+    ],
+    [
+        "Meet Friends or Family",
+        "(17:39, 19:05)",
+        [
+            "Spring Valley Elementary School",
+            700000271
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:34, 21:09)",
+        [
+            "Cafe Muse",
+            700003882
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(21:21, 22:43)",
+        [
+            "",
+            700000532
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:39, 23:59)",
+        [
+            "Restorante Milano",
+            700005181
+        ]
+    ]
+]

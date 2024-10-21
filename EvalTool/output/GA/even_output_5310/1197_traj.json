@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700021984
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:50)",
+        [
+            "Nall's Irish Pub & Restaurant",
+            700009297
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:42, 13:59)",
+        [
+            "",
+            700021982
+        ]
+    ],
+    [
+        "Catch Up on Reading or Hobbies",
+        "(14:32, 15:53)",
+        [
+            "",
+            700021986
+        ]
+    ],
+    [
+        "Catch Up on Reading or Hobbies",
+        "(16:52, 17:56)",
+        [
+            "",
+            700021984
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:22, 19:51)",
+        [
+            "Nall's Irish Pub & Restaurant",
+            700009297
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(20:18, 21:52)",
+        [
+            "Hudson Malone",
+            700009299
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(22:19, 23:39)",
+        [
+            "Cafe Luce",
+            700038182
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:46, 23:59)",
+        [
+            "Cafe Luce",
+            700038182
+        ]
+    ]
+]

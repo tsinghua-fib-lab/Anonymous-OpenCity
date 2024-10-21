@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006273
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:59)",
+        [
+            "Pizza Hut",
+            700004303
+        ]
+    ],
+    [
+        "Go to Pizza Hut",
+        "(11:29, 13:02)",
+        [
+            "Pizza Hut",
+            700004303
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:38, 17:34)",
+        [
+            "Audrey Kukurudz",
+            700029067
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:54, 17:08)",
+        [
+            "Audrey Kukurudz",
+            700029067
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:14, 19:23)",
+        [
+            "",
+            700025183
+        ]
+    ],
+    [
+        "Stay at Pizza Hut",
+        "(19:58, 21:24)",
+        [
+            "Audrey Kukurudz",
+            700029067
+        ]
+    ],
+    [
+        "Stay at Pizza Hut.",
+        "(21:33, 23:08)",
+        [
+            "Audrey Kukurudz",
+            700029067
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "Fun Pizza",
+            700015771
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Gough School",
+            700000161
+        ]
+    ],
+    [
+        "10:00 AM - 12:00 PM",
+        "(09:00, 11:09)",
+        [
+            "Bay Wheels",
+            700009969
+        ]
+    ],
+    [
+        "Next activity based on the plan",
+        "(11:57, 12:55)",
+        [
+            "Bay Wheels",
+            700009969
+        ]
+    ],
+    [
+        "1:00 PM - 3:00 PM",
+        "(13:43, 15:52)",
+        [
+            "Bay Wheels",
+            700009969
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:18, 18:27)",
+        [
+            "",
+            700000525
+        ]
+    ],
+    [
+        "Next place activity",
+        "(22:39, 23:59)",
+        [
+            "Lutheran Church of the Holy Chapel",
+            700000230
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "The Cinch Saloon",
+            700004199
+        ]
+    ]
+]

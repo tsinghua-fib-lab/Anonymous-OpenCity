@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "La Vera Pizza",
+            700024965
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:56)",
+        [
+            "Elite Food Bar",
+            700008385
+        ]
+    ],
+    [
+        "Continue with the plan",
+        "(11:22, 12:46)",
+        [
+            "La Vera Pizza",
+            700024965
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 15:57)",
+        [
+            "",
+            700000996
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:59, 23:52)",
+        [
+            "",
+            700002581
+        ]
+    ],
+    [
+        "Go for a morning walk/exercise",
+        "(23:33, 23:59)",
+        [
+            "Sido",
+            700008544
+        ]
+    ]
+]

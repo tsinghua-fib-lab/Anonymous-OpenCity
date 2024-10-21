@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Sandwich Boss at EPC",
+            700006487
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 11:58)",
+        [
+            "The Sandwich Boss at EPC",
+            700006487
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:43, 13:59)",
+        [
+            "The Sandwich Boss at EPC",
+            700006487
+        ]
+    ],
+    [
+        "Afternoon Hobby or Sports",
+        "(14:16, 16:03)",
+        [
+            "The Sandwich Boss at EPC",
+            700006487
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:35, 20:24)",
+        [
+            "",
+            700012736
+        ]
+    ],
+    [
+        "Social Time",
+        "(21:08, 22:32)",
+        [
+            "The Sandwich Boss at EPC",
+            700006487
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:26, 23:59)",
+        [
+            "",
+            700012734
+        ]
+    ]
+]

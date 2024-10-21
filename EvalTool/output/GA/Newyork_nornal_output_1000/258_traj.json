@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "L'Atelier de Joël Robuchon",
+            700019588
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(09:00, 09:53)",
+        [
+            "",
+            700024194
+        ]
+    ],
+    [
+        "Next activity after morning walk",
+        "(10:11, 11:34)",
+        [
+            "NºBetween",
+            700040417
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(12:28, 13:59)",
+        [
+            "The Tippler",
+            700006137
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(14:22, 15:57)",
+        [
+            "NºBetween",
+            700040417
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 19:19)",
+        [
+            "",
+            700007391
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:55, 23:32)",
+        [
+            "The Tippler",
+            700006137
+        ]
+    ]
+]

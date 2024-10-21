@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Pinkberry",
+            700003463
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:10)",
+        [
+            "Blue Ribbon",
+            700003461
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:40, 14:03)",
+        [
+            "Blue Ribbon",
+            700003461
+        ]
+    ],
+    [
+        "Lunch at Blue Ribbon",
+        "(14:24, 15:47)",
+        [
+            "Blue Ribbon",
+            700003461
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:34, 17:58)",
+        [
+            "Blue Ribbon",
+            700003461
+        ]
+    ],
+    [
+        "Stay at Blue Ribbon",
+        "(18:12, 19:35)",
+        [
+            "Blue Ribbon",
+            700003461
+        ]
+    ],
+    [
+        "Stay at Blue Ribbon",
+        "(20:04, 22:39)",
+        [
+            "Blue Ribbon",
+            700003461
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:53, 23:59)",
+        [
+            "Juice Generation",
+            700006321
+        ]
+    ]
+]

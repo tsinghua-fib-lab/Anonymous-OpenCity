@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "cubbyhole",
+            700005701
+        ]
+    ],
+    [
+        "next activity based on plan",
+        "(10:00, 11:06)",
+        [
+            "cubbyhole",
+            700005701
+        ]
+    ],
+    [
+        "Attend a virtual yoga/fitness class",
+        "(11:15, 12:18)",
+        [
+            "cubbyhole",
+            700005701
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:01, 17:17)",
+        [
+            "Corner bistro",
+            700008549
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(14:37, 16:47)",
+        [
+            "Corner bistro",
+            700008549
+        ]
+    ],
+    [
+        "Prepare and have lunch.",
+        "(16:36, 17:56)",
+        [
+            "Café Minerva",
+            700008486
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 21:07)",
+        [
+            "Café Minerva",
+            700008486
+        ]
+    ],
+    [
+        "Go to Woori America Bank; Prepare and have dinner.",
+        "(23:39, 23:59)",
+        [
+            "",
+            700002791
+        ]
+    ]
+]

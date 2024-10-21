@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:03)",
+        [
+            "",
+            700014479
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(12:45, 14:08)",
+        [
+            "Bistro Vendôme",
+            700011529
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:42, 15:55)",
+        [
+            "Bistro Vendôme",
+            700011529
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:36, 18:51)",
+        [
+            "",
+            700010700
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:25, 22:51)",
+        [
+            "Kiss My Slice Pizzaria",
+            700010701
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 23:59)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Next workout session",
+        "(09:00, 10:35)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Next workout session",
+        "(10:28, 12:36)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Next leisure activity",
+        "(13:29, 15:09)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Stay at Sunflower Cafe",
+        "(16:01, 18:08)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(18:08, 19:34)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 23:21)",
+        [
+            "",
+            700018138
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:59)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(23:04, 23:59)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020599
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:06)",
+        [
+            "Uva Next Door",
+            700023406
+        ]
+    ],
+    [
+        "Current place: Uva Next Door, stay until 2:00 PM for lunch",
+        "(12:39, 14:29)",
+        [
+            "",
+            700020592
+        ]
+    ],
+    [
+        "Stay until 2:00 PM",
+        "(15:33, 17:38)",
+        [
+            "Uva Next Door",
+            700023406
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:49, 23:26)",
+        [
+            "Ollie's To Go",
+            700023407
+        ]
+    ],
+    [
+        "Stay at Top of the strand until dinner.",
+        "(20:49, 22:45)",
+        [
+            "the Blue Mezze Bar",
+            700023409
+        ]
+    ],
+    [
+        "Go to New York Grill and Deli for a late-night snack.",
+        "(22:41, 23:59)",
+        [
+            "",
+            700020598
+        ]
+    ]
+]

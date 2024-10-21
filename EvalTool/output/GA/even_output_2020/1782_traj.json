@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008998
+        ]
+    ],
+    [
+        "Morning Exercise or Outdoor Activity",
+        "(10:00, 11:27)",
+        [
+            "",
+            700008902
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(12:17, 14:15)",
+        [
+            "",
+            700008913
+        ]
+    ],
+    [
+        "Relax and Unwind with a Book or Movie",
+        "(14:30, 16:22)",
+        [
+            "",
+            700008998
+        ]
+    ],
+    [
+        "Late Afternoon Hobby or Sport",
+        "(16:26, 17:57)",
+        [
+            "Venticello",
+            700005060
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 22:58)",
+        [
+            "",
+            700008912
+        ]
+    ]
+]

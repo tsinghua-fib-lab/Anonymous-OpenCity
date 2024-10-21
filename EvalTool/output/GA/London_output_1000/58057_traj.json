@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:10)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:56, 12:05)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:57, 16:23)",
+        [
+            "Aldersgate Street",
+            700011522
+        ]
+    ],
+    [
+        "Socializing",
+        "(17:44, 19:14)",
+        [
+            "Aldersgate Street",
+            700011522
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:47, 22:27)",
+        [
+            "",
+            700019929
+        ]
+    ],
+    [
+        "Socializing",
+        "(22:26, 23:59)",
+        [
+            "",
+            700032589
+        ]
+    ]
+]

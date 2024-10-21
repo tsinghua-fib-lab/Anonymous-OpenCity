@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Orient Express",
+            700014424
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:18)",
+        [
+            "White Horse Tavern",
+            700008957
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(13:52, 15:16)",
+        [
+            "White Horse Tavern",
+            700008957
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:14, 18:07)",
+        [
+            "",
+            700003040
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:45, 22:21)",
+        [
+            "Sushi West",
+            700013966
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:24, 23:59)",
+        [
+            "",
+            700001049
+        ]
+    ]
+]

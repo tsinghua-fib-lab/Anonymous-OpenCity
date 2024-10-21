@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:09)",
+        [
+            "",
+            700002266
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:38, 15:17)",
+        [
+            "",
+            700001885
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:32, 17:02)",
+        [
+            "The Francis Kite Club",
+            700016984
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:04, 18:02)",
+        [
+            "The Francis Kite Club",
+            700016984
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(18:16, 19:39)",
+        [
+            "Nublu Classic",
+            700009662
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 21:03)",
+        [
+            "",
+            700002428
+        ]
+    ],
+    [
+        "Relaxation",
+        "(23:53, 23:59)",
+        [
+            "",
+            700001181
+        ]
+    ]
+]

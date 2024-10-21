@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "CVS Pharmacy",
+            700033545
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:21)",
+        [
+            "Bar Felice",
+            700024255
+        ]
+    ],
+    [
+        "Stay at Bar Felice",
+        "(15:50, 16:57)",
+        [
+            "Bar Felice",
+            700024255
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:38, 19:55)",
+        [
+            "Coffee Shop",
+            700041023
+        ]
+    ],
+    [
+        "Stay at CVS Pharmacy",
+        "(23:00, 23:59)",
+        [
+            "Coffee Shop",
+            700041023
+        ]
+    ]
+]

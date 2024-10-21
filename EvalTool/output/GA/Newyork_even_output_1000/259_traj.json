@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700012031
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:18)",
+        [
+            "Art Bar",
+            700010310
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(10:26, 12:57)",
+        [
+            "Art Bar",
+            700010310
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(12:51, 14:06)",
+        [
+            "Art Bar",
+            700010310
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:57, 15:56)",
+        [
+            "Art Bar",
+            700010310
+        ]
+    ],
+    [
+        "Leisure activity at Art Bar",
+        "(15:47, 17:02)",
+        [
+            "Art Bar",
+            700010310
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:15, 23:01)",
+        [
+            "",
+            700012031
+        ]
+    ],
+    [
+        "Stay at Art Bar (Situation 7)",
+        "(22:27, 23:53)",
+        [
+            "Art Bar",
+            700010310
+        ]
+    ],
+    [
+        "Stay at Art Bar (Situation 7)",
+        "(23:57, 23:59)",
+        [
+            "Grounded",
+            700008485
+        ]
+    ]
+]

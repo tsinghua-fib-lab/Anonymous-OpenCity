@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "McDonald's",
+            700001788
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 11:27)",
+        [
+            "",
+            700028074
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(11:38, 13:09)",
+        [
+            "McDonald's",
+            700001788
+        ]
+    ],
+    [
+        "Afternoon Sports/Exercise",
+        "(13:29, 15:08)",
+        [
+            "Guichet Transilien",
+            700056557
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(15:38, 17:04)",
+        [
+            "Guichet Transilien",
+            700056557
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:27, 19:04)",
+        [
+            "KFC",
+            700065775
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:39, 23:59)",
+        [
+            "Le Pain Quotidien",
+            700022399
+        ]
+    ]
+]

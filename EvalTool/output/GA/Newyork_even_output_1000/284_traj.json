@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Benjamin Prime",
+            700017432
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:09)",
+        [
+            "",
+            700009472
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 18:11)",
+        [
+            "Starbucks",
+            700003422
+        ]
+    ],
+    [
+        "Social or Leisure Activities",
+        "(14:49, 17:47)",
+        [
+            "Citibank",
+            700003424
+        ]
+    ],
+    [
+        "Social or Leisure Activities",
+        "(16:54, 19:06)",
+        [
+            "Citibank",
+            700003424
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:18, 23:59)",
+        [
+            "The Shakespeare",
+            700007834
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:09, 22:44)",
+        [
+            "",
+            700011120
+        ]
+    ]
+]

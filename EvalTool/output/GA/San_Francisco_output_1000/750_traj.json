@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ollei",
+            700013230
+        ]
+    ],
+    [
+        "go for a relaxing walk in the park",
+        "(10:00, 10:58)",
+        [
+            "Mac'd",
+            700002097
+        ]
+    ],
+    [
+        "You are currently at Mac'd.",
+        "(11:12, 13:49)",
+        [
+            "Teaspoon",
+            700005265
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:53, 14:23)",
+        [
+            "Teaspoon",
+            700005265
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 18:37)",
+        [
+            "Starbucks",
+            700001865
+        ]
+    ],
+    [
+        "You are currently at Mac'd.",
+        "(21:27, 23:18)",
+        [
+            "Teaspoon",
+            700005265
+        ]
+    ],
+    [
+        "Stay at Mac'd",
+        "(23:57, 23:59)",
+        [
+            "Teaspoon",
+            700005265
+        ]
+    ]
+]

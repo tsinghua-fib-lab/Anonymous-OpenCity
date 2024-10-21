@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chopt",
+            700017446
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:28)",
+        [
+            "Chopt",
+            700017446
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 12:26)",
+        [
+            "Harbs",
+            700006568
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(13:00, 14:25)",
+        [
+            "Harbs",
+            700006568
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:29, 20:03)",
+        [
+            "Chase",
+            700005975
+        ]
+    ],
+    [
+        "Catch Up on TV/Movies",
+        "(17:15, 18:51)",
+        [
+            "Chopt",
+            700017446
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(19:04, 20:34)",
+        [
+            "Rothschild TLV",
+            700019738
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:40, 22:11)",
+        [
+            "Chopt",
+            700017446
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(23:03, 23:59)",
+        [
+            "Chase",
+            700005975
+        ]
+    ]
+]

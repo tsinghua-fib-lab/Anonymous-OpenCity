@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700006413
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:42)",
+        [
+            "Petite Explorer",
+            700004893
+        ]
+    ],
+    [
+        "Afternoon Leisure Activities",
+        "(14:00, 14:59)",
+        [
+            "Petite Explorer",
+            700004893
+        ]
+    ],
+    [
+        "Afternoon Leisure Activities",
+        "(15:58, 18:05)",
+        [
+            "Petite Explorer",
+            700004893
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:16, 19:49)",
+        [
+            "",
+            700006413
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:18, 23:59)",
+        [
+            "Bay Wheels",
+            700005699
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "McDonald's",
+            700003974
+        ]
+    ],
+    [
+        "Relax and enjoy some leisure reading or catch up on social media",
+        "(09:00, 10:07)",
+        [
+            "Bagels & Schmear",
+            700014610
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:02, 11:56)",
+        [
+            "McDonald's",
+            700003974
+        ]
+    ],
+    [
+        "Spend time with family or friends, either in person or via video call.",
+        "(16:04, 18:09)",
+        [
+            "Turnmill",
+            700006283
+        ]
+    ],
+    [
+        "Spend time with family or friends, either in person or via video call",
+        "(18:01, 20:05)",
+        [
+            "Turnmill",
+            700006283
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:43, 22:36)",
+        [
+            "Pappali",
+            700008417
+        ]
+    ],
+    [
+        "go to Pappali",
+        "(22:38, 23:59)",
+        [
+            "Pappali",
+            700008417
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "Jazz Standard",
+            700008585
+        ]
+    ]
+]

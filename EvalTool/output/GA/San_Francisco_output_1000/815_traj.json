@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Primo Pizza",
+            700004324
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:05)",
+        [
+            "Primo Pizza",
+            700004324
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:58, 17:24)",
+        [
+            "",
+            700006413
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:19, 16:17)",
+        [
+            "Primo Pizza",
+            700004324
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:02, 19:09)",
+        [
+            "Primo Pizza",
+            700004324
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:29, 20:01)",
+        [
+            "",
+            700001432
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:51, 23:59)",
+        [
+            "",
+            700002901
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:01, 23:59)",
+        [
+            "",
+            700001427
+        ]
+    ]
+]

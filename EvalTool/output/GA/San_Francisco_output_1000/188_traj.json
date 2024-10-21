@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Central Gardens",
+            700002143
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:34)",
+        [
+            "Central Gardens",
+            700002143
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:10, 12:36)",
+        [
+            "Central Gardens",
+            700002143
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 14:32)",
+        [
+            "",
+            700003634
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(18:22, 19:56)",
+        [
+            "Central Gardens",
+            700002143
+        ]
+    ],
+    [
+        "Catch up with friends or family.",
+        "(20:53, 22:20)",
+        [
+            "",
+            700000594
+        ]
+    ],
+    [
+        "Leisure activity",
+        "(23:04, 23:59)",
+        [
+            "Nari",
+            700010648
+        ]
+    ]
+]

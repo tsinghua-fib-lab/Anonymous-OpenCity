@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700007787
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:22)",
+        [
+            "",
+            700005213
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:27, 15:38)",
+        [
+            "",
+            700007623
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(12:43, 13:53)",
+        [
+            "",
+            700005212
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(14:12, 15:40)",
+        [
+            "",
+            700005213
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(16:06, 17:41)",
+        [
+            "",
+            700007624
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 19:47)",
+        [
+            "Workshop SF",
+            700007337
+        ]
+    ],
+    [
+        "Evening Out or Social Activity",
+        "(19:54, 21:07)",
+        [
+            "Workshop SF",
+            700007337
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:31)",
+        [
+            "Haight Ashbury Express Photo & Mail",
+            700004737
+        ]
+    ]
+]

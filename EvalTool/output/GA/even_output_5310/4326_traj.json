@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001828
+        ]
+    ],
+    [
+        "Outdoor Walk/Exercise",
+        "(10:00, 11:07)",
+        [
+            "Union Square Green Market",
+            700003346
+        ]
+    ],
+    [
+        "Outdoor Walk/Exercise",
+        "(11:02, 12:08)",
+        [
+            "",
+            700026337
+        ]
+    ],
+    [
+        "Lunch Preparation",
+        "(12:17, 13:53)",
+        [
+            "Union Square Green Market",
+            700003346
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 17:18)",
+        [
+            "",
+            700010540
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:28, 21:56)",
+        [
+            "Sweet Chick",
+            700037665
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:14, 23:59)",
+        [
+            "Rainbow Falafel & Shawarma",
+            700007303
+        ]
+    ]
+]

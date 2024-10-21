@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "CVS Pharmacy",
+            700003464
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:41)",
+        [
+            "Allie II parking",
+            700008310
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:05, 16:49)",
+        [
+            "Allie II parking",
+            700008310
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 22:59)",
+        [
+            "Citi Bike",
+            700038086
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(21:23, 22:54)",
+        [
+            "",
+            700018106
+        ]
+    ],
+    [
+        "At CVS Pharmacy, watch a movie or series.",
+        "(23:12, 23:59)",
+        [
+            "CVS Pharmacy",
+            700003464
+        ]
+    ]
+]

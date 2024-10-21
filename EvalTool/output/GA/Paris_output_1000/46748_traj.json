@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700029828
+        ]
+    ],
+    [
+        "Next activity based on the plan",
+        "(10:00, 11:29)",
+        [
+            "",
+            700071995
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:02, 14:47)",
+        [
+            "",
+            700029821
+        ]
+    ],
+    [
+        "Current place with extended stay.",
+        "(15:07, 16:29)",
+        [
+            "Mojito Habana",
+            700037069
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:46, 22:25)",
+        [
+            "",
+            700071989
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:18, 20:11)",
+        [
+            "Le Cristal",
+            700026909
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:07, 23:59)",
+        [
+            "Le Pré Carré",
+            700014515
+        ]
+    ]
+]

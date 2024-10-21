@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Box Kitchen",
+            700007486
+        ]
+    ],
+    [
+        "Reading or catching up on news/articles",
+        "(10:00, 10:54)",
+        [
+            "Box Kitchen",
+            700007486
+        ]
+    ],
+    [
+        "Reading or catching up on news/articles",
+        "(11:33, 12:57)",
+        [
+            "Box Kitchen",
+            700007486
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:02, 17:03)",
+        [
+            "Tin",
+            700001623
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 23:59)",
+        [
+            "",
+            700009296
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700070801
+        ]
+    ],
+    [
+        "Go for a leisurely walk or jog in the park",
+        "(10:00, 10:50)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 17:49)",
+        [
+            "",
+            700004920
+        ]
+    ],
+    [
+        "Go to Paris Musée du Louvre",
+        "(15:54, 17:01)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "Stay at Starbucks",
+        "(17:44, 19:04)",
+        [
+            "",
+            700057856
+        ]
+    ],
+    [
+        "Go to O'MG.",
+        "(19:25, 20:56)",
+        [
+            "",
+            700004911
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:12, 23:33)",
+        [
+            "",
+            700004911
+        ]
+    ]
+]

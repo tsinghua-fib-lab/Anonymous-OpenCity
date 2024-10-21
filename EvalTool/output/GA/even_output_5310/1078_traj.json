@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CVS Pharmacy",
+            700003821
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:42)",
+        [
+            "",
+            700031279
+        ]
+    ],
+    [
+        "Go for a walk in the park or around the neighborhood",
+        "(11:09, 12:02)",
+        [
+            "CVS Pharmacy",
+            700003821
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(12:41, 13:48)",
+        [
+            "A. 1. PIZZA SHOP",
+            700019774
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:03, 17:54)",
+        [
+            "A. 1. PIZZA SHOP",
+            700019774
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 23:59)",
+        [
+            "CVS Pharmacy",
+            700003821
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700034753
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:19)",
+        [
+            "",
+            700034755
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:08, 14:34)",
+        [
+            "",
+            700034762
+        ]
+    ],
+    [
+        "Engage in a Sport or Outdoor Activity",
+        "(15:21, 16:56)",
+        [
+            "",
+            700034762
+        ]
+    ],
+    [
+        "Visit Friends/Family or Host Them",
+        "(17:23, 18:52)",
+        [
+            "",
+            700034753
+        ]
+    ],
+    [
+        "Visit Friends/Family",
+        "(18:55, 20:23)",
+        [
+            "",
+            700034753
+        ]
+    ],
+    [
+        "Wind Down with a Movie/TV Show",
+        "(20:52, 22:44)",
+        [
+            "",
+            700034753
+        ]
+    ],
+    [
+        "Continue visiting friends/family",
+        "(23:45, 23:59)",
+        [
+            "",
+            700034755
+        ]
+    ]
+]

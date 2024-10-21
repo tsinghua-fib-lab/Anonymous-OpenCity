@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010436
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:46)",
+        [
+            "Llama San",
+            700019657
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:21, 14:50)",
+        [
+            "",
+            700001229
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 17:02)",
+        [
+            "Washington Square Dinner",
+            700011806
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:54, 23:25)",
+        [
+            "Oppa Bar",
+            700014171
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "The Four-Faced Liar",
+            700028016
+        ]
+    ]
+]

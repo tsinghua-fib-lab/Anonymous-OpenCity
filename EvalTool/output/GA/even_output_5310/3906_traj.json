@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "bb.q Chicken",
+            700009137
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:45)",
+        [
+            "Link NYC",
+            700019945
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 16:23)",
+        [
+            "NYC Pizza Kitchen",
+            700006240
+        ]
+    ],
+    [
+        "Entertainment",
+        "(16:51, 18:18)",
+        [
+            "NYC Pizza Kitchen",
+            700006240
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:17, 20:26)",
+        [
+            "NYC Pizza Kitchen",
+            700006240
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 22:46)",
+        [
+            "Tara Rose",
+            700017394
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "Coppola's",
+            700008586
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - 9th Avenue & West 22nd Street",
+            700007945
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(09:00, 10:28)",
+        [
+            "Citi Bike - 9th Avenue & West 22nd Street",
+            700007945
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 13:28)",
+        [
+            "",
+            700013926
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:08, 18:00)",
+        [
+            "Qanoon",
+            700004408
+        ]
+    ],
+    [
+        "Dinner Preparation and Relaxation",
+        "(18:59, 20:00)",
+        [
+            "Blossom- Chelsea",
+            700008701
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:55, 23:59)",
+        [
+            "",
+            700002757
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:24, 23:59)",
+        [
+            "",
+            700000822
+        ]
+    ]
+]

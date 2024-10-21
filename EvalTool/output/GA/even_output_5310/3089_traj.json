@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002347
+        ]
+    ],
+    [
+        "Leisure reading or hobbies",
+        "(10:00, 11:28)",
+        [
+            "",
+            700002347
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 17:30)",
+        [
+            "White Horse Tavern",
+            700008957
+        ]
+    ],
+    [
+        "Evening relaxation and planning for the week",
+        "(17:07, 19:00)",
+        [
+            "White Horse Tavern",
+            700008957
+        ]
+    ],
+    [
+        "Evening relaxation and planning for the week",
+        "(20:01, 20:57)",
+        [
+            "White Horse Tavern",
+            700008957
+        ]
+    ],
+    [
+        "Stay at White Horse Tavern",
+        "(21:40, 22:44)",
+        [
+            "White Horse Tavern",
+            700008957
+        ]
+    ],
+    [
+        "Stay at Kobrick Coffee",
+        "(23:01, 23:59)",
+        [
+            "",
+            700003040
+        ]
+    ]
+]

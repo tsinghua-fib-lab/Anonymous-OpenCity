@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "You will stay at Mughlai until 10:00 AM and then go for a walk.",
+        "(09:00, 10:21)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Go for a walk or jog in a nearby park",
+        "(10:26, 11:59)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 16:41)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:42, 23:59)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Move to Gramercy Park Dental",
+        "(21:51, 23:01)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ]
+]

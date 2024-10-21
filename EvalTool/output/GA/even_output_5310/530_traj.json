@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "NYC Dental Center",
+            700015027
+        ]
+    ],
+    [
+        "You go to Ahimsa.",
+        "(10:00, 10:51)",
+        [
+            "Ahimsa",
+            700015963
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 17:54)",
+        [
+            "Ahimsa",
+            700015963
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 23:00)",
+        [
+            "CityMD",
+            700013542
+        ]
+    ],
+    [
+        "go to J's Kitchen New York",
+        "(23:52, 23:59)",
+        [
+            "Perk Kafe",
+            700002985
+        ]
+    ]
+]

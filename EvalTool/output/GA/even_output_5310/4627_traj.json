@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chase",
+            700021805
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:29)",
+        [
+            "Astor Plate",
+            700021803
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:24, 16:35)",
+        [
+            "Joe's Pub at the Public",
+            700007232
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(17:53, 18:52)",
+        [
+            "Joe's Pub at the Public",
+            700007232
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(19:41, 20:52)",
+        [
+            "",
+            700008905
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:53, 23:03)",
+        [
+            "Astor Place Theatre",
+            700007609
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:12, 23:59)",
+        [
+            "The Donut Pub",
+            700023383
+        ]
+    ]
+]

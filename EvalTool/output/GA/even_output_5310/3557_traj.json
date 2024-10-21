@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Pomodoro Italian Restaurant",
+            700008669
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:11)",
+        [
+            "Holland Bar",
+            700006135
+        ]
+    ],
+    [
+        "Hobby Time or Creative Project",
+        "(14:08, 16:17)",
+        [
+            "Holland Bar",
+            700006135
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:07, 20:06)",
+        [
+            "Holland Bar",
+            700006135
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:37, 20:44)",
+        [
+            "Snack EOS",
+            700006350
+        ]
+    ],
+    [
+        "Stay at Holland Bar and spend time there.",
+        "(23:19, 23:59)",
+        [
+            "Holland Bar",
+            700006135
+        ]
+    ]
+]

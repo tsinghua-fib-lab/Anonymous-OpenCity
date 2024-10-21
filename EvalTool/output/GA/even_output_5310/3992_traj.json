@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700007678
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 12:10)",
+        [
+            "Tue Thai Food",
+            700004947
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(12:16, 14:09)",
+        [
+            "Tue Thai Food",
+            700004947
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:27, 15:52)",
+        [
+            "Tue Thai Food",
+            700004947
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 21:18)",
+        [
+            "Barre3",
+            700028899
+        ]
+    ],
+    [
+        "Home Relaxation",
+        "(21:14, 23:49)",
+        [
+            "Tue Thai Food",
+            700004947
+        ]
+    ],
+    [
+        "Home Relaxation",
+        "(23:58, 23:59)",
+        [
+            "Tue Thai Food",
+            700004947
+        ]
+    ]
+]

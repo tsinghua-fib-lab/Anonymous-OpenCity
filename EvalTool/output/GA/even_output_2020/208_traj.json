@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kuma Sushi + Sake",
+            700009690
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:37)",
+        [
+            "",
+            700010784
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 17:57)",
+        [
+            "Bay Wheels",
+            700009579
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:27, 23:22)",
+        [
+            "Wen's Kitchen",
+            700001112
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "Jackalope",
+            700004192
+        ]
+    ]
+]

@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030391
+        ]
+    ],
+    [
+        "Leisure Reading or Catching Up on Professional Development",
+        "(09:00, 10:30)",
+        [
+            "Yee Li",
+            700005421
+        ]
+    ],
+    [
+        "Leisure Reading or Catching Up on Professional Development",
+        "(11:04, 12:27)",
+        [
+            "Yee Li",
+            700005421
+        ]
+    ],
+    [
+        "Creative Pursuit or Hobby",
+        "(13:17, 14:55)",
+        [
+            "Chinatown Ice Cream Factory",
+            700009618
+        ]
+    ],
+    [
+        "Creative Pursuit or Hobby",
+        "(14:48, 16:26)",
+        [
+            "Chinatown Ice Cream Factory",
+            700009618
+        ]
+    ],
+    [
+        "Socializing with Friends or Family",
+        "(16:57, 18:09)",
+        [
+            "Chinatown Ice Cream Factory",
+            700009618
+        ]
+    ],
+    [
+        "Socializing with Friends or Family",
+        "(18:41, 20:18)",
+        [
+            "Kong Sihk Tong",
+            700019729
+        ]
+    ],
+    [
+        "Go to Kong Sihk Tong",
+        "(20:17, 21:58)",
+        [
+            "Kong Sihk Tong",
+            700019729
+        ]
+    ],
+    [
+        "Stay at Chinatown Ice Cream Factory.",
+        "(22:01, 23:28)",
+        [
+            "Vegetarian Dim Sum House",
+            700011023
+        ]
+    ],
+    [
+        "Go to Kong Sihk Tong",
+        "(23:37, 23:59)",
+        [
+            "Kong Sihk Tong",
+            700019729
+        ]
+    ]
+]

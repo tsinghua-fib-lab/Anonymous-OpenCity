@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rosa Bonheur",
+            700002186
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:29)",
+        [
+            "Rosa Bonheur",
+            700002186
+        ]
+    ],
+    [
+        "Next activity after outdoor activity.",
+        "(12:29, 13:52)",
+        [
+            "Rosa Bonheur",
+            700002186
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(14:45, 16:49)",
+        [
+            "Rosa Bonheur",
+            700002186
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:31, 19:11)",
+        [
+            "Rosa Bonheur",
+            700002186
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 23:15)",
+        [
+            "Rosa Bonheur",
+            700002186
+        ]
+    ]
+]

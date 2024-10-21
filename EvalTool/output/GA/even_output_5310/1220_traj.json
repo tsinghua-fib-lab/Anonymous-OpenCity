@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "First Republic Bank",
+            700006569
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 11:57)",
+        [
+            "Don Filippo",
+            700015281
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 17:38)",
+        [
+            "Angelina Paris",
+            700032207
+        ]
+    ],
+    [
+        "Spend the afternoon at a museum or art exhibit",
+        "(15:46, 16:37)",
+        [
+            "",
+            700016433
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:00, 21:41)",
+        [
+            "",
+            700017176
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:59)",
+        [
+            "Pastrami Queen",
+            700010458
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(22:14, 23:53)",
+        [
+            "Pastrami Queen",
+            700010458
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(23:47, 23:59)",
+        [
+            "Pastrami Queen",
+            700010458
+        ]
+    ]
+]

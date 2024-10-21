@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Shmoné",
+            700003754
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:54)",
+        [
+            "Shmoné",
+            700003754
+        ]
+    ],
+    [
+        "Lunch with friends",
+        "(13:00, 14:27)",
+        [
+            "C.O. Bigelow Chemists",
+            700012589
+        ]
+    ],
+    [
+        "Stay at C.O. Bigelow Chemists.",
+        "(14:35, 16:30)",
+        [
+            "Chipotle",
+            700028801
+        ]
+    ],
+    [
+        "Stay at C.O. Bigelow Chemists.",
+        "(16:48, 17:59)",
+        [
+            "Pieces Bar",
+            700011195
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:34, 19:48)",
+        [
+            "",
+            700007675
+        ]
+    ],
+    [
+        "Stay at Place 1",
+        "(19:56, 21:15)",
+        [
+            "Quality Eats",
+            700018026
+        ]
+    ],
+    [
+        "Stay at Shmoné.",
+        "(21:23, 23:01)",
+        [
+            "Quality Eats",
+            700018026
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "",
+            700007673
+        ]
+    ]
+]

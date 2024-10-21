@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 09:51)",
+        [
+            "",
+            700022517
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:33, 12:04)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:00, 20:08)",
+        [
+            "Street Taco",
+            700006239
+        ]
+    ],
+    [
+        "At-Home Leisure or Hobbies",
+        "(18:18, 20:03)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "At-Home Leisure or Hobbies",
+        "(20:45, 22:03)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:00, 23:59)",
+        [
+            "",
+            700002180
+        ]
+    ]
+]

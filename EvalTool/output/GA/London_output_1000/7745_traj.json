@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(10:00, 11:06)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(11:40, 12:50)",
+        [
+            "",
+            700070022
+        ]
+    ],
+    [
+        "Lunch with family or friends",
+        "(12:59, 14:23)",
+        [
+            "",
+            700070022
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(15:04, 16:05)",
+        [
+            "The Hill Cafe",
+            700041558
+        ]
+    ],
+    [
+        "Engage in a hobby or activity (like reading or crafting)",
+        "(15:19, 16:46)",
+        [
+            "The Hill Cafe",
+            700041558
+        ]
+    ],
+    [
+        "Engage in a hobby or activity (like reading or crafting)",
+        "(17:32, 18:51)",
+        [
+            "The Hill Cafe",
+            700041558
+        ]
+    ],
+    [
+        "Relax and unwind by watching a movie or playing games",
+        "(19:37, 21:07)",
+        [
+            "The Hill Cafe",
+            700041558
+        ]
+    ],
+    [
+        "Stay at The Hill Cafe",
+        "(21:19, 23:00)",
+        [
+            "The Hill Cafe",
+            700041558
+        ]
+    ],
+    [
+        "Stay at Barbican Dental Centre.",
+        "(23:18, 23:59)",
+        [
+            "",
+            700069930
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "icon 24hr Parking",
+            700010474
+        ]
+    ],
+    [
+        "Go for a Walk or Light Exercise",
+        "(10:00, 11:10)",
+        [
+            "icon 24hr Parking",
+            700010474
+        ]
+    ],
+    [
+        "Go for a Walk or Light Exercise",
+        "(11:50, 12:59)",
+        [
+            "icon 24hr Parking",
+            700010474
+        ]
+    ],
+    [
+        "Go for a Walk or Light Exercise",
+        "(12:52, 14:10)",
+        [
+            "icon 24hr Parking",
+            700010474
+        ]
+    ],
+    [
+        "Spend Time with Family or Friends",
+        "(14:30, 16:22)",
+        [
+            "icon 24hr Parking",
+            700010474
+        ]
+    ],
+    [
+        "Cook Dinner or Prepare for the Week",
+        "(17:17, 19:01)",
+        [
+            "icon 24hr Parking",
+            700010474
+        ]
+    ],
+    [
+        "Cook Dinner or Prepare for the Week",
+        "(19:16, 21:08)",
+        [
+            "Phoenix Garden",
+            700007839
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 22:52)",
+        [
+            "Phoenix Garden",
+            700007839
+        ]
+    ]
+]

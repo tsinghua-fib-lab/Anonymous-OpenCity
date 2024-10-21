@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "City College of San Francisco Chinatown North Beach Campus",
+            700000401
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:59)",
+        [
+            "",
+            700005896
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 18:53)",
+        [
+            "Curry Leaf",
+            700005339
+        ]
+    ],
+    [
+        "Dinner Preparation and Enjoying a Meal",
+        "(19:06, 20:33)",
+        [
+            "Curry Leaf",
+            700005339
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 21:33)",
+        [
+            "Cobb's Comedy Club",
+            700002054
+        ]
+    ]
+]

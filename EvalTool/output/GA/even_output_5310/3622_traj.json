@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "GrandLo Cafe",
+            700022906
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:22)",
+        [
+            "Nakamura",
+            700013752
+        ]
+    ],
+    [
+        "Leisure Activity: Movie or Reading",
+        "(11:38, 13:19)",
+        [
+            "Davelle NYC",
+            700009604
+        ]
+    ],
+    [
+        "Leisure Activity: Movie or Reading",
+        "(14:14, 15:55)",
+        [
+            "",
+            700021893
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(16:43, 18:03)",
+        [
+            "Bluestockings",
+            700019286
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 21:24)",
+        [
+            "Dental Office",
+            700024993
+        ]
+    ]
+]

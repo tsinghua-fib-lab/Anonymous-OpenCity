@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001457
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:38)",
+        [
+            "",
+            700001457
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:14, 14:09)",
+        [
+            "SOMA Eats",
+            700003347
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:30, 15:57)",
+        [
+            "SOMA Eats",
+            700003347
+        ]
+    ],
+    [
+        "Afternoon Movie",
+        "(16:47, 18:02)",
+        [
+            "SOMA Eats",
+            700003347
+        ]
+    ],
+    [
+        "Early Dinner Preparation",
+        "(18:21, 19:58)",
+        [
+            "",
+            700001457
+        ]
+    ],
+    [
+        "Relax with a Book or Music",
+        "(19:50, 20:47)",
+        [
+            "SOMA Eats",
+            700003347
+        ]
+    ],
+    [
+        "Relax with a Book or Music",
+        "(21:36, 22:45)",
+        [
+            "SOMA Eats",
+            700003347
+        ]
+    ],
+    [
+        "Relax with a Book or Music",
+        "(23:27, 23:59)",
+        [
+            "SOMA Eats",
+            700003347
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Birch Coffee",
+            700009339
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:56)",
+        [
+            "",
+            700025076
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:44, 13:53)",
+        [
+            "Birch Coffee",
+            700009339
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:30, 18:28)",
+        [
+            "",
+            700001359
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(17:20, 18:52)",
+        [
+            "BLACKBARN Restaurant",
+            700024952
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 23:59)",
+        [
+            "Citi Bike - Madison Ave & E 26 St",
+            700026432
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(23:04, 23:59)",
+        [
+            "Citi Bike - Madison Ave & E 26 St",
+            700026432
+        ]
+    ]
+]

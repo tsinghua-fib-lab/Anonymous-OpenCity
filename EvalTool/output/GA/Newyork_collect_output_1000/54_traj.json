@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Continue with personal projects or hobbies.",
+        "(10:00, 12:09)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 13:49)",
+        [
+            "",
+            700022515
+        ]
+    ],
+    [
+        "Continue with personal projects or hobbies.",
+        "(15:27, 17:04)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "5:30 PM - 7:00 PM",
+        "(17:57, 19:17)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "Continue at Morton Williams Cafe",
+        "(20:04, 22:10)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "AWOL Bar and Grill",
+        "(22:14, 23:49)",
+        [
+            "",
+            700022516
+        ]
+    ],
+    [
+        "Have dinner and relax;",
+        "(23:50, 23:59)",
+        [
+            "",
+            700018908
+        ]
+    ]
+]

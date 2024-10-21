@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009110
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:22)",
+        [
+            "",
+            700014410
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:25, 17:08)",
+        [
+            "Saints Peter and Paul School",
+            700000302
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:28, 19:00)",
+        [
+            "Saints Peter and Paul School",
+            700000302
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:55, 21:59)",
+        [
+            "Saints Peter and Paul School",
+            700000302
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:45, 23:59)",
+        [
+            "",
+            700009110
+        ]
+    ]
+]

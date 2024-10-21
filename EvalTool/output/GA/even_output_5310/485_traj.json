@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Emack & Bolio's",
+            700008954
+        ]
+    ],
+    [
+        "Morning Exercise from 10:00 AM to 11:00 AM",
+        "(09:00, 10:08)",
+        [
+            "Coffee Shop",
+            700041023
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:14, 12:14)",
+        [
+            "Felice",
+            700024260
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:47, 18:20)",
+        [
+            "Inase",
+            700024256
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:23, 21:03)",
+        [
+            "",
+            700003162
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "Gracie Mews Restaurant",
+            700013556
+        ]
+    ]
+]

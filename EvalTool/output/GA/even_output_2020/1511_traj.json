@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014183
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 11:57)",
+        [
+            "Firefly",
+            700000412
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:47, 18:24)",
+        [
+            "Dash",
+            700001749
+        ]
+    ],
+    [
+        "2:00 PM - 4:00 PM: Spend some time engaging in a hobby, such as reading, painting, or playing a musical instrument.",
+        "(15:41, 17:03)",
+        [
+            "Philz Coffee",
+            700000411
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:15, 22:41)",
+        [
+            "Seward Street Slides",
+            700001634
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:10, 23:59)",
+        [
+            "",
+            700013451
+        ]
+    ]
+]

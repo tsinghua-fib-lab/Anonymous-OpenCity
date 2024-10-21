@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:25)",
+        [
+            "Yong Kang Street",
+            700006177
+        ]
+    ],
+    [
+        "Personal Development",
+        "(11:15, 12:59)",
+        [
+            "Yong Kang Street",
+            700006177
+        ]
+    ],
+    [
+        "Lunch and Leisure",
+        "(13:29, 14:51)",
+        [
+            "Yong Kang Street",
+            700006177
+        ]
+    ],
+    [
+        "Lunch and Leisure",
+        "(15:34, 17:09)",
+        [
+            "Yong Kang Street",
+            700006177
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 19:27)",
+        [
+            "Starbucks",
+            700009156
+        ]
+    ],
+    [
+        "Move to Mughlai",
+        "(23:43, 23:59)",
+        [
+            "The Harold",
+            700011459
+        ]
+    ]
+]

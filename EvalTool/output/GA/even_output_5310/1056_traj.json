@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Hummus & Pita Co.",
+            700004231
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:27)",
+        [
+            "Guac Time",
+            700004497
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:33, 11:52)",
+        [
+            "Guac Time",
+            700004497
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 15:48)",
+        [
+            "",
+            700011680
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(16:32, 18:08)",
+        [
+            "Guac Time",
+            700004497
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(18:56, 20:35)",
+        [
+            "Dr. Fernando Mariz",
+            700019374
+        ]
+    ],
+    [
+        "After watching sports/entertainment, you should go to Dr. Fernando Mariz.",
+        "(21:15, 22:36)",
+        [
+            "Dr. Fernando Mariz",
+            700019374
+        ]
+    ],
+    [
+        "Go to Dr. Fernando Mariz.",
+        "(23:12, 23:59)",
+        [
+            "Dr. Fernando Mariz",
+            700019374
+        ]
+    ]
+]

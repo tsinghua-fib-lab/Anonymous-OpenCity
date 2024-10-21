@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Punjab Kabab House",
+            700003022
+        ]
+    ],
+    [
+        "Morning workout",
+        "(09:00, 10:09)",
+        [
+            "Punjab Kabab House",
+            700003022
+        ]
+    ],
+    [
+        "Visit a local market or café",
+        "(10:36, 12:15)",
+        [
+            "New York Pizza Kitchen",
+            700009016
+        ]
+    ],
+    [
+        "Lunch with friends or family",
+        "(13:11, 14:51)",
+        [
+            "Taquerria Castillo B2",
+            700003551
+        ]
+    ],
+    [
+        "Afternoon leisure activity",
+        "(15:33, 17:42)",
+        [
+            "Taquerria Castillo B2",
+            700003551
+        ]
+    ],
+    [
+        "Relax at home",
+        "(18:41, 20:01)",
+        [
+            "Punjab Kabab House",
+            700003022
+        ]
+    ],
+    [
+        "Dinner and evening catch-up",
+        "(20:10, 21:34)",
+        [
+            "",
+            700005134
+        ]
+    ],
+    [
+        "Relax at home",
+        "(21:56, 23:12)",
+        [
+            "Punjab Kabab House",
+            700003022
+        ]
+    ],
+    [
+        "Relax at home",
+        "(23:35, 23:59)",
+        [
+            "Punjab Kabab House",
+            700003022
+        ]
+    ]
+]

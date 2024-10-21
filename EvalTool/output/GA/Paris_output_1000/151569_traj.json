@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "pharmacie",
+            700061685
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:11)",
+        [
+            "Web@cadémie",
+            700019686
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:36, 15:05)",
+        [
+            "Web@cadémie",
+            700019686
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:14, 17:11)",
+        [
+            "Web@cadémie",
+            700019686
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:08, 21:14)",
+        [
+            "fast food fixme",
+            700061689
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "Roger Salengro - Fontainebleau",
+            700045123
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Divya’s Kitchen",
+            700007340
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:15)",
+        [
+            "d.b.a.",
+            700008398
+        ]
+    ],
+    [
+        "Leisure Reading or Casual Walk",
+        "(11:27, 12:48)",
+        [
+            "d.b.a.",
+            700008398
+        ]
+    ],
+    [
+        "Leisure Reading or Casual Walk",
+        "(13:39, 15:11)",
+        [
+            "d.b.a.",
+            700008398
+        ]
+    ],
+    [
+        "Leisure Reading or Casual Walk",
+        "(15:53, 16:56)",
+        [
+            "d.b.a.",
+            700008398
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:26, 20:20)",
+        [
+            "",
+            700020214
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(23:00, 23:59)",
+        [
+            "",
+            700000643
+        ]
+    ]
+]

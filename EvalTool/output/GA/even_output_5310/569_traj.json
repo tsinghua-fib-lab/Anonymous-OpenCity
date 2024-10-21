@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CVS Pharmacy",
+            700011386
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:00)",
+        [
+            "ProHEALTH Urgent Care",
+            700013549
+        ]
+    ],
+    [
+        "Watch a movie or TV show",
+        "(16:03, 17:36)",
+        [
+            "ProHEALTH Urgent Care",
+            700013549
+        ]
+    ],
+    [
+        "Prepare an early dinner",
+        "(18:22, 19:55)",
+        [
+            "ProHEALTH Urgent Care",
+            700013549
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:07, 23:59)",
+        [
+            "M&T Bank",
+            700011624
+        ]
+    ],
+    [
+        "Stay at You can see it from here.",
+        "(23:23, 23:59)",
+        [
+            "Möge Tee",
+            700003954
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "ChargePoint",
+            700012432
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:02)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "Enjoy lunch at Sutton Cafe Restaurant.",
+        "(13:36, 15:31)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "3:00 PM - 5:00 PM: Meet up with friends for an afternoon game (like basketball or tennis) or a leisurely stroll.",
+        "(16:03, 17:49)",
+        [
+            "ChargePoint",
+            700012432
+        ]
+    ],
+    [
+        "Enjoy coffee at Sutton Cafe Restaurant.",
+        "(17:54, 19:00)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "Stay at Sutton Cafe Restaurant.",
+        "(19:34, 21:41)",
+        [
+            "",
+            700025676
+        ]
+    ],
+    [
+        "Visit The Red Cat.",
+        "(20:48, 21:54)",
+        [
+            "",
+            700014479
+        ]
+    ],
+    [
+        "Stay at Sutton Cafe Restaurant.",
+        "(22:10, 23:41)",
+        [
+            "Neary’s",
+            700010786
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "ChargePoint",
+            700012432
+        ]
+    ]
+]

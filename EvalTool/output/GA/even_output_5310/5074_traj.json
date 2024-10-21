@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020609
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:52)",
+        [
+            "Lusardi's",
+            700019512
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:55, 18:19)",
+        [
+            "Citi Bike",
+            700020600
+        ]
+    ],
+    [
+        "Outdoor Time",
+        "(17:12, 18:54)",
+        [
+            "Citi Bike",
+            700020600
+        ]
+    ],
+    [
+        "Dinner and Prepare for the Week",
+        "(19:35, 20:50)",
+        [
+            "Citi Bike",
+            700020600
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(22:03, 23:59)",
+        [
+            "Keys & Heels",
+            700023405
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(23:54, 23:59)",
+        [
+            "Keys & Heels",
+            700023405
+        ]
+    ]
+]

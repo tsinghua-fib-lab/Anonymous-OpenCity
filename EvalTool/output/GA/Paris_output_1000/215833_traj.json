@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700041440
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:22)",
+        [
+            "Les Souffleurs",
+            700005790
+        ]
+    ],
+    [
+        "Sport or Outdoor Activity",
+        "(14:40, 16:06)",
+        [
+            "",
+            700041440
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:03, 18:08)",
+        [
+            "",
+            700069515
+        ]
+    ],
+    [
+        "Evening Socializing or Game Night",
+        "(20:44, 23:16)",
+        [
+            "Les Souffleurs",
+            700005790
+        ]
+    ],
+    [
+        "Evening Socializing or Game Night",
+        "(23:39, 23:59)",
+        [
+            "La Focacceria",
+            700018471
+        ]
+    ]
+]

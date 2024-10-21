@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Lenz's Delicatessen",
+            700018000
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:36)",
+        [
+            "StuyFitness on 20th",
+            700028439
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:25, 16:37)",
+        [
+            "TD Bank",
+            700011623
+        ]
+    ],
+    [
+        "Exercise Class",
+        "(17:10, 18:37)",
+        [
+            "Training Zone",
+            700006195
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:32, 22:10)",
+        [
+            "Proong Noodle Bar",
+            700025847
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:31, 23:59)",
+        [
+            "Rosemary's",
+            700026186
+        ]
+    ]
+]

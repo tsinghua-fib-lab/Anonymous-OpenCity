@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001471
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:13)",
+        [
+            "East Side Church of Christ",
+            700004738
+        ]
+    ],
+    [
+        "Leisure Reading or Casual Walk",
+        "(11:27, 12:58)",
+        [
+            "East Side Church of Christ",
+            700004738
+        ]
+    ],
+    [
+        "Leisure Reading or Casual Walk",
+        "(13:39, 15:12)",
+        [
+            "East Side Church of Christ",
+            700004738
+        ]
+    ],
+    [
+        "Leisure Reading or Casual Walk",
+        "(15:53, 17:08)",
+        [
+            "East Side Church of Christ",
+            700004738
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:26, 19:41)",
+        [
+            "The Bean",
+            700004735
+        ]
+    ],
+    [
+        "Watch a Sports Game or Movie",
+        "(23:00, 23:59)",
+        [
+            "The Bean",
+            700004735
+        ]
+    ]
+]

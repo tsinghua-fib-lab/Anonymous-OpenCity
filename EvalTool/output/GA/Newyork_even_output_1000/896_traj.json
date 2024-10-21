@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New Moon",
+            700011100
+        ]
+    ],
+    [
+        "next activity based on plan",
+        "(10:00, 10:56)",
+        [
+            "New Moon",
+            700011100
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(11:15, 13:18)",
+        [
+            "New Moon",
+            700011100
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:01, 18:42)",
+        [
+            "Sophra Grill",
+            700017624
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(14:37, 16:47)",
+        [
+            "Sophra Grill",
+            700017624
+        ]
+    ],
+    [
+        "Prepare and have lunch.",
+        "(16:36, 18:16)",
+        [
+            "Jackson Hole",
+            700007328
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 23:02)",
+        [
+            "",
+            700000898
+        ]
+    ],
+    [
+        "Go to Panera Bread; Prepare and have dinner.",
+        "(23:39, 23:59)",
+        [
+            "Semicolon",
+            700009564
+        ]
+    ]
+]

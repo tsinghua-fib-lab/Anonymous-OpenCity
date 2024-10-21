@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700064336
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(09:00, 10:31)",
+        [
+            "Le Dépanneur",
+            700024860
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:54, 16:22)",
+        [
+            "Le Dépanneur",
+            700024860
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:52, 18:53)",
+        [
+            "",
+            700032950
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:27, 16:48)",
+        [
+            "Le Dépanneur",
+            700024860
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:01, 23:33)",
+        [
+            "South Pigalle",
+            700009477
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "Le Dépanneur",
+            700024860
+        ]
+    ]
+]

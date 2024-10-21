@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Atlantic Grill",
+            700006585
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:56)",
+        [
+            "Café Fiorello",
+            700009202
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:40, 14:45)",
+        [
+            "Atlantic Grill",
+            700006585
+        ]
+    ],
+    [
+        "Relaxing at Home",
+        "(15:21, 16:30)",
+        [
+            "Café Fiorello",
+            700009202
+        ]
+    ],
+    [
+        "Visit a Museum or Art Gallery",
+        "(17:26, 18:59)",
+        [
+            "",
+            700019640
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:09, 22:30)",
+        [
+            "",
+            700019640
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "",
+            700018234
+        ]
+    ]
+]

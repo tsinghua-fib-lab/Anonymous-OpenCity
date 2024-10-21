@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Engage in a morning workout or outdoor activity, such as jogging or cycling.",
+        "(10:00, 11:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Engage in a morning workout or outdoor activity, such as jogging or cycling.",
+        "(11:25, 11:59)",
+        [
+            "",
+            700008488
+        ]
+    ],
+    [
+        "Engage in some leisure reading or catch up on personal projects.",
+        "(12:01, 14:06)",
+        [
+            "",
+            700008488
+        ]
+    ],
+    [
+        "leisure reading or catch up on personal projects",
+        "(14:38, 16:02)",
+        [
+            "",
+            700023795
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(16:30, 18:39)",
+        [
+            "Badiani Gelato",
+            700041568
+        ]
+    ],
+    [
+        "Prepare and enjoy dinner.",
+        "(18:04, 19:52)",
+        [
+            "Notting Hill Arts Club",
+            700016502
+        ]
+    ],
+    [
+        "Enjoy a hobby or craft activity.",
+        "(20:20, 22:04)",
+        [
+            "Notting Hill Arts Club",
+            700016502
+        ]
+    ],
+    [
+        "Continue leisure reading or personal projects",
+        "(22:59, 23:59)",
+        [
+            "Notting Hill Kebab",
+            700029286
+        ]
+    ]
+]

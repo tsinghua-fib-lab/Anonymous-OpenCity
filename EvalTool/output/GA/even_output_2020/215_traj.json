@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009608
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:46)",
+        [
+            "L & G Vietnamese Sandwich",
+            700009601
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 16:35)",
+        [
+            "Lafayette Coffee Shop",
+            700005076
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(17:10, 18:32)",
+        [
+            "Lafayette Coffee Shop",
+            700005076
+        ]
+    ],
+    [
+        "Prepare and have dinner, followed by relaxation",
+        "(18:47, 20:51)",
+        [
+            "L & G Vietnamese Sandwich",
+            700009601
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:59, 23:59)",
+        [
+            "Western Union",
+            700005073
+        ]
+    ]
+]

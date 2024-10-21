@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002325
+        ]
+    ],
+    [
+        "Engage in a creative writing session.",
+        "(09:00, 11:09)",
+        [
+            "",
+            700002325
+        ]
+    ],
+    [
+        "Engage in a creative writing session.",
+        "(11:32, 12:55)",
+        [
+            "",
+            700002325
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(13:32, 14:58)",
+        [
+            "",
+            700002325
+        ]
+    ],
+    [
+        "Spend time on a hobby",
+        "(15:34, 18:02)",
+        [
+            "",
+            700002325
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 18:58)",
+        [
+            "Clark Studio Theater",
+            700000562
+        ]
+    ],
+    [
+        "Creative Session",
+        "(21:27, 23:16)",
+        [
+            "Paul Recital Hall",
+            700022355
+        ]
+    ],
+    [
+        "Stay at Clark Studio Theater",
+        "(23:23, 23:59)",
+        [
+            "Paul Recital Hall",
+            700022355
+        ]
+    ]
+]

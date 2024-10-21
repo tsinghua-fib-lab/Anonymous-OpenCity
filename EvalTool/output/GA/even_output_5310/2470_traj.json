@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018516
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 11:01)",
+        [
+            "",
+            700002431
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:59, 14:24)",
+        [
+            "Stone Street Coffee Company",
+            700014509
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 18:54)",
+        [
+            "Chelsea Royal Care Pharmacy",
+            700004412
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:35, 23:59)",
+        [
+            "Bathtub Gin",
+            700014508
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "",
+            700003034
+        ]
+    ]
+]

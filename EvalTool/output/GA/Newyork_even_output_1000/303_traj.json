@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Luke's Lobster",
+            700008440
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:52)",
+        [
+            "Malone's",
+            700033970
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 17:48)",
+        [
+            "Cinco de Mayo",
+            700003768
+        ]
+    ],
+    [
+        "Relax and watch a movie or series",
+        "(15:25, 17:03)",
+        [
+            "Slice",
+            700011110
+        ]
+    ],
+    [
+        "Prepare dinner and wind down.",
+        "(17:21, 19:52)",
+        [
+            "Pennylane Coffee",
+            700006421
+        ]
+    ],
+    [
+        "Prepare dinner and wind down.",
+        "(21:03, 23:59)",
+        [
+            "",
+            700002253
+        ]
+    ],
+    [
+        "Next arrangement is to head to the nearest cafe for a quick coffee.",
+        "(23:58, 23:59)",
+        [
+            "Pennylane Coffee",
+            700006421
+        ]
+    ]
+]

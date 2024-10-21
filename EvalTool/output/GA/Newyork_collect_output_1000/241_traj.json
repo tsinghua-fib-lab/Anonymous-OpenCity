@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:33)",
+        [
+            "",
+            700022507
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:51, 12:30)",
+        [
+            "Awe Sum Dim Sum",
+            700028539
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:58, 15:38)",
+        [
+            "Awe Sum Dim Sum",
+            700028539
+        ]
+    ],
+    [
+        "Explore a Local Attraction",
+        "(15:36, 16:58)",
+        [
+            "Awe Sum Dim Sum",
+            700028539
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:58, 23:27)",
+        [
+            "Diner 24",
+            700004207
+        ]
+    ],
+    [
+        "Stay at Awe Sum Dim Sum",
+        "(22:57, 23:59)",
+        [
+            "Diner 24",
+            700004207
+        ]
+    ]
+]

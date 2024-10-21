@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002628
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:06)",
+        [
+            "Citi Bike - W 52 St / 11 Ave",
+            700008230
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:35, 13:57)",
+        [
+            "Citi Bike - W 52 St / 11 Ave",
+            700008230
+        ]
+    ],
+    [
+        "Personal Hobbies or DIY Projects",
+        "(14:57, 15:54)",
+        [
+            "Citi Bike - W 52 St / 11 Ave",
+            700008230
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:15, 17:59)",
+        [
+            "Citi Bike - W 52 St / 11 Ave",
+            700008230
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 20:47)",
+        [
+            "Irish Arts Center",
+            700000479
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "",
+            700027322
+        ]
+    ]
+]

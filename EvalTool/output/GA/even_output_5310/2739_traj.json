@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700015401
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:01)",
+        [
+            "",
+            700016433
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(14:17, 16:07)",
+        [
+            "",
+            700015401
+        ]
+    ],
+    [
+        "Engage in a hobby (like crafting, playing a game, etc.)",
+        "(16:41, 17:37)",
+        [
+            "",
+            700015401
+        ]
+    ],
+    [
+        "Prepare a simple dinner and relax",
+        "(18:05, 20:11)",
+        [
+            "Allen-Stevenson School",
+            700009392
+        ]
+    ],
+    [
+        "Prepare a simple dinner and relax",
+        "(20:17, 21:55)",
+        [
+            "Eighth Church of Christ, Scientist",
+            700011344
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:26, 23:59)",
+        [
+            "Pick-A-Bagel",
+            700007545
+        ]
+    ]
+]

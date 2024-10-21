@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Browning Estate",
+            700011047
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:33)",
+        [
+            "",
+            700070545
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(11:53, 13:23)",
+        [
+            "Browning Estate",
+            700011047
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 18:26)",
+        [
+            "",
+            700008242
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 21:44)",
+        [
+            "Subway",
+            700003806
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:51, 23:59)",
+        [
+            "Walworth Pharmacy",
+            700006903
+        ]
+    ],
+    [
+        "Stay time at current place",
+        "(23:11, 23:59)",
+        [
+            "",
+            700008242
+        ]
+    ]
+]

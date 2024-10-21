@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002733
+        ]
+    ],
+    [
+        "Workout or Outdoor Activity",
+        "(10:00, 11:28)",
+        [
+            "",
+            700038041
+        ]
+    ],
+    [
+        "Workout or Outdoor Activity",
+        "(12:14, 13:22)",
+        [
+            "",
+            700038048
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(14:42, 16:02)",
+        [
+            "",
+            700002733
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:28, 21:02)",
+        [
+            "",
+            700038047
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:58, 20:52)",
+        [
+            "",
+            700038051
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:34, 23:59)",
+        [
+            "Citi Bike - Catherine Street & Monroe Street",
+            700007990
+        ]
+    ]
+]

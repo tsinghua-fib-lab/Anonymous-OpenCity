@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000591
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:25)",
+        [
+            "Moulin Rouge Restaurant",
+            700001038
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 17:03)",
+        [
+            "Young's Kung Fu Action Theatre & Laundry",
+            700009853
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:33, 16:56)",
+        [
+            "House of Thai",
+            700001043
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 18:39)",
+        [
+            "Young's Kung Fu Action Theatre & Laundry",
+            700009853
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:04, 23:59)",
+        [
+            "Club Kristi",
+            700010753
+        ]
+    ]
+]

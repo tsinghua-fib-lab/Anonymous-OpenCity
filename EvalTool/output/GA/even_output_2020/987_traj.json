@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010164
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:35)",
+        [
+            "Standard",
+            700012800
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:02, 14:06)",
+        [
+            "Standard",
+            700012800
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 15:45)",
+        [
+            "Gourmet Carousel",
+            700009507
+        ]
+    ],
+    [
+        "Social Time",
+        "(19:42, 21:20)",
+        [
+            "Gourmet Carousel",
+            700009507
+        ]
+    ],
+    [
+        "Social Time",
+        "(21:18, 23:23)",
+        [
+            "Wayo",
+            700004063
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "Krav Maga",
+            700004064
+        ]
+    ]
+]

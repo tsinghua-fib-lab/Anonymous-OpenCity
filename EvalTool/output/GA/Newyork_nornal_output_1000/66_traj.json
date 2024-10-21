@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "ABC Beer Co.",
+            700010916
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:34)",
+        [
+            "",
+            700001817
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:16, 14:23)",
+        [
+            "",
+            700001817
+        ]
+    ],
+    [
+        "Engage in a recreational sports activity",
+        "(17:35, 19:01)",
+        [
+            "Joyface",
+            700038314
+        ]
+    ],
+    [
+        "Engage in a recreational sports activity",
+        "(19:26, 21:00)",
+        [
+            "Joyface",
+            700038314
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:57)",
+        [
+            "",
+            700002417
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chanson le Salon",
+            700009757
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:14)",
+        [
+            "Karpov Orthodontics",
+            700009204
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(15:25, 16:58)",
+        [
+            "Karpov Orthodontics",
+            700009204
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:33, 18:39)",
+        [
+            "Vcafe",
+            700018640
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:08, 20:55)",
+        [
+            "Chanson le Salon",
+            700009757
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:57, 22:24)",
+        [
+            "",
+            700036903
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:53, 23:59)",
+        [
+            "Benvenuto Cafe Tribeca",
+            700005340
+        ]
+    ]
+]

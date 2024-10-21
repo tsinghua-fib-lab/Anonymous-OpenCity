@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cafe Mystique",
+            700002178
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:29)",
+        [
+            "Strut",
+            700009578
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:14, 20:38)",
+        [
+            "Cafe Mystique",
+            700002178
+        ]
+    ],
+    [
+        "Stay at Cafe Mystique",
+        "(19:45, 21:03)",
+        [
+            "Cafe Mystique",
+            700002178
+        ]
+    ],
+    [
+        "Wind down the day with some light reading or watching TV.",
+        "(21:10, 23:20)",
+        [
+            "CarePlus / CVS",
+            700002187
+        ]
+    ],
+    [
+        "Stay at Cafe Mystique",
+        "(23:41, 23:59)",
+        [
+            "Cafe Mystique",
+            700002178
+        ]
+    ]
+]

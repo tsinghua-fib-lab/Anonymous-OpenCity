@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Pinkberry",
+            700018157
+        ]
+    ],
+    [
+        "next place",
+        "(09:00, 10:25)",
+        [
+            "",
+            700020038
+        ]
+    ],
+    [
+        "Stay at Chelsea Juice",
+        "(10:37, 12:07)",
+        [
+            "ChargePoint",
+            700012447
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:48, 15:58)",
+        [
+            "",
+            700020038
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a favorite series to relax and have some entertainment.",
+        "(16:35, 18:08)",
+        [
+            "ChargePoint",
+            700012447
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:54, 21:18)",
+        [
+            "Chipotle",
+            700014354
+        ]
+    ],
+    [
+        "Stay at Chelsea Juice",
+        "(22:22, 23:55)",
+        [
+            "Chipotle",
+            700014354
+        ]
+    ],
+    [
+        "Stay at Chelsea Juice.",
+        "(23:52, 23:59)",
+        [
+            "Mikado",
+            700018156
+        ]
+    ]
+]

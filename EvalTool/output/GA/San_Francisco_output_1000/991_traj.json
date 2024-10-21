@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Focaccia",
+            700003343
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:36)",
+        [
+            "",
+            700010987
+        ]
+    ],
+    [
+        "Start personal project or hobby",
+        "(11:41, 13:45)",
+        [
+            "Focaccia",
+            700003343
+        ]
+    ],
+    [
+        "Spend time on a personal project or hobby.",
+        "(13:55, 15:10)",
+        [
+            "Focaccia",
+            700003343
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 18:32)",
+        [
+            "Taxi Stand at BEI Hotel",
+            700009947
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 23:59)",
+        [
+            "Thoughts",
+            700004773
+        ]
+    ],
+    [
+        "Stay at Focaccia",
+        "(23:19, 23:59)",
+        [
+            "Thoughts",
+            700004773
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Burger King",
+            700021054
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:06)",
+        [
+            "Burger King",
+            700021054
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:14, 14:57)",
+        [
+            "Duane Reade",
+            700019209
+        ]
+    ],
+    [
+        "Afternoon Activity",
+        "(15:46, 17:19)",
+        [
+            "New York Sports and Joint Orthopedic Specialists",
+            700034552
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(17:58, 19:04)",
+        [
+            "",
+            700037603
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(19:20, 20:24)",
+        [
+            "",
+            700037606
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(20:33, 22:12)",
+        [
+            "New York Sports and Joint Orthopedic Specialists",
+            700034552
+        ]
+    ],
+    [
+        "Next relaxation or leisure time.",
+        "(22:12, 23:14)",
+        [
+            "",
+            700037602
+        ]
+    ],
+    [
+        "Next relaxation or leisure time.",
+        "(23:58, 23:59)",
+        [
+            "",
+            700037606
+        ]
+    ]
+]

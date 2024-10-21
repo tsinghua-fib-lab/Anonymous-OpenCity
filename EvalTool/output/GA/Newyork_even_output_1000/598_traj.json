@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Broken Shaker",
+            700006214
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 09:51)",
+        [
+            "The Broken Shaker",
+            700006214
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:31, 11:56)",
+        [
+            "The Broken Shaker",
+            700006214
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:05, 13:34)",
+        [
+            "The Broken Shaker",
+            700006214
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:38, 19:16)",
+        [
+            "Auto Motion",
+            700018140
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:12, 23:59)",
+        [
+            "Newman Library and Technology Center",
+            700000553
+        ]
+    ]
+]

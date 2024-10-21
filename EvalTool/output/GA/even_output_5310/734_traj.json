@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "icon 24hr Parking",
+            700010474
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:46)",
+        [
+            "Sai Gon Dep",
+            700017844
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:51, 16:11)",
+        [
+            "The Bravest",
+            700017771
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:24, 16:53)",
+        [
+            "",
+            700003605
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(17:45, 20:03)",
+        [
+            "The Bravest",
+            700017771
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 23:42)",
+        [
+            "Citi Bike - East 39th Street & 2nd Avenue",
+            700008045
+        ]
+    ]
+]

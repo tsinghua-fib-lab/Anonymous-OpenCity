@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001010
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:47)",
+        [
+            "Terra Blues",
+            700025816
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 15:53)",
+        [
+            "Le Poisson Rouge",
+            700004933
+        ]
+    ],
+    [
+        "Grocery Shopping or Errands",
+        "(14:34, 16:04)",
+        [
+            "The Malt House",
+            700011962
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 17:52)",
+        [
+            "The Red Lion",
+            700008490
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(22:07, 23:31)",
+        [
+            "GMT Tavern",
+            700011957
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:55, 23:59)",
+        [
+            "The Bitter End",
+            700005072
+        ]
+    ]
+]

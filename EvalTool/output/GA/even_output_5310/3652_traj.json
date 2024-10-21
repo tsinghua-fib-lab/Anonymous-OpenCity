@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "International Center of Photography Library",
+            700022902
+        ]
+    ],
+    [
+        "Current Place: International Center of Photography Library. Stay until 11:45 AM.",
+        "(10:00, 11:00)",
+        [
+            "Chase",
+            700013839
+        ]
+    ],
+    [
+        "Current Place: International Center of Photography Library. Stay until 11:45 AM.",
+        "(11:09, 12:29)",
+        [
+            "Chase",
+            700013839
+        ]
+    ],
+    [
+        "Current Place: International Center of Photography Library. Stay until 2:00 PM.",
+        "(13:05, 15:11)",
+        [
+            "Saffron",
+            700022929
+        ]
+    ],
+    [
+        "Stay at International Center of Photography Library",
+        "(15:49, 17:24)",
+        [
+            "Saffron",
+            700022929
+        ]
+    ],
+    [
+        "Stay at Los Tacos No. 1.",
+        "(17:28, 18:40)",
+        [
+            "",
+            700003003
+        ]
+    ],
+    [
+        "Stay at Los Tacos No. 1",
+        "(18:54, 20:28)",
+        [
+            "Arancini Bros.",
+            700022922
+        ]
+    ],
+    [
+        "Stay at Los Tacos No. 1.",
+        "(21:08, 22:18)",
+        [
+            "",
+            700003003
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "",
+            700003003
+        ]
+    ]
+]

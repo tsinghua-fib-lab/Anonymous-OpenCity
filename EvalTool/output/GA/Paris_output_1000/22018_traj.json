@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003141
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:47)",
+        [
+            "Bread&roses",
+            700019503
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:33, 16:54)",
+        [
+            "Bread&roses",
+            700019503
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:17, 19:51)",
+        [
+            "Bread&roses",
+            700019503
+        ]
+    ],
+    [
+        "Relaxation and TV Time",
+        "(19:30, 20:54)",
+        [
+            "Bread&roses",
+            700019503
+        ]
+    ],
+    [
+        "Relaxation and TV Time",
+        "(21:11, 23:02)",
+        [
+            "Bread&roses",
+            700019503
+        ]
+    ],
+    [
+        "Relaxation and TV Time",
+        "(23:56, 23:59)",
+        [
+            "Le Grand Restaurant",
+            700021290
+        ]
+    ]
+]

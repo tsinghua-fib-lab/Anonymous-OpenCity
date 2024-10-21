@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700017976
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:31)",
+        [
+            "TD Bank",
+            700003483
+        ]
+    ],
+    [
+        "Stay at TD Bank",
+        "(11:58, 13:20)",
+        [
+            "TD Bank",
+            700003483
+        ]
+    ],
+    [
+        "Stay at TD Bank",
+        "(14:16, 15:46)",
+        [
+            "Joe & The Juice",
+            700020885
+        ]
+    ],
+    [
+        "Stay at TD Bank",
+        "(16:44, 18:08)",
+        [
+            "Joe & The Juice",
+            700020885
+        ]
+    ],
+    [
+        "Stay at Chase and complete any necessary banking tasks.",
+        "(19:29, 20:54)",
+        [
+            "",
+            700017976
+        ]
+    ],
+    [
+        "Stay at TD Bank",
+        "(21:16, 23:18)",
+        [
+            "Joe & The Juice",
+            700020885
+        ]
+    ],
+    [
+        "Stay at TD Bank",
+        "(22:41, 23:59)",
+        [
+            "Joe & The Juice",
+            700020885
+        ]
+    ]
+]

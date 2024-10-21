@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020747
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:24)",
+        [
+            "Circle in the Square Theatre",
+            700017935
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:06, 16:19)",
+        [
+            "",
+            700000906
+        ]
+    ],
+    [
+        "Evening Relaxation and Planning for the Week Ahead",
+        "(20:37, 22:22)",
+        [
+            "Circle in the Square Theatre",
+            700017935
+        ]
+    ],
+    [
+        "Evening Relaxation and Planning for the Week Ahead",
+        "(22:36, 23:59)",
+        [
+            "Circle in the Square Theatre",
+            700017935
+        ]
+    ]
+]

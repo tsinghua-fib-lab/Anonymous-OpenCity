@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001018
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:35)",
+        [
+            "Cherokee Finance Station Post Office",
+            700006571
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:57, 12:15)",
+        [
+            "Cherokee Finance Station Post Office",
+            700006571
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:19, 15:32)",
+        [
+            "Sushi of Gari",
+            700007374
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 20:13)",
+        [
+            "East Side Bagel Cafe",
+            700016568
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:51, 20:11)",
+        [
+            "Spice",
+            700006573
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(20:20, 21:24)",
+        [
+            "Canyon Road Bar & Grill",
+            700027032
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(22:44, 23:59)",
+        [
+            "Spice",
+            700006573
+        ]
+    ]
+]

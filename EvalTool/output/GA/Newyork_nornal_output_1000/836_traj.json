@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "Current activity.",
+        "(09:00, 10:24)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:46, 13:54)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 16:43)",
+        [
+            "",
+            700002084
+        ]
+    ],
+    [
+        "Attend cooking session for dinner preparation.",
+        "(18:09, 19:29)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "Stay at La Traviata Pizzeria",
+        "(20:22, 22:32)",
+        [
+            "Il Violino",
+            700005036
+        ]
+    ],
+    [
+        "Stay at La Vera Pizza",
+        "(22:12, 23:59)",
+        [
+            "",
+            700002824
+        ]
+    ]
+]

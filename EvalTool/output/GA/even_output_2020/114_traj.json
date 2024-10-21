@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Lin's Kitchen",
+            700005188
+        ]
+    ],
+    [
+        "Reading or catching up on news/articles",
+        "(10:00, 11:10)",
+        [
+            "Bombay Buzzing",
+            700005123
+        ]
+    ],
+    [
+        "Reading or catching up on news/articles",
+        "(11:33, 13:01)",
+        [
+            "Bombay Buzzing",
+            700005123
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:02, 15:52)",
+        [
+            "Cafe Ellis",
+            700005186
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 23:59)",
+        [
+            "",
+            700008856
+        ]
+    ]
+]

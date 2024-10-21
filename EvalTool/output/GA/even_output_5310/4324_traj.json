@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Gomi",
+            700012365
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:08)",
+        [
+            "New York Grill and Deli",
+            700004865
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:36, 14:40)",
+        [
+            "New York Grill and Deli",
+            700004865
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(19:31, 22:08)",
+        [
+            "New York Grill and Deli",
+            700004865
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(22:49, 23:56)",
+        [
+            "New York Grill and Deli",
+            700004865
+        ]
+    ]
+]

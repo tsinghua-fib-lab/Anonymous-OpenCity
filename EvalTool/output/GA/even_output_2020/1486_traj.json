@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bay Wheels",
+            700011023
+        ]
+    ],
+    [
+        "Light Exercise or Walk",
+        "(09:00, 10:03)",
+        [
+            "",
+            700009651
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:51, 14:31)",
+        [
+            "",
+            700009652
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:38, 15:05)",
+        [
+            "Bay Wheels",
+            700011023
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:54, 15:57)",
+        [
+            "Bay Wheels",
+            700011023
+        ]
+    ],
+    [
+        "Stay at Bay Wheels",
+        "(21:12, 22:34)",
+        [
+            "Bay Wheels",
+            700011023
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:54, 23:59)",
+        [
+            "Lone Palm",
+            700003392
+        ]
+    ]
+]

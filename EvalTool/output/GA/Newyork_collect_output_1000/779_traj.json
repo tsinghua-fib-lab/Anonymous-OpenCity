@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:52)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:10, 12:33)",
+        [
+            "",
+            700011173
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:53, 15:15)",
+        [
+            "CitiBike Station",
+            700007611
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 19:34)",
+        [
+            "Song Yu, DPM",
+            700023820
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ]
+]

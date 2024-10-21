@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kolkota Chai Company",
+            700008397
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:59)",
+        [
+            "Lower East Side People's Federal Credit Union",
+            700008395
+        ]
+    ],
+    [
+        "Current place, sports activity",
+        "(15:23, 17:01)",
+        [
+            "29B Teahouse",
+            700008393
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:38, 21:22)",
+        [
+            "The Hairy Lemon",
+            700021518
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:02, 23:59)",
+        [
+            "29B Teahouse",
+            700008393
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:46, 23:59)",
+        [
+            "Citi Bike - East 2nd Street & Avenue B",
+            700008031
+        ]
+    ]
+]

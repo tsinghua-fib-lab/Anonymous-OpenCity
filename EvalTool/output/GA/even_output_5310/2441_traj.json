@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002620
+        ]
+    ],
+    [
+        "Next will be brunch at Young Adults Institute.",
+        "(10:00, 11:30)",
+        [
+            "Young Adults Institute",
+            700000265
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:18, 13:58)",
+        [
+            "Young Adults Institute",
+            700000265
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(14:12, 15:51)",
+        [
+            "Young Adults Institute",
+            700000265
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:47, 18:10)",
+        [
+            "Young Adults Institute",
+            700000265
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:06, 20:06)",
+        [
+            "Young Adults Institute",
+            700000265
+        ]
+    ],
+    [
+        "Family or Friends Gathering",
+        "(20:33, 22:13)",
+        [
+            "Young Adults Institute",
+            700000265
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:52, 23:59)",
+        [
+            "Bond Vet",
+            700006145
+        ]
+    ]
+]

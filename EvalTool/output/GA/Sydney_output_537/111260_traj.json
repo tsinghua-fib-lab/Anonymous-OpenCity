@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013966
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:49)",
+        [
+            "Lord Nelson Brewery Hotel",
+            700023656
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(14:32, 16:27)",
+        [
+            "Tago-An",
+            700002579
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 21:43)",
+        [
+            "Tago-An",
+            700002579
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(21:05, 22:44)",
+        [
+            "Lord Nelson Brewery Hotel",
+            700023656
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:37, 23:59)",
+        [
+            "Fish at the Rocks",
+            700007821
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(23:40, 23:59)",
+        [
+            "Fish at the Rocks",
+            700007821
+        ]
+    ]
+]

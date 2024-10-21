@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Taco Mahal",
+            700014164
+        ]
+    ],
+    [
+        "Light workout",
+        "(09:00, 10:33)",
+        [
+            "Poke Bowl",
+            700034062
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:53, 12:12)",
+        [
+            "",
+            700035042
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:23, 19:20)",
+        [
+            "Sandwich House",
+            700013310
+        ]
+    ],
+    [
+        "Enjoy a meal or grab coffee.",
+        "(15:14, 16:28)",
+        [
+            "Bank of America",
+            700003977
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:39, 23:32)",
+        [
+            "CVS Pharmacy",
+            700003978
+        ]
+    ],
+    [
+        "Spending time at CVS Pharmacy.",
+        "(19:36, 21:01)",
+        [
+            "CVS Pharmacy",
+            700003978
+        ]
+    ],
+    [
+        "Spend time at CVS Pharmacy.",
+        "(21:48, 23:59)",
+        [
+            "CVS Pharmacy",
+            700003978
+        ]
+    ],
+    [
+        "Spend time at CVS Pharmacy.",
+        "(23:50, 23:59)",
+        [
+            "CVS Pharmacy",
+            700003978
+        ]
+    ]
+]

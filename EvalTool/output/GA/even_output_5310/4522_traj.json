@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Thai Delight",
+            700023080
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:21)",
+        [
+            "Citi Bike - East 15th Street & 3rd Avenue",
+            700008025
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(12:59, 14:05)",
+        [
+            "Citi Bike - East 15th Street & 3rd Avenue",
+            700008025
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 16:18)",
+        [
+            "",
+            700014535
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(20:51, 22:27)",
+        [
+            "Thai Delight",
+            700023080
+        ]
+    ],
+    [
+        "Stay at Thai Delight",
+        "(22:44, 23:59)",
+        [
+            "Thai Delight",
+            700023080
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:50, 23:59)",
+        [
+            "Cupsoul",
+            700007888
+        ]
+    ]
+]

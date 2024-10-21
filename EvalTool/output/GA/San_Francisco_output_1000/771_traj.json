@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Blind Butcher",
+            700007547
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:40)",
+        [
+            "Lark",
+            700007548
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:07, 14:14)",
+        [
+            "Bank of America",
+            700002201
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:37, 17:26)",
+        [
+            "The Mix",
+            700002439
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:20, 18:30)",
+        [
+            "Starbucks",
+            700002190
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 20:43)",
+        [
+            "Bank of America",
+            700002201
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "Lark",
+            700007548
+        ]
+    ]
+]

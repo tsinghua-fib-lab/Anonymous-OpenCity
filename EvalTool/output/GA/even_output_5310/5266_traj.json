@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hawa Smoothies",
+            700022492
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:28)",
+        [
+            "Nakamura",
+            700013752
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:44, 13:56)",
+        [
+            "Nakamura",
+            700013752
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:07, 15:59)",
+        [
+            "Nakamura",
+            700013752
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(16:06, 18:03)",
+        [
+            "Nakamura",
+            700013752
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:05, 19:51)",
+        [
+            "The Delancey",
+            700022121
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(20:36, 23:04)",
+        [
+            "99¢ Pizza",
+            700022491
+        ]
+    ],
+    [
+        "Stay at the current place (3 Streets Saloon) to wind down.",
+        "(23:06, 23:59)",
+        [
+            "The Delancey",
+            700022121
+        ]
+    ]
+]

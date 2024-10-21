@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008346
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(10:00, 11:07)",
+        [
+            "",
+            700010625
+        ]
+    ],
+    [
+        "Relax at Nakama Sushi",
+        "(12:02, 13:38)",
+        [
+            "Nakama Sushi",
+            700009522
+        ]
+    ],
+    [
+        "Relax at Kanbar Performing Arts Center",
+        "(14:25, 15:53)",
+        [
+            "Pilates on Page",
+            700006011
+        ]
+    ],
+    [
+        "Relax at Nakama Sushi",
+        "(16:10, 18:05)",
+        [
+            "Nakama Sushi",
+            700009522
+        ]
+    ],
+    [
+        "Attend a sports event or match",
+        "(19:01, 20:20)",
+        [
+            "",
+            700009519
+        ]
+    ],
+    [
+        "Relax at Kanbar Performing Arts Center",
+        "(21:02, 22:24)",
+        [
+            "Kanbar Performing Arts Center",
+            700009487
+        ]
+    ],
+    [
+        "Relax at Kanbar Performing Arts Center",
+        "(22:34, 23:54)",
+        [
+            "Kanbar Performing Arts Center",
+            700009487
+        ]
+    ]
+]

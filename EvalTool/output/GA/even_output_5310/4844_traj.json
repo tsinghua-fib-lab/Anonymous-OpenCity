@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700037341
+        ]
+    ],
+    [
+        "Leisurely Reading or TV",
+        "(10:00, 11:04)",
+        [
+            "",
+            700037341
+        ]
+    ],
+    [
+        "Leisurely Reading or TV",
+        "(11:33, 12:57)",
+        [
+            "",
+            700037341
+        ]
+    ],
+    [
+        "Lunch Preparation and Meal",
+        "(13:34, 15:31)",
+        [
+            "",
+            700035061
+        ]
+    ],
+    [
+        "Lunch Preparation and Meal",
+        "(16:06, 18:09)",
+        [
+            "Osteria del Porto",
+            700009775
+        ]
+    ],
+    [
+        "Hobbies or Creative Projects",
+        "(18:54, 20:18)",
+        [
+            "Osteria del Porto",
+            700009775
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(21:24, 23:06)",
+        [
+            "Osteria del Porto",
+            700009775
+        ]
+    ],
+    [
+        "Stay at Osteria del Porto",
+        "(23:39, 23:59)",
+        [
+            "Osteria del Porto",
+            700009775
+        ]
+    ]
+]

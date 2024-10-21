@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002101
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:58)",
+        [
+            "The Dermatology Specialists",
+            700020613
+        ]
+    ],
+    [
+        "Engage in Outdoor Activity",
+        "(14:43, 16:08)",
+        [
+            "Equinox",
+            700014659
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 22:20)",
+        [
+            "Equinox",
+            700014659
+        ]
+    ],
+    [
+        "Go to Equinox",
+        "(22:46, 23:59)",
+        [
+            "Equinox",
+            700014659
+        ]
+    ]
+]

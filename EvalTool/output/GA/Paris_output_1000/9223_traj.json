@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Le Petit Vendôme",
+            700002614
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:07)",
+        [
+            "Jour Capucines",
+            700070703
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:58, 21:05)",
+        [
+            "Le Vendome",
+            700074249
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:30, 21:05)",
+        [
+            "Le Petit Vendôme",
+            700002614
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:54, 23:59)",
+        [
+            "Éléphant Paname, Centre d'Art et de Danse",
+            700039837
+        ]
+    ]
+]

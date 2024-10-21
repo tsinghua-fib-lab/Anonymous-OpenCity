@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sweet Lime",
+            700005961
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:11)",
+        [
+            "Burger King",
+            700005693
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(12:59, 14:08)",
+        [
+            "Burger King",
+            700005693
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 19:40)",
+        [
+            "AMC Dine-In Kabuki 8",
+            700000708
+        ]
+    ],
+    [
+        "Watch TV or relax before bed",
+        "(20:35, 22:00)",
+        [
+            "AMC Dine-In Kabuki 8",
+            700000708
+        ]
+    ],
+    [
+        "Next activity after relaxing day",
+        "(22:24, 23:57)",
+        [
+            "AMC Dine-In Kabuki 8",
+            700000708
+        ]
+    ],
+    [
+        "Next activity after relaxing day",
+        "(23:46, 23:59)",
+        [
+            "AMC Dine-In Kabuki 8",
+            700000708
+        ]
+    ]
+]

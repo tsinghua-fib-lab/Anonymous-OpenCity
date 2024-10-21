@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Another Cafe",
+            700000614
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:58)",
+        [
+            "Live Fit Gym",
+            700005119
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:03, 11:09)",
+        [
+            "Live Fit Gym",
+            700005119
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(11:21, 12:37)",
+        [
+            "Cozy Cafe",
+            700010961
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(13:22, 16:04)",
+        [
+            "",
+            700000493
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(15:47, 17:22)",
+        [
+            "Cozy Cafe",
+            700010961
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 20:47)",
+        [
+            "City ATM",
+            700005128
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "Bite",
+            700008883
+        ]
+    ]
+]

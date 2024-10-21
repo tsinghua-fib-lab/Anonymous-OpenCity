@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700039223
+        ]
+    ],
+    [
+        "Stay at current place",
+        "(09:00, 09:57)",
+        [
+            "",
+            700039223
+        ]
+    ],
+    [
+        "Reading/Relaxation Time",
+        "(10:24, 11:56)",
+        [
+            "",
+            700039223
+        ]
+    ],
+    [
+        "Enjoy a Movie or TV Show",
+        "(12:32, 14:22)",
+        [
+            "",
+            700039223
+        ]
+    ],
+    [
+        "Enjoy a Movie or TV Show",
+        "(15:21, 17:36)",
+        [
+            "",
+            700001243
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 23:07)",
+        [
+            "Black Press Coffee",
+            700030617
+        ]
+    ],
+    [
+        "Enjoy a Movie or TV Show",
+        "(19:36, 20:56)",
+        [
+            "Black Press Coffee",
+            700030617
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:55, 23:59)",
+        [
+            "Juice Press",
+            700009155
+        ]
+    ]
+]

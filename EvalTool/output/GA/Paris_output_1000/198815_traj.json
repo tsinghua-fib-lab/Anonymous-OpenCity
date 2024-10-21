@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700063551
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:29)",
+        [
+            "Hard Rock Cafe",
+            700005095
+        ]
+    ],
+    [
+        "Enjoy leisure activities.",
+        "(12:13, 14:20)",
+        [
+            "Hard Rock Cafe",
+            700005095
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 18:38)",
+        [
+            "Le Salon Des Miroirs",
+            700041545
+        ]
+    ],
+    [
+        "Enjoy leisure activities.",
+        "(20:47, 22:10)",
+        [
+            "Le Salon Des Miroirs",
+            700041545
+        ]
+    ],
+    [
+        "Stay at Rosa Bonheur.",
+        "(22:45, 23:59)",
+        [
+            "",
+            700063556
+        ]
+    ],
+    [
+        "Go to Café de Paris for dessert.",
+        "(23:56, 23:59)",
+        [
+            "Mian Fan",
+            700006171
+        ]
+    ]
+]

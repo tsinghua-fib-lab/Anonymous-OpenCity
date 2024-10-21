@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001916
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:08)",
+        [
+            "",
+            700001916
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:14, 13:58)",
+        [
+            "Cock & Bull",
+            700016198
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:29, 16:03)",
+        [
+            "Starbucks",
+            700016185
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(15:52, 17:22)",
+        [
+            "Chase",
+            700003540
+        ]
+    ],
+    [
+        "Sports or Exercise",
+        "(17:53, 18:54)",
+        [
+            "Starbucks",
+            700016185
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(19:54, 21:08)",
+        [
+            "Potbelly",
+            700009466
+        ]
+    ],
+    [
+        "Stay at the Chelsea Bell and relax",
+        "(21:21, 23:01)",
+        [
+            "Ambrosia",
+            700016181
+        ]
+    ],
+    [
+        "Stay at Ambrosia and relax",
+        "(23:01, 23:59)",
+        [
+            "Ambrosia",
+            700016181
+        ]
+    ]
+]

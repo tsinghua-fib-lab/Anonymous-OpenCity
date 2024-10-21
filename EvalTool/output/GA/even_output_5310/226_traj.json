@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Panda Bubble Tea",
+            700014709
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:03)",
+        [
+            "Panda Bubble Tea",
+            700014709
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:45, 13:50)",
+        [
+            "Le Pain Quotidien",
+            700008570
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:46, 16:06)",
+        [
+            "Eat Here Now",
+            700023488
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:53, 18:13)",
+        [
+            "Eat Here Now",
+            700023488
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 21:44)",
+        [
+            "",
+            700014714
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:58, 23:59)",
+        [
+            "",
+            700014710
+        ]
+    ]
+]

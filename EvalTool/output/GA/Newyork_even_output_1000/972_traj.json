@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - West 33rd Street & 7th Avenue",
+            700008215
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:50)",
+        [
+            "Bank of America",
+            700015916
+        ]
+    ],
+    [
+        "Brunch",
+        "(12:41, 13:51)",
+        [
+            "Bank of America",
+            700015916
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:15, 15:10)",
+        [
+            "Bank of America",
+            700015916
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(16:15, 17:40)",
+        [
+            "Rosa's Pizza",
+            700022312
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(18:33, 20:06)",
+        [
+            "Bank of America",
+            700015916
+        ]
+    ],
+    [
+        "Relax and Read",
+        "(20:32, 21:56)",
+        [
+            "Bank of America",
+            700015916
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:55, 23:59)",
+        [
+            "The Pennsy Bar",
+            700014597
+        ]
+    ]
+]

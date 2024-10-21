@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Shell",
+            700001206
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:36)",
+        [
+            "",
+            700014076
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:00, 18:46)",
+        [
+            "Heritage On The Marina",
+            700007212
+        ]
+    ],
+    [
+        "Errands or Light Chores",
+        "(17:24, 19:24)",
+        [
+            "Heritage On The Marina",
+            700007212
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:10, 21:00)",
+        [
+            "Chin up bar",
+            700002477
+        ]
+    ],
+    [
+        "Errands or Light Chores",
+        "(22:59, 23:59)",
+        [
+            "Shell",
+            700001206
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002927
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:02)",
+        [
+            "Sunset Squares Slice Shop",
+            700005457
+        ]
+    ],
+    [
+        "preparing and having lunch",
+        "(12:15, 13:21)",
+        [
+            "Sunset Squares Slice Shop",
+            700005457
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(14:10, 15:53)",
+        [
+            "Sunset Squares Slice Shop",
+            700005457
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(17:03, 19:10)",
+        [
+            "Sunset Squares Slice Shop",
+            700005457
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:27, 23:59)",
+        [
+            "Sunset Squares Slice Shop",
+            700005457
+        ]
+    ]
+]

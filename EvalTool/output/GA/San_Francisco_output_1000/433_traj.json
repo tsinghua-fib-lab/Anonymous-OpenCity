@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001227
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:39)",
+        [
+            "Restricted Parking: Permit Holders Only",
+            700002086
+        ]
+    ],
+    [
+        "Rest",
+        "(15:21, 17:03)",
+        [
+            "Restricted Parking: Permit Holders Only",
+            700002086
+        ]
+    ],
+    [
+        "Rest",
+        "(17:11, 18:53)",
+        [
+            "Better Than Sweet",
+            700008995
+        ]
+    ],
+    [
+        "Next, engage in Evening Relaxation & TV",
+        "(19:14, 20:55)",
+        [
+            "Better Than Sweet",
+            700008995
+        ]
+    ],
+    [
+        "Evening Relaxation & TV",
+        "(20:43, 21:58)",
+        [
+            "Restricted Parking: Permit Holders Only",
+            700002086
+        ]
+    ],
+    [
+        "Evening Relaxation & TV",
+        "(22:31, 23:54)",
+        [
+            "Restricted Parking: Permit Holders Only",
+            700002086
+        ]
+    ]
+]

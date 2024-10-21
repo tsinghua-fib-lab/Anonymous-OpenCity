@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001457
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:53)",
+        [
+            "",
+            700009648
+        ]
+    ],
+    [
+        "Leisure Reading/TV",
+        "(12:07, 13:46)",
+        [
+            "",
+            700001457
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:12, 17:25)",
+        [
+            "",
+            700009648
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:12, 19:48)",
+        [
+            "",
+            700009672
+        ]
+    ],
+    [
+        "End the day by visiting Golden State Barbell Club for fitness.",
+        "(21:21, 22:31)",
+        [
+            "Bay Wheels",
+            700008225
+        ]
+    ],
+    [
+        "Visit Golden State Barbell Club to unwind with fitness.",
+        "(23:32, 23:59)",
+        [
+            "",
+            700005708
+        ]
+    ]
+]

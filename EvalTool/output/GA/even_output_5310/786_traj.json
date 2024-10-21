@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Coco Pizzaria",
+            700039033
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(10:00, 10:52)",
+        [
+            "Coco Pizzaria",
+            700039033
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:27, 16:33)",
+        [
+            "Duane Reade",
+            700030439
+        ]
+    ],
+    [
+        "Visit Friends/Family",
+        "(16:45, 17:50)",
+        [
+            "Coco Pizzaria",
+            700039033
+        ]
+    ],
+    [
+        "Visit Friends/Family",
+        "(18:48, 19:51)",
+        [
+            "Coco Pizzaria",
+            700039033
+        ]
+    ],
+    [
+        "Stay at 'Sutton Bar Room'",
+        "(20:06, 22:01)",
+        [
+            "Sutton Bar Room",
+            700011531
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:46, 23:59)",
+        [
+            "Sutton Bar Room",
+            700011531
+        ]
+    ]
+]

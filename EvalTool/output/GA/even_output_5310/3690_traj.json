@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Monk McGinns",
+            700003327
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:23)",
+        [
+            "Monk McGinns",
+            700003327
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:00, 15:05)",
+        [
+            "Monk McGinns",
+            700003327
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:10, 20:31)",
+        [
+            "Monk McGinns",
+            700003327
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:12, 23:48)",
+        [
+            "",
+            700036776
+        ]
+    ],
+    [
+        "Stay at Monk McGinns",
+        "(23:17, 23:59)",
+        [
+            "Monk McGinns",
+            700003327
+        ]
+    ]
+]

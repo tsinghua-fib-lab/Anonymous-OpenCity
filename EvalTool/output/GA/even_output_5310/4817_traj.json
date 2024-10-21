@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001310
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:32)",
+        [
+            "Boqueria Soho",
+            700009196
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:15, 16:53)",
+        [
+            "Boqueria Soho",
+            700009196
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(17:04, 18:36)",
+        [
+            "Boqueria Soho",
+            700009196
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(19:36, 21:08)",
+        [
+            "Boqueria Soho",
+            700009196
+        ]
+    ],
+    [
+        "Evening Relaxation/Reading",
+        "(21:29, 22:51)",
+        [
+            "",
+            700001310
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "",
+            700001280
+        ]
+    ]
+]

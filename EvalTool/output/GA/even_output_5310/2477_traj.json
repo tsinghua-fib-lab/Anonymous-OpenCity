@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York City Museum School",
+            700000291
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(10:00, 11:09)",
+        [
+            "",
+            700002186
+        ]
+    ],
+    [
+        "Quality Time with Family/Friends",
+        "(12:01, 13:22)",
+        [
+            "New York City Museum School",
+            700000291
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(14:19, 16:04)",
+        [
+            "",
+            700002216
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(16:21, 18:00)",
+        [
+            "New York City Museum School",
+            700000291
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:42, 20:08)",
+        [
+            "Jet's Pizza",
+            700006140
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:36, 23:34)",
+        [
+            "Wells Fargo",
+            700008715
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hillwood Academic Day Schol",
+            700005469
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:00, 10:50)",
+        [
+            "Hillwood Academic Day Schol",
+            700005469
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(11:05, 12:59)",
+        [
+            "Hillwood Academic Day Schol",
+            700005469
+        ]
+    ],
+    [
+        "Relaxation and Leisure Reading",
+        "(13:30, 15:02)",
+        [
+            "Hillwood Academic Day Schol",
+            700005469
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:48, 16:56)",
+        [
+            "",
+            700009975
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 23:34)",
+        [
+            "",
+            700001512
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:59)",
+        [
+            "",
+            700001518
+        ]
+    ]
+]

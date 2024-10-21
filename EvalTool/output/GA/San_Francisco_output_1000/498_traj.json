@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000633
+        ]
+    ],
+    [
+        "Next arrangement after breakfast.",
+        "(10:00, 11:06)",
+        [
+            "",
+            700005881
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 16:57)",
+        [
+            "Yuet Lee Seafood Restaurant",
+            700002023
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:31, 21:14)",
+        [
+            "Yuet Lee Seafood Restaurant",
+            700002023
+        ]
+    ],
+    [
+        "Stay at your current location.",
+        "(22:14, 23:59)",
+        [
+            "V & J Cafe",
+            700004997
+        ]
+    ]
+]

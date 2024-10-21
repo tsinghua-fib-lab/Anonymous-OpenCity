@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Legasea Bar & Grill",
+            700035383
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:52)",
+        [
+            "TD Bank",
+            700003386
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:02, 17:28)",
+        [
+            "The Bread Factory Cafe",
+            700009749
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 20:23)",
+        [
+            "Delmonico's Kitchen",
+            700013398
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:35, 22:40)",
+        [
+            "Prova Pizzabar",
+            700006620
+        ]
+    ]
+]

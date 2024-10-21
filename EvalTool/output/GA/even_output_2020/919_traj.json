@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "San Francisco Animal Medical Center",
+            700013730
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:05)",
+        [
+            "",
+            700001510
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:12, 15:47)",
+        [
+            "",
+            700001513
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:00, 23:44)",
+        [
+            "",
+            700001519
+        ]
+    ],
+    [
+        "Wind down the day by reading a book or listening to music",
+        "(22:38, 23:48)",
+        [
+            "San Francisco Animal Medical Center",
+            700013730
+        ]
+    ]
+]

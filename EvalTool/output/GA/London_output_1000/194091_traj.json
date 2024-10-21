@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fenwick Estate",
+            700007782
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:59)",
+        [
+            "Alba",
+            700000566
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Development",
+        "(15:55, 17:47)",
+        [
+            "",
+            700043706
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:14, 23:30)",
+        [
+            "",
+            700016848
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Development",
+        "(23:15, 23:59)",
+        [
+            "Sushi Heaven",
+            700060990
+        ]
+    ]
+]

@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Grace's",
+            700019203
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the nearby park or nature reserve.",
+        "(10:00, 11:08)",
+        [
+            "Starbucks",
+            700003801
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the nearby park or nature reserve.",
+        "(10:58, 12:07)",
+        [
+            "Starbucks",
+            700003801
+        ]
+    ],
+    [
+        "Attend a yoga class or engage in a home workout.",
+        "(12:15, 13:52)",
+        [
+            "Starbucks",
+            700003801
+        ]
+    ],
+    [
+        "Stay at Starbucks for lunch.",
+        "(14:39, 16:19)",
+        [
+            "Citi Bike - Greenwich Avenue & 8th Avenue",
+            700008089
+        ]
+    ],
+    [
+        "current place and stay time",
+        "(16:25, 18:01)",
+        [
+            "Starbucks",
+            700003801
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 23:14)",
+        [
+            "",
+            700002696
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 23:07)",
+        [
+            "",
+            700003840
+        ]
+    ],
+    [
+        "current place and stay time",
+        "(22:11, 23:48)",
+        [
+            "Starbucks",
+            700003801
+        ]
+    ],
+    [
+        "Current place and stay time.",
+        "(23:49, 23:59)",
+        [
+            "Starbucks",
+            700003801
+        ]
+    ]
+]

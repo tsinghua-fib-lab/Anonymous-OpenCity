@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Village Vanguard",
+            700013142
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:56)",
+        [
+            "Limón Jungle",
+            700009812
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:23, 19:12)",
+        [
+            "Limón Jungle",
+            700009812
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:05, 20:07)",
+        [
+            "The Village Vanguard",
+            700013142
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:43, 23:08)",
+        [
+            "The Village Vanguard",
+            700013142
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:55, 23:59)",
+        [
+            "The Village Vanguard",
+            700013142
+        ]
+    ]
+]

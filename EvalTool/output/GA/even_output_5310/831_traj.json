@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002990
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:26)",
+        [
+            "",
+            700026127
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:27, 13:50)",
+        [
+            "Caspary Auditorium",
+            700000565
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:04, 19:47)",
+        [
+            "Da Adriano",
+            700033752
+        ]
+    ],
+    [
+        "Late Afternoon Relaxation",
+        "(18:13, 19:35)",
+        [
+            "Da Adriano",
+            700033752
+        ]
+    ],
+    [
+        "Late Afternoon Relaxation",
+        "(20:04, 21:39)",
+        [
+            "University Animal Hospital",
+            700041299
+        ]
+    ],
+    [
+        "Stay at Da Adriano",
+        "(22:37, 23:59)",
+        [
+            "Da Adriano",
+            700033752
+        ]
+    ]
+]

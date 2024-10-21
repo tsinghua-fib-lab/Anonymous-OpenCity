@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006227
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:29)",
+        [
+            "Proof Coffee Roasters",
+            700015924
+        ]
+    ],
+    [
+        "Continue reading or pursuing a hobby.",
+        "(13:10, 14:39)",
+        [
+            "",
+            700006227
+        ]
+    ],
+    [
+        "Reading or pursuing a hobby",
+        "(15:04, 17:02)",
+        [
+            "Proof Coffee Roasters",
+            700015924
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 21:17)",
+        [
+            "",
+            700019559
+        ]
+    ],
+    [
+        "Stay at Proof Coffee Roasters",
+        "(20:22, 22:02)",
+        [
+            "Proof Coffee Roasters",
+            700015924
+        ]
+    ],
+    [
+        "Stay at Proof Coffee Roasters.",
+        "(22:23, 23:59)",
+        [
+            "Proof Coffee Roasters",
+            700015924
+        ]
+    ]
+]

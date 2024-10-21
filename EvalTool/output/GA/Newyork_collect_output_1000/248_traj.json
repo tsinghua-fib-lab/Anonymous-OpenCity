@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Spend some time reading or catching up on the latest news/articles",
+        "(10:00, 10:50)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Move to The Standard Ice Rink for a leisure activity.",
+        "(11:46, 12:52)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Engage in a personal hobby or creative activity",
+        "(13:30, 14:54)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 20:49)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Go to The Standard Ice Rink for a leisure activity.",
+        "(17:44, 19:01)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 22:56)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(23:49, 23:59)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ]
+]

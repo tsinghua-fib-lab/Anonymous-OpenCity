@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pennylane Coffee",
+            700006421
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:58)",
+        [
+            "Pennylane Coffee",
+            700006421
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:27, 13:57)",
+        [
+            "Pennylane Coffee",
+            700006421
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:01, 18:17)",
+        [
+            "",
+            700010341
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:54, 21:57)",
+        [
+            "Pennylane Coffee",
+            700006421
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(22:32, 23:59)",
+        [
+            "Pennylane Coffee",
+            700006421
+        ]
+    ]
+]

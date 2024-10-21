@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Le Rallye",
+            700006805
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:23)",
+        [
+            "",
+            700009127
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:17, 15:19)",
+        [
+            "Le Repaire",
+            700028276
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(18:16, 20:09)",
+        [
+            "Le Repaire",
+            700028276
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(19:59, 21:49)",
+        [
+            "",
+            700009127
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(21:33, 23:13)",
+        [
+            "Le Repaire",
+            700028276
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(23:50, 23:59)",
+        [
+            "Le Repaire",
+            700028276
+        ]
+    ]
+]

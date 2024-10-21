@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030412
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:48)",
+        [
+            "",
+            700030411
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:23, 17:19)",
+        [
+            "",
+            700030414
+        ]
+    ],
+    [
+        "Next arrangement is Dinner and Family Time.",
+        "(18:48, 19:56)",
+        [
+            "",
+            700030412
+        ]
+    ],
+    [
+        "Dinner and Family Time",
+        "(21:00, 22:25)",
+        [
+            "Chakrasambara Buddhist Center",
+            700000278
+        ]
+    ],
+    [
+        "Dinner and Family Time",
+        "(23:25, 23:59)",
+        [
+            "Chakrasambara Buddhist Center",
+            700000278
+        ]
+    ]
+]

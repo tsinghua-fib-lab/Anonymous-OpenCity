@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:51)",
+        [
+            "",
+            700022507
+        ]
+    ],
+    [
+        "Engage in a hobby or work on a personal project.",
+        "(15:42, 17:49)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:37, 23:33)",
+        [
+            "",
+            700022506
+        ]
+    ],
+    [
+        "Stay at Pick a Bagel",
+        "(22:59, 23:52)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ]
+]

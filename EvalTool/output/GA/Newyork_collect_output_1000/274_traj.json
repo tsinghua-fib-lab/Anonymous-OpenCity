@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:06)",
+        [
+            "",
+            700022506
+        ]
+    ],
+    [
+        "Personal Project/Study Time",
+        "(10:29, 12:25)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:43, 15:19)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Personal Project/Study Time",
+        "(15:23, 17:06)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:56, 20:33)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ]
+]

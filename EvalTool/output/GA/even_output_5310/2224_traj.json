@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - West Thames St",
+            700008248
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(09:00, 10:09)",
+        [
+            "Citi Bike - West Thames St",
+            700008248
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:14, 16:53)",
+        [
+            "Citi Bike - West Thames St",
+            700008248
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:29, 22:19)",
+        [
+            "",
+            700035760
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:21, 21:29)",
+        [
+            "",
+            700035695
+        ]
+    ]
+]

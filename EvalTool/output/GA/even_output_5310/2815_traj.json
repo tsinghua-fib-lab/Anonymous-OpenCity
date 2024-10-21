@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018896
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:14)",
+        [
+            "Baby Bo's Cantina",
+            700008431
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:10, 18:29)",
+        [
+            "Psychic Readings by Gina",
+            700015587
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(18:05, 19:25)",
+        [
+            "Psychic Readings by Gina",
+            700015587
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(20:27, 21:54)",
+        [
+            "Psychic Readings by Gina",
+            700015587
+        ]
+    ],
+    [
+        "Visit Psychic Readings by Gina",
+        "(22:53, 23:59)",
+        [
+            "Psychic Readings by Gina",
+            700015587
+        ]
+    ]
+]

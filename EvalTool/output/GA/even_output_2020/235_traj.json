@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010281
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:41)",
+        [
+            "Federal Building San Francisco",
+            700002349
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 14:14)",
+        [
+            "",
+            700010285
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(17:10, 18:30)",
+        [
+            "Federal Building San Francisco",
+            700002349
+        ]
+    ],
+    [
+        "Prepare and have dinner, followed by relaxation",
+        "(18:47, 20:37)",
+        [
+            "Federal Building San Francisco",
+            700002349
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:59, 23:59)",
+        [
+            "",
+            700010287
+        ]
+    ]
+]

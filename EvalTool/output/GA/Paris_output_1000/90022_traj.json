@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Joe & The Juice",
+            700071603
+        ]
+    ],
+    [
+        "next activity after breakfast",
+        "(09:00, 10:01)",
+        [
+            "Daily Monop",
+            700007404
+        ]
+    ],
+    [
+        "Relax with a book or podcast",
+        "(10:46, 12:16)",
+        [
+            "Daily Monop",
+            700007404
+        ]
+    ],
+    [
+        "Afternoon leisure activity (sports or hobbies)",
+        "(12:37, 15:04)",
+        [
+            "Le Cube Bar",
+            700034323
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:24, 16:38)",
+        [
+            "",
+            700055248
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:40, 23:59)",
+        [
+            "",
+            700055248
+        ]
+    ],
+    [
+        "Go to Firat Grill.",
+        "(22:36, 23:59)",
+        [
+            "Café de l'Opéra",
+            700010228
+        ]
+    ]
+]

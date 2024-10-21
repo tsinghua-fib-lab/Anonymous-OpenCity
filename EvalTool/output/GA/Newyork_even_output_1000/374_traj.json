@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700015404
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(09:00, 10:21)",
+        [
+            "",
+            700015404
+        ]
+    ],
+    [
+        "Next activity after Leisure Reading or Hobby Time",
+        "(10:31, 12:11)",
+        [
+            "Frankies Sputino 570",
+            700005693
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:21, 17:35)",
+        [
+            "",
+            700001472
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:52, 19:13)",
+        [
+            "",
+            700010536
+        ]
+    ],
+    [
+        "Next activity after Relaxing Evening.",
+        "(19:22, 22:05)",
+        [
+            "Citi Bike - Bank St & Hudson St",
+            700007955
+        ]
+    ],
+    [
+        "Next activity after Relaxing Evening.",
+        "(22:35, 23:59)",
+        [
+            "Citi Bike - Bank St & Hudson St",
+            700007955
+        ]
+    ]
+]

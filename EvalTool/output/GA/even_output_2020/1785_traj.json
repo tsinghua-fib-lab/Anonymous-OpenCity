@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002146
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:21)",
+        [
+            "",
+            700008911
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:09, 18:46)",
+        [
+            "",
+            700008912
+        ]
+    ],
+    [
+        "Meet friends or family for coffee or engage in an outdoor activity.",
+        "(17:10, 18:59)",
+        [
+            "",
+            700002146
+        ]
+    ],
+    [
+        "Go to Venticello",
+        "(19:22, 21:43)",
+        [
+            "Venticello",
+            700005060
+        ]
+    ],
+    [
+        "Go to Venticello",
+        "(21:57, 23:58)",
+        [
+            "Venticello",
+            700005060
+        ]
+    ],
+    [
+        "Stay at Venticello.",
+        "(23:58, 23:59)",
+        [
+            "Venticello",
+            700005060
+        ]
+    ]
+]

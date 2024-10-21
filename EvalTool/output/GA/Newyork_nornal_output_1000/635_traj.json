@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "HSBC",
+            700008765
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 11:24)",
+        [
+            "Stern Auditorium",
+            700009117
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 17:57)",
+        [
+            "Carnegie Diner & Cafe",
+            700003477
+        ]
+    ],
+    [
+        "Watch a Sports Game",
+        "(18:38, 20:02)",
+        [
+            "Carnegie Diner & Cafe",
+            700003477
+        ]
+    ],
+    [
+        "Watch a Sports Game",
+        "(20:28, 21:52)",
+        [
+            "Carnegie Diner & Cafe",
+            700003477
+        ]
+    ],
+    [
+        "Sleep",
+        "(22:04, 23:33)",
+        [
+            "RED 58",
+            700009272
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "Russian Tea Room",
+            700003571
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "PHD Terrace",
+            700006317
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 11:08)",
+        [
+            "PHD Terrace",
+            700006317
+        ]
+    ],
+    [
+        "You are currently at PHD Terrace.",
+        "(11:03, 12:03)",
+        [
+            "La Esquina",
+            700006316
+        ]
+    ],
+    [
+        "Stay at Deep Indian Kitchen.",
+        "(12:36, 14:37)",
+        [
+            "Subway",
+            700003872
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 19:36)",
+        [
+            "New York Cardiac Diagnostic Center",
+            700016842
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 21:22)",
+        [
+            "Joe & The Juice",
+            700020885
+        ]
+    ],
+    [
+        "Stay at Joe & The Juice",
+        "(20:18, 21:50)",
+        [
+            "Joe & The Juice",
+            700020885
+        ]
+    ],
+    [
+        "Stay at Joe & The Juice.",
+        "(22:48, 23:49)",
+        [
+            "Joe & The Juice",
+            700020885
+        ]
+    ],
+    [
+        "Stay at Joe & The Juice.",
+        "(23:43, 23:59)",
+        [
+            "Joe & The Juice",
+            700020885
+        ]
+    ]
+]

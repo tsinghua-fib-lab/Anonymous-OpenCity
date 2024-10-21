@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003104
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 11:03)",
+        [
+            "",
+            700014314
+        ]
+    ],
+    [
+        "Relaxation/Leisure Reading",
+        "(11:12, 12:46)",
+        [
+            "",
+            700003104
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:58, 14:28)",
+        [
+            "A [TEST]",
+            700011481
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:32, 15:52)",
+        [
+            "A [TEST]",
+            700011481
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:47, 18:22)",
+        [
+            "Kinselas",
+            700002526
+        ]
+    ],
+    [
+        "Socialize with Friends/Family",
+        "(18:51, 20:22)",
+        [
+            "ARQ Sydney",
+            700010150
+        ]
+    ],
+    [
+        "Socialize with Friends/Family",
+        "(21:18, 23:10)",
+        [
+            "ARQ Sydney",
+            700010150
+        ]
+    ],
+    [
+        "Go to 'ONE' for a workout and socializing.",
+        "(23:12, 23:59)",
+        [
+            "",
+            700014314
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CityMD",
+            700013555
+        ]
+    ],
+    [
+        "Go for a walk or engage in some light exercise",
+        "(10:00, 11:02)",
+        [
+            "0.99 pizza",
+            700023648
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:14, 17:06)",
+        [
+            "Papaya Dog",
+            700009088
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:16, 17:25)",
+        [
+            "Washington Square Dinner",
+            700011806
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:20, 20:09)",
+        [
+            "",
+            700001229
+        ]
+    ]
+]

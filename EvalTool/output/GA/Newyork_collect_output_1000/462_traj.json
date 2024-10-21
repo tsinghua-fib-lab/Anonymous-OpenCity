@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:56)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:42, 17:12)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Prepare Dinner & Relax",
+        "(18:03, 20:07)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Prepare Dinner & Relax",
+        "(20:43, 22:17)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Prepare Dinner & Relax",
+        "(23:16, 23:59)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ]
+]

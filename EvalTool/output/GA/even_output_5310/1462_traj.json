@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700014923
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:03)",
+        [
+            "",
+            700000964
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:45, 13:10)",
+        [
+            "Citi Bike - 2nd Avenue & East 31st Street",
+            700007929
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:41, 15:08)",
+        [
+            "Citi Bike - 2nd Avenue & East 31st Street",
+            700007929
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:58, 19:04)",
+        [
+            "AMC Kips Bay 15",
+            700003434
+        ]
+    ],
+    [
+        "Dinner at Home",
+        "(19:36, 21:00)",
+        [
+            "",
+            700024796
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(21:55, 23:10)",
+        [
+            "Citi Bike - 2nd Avenue & East 31st Street",
+            700007929
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "Hill and Bay",
+            700009476
+        ]
+    ]
+]

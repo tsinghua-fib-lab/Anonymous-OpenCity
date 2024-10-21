@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:45)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(12:14, 14:15)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(14:23, 15:50)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:48, 19:20)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:53, 23:59)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ]
+]

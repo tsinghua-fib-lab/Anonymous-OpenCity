@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Avenue",
+            700012214
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:18)",
+        [
+            "The Avenue",
+            700012214
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:32, 13:57)",
+        [
+            "First Unitarian Universalist Church",
+            700000201
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:59, 19:42)",
+        [
+            "",
+            700005634
+        ]
+    ],
+    [
+        "Visit a Local Market or Shopping",
+        "(19:49, 21:24)",
+        [
+            "",
+            700005633
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Citibank",
+            700000767
+        ]
+    ]
+]

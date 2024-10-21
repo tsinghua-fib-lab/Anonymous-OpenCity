@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005313
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:08)",
+        [
+            "Seward Street Slides",
+            700001634
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:05, 14:50)",
+        [
+            "",
+            700008739
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(14:41, 17:20)",
+        [
+            "18th Street Station",
+            700000386
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:30, 22:25)",
+        [
+            "Walgreens",
+            700013559
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 22:52)",
+        [
+            "Thai Chef",
+            700002208
+        ]
+    ]
+]

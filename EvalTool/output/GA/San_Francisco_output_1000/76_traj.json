@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fida Market",
+            700005824
+        ]
+    ],
+    [
+        "Lunch",
+        "(10:00, 11:02)",
+        [
+            "Fida Market",
+            700005824
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:43, 14:01)",
+        [
+            "World Class Boxing",
+            700005823
+        ]
+    ],
+    [
+        "Afternoon Hobby or Sports",
+        "(14:16, 16:14)",
+        [
+            "Fida Market",
+            700005824
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:35, 20:49)",
+        [
+            "",
+            700008295
+        ]
+    ],
+    [
+        "Social Time",
+        "(21:08, 22:42)",
+        [
+            "Slate",
+            700005796
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:26, 23:59)",
+        [
+            "The Sandwich Place",
+            700002131
+        ]
+    ]
+]

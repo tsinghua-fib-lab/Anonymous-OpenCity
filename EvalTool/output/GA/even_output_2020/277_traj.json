@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003734
+        ]
+    ],
+    [
+        "Move to Leisure Activity",
+        "(10:00, 11:36)",
+        [
+            "Golden Gate National Recreation Area Park Headquarters",
+            700003055
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:45, 13:51)",
+        [
+            "",
+            700014389
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a favorite series.",
+        "(18:23, 19:55)",
+        [
+            "Golden Gate National Recreation Area Park Headquarters",
+            700003055
+        ]
+    ],
+    [
+        "Continue current activity until watching a movie or binge-watch a series.",
+        "(20:51, 22:15)",
+        [
+            "Golden Gate National Recreation Area Park Headquarters",
+            700003055
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:10, 23:59)",
+        [
+            "",
+            700008094
+        ]
+    ]
+]

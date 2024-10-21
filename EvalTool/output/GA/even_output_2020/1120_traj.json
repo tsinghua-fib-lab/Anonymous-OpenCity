@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000783
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 12:00)",
+        [
+            "",
+            700000598
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:10, 12:59)",
+        [
+            "",
+            700008276
+        ]
+    ],
+    [
+        "Participate in a fun sports activity, such as tennis or a group fitness class.",
+        "(17:58, 19:31)",
+        [
+            "",
+            700013235
+        ]
+    ],
+    [
+        "Wind down the day by watching a movie or reading a book.",
+        "(20:12, 22:29)",
+        [
+            "",
+            700000783
+        ]
+    ],
+    [
+        "Stay at undefined place",
+        "(23:39, 23:59)",
+        [
+            "",
+            700013347
+        ]
+    ]
+]

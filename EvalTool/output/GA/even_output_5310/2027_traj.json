@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700003465
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:04)",
+        [
+            "",
+            700020671
+        ]
+    ],
+    [
+        "Stay at Starbucks and complete the plan until 1:00 PM.",
+        "(11:28, 12:59)",
+        [
+            "Starbucks",
+            700003465
+        ]
+    ],
+    [
+        "Decide to stay at Starbucks until 1 PM.",
+        "(13:19, 14:59)",
+        [
+            "Starbucks",
+            700003465
+        ]
+    ],
+    [
+        "Stay at Starbucks until 1 PM.",
+        "(15:46, 17:38)",
+        [
+            "Starbucks",
+            700003465
+        ]
+    ],
+    [
+        "Have dinner.",
+        "(18:27, 20:08)",
+        [
+            "Starbucks",
+            700003465
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 23:59)",
+        [
+            "CityMD",
+            700013538
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "",
+            700002317
+        ]
+    ]
+]

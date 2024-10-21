@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700007725
+        ]
+    ],
+    [
+        "Morning Routine",
+        "(10:00, 12:10)",
+        [
+            "",
+            700007723
+        ]
+    ],
+    [
+        "Morning Routine",
+        "(12:10, 14:10)",
+        [
+            "Underground SF",
+            700005490
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 16:16)",
+        [
+            "Kibatsu",
+            700005295
+        ]
+    ],
+    [
+        "Leisure Reading or Relaxing",
+        "(16:33, 18:04)",
+        [
+            "Kibatsu",
+            700005295
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 23:59)",
+        [
+            "Estela's",
+            700002577
+        ]
+    ]
+]

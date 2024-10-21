@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Lovely Day",
+            700019959
+        ]
+    ],
+    [
+        "Breakfast at 9:00 AM",
+        "(09:00, 10:02)",
+        [
+            "Lovely Day",
+            700019959
+        ]
+    ],
+    [
+        "Reading/Relaxation from 11:00 AM to 12:30 PM",
+        "(10:56, 12:34)",
+        [
+            "Lovely Day",
+            700019959
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:16, 18:41)",
+        [
+            "",
+            700001730
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 20:39)",
+        [
+            "Café Gitane",
+            700015617
+        ]
+    ]
+]

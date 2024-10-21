@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000511
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:40)",
+        [
+            "",
+            700007383
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:18, 13:51)",
+        [
+            "Locali Mediterranean",
+            700009480
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:55, 16:30)",
+        [
+            "Locali Mediterranean",
+            700009480
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:52, 20:21)",
+        [
+            "Subway",
+            700005158
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:07, 23:04)",
+        [
+            "Locali Mediterranean",
+            700009480
+        ]
+    ],
+    [
+        "Evening Wind Down.",
+        "(23:36, 23:59)",
+        [
+            "Subway",
+            700005158
+        ]
+    ]
+]

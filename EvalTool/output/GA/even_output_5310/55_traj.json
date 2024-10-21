@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700007627
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:57)",
+        [
+            "",
+            700007627
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:56, 14:06)",
+        [
+            "",
+            700036810
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:04, 16:56)",
+        [
+            "Citi Bike - East 60th Street & York Avenue",
+            700008062
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 22:41)",
+        [
+            "",
+            700036810
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "Citi Bike - East 59th Street & Sutton Place",
+            700006019
+        ]
+    ]
+]

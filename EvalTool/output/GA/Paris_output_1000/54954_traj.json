@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:42)",
+        [
+            "",
+            700026954
+        ]
+    ],
+    [
+        "Leisurely Reading or Hobbies",
+        "(11:57, 13:32)",
+        [
+            "Le Jules Verne",
+            700016425
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 18:50)",
+        [
+            "",
+            700004278
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:11, 21:21)",
+        [
+            "",
+            700072311
+        ]
+    ]
+]

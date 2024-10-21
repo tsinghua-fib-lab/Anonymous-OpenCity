@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008450
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:27)",
+        [
+            "Hummus Kitchen",
+            700004869
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:37, 18:05)",
+        [
+            "Van Leeuwen",
+            700016573
+        ]
+    ],
+    [
+        "Casual Shopping",
+        "(17:09, 18:16)",
+        [
+            "Dan & John's Wings",
+            700020946
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 20:19)",
+        [
+            "Birch Coffee",
+            700009668
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Home Base",
+            700004866
+        ]
+    ]
+]

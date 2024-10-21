@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002253
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:16)",
+        [
+            "La Trattoria",
+            700006424
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:11, 16:50)",
+        [
+            "",
+            700010342
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:19, 18:39)",
+        [
+            "Shih Lee's Chinese Eastery",
+            700008421
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:42, 23:24)",
+        [
+            "The Palm Restaurant",
+            700006618
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:31, 22:59)",
+        [
+            "The Palm Restaurant",
+            700006618
+        ]
+    ]
+]

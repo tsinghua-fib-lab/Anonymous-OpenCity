@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Independence High School",
+            700006395
+        ]
+    ],
+    [
+        "Leisure Activity: Read / Relax",
+        "(09:00, 10:40)",
+        [
+            "Independence High School",
+            700006395
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:58, 16:28)",
+        [
+            "",
+            700018321
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(17:25, 18:50)",
+        [
+            "Independence High School",
+            700006395
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(19:32, 21:08)",
+        [
+            "Independence High School",
+            700006395
+        ]
+    ],
+    [
+        "Social Time / Connect with Friends",
+        "(21:33, 23:30)",
+        [
+            "Gardenia Terrace",
+            700015942
+        ]
+    ],
+    [
+        "Social Time / Connect with Friends",
+        "(23:30, 23:59)",
+        [
+            "Gardenia Terrace",
+            700015942
+        ]
+    ]
+]

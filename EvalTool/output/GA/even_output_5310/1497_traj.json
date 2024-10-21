@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Doctors Urgent Care",
+            700008460
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:14)",
+        [
+            "",
+            700021662
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(14:05, 15:57)",
+        [
+            "New York Doctors Urgent Care",
+            700008460
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(16:00, 18:02)",
+        [
+            "New York Doctors Urgent Care",
+            700008460
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(18:07, 20:03)",
+        [
+            "New York Doctors Urgent Care",
+            700008460
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:03, 23:59)",
+        [
+            "",
+            700001131
+        ]
+    ]
+]

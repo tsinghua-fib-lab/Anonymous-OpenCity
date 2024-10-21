@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000878
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:27)",
+        [
+            "Institute of Audio Research",
+            700007662
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:24, 15:36)",
+        [
+            "",
+            700000813
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(17:53, 18:57)",
+        [
+            "",
+            700002523
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(19:41, 20:42)",
+        [
+            "Blossom",
+            700007660
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:53, 22:58)",
+        [
+            "Blossom",
+            700007660
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:12, 23:59)",
+        [
+            "Amorino",
+            700009620
+        ]
+    ]
+]

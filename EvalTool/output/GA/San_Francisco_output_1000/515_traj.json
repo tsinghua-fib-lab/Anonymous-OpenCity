@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Curry Leaf",
+            700005339
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 10:56)",
+        [
+            "Curry Leaf",
+            700005339
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:13, 12:58)",
+        [
+            "Pat's Cafe",
+            700012880
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:06, 15:08)",
+        [
+            "La Rocca's Corner",
+            700008570
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:53, 17:23)",
+        [
+            "Anne Bremer Memorial Library",
+            700000436
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 21:27)",
+        [
+            "Kennedy's Irish Pub & Curry House",
+            700000465
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:23, 23:59)",
+        [
+            "",
+            700004979
+        ]
+    ]
+]

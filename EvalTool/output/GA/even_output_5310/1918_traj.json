@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001018
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:51)",
+        [
+            "",
+            700016559
+        ]
+    ],
+    [
+        "Community event or volunteer",
+        "(13:08, 14:59)",
+        [
+            "Mount Sinai Doctors 77th Street Urology",
+            700016560
+        ]
+    ],
+    [
+        "Community event or volunteer",
+        "(16:04, 19:04)",
+        [
+            "Mount Sinai Doctors 77th Street Urology",
+            700016560
+        ]
+    ],
+    [
+        "Current Place: Mount Sinai Doctors 77th Street Urology",
+        "(19:27, 21:07)",
+        [
+            "Health Wise Pharmacy",
+            700016564
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:40, 23:59)",
+        [
+            "Health Wise Pharmacy",
+            700016564
+        ]
+    ]
+]

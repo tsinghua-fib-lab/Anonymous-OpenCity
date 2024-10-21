@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Neighbor's Corner",
+            700005955
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 09:56)",
+        [
+            "Bay Wheels",
+            700013450
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:07, 12:00)",
+        [
+            "Spike's Coffees and Teas",
+            700007870
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:29, 16:20)",
+        [
+            "Spike's Coffees and Teas",
+            700007870
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:50, 19:08)",
+        [
+            "All Season Sushi Bar",
+            700002203
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:59)",
+        [
+            "",
+            700002193
+        ]
+    ]
+]

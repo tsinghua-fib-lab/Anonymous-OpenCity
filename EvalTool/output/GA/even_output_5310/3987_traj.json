@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002955
+        ]
+    ],
+    [
+        "Relax and enjoy some leisure reading or catch up on social media",
+        "(09:00, 10:06)",
+        [
+            "Hummus Kitchen",
+            700004869
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:02, 14:39)",
+        [
+            "Mezze Mazi",
+            700008454
+        ]
+    ],
+    [
+        "Spend time with family or friends, either in person or via video call.",
+        "(16:04, 18:04)",
+        [
+            "Hummus Kitchen",
+            700004869
+        ]
+    ],
+    [
+        "Spend time with family or friends, either in person or via video call",
+        "(18:01, 19:54)",
+        [
+            "Mezze Mazi",
+            700008454
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:43, 23:59)",
+        [
+            "",
+            700008296
+        ]
+    ],
+    [
+        "go to Hummus Kitchen",
+        "(22:38, 23:59)",
+        [
+            "Hummus Kitchen",
+            700004869
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "",
+            700002031
+        ]
+    ]
+]

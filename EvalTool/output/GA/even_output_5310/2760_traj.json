@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Paul Recital Hall",
+            700022355
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:15)",
+        [
+            "",
+            700039399
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:53, 15:43)",
+        [
+            "",
+            700039399
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(17:17, 19:09)",
+        [
+            "Paul Recital Hall",
+            700022355
+        ]
+    ],
+    [
+        "Current place: Paul Recital Hall, Stay Time",
+        "(19:52, 20:58)",
+        [
+            "",
+            700024971
+        ]
+    ],
+    [
+        "Next activity: Watch a Sports Game or Movie.",
+        "(22:43, 23:59)",
+        [
+            "Alice Tully Hall",
+            700000587
+        ]
+    ]
+]

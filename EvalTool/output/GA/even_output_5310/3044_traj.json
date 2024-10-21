@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "NYU Langone Radiology",
+            700006205
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:57)",
+        [
+            "NYU Langone Radiology",
+            700006205
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:45, 13:59)",
+        [
+            "Ralph's Italian Ices",
+            700006208
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:39, 16:05)",
+        [
+            "East Side Endoscopy",
+            700023461
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 20:53)",
+        [
+            "Club Pilates",
+            700006202
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:48, 21:01)",
+        [
+            "Club Pilates",
+            700006202
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:49, 22:09)",
+        [
+            "Club Pilates",
+            700006202
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ]
+]

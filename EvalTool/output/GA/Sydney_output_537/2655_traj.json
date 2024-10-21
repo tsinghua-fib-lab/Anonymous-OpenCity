@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700013966
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:07)",
+        [
+            "",
+            700031526
+        ]
+    ],
+    [
+        "Leisure/Personal Projects",
+        "(14:22, 15:50)",
+        [
+            "",
+            700013966
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:37, 18:28)",
+        [
+            "Fish at the Rocks",
+            700007821
+        ]
+    ],
+    [
+        "Stay at Fish at the Rocks",
+        "(22:41, 23:59)",
+        [
+            "Captain Cook Hotel",
+            700000200
+        ]
+    ]
+]

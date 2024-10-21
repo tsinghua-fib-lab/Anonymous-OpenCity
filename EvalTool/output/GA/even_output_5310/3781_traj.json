@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Trailer Park Lounge",
+            700040174
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:02)",
+        [
+            "",
+            700020107
+        ]
+    ],
+    [
+        "Go for a jog or a leisurely walk in the park.",
+        "(11:13, 12:46)",
+        [
+            "Crunch Fitness",
+            700005995
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:18, 14:26)",
+        [
+            "Doughnut Plant",
+            700009549
+        ]
+    ],
+    [
+        "Meet friends for coffee or drinks at a café.",
+        "(15:41, 17:49)",
+        [
+            "",
+            700020109
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 21:55)",
+        [
+            "",
+            700020110
+        ]
+    ],
+    [
+        "Stay at City Beer.",
+        "(23:25, 23:59)",
+        [
+            "Jake's Saloon",
+            700004405
+        ]
+    ]
+]

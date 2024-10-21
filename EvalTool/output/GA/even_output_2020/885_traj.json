@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013446
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:42)",
+        [
+            "Dim Sum Club",
+            700004854
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:26, 16:12)",
+        [
+            "Little Kitchen",
+            700000642
+        ]
+    ],
+    [
+        "Watch a Movie/Show",
+        "(15:05, 16:56)",
+        [
+            "Fueling Station",
+            700002064
+        ]
+    ],
+    [
+        "Watch a Movie/Show",
+        "(16:58, 18:32)",
+        [
+            "Fueling Station",
+            700002064
+        ]
+    ],
+    [
+        "Hobbies/Projects",
+        "(18:52, 19:48)",
+        [
+            "Little Kitchen",
+            700000642
+        ]
+    ],
+    [
+        "Hobbies/Projects",
+        "(21:00, 22:17)",
+        [
+            "Little Kitchen",
+            700000642
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:11, 23:59)",
+        [
+            "",
+            700001334
+        ]
+    ]
+]

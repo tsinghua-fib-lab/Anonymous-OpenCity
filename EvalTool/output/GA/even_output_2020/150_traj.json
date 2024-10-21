@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014171
+        ]
+    ],
+    [
+        "Spend some time reading or catching up on news/articles",
+        "(10:00, 11:10)",
+        [
+            "",
+            700014171
+        ]
+    ],
+    [
+        "Spend some time reading or catching up on news/articles.",
+        "(11:46, 12:58)",
+        [
+            "",
+            700014171
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:50, 18:21)",
+        [
+            "Pazzia",
+            700002034
+        ]
+    ],
+    [
+        "Wind down the evening with a book or listening to music.",
+        "(19:20, 21:01)",
+        [
+            "",
+            700014171
+        ]
+    ],
+    [
+        "Wind down the evening with a book or listening to music.",
+        "(21:41, 22:51)",
+        [
+            "",
+            700014171
+        ]
+    ],
+    [
+        "Stay at home and wind down the evening with a book or listening to music.",
+        "(23:36, 23:59)",
+        [
+            "",
+            700014171
+        ]
+    ]
+]

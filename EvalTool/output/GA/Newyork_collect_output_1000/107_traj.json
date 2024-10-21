@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:11)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Socializing or Entertainment",
+        "(13:43, 15:54)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Socializing or Entertainment",
+        "(16:27, 18:56)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 22:25)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Stay at The UPS Store",
+        "(23:19, 23:59)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ]
+]

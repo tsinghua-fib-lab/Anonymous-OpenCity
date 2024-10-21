@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Emmett's",
+            700006536
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:15)",
+        [
+            "Comodo",
+            700006254
+        ]
+    ],
+    [
+        "Sports/Exercise",
+        "(11:31, 13:10)",
+        [
+            "Comodo",
+            700006254
+        ]
+    ],
+    [
+        "Entertainment",
+        "(13:51, 15:08)",
+        [
+            "Comodo",
+            700006254
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 21:16)",
+        [
+            "Raku Soho",
+            700006537
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:02, 23:59)",
+        [
+            "Cooke Center Academy",
+            700006247
+        ]
+    ]
+]

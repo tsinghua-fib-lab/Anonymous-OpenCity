@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Link NYC",
+            700017645
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(09:00, 10:04)",
+        [
+            "",
+            700000003
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(10:12, 11:37)",
+        [
+            "Link NYC",
+            700017645
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 15:10)",
+        [
+            "Link NYC",
+            700017645
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 23:18)",
+        [
+            "Bemelmans Bar",
+            700009670
+        ]
+    ],
+    [
+        "Next, go to Empellón Al Pastor for dinner.",
+        "(23:07, 23:59)",
+        [
+            "Cafe Boulud",
+            700015607
+        ]
+    ]
+]

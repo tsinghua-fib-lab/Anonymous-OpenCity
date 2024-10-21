@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010930
+        ]
+    ],
+    [
+        "Leisure Activity: Read / Relax",
+        "(09:00, 10:35)",
+        [
+            "Bank of America",
+            700003743
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:58, 14:30)",
+        [
+            "",
+            700002324
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(17:25, 19:05)",
+        [
+            "Bank of America",
+            700003743
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:32, 21:10)",
+        [
+            "Bank of America",
+            700003743
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(21:33, 23:40)",
+        [
+            "",
+            700020838
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(23:30, 23:59)",
+        [
+            "USPS",
+            700005945
+        ]
+    ]
+]

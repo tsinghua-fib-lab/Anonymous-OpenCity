@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:01)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:21, 18:48)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "prepare dinner and wind down",
+        "(20:43, 22:04)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(22:21, 23:59)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ]
+]

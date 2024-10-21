@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(08:00, 13:35)",
+        [
+            "Citi Bike - East 25th Street & 2nd Avenue",
+            700008039
+        ]
+    ],
+    [
+        "Personal Project or Hobby Time",
+        "(14:19, 16:28)",
+        [
+            "Firecracker Wings",
+            700023829
+        ]
+    ],
+    [
+        "Personal Project or Hobby Time",
+        "(15:58, 17:56)",
+        [
+            "",
+            700011175
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 19:41)",
+        [
+            "",
+            700019558
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:48, 23:59)",
+        [
+            "Duane Reade",
+            700011388
+        ]
+    ]
+]

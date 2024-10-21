@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sushi Yoshizawa",
+            700041300
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:04)",
+        [
+            "Sushi Yoshizawa",
+            700041300
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:45, 12:10)",
+        [
+            "Sushi Yoshizawa",
+            700041300
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:14, 14:07)",
+        [
+            "Sushi Yoshizawa",
+            700041300
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:00, 16:52)",
+        [
+            "",
+            700001955
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:14, 20:46)",
+        [
+            "Citi Bike - 1st Avenue & East 68th Street",
+            700009343
+        ]
+    ],
+    [
+        "Stay at Sutton Terrace Courtyard",
+        "(22:10, 23:38)",
+        [
+            "",
+            700040421
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "Le Pain Quotidien",
+            700006028
+        ]
+    ]
+]

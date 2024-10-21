@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Arthur & Sons",
+            700005702
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:00)",
+        [
+            "Arthur & Sons",
+            700005702
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:01, 12:27)",
+        [
+            "Corner bistro",
+            700008549
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:42, 14:14)",
+        [
+            "Corner bistro",
+            700008549
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 18:09)",
+        [
+            "Hudson Cafe",
+            700008801
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:20, 19:06)",
+        [
+            "Arthur & Sons",
+            700005702
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:44, 23:59)",
+        [
+            "",
+            700011123
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:50, 22:49)",
+        [
+            "Mobil",
+            700005847
+        ]
+    ]
+]

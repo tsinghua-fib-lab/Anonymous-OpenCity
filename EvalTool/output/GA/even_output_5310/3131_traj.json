@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:51)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ],
+    [
+        "Personal Leisure Time",
+        "(15:02, 17:38)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ],
+    [
+        "Personal Leisure Time",
+        "(18:04, 20:11)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:40, 20:54)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:17, 23:00)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ],
+    [
+        "Stay at Dental Place.",
+        "(23:30, 23:59)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ]
+]

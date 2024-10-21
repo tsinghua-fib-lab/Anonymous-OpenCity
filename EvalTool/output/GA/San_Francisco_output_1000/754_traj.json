@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002047
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:05)",
+        [
+            "Ora Wine Bar",
+            700010445
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(14:35, 16:10)",
+        [
+            "",
+            700000658
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(16:50, 17:55)",
+        [
+            "Hoi.An",
+            700001136
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:46, 19:50)",
+        [
+            "Moka Coffee",
+            700001133
+        ]
+    ],
+    [
+        "Stay at Donuts & Things",
+        "(20:37, 22:17)",
+        [
+            "Donuts & Things",
+            700001125
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:46, 23:59)",
+        [
+            "Kozy Kar",
+            700006027
+        ]
+    ]
+]

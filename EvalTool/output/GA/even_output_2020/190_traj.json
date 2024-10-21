@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "SachBao Nhac",
+            700010916
+        ]
+    ],
+    [
+        "Go for a workout or engage in a sport",
+        "(10:00, 11:25)",
+        [
+            "",
+            700010380
+        ]
+    ],
+    [
+        "Go for a workout or engage in a sport.",
+        "(11:46, 13:21)",
+        [
+            "Bandit",
+            700005462
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:50, 14:56)",
+        [
+            "Tower 737 Parking Garage",
+            700013909
+        ]
+    ],
+    [
+        "Wind down the evening with a book or listening to music.",
+        "(19:20, 20:44)",
+        [
+            "Ox & Tiger",
+            700009310
+        ]
+    ],
+    [
+        "Wind down the evening with a book or listening to music.",
+        "(21:41, 22:56)",
+        [
+            "Ox & Tiger",
+            700009310
+        ]
+    ],
+    [
+        "Stay at home and wind down the evening with a book or listening to music.",
+        "(23:36, 23:59)",
+        [
+            "SachBao Nhac",
+            700010916
+        ]
+    ]
+]

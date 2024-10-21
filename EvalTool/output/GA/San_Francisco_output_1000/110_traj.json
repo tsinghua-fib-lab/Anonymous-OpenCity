@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Turtle Tower",
+            700002995
+        ]
+    ],
+    [
+        "Brunch",
+        "(09:00, 10:39)",
+        [
+            "Lafayette Coffee Shop",
+            700005076
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:39, 11:50)",
+        [
+            "Lafayette Coffee Shop",
+            700005076
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:05, 14:10)",
+        [
+            "Lafayette Coffee Shop",
+            700005076
+        ]
+    ],
+    [
+        "Relaxation and Reading",
+        "(14:36, 16:15)",
+        [
+            "Lafayette Coffee Shop",
+            700005076
+        ]
+    ],
+    [
+        "Shopping or Browsing",
+        "(16:37, 18:12)",
+        [
+            "Lafayette Coffee Shop",
+            700005076
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 23:48)",
+        [
+            "Western Union",
+            700005073
+        ]
+    ],
+    [
+        "Shopping or Browsing",
+        "(23:15, 23:59)",
+        [
+            "Lafayette Coffee Shop",
+            700005076
+        ]
+    ]
+]

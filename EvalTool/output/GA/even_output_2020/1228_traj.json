@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower",
+            700004799
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:14)",
+        [
+            "Po'Boys Kitchen",
+            700008104
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(12:40, 13:43)",
+        [
+            "Chatz",
+            700001245
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(14:23, 16:06)",
+        [
+            "Chatz",
+            700001245
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:39, 19:39)",
+        [
+            "Cracked & Battered",
+            700005780
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:59, 20:56)",
+        [
+            "Le Marché Cezanne",
+            700005782
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "",
+            700008111
+        ]
+    ]
+]

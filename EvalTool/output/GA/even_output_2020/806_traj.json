@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Valencia Street Muscle",
+            700000835
+        ]
+    ],
+    [
+        "10:00 AM - Outdoor Activity",
+        "(09:00, 10:10)",
+        [
+            "Asta Yoga",
+            700010291
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:43, 12:10)",
+        [
+            "Mezze and Mooore",
+            700000083
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:31, 14:55)",
+        [
+            "Mezze and Mooore",
+            700000083
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 16:20)",
+        [
+            "",
+            700010851
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(17:08, 18:40)",
+        [
+            "Starbucks",
+            700009200
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(18:49, 20:39)",
+        [
+            "Starbucks",
+            700009200
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(20:55, 22:05)",
+        [
+            "Starbucks",
+            700009200
+        ]
+    ],
+    [
+        "Stay at Starbucks",
+        "(22:18, 23:53)",
+        [
+            "Starbucks",
+            700009200
+        ]
+    ],
+    [
+        "Stay at Starbucks",
+        "(23:53, 23:59)",
+        [
+            "Starbucks",
+            700009200
+        ]
+    ]
+]

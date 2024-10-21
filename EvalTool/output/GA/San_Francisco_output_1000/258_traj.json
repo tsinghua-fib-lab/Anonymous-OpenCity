@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Walker Theater",
+            700008159
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:13)",
+        [
+            "Pacific Plastic Surgery Group",
+            700010417
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 19:27)",
+        [
+            "Sol Joseph Recital Hall",
+            700008156
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 23:59)",
+        [
+            "Nakama Sushi",
+            700009522
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "RT Rotisserie",
+            700006137
+        ]
+    ]
+]

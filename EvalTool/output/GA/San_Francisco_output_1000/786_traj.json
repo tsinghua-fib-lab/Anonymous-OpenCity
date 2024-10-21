@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Alamo Square Cafe",
+            700003053
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:18)",
+        [
+            "",
+            700003725
+        ]
+    ],
+    [
+        "Hobbies/Personal Projects",
+        "(15:08, 17:10)",
+        [
+            "Alamo Square Cafe",
+            700003053
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:49, 19:03)",
+        [
+            "Alamo Square Cafe",
+            700003053
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:08, 20:57)",
+        [
+            "Alamo Square Cafe",
+            700003053
+        ]
+    ],
+    [
+        "Evening Relaxation/Family Time",
+        "(21:48, 23:08)",
+        [
+            "Alamo Square Cafe",
+            700003053
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "",
+            700003724
+        ]
+    ]
+]

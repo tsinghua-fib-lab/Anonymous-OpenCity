@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Madison Rx Pharmacy",
+            700018398
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:28)",
+        [
+            "Madison Rx Pharmacy",
+            700018398
+        ]
+    ],
+    [
+        "Move to Outdoor Activity",
+        "(11:15, 12:47)",
+        [
+            "Forever Taste Restaurant",
+            700018389
+        ]
+    ],
+    [
+        "Stay at current place",
+        "(13:51, 15:24)",
+        [
+            "Forever Taste Restaurant",
+            700018389
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:34, 17:17)",
+        [
+            "",
+            700018394
+        ]
+    ],
+    [
+        "Relaxation & Entertainment",
+        "(18:28, 20:15)",
+        [
+            "Forever Taste Restaurant",
+            700018389
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:48, 23:59)",
+        [
+            "",
+            700001990
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "",
+            700038559
+        ]
+    ]
+]

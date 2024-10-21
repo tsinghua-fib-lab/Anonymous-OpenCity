@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Village Community Boathouse",
+            700009438
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:41)",
+        [
+            "",
+            700007452
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:03, 14:28)",
+        [
+            "Village Community Boathouse",
+            700009438
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:04, 16:31)",
+        [
+            "Village Community Boathouse",
+            700009438
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:22, 21:07)",
+        [
+            "",
+            700020897
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:51, 23:59)",
+        [
+            "",
+            700019019
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "",
+            700019025
+        ]
+    ]
+]

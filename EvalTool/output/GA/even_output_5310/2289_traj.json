@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "ChargePoint",
+            700012454
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 11:20)",
+        [
+            "ChargePoint",
+            700012454
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:06, 13:41)",
+        [
+            "ChargePoint",
+            700012454
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:22, 18:19)",
+        [
+            "",
+            700019672
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(17:42, 19:15)",
+        [
+            "",
+            700000678
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 21:21)",
+        [
+            "",
+            700026468
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:38, 23:59)",
+        [
+            "ChargePoint",
+            700012454
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(23:48, 23:59)",
+        [
+            "ChargePoint",
+            700012454
+        ]
+    ]
+]

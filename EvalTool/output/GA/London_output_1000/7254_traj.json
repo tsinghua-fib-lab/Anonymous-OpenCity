@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:48)",
+        [
+            "Burger King",
+            700004086
+        ]
+    ],
+    [
+        "Reading/Creative Time",
+        "(14:59, 16:53)",
+        [
+            "Burger King",
+            700004086
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 18:55)",
+        [
+            "All Bar One",
+            700000039
+        ]
+    ],
+    [
+        "Watch a Movie/Relax",
+        "(19:53, 20:55)",
+        [
+            "All Bar One",
+            700000039
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:46, 22:59)",
+        [
+            "Bill's",
+            700031516
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700021623
+        ]
+    ]
+]

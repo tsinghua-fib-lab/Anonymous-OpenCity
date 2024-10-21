@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001874
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:20)",
+        [
+            "Citi Bike - Madison Street & Montgomery Street",
+            700008130
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:30, 18:11)",
+        [
+            "",
+            700002057
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 17:47)",
+        [
+            "",
+            700022957
+        ]
+    ],
+    [
+        "Head to Citi Bike - Madison Street & Montgomery Street after dinner.",
+        "(21:23, 23:13)",
+        [
+            "",
+            700031275
+        ]
+    ],
+    [
+        "Stay at a public bookcase and read",
+        "(23:17, 23:59)",
+        [
+            "",
+            700031277
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001184
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:40)",
+        [
+            "Posh Pass NYC",
+            700003865
+        ]
+    ],
+    [
+        "Outdoor Activity (Walk in the Park)",
+        "(12:03, 13:12)",
+        [
+            "Dil e Punjab Deli",
+            700004409
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 17:03)",
+        [
+            "Chelsea Royal Care Pharmacy",
+            700004412
+        ]
+    ],
+    [
+        "Spend quality time with family or friends, or engage in your hobby.",
+        "(19:32, 21:04)",
+        [
+            "Chelsea Royal Care Pharmacy",
+            700004412
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:00, 23:59)",
+        [
+            "",
+            700000822
+        ]
+    ]
+]

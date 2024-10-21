@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:23)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:25, 15:00)",
+        [
+            "",
+            700004896
+        ]
+    ],
+    [
+        "Leisure Time / Reading",
+        "(13:50, 15:00)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "Leisure Time / Reading",
+        "(15:07, 17:08)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:35, 18:48)",
+        [
+            "",
+            700004907
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:38, 23:57)",
+        [
+            "",
+            700004900
+        ]
+    ]
+]

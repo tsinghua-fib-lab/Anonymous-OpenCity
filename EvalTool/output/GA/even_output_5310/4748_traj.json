@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of America",
+            700008772
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:15)",
+        [
+            "Dunkin'",
+            700006507
+        ]
+    ],
+    [
+        "Socialize with Friends or Family",
+        "(12:15, 14:25)",
+        [
+            "Winter Garden Theatre",
+            700016821
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:13, 19:43)",
+        [
+            "",
+            700020747
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(17:04, 19:01)",
+        [
+            "Times Square Church",
+            700000560
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:33, 23:59)",
+        [
+            "Citi Bike - Broadway & West 51st Street",
+            700007977
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:51, 23:59)",
+        [
+            "Ellen's Stardust Diner",
+            700006091
+        ]
+    ]
+]

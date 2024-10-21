@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Subway",
+            700013322
+        ]
+    ],
+    [
+        "Exercise Session",
+        "(09:00, 09:57)",
+        [
+            "Subway",
+            700013322
+        ]
+    ],
+    [
+        "Exercise Session",
+        "(10:22, 11:51)",
+        [
+            "Subway",
+            700013322
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:37, 13:54)",
+        [
+            "Gourmet 45",
+            700007789
+        ]
+    ],
+    [
+        "Socializing or Errands",
+        "(14:25, 16:18)",
+        [
+            "",
+            700019182
+        ]
+    ],
+    [
+        "Prep for the Week",
+        "(16:55, 17:58)",
+        [
+            "Subway",
+            700013322
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(18:21, 20:03)",
+        [
+            "Subway",
+            700013322
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(20:40, 22:08)",
+        [
+            "Sweetgreen",
+            700039046
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(23:09, 23:59)",
+        [
+            "Potbelly",
+            700039045
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Downtown Veterinary Clinic",
+            700012428
+        ]
+    ],
+    [
+        "Outdoor Walk or Workout",
+        "(10:00, 11:32)",
+        [
+            "Txikito",
+            700004676
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:28, 18:10)",
+        [
+            "",
+            700000972
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:04, 19:06)",
+        [
+            "",
+            700010440
+        ]
+    ],
+    [
+        "Wind Down & Family Time",
+        "(20:47, 22:07)",
+        [
+            "Taqueria on Tenth",
+            700033750
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:59)",
+        [
+            "Porteño",
+            700009121
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike",
+            700029756
+        ]
+    ],
+    [
+        "Engage in a morning workout or leisurely walk",
+        "(09:00, 10:01)",
+        [
+            "Citi Bike",
+            700029756
+        ]
+    ],
+    [
+        "current place: Citi Bike; stay time:",
+        "(10:07, 11:38)",
+        [
+            "Citi Bike - Avenue D & E 8 St",
+            700007954
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 17:39)",
+        [
+            "Citi Bike",
+            700029756
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 19:42)",
+        [
+            "",
+            700002984
+        ]
+    ],
+    [
+        "Stay at current place: 9th St Espresso.",
+        "(20:15, 21:21)",
+        [
+            "Citi Bike - E 9 St & Avenue C",
+            700008063
+        ]
+    ],
+    [
+        "Stay at 9th St Espresso.",
+        "(21:49, 23:59)",
+        [
+            "",
+            700002417
+        ]
+    ]
+]

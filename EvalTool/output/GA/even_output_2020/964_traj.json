@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Côte Ouest Bistro",
+            700002031
+        ]
+    ],
+    [
+        "11:00 AM - Exercise",
+        "(10:00, 11:22)",
+        [
+            "Final final",
+            700005886
+        ]
+    ],
+    [
+        "stay",
+        "(11:43, 13:06)",
+        [
+            "",
+            700008177
+        ]
+    ],
+    [
+        "Next activity planned: Leisure Activity.",
+        "(13:19, 14:44)",
+        [
+            "Final final",
+            700005886
+        ]
+    ],
+    [
+        "Next activity planned: Leisure Activity;",
+        "(15:28, 16:59)",
+        [
+            "Final final",
+            700005886
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:11, 20:50)",
+        [
+            "",
+            700002283
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:02, 23:59)",
+        [
+            "",
+            700000680
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:54)",
+        [
+            "Kenneth A. Mercer, MD",
+            700023846
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:09, 16:14)",
+        [
+            "",
+            700032014
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:55, 18:07)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Relaxation & Wind Down",
+        "(19:15, 20:56)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Stay at New York Comedy Club",
+        "(21:40, 23:08)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Stay at New York Comedy Club",
+        "(23:53, 23:59)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ]
+]

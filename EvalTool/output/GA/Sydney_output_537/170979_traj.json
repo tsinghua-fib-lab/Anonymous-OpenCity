@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700031554
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(10:00, 11:23)",
+        [
+            "",
+            700005837
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 16:09)",
+        [
+            "Vanto",
+            700007133
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:53, 18:14)",
+        [
+            "Starbucks",
+            700005663
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 20:21)",
+        [
+            "Zumbo Patisserie",
+            700008671
+        ]
+    ],
+    [
+        "Explore a Local Event or Market",
+        "(21:17, 22:53)",
+        [
+            "",
+            700031554
+        ]
+    ],
+    [
+        "Explore Local Event or Market",
+        "(23:22, 23:59)",
+        [
+            "Vanto",
+            700007133
+        ]
+    ]
+]

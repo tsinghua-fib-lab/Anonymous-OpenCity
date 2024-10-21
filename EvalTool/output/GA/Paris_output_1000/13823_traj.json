@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "McDonald's",
+            700002415
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:39)",
+        [
+            "Au Vieux Comptoir",
+            700019511
+        ]
+    ],
+    [
+        "Grocery Shopping or Errands",
+        "(15:33, 17:05)",
+        [
+            "Au Vieux Comptoir",
+            700019511
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:17, 19:39)",
+        [
+            "Au Vieux Comptoir",
+            700019511
+        ]
+    ],
+    [
+        "Relaxation and TV Time",
+        "(19:30, 21:06)",
+        [
+            "Au Vieux Comptoir",
+            700019511
+        ]
+    ],
+    [
+        "Relaxation and TV Time",
+        "(21:11, 23:09)",
+        [
+            "Au Vieux Comptoir",
+            700019511
+        ]
+    ],
+    [
+        "Relaxation and TV Time",
+        "(23:56, 23:59)",
+        [
+            "Au Vieux Comptoir",
+            700019511
+        ]
+    ]
+]

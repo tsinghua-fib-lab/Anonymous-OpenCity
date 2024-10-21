@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002845
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:28)",
+        [
+            "Theatre 80",
+            700012233
+        ]
+    ],
+    [
+        "Social Time",
+        "(12:18, 13:56)",
+        [
+            "Theatre 80",
+            700012233
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:08, 18:32)",
+        [
+            "Little Kirin",
+            700026929
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:40, 22:48)",
+        [
+            "La Palapa Cocina Mexicana",
+            700020971
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "Jiang's Kitchen",
+            700026931
+        ]
+    ]
+]

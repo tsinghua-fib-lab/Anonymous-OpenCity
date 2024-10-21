@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Le Murmure",
+            700003332
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:27)",
+        [
+            "",
+            700062718
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 17:05)",
+        [
+            "La Petite Rotonde",
+            700004469
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:01, 22:54)",
+        [
+            "La Petite Rotonde",
+            700004469
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "Caisse d'Épargne",
+            700017669
+        ]
+    ]
+]

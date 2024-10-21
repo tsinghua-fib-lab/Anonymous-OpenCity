@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:01)",
+        [
+            "",
+            700022515
+        ]
+    ],
+    [
+        "Personal Project/Study Time",
+        "(10:29, 12:19)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:43, 15:12)",
+        [
+            "New China",
+            700016574
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:23, 17:48)",
+        [
+            "Molly's",
+            700011135
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:56, 19:10)",
+        [
+            "Gramercy Ale House",
+            700020943
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "Passport Health Gramercy Park Travel Clinic",
+            700025936
+        ]
+    ]
+]

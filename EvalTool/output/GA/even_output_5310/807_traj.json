@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Marinara",
+            700039309
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(09:00, 10:01)",
+        [
+            "",
+            700036509
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(10:21, 12:05)",
+        [
+            "Marinara",
+            700039309
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:51, 14:51)",
+        [
+            "Citibike",
+            700021679
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 17:55)",
+        [
+            "",
+            700038170
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:59)",
+        [
+            "Parnell's",
+            700011622
+        ]
+    ]
+]

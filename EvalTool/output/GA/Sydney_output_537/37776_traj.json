@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020599
+        ]
+    ],
+    [
+        "Next activity based on plan.",
+        "(09:00, 10:02)",
+        [
+            "",
+            700020599
+        ]
+    ],
+    [
+        "Engage in leisure activities like video games.",
+        "(10:21, 11:56)",
+        [
+            "",
+            700020599
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 16:25)",
+        [
+            "",
+            700021538
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 20:52)",
+        [
+            "",
+            700021545
+        ]
+    ],
+    [
+        "Relax at home and watch a movie.",
+        "(19:10, 22:04)",
+        [
+            "",
+            700020599
+        ]
+    ],
+    [
+        "Stay at home and continue watching TV",
+        "(22:34, 23:59)",
+        [
+            "",
+            700020599
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Crunch Fitness",
+            700021046
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:34)",
+        [
+            "",
+            700002463
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:37, 16:04)",
+        [
+            "Outro",
+            700010137
+        ]
+    ],
+    [
+        "Movie or TV Time",
+        "(17:30, 19:29)",
+        [
+            "Outro",
+            700010137
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:20, 21:07)",
+        [
+            "Citi Bike - East 11th Street & Broadway",
+            700008021
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:18, 23:59)",
+        [
+            "Outro",
+            700010137
+        ]
+    ]
+]

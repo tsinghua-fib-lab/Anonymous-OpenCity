@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "SkinLab",
+            700040086
+        ]
+    ],
+    [
+        "Light Exercise",
+        "(10:00, 11:09)",
+        [
+            "SkinLab",
+            700040086
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:35, 13:26)",
+        [
+            "Divine Smiles Dental",
+            700021735
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:51, 15:26)",
+        [
+            "Divine Smiles Dental",
+            700021735
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:43, 21:30)",
+        [
+            "EJ's Luncheonette",
+            700009201
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 22:59)",
+        [
+            "Citi bike - 3rd Avenue & East 72nd Street",
+            700017450
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 23:59)",
+        [
+            "",
+            700001313
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700026963
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:15)",
+        [
+            "Maison de l'Alsace",
+            700003450
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 15:09)",
+        [
+            "Pub Elysees",
+            700068957
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:15, 20:05)",
+        [
+            "Pub Elysees",
+            700068957
+        ]
+    ],
+    [
+        "Continue the evening by staying at Pub Elysees.",
+        "(20:11, 21:47)",
+        [
+            "Pub Elysees",
+            700068957
+        ]
+    ],
+    [
+        "Stay at Pub Elysées.",
+        "(22:15, 23:51)",
+        [
+            "Pierre Charron - Champs-Elysées",
+            700044245
+        ]
+    ],
+    [
+        "Stay at Pub Elysées",
+        "(23:51, 23:59)",
+        [
+            "Pierre Charron - Champs-Elysées",
+            700044245
+        ]
+    ]
+]

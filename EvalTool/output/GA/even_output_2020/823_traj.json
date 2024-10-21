@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Little Chihuahua",
+            700002998
+        ]
+    ],
+    [
+        "11:00 AM - Morning Exercise",
+        "(10:00, 11:38)",
+        [
+            "Little Chihuahua",
+            700002998
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:27, 17:52)",
+        [
+            "Taqueria La Cumbre",
+            700005260
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:02, 19:14)",
+        [
+            "Muddy Waters",
+            700000695
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(21:06, 22:34)",
+        [
+            "Mission Workshop",
+            700002229
+        ]
+    ],
+    [
+        "Stay at Little Chihuahua",
+        "(23:23, 23:59)",
+        [
+            "Taqueria La Cumbre",
+            700005260
+        ]
+    ]
+]

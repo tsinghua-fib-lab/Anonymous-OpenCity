@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001923
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:07)",
+        [
+            "York Ave Pizza",
+            700041064
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 16:10)",
+        [
+            "Claire's Kitchen Cafe",
+            700016388
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:17, 22:21)",
+        [
+            "Tanoshi Sushi NYC",
+            700016389
+        ]
+    ],
+    [
+        "Stay at Tanoshi Sushi NYC",
+        "(22:52, 23:59)",
+        [
+            "Tanoshi Sushi NYC",
+            700016389
+        ]
+    ],
+    [
+        "Stay at York Ave Pizza",
+        "(23:58, 23:59)",
+        [
+            "York Ave Pizza",
+            700041064
+        ]
+    ]
+]

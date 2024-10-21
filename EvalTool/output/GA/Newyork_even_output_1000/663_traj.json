@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dimes",
+            700010943
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 10:58)",
+        [
+            "Dimes",
+            700010943
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:41, 16:23)",
+        [
+            "Mictlān",
+            700007398
+        ]
+    ],
+    [
+        "Entertainment",
+        "(13:46, 15:06)",
+        [
+            "Mictlān",
+            700007398
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:44, 19:27)",
+        [
+            "Happy Express Cafe, Inc.",
+            700013754
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:48, 23:59)",
+        [
+            "Kiki's",
+            700013715
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "Happy Express Cafe, Inc.",
+            700013754
+        ]
+    ]
+]

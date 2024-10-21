@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Saluggi's",
+            700014870
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:38)",
+        [
+            "",
+            700001734
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(11:34, 13:30)",
+        [
+            "Westside Coffee Shop",
+            700036670
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:54, 14:53)",
+        [
+            "Westside Coffee Shop",
+            700036670
+        ]
+    ],
+    [
+        "Next activity after Leisure Time",
+        "(15:40, 16:58)",
+        [
+            "Westside Coffee Shop",
+            700036670
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 22:29)",
+        [
+            "Macao",
+            700019771
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 23:59)",
+        [
+            "Saluggi's",
+            700014870
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "",
+            700038594
+        ]
+    ]
+]

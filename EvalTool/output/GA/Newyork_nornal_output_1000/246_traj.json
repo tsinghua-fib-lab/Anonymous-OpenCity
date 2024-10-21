@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009632
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:24)",
+        [
+            "Chase",
+            700004313
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(14:14, 16:09)",
+        [
+            "Chase",
+            700004313
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(16:40, 18:14)",
+        [
+            "Chase",
+            700004313
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(18:18, 20:01)",
+        [
+            "Chase",
+            700004313
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(20:12, 21:57)",
+        [
+            "The Monster",
+            700015239
+        ]
+    ],
+    [
+        "Stay at The Monster.",
+        "(22:02, 23:42)",
+        [
+            "The Monster",
+            700015239
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "55 bar",
+            700009678
+        ]
+    ]
+]

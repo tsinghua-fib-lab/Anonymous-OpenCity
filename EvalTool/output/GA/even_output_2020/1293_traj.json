@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bay Wheels",
+            700010529
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:08)",
+        [
+            "",
+            700002893
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:33, 17:36)",
+        [
+            "Gambit Lounge",
+            700003093
+        ]
+    ],
+    [
+        "Lunch with Friends",
+        "(15:14, 16:36)",
+        [
+            "Souvla",
+            700003175
+        ]
+    ],
+    [
+        "Exercise",
+        "(17:10, 18:43)",
+        [
+            "Souvla",
+            700003175
+        ]
+    ],
+    [
+        "Leisure Activity before Relaxing at Home",
+        "(18:39, 20:03)",
+        [
+            "Urban Ritual",
+            700011000
+        ]
+    ],
+    [
+        "Leisure Activity before Relaxing at Home",
+        "(20:05, 21:32)",
+        [
+            "Il Borgo",
+            700004525
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "Gambit Lounge",
+            700003093
+        ]
+    ]
+]

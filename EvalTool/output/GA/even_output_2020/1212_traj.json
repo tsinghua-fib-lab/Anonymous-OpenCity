@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013260
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:12)",
+        [
+            "",
+            700013853
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:53, 12:50)",
+        [
+            "Blue Bottle Coffee",
+            700010072
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:52, 17:58)",
+        [
+            "Bank of America",
+            700000563
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:16, 18:30)",
+        [
+            "",
+            700000564
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "Intersection for the Arts",
+            700006647
+        ]
+    ]
+]

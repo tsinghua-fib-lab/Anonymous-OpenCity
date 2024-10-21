@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "John's of Bleecker St",
+            700003339
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:42)",
+        [
+            "Hummus Place",
+            700003344
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 20:47)",
+        [
+            "Greenwich House Preschool",
+            700000458
+        ]
+    ],
+    [
+        "Entertainment",
+        "(16:51, 18:14)",
+        [
+            "Hummus Place",
+            700003344
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:17, 20:15)",
+        [
+            "L'accolade",
+            700016379
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 23:59)",
+        [
+            "Hungry Ghost Coffee",
+            700027191
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "Boots and Saddle",
+            700010266
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001217
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 12:03)",
+        [
+            "Krav Maga",
+            700004064
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 16:43)",
+        [
+            "Modern Thai",
+            700001107
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:56, 18:00)",
+        [
+            "Sammy's Cafe",
+            700004065
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 20:55)",
+        [
+            "",
+            700000661
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "Bay Area Smash Room",
+            700012799
+        ]
+    ]
+]

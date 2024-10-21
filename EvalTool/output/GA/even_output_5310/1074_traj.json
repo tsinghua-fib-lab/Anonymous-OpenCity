@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Willett St & Delancey St",
+            700007963
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:58)",
+        [
+            "FDNY Engine 15/Ladder 18/Battalion 4",
+            700005440
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 16:39)",
+        [
+            "",
+            700033271
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:51, 19:33)",
+        [
+            "",
+            700033273
+        ]
+    ],
+    [
+        "Movie Night",
+        "(21:30, 22:58)",
+        [
+            "NYPD 7 PCT",
+            700004361
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:43, 23:59)",
+        [
+            "",
+            700031274
+        ]
+    ]
+]

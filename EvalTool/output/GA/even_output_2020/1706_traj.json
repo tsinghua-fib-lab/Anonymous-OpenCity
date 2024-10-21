@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bowl'd Acai",
+            700003284
+        ]
+    ],
+    [
+        "Go for a walk in the local park.",
+        "(10:00, 10:53)",
+        [
+            "Tai Chi Restaurant",
+            700002099
+        ]
+    ],
+    [
+        "Go for a walk in the local park",
+        "(10:56, 11:56)",
+        [
+            "",
+            700004359
+        ]
+    ],
+    [
+        "Lunch at home, preparing something simple.",
+        "(12:00, 12:55)",
+        [
+            "Ollei",
+            700013230
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 17:05)",
+        [
+            "The Royal Oak",
+            700000646
+        ]
+    ],
+    [
+        "Engage in a sport or leisure activity from 3:30 pm to 5:00 pm.",
+        "(17:05, 18:53)",
+        [
+            "Starbucks",
+            700001865
+        ]
+    ],
+    [
+        "Stay at Starbucks for reading.",
+        "(19:08, 20:57)",
+        [
+            "Starbucks",
+            700001865
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:35, 23:59)",
+        [
+            "Royal Ground Coffee",
+            700002092
+        ]
+    ]
+]

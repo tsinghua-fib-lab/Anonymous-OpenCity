@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "West Bank Cafe",
+            700014810
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:08)",
+        [
+            "",
+            700002964
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 19:46)",
+        [
+            "The Polynesian",
+            700017475
+        ]
+    ],
+    [
+        "Stay at current place",
+        "(21:52, 22:57)",
+        [
+            "The Polynesian",
+            700017475
+        ]
+    ],
+    [
+        "Stay at current place",
+        "(23:05, 23:59)",
+        [
+            "Chez Josephine",
+            700014808
+        ]
+    ]
+]

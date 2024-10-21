@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "USA Vein Clinic",
+            700015611
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:54)",
+        [
+            "USA Vein Clinic",
+            700015611
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:22, 18:03)",
+        [
+            "",
+            700006036
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 19:40)",
+        [
+            "Ritz Diner",
+            700006524
+        ]
+    ],
+    [
+        "Stay at USA Vein Clinic",
+        "(23:35, 23:59)",
+        [
+            "USA Vein Clinic",
+            700015611
+        ]
+    ]
+]

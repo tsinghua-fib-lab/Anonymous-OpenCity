@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011159
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:39)",
+        [
+            "",
+            700014645
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 15:24)",
+        [
+            "",
+            700014645
+        ]
+    ],
+    [
+        "Relax with personal hobbies",
+        "(17:08, 18:54)",
+        [
+            "Phoenix Garden",
+            700007839
+        ]
+    ],
+    [
+        "Relax with personal hobbies",
+        "(19:11, 21:04)",
+        [
+            "Phoenix Garden",
+            700007839
+        ]
+    ],
+    [
+        "Stay at Biscuits and Bath.",
+        "(21:33, 22:58)",
+        [
+            "HSBC",
+            700006454
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "",
+            700021868
+        ]
+    ]
+]

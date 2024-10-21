@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "USA Parking",
+            700004068
+        ]
+    ],
+    [
+        "Have lunch at a favorite restaurant or café.",
+        "(10:00, 10:56)",
+        [
+            "La Fina Estampa",
+            700004067
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:48, 16:55)",
+        [
+            "",
+            700008886
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:21, 18:55)",
+        [
+            "The San Francisco Capoeira Center",
+            700012930
+        ]
+    ],
+    [
+        "Attend a sports event or play a game of tennis with friends.",
+        "(18:18, 19:38)",
+        [
+            "USA Parking",
+            700004068
+        ]
+    ],
+    [
+        "Relax at home and catch up on a series or movie.",
+        "(18:58, 20:29)",
+        [
+            "USA Parking",
+            700004068
+        ]
+    ],
+    [
+        "Relax at home and catch up on a series or movie.",
+        "(20:30, 22:02)",
+        [
+            "USA Parking",
+            700004068
+        ]
+    ],
+    [
+        "Relax at home and catch up on a series or movie.",
+        "(22:50, 23:59)",
+        [
+            "USA Parking",
+            700004068
+        ]
+    ]
+]

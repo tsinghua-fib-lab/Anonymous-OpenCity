@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Palace Verona Cinema",
+            700003751
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:29)",
+        [
+            "",
+            700031189
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:30, 14:41)",
+        [
+            "Rose, Shamrock and Thistle Hotel",
+            700003447
+        ]
+    ],
+    [
+        "Prep Dinner",
+        "(18:03, 19:28)",
+        [
+            "Palace Verona Cinema",
+            700003751
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:27, 23:59)",
+        [
+            "",
+            700028895
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:21, 23:59)",
+        [
+            "",
+            700031189
+        ]
+    ]
+]

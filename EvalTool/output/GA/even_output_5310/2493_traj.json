@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020593
+        ]
+    ],
+    [
+        "Next activity in the daily plan",
+        "(10:00, 12:09)",
+        [
+            "Sushi Gama Restaurant & Lounge",
+            700021719
+        ]
+    ],
+    [
+        "Go for a relaxing walk or hike in a nearby park or nature reserve.",
+        "(12:02, 14:12)",
+        [
+            "",
+            700007599
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:00, 16:37)",
+        [
+            "Mission Ceviche",
+            700006556
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 21:27)",
+        [
+            "The UPS Store",
+            700017386
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:08, 23:59)",
+        [
+            "Mission Ceviche",
+            700006556
+        ]
+    ]
+]

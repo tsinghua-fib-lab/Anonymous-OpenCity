@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Black Tap",
+            700012922
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:00)",
+        [
+            "Una Pizza Napoletana",
+            700017560
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:14, 12:32)",
+        [
+            "Sami & Susu",
+            700029766
+        ]
+    ],
+    [
+        "Afternoon Activity",
+        "(15:46, 17:08)",
+        [
+            "Sami & Susu",
+            700029766
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(17:58, 19:10)",
+        [
+            "Sami & Susu",
+            700029766
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(19:20, 20:23)",
+        [
+            "Sami & Susu",
+            700029766
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(20:33, 22:03)",
+        [
+            "Bareburger LES",
+            700016232
+        ]
+    ],
+    [
+        "Next relaxation or leisure time.",
+        "(22:12, 23:27)",
+        [
+            "",
+            700002312
+        ]
+    ],
+    [
+        "Next relaxation or leisure time.",
+        "(23:58, 23:59)",
+        [
+            "",
+            700000880
+        ]
+    ]
+]

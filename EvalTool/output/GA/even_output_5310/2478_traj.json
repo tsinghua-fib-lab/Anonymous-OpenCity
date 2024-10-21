@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700004356
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:19)",
+        [
+            "Odd Fellows Ice Cream",
+            700040367
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:13, 19:40)",
+        [
+            "Chipotle",
+            700004326
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 23:16)",
+        [
+            "Tend",
+            700040368
+        ]
+    ],
+    [
+        "Next activity",
+        "(23:20, 23:59)",
+        [
+            "Odd Fellows Ice Cream",
+            700040367
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Burger Joint",
+            700006305
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:51)",
+        [
+            "Burger Joint",
+            700014365
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:35, 14:01)",
+        [
+            "Burger Joint",
+            700006305
+        ]
+    ],
+    [
+        "Personal Hobbies or DIY Projects",
+        "(14:57, 16:03)",
+        [
+            "Burger Joint",
+            700006305
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:15, 18:01)",
+        [
+            "Burger Joint",
+            700006305
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 21:19)",
+        [
+            "Bike Rental Central Park",
+            700006307
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "",
+            700019916
+        ]
+    ]
+]

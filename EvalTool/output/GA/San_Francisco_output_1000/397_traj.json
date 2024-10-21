@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hillwood Academic Day Schol",
+            700005469
+        ]
+    ],
+    [
+        "Morning Routine",
+        "(10:00, 11:31)",
+        [
+            "Sterne School",
+            700000272
+        ]
+    ],
+    [
+        "Next activity after morning routine",
+        "(12:18, 13:54)",
+        [
+            "Sterne School",
+            700000272
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:07, 18:59)",
+        [
+            "",
+            700009971
+        ]
+    ],
+    [
+        "Shopping",
+        "(18:06, 19:59)",
+        [
+            "",
+            700001518
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:03, 22:45)",
+        [
+            "",
+            700001507
+        ]
+    ]
+]

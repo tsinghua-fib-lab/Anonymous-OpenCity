@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700007657
+        ]
+    ],
+    [
+        "Next activity",
+        "(10:00, 10:51)",
+        [
+            "",
+            700007657
+        ]
+    ],
+    [
+        "Next activity after hobby time",
+        "(11:50, 13:59)",
+        [
+            "Dianne & Elisabeth",
+            700009463
+        ]
+    ],
+    [
+        "Visiting Dianne & Elisabeth for a drink",
+        "(12:59, 15:04)",
+        [
+            "Dianne & Elisabeth",
+            700009463
+        ]
+    ],
+    [
+        "Visiting Dianne & Elisabeth for a drink.",
+        "(14:58, 16:51)",
+        [
+            "Dianne & Elisabeth",
+            700009463
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:23, 19:35)",
+        [
+            "Pio Pio",
+            700008433
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:47, 23:59)",
+        [
+            "Seventh Associate Presbyterian Church",
+            700000096
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:59)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:17, 16:14)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:00, 20:53)",
+        [
+            "",
+            700022505
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:45, 23:59)",
+        [
+            "Kenneth A. Mercer, MD",
+            700023846
+        ]
+    ]
+]

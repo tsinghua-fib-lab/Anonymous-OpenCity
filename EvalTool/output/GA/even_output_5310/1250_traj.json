@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank United",
+            700016442
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:04)",
+        [
+            "Subway",
+            700020299
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:28, 14:09)",
+        [
+            "Juan Valdez Café",
+            700007333
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 15:56)",
+        [
+            "Taco Bell",
+            700034230
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:02, 21:50)",
+        [
+            "Dig",
+            700022398
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:58, 22:51)",
+        [
+            "Bank United",
+            700016442
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:34, 23:59)",
+        [
+            "Bank United",
+            700016442
+        ]
+    ]
+]

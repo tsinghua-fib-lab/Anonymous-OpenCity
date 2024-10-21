@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "724 Hookah Lounge",
+            700009493
+        ]
+    ],
+    [
+        "go for a relaxing walk in the park",
+        "(10:00, 10:50)",
+        [
+            "Rye",
+            700001021
+        ]
+    ],
+    [
+        "You are currently at 724 Hookah Lounge.",
+        "(11:12, 12:40)",
+        [
+            "Resolute",
+            700009496
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:53, 14:28)",
+        [
+            "Angel Cafe & Deli",
+            700000147
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 18:35)",
+        [
+            "",
+            700009495
+        ]
+    ],
+    [
+        "You are currently at 724 Hookah Lounge.",
+        "(21:27, 23:11)",
+        [
+            "Angel Cafe & Deli",
+            700000147
+        ]
+    ],
+    [
+        "Stay at 724 Hookah Lounge",
+        "(23:57, 23:59)",
+        [
+            "Angel Cafe & Deli",
+            700000147
+        ]
+    ]
+]

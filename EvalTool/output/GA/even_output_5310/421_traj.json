@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Her Boba",
+            700039029
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:51)",
+        [
+            "1 2 3 Burger Shot Beer",
+            700008325
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:52, 13:56)",
+        [
+            "1 2 3 Burger Shot Beer",
+            700008325
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 19:29)",
+        [
+            "Skyline Deli",
+            700027346
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:45, 23:59)",
+        [
+            "Fusion",
+            700027344
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:36, 23:59)",
+        [
+            "On The Rocks",
+            700020223
+        ]
+    ]
+]

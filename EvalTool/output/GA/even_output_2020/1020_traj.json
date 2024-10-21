@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014115
+        ]
+    ],
+    [
+        "Go for a workout or a jog",
+        "(10:00, 11:04)",
+        [
+            "Müesi Cafe",
+            700005580
+        ]
+    ],
+    [
+        "Go for a workout or a jog",
+        "(11:03, 12:05)",
+        [
+            "Müesi Cafe",
+            700005580
+        ]
+    ],
+    [
+        "Go for a workout or a jog",
+        "(12:46, 13:45)",
+        [
+            "Müesi Cafe",
+            700005580
+        ]
+    ],
+    [
+        "Visit a local farmers' market or boutique shops",
+        "(14:04, 14:56)",
+        [
+            "Contrada",
+            700004833
+        ]
+    ],
+    [
+        "Prepare and have dinner, possibly hosting friends over",
+        "(15:23, 17:22)",
+        [
+            "California Institute of Fashion",
+            700000280
+        ]
+    ],
+    [
+        "Stay at Müesi Cafe",
+        "(17:05, 17:59)",
+        [
+            "Müesi Cafe",
+            700005580
+        ]
+    ],
+    [
+        "Stay at Müesi Cafe",
+        "(18:48, 20:09)",
+        [
+            "California Institute of Fashion",
+            700000280
+        ]
+    ],
+    [
+        "Stay at Müesi Cafe",
+        "(21:06, 22:32)",
+        [
+            "California Institute of Fashion",
+            700000280
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:03, 23:59)",
+        [
+            "",
+            700002642
+        ]
+    ]
+]

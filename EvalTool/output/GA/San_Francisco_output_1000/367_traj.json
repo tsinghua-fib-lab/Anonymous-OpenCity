@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Peasant Pies",
+            700001762
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:37)",
+        [
+            "Noe Valley Station",
+            700000393
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:20, 18:32)",
+        [
+            "Walgreens",
+            700001759
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:00, 21:24)",
+        [
+            "The Little Chihuahua",
+            700003676
+        ]
+    ],
+    [
+        "Movie Night",
+        "(23:40, 23:59)",
+        [
+            "Lupa Trattoria",
+            700001750
+        ]
+    ]
+]

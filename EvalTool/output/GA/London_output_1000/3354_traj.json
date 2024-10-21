@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:24)",
+        [
+            "Fitness First",
+            700019570
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 16:40)",
+        [
+            "New Street Grill",
+            700020189
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:03, 18:09)",
+        [
+            "Cinnamon Kitchen",
+            700019971
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:04, 22:35)",
+        [
+            "",
+            700020450
+        ]
+    ]
+]

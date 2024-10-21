@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002889
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:32)",
+        [
+            "Gambit Lounge",
+            700003093
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:49, 15:27)",
+        [
+            "Salt & Straw",
+            700008621
+        ]
+    ],
+    [
+        "Continue Brunch",
+        "(13:08, 15:00)",
+        [
+            "Urban Ritual",
+            700011000
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:24, 16:26)",
+        [
+            "Urban Ritual",
+            700011000
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:55, 17:56)",
+        [
+            "Linden & Laguna",
+            700009521
+        ]
+    ],
+    [
+        "Coffee Break",
+        "(18:20, 19:43)",
+        [
+            "Gambit Lounge",
+            700003093
+        ]
+    ],
+    [
+        "Watch a TV show or play board games with family/friends.",
+        "(20:49, 22:15)",
+        [
+            "Gambit Lounge",
+            700003093
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:59)",
+        [
+            "",
+            700002893
+        ]
+    ]
+]

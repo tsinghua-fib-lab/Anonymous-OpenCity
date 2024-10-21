@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009526
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:14)",
+        [
+            "",
+            700005600
+        ]
+    ],
+    [
+        "Engage in a hobby or read a book",
+        "(12:46, 13:59)",
+        [
+            "",
+            700005601
+        ]
+    ],
+    [
+        "Connect with friends or family (phone call/video chat)",
+        "(14:16, 15:07)",
+        [
+            "",
+            700011003
+        ]
+    ],
+    [
+        "Prepare and have dinner, followed by winding down",
+        "(18:06, 20:10)",
+        [
+            "",
+            700009526
+        ]
+    ],
+    [
+        "Prepare and have dinner, followed by winding down.",
+        "(20:02, 21:28)",
+        [
+            "Hamilton Pool",
+            700005592
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:56, 23:59)",
+        [
+            "Sweet Maple",
+            700004490
+        ]
+    ]
+]

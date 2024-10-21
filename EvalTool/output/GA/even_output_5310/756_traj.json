@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "10th Avenue Pizza & Cafe",
+            700014558
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(10:00, 11:09)",
+        [
+            "10th Avenue Pizza & Cafe",
+            700014558
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:27, 16:33)",
+        [
+            "",
+            700001322
+        ]
+    ],
+    [
+        "Visit Friends/Family",
+        "(16:45, 18:03)",
+        [
+            "10th Avenue Pizza & Cafe",
+            700014558
+        ]
+    ],
+    [
+        "Visit Friends/Family",
+        "(18:48, 19:53)",
+        [
+            "10th Avenue Pizza & Cafe",
+            700014558
+        ]
+    ],
+    [
+        "Stay at home",
+        "(20:06, 22:04)",
+        [
+            "10th Avenue Pizza & Cafe",
+            700014558
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:46, 23:59)",
+        [
+            "",
+            700003765
+        ]
+    ]
+]

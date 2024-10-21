@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Constance Baker Motley Recreation Center 54",
+            700009820
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:54)",
+        [
+            "Constance Baker Motley Recreation Center 54",
+            700009820
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:14, 14:39)",
+        [
+            "Constance Baker Motley Recreation Center 54",
+            700009820
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:33, 17:19)",
+        [
+            "Madison Restaurant",
+            700011537
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:14, 19:29)",
+        [
+            "Constance Baker Motley Recreation Center 54",
+            700009820
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(21:15, 22:48)",
+        [
+            "Constance Baker Motley Recreation Center 54",
+            700009820
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "",
+            700038170
+        ]
+    ]
+]

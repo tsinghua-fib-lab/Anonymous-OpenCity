@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "bOb Bar",
+            700004118
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:45)",
+        [
+            "Spaghetti Incident",
+            700010013
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:36, 14:43)",
+        [
+            "",
+            700013284
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(19:31, 21:59)",
+        [
+            "",
+            700024976
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(22:49, 23:59)",
+        [
+            "Citi Bike - Stanton Street & Chrystie Street",
+            700008186
+        ]
+    ]
+]

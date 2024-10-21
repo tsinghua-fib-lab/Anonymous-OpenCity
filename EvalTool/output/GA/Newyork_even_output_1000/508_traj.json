@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "ABA Turkish Restaurant",
+            700008791
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:16)",
+        [
+            "24 Hour Parking",
+            700008320
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(13:36, 15:04)",
+        [
+            "",
+            700040474
+        ]
+    ],
+    [
+        "Relaxation/TV/Reading",
+        "(15:44, 17:17)",
+        [
+            "ABA Turkish Restaurant",
+            700008791
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:31, 19:11)",
+        [
+            "ABA Turkish Restaurant",
+            700008791
+        ]
+    ],
+    [
+        "Evening Wind-down",
+        "(19:40, 20:54)",
+        [
+            "ABA Turkish Restaurant",
+            700008791
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:30, 23:59)",
+        [
+            "Subway",
+            700008316
+        ]
+    ]
+]

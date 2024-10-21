@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Relais de l'Entrecôte",
+            700003369
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:23)",
+        [
+            "La Fermette Marbeuf",
+            700006833
+        ]
+    ],
+    [
+        "Watch a Movie",
+        "(14:32, 16:08)",
+        [
+            "La Fermette Marbeuf",
+            700006833
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:03, 17:26)",
+        [
+            "",
+            700051632
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(20:43, 22:12)",
+        [
+            "Diwan",
+            700008465
+        ]
+    ],
+    [
+        "Situation 5",
+        "(22:24, 23:54)",
+        [
+            "Diwan",
+            700008465
+        ]
+    ],
+    [
+        "Go to Diwan for a relaxing evening",
+        "(23:56, 23:59)",
+        [
+            "Diwan",
+            700008465
+        ]
+    ]
+]

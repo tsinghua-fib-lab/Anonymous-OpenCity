@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:54)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:38, 17:47)",
+        [
+            "",
+            700022520
+        ]
+    ],
+    [
+        "Stay at your current place and wind down with some light reading or meditation.",
+        "(20:47, 21:00)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 22:25)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ]
+]

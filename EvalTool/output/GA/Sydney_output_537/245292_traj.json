@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "atmx ATM",
+            700030264
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:52)",
+        [
+            "Enterprise",
+            700007905
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(15:34, 17:03)",
+        [
+            "only outside",
+            700030824
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:07, 19:22)",
+        [
+            "Avis",
+            700007898
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 23:59)",
+        [
+            "Casa by Schibello",
+            700008115
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:05, 23:59)",
+        [
+            "Anz",
+            700007906
+        ]
+    ]
+]

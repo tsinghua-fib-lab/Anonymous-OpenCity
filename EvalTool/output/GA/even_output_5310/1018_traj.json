@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 59th Street & Sutton Place",
+            700006019
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 13:00)",
+        [
+            "",
+            700022272
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(11:25, 12:55)",
+        [
+            "Citi Bike - East 59th Street & Sutton Place",
+            700006019
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(13:23, 15:09)",
+        [
+            "Citi Bike - East 59th Street & Sutton Place",
+            700006019
+        ]
+    ],
+    [
+        "Light Exercise",
+        "(15:14, 16:16)",
+        [
+            "Citi Bike - East 59th Street & Sutton Place",
+            700006019
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:44, 22:24)",
+        [
+            "",
+            700003578
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(20:03, 21:33)",
+        [
+            "Citi Bike - East 59th Street & Sutton Place",
+            700006019
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(21:48, 23:02)",
+        [
+            "Citi Bike - East 59th Street & Sutton Place",
+            700006019
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(23:35, 23:59)",
+        [
+            "Citi Bike - East 59th Street & Sutton Place",
+            700006019
+        ]
+    ]
+]

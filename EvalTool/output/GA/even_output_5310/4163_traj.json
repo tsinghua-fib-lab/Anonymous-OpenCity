@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020037
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:02)",
+        [
+            "",
+            700020030
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 16:42)",
+        [
+            "Modern Bread and Bagel",
+            700028607
+        ]
+    ],
+    [
+        "Relax with personal hobbies",
+        "(17:08, 19:03)",
+        [
+            "",
+            700020037
+        ]
+    ],
+    [
+        "Relax with personal hobbies",
+        "(19:11, 21:18)",
+        [
+            "Modern Bread and Bagel",
+            700028607
+        ]
+    ],
+    [
+        "Stay at Duane Park.",
+        "(21:33, 22:59)",
+        [
+            "",
+            700020036
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "",
+            700020038
+        ]
+    ]
+]

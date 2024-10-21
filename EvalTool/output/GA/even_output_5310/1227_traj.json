@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chopt",
+            700017446
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:36)",
+        [
+            "Chopt",
+            700017446
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 16:48)",
+        [
+            "",
+            700002792
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(13:00, 14:25)",
+        [
+            "Harbs",
+            700006568
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:29, 20:03)",
+        [
+            "Eli's Night Shift",
+            700019740
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(17:15, 18:45)",
+        [
+            "Chopt",
+            700017446
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(19:04, 20:44)",
+        [
+            "Chase",
+            700005975
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:40, 22:19)",
+        [
+            "Eli's Night Shift",
+            700019740
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(23:03, 23:59)",
+        [
+            "Chase",
+            700005975
+        ]
+    ]
+]

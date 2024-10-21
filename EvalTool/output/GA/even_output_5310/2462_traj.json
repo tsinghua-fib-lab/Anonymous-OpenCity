@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tutors Sky",
+            700019908
+        ]
+    ],
+    [
+        "Next activity in the daily plan",
+        "(10:00, 12:01)",
+        [
+            "Citibank",
+            700003264
+        ]
+    ],
+    [
+        "Go for a relaxing walk or hike in a nearby park or nature reserve.",
+        "(12:02, 13:52)",
+        [
+            "",
+            700000924
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:00, 17:53)",
+        [
+            "Slatterlys Midtown Pub",
+            700030615
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 20:24)",
+        [
+            "Citibank",
+            700003264
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:08, 23:59)",
+        [
+            "Toledo",
+            700030614
+        ]
+    ]
+]

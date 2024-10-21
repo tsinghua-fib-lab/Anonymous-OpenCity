@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Public School M188 The Island School",
+            700000020
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:43)",
+        [
+            "Dental Place",
+            700019569
+        ]
+    ],
+    [
+        "Social Time",
+        "(14:30, 16:56)",
+        [
+            "Avenue D Pizza",
+            700019570
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:26, 18:53)",
+        [
+            "Erin's Pharmacy",
+            700005416
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:28, 23:46)",
+        [
+            "",
+            700001885
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:46, 23:59)",
+        [
+            "",
+            700000968
+        ]
+    ]
+]

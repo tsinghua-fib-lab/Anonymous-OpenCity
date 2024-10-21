@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Pain Quotidien",
+            700007820
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(10:00, 11:04)",
+        [
+            "Winter Village",
+            700008515
+        ]
+    ],
+    [
+        "Quality Time with Family/Friends",
+        "(12:01, 13:24)",
+        [
+            "Winter Village",
+            700008515
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(14:19, 15:50)",
+        [
+            "Southwest Porch",
+            700008399
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(16:21, 17:56)",
+        [
+            "Winter Village",
+            700008515
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:42, 20:04)",
+        [
+            "Sweetgreen",
+            700040271
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:36, 23:59)",
+        [
+            "",
+            700016450
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Crab Du Jour Xpress Cajun",
+            700012368
+        ]
+    ],
+    [
+        "10:00 AM - Exercise",
+        "(09:00, 11:29)",
+        [
+            "CVS Pharmacy",
+            700018263
+        ]
+    ],
+    [
+        "10:00 AM - Exercise",
+        "(10:28, 11:59)",
+        [
+            "Citi Bike",
+            700008002
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:34, 15:14)",
+        [
+            "",
+            700033382
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:54, 14:50)",
+        [
+            "CVS Pharmacy",
+            700018263
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(15:17, 17:20)",
+        [
+            "CVS Pharmacy",
+            700018263
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:48, 20:34)",
+        [
+            "",
+            700033379
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(20:20, 21:49)",
+        [
+            "Manousheh",
+            700006692
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:22, 23:59)",
+        [
+            "Citibank",
+            700018485
+        ]
+    ]
+]

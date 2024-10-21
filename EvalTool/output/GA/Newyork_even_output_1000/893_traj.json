@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700019524
+        ]
+    ],
+    [
+        "Light workout",
+        "(09:00, 10:38)",
+        [
+            "Chase",
+            700007539
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:53, 15:36)",
+        [
+            "MPHC",
+            700008577
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:23, 15:27)",
+        [
+            "Walter's Cottage",
+            700029119
+        ]
+    ],
+    [
+        "Relax with a book or meditate.",
+        "(15:14, 17:25)",
+        [
+            "Signature Theatre",
+            700040101
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:39, 22:05)",
+        [
+            "",
+            700019860
+        ]
+    ],
+    [
+        "Spending time at Signature Theatre.",
+        "(19:36, 21:01)",
+        [
+            "Signature Theatre",
+            700040101
+        ]
+    ],
+    [
+        "Spending time at Signature Theatre.",
+        "(21:48, 23:16)",
+        [
+            "Signature Theatre",
+            700040101
+        ]
+    ],
+    [
+        "Spend time at Signature Theatre.",
+        "(23:50, 23:59)",
+        [
+            "Signature Theatre",
+            700040101
+        ]
+    ]
+]

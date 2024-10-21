@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:27)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(14:54, 15:51)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:30, 17:51)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:08, 23:21)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:15, 23:59)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Chill for a while and maybe catch up",
+        "(23:29, 23:59)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ]
+]

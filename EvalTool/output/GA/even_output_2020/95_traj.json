@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Budget",
+            700010452
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:48)",
+        [
+            "Taxi Stand at Hotel Nikko",
+            700009883
+        ]
+    ],
+    [
+        "Errands or Grocery Shopping",
+        "(13:47, 15:05)",
+        [
+            "Budget",
+            700010452
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(16:07, 18:01)",
+        [
+            "Budget",
+            700010452
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(18:21, 20:09)",
+        [
+            "Budget",
+            700010452
+        ]
+    ],
+    [
+        "Stay at Budget",
+        "(20:55, 21:52)",
+        [
+            "Budget",
+            700010452
+        ]
+    ],
+    [
+        "Stay",
+        "(22:13, 23:59)",
+        [
+            "Budget",
+            700010452
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "",
+            700008951
+        ]
+    ]
+]

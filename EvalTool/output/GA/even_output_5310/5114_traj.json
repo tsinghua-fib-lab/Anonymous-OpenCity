@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Garret",
+            700012154
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:32)",
+        [
+            "Smør",
+            700017523
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(11:47, 12:52)",
+        [
+            "Smør",
+            700017523
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 19:17)",
+        [
+            "Drop-Off Service",
+            700004507
+        ]
+    ],
+    [
+        "Grocery Shopping/Errands",
+        "(15:30, 17:02)",
+        [
+            "Drop-Off Service",
+            700004507
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:47, 22:00)",
+        [
+            "Burrata Basil Pizza",
+            700033757
+        ]
+    ],
+    [
+        "Stay at The Green Room 42.",
+        "(23:17, 23:59)",
+        [
+            "El Camion Cantina",
+            700011089
+        ]
+    ]
+]

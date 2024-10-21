@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sonnyboy",
+            700005132
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:48)",
+        [
+            "Marshall Stack",
+            700007309
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:00, 14:59)",
+        [
+            "Marshall Stack",
+            700007309
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:10, 20:58)",
+        [
+            "Little Free Library",
+            700024710
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:12, 20:54)",
+        [
+            "The Hideout Chai Bar",
+            700023588
+        ]
+    ],
+    [
+        "Stay at Sonnyboy",
+        "(23:17, 23:59)",
+        [
+            "Sonnyboy",
+            700005132
+        ]
+    ]
+]

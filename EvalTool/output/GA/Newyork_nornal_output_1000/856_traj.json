@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002733
+        ]
+    ],
+    [
+        "Next in the plan.",
+        "(09:00, 09:52)",
+        [
+            "",
+            700038039
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:46, 13:20)",
+        [
+            "",
+            700038045
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 16:06)",
+        [
+            "",
+            700038053
+        ]
+    ],
+    [
+        "Attend cooking session for dinner preparation.",
+        "(18:09, 19:31)",
+        [
+            "Fiat Café",
+            700009358
+        ]
+    ],
+    [
+        "Stay at Fiat Café",
+        "(20:22, 22:35)",
+        [
+            "Fiat Café",
+            700009358
+        ]
+    ],
+    [
+        "Stay at La Vera Pizza",
+        "(22:12, 23:59)",
+        [
+            "Old Saint Patrick's Convent and Girls School",
+            700000092
+        ]
+    ]
+]

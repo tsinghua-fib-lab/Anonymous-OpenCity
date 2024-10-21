@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008726
+        ]
+    ],
+    [
+        "Morning Exercise or Outdoor Activity",
+        "(10:00, 11:22)",
+        [
+            "Golden Horse Restaurant",
+            700008867
+        ]
+    ],
+    [
+        "Relax and Unwind with a Book or Movie",
+        "(12:17, 13:44)",
+        [
+            "Golden Horse Restaurant",
+            700008867
+        ]
+    ],
+    [
+        "Relax and Unwind with a Book or Movie",
+        "(14:30, 15:54)",
+        [
+            "Golden Horse Restaurant",
+            700008867
+        ]
+    ],
+    [
+        "Late Afternoon Hobby or Sport",
+        "(16:26, 18:01)",
+        [
+            "Golden Horse Restaurant",
+            700008867
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 21:48)",
+        [
+            "",
+            700008725
+        ]
+    ]
+]

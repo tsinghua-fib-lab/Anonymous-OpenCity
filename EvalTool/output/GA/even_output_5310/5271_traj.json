@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rubby Pizzeria Restaurant",
+            700006397
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:21)",
+        [
+            "Rex",
+            700006398
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:41, 20:00)",
+        [
+            "Justino's Pizza",
+            700008318
+        ]
+    ],
+    [
+        "You are currently at Justino's Pizza enjoying a meal.",
+        "(20:11, 22:43)",
+        [
+            "Rex",
+            700006398
+        ]
+    ],
+    [
+        "Wind down for the evening by watching a movie or catching up on a series.",
+        "(22:59, 23:59)",
+        [
+            "Rubby Pizzeria Restaurant",
+            700006397
+        ]
+    ]
+]

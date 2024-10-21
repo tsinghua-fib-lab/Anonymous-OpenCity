@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Harrison Restaurant & Bar",
+            700022432
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:51)",
+        [
+            "The Playwright",
+            700003784
+        ]
+    ],
+    [
+        "Leisure Activities (TV/Movies)",
+        "(13:04, 14:34)",
+        [
+            "Famous Original Ray's Pizza",
+            700024713
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 19:46)",
+        [
+            "The Playwright",
+            700003784
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 21:48)",
+        [
+            "The Playwright",
+            700003784
+        ]
+    ],
+    [
+        "Next activity based on previous plan",
+        "(20:13, 21:43)",
+        [
+            "The Playwright",
+            700003784
+        ]
+    ],
+    [
+        "Go to Starbucks for a late-night coffee.",
+        "(21:58, 23:24)",
+        [
+            "Starbucks",
+            700005909
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:50, 23:59)",
+        [
+            "CVS Pharmacy",
+            700022431
+        ]
+    ]
+]

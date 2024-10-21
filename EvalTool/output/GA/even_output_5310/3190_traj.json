@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Book Club",
+            700018059
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:39)",
+        [
+            "Book Club",
+            700018059
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 17:29)",
+        [
+            "Eastpoint",
+            700019572
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 16:05)",
+        [
+            "Wild Project",
+            700014724
+        ]
+    ],
+    [
+        "Stay at a place with amenities.",
+        "(16:53, 18:30)",
+        [
+            "",
+            700001446
+        ]
+    ],
+    [
+        "Stay at a place with amenities.",
+        "(19:20, 20:46)",
+        [
+            "Wild Project",
+            700014724
+        ]
+    ],
+    [
+        "Stay at a place with amenities",
+        "(21:50, 22:54)",
+        [
+            "Book Club",
+            700018059
+        ]
+    ],
+    [
+        "Stay at Book Club.",
+        "(23:09, 23:59)",
+        [
+            "Book Club",
+            700018059
+        ]
+    ]
+]

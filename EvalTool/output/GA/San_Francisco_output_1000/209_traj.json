@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Nob Hill Cafe",
+            700004947
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:57)",
+        [
+            "",
+            700008907
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(16:54, 18:04)",
+        [
+            "Nob Hill Cafe",
+            700004947
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 21:30)",
+        [
+            "Nob Hill Cafe",
+            700004947
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(22:20, 23:56)",
+        [
+            "Nob Hill Cafe",
+            700004947
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700008913
+        ]
+    ]
+]

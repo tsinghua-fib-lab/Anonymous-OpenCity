@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700018897
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:07)",
+        [
+            "New York Empire Baseball",
+            700018334
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(12:39, 14:16)",
+        [
+            "New York Empire Baseball",
+            700018334
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:59, 16:03)",
+        [
+            "New York Empire Baseball",
+            700018334
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(16:46, 18:25)",
+        [
+            "New York Empire Baseball",
+            700018334
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:29, 22:32)",
+        [
+            "Tooth Works",
+            700036392
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "The Gateway School",
+            700018477
+        ]
+    ]
+]

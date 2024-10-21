@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008290
+        ]
+    ],
+    [
+        "Morning workout",
+        "(09:00, 10:09)",
+        [
+            "Alegrias Food from Spain",
+            700009483
+        ]
+    ],
+    [
+        "Lunch with friends or family",
+        "(10:36, 11:59)",
+        [
+            "Zushi Puzzle",
+            700010111
+        ]
+    ],
+    [
+        "Afternoon leisure activity",
+        "(13:11, 15:48)",
+        [
+            "",
+            700008290
+        ]
+    ],
+    [
+        "Afternoon leisure activity",
+        "(15:33, 17:36)",
+        [
+            "",
+            700008743
+        ]
+    ],
+    [
+        "Dinner and evening catch-up",
+        "(18:41, 20:49)",
+        [
+            "",
+            700014079
+        ]
+    ],
+    [
+        "Dinner and evening catch-up",
+        "(20:10, 21:36)",
+        [
+            "",
+            700014076
+        ]
+    ],
+    [
+        "Relax at home",
+        "(21:56, 23:59)",
+        [
+            "Heritage On The Marina",
+            700007212
+        ]
+    ],
+    [
+        "Relax at home",
+        "(23:35, 23:59)",
+        [
+            "",
+            700008095
+        ]
+    ]
+]

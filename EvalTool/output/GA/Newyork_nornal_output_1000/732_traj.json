@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Link NYC",
+            700017691
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:49)",
+        [
+            "",
+            700000957
+        ]
+    ],
+    [
+        "Creative Work",
+        "(13:56, 15:56)",
+        [
+            "Poppi",
+            700006565
+        ]
+    ],
+    [
+        "Continue your creative work at Poppi.",
+        "(17:00, 18:25)",
+        [
+            "Poppi",
+            700006565
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:13, 20:12)",
+        [
+            "Link NYC",
+            700017691
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:35, 22:16)",
+        [
+            "Citi Bike - East 68th Street & Madison Avenue",
+            700021682
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "Peter G Peterson Center for International Studies",
+            700000293
+        ]
+    ]
+]

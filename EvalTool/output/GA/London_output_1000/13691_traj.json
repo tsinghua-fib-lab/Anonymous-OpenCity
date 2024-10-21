@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Servite Houses",
+            700012512
+        ]
+    ],
+    [
+        "Next activity after breakfast",
+        "(09:00, 09:54)",
+        [
+            "",
+            700049148
+        ]
+    ],
+    [
+        "Next activity after breakfast",
+        "(10:38, 12:44)",
+        [
+            "Moca",
+            700062758
+        ]
+    ],
+    [
+        "Next activity in a cafe.",
+        "(12:44, 13:56)",
+        [
+            "",
+            700083797
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 19:34)",
+        [
+            "Turkish Doner Kebab",
+            700062761
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:49, 21:35)",
+        [
+            "",
+            700083797
+        ]
+    ],
+    [
+        "currently staying at home and winding down",
+        "(20:43, 22:06)",
+        [
+            "Servite Houses",
+            700012512
+        ]
+    ],
+    [
+        "Go to Ozone Health and Fitness Club",
+        "(22:41, 23:59)",
+        [
+            "Frantoio",
+            700045967
+        ]
+    ],
+    [
+        "currently staying at home and winding down",
+        "(23:54, 23:59)",
+        [
+            "Servite Houses",
+            700012512
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CVS Pharmacy",
+            700015709
+        ]
+    ],
+    [
+        "Outdoor Activity (11:00 AM - 1:00 PM)",
+        "(10:00, 12:01)",
+        [
+            "Sam Sunny",
+            700000270
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:04, 14:08)",
+        [
+            "Sam Sunny",
+            700000270
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 19:22)",
+        [
+            "",
+            700006229
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 22:36)",
+        [
+            "",
+            700024796
+        ]
+    ],
+    [
+        "After visiting Sam Sunny, consider heading home for reading or relaxation.",
+        "(23:13, 23:59)",
+        [
+            "CVS Pharmacy",
+            700015709
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Plain Jane",
+            700010151
+        ]
+    ],
+    [
+        "Morning Workout or Yoga Session",
+        "(10:00, 11:39)",
+        [
+            "Valencia Cyclery",
+            700003152
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(12:14, 14:09)",
+        [
+            "Mission Picnic",
+            700005604
+        ]
+    ],
+    [
+        "Afternoon Entertainment Activity",
+        "(14:30, 17:06)",
+        [
+            "The Marsh",
+            700003562
+        ]
+    ],
+    [
+        "Relax and Catch Up on a TV Show",
+        "(17:09, 18:53)",
+        [
+            "Bottega",
+            700003560
+        ]
+    ],
+    [
+        "Relax and Catch Up on a TV Show",
+        "(20:06, 22:02)",
+        [
+            "The Marsh",
+            700003562
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:07, 23:59)",
+        [
+            "The Crepe House",
+            700003561
+        ]
+    ]
+]

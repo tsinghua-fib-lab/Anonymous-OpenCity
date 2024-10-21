@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Go for a walk or engage in a sports activity",
+        "(09:00, 10:32)",
+        [
+            "",
+            700014756
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:57, 15:07)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 21:28)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Relax with leisure activities",
+        "(19:54, 21:56)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "",
+            700014756
+        ]
+    ],
+    [
+        "Go to Dragon Court",
+        "(23:58, 23:59)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ]
+]

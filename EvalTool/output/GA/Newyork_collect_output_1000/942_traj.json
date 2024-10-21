@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "You will stay at Mughlai until 10:00 AM and then go for a walk.",
+        "(09:00, 10:24)",
+        [
+            "",
+            700022517
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(10:26, 11:46)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 15:26)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:42, 23:18)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Move to Dog & Bone",
+        "(21:51, 23:07)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ]
+]

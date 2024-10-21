@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700031312
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:25)",
+        [
+            "Le Pain Quotidien",
+            700024261
+        ]
+    ],
+    [
+        "You stay at Le Pain Quotidien",
+        "(12:10, 13:38)",
+        [
+            "Le Pain Quotidien",
+            700024261
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:27, 18:31)",
+        [
+            "Saint Stephen of Hungary Church",
+            700000277
+        ]
+    ],
+    [
+        "Relaxation and Leisure",
+        "(16:55, 17:53)",
+        [
+            "Le Pain Quotidien",
+            700024261
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:50, 23:59)",
+        [
+            "",
+            700003162
+        ]
+    ],
+    [
+        "Stay at Le Pain Quotidien",
+        "(23:40, 23:59)",
+        [
+            "Le Pain Quotidien",
+            700024261
+        ]
+    ]
+]

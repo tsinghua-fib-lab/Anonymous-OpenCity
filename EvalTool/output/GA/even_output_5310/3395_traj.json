@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700021863
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:59)",
+        [
+            "All My Children Daycare & Nursery",
+            700022425
+        ]
+    ],
+    [
+        "Leisure Activity/Outdoor Time",
+        "(15:08, 16:41)",
+        [
+            "Citi Bike - Rivington Street & Ridge Street",
+            700008171
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:39, 17:57)",
+        [
+            "All My Children Daycare & Nursery",
+            700022425
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(18:29, 19:50)",
+        [
+            "",
+            700021864
+        ]
+    ],
+    [
+        "Cook Dinner",
+        "(20:09, 21:45)",
+        [
+            "Citi Bike - Rivington Street & Ridge Street",
+            700008171
+        ]
+    ],
+    [
+        "Wind Down and Read/Reflection Time",
+        "(21:54, 22:54)",
+        [
+            "Citi Bike - Rivington Street & Ridge Street",
+            700008171
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(23:46, 23:59)",
+        [
+            "",
+            700021863
+        ]
+    ]
+]

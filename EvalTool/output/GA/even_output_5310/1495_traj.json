@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "2nd Ave Deli",
+            700008340
+        ]
+    ],
+    [
+        "Staying at Home",
+        "(09:00, 10:34)",
+        [
+            "2nd Ave Deli",
+            700008340
+        ]
+    ],
+    [
+        "Next activity: Grocery Shopping",
+        "(10:08, 11:32)",
+        [
+            "2nd Ave Deli",
+            700008340
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:33, 13:10)",
+        [
+            "2nd Ave Deli",
+            700008340
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:37, 16:19)",
+        [
+            "Prestige Car Rental",
+            700008333
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:34, 18:15)",
+        [
+            "",
+            700002164
+        ]
+    ],
+    [
+        "Next activity: Social Time",
+        "(17:41, 19:08)",
+        [
+            "Arvaci Ciffee",
+            700031414
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 23:59)",
+        [
+            "Murry Hill Psychic Solutions",
+            700006335
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "",
+            700001704
+        ]
+    ]
+]

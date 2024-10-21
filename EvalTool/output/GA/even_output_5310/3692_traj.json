@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Pain Quotidien",
+            700003329
+        ]
+    ],
+    [
+        "Current Place: Le Pain Quotidien. Stay until 11:45 AM.",
+        "(10:00, 11:06)",
+        [
+            "",
+            700000758
+        ]
+    ],
+    [
+        "Current Place: Le Pain Quotidien. Stay until 11:45 AM.",
+        "(11:09, 12:31)",
+        [
+            "",
+            700036776
+        ]
+    ],
+    [
+        "Current Place: Le Pain Quotidien. Stay until 2:00 PM.",
+        "(13:05, 15:13)",
+        [
+            "",
+            700036775
+        ]
+    ],
+    [
+        "Stay at Le Pain Quotidien",
+        "(15:49, 17:23)",
+        [
+            "ChargePoint",
+            700012442
+        ]
+    ],
+    [
+        "Stay at Le Pain Quotidien.",
+        "(17:28, 18:41)",
+        [
+            "ChargePoint",
+            700012442
+        ]
+    ],
+    [
+        "Stay at Le Pain Quotidien",
+        "(18:54, 20:37)",
+        [
+            "ChargePoint",
+            700012442
+        ]
+    ],
+    [
+        "Stay at Le Pain Quotidien.",
+        "(21:08, 22:12)",
+        [
+            "ChargePoint",
+            700012442
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "",
+            700036772
+        ]
+    ]
+]

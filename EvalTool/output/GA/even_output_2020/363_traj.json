@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001429
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(10:00, 10:56)",
+        [
+            "",
+            700001436
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:51, 13:08)",
+        [
+            "Little Free Library",
+            700010492
+        ]
+    ],
+    [
+        "Outdoor Activities",
+        "(13:50, 15:48)",
+        [
+            "Little Free Library",
+            700010492
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 18:09)",
+        [
+            "",
+            700003719
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:57, 23:59)",
+        [
+            "",
+            700007355
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Limón Rotisserie",
+            700002650
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:23)",
+        [
+            "La Taza Restaurant and Bar",
+            700010799
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:25, 16:30)",
+        [
+            "Balancoire",
+            700004814
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 16:03)",
+        [
+            "",
+            700010127
+        ]
+    ],
+    [
+        "Stay at Limón Rotisserie.",
+        "(17:12, 18:32)",
+        [
+            "",
+            700002020
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 23:10)",
+        [
+            "Limón Rotisserie",
+            700002650
+        ]
+    ]
+]

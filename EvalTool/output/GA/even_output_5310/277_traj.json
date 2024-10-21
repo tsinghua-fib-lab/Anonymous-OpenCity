@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700018004
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 09:56)",
+        [
+            "Poppi",
+            700006565
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:15, 12:09)",
+        [
+            "Poppi",
+            700006565
+        ]
+    ],
+    [
+        "Relaxation and Reading",
+        "(12:05, 13:33)",
+        [
+            "Poppi",
+            700006565
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(13:49, 16:09)",
+        [
+            "Poppi",
+            700006565
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:07, 22:40)",
+        [
+            "Bel Ami Cafe",
+            700017236
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:02, 21:45)",
+        [
+            "",
+            700018007
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "",
+            700018076
+        ]
+    ]
+]

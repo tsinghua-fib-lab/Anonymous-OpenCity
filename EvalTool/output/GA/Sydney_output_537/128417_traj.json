@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005851
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:20)",
+        [
+            "",
+            700025026
+        ]
+    ],
+    [
+        "Stay at Baptist Community Church Burwood",
+        "(11:44, 13:06)",
+        [
+            "Baptist Community Church Burwood",
+            700006083
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:01, 17:16)",
+        [
+            "Baptist Community Church Burwood",
+            700006083
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:32, 21:26)",
+        [
+            "Xi'an Grill",
+            700007840
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 20:26)",
+        [
+            "ANZ",
+            700027414
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(21:38, 23:28)",
+        [
+            "ANZ",
+            700027413
+        ]
+    ],
+    [
+        "Relax and Unwind",
+        "(23:37, 23:59)",
+        [
+            "",
+            700005851
+        ]
+    ]
+]

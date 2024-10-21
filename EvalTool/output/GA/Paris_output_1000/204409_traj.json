@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "After breakfast, enjoy a leisurely walk or personal project.",
+        "(09:00, 10:38)",
+        [
+            "",
+            700004920
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:46, 16:45)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "Stay at home",
+        "(17:11, 19:20)",
+        [
+            "",
+            700004901
+        ]
+    ],
+    [
+        "Stay at Paris Musée du Louvre.",
+        "(19:16, 20:54)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "stay and read",
+        "(21:20, 22:33)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ],
+    [
+        "Stay at Paris Musée du Louvre and enjoy a late-night tour.",
+        "(23:25, 23:59)",
+        [
+            "Paris Musée du Louvre",
+            700004917
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dunkin'",
+            700023233
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:54)",
+        [
+            "Dunkin'",
+            700023233
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(11:27, 12:47)",
+        [
+            "",
+            700008628
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(13:39, 15:14)",
+        [
+            "Pebble Bar",
+            700009647
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(15:53, 17:09)",
+        [
+            "",
+            700008629
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:26, 22:56)",
+        [
+            "",
+            700003415
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(23:00, 23:59)",
+        [
+            "Pebble Bar",
+            700009647
+        ]
+    ]
+]

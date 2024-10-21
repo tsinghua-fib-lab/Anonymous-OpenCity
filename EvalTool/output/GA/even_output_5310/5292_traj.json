@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cold Stone Creamery",
+            700006491
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:53)",
+        [
+            "The Times Eatery",
+            700020692
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:18, 16:39)",
+        [
+            "The Times Eatery",
+            700020692
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:37, 19:04)",
+        [
+            "Haru Sushi",
+            700020689
+        ]
+    ],
+    [
+        "Next activity after 6:30 PM.",
+        "(19:12, 20:43)",
+        [
+            "Haru Sushi",
+            700020689
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:30, 22:50)",
+        [
+            "Haru Sushi",
+            700020689
+        ]
+    ],
+    [
+        "Stay at current place.",
+        "(23:50, 23:59)",
+        [
+            "Cold Stone Creamery",
+            700006491
+        ]
+    ]
+]

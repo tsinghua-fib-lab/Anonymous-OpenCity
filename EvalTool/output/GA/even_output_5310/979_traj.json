@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700018897
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 10:06)",
+        [
+            "New York Empire Baseball",
+            700018334
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:26, 14:15)",
+        [
+            "Central Rock Gym",
+            700020057
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:48, 19:38)",
+        [
+            "Citi Bike - West End Ave / W 60 St",
+            700018679
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby",
+        "(18:44, 20:09)",
+        [
+            "Citi Bike - West End Ave / W 60 St",
+            700018679
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(20:33, 22:39)",
+        [
+            "",
+            700015974
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:36, 23:59)",
+        [
+            "",
+            700019072
+        ]
+    ]
+]

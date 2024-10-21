@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Henry Street Playhouse",
+            700005441
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(09:00, 09:53)",
+        [
+            "Henry Street Playhouse",
+            700005441
+        ]
+    ],
+    [
+        "Attend an online yoga class",
+        "(10:22, 11:14)",
+        [
+            "Henry Street Playhouse",
+            700005441
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:02, 13:35)",
+        [
+            "",
+            700031276
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:54, 20:51)",
+        [
+            "CVS Pharmacy",
+            700003821
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:12, 23:59)",
+        [
+            "Zafis Luncheonette",
+            700003822
+        ]
+    ]
+]

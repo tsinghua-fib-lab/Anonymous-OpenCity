@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011143
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:20)",
+        [
+            "Odd Fellows Ice Cream",
+            700040367
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:06, 14:00)",
+        [
+            "Citi Bike",
+            700008202
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:04, 17:24)",
+        [
+            "Starbucks",
+            700004347
+        ]
+    ],
+    [
+        "Prep Dinner",
+        "(17:41, 19:32)",
+        [
+            "Citi Bike",
+            700008202
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(19:51, 20:53)",
+        [
+            "Electric Burrito",
+            700040366
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:32, 23:59)",
+        [
+            "Bank of America",
+            700004354
+        ]
+    ]
+]

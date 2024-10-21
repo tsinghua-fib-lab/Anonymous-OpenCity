@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Baiano Pizzeria",
+            700009467
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(10:00, 11:25)",
+        [
+            "Kanbar Performing Arts Center",
+            700009487
+        ]
+    ],
+    [
+        "Relax at Kanbar Performing Arts Center",
+        "(12:02, 13:22)",
+        [
+            "Kanbar Performing Arts Center",
+            700009487
+        ]
+    ],
+    [
+        "Relax at Baiano Pizzeria",
+        "(14:25, 15:54)",
+        [
+            "RT Rotisserie",
+            700006137
+        ]
+    ],
+    [
+        "Relax at Kanbar Performing Arts Center",
+        "(16:10, 18:07)",
+        [
+            "",
+            700010848
+        ]
+    ],
+    [
+        "Attend a sports event or match",
+        "(19:01, 21:55)",
+        [
+            "Tucker Theater",
+            700008160
+        ]
+    ],
+    [
+        "Attend a sports event or match",
+        "(21:02, 23:09)",
+        [
+            "Tucker Theater",
+            700008160
+        ]
+    ],
+    [
+        "Relax at Baiano Pizzeria",
+        "(22:34, 23:56)",
+        [
+            "Baiano Pizzeria",
+            700009467
+        ]
+    ]
+]

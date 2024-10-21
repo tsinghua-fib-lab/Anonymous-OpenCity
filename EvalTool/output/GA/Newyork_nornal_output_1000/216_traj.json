@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001832
+        ]
+    ],
+    [
+        "Engage in some physical activity, such as going for a walk, jog, or participating in a workout class.",
+        "(10:00, 11:52)",
+        [
+            "",
+            700001832
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 15:57)",
+        [
+            "Marlton Esprsso Bar",
+            700028888
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:10, 15:35)",
+        [
+            "",
+            700002462
+        ]
+    ],
+    [
+        "Continue to spend time on a personal project or hobby.",
+        "(15:26, 17:03)",
+        [
+            "Marlton Esprsso Bar",
+            700028888
+        ]
+    ],
+    [
+        "Continue to spend time on a personal project or hobby.",
+        "(17:42, 19:18)",
+        [
+            "",
+            700001832
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:47, 22:41)",
+        [
+            "Claudette",
+            700020938
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ralph's Famous",
+            700004864
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:28)",
+        [
+            "Augers Well",
+            700022412
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:55, 17:02)",
+        [
+            "",
+            700002715
+        ]
+    ],
+    [
+        "Outdoor Time",
+        "(17:12, 18:58)",
+        [
+            "Augers Well",
+            700022412
+        ]
+    ],
+    [
+        "Dinner and Prepare for the Week",
+        "(19:35, 21:10)",
+        [
+            "Augers Well",
+            700022412
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(22:03, 23:54)",
+        [
+            "Lucy's Bar",
+            700033747
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(23:54, 23:59)",
+        [
+            "Please Don't Tell",
+            700008783
+        ]
+    ]
+]

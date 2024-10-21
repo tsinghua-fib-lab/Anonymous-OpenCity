@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Una Pizza Napoletana",
+            700017560
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:50)",
+        [
+            "Bareburger LES",
+            700016232
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(12:49, 14:10)",
+        [
+            "Bareburger LES",
+            700016232
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 17:00)",
+        [
+            "Stanton Social",
+            700009606
+        ]
+    ],
+    [
+        "Dinner and TV Time",
+        "(19:27, 20:59)",
+        [
+            "Zazzy's Pizza",
+            700015899
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 22:30)",
+        [
+            "Bareburger LES",
+            700016232
+        ]
+    ],
+    [
+        "Stay at Una Pizza Napoletana",
+        "(22:14, 23:59)",
+        [
+            "Una Pizza Napoletana",
+            700017560
+        ]
+    ]
+]

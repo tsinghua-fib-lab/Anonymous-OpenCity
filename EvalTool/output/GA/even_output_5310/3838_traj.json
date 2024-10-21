@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bombay Grill House",
+            700014247
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(09:00, 10:50)",
+        [
+            "Bombay Grill House",
+            700014247
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(10:16, 11:30)",
+        [
+            "Posh",
+            700011607
+        ]
+    ],
+    [
+        "Continue current plan.",
+        "(12:25, 14:01)",
+        [
+            "Bombay Grill House",
+            700014247
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(14:18, 16:04)",
+        [
+            "Bombay Grill House",
+            700014247
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:31, 22:04)",
+        [
+            "Island Burger and Shakes",
+            700009072
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 23:51)",
+        [
+            "Empanada Mama",
+            700017510
+        ]
+    ],
+    [
+        "Stay at Bombay Grill House.",
+        "(23:39, 23:59)",
+        [
+            "Bombay Grill House",
+            700014247
+        ]
+    ]
+]

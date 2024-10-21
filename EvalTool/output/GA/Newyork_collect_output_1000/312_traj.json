@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:06)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:41, 16:46)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:58, 17:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:11, 22:19)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(23:30, 23:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

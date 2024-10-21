@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030411
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:13)",
+        [
+            "",
+            700030402
+        ]
+    ],
+    [
+        "Watch Sports or a Movie",
+        "(15:13, 17:04)",
+        [
+            "",
+            700030411
+        ]
+    ],
+    [
+        "Watch Sports or a Movie",
+        "(17:10, 18:52)",
+        [
+            "",
+            700030411
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(19:52, 20:52)",
+        [
+            "V-Nam Cafe",
+            700005169
+        ]
+    ],
+    [
+        "Wind Down & Plan for the Week",
+        "(21:33, 23:00)",
+        [
+            "V-Nam Cafe",
+            700005169
+        ]
+    ],
+    [
+        "Wind Down & Plan for the Week",
+        "(23:33, 23:59)",
+        [
+            "",
+            700025329
+        ]
+    ]
+]

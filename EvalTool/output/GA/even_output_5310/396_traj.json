@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - West 51st Street & 6th Avenue",
+            700008229
+        ]
+    ],
+    [
+        "Morning Routine and Breakfast",
+        "(09:00, 09:51)",
+        [
+            "Citi Bike - West 51st Street & 6th Avenue",
+            700008229
+        ]
+    ],
+    [
+        "Catch Up on Reading/TV",
+        "(10:20, 12:09)",
+        [
+            "Citi Bike - West 51st Street & 6th Avenue",
+            700008229
+        ]
+    ],
+    [
+        "Catch Up on Reading/TV",
+        "(12:38, 14:05)",
+        [
+            "Citi Bike - West 51st Street & 6th Avenue",
+            700008229
+        ]
+    ],
+    [
+        "Social Time",
+        "(14:15, 16:09)",
+        [
+            "Citi Bike - West 51st Street & 6th Avenue",
+            700008229
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:56, 19:57)",
+        [
+            "TD Bank",
+            700026510
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:16, 23:59)",
+        [
+            "",
+            700008630
+        ]
+    ],
+    [
+        "Stay at Citi Bike - West 51st Street & 6th Avenue",
+        "(22:53, 23:59)",
+        [
+            "TD Bank",
+            700026510
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Pizza Hut",
+            700009624
+        ]
+    ],
+    [
+        "Next, proceed to Outdoor Exercise or Sports Activity.",
+        "(09:00, 10:23)",
+        [
+            "Junior's Deli",
+            700013854
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping",
+        "(11:03, 12:42)",
+        [
+            "Pizza Hut",
+            700009624
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping from Pizza Hut.",
+        "(13:12, 15:02)",
+        [
+            "Bobby Van's Steakhouse",
+            700006096
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping.",
+        "(14:56, 17:04)",
+        [
+            "Gregory’s coffee",
+            700032007
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 23:11)",
+        [
+            "",
+            700001138
+        ]
+    ],
+    [
+        "Continue staying",
+        "(21:26, 23:48)",
+        [
+            "Pizza Hut",
+            700009624
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Pizza Hut",
+            700009624
+        ]
+    ]
+]

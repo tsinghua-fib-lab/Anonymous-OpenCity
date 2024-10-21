@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Joey Bats Café",
+            700014832
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:57)",
+        [
+            "",
+            700001048
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:01, 17:08)",
+        [
+            "Sauce",
+            700011734
+        ]
+    ],
+    [
+        "Spend time with family or friends",
+        "(16:48, 18:02)",
+        [
+            "Sauce",
+            700011734
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 21:48)",
+        [
+            "",
+            700002464
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "Joey Bats Café",
+            700014832
+        ]
+    ]
+]

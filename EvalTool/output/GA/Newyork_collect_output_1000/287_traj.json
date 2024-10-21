@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:32)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Continue to Afternoon Leisure",
+        "(10:58, 12:53)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 15:07)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Continue to Afternoon Leisure",
+        "(16:20, 18:06)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 21:03)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill",
+        "(22:35, 23:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ]
+]

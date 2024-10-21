@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:37)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:01, 16:24)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:56, 19:23)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "Next activity based on daily plan",
+        "(20:16, 22:01)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "Next activity based on daily plan",
+        "(22:22, 23:59)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ]
+]

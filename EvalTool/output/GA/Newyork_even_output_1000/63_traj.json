@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Catherine Street & Monroe Street",
+            700007990
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:39)",
+        [
+            "",
+            700038046
+        ]
+    ],
+    [
+        "Social Time",
+        "(14:30, 16:53)",
+        [
+            "",
+            700038044
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:26, 22:29)",
+        [
+            "St. Joseph School",
+            700014767
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:28, 22:32)",
+        [
+            "",
+            700014774
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:46, 23:59)",
+        [
+            "LianJiangDongDai INC",
+            700014775
+        ]
+    ]
+]

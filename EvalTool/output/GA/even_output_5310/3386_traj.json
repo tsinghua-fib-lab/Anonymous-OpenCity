@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "PingPod Club",
+            700005437
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:24)",
+        [
+            "King Dumplings",
+            700005436
+        ]
+    ],
+    [
+        "Lunch and Relaxation",
+        "(12:44, 14:21)",
+        [
+            "Aujla's",
+            700005439
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:47, 16:03)",
+        [
+            "King Dumplings",
+            700005436
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 22:16)",
+        [
+            "Sushi Oku",
+            700010016
+        ]
+    ],
+    [
+        "Next activity after lunch",
+        "(21:59, 23:28)",
+        [
+            "King Dumplings",
+            700005436
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "Nuan Xin Rice Roll",
+            700019760
+        ]
+    ]
+]

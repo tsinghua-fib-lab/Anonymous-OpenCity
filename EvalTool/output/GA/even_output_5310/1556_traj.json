@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Icon Parking",
+            700003603
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:53)",
+        [
+            "El Pote Español",
+            700006708
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 19:25)",
+        [
+            "Paramount Tower Garage",
+            700011031
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:36, 21:59)",
+        [
+            "",
+            700016166
+        ]
+    ],
+    [
+        "Stay at El Pote Español",
+        "(22:10, 23:41)",
+        [
+            "Fred Astair Dance Studios",
+            700018409
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:41, 23:59)",
+        [
+            "Cafe Delecctica",
+            700003235
+        ]
+    ]
+]

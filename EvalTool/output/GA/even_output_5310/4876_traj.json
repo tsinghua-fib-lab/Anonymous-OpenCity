@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "il laboratorio del gelato",
+            700003404
+        ]
+    ],
+    [
+        "Leisure Time/TV or Reading",
+        "(10:00, 11:50)",
+        [
+            "il laboratorio del gelato",
+            700003404
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 18:33)",
+        [
+            "Wiggle Room",
+            700030272
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(16:50, 18:10)",
+        [
+            "il laboratorio del gelato",
+            700003404
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:38, 23:21)",
+        [
+            "Taverna Di Bacco",
+            700012923
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:50, 23:59)",
+        [
+            "Bareburger LES",
+            700016232
+        ]
+    ]
+]

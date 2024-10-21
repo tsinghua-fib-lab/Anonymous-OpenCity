@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gusto",
+            700008963
+        ]
+    ],
+    [
+        "Next arrangement after breakfast.",
+        "(10:00, 11:24)",
+        [
+            "Cafe Bean",
+            700008860
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 15:53)",
+        [
+            "",
+            700008716
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:31, 19:02)",
+        [
+            "",
+            700008717
+        ]
+    ],
+    [
+        "Stay at your current location.",
+        "(22:14, 23:59)",
+        [
+            "Berlin Döner & Kebab House",
+            700008881
+        ]
+    ]
+]

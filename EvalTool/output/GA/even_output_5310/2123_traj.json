@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005843
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 11:01)",
+        [
+            "Citi Bike - CPW & W 68th St",
+            700018458
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 13:46)",
+        [
+            "",
+            700010176
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:21, 16:21)",
+        [
+            "",
+            700005843
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:56, 20:04)",
+        [
+            "Tavern on the Green public restrooms",
+            700007861
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:28, 21:01)",
+        [
+            "",
+            700005843
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:05, 23:59)",
+        [
+            "Citi Bike - CPW & W 68th St",
+            700018458
+        ]
+    ],
+    [
+        "Go to Il Violino for dessert.",
+        "(22:35, 23:59)",
+        [
+            "",
+            700018283
+        ]
+    ],
+    [
+        "Stay at your home",
+        "(23:46, 23:59)",
+        [
+            "",
+            700005843
+        ]
+    ]
+]

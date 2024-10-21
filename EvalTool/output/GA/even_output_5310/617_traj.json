@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002523
+        ]
+    ],
+    [
+        "Walk or light workout in a nearby park",
+        "(09:00, 11:02)",
+        [
+            "maman",
+            700004115
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:42, 15:38)",
+        [
+            "",
+            700001215
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 18:24)",
+        [
+            "",
+            700000673
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:05, 23:59)",
+        [
+            "Institute of Audio Research",
+            700007662
+        ]
+    ]
+]

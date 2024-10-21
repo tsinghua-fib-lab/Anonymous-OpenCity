@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009293
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:00)",
+        [
+            "Bareburger",
+            700008763
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:40, 13:58)",
+        [
+            "Bareburger",
+            700008763
+        ]
+    ],
+    [
+        "Lunch at Bareburger",
+        "(14:24, 15:57)",
+        [
+            "Bareburger",
+            700008763
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:34, 17:54)",
+        [
+            "Bareburger",
+            700008763
+        ]
+    ],
+    [
+        "Stay at Bareburger",
+        "(18:12, 19:36)",
+        [
+            "Bareburger",
+            700008763
+        ]
+    ],
+    [
+        "Leave Bareburger",
+        "(20:04, 21:27)",
+        [
+            "Sushi Damo",
+            700003462
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:53, 23:59)",
+        [
+            "CityMD",
+            700013538
+        ]
+    ]
+]

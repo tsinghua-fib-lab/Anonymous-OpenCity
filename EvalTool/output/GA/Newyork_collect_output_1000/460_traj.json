@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:40)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:42, 17:04)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(18:03, 19:59)",
+        [
+            "",
+            700002621
+        ]
+    ],
+    [
+        "Prepare Dinner & Relax",
+        "(20:43, 22:11)",
+        [
+            "",
+            700017443
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(23:16, 23:59)",
+        [
+            "",
+            700002621
+        ]
+    ]
+]

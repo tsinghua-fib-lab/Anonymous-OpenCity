@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "East West Bank",
+            700003974
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:00, 10:52)",
+        [
+            "Columbus Burger",
+            700003884
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:31, 16:41)",
+        [
+            "Z&Y Bistro",
+            700009981
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:22, 18:53)",
+        [
+            "Chong Qing Xiao Mian",
+            700006894
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:30, 20:52)",
+        [
+            "",
+            700008191
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:12, 23:59)",
+        [
+            "",
+            700008191
+        ]
+    ]
+]

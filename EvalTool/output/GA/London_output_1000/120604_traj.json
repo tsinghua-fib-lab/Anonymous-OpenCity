@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:13)",
+        [
+            "",
+            700023757
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 19:12)",
+        [
+            "",
+            700027085
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(18:01, 20:10)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(20:51, 22:06)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "Stay at current location.",
+        "(22:45, 23:54)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ]
+]

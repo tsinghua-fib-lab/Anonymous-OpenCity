@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bar Crudo",
+            700001553
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:01)",
+        [
+            "Bar Crudo",
+            700001553
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:32, 13:22)",
+        [
+            "Emporium SF",
+            700005898
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:15, 16:39)",
+        [
+            "",
+            700005266
+        ]
+    ],
+    [
+        "Prepare for the Week",
+        "(17:57, 18:57)",
+        [
+            "",
+            700005267
+        ]
+    ],
+    [
+        "Prepare for the Week",
+        "(19:37, 20:57)",
+        [
+            "Postal Chase",
+            700005274
+        ]
+    ],
+    [
+        "Prepare for the Week",
+        "(22:12, 23:49)",
+        [
+            "Freedom Place Church",
+            700010115
+        ]
+    ],
+    [
+        "Relaxation/Leisure Reading",
+        "(23:34, 23:59)",
+        [
+            "Emporium SF",
+            700005898
+        ]
+    ]
+]

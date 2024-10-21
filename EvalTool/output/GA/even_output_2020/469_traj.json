@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010266
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:29)",
+        [
+            "",
+            700005702
+        ]
+    ],
+    [
+        "Read a Book or Listen to Music",
+        "(14:11, 15:56)",
+        [
+            "Bay Wheels",
+            700002506
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:02, 20:00)",
+        [
+            "HSBC",
+            700005042
+        ]
+    ],
+    [
+        "Read a Book or Listen to Music",
+        "(21:35, 22:58)",
+        [
+            "Bay Wheels",
+            700002506
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(23:45, 23:59)",
+        [
+            "Bay Wheels",
+            700002506
+        ]
+    ]
+]

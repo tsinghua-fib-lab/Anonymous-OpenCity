@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Aire Ancient Baths",
+            700005298
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:37)",
+        [
+            "",
+            700003076
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(12:49, 13:55)",
+        [
+            "Aire Ancient Baths",
+            700005298
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 20:02)",
+        [
+            "Petrarca Cucina e Vino",
+            700010997
+        ]
+    ],
+    [
+        "Dinner and TV Time",
+        "(19:27, 21:01)",
+        [
+            "",
+            700037276
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 23:59)",
+        [
+            "",
+            700001998
+        ]
+    ],
+    [
+        "Stay at Picnic Table",
+        "(22:14, 23:59)",
+        [
+            "",
+            700037275
+        ]
+    ]
+]

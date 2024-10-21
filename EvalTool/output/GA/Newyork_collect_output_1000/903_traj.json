@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:24)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "Entertainment Time",
+        "(16:24, 18:02)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Stay at Dog & Bone",
+        "(18:20, 20:15)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 23:49)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ]
+]

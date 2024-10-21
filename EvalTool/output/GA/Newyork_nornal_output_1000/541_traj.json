@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Manhattan Eye Ear and Throat Hospital",
+            700000399
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:00)",
+        [
+            "Manhattan Eye Ear and Throat Hospital",
+            700000399
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:56, 12:59)",
+        [
+            "Manhattan Eye Ear and Throat Hospital",
+            700000399
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:15, 14:47)",
+        [
+            "",
+            700001050
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:22, 16:53)",
+        [
+            "Manhattan Eye Ear and Throat Hospital",
+            700000399
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:41, 19:21)",
+        [
+            "Manhattan Eye Ear and Throat Hospital",
+            700000399
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 23:59)",
+        [
+            "Manhattan Eye Ear and Throat Hospital",
+            700000399
+        ]
+    ]
+]

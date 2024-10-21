@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700011175
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(09:00, 10:09)",
+        [
+            "Taco Bell Cantina",
+            700003269
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:24, 11:55)",
+        [
+            "Taco Bell Cantina",
+            700003269
+        ]
+    ],
+    [
+        "Lunch preparation and enjoyment",
+        "(12:36, 14:10)",
+        [
+            "Taco Bell Cantina",
+            700003269
+        ]
+    ],
+    [
+        "Creative Project/Workshop",
+        "(14:28, 16:01)",
+        [
+            "",
+            700002491
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 18:41)",
+        [
+            "Tailor Public House",
+            700014539
+        ]
+    ],
+    [
+        "Go to Tailor Public House.",
+        "(19:45, 20:56)",
+        [
+            "",
+            700002201
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:51, 23:59)",
+        [
+            "",
+            700002201
+        ]
+    ],
+    [
+        "Go to Taco Bell Cantina.",
+        "(23:38, 23:59)",
+        [
+            "Taco Bell Cantina",
+            700003269
+        ]
+    ]
+]

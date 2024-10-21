@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000271
+        ]
+    ],
+    [
+        "next activity after breakfast",
+        "(09:00, 10:05)",
+        [
+            "",
+            700000271
+        ]
+    ],
+    [
+        "Relax with a book or podcast",
+        "(10:46, 11:57)",
+        [
+            "",
+            700000271
+        ]
+    ],
+    [
+        "Afternoon leisure activity (sports or hobbies)",
+        "(12:37, 15:13)",
+        [
+            "",
+            700000271
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:24, 20:29)",
+        [
+            "Ritm - St Germain",
+            700007963
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:40, 22:19)",
+        [
+            "",
+            700052900
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(22:36, 23:59)",
+        [
+            "",
+            700000271
+        ]
+    ]
+]

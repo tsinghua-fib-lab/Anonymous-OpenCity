@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:33)",
+        [
+            "",
+            700001188
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:38, 19:16)",
+        [
+            "Ryan/NENA Comprehensive Heath Service Center",
+            700000264
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:32, 17:00)",
+        [
+            "Nublu Classic",
+            700009662
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:04, 18:00)",
+        [
+            "Nublu Classic",
+            700009662
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(18:16, 19:37)",
+        [
+            "Nublu Classic",
+            700009662
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 22:52)",
+        [
+            "The Francis Kite Club",
+            700016984
+        ]
+    ],
+    [
+        "Dinner and Family Time",
+        "(23:53, 23:59)",
+        [
+            "",
+            700002730
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002097
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:00)",
+        [
+            "The Butcher’s Daughter",
+            700012523
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:32, 13:43)",
+        [
+            "HSBC",
+            700008765
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:30, 23:54)",
+        [
+            "MeMe",
+            700015259
+        ]
+    ],
+    [
+        "Relax and watch a movie or series.",
+        "(20:59, 22:09)",
+        [
+            "The Butcher’s Daughter",
+            700012523
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "White Horse Tavern",
+            700008957
+        ]
+    ]
+]

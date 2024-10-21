@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Panini Cafe",
+            700012530
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:00, 11:03)",
+        [
+            "",
+            700024695
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:55, 12:08)",
+        [
+            "Kimmel Bar",
+            700014997
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:51, 16:20)",
+        [
+            "Panini Cafe",
+            700012530
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(17:18, 18:45)",
+        [
+            "Kimmel Bar",
+            700014997
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 23:37)",
+        [
+            "Sophie's Cuban Express",
+            700008962
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "NY Bagels & Cafe",
+            700010807
+        ]
+    ]
+]

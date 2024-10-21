@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gong Cha",
+            700006563
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:58)",
+        [
+            "Gong Cha",
+            700006563
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:45, 14:02)",
+        [
+            "",
+            700021974
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:46, 16:01)",
+        [
+            "Gong Cha",
+            700006563
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:53, 18:05)",
+        [
+            "Gong Cha",
+            700006563
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 19:42)",
+        [
+            "",
+            700021974
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:58, 23:59)",
+        [
+            "Imperial House Garage",
+            700016397
+        ]
+    ]
+]

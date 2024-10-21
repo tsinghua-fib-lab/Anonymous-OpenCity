@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "In Common NYC Cafe",
+            700030302
+        ]
+    ],
+    [
+        "go to this place",
+        "(08:00, 10:52)",
+        [
+            "",
+            700029831
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(11:54, 13:55)",
+        [
+            "In Common NYC Cafe",
+            700030302
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(15:03, 16:23)",
+        [
+            "In Common NYC Cafe",
+            700030302
+        ]
+    ],
+    [
+        "Dinner preparation & family time",
+        "(17:19, 18:45)",
+        [
+            "In Common NYC Cafe",
+            700030302
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:14, 21:08)",
+        [
+            "In Common NYC Cafe",
+            700030302
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:28, 23:08)",
+        [
+            "In Common NYC Cafe",
+            700030302
+        ]
+    ],
+    [
+        "Go to Evening Wind Down",
+        "(23:08, 23:59)",
+        [
+            "In Common NYC Cafe",
+            700030302
+        ]
+    ]
+]

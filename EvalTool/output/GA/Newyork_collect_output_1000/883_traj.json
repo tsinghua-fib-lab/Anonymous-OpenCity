@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:23)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Entertainment Time",
+        "(16:24, 18:00)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ],
+    [
+        "Stay at Abbey Tavern",
+        "(18:20, 20:23)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 22:18)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ]
+]

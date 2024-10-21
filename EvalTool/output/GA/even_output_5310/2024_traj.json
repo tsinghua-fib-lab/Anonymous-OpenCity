@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009293
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:35)",
+        [
+            "Sushi Damo",
+            700003462
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:40, 14:08)",
+        [
+            "Sushi Damo",
+            700003462
+        ]
+    ],
+    [
+        "Lunch at Sushi Damo",
+        "(14:24, 15:55)",
+        [
+            "Sushi Damo",
+            700003462
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:34, 17:55)",
+        [
+            "Sushi Damo",
+            700003462
+        ]
+    ],
+    [
+        "Stay at Sushi Damo",
+        "(18:12, 19:33)",
+        [
+            "Sushi Damo",
+            700003462
+        ]
+    ],
+    [
+        "Stay at Thai Chai Kitchen",
+        "(20:04, 22:41)",
+        [
+            "",
+            700002317
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:53, 23:46)",
+        [
+            "Duane Reade",
+            700008317
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700021863
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:34)",
+        [
+            "",
+            700022434
+        ]
+    ],
+    [
+        "Lunch and Relaxation",
+        "(12:44, 14:12)",
+        [
+            "Citi Bike - Pitt St & Stanton St",
+            700008166
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(14:47, 16:08)",
+        [
+            "Citi Bike - Pitt St & Stanton St",
+            700008166
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 20:48)",
+        [
+            "Our Lady of Sorrows School",
+            700000191
+        ]
+    ],
+    [
+        "Next activity after lunch",
+        "(21:59, 23:31)",
+        [
+            "Citi Bike - Pitt St & Stanton St",
+            700008166
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "",
+            700011048
+        ]
+    ]
+]

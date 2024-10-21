@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - West 67th Street & Broadway",
+            700018114
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:00, 11:26)",
+        [
+            "Equinox",
+            700003705
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:08, 15:55)",
+        [
+            "",
+            700003205
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 15:00)",
+        [
+            "The Migrant Kitchen",
+            700016762
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:57, 20:38)",
+        [
+            "Chase",
+            700005034
+        ]
+    ],
+    [
+        "Dinner Preparation/Cooking",
+        "(19:21, 21:07)",
+        [
+            "",
+            700002476
+        ]
+    ],
+    [
+        "Dinner Preparation/Cooking",
+        "(20:29, 22:10)",
+        [
+            "Chase",
+            700005034
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:50, 23:59)",
+        [
+            "",
+            700005038
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:44)",
+        [
+            "",
+            700022507
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:54, 17:56)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(18:35, 20:06)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:03, 23:59)",
+        [
+            "",
+            700002621
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(23:19, 23:59)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ]
+]

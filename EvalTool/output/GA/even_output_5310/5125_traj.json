@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700003010
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:39)",
+        [
+            "Washington Square Dinner",
+            700011806
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(11:47, 12:55)",
+        [
+            "Washington Square Dinner",
+            700011806
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 16:06)",
+        [
+            "",
+            700011071
+        ]
+    ],
+    [
+        "Grocery Shopping/Errands",
+        "(15:30, 16:55)",
+        [
+            "Washington Square Dinner",
+            700011806
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:47, 19:51)",
+        [
+            "",
+            700001127
+        ]
+    ],
+    [
+        "Go for a light walk or jog at a nearby park.",
+        "(23:17, 23:59)",
+        [
+            "",
+            700003010
+        ]
+    ]
+]

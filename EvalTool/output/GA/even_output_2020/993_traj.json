@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Club 93",
+            700001887
+        ]
+    ],
+    [
+        "Have lunch at a favorite restaurant or café.",
+        "(10:00, 10:57)",
+        [
+            "StreetTaco",
+            700003324
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:48, 15:41)",
+        [
+            "Taco Bar",
+            700004827
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:21, 19:08)",
+        [
+            "",
+            700006648
+        ]
+    ],
+    [
+        "Relax at home and catch up on a series or movie.",
+        "(18:18, 19:40)",
+        [
+            "Club 93",
+            700001887
+        ]
+    ],
+    [
+        "Relax at home and catch up on a series or movie.",
+        "(18:58, 20:25)",
+        [
+            "Club 93",
+            700001887
+        ]
+    ],
+    [
+        "Relax at home and catch up on a series or movie.",
+        "(20:30, 22:00)",
+        [
+            "Club 93",
+            700001887
+        ]
+    ],
+    [
+        "Relax at home and catch up on a series or movie.",
+        "(22:50, 23:59)",
+        [
+            "Club 93",
+            700001887
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:12)",
+        [
+            "",
+            700022519
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(12:14, 14:08)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(14:23, 15:57)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:48, 19:55)",
+        [
+            "Seven Sins",
+            700006201
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:53, 23:59)",
+        [
+            "",
+            700022519
+        ]
+    ]
+]

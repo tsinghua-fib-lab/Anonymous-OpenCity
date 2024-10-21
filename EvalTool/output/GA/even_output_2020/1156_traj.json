@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fulton Market Garage",
+            700001745
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:05)",
+        [
+            "Barrel Head Brewhouse",
+            700006153
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 19:31)",
+        [
+            "",
+            700001447
+        ]
+    ],
+    [
+        "Family/Friends Time",
+        "(19:36, 21:46)",
+        [
+            "Papalote",
+            700001811
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:57, 23:59)",
+        [
+            "",
+            700008266
+        ]
+    ]
+]

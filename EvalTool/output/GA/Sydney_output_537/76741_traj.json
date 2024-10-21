@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Revolver Cafe",
+            700009978
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:23)",
+        [
+            "Revolver Cafe",
+            700009978
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:15, 13:18)",
+        [
+            "Revolver Cafe",
+            700009978
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 18:04)",
+        [
+            "",
+            700015997
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 18:05)",
+        [
+            "",
+            700009976
+        ]
+    ],
+    [
+        "Exercise and Lunch",
+        "(20:46, 22:41)",
+        [
+            "Revolver Cafe",
+            700009978
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:10, 23:59)",
+        [
+            "Revolver Cafe",
+            700009978
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700021730
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:32)",
+        [
+            "",
+            700015086
+        ]
+    ],
+    [
+        "Attend a yoga or fitness class",
+        "(15:02, 16:29)",
+        [
+            "",
+            700015086
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:59, 21:07)",
+        [
+            "",
+            700021729
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a TV series",
+        "(20:15, 22:32)",
+        [
+            "",
+            700021730
+        ]
+    ],
+    [
+        "Wind down and watch a movie or catch up on a TV series",
+        "(22:07, 23:34)",
+        [
+            "Subway",
+            700003544
+        ]
+    ],
+    [
+        "Wind down and watch a movie or catch up on a TV series",
+        "(23:41, 23:59)",
+        [
+            "Subway",
+            700003544
+        ]
+    ]
+]

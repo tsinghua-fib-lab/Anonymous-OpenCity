@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018908
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:52)",
+        [
+            "",
+            700032016
+        ]
+    ],
+    [
+        "You should spend some time reading a book or working on a personal project.",
+        "(11:10, 12:53)",
+        [
+            "Citi Bike - East 25th Street & 1st Avenue",
+            700008038
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(13:44, 15:07)",
+        [
+            "",
+            700032015
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(16:00, 17:35)",
+        [
+            "",
+            700032011
+        ]
+    ],
+    [
+        "You should spend some time unwinding with a movie or catching up on your favorite TV shows.",
+        "(17:44, 18:53)",
+        [
+            "",
+            700032015
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 22:43)",
+        [
+            "",
+            700020656
+        ]
+    ],
+    [
+        "Relaxation and Entertainment",
+        "(21:50, 23:01)",
+        [
+            "",
+            700019558
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:22, 23:59)",
+        [
+            "",
+            700019558
+        ]
+    ]
+]

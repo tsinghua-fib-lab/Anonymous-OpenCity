@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Church Street Cafe",
+            700002101
+        ]
+    ],
+    [
+        "Go for a walk or light exercise in the park",
+        "(09:00, 09:54)",
+        [
+            "Walgreens & Live Fit Gym Underground Parking Garage",
+            700001410
+        ]
+    ],
+    [
+        "Spend some time reading or enjoying a hobby.",
+        "(10:52, 12:30)",
+        [
+            "Walgreens & Live Fit Gym Underground Parking Garage",
+            700001410
+        ]
+    ],
+    [
+        "Spend some time reading or enjoying a hobby.",
+        "(13:32, 15:04)",
+        [
+            "Church Street Cafe",
+            700002101
+        ]
+    ],
+    [
+        "Spend time reading or enjoying a hobby.",
+        "(15:58, 17:48)",
+        [
+            "Church Street Cafe",
+            700002101
+        ]
+    ],
+    [
+        "Continue reading or enjoying a hobby",
+        "(17:51, 19:12)",
+        [
+            "",
+            700013250
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:16, 23:59)",
+        [
+            "Walgreens",
+            700000827
+        ]
+    ],
+    [
+        "Stay in Bay Wheels",
+        "(21:36, 23:03)",
+        [
+            "Church Street Cafe",
+            700002101
+        ]
+    ],
+    [
+        "Stay in Cafe Lé",
+        "(23:30, 23:59)",
+        [
+            "Walgreens & Live Fit Gym Underground Parking Garage",
+            700001410
+        ]
+    ]
+]

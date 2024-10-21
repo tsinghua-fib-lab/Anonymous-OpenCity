@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mission Recreation Center",
+            700000232
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:37)",
+        [
+            "Mission Recreation Center",
+            700000232
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:48, 13:06)",
+        [
+            "Mission Recreation Center",
+            700000232
+        ]
+    ],
+    [
+        "Social Engagement",
+        "(13:44, 15:18)",
+        [
+            "Mission Recreation Center",
+            700000232
+        ]
+    ],
+    [
+        "Social Engagement",
+        "(15:38, 17:08)",
+        [
+            "Mission Recreation Center",
+            700000232
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:28, 18:51)",
+        [
+            "",
+            700000047
+        ]
+    ],
+    [
+        "Social Engagement",
+        "(19:21, 21:06)",
+        [
+            "",
+            700000047
+        ]
+    ],
+    [
+        "Stay at Mission Recreation Center",
+        "(21:13, 22:22)",
+        [
+            "Mission Recreation Center",
+            700000232
+        ]
+    ],
+    [
+        "Stay at Mission Recreation Center",
+        "(23:16, 23:59)",
+        [
+            "Mission Recreation Center",
+            700000232
+        ]
+    ]
+]

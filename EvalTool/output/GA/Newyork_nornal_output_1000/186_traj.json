@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002699
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:53)",
+        [
+            "",
+            700018232
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:30, 16:59)",
+        [
+            "",
+            700007284
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:46, 16:48)",
+        [
+            "Spiritist Group of New York",
+            700009166
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:48, 21:49)",
+        [
+            "Bread & Honey",
+            700009213
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:16, 21:53)",
+        [
+            "Spiritist Group of New York",
+            700009166
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:22, 23:59)",
+        [
+            "",
+            700000998
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Good Old Lower East Side",
+            700015184
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:59)",
+        [
+            "Good Old Lower East Side",
+            700015184
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:14, 15:23)",
+        [
+            "",
+            700000608
+        ]
+    ],
+    [
+        "Afternoon Activity",
+        "(15:46, 17:50)",
+        [
+            "Good Old Lower East Side",
+            700015184
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(17:58, 18:59)",
+        [
+            "Good Old Lower East Side",
+            700015184
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(19:20, 20:14)",
+        [
+            "Eleven B",
+            700032000
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(20:33, 22:07)",
+        [
+            "Eleven B",
+            700032000
+        ]
+    ],
+    [
+        "Next relaxation or leisure time.",
+        "(22:12, 23:24)",
+        [
+            "Eleven B",
+            700032000
+        ]
+    ],
+    [
+        "Next relaxation or leisure time.",
+        "(23:58, 23:59)",
+        [
+            "Eleven B",
+            700032000
+        ]
+    ]
+]

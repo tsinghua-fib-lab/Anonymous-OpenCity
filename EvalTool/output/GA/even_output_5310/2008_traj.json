@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chase",
+            700005989
+        ]
+    ],
+    [
+        "Wake Up & Breakfast",
+        "(09:00, 09:57)",
+        [
+            "Chase",
+            700005989
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:12, 14:51)",
+        [
+            "Noz Market",
+            700019736
+        ]
+    ],
+    [
+        "Movie or TV Show",
+        "(14:56, 16:10)",
+        [
+            "Noz Market",
+            700019736
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(17:02, 18:22)",
+        [
+            "Noz Market",
+            700019736
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 21:19)",
+        [
+            "Tri Dim Shanghai",
+            700019737
+        ]
+    ],
+    [
+        "Dinner Prep & Family Time",
+        "(22:18, 23:48)",
+        [
+            "Tri Dim Shanghai",
+            700019737
+        ]
+    ],
+    [
+        "Dinner Prep & Family Time",
+        "(23:48, 23:59)",
+        [
+            "Tri Dim Shanghai",
+            700019737
+        ]
+    ]
+]

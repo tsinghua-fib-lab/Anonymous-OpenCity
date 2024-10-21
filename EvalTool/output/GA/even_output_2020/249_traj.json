@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tenderheart",
+            700010605
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:44)",
+        [
+            "Taquerria Castillo B2",
+            700003551
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 16:25)",
+        [
+            "Brandon College",
+            700000217
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:27, 21:20)",
+        [
+            "Union Square Sports Bar",
+            700002321
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "Carl's Jr.",
+            700003108
+        ]
+    ]
+]

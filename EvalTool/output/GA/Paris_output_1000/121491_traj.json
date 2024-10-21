@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700066039
+        ]
+    ],
+    [
+        "Next activity after breakfast",
+        "(10:00, 11:31)",
+        [
+            "Chapelle du Lycée Henri IV (ancien réfectoire de l'abbaye Sainte-Geneviève)",
+            700015755
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(11:44, 13:13)",
+        [
+            "",
+            700066038
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:14, 18:57)",
+        [
+            "The Bombardier",
+            700048748
+        ]
+    ],
+    [
+        "Continue relaxation watching a movie or series.",
+        "(16:17, 17:38)",
+        [
+            "The Bombardier",
+            700048748
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:01, 20:36)",
+        [
+            "La Capannina",
+            700055813
+        ]
+    ],
+    [
+        "Next activity after relaxation",
+        "(21:20, 23:12)",
+        [
+            "Nossa",
+            700029536
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "La Pomme d'Ève",
+            700061080
+        ]
+    ]
+]

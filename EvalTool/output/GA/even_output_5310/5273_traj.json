@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rubby Pizzeria Restaurant",
+            700006397
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:03)",
+        [
+            "Citi Bike - West 56th Street & 10th Avenue",
+            700008235
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:18, 16:29)",
+        [
+            "Citi Bike - West 56th Street & 10th Avenue",
+            700008235
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:37, 19:15)",
+        [
+            "Casabianca",
+            700018343
+        ]
+    ],
+    [
+        "Next activity after 6:30 PM.",
+        "(19:12, 20:49)",
+        [
+            "Casabianca",
+            700018343
+        ]
+    ],
+    [
+        "Stay at current place.",
+        "(21:30, 22:52)",
+        [
+            "Citi Bike - West 56th Street & 10th Avenue",
+            700008235
+        ]
+    ],
+    [
+        "Stay at current place.",
+        "(23:50, 23:59)",
+        [
+            "Rubby Pizzeria Restaurant",
+            700006397
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Claudette",
+            700020938
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:45)",
+        [
+            "Panineria",
+            700022125
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:26, 17:25)",
+        [
+            "",
+            700014876
+        ]
+    ],
+    [
+        "Meet up with friends or family for outdoor activities",
+        "(16:01, 17:54)",
+        [
+            "Citi Bike - University Pl & E 8 St",
+            700021684
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:39, 23:59)",
+        [
+            "",
+            700001674
+        ]
+    ],
+    [
+        "Have dinner and unwind with some relaxing music or a book.",
+        "(21:03, 22:28)",
+        [
+            "Claudette",
+            700020938
+        ]
+    ],
+    [
+        "Stay at Claudette.",
+        "(22:40, 23:59)",
+        [
+            "Claudette",
+            700020938
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006411
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:23)",
+        [
+            "Starbucks",
+            700005116
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(11:33, 13:10)",
+        [
+            "",
+            700009354
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(13:30, 14:50)",
+        [
+            "Starbucks",
+            700005116
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:39, 20:09)",
+        [
+            "",
+            700000662
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:00, 21:18)",
+        [
+            "",
+            700009353
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700000791
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rangoli",
+            700021722
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:37)",
+        [
+            "Rangoli",
+            700021722
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:13, 18:47)",
+        [
+            "La Esquina",
+            700016597
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 23:27)",
+        [
+            "Persepolis",
+            700011163
+        ]
+    ],
+    [
+        "Next activity",
+        "(23:20, 23:59)",
+        [
+            "Rangoli",
+            700021722
+        ]
+    ]
+]

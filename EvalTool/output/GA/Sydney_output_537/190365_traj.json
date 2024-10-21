@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700031554
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(10:00, 11:25)",
+        [
+            "",
+            700026736
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 14:44)",
+        [
+            "Chinatown Country Club",
+            700024859
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:53, 21:24)",
+        [
+            "",
+            700026446
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 23:19)",
+        [
+            "",
+            700026450
+        ]
+    ],
+    [
+        "Explore a Local Event or Market",
+        "(21:17, 23:39)",
+        [
+            "",
+            700026638
+        ]
+    ],
+    [
+        "Explore Local Event or Market",
+        "(23:22, 23:59)",
+        [
+            "Grandma's Bar",
+            700008440
+        ]
+    ]
+]

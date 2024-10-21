@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chase",
+            700004304
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:15)",
+        [
+            "Radiance Aesthetics & Wellness",
+            700006389
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:47, 20:00)",
+        [
+            "Duane Reade",
+            700018856
+        ]
+    ],
+    [
+        "Catching Up on Emails/Planning for the Week",
+        "(17:28, 18:54)",
+        [
+            "Duane Reade",
+            700018856
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 23:08)",
+        [
+            "Chase",
+            700004304
+        ]
+    ]
+]

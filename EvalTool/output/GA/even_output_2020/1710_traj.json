@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of America",
+            700000527
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:25)",
+        [
+            "Old First Presbyterian Church",
+            700000236
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:18, 13:56)",
+        [
+            "",
+            700010669
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:55, 16:41)",
+        [
+            "Old First Presbyterian Church",
+            700000236
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:52, 20:24)",
+        [
+            "My Health Medical Group",
+            700003351
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:07, 23:10)",
+        [
+            "Old First Presbyterian Church",
+            700000236
+        ]
+    ],
+    [
+        "Evening Wind Down.",
+        "(23:36, 23:59)",
+        [
+            "Old First Presbyterian Church",
+            700000236
+        ]
+    ]
+]

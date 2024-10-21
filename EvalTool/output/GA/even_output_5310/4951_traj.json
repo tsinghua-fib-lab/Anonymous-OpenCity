@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Il Tinello Ristorante",
+            700041055
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:34)",
+        [
+            "Dim Sum Palace",
+            700041056
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(13:53, 15:28)",
+        [
+            "",
+            700019915
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(15:19, 16:56)",
+        [
+            "Tina's Cuban Cuisine",
+            700041054
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(16:32, 18:09)",
+        [
+            "Five Guys",
+            700000004
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 20:04)",
+        [
+            "Five Guys",
+            700000004
+        ]
+    ],
+    [
+        "Stay at Five Guys",
+        "(20:27, 21:50)",
+        [
+            "Dim Sum Palace",
+            700041056
+        ]
+    ],
+    [
+        "Stay at Five Guys",
+        "(22:17, 23:59)",
+        [
+            "Five Guys",
+            700000004
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "Bice",
+            700007351
+        ]
+    ]
+]

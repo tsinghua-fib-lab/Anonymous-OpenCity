@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001998
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:17)",
+        [
+            "",
+            700010512
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:20, 16:41)",
+        [
+            "Jack’s Stir Brew Coffee",
+            700020650
+        ]
+    ],
+    [
+        "Social Time at Jack’s Stir Brew Coffee",
+        "(16:42, 18:17)",
+        [
+            "Jack’s Stir Brew Coffee",
+            700020650
+        ]
+    ],
+    [
+        "Social Time at Jack’s Stir Brew Coffee",
+        "(18:25, 20:13)",
+        [
+            "Jack’s Stir Brew Coffee",
+            700020650
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:12, 23:59)",
+        [
+            "Roxy Cinema New York",
+            700025857
+        ]
+    ]
+]

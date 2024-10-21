@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:20)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:26, 12:32)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "Lunch and Leisure Time",
+        "(13:01, 14:22)",
+        [
+            "",
+            700022517
+        ]
+    ],
+    [
+        "Lunch and Leisure Time",
+        "(15:17, 16:54)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:18, 19:01)",
+        [
+            "",
+            700022506
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(19:15, 20:57)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(21:31, 22:54)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(23:15, 23:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

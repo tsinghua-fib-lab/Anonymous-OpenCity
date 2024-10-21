@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Midnight Sun",
+            700007469
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:44)",
+        [
+            "Starbucks",
+            700002190
+        ]
+    ],
+    [
+        "Continue at Dolores Park Cafe",
+        "(15:18, 16:46)",
+        [
+            "The Mix",
+            700002439
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:17, 21:33)",
+        [
+            "Poesia",
+            700007549
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 20:25)",
+        [
+            "Castro Country Club",
+            700008424
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:19, 23:59)",
+        [
+            "The Mix",
+            700002439
+        ]
+    ]
+]

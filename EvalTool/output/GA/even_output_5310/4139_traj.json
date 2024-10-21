@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kazuza",
+            700014751
+        ]
+    ],
+    [
+        "Go for a walk or light exercise in a nearby park.",
+        "(10:00, 10:54)",
+        [
+            "Baker Falls",
+            700040030
+        ]
+    ],
+    [
+        "Go for a walk or light exercise in a nearby park.",
+        "(11:14, 12:13)",
+        [
+            "Baker Falls",
+            700040030
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 15:41)",
+        [
+            "Tompkins Square Bar",
+            700012366
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:19, 18:40)",
+        [
+            "",
+            700014759
+        ]
+    ],
+    [
+        "Stay at the current place",
+        "(20:17, 22:02)",
+        [
+            "Kazuza",
+            700014751
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:20, 23:59)",
+        [
+            "Baker Falls",
+            700040030
+        ]
+    ]
+]

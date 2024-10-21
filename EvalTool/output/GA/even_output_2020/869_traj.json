@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kitchen Story",
+            700002288
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:32)",
+        [
+            "Saucy Asian",
+            700003643
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 15:57)",
+        [
+            "",
+            700008326
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(16:37, 18:05)",
+        [
+            "",
+            700008313
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(18:17, 20:05)",
+        [
+            "Saucy Asian",
+            700003643
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 23:59)",
+        [
+            "",
+            700008311
+        ]
+    ]
+]

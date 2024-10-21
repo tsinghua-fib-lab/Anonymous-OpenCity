@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700021732
+        ]
+    ],
+    [
+        "next activity based on plan",
+        "(10:00, 10:55)",
+        [
+            "",
+            700021732
+        ]
+    ],
+    [
+        "Attend a virtual yoga/fitness class",
+        "(11:15, 12:05)",
+        [
+            "",
+            700021732
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:01, 14:06)",
+        [
+            "Citi Bike - East 33rd Street & 5th Avenue",
+            700008044
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(14:37, 16:29)",
+        [
+            "Citi Bike - East 33rd Street & 5th Avenue",
+            700008044
+        ]
+    ],
+    [
+        "Prepare and have dinner, followed by a relaxing evening routine.",
+        "(16:36, 17:57)",
+        [
+            "",
+            700021732
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 23:39)",
+        [
+            "Walgreens",
+            700009306
+        ]
+    ],
+    [
+        "Go to Walgreens; Prepare and have dinner.",
+        "(23:39, 23:59)",
+        [
+            "Walgreens",
+            700009306
+        ]
+    ]
+]

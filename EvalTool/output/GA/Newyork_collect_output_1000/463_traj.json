@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:57)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:42, 17:22)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(18:03, 20:10)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Prepare Dinner & Relax",
+        "(20:43, 22:13)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(23:16, 23:59)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ]
+]

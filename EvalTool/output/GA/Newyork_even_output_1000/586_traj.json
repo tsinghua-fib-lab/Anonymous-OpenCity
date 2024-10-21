@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Naya",
+            700025730
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:30)",
+        [
+            "Maman",
+            700025733
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:59, 12:55)",
+        [
+            "Maman",
+            700025733
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:25, 15:09)",
+        [
+            "Maman",
+            700025733
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:12, 19:56)",
+        [
+            "Duane Reade",
+            700025726
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:43, 23:59)",
+        [
+            "",
+            700029817
+        ]
+    ],
+    [
+        "Next activity continuing at Maman for light meals",
+        "(22:26, 23:57)",
+        [
+            "Maman",
+            700025733
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "Vesuvio",
+            700025737
+        ]
+    ]
+]

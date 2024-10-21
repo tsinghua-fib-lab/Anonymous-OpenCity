@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pure Grit BBQ",
+            700032019
+        ]
+    ],
+    [
+        "Leisure Reading or Enjoying a Podcast",
+        "(10:00, 11:33)",
+        [
+            "Pure Grit BBQ",
+            700032019
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(12:09, 13:43)",
+        [
+            "Citi Bike - Lexington Avenue & East 24th Street",
+            700008122
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 18:31)",
+        [
+            "Comodo",
+            700008463
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:15, 21:11)",
+        [
+            "Chipotle",
+            700015262
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 23:59)",
+        [
+            "Chipotle",
+            700015262
+        ]
+    ]
+]

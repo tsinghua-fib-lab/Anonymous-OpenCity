@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "La Vera Pizza",
+            700024965
+        ]
+    ],
+    [
+        "Next in the plan.",
+        "(09:00, 09:50)",
+        [
+            "Turtle Bay Chemists",
+            700013562
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:46, 12:38)",
+        [
+            "La Vera Pizza",
+            700024965
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 18:15)",
+        [
+            "",
+            700000996
+        ]
+    ],
+    [
+        "Attend cooking session for dinner preparation.",
+        "(18:09, 19:45)",
+        [
+            "La Vera Pizza",
+            700024965
+        ]
+    ],
+    [
+        "Stay at La Vera Pizza",
+        "(20:22, 21:46)",
+        [
+            "Turtle Bay Chemists",
+            700013562
+        ]
+    ],
+    [
+        "Stay at La Vera Pizza",
+        "(22:12, 23:59)",
+        [
+            "",
+            700002191
+        ]
+    ]
+]

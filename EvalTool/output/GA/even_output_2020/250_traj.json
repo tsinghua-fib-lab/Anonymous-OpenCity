@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Abe's Pizza",
+            700010166
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:58)",
+        [
+            "Abe's Pizza",
+            700010166
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(11:27, 13:34)",
+        [
+            "Brandon College",
+            700000217
+        ]
+    ],
+    [
+        "Next activity after brunch with friends",
+        "(14:05, 16:02)",
+        [
+            "",
+            700000097
+        ]
+    ],
+    [
+        "Next activity after brunch with friends",
+        "(16:50, 18:29)",
+        [
+            "Bank of America",
+            700001564
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:12, 20:41)",
+        [
+            "",
+            700000097
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 22:31)",
+        [
+            "",
+            700004896
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(22:56, 23:59)",
+        [
+            "zevi café & bistro",
+            700001565
+        ]
+    ]
+]

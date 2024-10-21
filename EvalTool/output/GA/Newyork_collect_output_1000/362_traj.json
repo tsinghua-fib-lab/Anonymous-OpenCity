@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(09:00, 10:26)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(10:43, 12:10)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Exercise",
+        "(12:45, 14:03)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "Afternoon Leisure Activities",
+        "(14:51, 16:00)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Exercise",
+        "(16:45, 18:08)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:41, 21:51)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Lunch Break at The UPS Store",
+        "(23:35, 23:59)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ]
+]

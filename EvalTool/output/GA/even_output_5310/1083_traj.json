@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Arrow Pharmacy",
+            700006117
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:25)",
+        [
+            "Masseria Caffé & Bakery",
+            700006400
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 17:01)",
+        [
+            "Birch Coffee",
+            700014364
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 19:06)",
+        [
+            "CVS Pharmacy",
+            700003464
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:38, 23:59)",
+        [
+            "Burrito Box",
+            700003874
+        ]
+    ],
+    [
+        "Stay at CityMD.",
+        "(23:05, 23:59)",
+        [
+            "",
+            700007386
+        ]
+    ]
+]

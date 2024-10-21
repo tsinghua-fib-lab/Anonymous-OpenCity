@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Shalman Dentistry",
+            700024432
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:12)",
+        [
+            "",
+            700001592
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:26, 14:13)",
+        [
+            "",
+            700002998
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a TV series",
+        "(16:01, 18:00)",
+        [
+            "",
+            700002998
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:39, 20:37)",
+        [
+            "",
+            700002618
+        ]
+    ],
+    [
+        "Have dinner and unwind with some relaxing music or a book.",
+        "(21:03, 22:24)",
+        [
+            "Shalman Dentistry",
+            700024432
+        ]
+    ],
+    [
+        "Stay at Shalman Dentistry.",
+        "(22:40, 23:59)",
+        [
+            "Shalman Dentistry",
+            700024432
+        ]
+    ]
+]

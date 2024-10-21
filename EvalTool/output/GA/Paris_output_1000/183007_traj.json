@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700057711
+        ]
+    ],
+    [
+        "Next activity after breakfast",
+        "(10:00, 11:22)",
+        [
+            "",
+            700052898
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(11:44, 13:35)",
+        [
+            "",
+            700057711
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:14, 18:47)",
+        [
+            "",
+            700052897
+        ]
+    ],
+    [
+        "Continue relaxation watching a movie or series.",
+        "(16:17, 17:56)",
+        [
+            "Chipotle",
+            700025897
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:01, 21:22)",
+        [
+            "Cheng Noodles",
+            700059139
+        ]
+    ],
+    [
+        "Next activity after relaxation",
+        "(21:20, 23:23)",
+        [
+            "Cheng Noodles",
+            700059139
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "T. Avenue",
+            700024374
+        ]
+    ]
+]

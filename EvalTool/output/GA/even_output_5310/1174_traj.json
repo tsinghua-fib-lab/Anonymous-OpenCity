@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002565
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:37)",
+        [
+            "Banzarbar",
+            700017019
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 14:19)",
+        [
+            "",
+            700026602
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 18:45)",
+        [
+            "Citi Bike - Stanton Street & Chrystie Street",
+            700008186
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:59, 21:52)",
+        [
+            "Citi Bike - Stanton Street & Chrystie Street",
+            700008186
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:26, 23:59)",
+        [
+            "Spaghetti Incident",
+            700010013
+        ]
+    ]
+]

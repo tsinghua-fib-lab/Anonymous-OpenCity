@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Sandwich",
+            700008162
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:42)",
+        [
+            "Petite Deli",
+            700002938
+        ]
+    ],
+    [
+        "Outdoor Activity / Exercise",
+        "(13:33, 15:27)",
+        [
+            "Petite Deli",
+            700002938
+        ]
+    ],
+    [
+        "Relaxation and Leisure Time",
+        "(16:11, 17:32)",
+        [
+            "Bodega Wine Bar",
+            700008569
+        ]
+    ],
+    [
+        "Gourmet Dinner Preparation",
+        "(18:04, 19:32)",
+        [
+            "Le Sandwich",
+            700008162
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:04, 21:26)",
+        [
+            "Saints Peter and Paul School",
+            700000302
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "",
+            700009110
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700025286
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:06)",
+        [
+            "",
+            700025033
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:39, 16:05)",
+        [
+            "",
+            700025286
+        ]
+    ],
+    [
+        "Watch Sports / Entertainment",
+        "(16:35, 18:57)",
+        [
+            "Il Cortile",
+            700005302
+        ]
+    ],
+    [
+        "Prepare Dinner & Wind Down",
+        "(19:24, 21:02)",
+        [
+            "Il Cortile",
+            700005302
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:50, 23:59)",
+        [
+            "Sponges Cafe",
+            700024732
+        ]
+    ]
+]

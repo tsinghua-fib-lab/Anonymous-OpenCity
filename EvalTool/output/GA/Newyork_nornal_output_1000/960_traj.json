@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700034981
+        ]
+    ],
+    [
+        "Leisure Reading or Learning Time",
+        "(09:00, 10:39)",
+        [
+            "",
+            700034981
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:34, 13:34)",
+        [
+            "",
+            700034988
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(11:58, 12:59)",
+        [
+            "",
+            700034981
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(13:58, 15:21)",
+        [
+            "Mahayana Buddhist Temple",
+            700009000
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:12, 19:42)",
+        [
+            "",
+            700023741
+        ]
+    ],
+    [
+        "Wind Down and Reflect on the Day",
+        "(19:24, 20:53)",
+        [
+            "",
+            700023662
+        ]
+    ],
+    [
+        "Wind Down and Reflect on the Day",
+        "(21:07, 22:34)",
+        [
+            "Mahayana Buddhist Temple",
+            700009000
+        ]
+    ],
+    [
+        "Wind Down and Reflect on the Day",
+        "(22:31, 23:54)",
+        [
+            "Mahayana Buddhist Temple",
+            700009000
+        ]
+    ],
+    [
+        "Wind Down and Reflect on the Day",
+        "(23:54, 23:59)",
+        [
+            "Mahayana Buddhist Temple",
+            700009000
+        ]
+    ]
+]

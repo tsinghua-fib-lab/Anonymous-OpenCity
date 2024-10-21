@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:29)",
+        [
+            "Old Bengal Bar",
+            700029330
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:54, 14:07)",
+        [
+            "Fish Market",
+            700019574
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:18, 16:08)",
+        [
+            "New Street Grill",
+            700020189
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 22:49)",
+        [
+            "Fish Market",
+            700019574
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 23:59)",
+        [
+            "",
+            700077439
+        ]
+    ],
+    [
+        "Wind Down",
+        "(23:52, 23:59)",
+        [
+            "",
+            700021238
+        ]
+    ]
+]

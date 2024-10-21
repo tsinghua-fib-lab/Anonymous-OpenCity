@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bentham Court",
+            700006926
+        ]
+    ],
+    [
+        "Reading or relaxing with a book",
+        "(10:00, 11:01)",
+        [
+            "Bentham Court",
+            700006926
+        ]
+    ],
+    [
+        "Reading or relaxing with a book",
+        "(11:56, 12:56)",
+        [
+            "Bentham Court",
+            700006926
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:15, 17:21)",
+        [
+            "Canonbury Veterinary Practice",
+            700009881
+        ]
+    ],
+    [
+        "Watch a movie or binge a TV series",
+        "(17:34, 18:58)",
+        [
+            "Bentham Court",
+            700006926
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:54, 23:58)",
+        [
+            "",
+            700018776
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "",
+            700018777
+        ]
+    ]
+]

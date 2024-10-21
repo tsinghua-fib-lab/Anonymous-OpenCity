@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001631
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:03)",
+        [
+            "",
+            700020890
+        ]
+    ],
+    [
+        "Continue with the plan",
+        "(11:22, 12:56)",
+        [
+            "Mexiterranean Grill",
+            700030631
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 17:29)",
+        [
+            "Finnegan's Wake Pub",
+            700006025
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:59, 23:33)",
+        [
+            "Oda House",
+            700030654
+        ]
+    ],
+    [
+        "Go for a morning walk/exercise",
+        "(23:33, 23:59)",
+        [
+            "",
+            700001631
+        ]
+    ]
+]

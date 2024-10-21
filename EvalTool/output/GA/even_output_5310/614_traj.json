@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - East 11th Street & Broadway",
+            700008021
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:50)",
+        [
+            "Citi Bike - East 11th Street & Broadway",
+            700008021
+        ]
+    ],
+    [
+        "Attend to Personal Projects or Hobbies",
+        "(10:12, 12:02)",
+        [
+            "Citi Bike - East 11th Street & Broadway",
+            700008021
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:12, 14:58)",
+        [
+            "Nimble Fitness",
+            700009875
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:17, 20:54)",
+        [
+            "",
+            700001531
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(21:19, 22:55)",
+        [
+            "Avis",
+            700009010
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:07, 23:59)",
+        [
+            "Ribalta Restaurant",
+            700004764
+        ]
+    ]
+]

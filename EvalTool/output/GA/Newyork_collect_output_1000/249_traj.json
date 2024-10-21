@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:19)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:38, 19:21)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "After 13 minutes, consider returning to AWOL Bar and Grill to continue the night.",
+        "(20:47, 22:03)",
+        [
+            "Malii Gramercy",
+            700023463
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 23:59)",
+        [
+            "ProHealth Pharmacy",
+            700006203
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bay Wheels",
+            700010095
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 11:10)",
+        [
+            "Bay Wheels",
+            700010095
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:03, 13:27)",
+        [
+            "Mount Vernon Missionary Baptist Church",
+            700000255
+        ]
+    ],
+    [
+        "Participate in a recreational activity.",
+        "(13:59, 15:05)",
+        [
+            "Mount Vernon Missionary Baptist Church",
+            700000255
+        ]
+    ],
+    [
+        "Participate in recreational activity.",
+        "(15:27, 17:29)",
+        [
+            "Mount Vernon Missionary Baptist Church",
+            700000255
+        ]
+    ],
+    [
+        "Stay at Laurel Heights Convalescent Hospital",
+        "(17:40, 19:17)",
+        [
+            "Sorrel",
+            700008549
+        ]
+    ],
+    [
+        "Stay at Laurel Heights Convalescent Hospital;",
+        "(20:02, 21:00)",
+        [
+            "Sorrel",
+            700008549
+        ]
+    ],
+    [
+        "Proceed to Tataki.",
+        "(21:55, 23:20)",
+        [
+            "Tataki",
+            700007726
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:39, 23:59)",
+        [
+            "Scopo Divino",
+            700003666
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mamazul Mexican Grill",
+            700004871
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 11:06)",
+        [
+            "Mamazul Mexican Grill",
+            700004871
+        ]
+    ],
+    [
+        "Current place: Mamazul Mexican Grill, staying for brunch.",
+        "(11:34, 13:08)",
+        [
+            "Mamazul Mexican Grill",
+            700004871
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:38, 17:52)",
+        [
+            "Sweetgreen",
+            700008970
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 19:56)",
+        [
+            "Dig",
+            700006287
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:07, 23:59)",
+        [
+            "Mamazul Mexican Grill",
+            700004871
+        ]
+    ]
+]

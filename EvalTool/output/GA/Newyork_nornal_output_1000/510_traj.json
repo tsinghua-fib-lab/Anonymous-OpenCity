@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sapphire",
+            700008682
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:59)",
+        [
+            "The Jeffrey Craft Beer, Coctails & Bites",
+            700010005
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:15, 15:49)",
+        [
+            "",
+            700001444
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:21, 17:52)",
+        [
+            "",
+            700001444
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:46, 23:50)",
+        [
+            "The Jeffrey Craft Beer, Coctails & Bites",
+            700010005
+        ]
+    ],
+    [
+        "Proceed to sleep.",
+        "(22:27, 23:50)",
+        [
+            "Sapphire",
+            700008682
+        ]
+    ],
+    [
+        "Engage in leisure activity.",
+        "(23:53, 23:59)",
+        [
+            "Sapphire",
+            700008682
+        ]
+    ]
+]

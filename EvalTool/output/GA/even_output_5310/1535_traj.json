@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gemini Diner",
+            700008665
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:57)",
+        [
+            "Gemini Diner",
+            700008665
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:56, 15:00)",
+        [
+            "Gemini Diner",
+            700008665
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:20, 17:10)",
+        [
+            "Gemini Diner",
+            700008665
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(17:55, 19:04)",
+        [
+            "Gemini Diner",
+            700008665
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 23:57)",
+        [
+            "Montagu's Gusto",
+            700013038
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Gemini Diner",
+            700008665
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005843
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:39)",
+        [
+            "Le Boite en Bois",
+            700020925
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:52, 13:47)",
+        [
+            "",
+            700020928
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:44, 18:00)",
+        [
+            "Joanne Trattoria",
+            700013909
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:28, 20:05)",
+        [
+            "Joanne Trattoria",
+            700013909
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 23:03)",
+        [
+            "",
+            700002084
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(23:55, 23:59)",
+        [
+            "Joanne Trattoria",
+            700013909
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030416
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:16)",
+        [
+            "",
+            700030403
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:07, 14:52)",
+        [
+            "",
+            700030402
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(16:10, 18:15)",
+        [
+            "Café Olympia",
+            700039244
+        ]
+    ],
+    [
+        "Attend a Sports Event or Play Sports",
+        "(18:06, 19:26)",
+        [
+            "Café Olympia",
+            700039244
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:13, 23:59)",
+        [
+            "",
+            700039238
+        ]
+    ]
+]

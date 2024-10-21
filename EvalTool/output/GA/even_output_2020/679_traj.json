@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Market Street",
+            700003154
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:03)",
+        [
+            "Starbucks",
+            700001607
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:34, 17:48)",
+        [
+            "Andersen Bakery",
+            700002365
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 22:51)",
+        [
+            "Market Street Gyros",
+            700001605
+        ]
+    ]
+]

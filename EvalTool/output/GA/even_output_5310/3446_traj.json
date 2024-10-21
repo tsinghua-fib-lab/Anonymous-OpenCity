@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chase",
+            700005777
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:26)",
+        [
+            "The Long Pour",
+            700024690
+        ]
+    ],
+    [
+        "Household Chores/Errands",
+        "(12:18, 13:54)",
+        [
+            "The Long Pour",
+            700024690
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:08, 20:06)",
+        [
+            "787 Coffee",
+            700015588
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:40, 21:24)",
+        [
+            "The Long Pour",
+            700024690
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "787 Coffee",
+            700015588
+        ]
+    ]
+]

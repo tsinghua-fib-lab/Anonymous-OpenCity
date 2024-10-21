@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Stanton Street & Chrystie Street",
+            700008186
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:00, 11:35)",
+        [
+            "Freemans",
+            700003258
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:08, 16:18)",
+        [
+            "",
+            700002565
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 17:18)",
+        [
+            "The Box",
+            700017480
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:57, 23:29)",
+        [
+            "",
+            700021921
+        ]
+    ],
+    [
+        "Dinner Preparation/Cooking",
+        "(19:21, 20:06)",
+        [
+            "Citi Bike - Stanton Street & Chrystie Street",
+            700008186
+        ]
+    ],
+    [
+        "Dinner Preparation/Cooking",
+        "(20:29, 21:52)",
+        [
+            "",
+            700021921
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:50, 23:59)",
+        [
+            "Freemans",
+            700003258
+        ]
+    ]
+]

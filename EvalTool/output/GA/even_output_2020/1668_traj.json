@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Za Pizza",
+            700001591
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:35)",
+        [
+            "Lemongrass",
+            700002090
+        ]
+    ],
+    [
+        "Relaxation/Entertainment",
+        "(14:38, 15:59)",
+        [
+            "Lemongrass",
+            700002090
+        ]
+    ],
+    [
+        "Cooking and Preparing Dinner",
+        "(16:22, 18:24)",
+        [
+            "Lemongrass",
+            700002090
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:15, 20:38)",
+        [
+            "La Folie",
+            700002089
+        ]
+    ],
+    [
+        "Next Arrangements: Go to Lemongrass",
+        "(20:14, 21:52)",
+        [
+            "Lemongrass",
+            700002090
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:31, 23:59)",
+        [
+            "",
+            700000645
+        ]
+    ]
+]

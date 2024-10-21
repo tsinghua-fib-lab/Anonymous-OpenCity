@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ohm Center",
+            700036807
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 11:09)",
+        [
+            "Ohm Center",
+            700036807
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:49, 16:41)",
+        [
+            "Merchants Cigar Bar",
+            700006521
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 16:33)",
+        [
+            "Treadwell Park",
+            700007620
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 22:34)",
+        [
+            "Citi Bike - 1st Avenue & East 62nd Street",
+            700021683
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 23:59)",
+        [
+            "",
+            700019504
+        ]
+    ],
+    [
+        "Stay at City Hops",
+        "(23:45, 23:59)",
+        [
+            "Baker Street Pub",
+            700009362
+        ]
+    ]
+]

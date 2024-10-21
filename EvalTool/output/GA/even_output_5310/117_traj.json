@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ninth Street Espresso",
+            700005872
+        ]
+    ],
+    [
+        "Go for a Walk or Light Exercise",
+        "(09:00, 10:03)",
+        [
+            "Ninth Street Espresso",
+            700005872
+        ]
+    ],
+    [
+        "Next activity",
+        "(10:12, 12:00)",
+        [
+            "Ninth Street Espresso",
+            700005872
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:27, 14:22)",
+        [
+            "Café Olympia",
+            700039244
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(15:53, 17:01)",
+        [
+            "Ninth Street Espresso",
+            700005872
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(17:08, 18:45)",
+        [
+            "Ninth Street Espresso",
+            700005872
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(19:10, 20:39)",
+        [
+            "Ninth Street Espresso",
+            700005872
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:55, 23:59)",
+        [
+            "",
+            700039240
+        ]
+    ]
+]

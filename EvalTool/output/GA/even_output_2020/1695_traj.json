@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009933
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:34)",
+        [
+            "",
+            700009933
+        ]
+    ],
+    [
+        "Catch Up on Personal Projects or Hobbies",
+        "(11:02, 13:55)",
+        [
+            "",
+            700009933
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:43, 16:35)",
+        [
+            "Sun Kwong Restaurant",
+            700005184
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(18:00, 19:31)",
+        [
+            "Sun Kwong Restaurant",
+            700005184
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(19:40, 21:53)",
+        [
+            "",
+            700009933
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(22:24, 23:44)",
+        [
+            "Cafe Nook",
+            700001590
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(23:50, 23:59)",
+        [
+            "Cafe Nook",
+            700001590
+        ]
+    ]
+]

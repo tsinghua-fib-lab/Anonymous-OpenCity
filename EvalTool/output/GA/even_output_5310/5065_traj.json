@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "refinery rooftop",
+            700016165
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:49)",
+        [
+            "iPark",
+            700013499
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:55, 17:16)",
+        [
+            "",
+            700002357
+        ]
+    ],
+    [
+        "Outdoor Time",
+        "(17:12, 19:07)",
+        [
+            "Pizza Town",
+            700040294
+        ]
+    ],
+    [
+        "Dinner and Prepare for the Week",
+        "(19:35, 21:00)",
+        [
+            "Pizza Town",
+            700040294
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(22:03, 23:59)",
+        [
+            "Pizza Town",
+            700040294
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(23:54, 23:59)",
+        [
+            "Pizza Town",
+            700040294
+        ]
+    ]
+]

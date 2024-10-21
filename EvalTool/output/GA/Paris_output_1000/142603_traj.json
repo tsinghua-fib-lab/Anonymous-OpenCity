@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Joe & The Juice",
+            700071603
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:55)",
+        [
+            "Pomme de Pain",
+            700007411
+        ]
+    ],
+    [
+        "Sport or Outdoor Activity",
+        "(14:40, 16:00)",
+        [
+            "Pomme de Pain",
+            700007411
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:03, 20:37)",
+        [
+            "",
+            700007418
+        ]
+    ],
+    [
+        "Evening Socializing or Game Night",
+        "(20:44, 23:17)",
+        [
+            "Joe & The Juice",
+            700071603
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:39, 23:59)",
+        [
+            "Pharmacie Carré Opéra",
+            700010239
+        ]
+    ]
+]

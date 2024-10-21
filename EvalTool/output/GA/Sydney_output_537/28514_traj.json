@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700002025
+        ]
+    ],
+    [
+        "Leisure Reading or Relaxation",
+        "(10:00, 11:02)",
+        [
+            "",
+            700002037
+        ]
+    ],
+    [
+        "Leisure Reading or Relaxation",
+        "(11:39, 13:07)",
+        [
+            "Starbucks",
+            700002025
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 19:39)",
+        [
+            "",
+            700031314
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 22:25)",
+        [
+            "",
+            700031314
+        ]
+    ],
+    [
+        "Leisure Reading or Relaxation",
+        "(23:19, 23:59)",
+        [
+            "Palace Hotel",
+            700006424
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020599
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:29)",
+        [
+            "",
+            700020825
+        ]
+    ],
+    [
+        "Current place: unknown, stay until 2:00 PM for lunch",
+        "(12:39, 14:49)",
+        [
+            "Keys & Heels",
+            700023405
+        ]
+    ],
+    [
+        "Stay until 2:00 PM",
+        "(15:33, 17:39)",
+        [
+            "Keys & Heels",
+            700023405
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:49, 23:50)",
+        [
+            "",
+            700001478
+        ]
+    ],
+    [
+        "Stay at Salma until dinner.",
+        "(20:49, 22:41)",
+        [
+            "",
+            700020598
+        ]
+    ],
+    [
+        "Stay at 11th Street Bar for drinks.",
+        "(22:41, 23:59)",
+        [
+            "",
+            700020598
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - West 49th Street & 8th Avenue",
+            700008228
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:20)",
+        [
+            "Sombrero",
+            700009839
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:27, 17:16)",
+        [
+            "Churrascaria Plataforma",
+            700006382
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:28, 21:40)",
+        [
+            "Public School 212",
+            700000296
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:48, 23:59)",
+        [
+            "Public School 212",
+            700000296
+        ]
+    ]
+]

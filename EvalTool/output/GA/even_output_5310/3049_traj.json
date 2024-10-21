@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 20th Street & 2nd Avenue",
+            700008033
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:34)",
+        [
+            "Posto",
+            700006194
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:32, 17:22)",
+        [
+            "Posto",
+            700006194
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:40, 18:56)",
+        [
+            "Posto",
+            700006194
+        ]
+    ],
+    [
+        "Social Time",
+        "(19:38, 21:05)",
+        [
+            "Posto",
+            700006194
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:55, 23:59)",
+        [
+            "Gotham Animal Clinic",
+            700006187
+        ]
+    ]
+]

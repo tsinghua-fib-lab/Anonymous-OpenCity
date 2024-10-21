@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bay Wheels",
+            700009619
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(10:00, 11:12)",
+        [
+            "Opa Cafe",
+            700005180
+        ]
+    ],
+    [
+        "Relax at Opa Cafe",
+        "(12:02, 13:31)",
+        [
+            "Opa Cafe",
+            700005180
+        ]
+    ],
+    [
+        "Relax at Zazang Korean Noodles",
+        "(14:25, 15:33)",
+        [
+            "",
+            700010751
+        ]
+    ],
+    [
+        "Relax at Opa Cafe",
+        "(16:10, 18:15)",
+        [
+            "My Father’s Kitchen",
+            700004903
+        ]
+    ],
+    [
+        "Dinner at a nice restaurant",
+        "(19:01, 20:30)",
+        [
+            "My Father’s Kitchen",
+            700004903
+        ]
+    ],
+    [
+        "Relax at Opa Cafe",
+        "(21:02, 23:11)",
+        [
+            "Opa Cafe",
+            700005180
+        ]
+    ],
+    [
+        "Relax at Opa Cafe",
+        "(22:34, 23:58)",
+        [
+            "Opa Cafe",
+            700005180
+        ]
+    ]
+]

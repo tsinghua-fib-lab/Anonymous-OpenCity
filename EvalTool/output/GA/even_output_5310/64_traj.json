@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Adyar Ananda Bhavan",
+            700039314
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:04)",
+        [
+            "Adyar Ananda Bhavan",
+            700039314
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:56, 15:49)",
+        [
+            "Sushi Ginza",
+            700006518
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:04, 18:08)",
+        [
+            "Sutton Bar Room",
+            700011531
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 23:56)",
+        [
+            "Au Za'atar",
+            700011621
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "",
+            700010702
+        ]
+    ]
+]

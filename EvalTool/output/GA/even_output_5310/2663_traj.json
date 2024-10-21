@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700017136
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(09:00, 10:29)",
+        [
+            "",
+            700002743
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:36, 11:57)",
+        [
+            "Morton's The Steakhouse",
+            700013323
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 17:45)",
+        [
+            "",
+            700000767
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:56, 16:27)",
+        [
+            "",
+            700000767
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:25, 18:19)",
+        [
+            "Wolfgang's Steakhouse",
+            700008939
+        ]
+    ],
+    [
+        "Stay at Morton's The Steakhouse",
+        "(22:35, 23:59)",
+        [
+            "",
+            700001409
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Connolly's",
+            700003541
+        ]
+    ]
+]

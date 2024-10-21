@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001376
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:39)",
+        [
+            "Inase",
+            700024256
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:57, 13:00)",
+        [
+            "Coffee Shop",
+            700041023
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:43, 15:05)",
+        [
+            "Inase",
+            700024256
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:44, 17:06)",
+        [
+            "Inase",
+            700024256
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:46, 22:48)",
+        [
+            "",
+            700001459
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:23, 22:35)",
+        [
+            "Ralph's Italian Ices",
+            700024259
+        ]
+    ],
+    [
+        "Stay at Inase",
+        "(22:44, 23:51)",
+        [
+            "Inase",
+            700024256
+        ]
+    ]
+]

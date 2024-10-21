@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:52)",
+        [
+            "Moira",
+            700038914
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(12:57, 14:03)",
+        [
+            "",
+            700049662
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:44, 16:20)",
+        [
+            "Hazev Restaurant",
+            700014800
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:20, 22:43)",
+        [
+            "Bengal Quay",
+            700032410
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "Hazev Restaurant",
+            700014800
+        ]
+    ]
+]

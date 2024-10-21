@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "McDonald's",
+            700006066
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:02)",
+        [
+            "Victor Hugo - Pompe",
+            700003956
+        ]
+    ],
+    [
+        "Outdoor Activities or Sports",
+        "(12:33, 14:33)",
+        [
+            "Victor Hugo - Pompe",
+            700003956
+        ]
+    ],
+    [
+        "Outdoor Activities or Sports",
+        "(14:57, 16:29)",
+        [
+            "Victor Hugo - Pompe",
+            700003956
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:20, 19:05)",
+        [
+            "Victor Hugo - Pompe",
+            700003956
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:59, 23:59)",
+        [
+            "Pharmacie Homéopathique Centrale",
+            700006053
+        ]
+    ],
+    [
+        "Next outdoor activity",
+        "(21:04, 22:43)",
+        [
+            "Pharmacie Homéopathique Centrale",
+            700006053
+        ]
+    ],
+    [
+        "Next outdoor activity",
+        "(23:20, 23:59)",
+        [
+            "Pharmacie Homéopathique Centrale",
+            700006053
+        ]
+    ]
+]

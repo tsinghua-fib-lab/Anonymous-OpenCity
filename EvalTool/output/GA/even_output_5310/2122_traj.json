@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005843
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:51)",
+        [
+            "The Leopard at des Artistes",
+            700017538
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 17:31)",
+        [
+            "Rabbi Edward E. Klein Memorial Library",
+            700000551
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:21, 16:04)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:56, 18:19)",
+        [
+            "Starbucks",
+            700020924
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:28, 21:06)",
+        [
+            "",
+            700005843
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:05, 22:20)",
+        [
+            "",
+            700002665
+        ]
+    ],
+    [
+        "Go to Sweetgreen for a light dinner.",
+        "(22:35, 23:43)",
+        [
+            "Sweetgreen",
+            700020927
+        ]
+    ],
+    [
+        "Go to Sweetgreen",
+        "(23:46, 23:59)",
+        [
+            "Sweetgreen",
+            700020927
+        ]
+    ]
+]

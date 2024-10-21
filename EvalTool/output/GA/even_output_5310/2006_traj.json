@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "USPS",
+            700005990
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:02)",
+        [
+            "",
+            700002252
+        ]
+    ],
+    [
+        "Stay at USPS and complete the plan until 1:00 PM.",
+        "(11:28, 12:55)",
+        [
+            "USPS",
+            700005990
+        ]
+    ],
+    [
+        "Decide to stay at USPS until 1 PM",
+        "(13:19, 15:10)",
+        [
+            "USPS",
+            700005990
+        ]
+    ],
+    [
+        "Continue the plan at USPS.",
+        "(15:46, 17:37)",
+        [
+            "USPS",
+            700005990
+        ]
+    ],
+    [
+        "Continue to hobby time.",
+        "(18:27, 19:57)",
+        [
+            "",
+            700002792
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 23:18)",
+        [
+            "Noz Market",
+            700019736
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "Eli's Night Shift",
+            700019740
+        ]
+    ]
+]

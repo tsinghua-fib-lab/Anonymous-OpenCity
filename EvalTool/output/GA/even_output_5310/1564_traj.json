@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - 10 Av / W 14 St @ The High Line",
+            700008199
+        ]
+    ],
+    [
+        "Go for a morning walk or jog in a nearby park.",
+        "(09:00, 09:57)",
+        [
+            "",
+            700024194
+        ]
+    ],
+    [
+        "Read a book or catch up on a favorite podcast.",
+        "(11:00, 12:10)",
+        [
+            "L'Atelier de Joël Robuchon",
+            700019588
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:39, 17:29)",
+        [
+            "",
+            700031466
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:54, 19:26)",
+        [
+            "Chelsea Market Passage",
+            700007255
+        ]
+    ],
+    [
+        "Current place and stay time after reading at L'Atelier de Joël Robuchon.",
+        "(22:16, 23:59)",
+        [
+            "",
+            700024197
+        ]
+    ],
+    [
+        "Current place and stay time after visiting Citi Bike.",
+        "(23:55, 23:59)",
+        [
+            "Citi Bike - 10 Av / W 14 St @ The High Line",
+            700008199
+        ]
+    ]
+]

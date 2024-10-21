@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "11 Tigers",
+            700027010
+        ]
+    ],
+    [
+        "Wake Up and Leisurely Breakfast",
+        "(10:00, 12:02)",
+        [
+            "Citi Bike - East 14th Street & Avenue B",
+            700008024
+        ]
+    ],
+    [
+        "Wake Up and Leisurely Breakfast",
+        "(12:32, 14:09)",
+        [
+            "Citi Bike - East 14th Street & Avenue B",
+            700008024
+        ]
+    ],
+    [
+        "At current location until dinner preparation",
+        "(15:01, 15:01)",
+        [
+            "ReVision Lounge and Gallery",
+            700012155
+        ]
+    ],
+    [
+        "Relax and Watch a Movie",
+        "(17:25, 19:00)",
+        [
+            "Hibachi Express",
+            700018144
+        ]
+    ],
+    [
+        "Relax and Watch a Movie",
+        "(19:27, 21:30)",
+        [
+            "Hibachi Express",
+            700018144
+        ]
+    ],
+    [
+        "Relax and Watch a Movie",
+        "(20:54, 22:24)",
+        [
+            "Santa Barbara Deli",
+            700012363
+        ]
+    ],
+    [
+        "Next activity after dinner preparation.",
+        "(23:09, 23:59)",
+        [
+            "Eleven B",
+            700032000
+        ]
+    ]
+]

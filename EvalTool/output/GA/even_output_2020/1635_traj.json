@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700012821
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:00)",
+        [
+            "Bay Wheels",
+            700014244
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(11:02, 13:00)",
+        [
+            "Bay Wheels",
+            700014244
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(13:20, 14:18)",
+        [
+            "Bay Wheels",
+            700014244
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:29, 16:05)",
+        [
+            "Bay Wheels",
+            700014244
+        ]
+    ],
+    [
+        "Engage in a leisure activity.",
+        "(16:24, 18:02)",
+        [
+            "Bay Wheels",
+            700014244
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:16, 22:25)",
+        [
+            "",
+            700012016
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "",
+            700008371
+        ]
+    ]
+]

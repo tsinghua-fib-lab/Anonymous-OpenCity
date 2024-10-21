@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Yummy BBQ Kitchen",
+            700002024
+        ]
+    ],
+    [
+        "Current place: Yummy BBQ Kitchen. Stay time: 1 hour.",
+        "(10:00, 10:52)",
+        [
+            "Café Broadway",
+            700002027
+        ]
+    ],
+    [
+        "Go to Café Broadway for lunch.",
+        "(11:57, 13:18)",
+        [
+            "Café Broadway",
+            700002027
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:36, 15:03)",
+        [
+            "Café Broadway",
+            700002027
+        ]
+    ],
+    [
+        "Participate in a recreational activity.",
+        "(15:45, 17:25)",
+        [
+            "",
+            700008513
+        ]
+    ],
+    [
+        "Cultural activity.",
+        "(17:31, 18:50)",
+        [
+            "Café Broadway",
+            700002027
+        ]
+    ],
+    [
+        "Next activity: Cultural activity.",
+        "(19:29, 21:38)",
+        [
+            "Dim Sum Bistro",
+            700002026
+        ]
+    ],
+    [
+        "Dining at Dim Sum Bistro after cultural appreciation activity.",
+        "(21:47, 23:06)",
+        [
+            "Dim Sum Bistro",
+            700002026
+        ]
+    ],
+    [
+        "You will stay at Café Broadway.",
+        "(23:46, 23:59)",
+        [
+            "Café Broadway",
+            700002027
+        ]
+    ]
+]

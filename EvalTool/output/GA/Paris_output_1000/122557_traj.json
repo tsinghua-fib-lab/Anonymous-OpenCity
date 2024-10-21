@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "MNcu01",
+            700035390
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:20)",
+        [
+            "Bistrot des Puces",
+            700072633
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:25, 18:06)",
+        [
+            "Au Roi du Café",
+            700015050
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:58, 17:14)",
+        [
+            "Bistrot des Puces",
+            700072633
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:14, 23:59)",
+        [
+            "Le Relais des Brocs",
+            700032814
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "MLec01",
+            700035391
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Noodies Thai Kitchen",
+            700017503
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:27)",
+        [
+            "",
+            700007387
+        ]
+    ],
+    [
+        "Moving to next activity.",
+        "(12:33, 14:28)",
+        [
+            "Citi Bike - West 54th Street & 9th Avenue",
+            700008234
+        ]
+    ],
+    [
+        "stay at current place",
+        "(14:35, 16:15)",
+        [
+            "Citi Bike - West 54th Street & 9th Avenue",
+            700008234
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:46, 19:29)",
+        [
+            "Citi Bike - West 54th Street & 9th Avenue",
+            700008234
+        ]
+    ],
+    [
+        "Current place: Chong Qing Noodle",
+        "(21:42, 23:11)",
+        [
+            "Chong Qing Noodle",
+            700021404
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "",
+            700021421
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030117
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:36)",
+        [
+            "Greenport Cafe",
+            700040590
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:25, 12:59)",
+        [
+            "Greenport Cafe",
+            700040590
+        ]
+    ],
+    [
+        "Engage in a hobby or TV shows.",
+        "(13:17, 14:46)",
+        [
+            "Greenport Cafe",
+            700040590
+        ]
+    ],
+    [
+        "Hobby or TV Shows",
+        "(15:39, 18:00)",
+        [
+            "Greenport Cafe",
+            700040590
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 20:12)",
+        [
+            "Greenport Cafe",
+            700040590
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 23:59)",
+        [
+            "",
+            700030119
+        ]
+    ],
+    [
+        "Stay at Greenport Cafe",
+        "(23:46, 23:59)",
+        [
+            "Greenport Cafe",
+            700040590
+        ]
+    ]
+]

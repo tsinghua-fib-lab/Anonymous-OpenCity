@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Centre médico-dentaire",
+            700000968
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:47)",
+        [
+            "MaxxxTIME",
+            700043163
+        ]
+    ],
+    [
+        "Start leisure time after brunch",
+        "(14:25, 15:56)",
+        [
+            "Centre médico-dentaire",
+            700000968
+        ]
+    ],
+    [
+        "Continue leisure time",
+        "(16:17, 18:01)",
+        [
+            "Centre médico-dentaire",
+            700000968
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:40, 19:55)",
+        [
+            "MaxxxTIME",
+            700043163
+        ]
+    ],
+    [
+        "Go to MaxxxTIME and wind down.",
+        "(20:39, 22:05)",
+        [
+            "MaxxxTIME",
+            700043163
+        ]
+    ],
+    [
+        "Stay at L'idéal Bar for leisure.",
+        "(22:53, 23:59)",
+        [
+            "",
+            700072896
+        ]
+    ]
+]

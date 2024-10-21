@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Marsh",
+            700003562
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:31)",
+        [
+            "Ritual Coffee Roasters",
+            700000819
+        ]
+    ],
+    [
+        "Participate in a hobby or interest",
+        "(14:23, 16:05)",
+        [
+            "Ritual Coffee Roasters",
+            700000819
+        ]
+    ],
+    [
+        "Participate in a hobby or interest",
+        "(16:15, 17:59)",
+        [
+            "Ritual Coffee Roasters",
+            700000819
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:08, 19:13)",
+        [
+            "Mission Picnic",
+            700005604
+        ]
+    ],
+    [
+        "go",
+        "(23:51, 23:59)",
+        [
+            "Mission Picnic",
+            700005604
+        ]
+    ]
+]

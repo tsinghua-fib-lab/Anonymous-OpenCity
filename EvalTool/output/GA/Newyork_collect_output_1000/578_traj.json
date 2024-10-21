@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:56)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(11:03, 13:09)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Afternoon Outing",
+        "(13:50, 15:43)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:30, 21:26)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(21:33, 23:11)",
+        [
+            "Dunkin'",
+            700024685
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(23:09, 23:59)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Match 65",
+            700010063
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:48)",
+        [
+            "Avena",
+            700019745
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:28, 13:04)",
+        [
+            "Dominican Academy",
+            700000281
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 19:23)",
+        [
+            "Dominican Academy",
+            700000281
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:02, 18:01)",
+        [
+            "Citi Bike - East 66th Street & Madison Avenue",
+            700010152
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:58, 23:07)",
+        [
+            "Match 65",
+            700010063
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:34, 23:59)",
+        [
+            "Avena",
+            700019745
+        ]
+    ]
+]

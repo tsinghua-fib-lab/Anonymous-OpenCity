@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Greenwich Street & N Moore Street",
+            700008091
+        ]
+    ],
+    [
+        "Go for a walk or jog in the park",
+        "(09:00, 10:02)",
+        [
+            "",
+            700036930
+        ]
+    ],
+    [
+        "Reading or catching up on a hobby",
+        "(10:22, 11:24)",
+        [
+            "Citi Bike - Greenwich Street & N Moore Street",
+            700008091
+        ]
+    ],
+    [
+        "Reading or catching up on a hobby",
+        "(11:48, 12:57)",
+        [
+            "Citi Bike - Greenwich Street & N Moore Street",
+            700008091
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 16:42)",
+        [
+            "",
+            700019655
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:34, 22:10)",
+        [
+            "",
+            700037170
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 23:45)",
+        [
+            "",
+            700037170
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "",
+            700036922
+        ]
+    ]
+]

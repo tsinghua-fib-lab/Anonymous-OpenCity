@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700006477
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:04)",
+        [
+            "Hunan Village",
+            700016933
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:11, 16:34)",
+        [
+            "Kokage",
+            700016938
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:38, 20:37)",
+        [
+            "Kaijitsu",
+            700010022
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "Wokuni",
+            700014115
+        ]
+    ]
+]

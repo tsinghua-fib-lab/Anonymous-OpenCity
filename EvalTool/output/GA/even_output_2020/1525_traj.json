@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mochica",
+            700000863
+        ]
+    ],
+    [
+        "Morning exercise",
+        "(09:00, 10:03)",
+        [
+            "Papito",
+            700002766
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:30, 15:26)",
+        [
+            "Chatz",
+            700001245
+        ]
+    ],
+    [
+        "Leisure reading or hobbies",
+        "(11:59, 14:00)",
+        [
+            "Chatz",
+            700001245
+        ]
+    ],
+    [
+        "Afternoon entertainment",
+        "(14:22, 16:54)",
+        [
+            "Chatz",
+            700001245
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:28, 18:46)",
+        [
+            "Ruby Wine",
+            700005786
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:48, 22:59)",
+        [
+            "Saint Teresa Catholic Church",
+            700000301
+        ]
+    ]
+]

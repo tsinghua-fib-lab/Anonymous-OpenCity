@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Regent's Park Estate",
+            700006201
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:02)",
+        [
+            "",
+            700075377
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:50, 17:07)",
+        [
+            "Albany Street Police Station",
+            700002925
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(17:48, 19:02)",
+        [
+            "",
+            700075377
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:31, 21:03)",
+        [
+            "",
+            700075382
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(22:02, 23:32)",
+        [
+            "Regent's Park Estate",
+            700006201
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(23:22, 23:59)",
+        [
+            "",
+            700075342
+        ]
+    ]
+]

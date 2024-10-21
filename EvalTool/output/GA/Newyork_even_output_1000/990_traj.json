@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Pita Grill",
+            700011530
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(09:00, 10:00)",
+        [
+            "The Pita Grill",
+            700011530
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:03, 12:08)",
+        [
+            "The Pita Grill",
+            700011530
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 17:10)",
+        [
+            "The Blasket",
+            700031417
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:53, 22:35)",
+        [
+            "Chola Coastal Indian Cuisine",
+            700030622
+        ]
+    ],
+    [
+        "Prepare Dinner & Relax",
+        "(23:06, 23:59)",
+        [
+            "The Pita Grill",
+            700011530
+        ]
+    ]
+]

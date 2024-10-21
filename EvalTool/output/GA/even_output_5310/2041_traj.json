@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:22)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "Stay at Chapin School.",
+        "(12:18, 13:21)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:00, 17:51)",
+        [
+            "",
+            700021645
+        ]
+    ],
+    [
+        "Stay at Chapin School.",
+        "(21:15, 23:18)",
+        [
+            "",
+            700021632
+        ]
+    ],
+    [
+        "Stay at Chapin School.",
+        "(23:10, 23:59)",
+        [
+            "Chapin School",
+            700007379
+        ]
+    ]
+]

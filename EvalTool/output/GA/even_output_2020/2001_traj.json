@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Salvation Army Ray and Joan Kroc Corps Community Center",
+            700013868
+        ]
+    ],
+    [
+        "Have breakfast",
+        "(10:00, 11:07)",
+        [
+            "Halal Spot",
+            700010117
+        ]
+    ],
+    [
+        "Next is lunch at a favorite restaurant.",
+        "(11:30, 12:28)",
+        [
+            "",
+            700008357
+        ]
+    ],
+    [
+        "Have lunch at a favorite restaurant",
+        "(12:29, 13:51)",
+        [
+            "Tú Lan",
+            700000452
+        ]
+    ],
+    [
+        "Go shopping or attend a local market.",
+        "(15:00, 16:33)",
+        [
+            "The Rumpus Room",
+            700004676
+        ]
+    ],
+    [
+        "Go to The Rumpus Room for shopping",
+        "(17:04, 18:36)",
+        [
+            "The Rumpus Room",
+            700004676
+        ]
+    ],
+    [
+        "Stay at home until dinner.",
+        "(19:43, 21:02)",
+        [
+            "The Salvation Army Ray and Joan Kroc Corps Community Center",
+            700013868
+        ]
+    ],
+    [
+        "Go to The Salvation Army Ray and Joan Kroc Corps Community Center",
+        "(21:57, 22:52)",
+        [
+            "The Salvation Army Ray and Joan Kroc Corps Community Center",
+            700013868
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "Compass Children's Center",
+            700013883
+        ]
+    ]
+]

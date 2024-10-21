@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030398
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:49)",
+        [
+            "",
+            700030398
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:58, 13:02)",
+        [
+            "",
+            700030441
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:52, 18:25)",
+        [
+            "",
+            700030404
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(15:56, 17:47)",
+        [
+            "Chama Mama",
+            700023404
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(17:37, 19:05)",
+        [
+            "Chama Mama",
+            700023404
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:44, 21:18)",
+        [
+            "",
+            700020097
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(21:13, 22:50)",
+        [
+            "Chama Mama",
+            700023404
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(22:52, 23:59)",
+        [
+            "Chama Mama",
+            700023404
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Willows",
+            700003301
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:25)",
+        [
+            "V Cafe",
+            700005049
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:42, 12:58)",
+        [
+            "V Cafe",
+            700005049
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 16:35)",
+        [
+            "Folsom Street Foundry",
+            700013984
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:23, 20:19)",
+        [
+            "Basil Canteen",
+            700003302
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:20, 23:59)",
+        [
+            "Garage Cafe",
+            700005050
+        ]
+    ]
+]

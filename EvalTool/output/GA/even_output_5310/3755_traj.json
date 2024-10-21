@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Lillie's",
+            700011157
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:12)",
+        [
+            "Union Fare",
+            700011153
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:23, 14:03)",
+        [
+            "Chloe's Soft Serve Fruit Co.",
+            700007304
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:54, 19:10)",
+        [
+            "Potbelly",
+            700019071
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:38, 20:45)",
+        [
+            "Pret A Manger",
+            700004128
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:32, 23:59)",
+        [
+            "Juice Generation",
+            700016868
+        ]
+    ]
+]

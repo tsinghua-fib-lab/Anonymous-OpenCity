@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "USPS",
+            700006043
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:55)",
+        [
+            "Chabad of Upper East Side",
+            700007375
+        ]
+    ],
+    [
+        "Lunch and Relaxation",
+        "(11:38, 13:06)",
+        [
+            "Chabad of Upper East Side",
+            700007375
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:44, 16:09)",
+        [
+            "Chabad of Upper East Side",
+            700007375
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(17:07, 19:08)",
+        [
+            "Chabad of Upper East Side",
+            700007375
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:22, 22:05)",
+        [
+            "",
+            700003190
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:42, 23:59)",
+        [
+            "Chabad of Upper East Side",
+            700007375
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011411
+        ]
+    ],
+    [
+        "Leisure Activity/Outdoor Time",
+        "(10:00, 11:52)",
+        [
+            "Citi Bike",
+            700039222
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:23, 13:54)",
+        [
+            "Smile Direct Club",
+            700006529
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(17:21, 19:10)",
+        [
+            "Smile Direct Club",
+            700006529
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:11, 23:59)",
+        [
+            "",
+            700001415
+        ]
+    ],
+    [
+        "Relaxation: Reading/TV or Movies",
+        "(23:14, 23:59)",
+        [
+            "Upper East Café",
+            700013256
+        ]
+    ]
+]

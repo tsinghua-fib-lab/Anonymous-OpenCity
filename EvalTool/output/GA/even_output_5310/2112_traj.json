@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 11:08)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 17:32)",
+        [
+            "Il Violino",
+            700005036
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:21, 16:15)",
+        [
+            "Il Violino",
+            700005036
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:56, 22:22)",
+        [
+            "AMC Loews Lincoln Square 13",
+            700000474
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:28, 20:51)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:05, 23:59)",
+        [
+            "The Migrant Kitchen",
+            700016762
+        ]
+    ],
+    [
+        "Go to The Migrant Kitchen for a late-night snack.",
+        "(22:35, 23:52)",
+        [
+            "The Migrant Kitchen",
+            700016762
+        ]
+    ],
+    [
+        "Go to The Migrant Kitchen",
+        "(23:46, 23:59)",
+        [
+            "The Migrant Kitchen",
+            700016762
+        ]
+    ]
+]

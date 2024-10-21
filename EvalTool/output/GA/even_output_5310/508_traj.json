@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Deep Indian Kitchen",
+            700009722
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 10:54)",
+        [
+            "Deep Indian Kitchen",
+            700009722
+        ]
+    ],
+    [
+        "You are currently at Deep Indian Kitchen.",
+        "(11:03, 12:03)",
+        [
+            "",
+            700002610
+        ]
+    ],
+    [
+        "Go for a relaxing walk in a local park.",
+        "(12:36, 13:57)",
+        [
+            "Bread & Honey",
+            700009213
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 17:19)",
+        [
+            "Starbucks",
+            700006626
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 20:06)",
+        [
+            "",
+            700002610
+        ]
+    ],
+    [
+        "Stay at Deep Indian Kitchen",
+        "(20:18, 22:05)",
+        [
+            "Nocello",
+            700007287
+        ]
+    ],
+    [
+        "Stay at Deep Indian Kitchen.",
+        "(22:48, 23:43)",
+        [
+            "Deep Indian Kitchen",
+            700009722
+        ]
+    ],
+    [
+        "Stay at Deep Indian Kitchen.",
+        "(23:43, 23:59)",
+        [
+            "Deep Indian Kitchen",
+            700009722
+        ]
+    ]
+]

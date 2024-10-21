@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001372
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:25)",
+        [
+            "",
+            700021988
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(11:12, 12:35)",
+        [
+            "",
+            700001372
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(12:40, 13:52)",
+        [
+            "Nuyorican Poets Cafe",
+            700030182
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:05, 15:18)",
+        [
+            "Poco",
+            700008391
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:41, 20:56)",
+        [
+            "The Hairy Lemon",
+            700021518
+        ]
+    ]
+]

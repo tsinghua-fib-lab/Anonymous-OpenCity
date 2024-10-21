@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005093
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:51)",
+        [
+            "The Center SF Tea House",
+            700004695
+        ]
+    ],
+    [
+        "Spend the afternoon reading or catching up on a hobby",
+        "(14:23, 15:48)",
+        [
+            "First Friendship Institutional Baptist Church",
+            700000287
+        ]
+    ],
+    [
+        "Spend the afternoon reading or catching up on a hobby",
+        "(16:54, 17:51)",
+        [
+            "The Center SF Tea House",
+            700004695
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 20:16)",
+        [
+            "",
+            700005488
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:04, 23:59)",
+        [
+            "Seniore's Pizza",
+            700005489
+        ]
+    ]
+]

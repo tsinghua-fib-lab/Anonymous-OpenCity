@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:02)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:00, 12:02)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 13:22)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Next activity is Dinner and Movie Night at Home",
+        "(18:05, 21:57)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:13, 23:28)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ]
+]

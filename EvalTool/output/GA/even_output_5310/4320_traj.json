@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002682
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 13:38)",
+        [
+            "11th Street Bar",
+            700017355
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 12:51)",
+        [
+            "",
+            700002158
+        ]
+    ],
+    [
+        "Spend time unwinding at home",
+        "(14:09, 16:05)",
+        [
+            "",
+            700001737
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:33, 20:17)",
+        [
+            "Fishmarket",
+            700039214
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:59, 23:39)",
+        [
+            "Tompkins Square Bagels",
+            700008973
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:58, 23:59)",
+        [
+            "Westville East",
+            700008894
+        ]
+    ]
+]

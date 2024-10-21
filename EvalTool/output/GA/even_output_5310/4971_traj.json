@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Benito One",
+            700008895
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:27)",
+        [
+            "Mott Pho Bang",
+            700024439
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(13:53, 15:32)",
+        [
+            "Mott Pho Bang",
+            700024439
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(15:19, 16:45)",
+        [
+            "Chiu Hong Bakery & Restaurant",
+            700005145
+        ]
+    ],
+    [
+        "Shopping or Leisure Activity",
+        "(16:32, 18:05)",
+        [
+            "Chiu Hong Bakery & Restaurant",
+            700005145
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 21:00)",
+        [
+            "Yaya Tea Garden",
+            700014429
+        ]
+    ],
+    [
+        "Stay at Mott Pho Bang",
+        "(20:27, 22:02)",
+        [
+            "Yaya Tea Garden",
+            700014429
+        ]
+    ],
+    [
+        "Stay at Yaya Tea Garden",
+        "(22:17, 23:37)",
+        [
+            "Yaya Tea Garden",
+            700014429
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "",
+            700025249
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003207
+        ]
+    ],
+    [
+        "Outdoor Walk/Exercise",
+        "(10:00, 10:52)",
+        [
+            "Just Salad",
+            700008699
+        ]
+    ],
+    [
+        "Outdoor Walk/Exercise",
+        "(11:02, 12:06)",
+        [
+            "Pret A Manger",
+            700006156
+        ]
+    ],
+    [
+        "Lunch Preparation",
+        "(12:17, 14:08)",
+        [
+            "Just Salad",
+            700008699
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 18:34)",
+        [
+            "",
+            700002750
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:28, 23:59)",
+        [
+            "Slate",
+            700007827
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:14, 23:59)",
+        [
+            "Sophie's Cuban",
+            700039400
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002574
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:38)",
+        [
+            "East Side Church of Christ",
+            700004738
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(13:46, 15:08)",
+        [
+            "Il Gusto Pizza",
+            700023843
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(15:24, 17:02)",
+        [
+            "Il Gusto Pizza",
+            700023843
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:53, 19:17)",
+        [
+            "Whiskey Town",
+            700025623
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:48, 21:07)",
+        [
+            "Whiskey Town",
+            700025623
+        ]
+    ],
+    [
+        "Stay at East Side Church of Christ",
+        "(22:42, 23:59)",
+        [
+            "The Bean",
+            700004735
+        ]
+    ]
+]

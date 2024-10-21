@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Have breakfast",
+        "(09:00, 09:50)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "stay",
+        "(10:40, 11:59)",
+        [
+            "Pitt Cue",
+            700025948
+        ]
+    ],
+    [
+        "next",
+        "(13:04, 14:03)",
+        [
+            "Pitt Cue",
+            700025948
+        ]
+    ],
+    [
+        "stay at Cafe Diana",
+        "(14:38, 16:00)",
+        [
+            "Shoe Shine",
+            700020451
+        ]
+    ],
+    [
+        "Stay at Cafe Diana",
+        "(17:03, 19:08)",
+        [
+            "Shoe Shine",
+            700020451
+        ]
+    ],
+    [
+        "Next creative hobby activity",
+        "(19:06, 21:03)",
+        [
+            "Devonshire Terrace",
+            700019972
+        ]
+    ],
+    [
+        "Creative hobby activity",
+        "(21:32, 23:55)",
+        [
+            "Pitt Cue",
+            700025948
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:23, 23:59)",
+        [
+            "Bean About Town",
+            700038039
+        ]
+    ]
+]

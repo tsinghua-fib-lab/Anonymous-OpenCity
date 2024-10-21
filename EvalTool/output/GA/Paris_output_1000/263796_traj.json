@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030547
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:01)",
+        [
+            "Restaurant Le Murat",
+            700013083
+        ]
+    ],
+    [
+        "Go to Restaurant Le Murat",
+        "(11:29, 12:52)",
+        [
+            "Restaurant Le Murat",
+            700013083
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:38, 16:05)",
+        [
+            "",
+            700039727
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:54, 16:51)",
+        [
+            "Restaurant Le Murat",
+            700013083
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:14, 19:24)",
+        [
+            "École maternelle Aristide Briand",
+            700043185
+        ]
+    ],
+    [
+        "Stay at Restaurant Le Murat",
+        "(19:58, 21:19)",
+        [
+            "École maternelle Aristide Briand",
+            700043185
+        ]
+    ],
+    [
+        "Stay at Restaurant Le Murat.",
+        "(21:33, 23:17)",
+        [
+            "École maternelle Aristide Briand",
+            700043185
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "",
+            700039727
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000420
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:53)",
+        [
+            "Pier 23 Cafe",
+            700001585
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:13, 13:49)",
+        [
+            "",
+            700009355
+        ]
+    ],
+    [
+        "Household Chores",
+        "(11:53, 12:59)",
+        [
+            "Pier 23 Cafe",
+            700001585
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(13:46, 15:57)",
+        [
+            "Pier 23 Cafe",
+            700001585
+        ]
+    ],
+    [
+        "Social Time or Community Engagement",
+        "(16:37, 17:57)",
+        [
+            "Pier 23 Cafe",
+            700001585
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(19:07, 21:10)",
+        [
+            "Pier 23 Cafe",
+            700001585
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(21:13, 22:34)",
+        [
+            "Pier 23 Cafe",
+            700001585
+        ]
+    ],
+    [
+        "Stay at Pier 23 Cafe",
+        "(23:24, 23:59)",
+        [
+            "Pier 23 Cafe",
+            700001585
+        ]
+    ]
+]

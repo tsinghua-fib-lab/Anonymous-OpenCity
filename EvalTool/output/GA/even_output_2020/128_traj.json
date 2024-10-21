@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Erik Erikson Library",
+            700004904
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:52)",
+        [
+            "Erik Erikson Library",
+            700004904
+        ]
+    ],
+    [
+        "Reading",
+        "(15:13, 17:08)",
+        [
+            "Erik Erikson Library",
+            700004904
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:50, 21:21)",
+        [
+            "The Pawn Shop",
+            700009349
+        ]
+    ],
+    [
+        "Stay at The Pawn Shop.",
+        "(23:52, 23:59)",
+        [
+            "The Pawn Shop",
+            700009349
+        ]
+    ]
+]

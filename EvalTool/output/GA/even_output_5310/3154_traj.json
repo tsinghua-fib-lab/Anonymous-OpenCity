@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Columbia St & Rivington St",
+            700008005
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:12)",
+        [
+            "",
+            700013153
+        ]
+    ],
+    [
+        "Current place, reading or hobby",
+        "(15:23, 17:03)",
+        [
+            "Oasis Downtown Day Camp",
+            700006428
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:38, 20:51)",
+        [
+            "El Castillo De Jagua",
+            700003816
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:02, 23:46)",
+        [
+            "A. 1. PIZZA SHOP",
+            700019774
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:46, 23:59)",
+        [
+            "",
+            700031276
+        ]
+    ]
+]

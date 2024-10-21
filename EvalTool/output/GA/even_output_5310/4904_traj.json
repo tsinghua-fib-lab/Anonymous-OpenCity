@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bluestone Lane",
+            700021057
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 09:51)",
+        [
+            "",
+            700027327
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:01, 11:51)",
+        [
+            "Bluestone Lane",
+            700021057
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:37, 16:30)",
+        [
+            "Citi Bike - Hudson Street & Reade Street",
+            700008100
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 21:40)",
+        [
+            "One Medical",
+            700003559
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:12, 23:59)",
+        [
+            "",
+            700037897
+        ]
+    ]
+]

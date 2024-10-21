@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Le Cactus",
+            700001957
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:26)",
+        [
+            "Le Cactus",
+            700001957
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:12, 12:35)",
+        [
+            "Le Cactus",
+            700001957
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 18:38)",
+        [
+            "",
+            700072940
+        ]
+    ],
+    [
+        "Watch a Movie",
+        "(16:03, 18:09)",
+        [
+            "Le Cactus",
+            700001957
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:06, 20:04)",
+        [
+            "Benedict",
+            700002734
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "Clos des blancs manteaux",
+            700047420
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "ETC Eatery",
+            700006328
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 11:55)",
+        [
+            "Hawa Smoothie",
+            700015136
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:20, 13:52)",
+        [
+            "Hawa Smoothie",
+            700015136
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 18:51)",
+        [
+            "Flying Cock",
+            700008557
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:01, 20:54)",
+        [
+            "Flying Cock",
+            700008557
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:57, 22:21)",
+        [
+            "Nom Nam",
+            700008369
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(22:49, 23:57)",
+        [
+            "",
+            700002647
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(23:57, 23:59)",
+        [
+            "",
+            700000898
+        ]
+    ]
+]

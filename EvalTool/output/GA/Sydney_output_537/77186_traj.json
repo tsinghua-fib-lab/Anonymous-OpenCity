@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700022728
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:28)",
+        [
+            "",
+            700022728
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:25, 13:34)",
+        [
+            "Bourke and Ward",
+            700031316
+        ]
+    ],
+    [
+        "Leisure Activity (Hobby Time)",
+        "(14:08, 15:33)",
+        [
+            "Bourke and Ward",
+            700031316
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:25, 21:13)",
+        [
+            "Citibank",
+            700000217
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(20:50, 22:19)",
+        [
+            "Citibank",
+            700000217
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:13, 23:53)",
+        [
+            "Citibank",
+            700000217
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:49, 23:59)",
+        [
+            "Citibank",
+            700000217
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002932
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:33)",
+        [
+            "Saint Stephen of Hungary School",
+            700000297
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:30, 17:08)",
+        [
+            "",
+            700001376
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(15:46, 17:10)",
+        [
+            "Horn's Hook Tavern",
+            700006575
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(17:04, 19:00)",
+        [
+            "",
+            700003162
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:13, 22:25)",
+        [
+            "Emack & Bolio's",
+            700008954
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:50, 23:59)",
+        [
+            "Gracie Mews Restaurant",
+            700013556
+        ]
+    ]
+]

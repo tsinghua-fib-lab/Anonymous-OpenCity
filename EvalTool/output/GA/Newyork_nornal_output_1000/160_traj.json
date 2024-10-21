@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Half Pint",
+            700008683
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:56)",
+        [
+            "",
+            700000784
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(14:44, 17:01)",
+        [
+            "Joe Coffee Company",
+            700009394
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:19, 21:48)",
+        [
+            "",
+            700026137
+        ]
+    ],
+    [
+        "Next evening activities including social time",
+        "(20:10, 22:27)",
+        [
+            "Favela Cubana",
+            700007793
+        ]
+    ],
+    [
+        "Next evening activities including social time",
+        "(22:46, 23:59)",
+        [
+            "",
+            700020358
+        ]
+    ]
+]

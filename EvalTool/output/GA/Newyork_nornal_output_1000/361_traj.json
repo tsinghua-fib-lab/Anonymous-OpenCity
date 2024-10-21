@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002351
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:00, 11:10)",
+        [
+            "Gotham Café",
+            700016395
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:52, 13:49)",
+        [
+            "Gotham Café",
+            700016395
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:01, 16:09)",
+        [
+            "Häagen-Dazs",
+            700040443
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:09, 18:00)",
+        [
+            "Donna Margherita",
+            700006552
+        ]
+    ],
+    [
+        "Dinner Preparation & Cooking",
+        "(18:21, 20:08)",
+        [
+            "",
+            700002351
+        ]
+    ],
+    [
+        "Dinner Preparation & Cooking",
+        "(20:59, 23:03)",
+        [
+            "Capital One",
+            700016396
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:58, 23:59)",
+        [
+            "Capital One",
+            700016396
+        ]
+    ]
+]

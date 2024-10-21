@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Taxi Stand at the Ritz-Carlton",
+            700009899
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:12)",
+        [
+            "Goethe Institut",
+            700001599
+        ]
+    ],
+    [
+        "Watch a movie or binge a TV series",
+        "(12:20, 14:02)",
+        [
+            "Goethe Institut",
+            700001599
+        ]
+    ],
+    [
+        "Participate in a hobby or craft",
+        "(14:13, 16:03)",
+        [
+            "Goethe Institut",
+            700001599
+        ]
+    ],
+    [
+        "Participate in a hobby or craft",
+        "(16:52, 17:57)",
+        [
+            "Goethe Institut",
+            700001599
+        ]
+    ],
+    [
+        "Prepare and enjoy dinner",
+        "(18:38, 20:12)",
+        [
+            "Goethe Institut",
+            700001599
+        ]
+    ],
+    [
+        "Next Activity",
+        "(20:16, 21:34)",
+        [
+            "Goethe Institut",
+            700001599
+        ]
+    ],
+    [
+        "Catch up with friends or family",
+        "(21:47, 23:09)",
+        [
+            "Goethe Institut",
+            700001599
+        ]
+    ],
+    [
+        "Catch up with friends or family",
+        "(23:47, 23:59)",
+        [
+            "Goethe Institut",
+            700001599
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700016193
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:50)",
+        [
+            "",
+            700006376
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:32, 16:58)",
+        [
+            "Casa Agave",
+            700009837
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(20:53, 21:57)",
+        [
+            "",
+            700001439
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(22:27, 23:57)",
+        [
+            "Mom's Kitchen & Bar",
+            700014820
+        ]
+    ],
+    [
+        "Continue staying at Mercury Bar & Key Café",
+        "(23:47, 23:59)",
+        [
+            "Mezze Bar",
+            700009838
+        ]
+    ]
+]

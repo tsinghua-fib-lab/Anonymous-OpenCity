@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Brodo",
+            700029705
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:40)",
+        [
+            "Brodo",
+            700029705
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 17:37)",
+        [
+            "Motorino",
+            700005932
+        ]
+    ],
+    [
+        "Watch a couple of episodes of a favorite TV show or enjoy a movie",
+        "(14:09, 15:51)",
+        [
+            "Tallgrass Burger",
+            700005931
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:33, 19:43)",
+        [
+            "Naks",
+            700038129
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:59, 23:43)",
+        [
+            "Hearth",
+            700010344
+        ]
+    ],
+    [
+        "Relaxation/Personal Time",
+        "(23:58, 23:59)",
+        [
+            "Balade",
+            700003570
+        ]
+    ]
+]

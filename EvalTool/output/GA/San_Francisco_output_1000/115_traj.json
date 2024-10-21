@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "20mission Hacker Hotel",
+            700002370
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:33)",
+        [
+            "",
+            700009680
+        ]
+    ],
+    [
+        "Situatuion_1",
+        "(11:22, 12:58)",
+        [
+            "20mission Hacker Hotel",
+            700002370
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:50, 15:40)",
+        [
+            "Casements",
+            700014035
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:42, 18:11)",
+        [
+            "Golden State Barbell Club",
+            700005797
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(18:33, 19:58)",
+        [
+            "",
+            700002390
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 23:59)",
+        [
+            "Prairie",
+            700002475
+        ]
+    ]
+]

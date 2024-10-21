@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pete's Deli & Cafe",
+            700004902
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:12)",
+        [
+            "",
+            700000018
+        ]
+    ],
+    [
+        "Rest",
+        "(15:21, 17:24)",
+        [
+            "Emmita's Cafe",
+            700010093
+        ]
+    ],
+    [
+        "Rest",
+        "(17:11, 18:57)",
+        [
+            "Bay Wheels",
+            700012246
+        ]
+    ],
+    [
+        "Next, engage in Evening Relaxation & TV",
+        "(19:14, 21:07)",
+        [
+            "Bay Wheels",
+            700012246
+        ]
+    ],
+    [
+        "Evening Relaxation & TV",
+        "(20:43, 21:51)",
+        [
+            "Bay Wheels",
+            700012246
+        ]
+    ],
+    [
+        "Evening Relaxation & TV",
+        "(22:31, 23:59)",
+        [
+            "Bay Wheels",
+            700012246
+        ]
+    ]
+]

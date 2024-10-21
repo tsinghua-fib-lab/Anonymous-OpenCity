@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Third Church of Christ, Scientist",
+            700006527
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:22)",
+        [
+            "Le Botaniste",
+            700008958
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:14, 18:41)",
+        [
+            "Apple Bank",
+            700016437
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:46, 22:07)",
+        [
+            "Birch Coffee",
+            700009667
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:12, 23:59)",
+        [
+            "Citi Bike - Lexington Avenue & East 62nd Street",
+            700016438
+        ]
+    ]
+]

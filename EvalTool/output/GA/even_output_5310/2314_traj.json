@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dunkin'",
+            700015893
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:22)",
+        [
+            "Maguro Sushi",
+            700006238
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:11, 16:47)",
+        [
+            "Turkish Kitchen",
+            700008587
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:38, 23:02)",
+        [
+            "Tara Rose",
+            700017394
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "The Gem Saloon",
+            700011140
+        ]
+    ]
+]

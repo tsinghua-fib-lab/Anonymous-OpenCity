@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000994
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:39)",
+        [
+            "",
+            700001111
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:06, 17:02)",
+        [
+            "West Bank Cafe",
+            700014810
+        ]
+    ],
+    [
+        "Evening Relaxation and Planning for the Week Ahead",
+        "(20:37, 22:07)",
+        [
+            "West Bank Cafe",
+            700014810
+        ]
+    ],
+    [
+        "Evening Relaxation and Planning for the Week Ahead",
+        "(22:36, 23:59)",
+        [
+            "West Bank Cafe",
+            700014810
+        ]
+    ]
+]

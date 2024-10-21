@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700035855
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(09:00, 10:25)",
+        [
+            "N25 Nitro Tea & Coffee",
+            700023445
+        ]
+    ],
+    [
+        "Relax at home or read a book.",
+        "(10:56, 12:34)",
+        [
+            "The Bao",
+            700011498
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:30, 19:09)",
+        [
+            "St. Marks Yoga",
+            700017433
+        ]
+    ],
+    [
+        "Return home and unwind by watching a movie.",
+        "(19:09, 20:49)",
+        [
+            "",
+            700035855
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:35, 23:59)",
+        [
+            "Blue Smoke",
+            700003898
+        ]
+    ]
+]

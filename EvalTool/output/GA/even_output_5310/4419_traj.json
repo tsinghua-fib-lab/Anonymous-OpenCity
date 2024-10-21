@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Medrite Urgent Care",
+            700005856
+        ]
+    ],
+    [
+        "Leisure Time/Reading",
+        "(10:00, 11:36)",
+        [
+            "Medrite Urgent Care",
+            700005856
+        ]
+    ],
+    [
+        "Leisure Time/Reading",
+        "(12:05, 13:35)",
+        [
+            "Medrite Urgent Care",
+            700005856
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:54, 15:34)",
+        [
+            "LinkNYC",
+            700008691
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:21, 20:19)",
+        [
+            "",
+            700002820
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:11, 21:29)",
+        [
+            "CityMD",
+            700007872
+        ]
+    ]
+]

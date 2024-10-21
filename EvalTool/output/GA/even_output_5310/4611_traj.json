@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001201
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:28)",
+        [
+            "Citi Bike - Lafayette St & E 8 St",
+            700008112
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:48, 16:43)",
+        [
+            "Starbucks",
+            700007608
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:31, 21:28)",
+        [
+            "Astor Place Opera House",
+            700000563
+        ]
+    ],
+    [
+        "Relax and Leisure Time",
+        "(17:54, 19:32)",
+        [
+            "The Donut Pub",
+            700023383
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:12, 20:19)",
+        [
+            "Indochine",
+            700014519
+        ]
+    ],
+    [
+        "Dinner and Movie Night",
+        "(23:57, 23:59)",
+        [
+            "Indochine",
+            700014519
+        ]
+    ]
+]

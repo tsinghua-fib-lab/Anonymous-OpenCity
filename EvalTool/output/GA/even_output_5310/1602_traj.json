@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700024694
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:05)",
+        [
+            "Hole In The Wall",
+            700020969
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby Time",
+        "(15:08, 17:16)",
+        [
+            "Hole In The Wall",
+            700020969
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(17:36, 18:54)",
+        [
+            "",
+            700024694
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:01, 23:08)",
+        [
+            "",
+            700024695
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "",
+            700024695
+        ]
+    ]
+]

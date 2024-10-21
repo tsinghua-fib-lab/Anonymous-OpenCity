@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Gardenia Terrace",
+            700015942
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 10:07)",
+        [
+            "Gardenia Terrace",
+            700015942
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(10:32, 12:00)",
+        [
+            "Independence High School",
+            700006395
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:26, 13:59)",
+        [
+            "Independence High School",
+            700006395
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(14:43, 16:11)",
+        [
+            "Citi Bike - West 56th Street & 10th Avenue",
+            700008235
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:56, 19:44)",
+        [
+            "Beijing",
+            700008324
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "Starbucks",
+            700018241
+        ]
+    ]
+]

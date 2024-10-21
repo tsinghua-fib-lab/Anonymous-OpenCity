@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Manhattan Parking Group",
+            700040473
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:58)",
+        [
+            "",
+            700002784
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:10, 15:44)",
+        [
+            "Manhattan Parking Group",
+            700040473
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:14, 22:21)",
+        [
+            "Manhattan Parking Group",
+            700040473
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:29, 23:56)",
+        [
+            "The Flame",
+            700006116
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700019671
+        ]
+    ]
+]

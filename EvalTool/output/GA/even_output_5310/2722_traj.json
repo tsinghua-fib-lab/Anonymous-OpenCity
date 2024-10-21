@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002214
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:21)",
+        [
+            "Planet Fitness",
+            700008315
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 14:12)",
+        [
+            "Link NYC",
+            700013055
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:28, 16:56)",
+        [
+            "Link NYC",
+            700013055
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:40, 19:26)",
+        [
+            "Rubby Pizzeria Restaurant",
+            700006397
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:55, 21:57)",
+        [
+            "Subway",
+            700006396
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:51, 22:51)",
+        [
+            "Bagel Market",
+            700008313
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(23:47, 23:59)",
+        [
+            "Bagel Market",
+            700008313
+        ]
+    ]
+]

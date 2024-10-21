@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mother Chu's Vegetarian Kitchen",
+            700006334
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:37)",
+        [
+            "",
+            700006023
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:12, 16:46)",
+        [
+            "Cloud Thief",
+            700009664
+        ]
+    ],
+    [
+        "Prepare and have a relaxed lunch",
+        "(13:16, 15:09)",
+        [
+            "Cloud Thief",
+            700009664
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:25, 18:57)",
+        [
+            "Naruone",
+            700006336
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:06, 23:29)",
+        [
+            "",
+            700028911
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:01, 23:59)",
+        [
+            "Westpac",
+            700000143
+        ]
+    ],
+    [
+        "you decide to go to Naruone;",
+        "(23:32, 23:59)",
+        [
+            "",
+            700006020
+        ]
+    ]
+]

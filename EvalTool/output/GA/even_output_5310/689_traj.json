@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Equinox",
+            700005703
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:40)",
+        [
+            "Equinox",
+            700005703
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:31, 17:45)",
+        [
+            "",
+            700038505
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:22, 20:03)",
+        [
+            "Lenox Health Greenwich Village",
+            700000262
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:15, 23:42)",
+        [
+            "Iyengar Yoga Institute of New York",
+            700037645
+        ]
+    ],
+    [
+        "Current Place: Unspecified, Stay Time: 1 hour 30 minutes",
+        "(23:38, 23:59)",
+        [
+            "Integral Yoga Institute NYC",
+            700011982
+        ]
+    ]
+]

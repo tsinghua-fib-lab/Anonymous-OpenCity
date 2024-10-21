@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sido",
+            700008544
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:10)",
+        [
+            "pharmacy px",
+            700008546
+        ]
+    ],
+    [
+        "Outdoor Activity (Walk in the Park)",
+        "(12:03, 12:57)",
+        [
+            "",
+            700010342
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 19:11)",
+        [
+            "Iron Sushi",
+            700034219
+        ]
+    ],
+    [
+        "Spend quality time with family or friends, or engage in your hobby.",
+        "(19:32, 20:55)",
+        [
+            "Iron Sushi",
+            700034219
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:00, 23:59)",
+        [
+            "Pennylane Coffee",
+            700006421
+        ]
+    ]
+]

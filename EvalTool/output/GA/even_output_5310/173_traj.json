@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700006037
+        ]
+    ],
+    [
+        "Brunch",
+        "(09:00, 09:54)",
+        [
+            "",
+            700002990
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:44, 13:17)",
+        [
+            "Felice 64",
+            700006526
+        ]
+    ],
+    [
+        "Sports",
+        "(16:17, 17:37)",
+        [
+            "Moti Mahal Delux",
+            700006522
+        ]
+    ],
+    [
+        "Stay at Felice 64",
+        "(18:34, 20:26)",
+        [
+            "Sutton Animal Hospital",
+            700036806
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(20:40, 21:58)",
+        [
+            "Shaken Not Stirred",
+            700006520
+        ]
+    ],
+    [
+        "Stay at Shaken Not Stirred",
+        "(22:51, 23:59)",
+        [
+            "Shaken Not Stirred",
+            700006520
+        ]
+    ]
+]

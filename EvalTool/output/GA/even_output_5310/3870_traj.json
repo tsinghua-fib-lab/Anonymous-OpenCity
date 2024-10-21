@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700016626
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:20)",
+        [
+            "",
+            700001603
+        ]
+    ],
+    [
+        "Relaxation and Reading",
+        "(10:49, 12:04)",
+        [
+            "Lupa",
+            700007233
+        ]
+    ],
+    [
+        "Engage in a fun afternoon activity",
+        "(13:00, 14:51)",
+        [
+            "Lupa",
+            700007233
+        ]
+    ],
+    [
+        "Engage in a fun afternoon activity",
+        "(15:07, 17:01)",
+        [
+            "Lupa",
+            700007233
+        ]
+    ],
+    [
+        "Dinner Preparation or Dining Out.",
+        "(17:33, 19:01)",
+        [
+            "",
+            700016626
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:01, 23:59)",
+        [
+            "",
+            700007273
+        ]
+    ],
+    [
+        "Evening Leisure",
+        "(22:04, 23:33)",
+        [
+            "Chez Jacqueline",
+            700006248
+        ]
+    ],
+    [
+        "Evening Leisure",
+        "(23:32, 23:59)",
+        [
+            "Da Marcella",
+            700009099
+        ]
+    ]
+]

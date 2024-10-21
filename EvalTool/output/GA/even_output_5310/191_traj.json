@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001156
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:21)",
+        [
+            "Chipotle",
+            700017950
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:27, 15:32)",
+        [
+            "",
+            700002891
+        ]
+    ],
+    [
+        "Attend a sports event or participate in a recreational activity.",
+        "(19:50, 20:53)",
+        [
+            "",
+            700001156
+        ]
+    ],
+    [
+        "Attend a sports event or participate in a recreational activity.",
+        "(20:32, 21:54)",
+        [
+            "Chipotle",
+            700017950
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "",
+            700002418
+        ]
+    ]
+]

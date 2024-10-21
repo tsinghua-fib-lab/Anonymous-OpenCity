@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700025800
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:08)",
+        [
+            "El Grillito",
+            700036814
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:24, 15:45)",
+        [
+            "Gyu-Kaku",
+            700009172
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(17:53, 19:04)",
+        [
+            "Gyu-Kaku",
+            700009172
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(19:41, 20:52)",
+        [
+            "Gyu-Kaku",
+            700009172
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:53, 23:05)",
+        [
+            "Gyu-Kaku",
+            700009172
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:12, 23:59)",
+        [
+            "Public Theatre",
+            700000557
+        ]
+    ]
+]

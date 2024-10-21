@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPizzaNY",
+            700004372
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:47)",
+        [
+            "iPizzaNY",
+            700004372
+        ]
+    ],
+    [
+        "Continue with the plan",
+        "(11:22, 12:43)",
+        [
+            "Chase",
+            700004374
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 14:12)",
+        [
+            "The Donut Pub",
+            700004373
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:59, 21:56)",
+        [
+            "Sushi Para 88",
+            700015841
+        ]
+    ],
+    [
+        "Engage in a hobby or leisure activity",
+        "(23:33, 23:59)",
+        [
+            "iPizzaNY",
+            700004372
+        ]
+    ]
+]

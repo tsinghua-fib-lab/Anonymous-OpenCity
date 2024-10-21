@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CVS Pharmacy",
+            700019180
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:26)",
+        [
+            "Blaggards Pub",
+            700007321
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 17:59)",
+        [
+            "LOFT39",
+            700040518
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 20:47)",
+        [
+            "38 Food Hall",
+            700030943
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:23, 22:04)",
+        [
+            "CVS Pharmacy",
+            700019180
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(22:42, 23:59)",
+        [
+            "CVS Pharmacy",
+            700019180
+        ]
+    ]
+]

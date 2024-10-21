@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The SisterYard",
+            700030489
+        ]
+    ],
+    [
+        "Stay at home until the next plan.",
+        "(09:00, 10:03)",
+        [
+            "The SisterYard",
+            700030489
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping",
+        "(11:03, 12:26)",
+        [
+            "The SisterYard",
+            700030489
+        ]
+    ],
+    [
+        "Stay at The SisterYard until the next plan.",
+        "(13:12, 15:12)",
+        [
+            "The SisterYard",
+            700030489
+        ]
+    ],
+    [
+        "Stay at The SisterYard.",
+        "(14:56, 16:18)",
+        [
+            "The SisterYard",
+            700030489
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 21:12)",
+        [
+            "",
+            700017646
+        ]
+    ],
+    [
+        "Stay",
+        "(21:26, 23:59)",
+        [
+            "The SisterYard",
+            700030489
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "",
+            700017646
+        ]
+    ]
+]

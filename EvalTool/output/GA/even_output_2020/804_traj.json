@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chase",
+            700002364
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(10:00, 10:56)",
+        [
+            "Milk",
+            700010704
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(11:05, 12:59)",
+        [
+            "Milk",
+            700010704
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:30, 14:50)",
+        [
+            "Milk",
+            700010704
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:57, 16:18)",
+        [
+            "Milk",
+            700010704
+        ]
+    ],
+    [
+        "Afternoon Sports",
+        "(16:47, 18:09)",
+        [
+            "Valencia Street Muscle",
+            700000835
+        ]
+    ],
+    [
+        "Continue with Dinner Preparation and Meal",
+        "(18:13, 19:51)",
+        [
+            "Chase",
+            700002364
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 23:40)",
+        [
+            "Dancing Yak",
+            700001213
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "",
+            700002391
+        ]
+    ]
+]

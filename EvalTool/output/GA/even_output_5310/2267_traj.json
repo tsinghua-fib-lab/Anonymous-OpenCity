@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ella Baker School",
+            700000282
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:27)",
+        [
+            "",
+            700000786
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:21, 15:11)",
+        [
+            "ChargePoint",
+            700012431
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:52, 21:24)",
+        [
+            "Mezzrow",
+            700024612
+        ]
+    ],
+    [
+        "Stay at Ella Baker School",
+        "(21:28, 22:53)",
+        [
+            "Mezzrow",
+            700024612
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "Jack's Stir Brew Coffee",
+            700031418
+        ]
+    ]
+]

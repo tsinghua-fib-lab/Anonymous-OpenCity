@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700032775
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:58)",
+        [
+            "Little Italy Caffè",
+            700029171
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:34, 15:01)",
+        [
+            "Slice",
+            700019451
+        ]
+    ],
+    [
+        "Prepare and have dinner, maybe trying out a new recipe or enjoying takeout.",
+        "(17:31, 18:51)",
+        [
+            "Slice",
+            700019451
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:54, 23:44)",
+        [
+            "Grom",
+            700026745
+        ]
+    ],
+    [
+        "Prepare for the next day using your current surroundings.",
+        "(23:55, 23:59)",
+        [
+            "Slice",
+            700019451
+        ]
+    ]
+]

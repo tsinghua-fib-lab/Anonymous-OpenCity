@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Match 65",
+            700010063
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:09)",
+        [
+            "Match 65",
+            700010063
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:03, 13:55)",
+        [
+            "Match 65",
+            700010063
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:39, 16:02)",
+        [
+            "Match 65",
+            700010063
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:23, 21:08)",
+        [
+            "Third Church of Christ, Scientist",
+            700006527
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:27, 21:52)",
+        [
+            "Le Botaniste",
+            700008958
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "Barbaresco",
+            700010322
+        ]
+    ]
+]

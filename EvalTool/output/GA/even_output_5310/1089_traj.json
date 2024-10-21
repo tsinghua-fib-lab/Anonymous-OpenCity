@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Dental Office of Dr. Ronald Birnbaum",
+            700007280
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:33)",
+        [
+            "The Dental Office of Dr. Ronald Birnbaum",
+            700007280
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(11:09, 12:07)",
+        [
+            "",
+            700002716
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(12:41, 13:48)",
+        [
+            "The Dental Office of Dr. Ronald Birnbaum",
+            700007280
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:03, 16:08)",
+        [
+            "Justino’s Pizzeria",
+            700004006
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 23:59)",
+        [
+            "Manhattan Parking Group",
+            700040473
+        ]
+    ]
+]

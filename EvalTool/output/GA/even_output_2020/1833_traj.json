@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008741
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:10)",
+        [
+            "Sisters Coffee Shop",
+            700008740
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:10, 16:45)",
+        [
+            "Sisters Coffee Shop",
+            700008740
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie.",
+        "(17:59, 19:33)",
+        [
+            "Sisters Coffee Shop",
+            700008740
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie",
+        "(19:54, 20:48)",
+        [
+            "Sisters Coffee Shop",
+            700008740
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie.",
+        "(21:08, 22:14)",
+        [
+            "Sisters Coffee Shop",
+            700008740
+        ]
+    ],
+    [
+        "Wind down with quiet activities, such as meditation or prepping for the week ahead.",
+        "(21:53, 22:51)",
+        [
+            "",
+            700001050
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "Pasta Panino",
+            700013702
+        ]
+    ]
+]

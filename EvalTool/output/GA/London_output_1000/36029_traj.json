@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Go for a walk or exercise",
+        "(10:00, 11:08)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Go for a walk or exercise",
+        "(11:39, 13:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Engage in a hobby or leisure activity",
+        "(13:49, 15:29)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Engage in a hobby or leisure activity",
+        "(15:53, 17:08)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Engage in a hobby or leisure activity",
+        "(17:35, 19:05)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Engage in a hobby or leisure activity",
+        "(19:24, 21:51)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Engage in a hobby or leisure activity",
+        "(21:52, 23:08)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:22, 23:59)",
+        [
+            "Bury Place",
+            700014755
+        ]
+    ]
+]

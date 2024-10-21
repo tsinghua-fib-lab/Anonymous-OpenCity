@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 55th Street & 2nd Avenue",
+            700008057
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:26)",
+        [
+            "",
+            700025747
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:10, 15:30)",
+        [
+            "ChargePoint",
+            700012434
+        ]
+    ],
+    [
+        "Relax and Unwind",
+        "(16:11, 18:04)",
+        [
+            "ChargePoint",
+            700012434
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:29, 22:35)",
+        [
+            "East Side Club",
+            700016874
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "",
+            700001856
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gotham Archery",
+            700015005
+        ]
+    ],
+    [
+        "Prepare and Have Breakfast",
+        "(10:00, 11:31)",
+        [
+            "Gotham Archery",
+            700015005
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:59, 14:08)",
+        [
+            "Gotham Archery",
+            700015005
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 16:02)",
+        [
+            "Bo Law Kung Fu",
+            700019350
+        ]
+    ],
+    [
+        "Relaxation/Watch a Movie",
+        "(15:50, 17:07)",
+        [
+            "Bo Law Kung Fu",
+            700019350
+        ]
+    ],
+    [
+        "Relaxation/Watch a Movie",
+        "(17:08, 18:48)",
+        [
+            "Spicy Village",
+            700005427
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:07, 23:54)",
+        [
+            "Spicy Village",
+            700005427
+        ]
+    ],
+    [
+        "Relaxation/Watch a Movie",
+        "(23:51, 23:59)",
+        [
+            "Empanada Mama",
+            700023343
+        ]
+    ]
+]

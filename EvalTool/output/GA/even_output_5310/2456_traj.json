@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 40th Street & 5th Avenue",
+            700008047
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(10:00, 11:06)",
+        [
+            "Citi Bike - East 40th Street & 5th Avenue",
+            700008047
+        ]
+    ],
+    [
+        "Quality Time with Family/Friends",
+        "(12:01, 13:29)",
+        [
+            "Citi Bike - East 40th Street & 5th Avenue",
+            700008047
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(14:19, 16:05)",
+        [
+            "Citi Bike - East 40th Street & 5th Avenue",
+            700008047
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(16:21, 17:59)",
+        [
+            "Citi Bike - East 40th Street & 5th Avenue",
+            700008047
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:42, 20:12)",
+        [
+            "FedEx",
+            700018852
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:36, 23:59)",
+        [
+            "Pera",
+            700003502
+        ]
+    ]
+]

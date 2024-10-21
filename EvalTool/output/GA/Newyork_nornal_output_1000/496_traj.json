@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010698
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the nearby park or neighborhood to enjoy the fresh air.",
+        "(09:00, 09:59)",
+        [
+            "",
+            700010698
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:39, 13:46)",
+        [
+            "Neary’s",
+            700010786
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:35, 19:26)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "Current Place: Neary's; Stay Time: 1 hour 24 minutes",
+        "(21:36, 23:55)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "Next place: Frolla Cafè",
+        "(23:34, 23:59)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ]
+]

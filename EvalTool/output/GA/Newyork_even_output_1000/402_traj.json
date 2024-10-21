@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Two Boots Pizza",
+            700006545
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:28)",
+        [
+            "",
+            700002494
+        ]
+    ],
+    [
+        "Leisure Activities (TV/Movies)",
+        "(13:04, 14:29)",
+        [
+            "",
+            700002061
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 17:59)",
+        [
+            "",
+            700000872
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 22:05)",
+        [
+            "El Doji",
+            700006523
+        ]
+    ],
+    [
+        "Next activity based on previous plan",
+        "(20:13, 21:35)",
+        [
+            "Serendipity 3",
+            700009074
+        ]
+    ],
+    [
+        "Go to Starbucks for a coffee and relax.",
+        "(21:58, 23:36)",
+        [
+            "Serendipity 3",
+            700009074
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:50, 23:59)",
+        [
+            "",
+            700001312
+        ]
+    ]
+]

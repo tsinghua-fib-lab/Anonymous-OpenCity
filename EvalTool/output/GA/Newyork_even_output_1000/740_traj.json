@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 11th Street & 3rd Avenue",
+            700008020
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:10)",
+        [
+            "The Smith",
+            700015835
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 17:07)",
+        [
+            "ViVi Bubble Tea",
+            700015836
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(15:56, 17:31)",
+        [
+            "Citi Bike - East 11th Street & 3rd Avenue",
+            700008020
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:06, 20:07)",
+        [
+            "Citi Bike - East 11th Street & 3rd Avenue",
+            700008020
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:45, 23:05)",
+        [
+            "AMC Loews Village 7",
+            700008703
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:21, 23:59)",
+        [
+            "Cathédral",
+            700017459
+        ]
+    ]
+]

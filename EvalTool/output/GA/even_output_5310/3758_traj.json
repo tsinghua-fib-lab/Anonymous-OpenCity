@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002526
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:57)",
+        [
+            "The New School",
+            700004127
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(12:30, 14:07)",
+        [
+            "",
+            700002526
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 18:02)",
+        [
+            "Skylark",
+            700016944
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(18:50, 20:05)",
+        [
+            "Skylark",
+            700016944
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:58, 23:59)",
+        [
+            "",
+            700001366
+        ]
+    ]
+]

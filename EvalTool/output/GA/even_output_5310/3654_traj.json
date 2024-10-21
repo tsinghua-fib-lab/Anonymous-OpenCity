@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Congee Village",
+            700039851
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 09:52)",
+        [
+            "Congee Village",
+            700039851
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(10:06, 11:44)",
+        [
+            "Congee Village",
+            700039851
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 13:25)",
+        [
+            "",
+            700028212
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:52, 19:22)",
+        [
+            "Max Fish",
+            700014802
+        ]
+    ],
+    [
+        "Dinner and Movie Night",
+        "(19:24, 21:54)",
+        [
+            "Russ & Daughters Cafe",
+            700005162
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "Antler Beer & Wine Dispensary",
+            700014830
+        ]
+    ]
+]

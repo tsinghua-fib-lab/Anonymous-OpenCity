@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014753
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:02)",
+        [
+            "À la banane ivoirienne",
+            700004537
+        ]
+    ],
+    [
+        "Go to À la banane ivoirienne",
+        "(11:29, 12:55)",
+        [
+            "À la banane ivoirienne",
+            700004537
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:38, 14:42)",
+        [
+            "Red house",
+            700043421
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:54, 17:09)",
+        [
+            "Red house",
+            700043421
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:14, 19:06)",
+        [
+            "Capucine",
+            700001616
+        ]
+    ],
+    [
+        "Stay at À la banane ivoirienne",
+        "(19:58, 21:14)",
+        [
+            "Red house",
+            700043421
+        ]
+    ],
+    [
+        "Stay at À la banane ivoirienne.",
+        "(21:33, 22:59)",
+        [
+            "Red house",
+            700043421
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "Les délices de la forge royale",
+            700034608
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Haussmann Galeries Lafayette",
+            700005031
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:38)",
+        [
+            "Haussmann Galeries Lafayette",
+            700005031
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:22, 17:16)",
+        [
+            "Pierre Sang Express",
+            700071689
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 21:57)",
+        [
+            "Le Cube Bar",
+            700034323
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:13, 20:51)",
+        [
+            "",
+            700055249
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:17, 23:59)",
+        [
+            "",
+            700055249
+        ]
+    ]
+]

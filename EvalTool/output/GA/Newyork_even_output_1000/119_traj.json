@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - East 11th Street & 3rd Avenue",
+            700008020
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(09:00, 10:21)",
+        [
+            "Rubys",
+            700023466
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:09, 12:22)",
+        [
+            "",
+            700002171
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:24, 19:36)",
+        [
+            "Bites of Xi’an",
+            700033967
+        ]
+    ],
+    [
+        "Relax and Watch TV/Movies",
+        "(17:14, 19:05)",
+        [
+            "Bites of Xi’an",
+            700033967
+        ]
+    ],
+    [
+        "Stay at Bites of Xi’an",
+        "(20:06, 22:05)",
+        [
+            "Bites of Xi’an",
+            700033967
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:55, 23:59)",
+        [
+            "",
+            700016763
+        ]
+    ]
+]

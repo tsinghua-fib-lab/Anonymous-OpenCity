@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(10:00, 11:50)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(12:40, 14:10)",
+        [
+            "",
+            700022520
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:47, 17:50)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:34, 18:53)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:42, 20:59)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(21:16, 22:55)",
+        [
+            "",
+            700022507
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:10, 23:59)",
+        [
+            "New China",
+            700016574
+        ]
+    ]
+]

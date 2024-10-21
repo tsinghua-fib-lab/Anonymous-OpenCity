@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(10:00, 10:56)",
+        [
+            "",
+            700011370
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(11:51, 13:08)",
+        [
+            "",
+            700011370
+        ]
+    ],
+    [
+        "Participate in a sport or group activity",
+        "(13:45, 15:19)",
+        [
+            "",
+            700011369
+        ]
+    ],
+    [
+        "Relax and unwind",
+        "(16:06, 17:38)",
+        [
+            "Black Lion Gate",
+            700010195
+        ]
+    ],
+    [
+        "Prepare and have dinner",
+        "(17:55, 19:05)",
+        [
+            "Barry's",
+            700011073
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 21:18)",
+        [
+            "Meat Liquor",
+            700030806
+        ]
+    ],
+    [
+        "Relax and unwind",
+        "(21:19, 23:15)",
+        [
+            "Meat Liquor",
+            700030806
+        ]
+    ],
+    [
+        "Relax and unwind",
+        "(23:15, 23:59)",
+        [
+            "Meat Liquor",
+            700030806
+        ]
+    ]
+]

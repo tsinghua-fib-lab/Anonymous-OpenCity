@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "joe’s pub",
+            700014254
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:07)",
+        [
+            "Barry's",
+            700028477
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(14:14, 15:55)",
+        [
+            "McDonald's",
+            700008871
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(16:40, 18:20)",
+        [
+            "",
+            700020914
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(18:18, 20:06)",
+        [
+            "TMPL Fitness Astor Place",
+            700038327
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(20:12, 22:00)",
+        [
+            "",
+            700020914
+        ]
+    ],
+    [
+        "Stay at Tír na nÓg.",
+        "(22:02, 23:25)",
+        [
+            "Barry's",
+            700028477
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "Indochine",
+            700014519
+        ]
+    ]
+]

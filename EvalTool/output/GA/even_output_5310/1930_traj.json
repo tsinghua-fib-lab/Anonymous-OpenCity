@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Stumble Inn",
+            700006558
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:32)",
+        [
+            "Sin City Burger",
+            700033661
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:57, 12:14)",
+        [
+            "Sin City Burger",
+            700033661
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:19, 15:25)",
+        [
+            "Brazilian Market NYC",
+            700039305
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 20:13)",
+        [
+            "",
+            700020598
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:51, 20:11)",
+        [
+            "",
+            700001420
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(20:20, 21:55)",
+        [
+            "",
+            700020596
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(22:44, 23:59)",
+        [
+            "Hanabi",
+            700019513
+        ]
+    ]
+]

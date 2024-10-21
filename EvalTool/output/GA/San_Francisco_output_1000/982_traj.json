@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cafe Isabella",
+            700008996
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:49)",
+        [
+            "",
+            700010616
+        ]
+    ],
+    [
+        "Start personal project or hobby",
+        "(11:41, 13:41)",
+        [
+            "Cafe Isabella",
+            700008996
+        ]
+    ],
+    [
+        "Spend time on a personal project or hobby.",
+        "(13:55, 14:51)",
+        [
+            "altoVino",
+            700003881
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 20:27)",
+        [
+            "",
+            700002757
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 21:39)",
+        [
+            "Tranquil Resonance Studio",
+            700010467
+        ]
+    ],
+    [
+        "Stay at Cafe Isabella",
+        "(23:19, 23:59)",
+        [
+            "Tranquil Resonance Studio",
+            700010467
+        ]
+    ]
+]

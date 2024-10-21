@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002097
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:02)",
+        [
+            "",
+            700010536
+        ]
+    ],
+    [
+        "Lunch and catch up on some reading or a podcast.",
+        "(13:26, 15:01)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ],
+    [
+        "Have lunch and catch up on some reading or a podcast.",
+        "(15:49, 17:17)",
+        [
+            "The Butcher’s Daughter",
+            700012523
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:19, 23:10)",
+        [
+            "HSBC",
+            700008765
+        ]
+    ]
+]

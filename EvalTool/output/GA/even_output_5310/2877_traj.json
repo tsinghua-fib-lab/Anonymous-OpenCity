@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Constance Baker Motley Recreation Center 54",
+            700009820
+        ]
+    ],
+    [
+        "Enjoy breakfast",
+        "(10:00, 10:57)",
+        [
+            "Constance Baker Motley Recreation Center 54",
+            700009820
+        ]
+    ],
+    [
+        "Stay in place at Fiftyfourth Street Public Bath and Gymnasium",
+        "(11:21, 12:53)",
+        [
+            "Fiftyfourth Street Public Bath and Gymnasium",
+            700000555
+        ]
+    ],
+    [
+        "Enjoy breakfast",
+        "(13:41, 15:20)",
+        [
+            "Constance Baker Motley Recreation Center 54",
+            700009820
+        ]
+    ],
+    [
+        "Enjoy breakfast",
+        "(16:22, 18:50)",
+        [
+            "Fiftyfourth Street Public Bath and Gymnasium",
+            700000555
+        ]
+    ],
+    [
+        "Go to Fiftyfourth Street Public Bath and Gymnasium.",
+        "(19:01, 21:05)",
+        [
+            "Fiftyfourth Street Public Bath and Gymnasium",
+            700000555
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:55, 23:29)",
+        [
+            "Mimi's Piano Bar",
+            700014651
+        ]
+    ]
+]

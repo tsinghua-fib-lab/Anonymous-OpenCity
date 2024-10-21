@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Van Ness Dental Care",
+            700010670
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:16)",
+        [
+            "Body Tonic SF",
+            700012932
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:32, 13:54)",
+        [
+            "Body Tonic SF",
+            700012932
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:59, 15:52)",
+        [
+            "Van Ness Dental Care",
+            700010670
+        ]
+    ],
+    [
+        "Visit a Local Market or Shopping",
+        "(19:49, 21:25)",
+        [
+            "Route 101",
+            700003308
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Route 101",
+            700003308
+        ]
+    ]
+]

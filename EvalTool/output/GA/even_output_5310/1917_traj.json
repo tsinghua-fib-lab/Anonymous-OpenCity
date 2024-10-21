@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001018
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(09:00, 10:03)",
+        [
+            "Kobe Sushi",
+            700013982
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(09:59, 11:01)",
+        [
+            "Kobe Sushi",
+            700013982
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(12:00, 14:04)",
+        [
+            "Kobe Sushi",
+            700013982
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:37, 15:57)",
+        [
+            "Kobe Sushi",
+            700013982
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 17:21)",
+        [
+            "Gotham Pizza",
+            700013968
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:48, 23:25)",
+        [
+            "Dubl Twister",
+            700006572
+        ]
+    ],
+    [
+        "Go to Gotham Pizza and spend some time.",
+        "(23:35, 23:59)",
+        [
+            "Gotham Pizza",
+            700013968
+        ]
+    ]
+]

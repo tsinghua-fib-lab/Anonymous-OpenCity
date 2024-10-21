@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700031278
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(09:00, 10:09)",
+        [
+            "Yong Kang Street",
+            700006177
+        ]
+    ],
+    [
+        "Personal Development",
+        "(10:13, 11:42)",
+        [
+            "Yong Kang Street",
+            700006177
+        ]
+    ],
+    [
+        "After Personal Development, go for Outdoor Activity.",
+        "(11:59, 13:00)",
+        [
+            "Yong Kang Street",
+            700006177
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:00, 16:03)",
+        [
+            "Yong Kang Street",
+            700006177
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:49, 17:49)",
+        [
+            "",
+            700020398
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 20:58)",
+        [
+            "",
+            700020398
+        ]
+    ],
+    [
+        "Wind Down and Reflection",
+        "(21:40, 23:00)",
+        [
+            "",
+            700031278
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:59, 23:59)",
+        [
+            "Henry Street Playhouse",
+            700005441
+        ]
+    ]
+]

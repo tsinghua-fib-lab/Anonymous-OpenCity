@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wells Fargo",
+            700003751
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:58)",
+        [
+            "Hollywood Café",
+            700004694
+        ]
+    ],
+    [
+        "Downtime/TV Viewing",
+        "(12:26, 13:49)",
+        [
+            "Hollywood Café",
+            700004694
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:42, 18:30)",
+        [
+            "Latte Express",
+            700013619
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 19:29)",
+        [
+            "",
+            700005220
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:49, 23:59)",
+        [
+            "Hollywood Café",
+            700004694
+        ]
+    ]
+]

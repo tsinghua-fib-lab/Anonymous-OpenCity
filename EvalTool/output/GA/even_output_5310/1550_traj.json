@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Icon Parking",
+            700003603
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:00)",
+        [
+            "NYU Langone Outpatient Surgery Center",
+            700003604
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:04, 12:03)",
+        [
+            "NYU Langone Outpatient Surgery Center",
+            700003604
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:51, 14:54)",
+        [
+            "NYU Langone Outpatient Surgery Center",
+            700003604
+        ]
+    ],
+    [
+        "Sports/Outdoor Activity",
+        "(15:28, 17:24)",
+        [
+            "NYU Langone Outpatient Surgery Center",
+            700003604
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 21:36)",
+        [
+            "",
+            700009857
+        ]
+    ],
+    [
+        "TV/Movies or Family Time",
+        "(21:45, 22:51)",
+        [
+            "",
+            700010473
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "",
+            700023597
+        ]
+    ]
+]

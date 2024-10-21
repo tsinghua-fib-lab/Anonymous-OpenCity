@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700026964
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:22)",
+        [
+            "Crédit Agricole",
+            700008454
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 16:46)",
+        [
+            "",
+            700026964
+        ]
+    ],
+    [
+        "Stay at Crédit Agricole",
+        "(20:54, 22:07)",
+        [
+            "Crédit Agricole",
+            700008454
+        ]
+    ],
+    [
+        "Stay at Crédit Agricole",
+        "(22:28, 23:52)",
+        [
+            "Crédit Agricole",
+            700008454
+        ]
+    ]
+]

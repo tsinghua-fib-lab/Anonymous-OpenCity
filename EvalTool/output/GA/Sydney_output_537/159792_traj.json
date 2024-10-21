@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Commonwealth Bank",
+            700002148
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:07)",
+        [
+            "",
+            700010204
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 15:58)",
+        [
+            "",
+            700010662
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(17:59, 19:11)",
+        [
+            "",
+            700010027
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 23:42)",
+        [
+            "Commonwealth Bank",
+            700002148
+        ]
+    ],
+    [
+        "Stay at your Home.",
+        "(22:58, 23:59)",
+        [
+            "Commonwealth Bank",
+            700002148
+        ]
+    ]
+]

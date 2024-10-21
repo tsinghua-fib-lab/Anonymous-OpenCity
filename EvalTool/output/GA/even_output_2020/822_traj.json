@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Aaha Indian Cuisine",
+            700001952
+        ]
+    ],
+    [
+        "11:00 AM - Morning Exercise",
+        "(10:00, 11:22)",
+        [
+            "Aaha Indian Cuisine",
+            700001952
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:27, 15:51)",
+        [
+            "La Oaxaqueña",
+            700004240
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:02, 16:49)",
+        [
+            "Little Chihuahua",
+            700002998
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(21:06, 22:29)",
+        [
+            "Muddy Waters",
+            700000695
+        ]
+    ],
+    [
+        "Stay at Aaha Indian Cuisine",
+        "(23:23, 23:59)",
+        [
+            "Little Chihuahua",
+            700002998
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bean&Bean Coffee",
+            700009217
+        ]
+    ],
+    [
+        "Relax and Read/Watch TV",
+        "(10:00, 11:59)",
+        [
+            "Bean&Bean Coffee",
+            700009217
+        ]
+    ],
+    [
+        "Relax and Read/Watch TV",
+        "(12:36, 13:59)",
+        [
+            "Bean&Bean Coffee",
+            700009217
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:47, 15:52)",
+        [
+            "Bean&Bean Coffee",
+            700009217
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:07, 19:26)",
+        [
+            "",
+            700020532
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:35, 23:59)",
+        [
+            "",
+            700010656
+        ]
+    ]
+]

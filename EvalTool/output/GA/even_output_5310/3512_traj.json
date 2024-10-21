@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:40)",
+        [
+            "Public School M188 The Island School",
+            700000020
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 14:30)",
+        [
+            "",
+            700001824
+        ]
+    ],
+    [
+        "Brunch",
+        "(15:49, 17:02)",
+        [
+            "Public School M188 The Island School",
+            700000020
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:32, 18:06)",
+        [
+            "Public School M188 The Island School",
+            700000020
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:35, 23:57)",
+        [
+            "China Wok",
+            700019587
+        ]
+    ],
+    [
+        "Dinner with Family/Friends",
+        "(20:36, 21:59)",
+        [
+            "East Drive Pharmacy",
+            700003915
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "Equal Care Pharmacy",
+            700005417
+        ]
+    ]
+]

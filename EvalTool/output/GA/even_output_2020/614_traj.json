@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001234
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:34)",
+        [
+            "Little Kitchen",
+            700000642
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:36, 13:08)",
+        [
+            "Little Kitchen",
+            700000642
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:15, 14:36)",
+        [
+            "Little Kitchen",
+            700000642
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:23, 17:07)",
+        [
+            "Loving Cup",
+            700002091
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 21:58)",
+        [
+            "Lemongrass",
+            700002090
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(23:54, 23:59)",
+        [
+            "Crunch Fitness",
+            700002088
+        ]
+    ]
+]

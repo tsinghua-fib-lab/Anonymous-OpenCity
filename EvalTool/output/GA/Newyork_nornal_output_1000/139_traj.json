@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Emma Peel Room",
+            700007492
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:27)",
+        [
+            "Top Hops Beer Shop",
+            700007491
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:38, 14:04)",
+        [
+            "Emma Peel Room",
+            700007492
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:09, 20:29)",
+        [
+            "Cafe Katja",
+            700007393
+        ]
+    ],
+    [
+        "Catch Up on IT Trends",
+        "(17:00, 18:03)",
+        [
+            "Cafe Katja",
+            700007393
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:34, 23:17)",
+        [
+            "An Choi",
+            700007395
+        ]
+    ],
+    [
+        "Catch Up on IT Trends",
+        "(21:57, 22:57)",
+        [
+            "Barrio Chino",
+            700007397
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:03, 23:59)",
+        [
+            "Cafe Katja",
+            700007393
+        ]
+    ]
+]

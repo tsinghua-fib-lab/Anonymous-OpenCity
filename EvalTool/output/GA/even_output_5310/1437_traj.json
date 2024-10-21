@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dunkin' Donuts/Baskin Robbins",
+            700021517
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:20)",
+        [
+            "Duane Reade",
+            700011388
+        ]
+    ],
+    [
+        "Relax and Watch a Movie/Series",
+        "(12:10, 13:55)",
+        [
+            "Duane Reade",
+            700011388
+        ]
+    ],
+    [
+        "Spend Time on a Hobby or Craft",
+        "(14:20, 16:03)",
+        [
+            "Duane Reade",
+            700011388
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 17:32)",
+        [
+            "",
+            700011174
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:11, 20:52)",
+        [
+            "CitiBike Station",
+            700007611
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(21:25, 22:50)",
+        [
+            "CitiBike Station",
+            700007611
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:21, 23:59)",
+        [
+            "",
+            700011173
+        ]
+    ]
+]

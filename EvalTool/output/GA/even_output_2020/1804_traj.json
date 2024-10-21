@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chuy's Fiestas Taqueria II",
+            700005841
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:09)",
+        [
+            "Cafe Bean",
+            700008860
+        ]
+    ],
+    [
+        "2:00 PM - Outdoor Activity",
+        "(12:54, 14:24)",
+        [
+            "Gusto",
+            700008963
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 16:00)",
+        [
+            "",
+            700008708
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(16:19, 18:07)",
+        [
+            "Izakaya Yoki",
+            700003760
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 19:38)",
+        [
+            "Sutter Pub & Restaurant",
+            700008675
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:53, 21:05)",
+        [
+            "Sutter Pub & Restaurant",
+            700008675
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:31, 23:59)",
+        [
+            "",
+            700008709
+        ]
+    ]
+]

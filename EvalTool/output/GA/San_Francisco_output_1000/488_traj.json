@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Little Spot Cafe",
+            700009219
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(09:00, 10:24)",
+        [
+            "Infinity Training Center",
+            700001631
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(11:32, 12:57)",
+        [
+            "Infinity Training Center",
+            700001631
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:19, 15:00)",
+        [
+            "Infinity Training Center",
+            700001631
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:50, 16:54)",
+        [
+            "Infinity Training Center",
+            700001631
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:40, 19:11)",
+        [
+            "Verve Coffee Roasters",
+            700006032
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:02, 21:31)",
+        [
+            "",
+            700013250
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "Verve Coffee Roasters",
+            700006032
+        ]
+    ]
+]

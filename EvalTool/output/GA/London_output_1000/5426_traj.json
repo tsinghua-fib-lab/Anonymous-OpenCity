@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 10:59)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:34, 13:04)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:47, 15:04)",
+        [
+            "Dockside at Millharbour",
+            700053203
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 19:34)",
+        [
+            "Hybrid Fitness (Canary Wharf)",
+            700053200
+        ]
+    ],
+    [
+        "Wawa",
+        "(20:33, 21:59)",
+        [
+            "",
+            700053204
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:55, 23:59)",
+        [
+            "Phoenix Heights Community Centre",
+            700055146
+        ]
+    ]
+]

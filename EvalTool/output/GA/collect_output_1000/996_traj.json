@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030404
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:45)",
+        [
+            "",
+            700030440
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:23, 19:28)",
+        [
+            "",
+            700030402
+        ]
+    ],
+    [
+        "Next arrangement is Dinner and Family Time.",
+        "(18:48, 20:00)",
+        [
+            "",
+            700030404
+        ]
+    ],
+    [
+        "Dinner and Family Time",
+        "(21:00, 22:24)",
+        [
+            "",
+            700030404
+        ]
+    ],
+    [
+        "Dinner and Family Time",
+        "(23:25, 23:59)",
+        [
+            "Little Free Library",
+            700024911
+        ]
+    ]
+]

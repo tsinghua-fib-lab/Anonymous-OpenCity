@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009472
+        ]
+    ],
+    [
+        "go for a relaxing walk in the park",
+        "(10:00, 10:57)",
+        [
+            "",
+            700009471
+        ]
+    ],
+    [
+        "You are currently at a bicycle parking.",
+        "(11:12, 12:33)",
+        [
+            "Subway",
+            700013950
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:53, 14:23)",
+        [
+            "",
+            700011475
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 18:23)",
+        [
+            "",
+            700011476
+        ]
+    ],
+    [
+        "You are currently at a bicycle parking.",
+        "(21:27, 23:20)",
+        [
+            "Subway",
+            700013950
+        ]
+    ],
+    [
+        "Stay at a bicycle parking",
+        "(23:57, 23:59)",
+        [
+            "Subway",
+            700013950
+        ]
+    ]
+]

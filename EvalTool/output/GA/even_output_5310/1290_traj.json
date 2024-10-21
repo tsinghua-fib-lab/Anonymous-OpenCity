@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006702
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:13)",
+        [
+            "Esquire Pharmacy",
+            700026187
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:28, 15:26)",
+        [
+            "Bagel Boss",
+            700006701
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:18, 18:46)",
+        [
+            "No. 1 New York Kitchen",
+            700011620
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:02, 20:07)",
+        [
+            "No. 1 New York Kitchen",
+            700011620
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:58, 23:02)",
+        [
+            "No. 1 New York Kitchen",
+            700011620
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:34, 23:59)",
+        [
+            "Citi Bike - 1st Avenue & East 15th Street",
+            700007924
+        ]
+    ]
+]

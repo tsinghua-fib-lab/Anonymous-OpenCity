@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Minerva Schools at KGI",
+            700005825
+        ]
+    ],
+    [
+        "11:00 AM - Exercise",
+        "(10:00, 11:39)",
+        [
+            "",
+            700010986
+        ]
+    ],
+    [
+        "stay",
+        "(11:43, 13:08)",
+        [
+            "Minerva Schools at KGI",
+            700005825
+        ]
+    ],
+    [
+        "Next activity planned: Leisure Activity.",
+        "(13:19, 14:42)",
+        [
+            "La Cuisine Cafe",
+            700009443
+        ]
+    ],
+    [
+        "Next activity planned: Leisure Activity;",
+        "(15:28, 16:54)",
+        [
+            "La Cuisine Cafe",
+            700009443
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:11, 20:08)",
+        [
+            "",
+            700008352
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:02, 23:59)",
+        [
+            "Civic Center BART (7th at Market)",
+            700002504
+        ]
+    ]
+]

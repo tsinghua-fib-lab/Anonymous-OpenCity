@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005681
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:24)",
+        [
+            "",
+            700012053
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:56, 12:52)",
+        [
+            "",
+            700005681
+        ]
+    ],
+    [
+        "Transitioning from Brunch with Friends",
+        "(13:22, 14:54)",
+        [
+            "",
+            700005680
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:48, 16:25)",
+        [
+            "",
+            700011828
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:25, 22:49)",
+        [
+            "",
+            700011827
+        ]
+    ],
+    [
+        "Go to 21st Amendment Brewery.",
+        "(22:11, 23:59)",
+        [
+            "21st Amendment Brewery",
+            700000144
+        ]
+    ]
+]

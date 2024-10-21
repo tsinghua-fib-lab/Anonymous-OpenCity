@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "ParkEast Veterinarians",
+            700022330
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 10:59)",
+        [
+            "Shanghai Chinese Restaurant",
+            700021915
+        ]
+    ],
+    [
+        "Brunch",
+        "(11:39, 12:59)",
+        [
+            "Shanghai Chinese Restaurant",
+            700021915
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:20, 18:36)",
+        [
+            "CVS Pharmacy",
+            700013434
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:11, 19:42)",
+        [
+            "Rangoli",
+            700021722
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(18:26, 20:04)",
+        [
+            "CVS Pharmacy",
+            700013434
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 23:59)",
+        [
+            "Shanghai Chinese Restaurant",
+            700021915
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:42, 23:59)",
+        [
+            "Afghan Kebab House",
+            700014647
+        ]
+    ]
+]

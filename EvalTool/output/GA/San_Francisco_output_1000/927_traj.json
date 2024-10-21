@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "USPS",
+            700010624
+        ]
+    ],
+    [
+        "Go for a morning run or workout",
+        "(09:00, 10:10)",
+        [
+            "USPS",
+            700010624
+        ]
+    ],
+    [
+        "Shower and get ready for the day",
+        "(11:04, 12:55)",
+        [
+            "USPS",
+            700010624
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:27, 17:07)",
+        [
+            "Round Table Pizza",
+            700000795
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(17:58, 19:04)",
+        [
+            "Round Table Pizza",
+            700000795
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 22:47)",
+        [
+            "Van Ness Cafe & Gyros",
+            700009553
+        ]
+    ],
+    [
+        "Go to Puerto Allegre and stay",
+        "(23:53, 23:59)",
+        [
+            "Van Ness Cafe & Gyros",
+            700009553
+        ]
+    ]
+]

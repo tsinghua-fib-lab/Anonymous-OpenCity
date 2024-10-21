@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030402
+        ]
+    ],
+    [
+        "Spend some time relaxing and catching up on social media or reading.",
+        "(09:00, 10:06)",
+        [
+            "",
+            700030402
+        ]
+    ],
+    [
+        "Spend some time relaxing and catching up on social media or reading.",
+        "(10:46, 11:55)",
+        [
+            "",
+            700030402
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:46, 15:17)",
+        [
+            "",
+            700030410
+        ]
+    ],
+    [
+        "Engage in a hobby or read a book",
+        "(15:17, 16:56)",
+        [
+            "",
+            700030402
+        ]
+    ],
+    [
+        "Engage in a hobby (like painting, crafting, or playing an instrument) or read a book.",
+        "(17:18, 18:52)",
+        [
+            "",
+            700020115
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 22:07)",
+        [
+            "Excellent Dumpling House",
+            700025205
+        ]
+    ],
+    [
+        "Stay",
+        "(21:19, 22:50)",
+        [
+            "Malibu Diner",
+            700040277
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "",
+            700020116
+        ]
+    ]
+]

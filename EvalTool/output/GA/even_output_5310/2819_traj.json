@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Previti Pizza",
+            700014943
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:33)",
+        [
+            "",
+            700024695
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:55, 16:15)",
+        [
+            "Previti Pizza",
+            700014943
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:41, 17:19)",
+        [
+            "Previti Pizza",
+            700014943
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:55, 19:01)",
+        [
+            "Previti Pizza",
+            700014943
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(19:35, 20:41)",
+        [
+            "Previti Pizza",
+            700014943
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:43, 23:59)",
+        [
+            "El Parador Café",
+            700003606
+        ]
+    ]
+]

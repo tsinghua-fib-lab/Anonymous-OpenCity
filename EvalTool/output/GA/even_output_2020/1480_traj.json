@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001457
+        ]
+    ],
+    [
+        "Next leisure activity: Visit an art gallery or museum",
+        "(10:00, 11:25)",
+        [
+            "23rd Street Studio",
+            700001955
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:45, 13:16)",
+        [
+            "23rd Street Studio",
+            700001955
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:25, 16:36)",
+        [
+            "",
+            700004024
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 21:03)",
+        [
+            "",
+            700009652
+        ]
+    ],
+    [
+        "Next leisure activity: Visit an art gallery or museum",
+        "(20:07, 21:01)",
+        [
+            "",
+            700009650
+        ]
+    ],
+    [
+        "current place",
+        "(22:00, 23:59)",
+        [
+            "",
+            700005708
+        ]
+    ]
+]

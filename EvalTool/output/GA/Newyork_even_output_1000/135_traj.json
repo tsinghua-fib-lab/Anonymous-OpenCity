@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - 1st Avenue & East 18th Street",
+            700007925
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(09:00, 10:30)",
+        [
+            "Hane",
+            700006703
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:09, 17:07)",
+        [
+            "First Avenue Veterinary Hospital",
+            700006196
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:24, 18:09)",
+        [
+            "TD Bank",
+            700011623
+        ]
+    ],
+    [
+        "Relax and Watch TV/Movies",
+        "(17:14, 19:01)",
+        [
+            "Citi Bike - 1st Avenue & East 18th Street",
+            700007925
+        ]
+    ],
+    [
+        "Stay at Citi Bike - 1st Avenue & East 18th Street",
+        "(20:06, 21:28)",
+        [
+            "Citi Bike - 1st Avenue & East 18th Street",
+            700007925
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:55, 23:59)",
+        [
+            "",
+            700001705
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wingstop",
+            700017933
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:21)",
+        [
+            "Pick-A-Bagel",
+            700013516
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:11, 12:54)",
+        [
+            "Pick-A-Bagel",
+            700013516
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:29, 15:08)",
+        [
+            "Pick-A-Bagel",
+            700013516
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:40, 20:07)",
+        [
+            "Uva Next Door",
+            700023406
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:55, 23:59)",
+        [
+            "Doc Watson's",
+            700023410
+        ]
+    ]
+]

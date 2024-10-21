@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700026136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:10)",
+        [
+            "Citi Bike - LaGuardia Pl & W 3 St",
+            700008108
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(16:12, 18:00)",
+        [
+            "",
+            700026136
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(18:51, 19:52)",
+        [
+            "Citi Bike - LaGuardia Pl & W 3 St",
+            700008108
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:59, 23:59)",
+        [
+            "",
+            700002612
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "Bareburger",
+            700011956
+        ]
+    ]
+]

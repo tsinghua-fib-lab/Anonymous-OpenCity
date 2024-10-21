@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wells Fargo",
+            700033104
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:04)",
+        [
+            "CoCo Fresh Tea & Juice",
+            700014601
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 15:11)",
+        [
+            "La Parisienne",
+            700014067
+        ]
+    ],
+    [
+        "Technical Reading or Online Course",
+        "(14:12, 16:03)",
+        [
+            "La Parisienne",
+            700014067
+        ]
+    ],
+    [
+        "Technical Reading or Online Course",
+        "(16:01, 17:57)",
+        [
+            "La Parisienne",
+            700014067
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:05, 20:09)",
+        [
+            "Xi'an Famous Foods",
+            700014016
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:46, 21:18)",
+        [
+            "",
+            700035003
+        ]
+    ]
+]

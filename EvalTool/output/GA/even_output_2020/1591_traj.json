@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700012827
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:13)",
+        [
+            "",
+            700012826
+        ]
+    ],
+    [
+        "Stay at current location.",
+        "(11:38, 14:06)",
+        [
+            "",
+            700008580
+        ]
+    ],
+    [
+        "Stay at current location",
+        "(14:30, 16:06)",
+        [
+            "Ferry Plaza Farmers Market",
+            700010892
+        ]
+    ],
+    [
+        "Stay at current location.",
+        "(16:11, 17:51)",
+        [
+            "Ferry Plaza Farmers Market",
+            700010892
+        ]
+    ],
+    [
+        "Stay at current location.",
+        "(18:26, 20:54)",
+        [
+            "",
+            700012363
+        ]
+    ],
+    [
+        "Stay at Ferry Plaza Farmers Market",
+        "(20:30, 22:06)",
+        [
+            "Ferry Plaza Farmers Market",
+            700010892
+        ]
+    ],
+    [
+        "Stay at Ferry Plaza Farmers Market",
+        "(22:33, 23:35)",
+        [
+            "Ferry Plaza Farmers Market",
+            700010892
+        ]
+    ],
+    [
+        "Stay at Ferry Plaza Farmers Market",
+        "(23:46, 23:59)",
+        [
+            "Ferry Plaza Farmers Market",
+            700010892
+        ]
+    ]
+]

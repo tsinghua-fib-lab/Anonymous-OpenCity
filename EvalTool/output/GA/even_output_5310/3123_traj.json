@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Forgtmenot",
+            700014788
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:48)",
+        [
+            "Gin Lane",
+            700006686
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:43, 16:33)",
+        [
+            "Gin Lane",
+            700006686
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:02, 18:27)",
+        [
+            "Gin Lane",
+            700006686
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 19:38)",
+        [
+            "",
+            700018930
+        ]
+    ],
+    [
+        "Stay at your current location",
+        "(21:15, 22:32)",
+        [
+            "Allen Street Pharmacy",
+            700013755
+        ]
+    ],
+    [
+        "Stay at Gin Lane",
+        "(22:56, 23:59)",
+        [
+            "Gin Lane",
+            700006686
+        ]
+    ]
+]

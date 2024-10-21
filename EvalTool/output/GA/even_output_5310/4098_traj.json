@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011123
+        ]
+    ],
+    [
+        "Stay at a nearby bar.",
+        "(10:00, 11:07)",
+        [
+            "",
+            700002791
+        ]
+    ],
+    [
+        "Stay at Corner bistro.",
+        "(11:47, 12:52)",
+        [
+            "Corner bistro",
+            700008549
+        ]
+    ],
+    [
+        "Stay at Corner bistro",
+        "(12:24, 13:50)",
+        [
+            "Corner bistro",
+            700008549
+        ]
+    ],
+    [
+        "Stay at Corner bistro",
+        "(13:33, 15:08)",
+        [
+            "Corner bistro",
+            700008549
+        ]
+    ],
+    [
+        "Stay at Corner bistro.",
+        "(15:08, 16:00)",
+        [
+            "Corner bistro",
+            700008549
+        ]
+    ],
+    [
+        "Stay at Corner bistro.",
+        "(17:01, 19:10)",
+        [
+            "Corner bistro",
+            700008549
+        ]
+    ],
+    [
+        "Stay at Corner bistro.",
+        "(19:43, 20:54)",
+        [
+            "Corner bistro",
+            700008549
+        ]
+    ],
+    [
+        "Stay at Corner bistro",
+        "(21:43, 23:35)",
+        [
+            "Corner bistro",
+            700008549
+        ]
+    ],
+    [
+        "Stay at Corner bistro.",
+        "(23:38, 23:59)",
+        [
+            "Corner bistro",
+            700008549
+        ]
+    ]
+]

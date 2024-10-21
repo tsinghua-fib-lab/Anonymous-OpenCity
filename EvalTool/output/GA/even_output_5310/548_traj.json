@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citibank",
+            700004183
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 10:55)",
+        [
+            "Citibank",
+            700004183
+        ]
+    ],
+    [
+        "You are currently at Citibank.",
+        "(11:03, 11:54)",
+        [
+            "",
+            700019430
+        ]
+    ],
+    [
+        "Go for a relaxing walk in a local park.",
+        "(12:36, 14:07)",
+        [
+            "Nao Medical",
+            700011613
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 19:16)",
+        [
+            "J's Kitchen New York",
+            700005270
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 21:55)",
+        [
+            "Citibank",
+            700004183
+        ]
+    ],
+    [
+        "Stay at Citibank",
+        "(20:18, 22:10)",
+        [
+            "1 Av & E 14 St",
+            700011090
+        ]
+    ],
+    [
+        "Stay at Citibank.",
+        "(22:48, 23:51)",
+        [
+            "Citibank",
+            700004183
+        ]
+    ],
+    [
+        "Stay at Citibank.",
+        "(23:43, 23:59)",
+        [
+            "Citibank",
+            700004183
+        ]
+    ]
+]

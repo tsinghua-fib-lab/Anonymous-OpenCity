@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002906
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(10:00, 11:22)",
+        [
+            "Matching Half Cafe",
+            700002068
+        ]
+    ],
+    [
+        "Relax at Matching Half Cafe",
+        "(12:02, 13:42)",
+        [
+            "Matching Half Cafe",
+            700002068
+        ]
+    ],
+    [
+        "Relax at Matching Half Cafe",
+        "(14:25, 16:03)",
+        [
+            "",
+            700001446
+        ]
+    ],
+    [
+        "Relax at Matching Half Cafe",
+        "(16:10, 18:11)",
+        [
+            "",
+            700009621
+        ]
+    ],
+    [
+        "Attend a sports event or match",
+        "(19:01, 20:16)",
+        [
+            "",
+            700001441
+        ]
+    ],
+    [
+        "Relax at Matching Half Cafe",
+        "(21:02, 22:38)",
+        [
+            "Matching Half Cafe",
+            700002068
+        ]
+    ],
+    [
+        "Relax at Matching Half Cafe",
+        "(22:34, 23:59)",
+        [
+            "Matching Half Cafe",
+            700002068
+        ]
+    ]
+]

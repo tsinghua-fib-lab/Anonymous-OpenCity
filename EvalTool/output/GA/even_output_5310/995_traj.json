@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "MedRite Urgent Care",
+            700013561
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:30)",
+        [
+            "Van Leeuwen",
+            700007312
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:58, 17:23)",
+        [
+            "The Smith",
+            700006415
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:35, 21:42)",
+        [
+            "Van Leeuwen",
+            700007312
+        ]
+    ],
+    [
+        "Relaxation",
+        "(21:03, 22:31)",
+        [
+            "Van Leeuwen",
+            700007312
+        ]
+    ],
+    [
+        "Relaxation",
+        "(22:43, 23:59)",
+        [
+            "The Smith",
+            700006415
+        ]
+    ]
+]

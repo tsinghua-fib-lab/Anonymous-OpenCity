@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "POD 39 Rooftop",
+            700007833
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:43)",
+        [
+            "Kalvig & Shorter Veterinary",
+            700016932
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends",
+        "(13:51, 15:15)",
+        [
+            "Empellón Al Pastor",
+            700007832
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 18:18)",
+        [
+            "Ratatouille",
+            700015025
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:16, 22:38)",
+        [
+            "Kalvig & Shorter Veterinary",
+            700016932
+        ]
+    ],
+    [
+        "Next activity based on Situation 1",
+        "(22:47, 23:59)",
+        [
+            "POD 39 Rooftop",
+            700007833
+        ]
+    ]
+]

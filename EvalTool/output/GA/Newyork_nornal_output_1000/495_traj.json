@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Club Pilates",
+            700006202
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:14)",
+        [
+            "NYU Langone Radiology",
+            700006205
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:53, 20:45)",
+        [
+            "Dollar",
+            700025753
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(19:42, 21:02)",
+        [
+            "Psychic Readings",
+            700029597
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(21:08, 22:24)",
+        [
+            "Psychic Readings",
+            700029597
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(22:32, 23:58)",
+        [
+            "Club Pilates",
+            700006202
+        ]
+    ]
+]

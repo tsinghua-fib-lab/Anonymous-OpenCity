@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Subway",
+            700007521
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:32)",
+        [
+            "Subway",
+            700007521
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:06, 16:50)",
+        [
+            "Chipotle",
+            700007348
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 16:54)",
+        [
+            "Apple Bank",
+            700010689
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:06, 22:05)",
+        [
+            "Farook's Halal Cart",
+            700024358
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:25, 23:31)",
+        [
+            "Bravo Pizza",
+            700007522
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:18, 23:35)",
+        [
+            "",
+            700016456
+        ]
+    ]
+]

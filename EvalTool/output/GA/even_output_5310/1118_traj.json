@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - W 22 St & 10 Ave",
+            700008208
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:21)",
+        [
+            "Chase",
+            700004316
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:13, 17:27)",
+        [
+            "The Red Cat",
+            700009195
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(17:08, 18:30)",
+        [
+            "The Red Cat",
+            700009195
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(19:25, 21:54)",
+        [
+            "The Red Cat",
+            700009195
+        ]
+    ],
+    [
+        "Relax at Dish Restaurant",
+        "(22:29, 23:59)",
+        [
+            "",
+            700001322
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(23:55, 23:59)",
+        [
+            "The Red Cat",
+            700009195
+        ]
+    ]
+]

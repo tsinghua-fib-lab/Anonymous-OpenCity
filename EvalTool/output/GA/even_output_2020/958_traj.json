@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002899
+        ]
+    ],
+    [
+        "Outdoor Walk/Exercise",
+        "(10:00, 11:07)",
+        [
+            "",
+            700002899
+        ]
+    ],
+    [
+        "Continue with Outdoor Walk/Exercise",
+        "(11:25, 12:54)",
+        [
+            "",
+            700002899
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:59, 14:06)",
+        [
+            "",
+            700002899
+        ]
+    ],
+    [
+        "Outdoor Walk/Exercise",
+        "(14:22, 16:00)",
+        [
+            "",
+            700002899
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:40, 18:49)",
+        [
+            "The Fillmore Street Cafe",
+            700002343
+        ]
+    ],
+    [
+        "Socializing/Connecting with Friends",
+        "(19:18, 21:03)",
+        [
+            "The Fillmore Street Cafe",
+            700002343
+        ]
+    ],
+    [
+        "Socializing/Connecting with Friends",
+        "(21:32, 23:09)",
+        [
+            "The Fillmore Street Cafe",
+            700002343
+        ]
+    ],
+    [
+        "Socializing/Connecting with Friends",
+        "(23:20, 23:59)",
+        [
+            "The Fillmore Street Cafe",
+            700002343
+        ]
+    ]
+]

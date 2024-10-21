@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Equinox",
+            700005175
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:34)",
+        [
+            "Steve Alper DMD",
+            700003795
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(12:30, 14:09)",
+        [
+            "Equinox",
+            700005175
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 19:59)",
+        [
+            "Wined Up",
+            700013385
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(18:50, 19:50)",
+        [
+            "Cha Cha Matcha",
+            700005176
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:58, 23:59)",
+        [
+            "",
+            700015913
+        ]
+    ]
+]

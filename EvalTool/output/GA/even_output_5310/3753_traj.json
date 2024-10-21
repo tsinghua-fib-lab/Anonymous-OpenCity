@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Stanford in New York Center",
+            700009065
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:09)",
+        [
+            "Wined Up",
+            700013385
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 17:03)",
+        [
+            "Obica Mozzarella Bar",
+            700009141
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:13, 19:35)",
+        [
+            "Cha Cha Matcha",
+            700005176
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:56, 23:59)",
+        [
+            "Punch Bar & Grill",
+            700013386
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(23:04, 23:59)",
+        [
+            "’Wichcraft",
+            700013390
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000817
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:59)",
+        [
+            "",
+            700000817
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:34, 12:12)",
+        [
+            "Pret A Manger",
+            700039955
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:40, 14:06)",
+        [
+            "TMPL Fitness Astor Place",
+            700038327
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(14:28, 15:48)",
+        [
+            "TMPL Fitness Astor Place",
+            700038327
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(16:19, 17:51)",
+        [
+            "TMPL Fitness Astor Place",
+            700038327
+        ]
+    ],
+    [
+        "Catch Up on a TV Show or Movie",
+        "(18:01, 20:09)",
+        [
+            "TMPL Fitness Astor Place",
+            700038327
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:10, 21:34)",
+        [
+            "",
+            700001388
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:49, 23:59)",
+        [
+            "The Donut Pub",
+            700023383
+        ]
+    ]
+]

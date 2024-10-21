@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014223
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:06)",
+        [
+            "",
+            700014223
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:58, 16:40)",
+        [
+            "",
+            700014222
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:19, 16:21)",
+        [
+            "Box Kitchen",
+            700007486
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:02, 19:05)",
+        [
+            "Box Kitchen",
+            700007486
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:29, 20:03)",
+        [
+            "",
+            700011514
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:51, 23:59)",
+        [
+            "",
+            700011515
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:01, 23:59)",
+        [
+            "Balay Kreative Studios",
+            700010230
+        ]
+    ]
+]

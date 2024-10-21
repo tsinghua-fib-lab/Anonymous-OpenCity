@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013308
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:04)",
+        [
+            "The Coffee Berry",
+            700013444
+        ]
+    ],
+    [
+        "Brunch with friends",
+        "(11:11, 12:34)",
+        [
+            "The Coffee Berry",
+            700013444
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 16:15)",
+        [
+            "Chicos Pizza",
+            700004974
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 19:49)",
+        [
+            "Vikings Giant Subs",
+            700004972
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 23:59)",
+        [
+            "Cafe Lé",
+            700002314
+        ]
+    ]
+]

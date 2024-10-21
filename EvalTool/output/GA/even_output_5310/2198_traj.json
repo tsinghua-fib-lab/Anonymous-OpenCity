@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700018399
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:28)",
+        [
+            "",
+            700018399
+        ]
+    ],
+    [
+        "Stay at your current place",
+        "(11:15, 12:20)",
+        [
+            "Kennedy Fried Chicken",
+            700006687
+        ]
+    ],
+    [
+        "Stay at current place",
+        "(13:51, 15:13)",
+        [
+            "Forever Taste Restaurant",
+            700018389
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:34, 20:48)",
+        [
+            "El Castillo De Manhattan",
+            700018400
+        ]
+    ],
+    [
+        "Relaxation & Entertainment",
+        "(18:28, 19:58)",
+        [
+            "Forever Taste Restaurant",
+            700018389
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:48, 22:59)",
+        [
+            "Kennedy Fried Chicken",
+            700006687
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "",
+            700014780
+        ]
+    ]
+]

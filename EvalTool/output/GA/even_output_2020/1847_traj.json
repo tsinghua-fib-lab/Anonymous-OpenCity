@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "First Federal Savings of San Rafael",
+            700000678
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:06)",
+        [
+            "Chestnut Coffee Roastery",
+            700007456
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:47, 11:43)",
+        [
+            "Marina Chiropractic",
+            700000686
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:47, 17:43)",
+        [
+            "Marina Chiropractic",
+            700000686
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 23:55)",
+        [
+            "Original Buffalo Wings",
+            700002284
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(22:39, 23:59)",
+        [
+            "CityCarShare",
+            700001197
+        ]
+    ]
+]

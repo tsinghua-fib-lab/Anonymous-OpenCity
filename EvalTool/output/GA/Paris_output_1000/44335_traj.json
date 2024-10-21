@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "ELAN - relais Pigalle 2",
+            700007079
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:54)",
+        [
+            "",
+            700015581
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:50, 14:20)",
+        [
+            "Kabukicho",
+            700027136
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby",
+        "(14:20, 16:20)",
+        [
+            "Kabukicho",
+            700027136
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:02, 20:54)",
+        [
+            "L'Injuste",
+            700031125
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:33, 23:59)",
+        [
+            "Les Justes",
+            700026215
+        ]
+    ]
+]

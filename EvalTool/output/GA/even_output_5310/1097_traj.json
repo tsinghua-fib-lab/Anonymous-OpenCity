@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "CityMD",
+            700013542
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:14)",
+        [
+            "Little Alley",
+            700000694
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:33, 12:07)",
+        [
+            "Little Alley",
+            700000694
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 13:24)",
+        [
+            "El Rio Grande",
+            700003448
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(16:32, 18:11)",
+        [
+            "El Rio Grande",
+            700003448
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(18:56, 20:22)",
+        [
+            "",
+            700002673
+        ]
+    ],
+    [
+        "After watching sports/entertainment, you should go to El Rio Grande.",
+        "(21:15, 22:38)",
+        [
+            "El Rio Grande",
+            700003448
+        ]
+    ],
+    [
+        "Stay at El Rio Grande.",
+        "(23:12, 23:59)",
+        [
+            "El Rio Grande",
+            700003448
+        ]
+    ]
+]

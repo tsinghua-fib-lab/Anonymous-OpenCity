@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020972
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:59)",
+        [
+            "",
+            700063360
+        ]
+    ],
+    [
+        "Outdoor Activities or Sports",
+        "(12:33, 14:32)",
+        [
+            "Le Coq Rico",
+            700024514
+        ]
+    ],
+    [
+        "Outdoor Activities or Sports",
+        "(14:57, 16:34)",
+        [
+            "Le Coq Rico",
+            700024514
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:20, 19:03)",
+        [
+            "Le Coq Rico",
+            700024514
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:59, 23:59)",
+        [
+            "",
+            700061959
+        ]
+    ],
+    [
+        "Current place stay",
+        "(21:04, 22:00)",
+        [
+            "",
+            700062264
+        ]
+    ],
+    [
+        "Current place stay",
+        "(23:20, 23:59)",
+        [
+            "",
+            700061962
+        ]
+    ]
+]

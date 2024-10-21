@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "ChargePoint",
+            700012435
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the nearby park or neighborhood to enjoy the fresh air.",
+        "(09:00, 10:02)",
+        [
+            "ChargePoint",
+            700012435
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:39, 11:35)",
+        [
+            "Hertz",
+            700008384
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:35, 17:59)",
+        [
+            "Mee's Noodle",
+            700014650
+        ]
+    ],
+    [
+        "Current Place: ChargePoint; Stay Time: 1 hour 24 minutes",
+        "(21:36, 23:10)",
+        [
+            "MedRite Urgent Care",
+            700013561
+        ]
+    ],
+    [
+        "Next place: ChargePoint",
+        "(23:34, 23:59)",
+        [
+            "ChargePoint",
+            700012435
+        ]
+    ]
+]

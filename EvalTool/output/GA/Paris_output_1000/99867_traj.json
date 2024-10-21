@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Joe & The Juice",
+            700071603
+        ]
+    ],
+    [
+        "Outdoor Activity/Sport",
+        "(10:00, 11:57)",
+        [
+            "Joe & The Juice",
+            700071603
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:53, 15:09)",
+        [
+            "Haussmann Galeries Lafayette",
+            700005040
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(17:20, 19:00)",
+        [
+            "Le Cube Bar",
+            700034323
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:48, 23:59)",
+        [
+            "Haussmann Galeries Lafayette",
+            700059941
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:49, 23:59)",
+        [
+            "",
+            700055249
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:46, 23:59)",
+        [
+            "Pharmacie Carré Opéra",
+            700010239
+        ]
+    ]
+]

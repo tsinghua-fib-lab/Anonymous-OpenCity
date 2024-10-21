@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "El Rio Grande",
+            700003448
+        ]
+    ],
+    [
+        "Go for a morning walk or jog in a nearby park.",
+        "(09:00, 09:52)",
+        [
+            "",
+            700006409
+        ]
+    ],
+    [
+        "Read a book or catch up on a favorite podcast.",
+        "(11:00, 12:24)",
+        [
+            "Sophra Grill",
+            700017624
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:39, 17:58)",
+        [
+            "",
+            700001182
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:54, 20:24)",
+        [
+            "",
+            700002470
+        ]
+    ],
+    [
+        "Next place after enjoying food at El Rio Grande.",
+        "(22:16, 23:59)",
+        [
+            "",
+            700001582
+        ]
+    ],
+    [
+        "Next place after enjoying food at El Rio Grande.",
+        "(23:55, 23:59)",
+        [
+            "El Rio Grande",
+            700003448
+        ]
+    ]
+]

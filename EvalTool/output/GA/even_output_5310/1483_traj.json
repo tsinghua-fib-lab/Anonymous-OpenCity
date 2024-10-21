@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bank of Baroda",
+            700003431
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:56)",
+        [
+            "",
+            700022522
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:45, 13:02)",
+        [
+            "Lucid Body House",
+            700006343
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:41, 15:08)",
+        [
+            "Lucid Body House",
+            700006343
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:58, 20:34)",
+        [
+            "Utopia Bagels",
+            700015188
+        ]
+    ],
+    [
+        "Dinner at Home",
+        "(19:36, 20:59)",
+        [
+            "",
+            700001067
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(21:55, 22:53)",
+        [
+            "Utopia Bagels",
+            700015188
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:29, 23:59)",
+        [
+            "Lucid Body House",
+            700006343
+        ]
+    ]
+]

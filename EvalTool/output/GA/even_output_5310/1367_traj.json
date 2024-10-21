@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001594
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:02)",
+        [
+            "",
+            700002938
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:54, 13:23)",
+        [
+            "",
+            700001594
+        ]
+    ],
+    [
+        "Stay at Unknown Place",
+        "(14:30, 15:58)",
+        [
+            "",
+            700000878
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(17:27, 19:04)",
+        [
+            "",
+            700001215
+        ]
+    ],
+    [
+        "Stay at Unknown Place",
+        "(19:29, 21:07)",
+        [
+            "Gerlateria Gentile",
+            700007659
+        ]
+    ],
+    [
+        "Stay at Unknown Place",
+        "(21:24, 22:24)",
+        [
+            "Gerlateria Gentile",
+            700007659
+        ]
+    ],
+    [
+        "Stay at Unknown Place",
+        "(22:54, 23:59)",
+        [
+            "Gerlateria Gentile",
+            700007659
+        ]
+    ]
+]

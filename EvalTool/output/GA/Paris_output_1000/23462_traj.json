@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030016
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:11)",
+        [
+            "",
+            700021370
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 13:17)",
+        [
+            "",
+            700073815
+        ]
+    ],
+    [
+        "Relaxing Time",
+        "(15:35, 16:43)",
+        [
+            "Loulou Montmartre",
+            700048414
+        ]
+    ],
+    [
+        "Watch a Movie",
+        "(17:03, 18:39)",
+        [
+            "Loulou Montmartre",
+            700048414
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:03, 20:42)",
+        [
+            "Loulou Montmartre",
+            700048414
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:38, 23:59)",
+        [
+            "L'Été en Pente Douce",
+            700001717
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(23:44, 23:59)",
+        [
+            "Maison du Knafé",
+            700023536
+        ]
+    ]
+]

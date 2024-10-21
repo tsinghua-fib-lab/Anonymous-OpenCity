@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000664
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:34)",
+        [
+            "Little Window by Bicycle Banh Mi",
+            700004523
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(11:33, 13:05)",
+        [
+            "Little Window by Bicycle Banh Mi",
+            700004523
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(13:30, 15:02)",
+        [
+            "Little Window by Bicycle Banh Mi",
+            700004523
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:39, 20:59)",
+        [
+            "Chica",
+            700005216
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:00, 23:59)",
+        [
+            "Wells Fargo",
+            700000810
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700009353
+        ]
+    ]
+]

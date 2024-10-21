@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700036444
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:59)",
+        [
+            "",
+            700036441
+        ]
+    ],
+    [
+        "Personal Project or Hobby",
+        "(12:37, 13:54)",
+        [
+            "",
+            700036438
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:48, 16:11)",
+        [
+            "",
+            700036441
+        ]
+    ],
+    [
+        "Relaxation or Reading",
+        "(21:08, 23:01)",
+        [
+            "",
+            700036450
+        ]
+    ],
+    [
+        "Personal Project or Hobby",
+        "(23:52, 23:59)",
+        [
+            "Duane Reade",
+            700014091
+        ]
+    ]
+]

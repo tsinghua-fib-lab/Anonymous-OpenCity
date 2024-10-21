@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Abacus",
+            700006659
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:34)",
+        [
+            "Abacus",
+            700006659
+        ]
+    ],
+    [
+        "Leisure Activity: Movie or Reading",
+        "(11:38, 13:26)",
+        [
+            "Bagel Market",
+            700040279
+        ]
+    ],
+    [
+        "Leisure Activity: Movie or Reading",
+        "(14:14, 16:02)",
+        [
+            "Variety Coffee",
+            700013990
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(16:43, 18:20)",
+        [
+            "Variety Coffee",
+            700013990
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 22:42)",
+        [
+            "",
+            700034729
+        ]
+    ]
+]

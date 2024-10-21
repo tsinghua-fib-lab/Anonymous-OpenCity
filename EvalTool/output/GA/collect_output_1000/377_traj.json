@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030403
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:35)",
+        [
+            "",
+            700030416
+        ]
+    ],
+    [
+        "Continue Outdoor Activity",
+        "(11:44, 13:22)",
+        [
+            "Club A Steakhouse",
+            700030620
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:46, 19:16)",
+        [
+            "Serendipity 3",
+            700009075
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:32, 20:38)",
+        [
+            "The Pita Grill",
+            700011530
+        ]
+    ],
+    [
+        "Continue Relaxation and Entertainment",
+        "(22:35, 23:59)",
+        [
+            "",
+            700030403
+        ]
+    ]
+]

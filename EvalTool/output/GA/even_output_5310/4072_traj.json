@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700004375
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the nearby park or nature reserve.",
+        "(10:00, 11:03)",
+        [
+            "Bagel and More",
+            700004367
+        ]
+    ],
+    [
+        "Go for a relaxing walk in the nearby park or nature reserve.",
+        "(10:58, 11:56)",
+        [
+            "Bagel and More",
+            700004367
+        ]
+    ],
+    [
+        "Attend a yoga class or engage in a home workout.",
+        "(12:15, 13:37)",
+        [
+            "Bagel and More",
+            700004367
+        ]
+    ],
+    [
+        "Stay at Bagel and More for lunch.",
+        "(14:39, 16:05)",
+        [
+            "Duane Reade",
+            700004369
+        ]
+    ],
+    [
+        "current place and stay time",
+        "(16:25, 18:04)",
+        [
+            "Bagel and More",
+            700004367
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 20:39)",
+        [
+            "",
+            700020093
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 23:55)",
+        [
+            "Fresh 99 cents pizza",
+            700023548
+        ]
+    ],
+    [
+        "current place and stay time",
+        "(22:11, 23:46)",
+        [
+            "Bagel and More",
+            700004367
+        ]
+    ],
+    [
+        "Current place and stay time.",
+        "(23:49, 23:59)",
+        [
+            "Bagel and More",
+            700004367
+        ]
+    ]
+]

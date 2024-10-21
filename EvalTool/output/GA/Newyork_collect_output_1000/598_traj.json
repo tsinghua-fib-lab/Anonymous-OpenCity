@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:39)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:23, 15:28)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Entertainment",
+        "(16:03, 17:33)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Entertainment",
+        "(17:37, 18:54)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:10, 23:36)",
+        [
+            "Thai V Express",
+            700017625
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ]
+]

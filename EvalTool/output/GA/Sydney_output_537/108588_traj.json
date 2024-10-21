@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006118
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:40)",
+        [
+            "Market City Car Park",
+            700003379
+        ]
+    ],
+    [
+        "Catch Up on a Show or Movie",
+        "(15:47, 17:16)",
+        [
+            "KOGI Korean BBQ",
+            700018176
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:14, 22:14)",
+        [
+            "Commonwealth Bank",
+            700006117
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:50, 23:59)",
+        [
+            "Commonwealth Bank",
+            700006117
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001778
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(09:00, 10:07)",
+        [
+            "Le Pain Quotidien",
+            700006028
+        ]
+    ],
+    [
+        "Engage in a hobby or craft",
+        "(10:13, 11:44)",
+        [
+            "Le Pain Quotidien",
+            700006028
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:46, 14:10)",
+        [
+            "Yia Yia's Homemade Greek Food",
+            700021866
+        ]
+    ],
+    [
+        "Engage in a hobby or craft",
+        "(16:01, 17:58)",
+        [
+            "Famous Famiglia",
+            700021865
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 21:03)",
+        [
+            "",
+            700001778
+        ]
+    ]
+]

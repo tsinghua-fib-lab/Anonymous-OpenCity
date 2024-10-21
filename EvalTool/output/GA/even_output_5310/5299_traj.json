@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chase",
+            700003498
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(10:00, 10:55)",
+        [
+            "Chase",
+            700003498
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:21, 13:17)",
+        [
+            "",
+            700026592
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:50, 19:42)",
+        [
+            "Brooklyn Deli",
+            700029807
+        ]
+    ],
+    [
+        "Dinner Preparation & Eating",
+        "(17:59, 19:03)",
+        [
+            "Chase",
+            700003498
+        ]
+    ],
+    [
+        "Wind Down with Family/Friends or Reading",
+        "(19:42, 21:33)",
+        [
+            "Chase",
+            700003498
+        ]
+    ],
+    [
+        "Wind Down with Family/Friends or Reading",
+        "(22:10, 23:59)",
+        [
+            "bella vita tranttoria",
+            700015910
+        ]
+    ]
+]

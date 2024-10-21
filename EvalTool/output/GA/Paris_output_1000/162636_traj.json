@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "pharmacie",
+            700061685
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:04)",
+        [
+            "Roger Salengro - Fontainebleau",
+            700045123
+        ]
+    ],
+    [
+        "Afternoon Outing",
+        "(15:20, 18:01)",
+        [
+            "Roger Salengro - Fontainebleau",
+            700045123
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:02, 21:54)",
+        [
+            "EPITA - Campus Paris Kremlin-Bicêtre",
+            700064836
+        ]
+    ],
+    [
+        "Sleep at 23:29.",
+        "(23:29, 23:59)",
+        [
+            "pharmacie",
+            700061685
+        ]
+    ]
+]

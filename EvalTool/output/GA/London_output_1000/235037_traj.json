@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:03)",
+        [
+            "",
+            700054512
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 15:17)",
+        [
+            "Top Secret Comedy Club",
+            700019580
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:44, 18:59)",
+        [
+            "",
+            700064399
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(20:06, 21:27)",
+        [
+            "Guanabara",
+            700007412
+        ]
+    ],
+    [
+        "Stay at the current place.",
+        "(22:01, 23:20)",
+        [
+            "Drury Lane",
+            700007413
+        ]
+    ],
+    [
+        "Go to Drury Lane",
+        "(23:36, 23:59)",
+        [
+            "Drury Lane",
+            700007413
+        ]
+    ]
+]

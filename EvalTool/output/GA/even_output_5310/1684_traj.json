@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Barnes Bistro",
+            700006422
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:58)",
+        [
+            "The Comfort Diner",
+            700006684
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:23, 18:24)",
+        [
+            "Subway",
+            700013322
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:05, 19:23)",
+        [
+            "",
+            700000691
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:43, 23:09)",
+        [
+            "Barnes Bistro",
+            700006422
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:55, 23:59)",
+        [
+            "Barnes Bistro",
+            700006422
+        ]
+    ]
+]

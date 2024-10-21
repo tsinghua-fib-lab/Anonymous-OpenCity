@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700006705
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(09:00, 10:10)",
+        [
+            "",
+            700006705
+        ]
+    ],
+    [
+        "Morning Walk or Jog",
+        "(10:16, 11:59)",
+        [
+            "The Bravest",
+            700017771
+        ]
+    ],
+    [
+        "Visit the Local Market",
+        "(12:35, 14:09)",
+        [
+            "The Bravest",
+            700017771
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:02, 16:39)",
+        [
+            "Duane Reade",
+            700007837
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(17:24, 20:01)",
+        [
+            "Duane Reade",
+            700007837
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:54, 23:59)",
+        [
+            "",
+            700006705
+        ]
+    ]
+]

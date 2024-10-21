@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002907
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 11:14)",
+        [
+            "Casements",
+            700014035
+        ]
+    ],
+    [
+        "Situatuion_2",
+        "(11:22, 12:58)",
+        [
+            "Casements",
+            700014035
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:50, 17:11)",
+        [
+            "Café de Olla",
+            700012291
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:42, 20:39)",
+        [
+            "",
+            700009534
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(18:33, 20:03)",
+        [
+            "Arabian Nights",
+            700014034
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 23:59)",
+        [
+            "El Porteño II",
+            700014027
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Motorcycle Parking (metered bays)",
+            700005856
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:02)",
+        [
+            "Bank of America",
+            700005332
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(10:50, 11:52)",
+        [
+            "Bank of America",
+            700005332
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:07, 14:31)",
+        [
+            "Bank of America",
+            700005332
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:07, 16:39)",
+        [
+            "Bank of America",
+            700005332
+        ]
+    ],
+    [
+        "Dinner and Family Time",
+        "(17:17, 18:56)",
+        [
+            "",
+            700005552
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:48, 21:53)",
+        [
+            "",
+            700005550
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:36, 23:59)",
+        [
+            "",
+            700011942
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030389
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:13)",
+        [
+            "",
+            700030409
+        ]
+    ],
+    [
+        "Personal Projects/Tech Learning",
+        "(12:17, 14:21)",
+        [
+            "Gansevoort Market",
+            700008484
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:48, 18:01)",
+        [
+            "Bagatelle",
+            700008483
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(19:03, 21:00)",
+        [
+            "Spice Market",
+            700008840
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:38, 23:59)",
+        [
+            "Troy",
+            700004117
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030397
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:55)",
+        [
+            "",
+            700030396
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:45, 20:18)",
+        [
+            "",
+            700030386
+        ]
+    ],
+    [
+        "Watch a Movie/Series",
+        "(17:59, 19:25)",
+        [
+            "Poco",
+            700008391
+        ]
+    ],
+    [
+        "Current place: Poco",
+        "(19:56, 21:08)",
+        [
+            "Poco",
+            700008391
+        ]
+    ],
+    [
+        "Current place: Poco. Enjoy your time while preparing dinner.",
+        "(21:50, 23:59)",
+        [
+            "Poco",
+            700008391
+        ]
+    ],
+    [
+        "Continue Dinner Preparation and Relaxation.",
+        "(23:54, 23:59)",
+        [
+            "Duane Reade",
+            700008396
+        ]
+    ]
+]

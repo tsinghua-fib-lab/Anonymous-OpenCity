@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "b on the go",
+            700010094
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 12:00)",
+        [
+            "",
+            700000784
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 16:30)",
+        [
+            "The City Taqueria",
+            700007891
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:56, 18:00)",
+        [
+            "The City Taqueria",
+            700007891
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 22:44)",
+        [
+            "El Burrito Express",
+            700005282
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "Pete's Deli & Cafe",
+            700004902
+        ]
+    ]
+]

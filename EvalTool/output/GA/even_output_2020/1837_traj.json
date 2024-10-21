@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008739
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:56)",
+        [
+            "German School of San Francisco",
+            700010715
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:47, 12:50)",
+        [
+            "German School of San Francisco",
+            700010715
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:47, 17:50)",
+        [
+            "German School of San Francisco",
+            700010715
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 21:46)",
+        [
+            "Cote Sud",
+            700000861
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(22:39, 23:59)",
+        [
+            "Cote Sud",
+            700000861
+        ]
+    ]
+]

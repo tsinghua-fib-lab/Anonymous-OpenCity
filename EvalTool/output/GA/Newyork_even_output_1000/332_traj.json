@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CityMD",
+            700020713
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:48)",
+        [
+            "Grainne Cafe",
+            700023155
+        ]
+    ],
+    [
+        "Afternoon Free Time",
+        "(13:51, 15:29)",
+        [
+            "Blossom- Chelsea",
+            700008701
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 21:26)",
+        [
+            "",
+            700002757
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:16, 20:54)",
+        [
+            "",
+            700001466
+        ]
+    ],
+    [
+        "Next activity based on Situation 9",
+        "(22:47, 23:59)",
+        [
+            "Blossom- Chelsea",
+            700008701
+        ]
+    ]
+]

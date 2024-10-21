@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Nasdaq MarketSite",
+            700040723
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby (11:00 AM - 12:30 PM)",
+        "(10:00, 11:23)",
+        [
+            "Nasdaq MarketSite",
+            700040723
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby",
+        "(12:09, 13:50)",
+        [
+            "Nasdaq MarketSite",
+            700040723
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:38, 16:04)",
+        [
+            "Nasdaq MarketSite",
+            700040723
+        ]
+    ],
+    [
+        "Socialize or Chat with Friends",
+        "(16:41, 17:55)",
+        [
+            "Nasdaq MarketSite",
+            700040723
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:26, 20:59)",
+        [
+            "Burger & Lobster",
+            700017746
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:13, 23:59)",
+        [
+            "",
+            700002825
+        ]
+    ]
+]

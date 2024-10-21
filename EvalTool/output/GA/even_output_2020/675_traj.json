@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000560
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:45)",
+        [
+            "Basil Canteen",
+            700003302
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:57, 16:31)",
+        [
+            "Izakaya House",
+            700003300
+        ]
+    ],
+    [
+        "Watch a movie or binge a series on streaming platforms",
+        "(16:30, 18:34)",
+        [
+            "",
+            700013980
+        ]
+    ],
+    [
+        "Prepare a simple dinner and enjoy it around 6:00 PM.",
+        "(18:23, 19:58)",
+        [
+            "",
+            700013986
+        ]
+    ],
+    [
+        "Watch a movie or series",
+        "(20:31, 21:52)",
+        [
+            "",
+            700000560
+        ]
+    ],
+    [
+        "Stay at Bay Wheels enjoying the atmosphere",
+        "(22:19, 23:54)",
+        [
+            "Bay Wheels",
+            700010692
+        ]
+    ],
+    [
+        "Stay at Bay Wheels",
+        "(23:56, 23:59)",
+        [
+            "Bay Wheels",
+            700010692
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700064855
+        ]
+    ],
+    [
+        "Stay at Ticket Validator",
+        "(09:00, 11:59)",
+        [
+            "",
+            700064855
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:12, 11:55)",
+        [
+            "",
+            700065062
+        ]
+    ],
+    [
+        "Stay at Ticket Validator",
+        "(12:30, 13:52)",
+        [
+            "Chez Taeko",
+            700065941
+        ]
+    ],
+    [
+        "Lunch with friends or family",
+        "(14:22, 16:25)",
+        [
+            "Chez Taeko",
+            700065941
+        ]
+    ],
+    [
+        "Engage in a fun sports activity",
+        "(16:14, 18:08)",
+        [
+            "Chez Taeko",
+            700065941
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 23:06)",
+        [
+            "Caisse d'Épargne",
+            700002863
+        ]
+    ],
+    [
+        "Le General",
+        "(21:28, 22:53)",
+        [
+            "BRED",
+            700002864
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "",
+            700049645
+        ]
+    ]
+]

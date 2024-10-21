@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Taq",
+            700018639
+        ]
+    ],
+    [
+        "10:00 AM - Go for a Walk",
+        "(09:00, 10:06)",
+        [
+            "Pret A Manger",
+            700003549
+        ]
+    ],
+    [
+        "11:00 AM - Enjoy a Hobby",
+        "(10:11, 11:34)",
+        [
+            "Pret A Manger",
+            700003549
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(12:39, 14:17)",
+        [
+            "Taq",
+            700018639
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(13:30, 15:09)",
+        [
+            "Pret A Manger",
+            700003549
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:09, 20:16)",
+        [
+            "",
+            700035102
+        ]
+    ],
+    [
+        "Outdoor Sports or Exercise",
+        "(16:23, 18:03)",
+        [
+            "",
+            700017641
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:23, 23:46)",
+        [
+            "The Little Beet",
+            700012637
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "",
+            700035102
+        ]
+    ]
+]

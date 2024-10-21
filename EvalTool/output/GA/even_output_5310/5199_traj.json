@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001518
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(09:00, 09:57)",
+        [
+            "",
+            700001518
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:03, 15:03)",
+        [
+            "",
+            700024471
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(16:12, 17:20)",
+        [
+            "Citi Bike - Centre St & Chambers St",
+            700007992
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(17:40, 19:07)",
+        [
+            "Citi Bike - Centre St & Chambers St",
+            700007992
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:07, 22:40)",
+        [
+            "",
+            700022897
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "",
+            700035314
+        ]
+    ]
+]

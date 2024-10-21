@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011642
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:03)",
+        [
+            "",
+            700011654
+        ]
+    ],
+    [
+        "Socializing",
+        "(16:32, 17:58)",
+        [
+            "EM Normandie Business School",
+            700053703
+        ]
+    ],
+    [
+        "Socializing",
+        "(18:21, 20:03)",
+        [
+            "",
+            700011666
+        ]
+    ],
+    [
+        "Socializing",
+        "(20:16, 21:55)",
+        [
+            "EM Normandie Business School",
+            700053703
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:23, 23:59)",
+        [
+            "",
+            700032988
+        ]
+    ],
+    [
+        "Socializing",
+        "(23:42, 23:59)",
+        [
+            "EM Normandie Business School",
+            700053703
+        ]
+    ]
+]

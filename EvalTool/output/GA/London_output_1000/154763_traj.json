@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(09:00, 10:31)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Continue to watch a movie or series",
+        "(11:15, 13:39)",
+        [
+            "Burger King",
+            700004086
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:47, 18:00)",
+        [
+            "",
+            700037187
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:50, 21:50)",
+        [
+            "",
+            700024991
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:57, 23:04)",
+        [
+            "Asadal",
+            700009014
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(23:32, 23:59)",
+        [
+            "Asadal",
+            700009014
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Lers Ros",
+            700002386
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:23)",
+        [
+            "Lers Ros",
+            700002386
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:49, 13:08)",
+        [
+            "Nina's Cafe",
+            700011039
+        ]
+    ],
+    [
+        "Continue Brunch",
+        "(13:08, 14:43)",
+        [
+            "Nina's Cafe",
+            700011039
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:24, 16:22)",
+        [
+            "",
+            700013099
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:55, 17:55)",
+        [
+            "Joe Henderson Lab",
+            700013567
+        ]
+    ],
+    [
+        "Coffee Break",
+        "(18:20, 19:43)",
+        [
+            "Joe Henderson Lab",
+            700013567
+        ]
+    ],
+    [
+        "Watch a TV show or play board games with family/friends.",
+        "(20:49, 22:24)",
+        [
+            "Nina's Cafe",
+            700011039
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:59)",
+        [
+            "Tucker Theater",
+            700008160
+        ]
+    ]
+]

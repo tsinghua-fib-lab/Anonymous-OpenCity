@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Taishan Cuisine",
+            700003887
+        ]
+    ],
+    [
+        "Current place: Taishan Cuisine. Stay time: 1 hour.",
+        "(10:00, 11:00)",
+        [
+            "HolyCraft Brewery",
+            700003888
+        ]
+    ],
+    [
+        "Go to HolyCraft Brewery for lunch.",
+        "(11:57, 13:21)",
+        [
+            "HolyCraft Brewery",
+            700003888
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:36, 14:58)",
+        [
+            "HolyCraft Brewery",
+            700003888
+        ]
+    ],
+    [
+        "Go home and relax.",
+        "(15:45, 17:23)",
+        [
+            "Taishan Cuisine",
+            700003887
+        ]
+    ],
+    [
+        "Recreational activity.",
+        "(17:31, 18:36)",
+        [
+            "Taishan Cuisine",
+            700003887
+        ]
+    ],
+    [
+        "Next activity: Participate in a recreational activity.",
+        "(19:29, 20:50)",
+        [
+            "Metropolitan Bank",
+            700004198
+        ]
+    ],
+    [
+        "Relaxing at Metropolitan Bank after participating in a recreational activity.",
+        "(21:47, 22:57)",
+        [
+            "Metropolitan Bank",
+            700004198
+        ]
+    ],
+    [
+        "You will stay at Taishan Cuisine.",
+        "(23:46, 23:59)",
+        [
+            "Taishan Cuisine",
+            700003887
+        ]
+    ]
+]

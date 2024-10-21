@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pilsner Inn",
+            700000828
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:43)",
+        [
+            "Walgreens & Live Fit Gym Underground Parking Garage",
+            700001410
+        ]
+    ],
+    [
+        "Brunch with friends",
+        "(11:11, 12:34)",
+        [
+            "Walgreens & Live Fit Gym Underground Parking Garage",
+            700001410
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 18:56)",
+        [
+            "",
+            700010257
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 18:15)",
+        [
+            "",
+            700013316
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 23:59)",
+        [
+            "Red Jade",
+            700009177
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Wake Up & Leisure Time",
+        "(09:00, 09:51)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:09, 11:29)",
+        [
+            "Burger King",
+            700004086
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:30, 16:49)",
+        [
+            "",
+            700063204
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:03, 18:23)",
+        [
+            "",
+            700063270
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(18:52, 19:53)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:14, 23:59)",
+        [
+            "",
+            700011101
+        ]
+    ]
+]

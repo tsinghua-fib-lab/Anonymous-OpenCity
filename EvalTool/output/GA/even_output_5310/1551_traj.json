@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700011138
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:52)",
+        [
+            "Icon Parking",
+            700003603
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:04, 11:54)",
+        [
+            "Icon Parking",
+            700003603
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:51, 14:42)",
+        [
+            "Icon Parking",
+            700003603
+        ]
+    ],
+    [
+        "Sports/Outdoor Activity",
+        "(15:28, 17:36)",
+        [
+            "Icon Parking",
+            700003603
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 20:47)",
+        [
+            "Citi Bike - East 39th Street & 2nd Avenue",
+            700008045
+        ]
+    ],
+    [
+        "TV/Movies or Family Time",
+        "(21:45, 23:02)",
+        [
+            "Citi Bike - East 39th Street & 2nd Avenue",
+            700008045
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "",
+            700014645
+        ]
+    ]
+]

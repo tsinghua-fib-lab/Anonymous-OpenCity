@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:33)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(11:53, 13:23)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 15:36)",
+        [
+            "",
+            700045028
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 17:01)",
+        [
+            "",
+            700045016
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:51, 22:55)",
+        [
+            "",
+            700045025
+        ]
+    ],
+    [
+        "Next activity after current time",
+        "(23:11, 23:59)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ]
+]

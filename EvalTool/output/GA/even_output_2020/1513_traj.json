@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014183
+        ]
+    ],
+    [
+        "Go for a jog or outdoor exercise in the park",
+        "(10:00, 10:59)",
+        [
+            "",
+            700005313
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:04, 16:51)",
+        [
+            "",
+            700003640
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:19, 19:17)",
+        [
+            "",
+            700004025
+        ]
+    ],
+    [
+        "Meet friends for a coffee or a casual catch-up",
+        "(17:31, 19:05)",
+        [
+            "18th Street Station",
+            700000386
+        ]
+    ],
+    [
+        "Attend a sports event or watch a game at home",
+        "(19:42, 21:09)",
+        [
+            "",
+            700008738
+        ]
+    ],
+    [
+        "Go to Noe Indian Kitchen",
+        "(22:02, 22:52)",
+        [
+            "",
+            700008738
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "Sisters Coffee Shop",
+            700008740
+        ]
+    ]
+]

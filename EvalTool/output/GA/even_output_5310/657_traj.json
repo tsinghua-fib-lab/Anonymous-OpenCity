@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Repertorio Español",
+            700020947
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:39)",
+        [
+            "Jack Diamond's",
+            700033073
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:26, 16:04)",
+        [
+            "New York 27 Lexington Deli & Grocery",
+            700015589
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 18:34)",
+        [
+            "Kailash Parbat",
+            700006242
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:28, 21:23)",
+        [
+            "Sahib Indian Cuisine",
+            700016454
+        ]
+    ],
+    [
+        "Go to Desi Galli.",
+        "(19:04, 20:26)",
+        [
+            "Desi Galli",
+            700015882
+        ]
+    ],
+    [
+        "Go to Kailash Parbat",
+        "(21:09, 22:46)",
+        [
+            "Kailash Parbat",
+            700006242
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "",
+            700019943
+        ]
+    ]
+]

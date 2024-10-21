@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:37)",
+        [
+            "",
+            700059878
+        ]
+    ],
+    [
+        "Outdoor Leisure Activities",
+        "(15:33, 17:37)",
+        [
+            "",
+            700059873
+        ]
+    ],
+    [
+        "Dinner Preparation and Dinner",
+        "(18:22, 19:52)",
+        [
+            "",
+            700059881
+        ]
+    ],
+    [
+        "Dinner Preparation and Dinner",
+        "(19:54, 21:07)",
+        [
+            "Baluchi",
+            700030915
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:57, 23:59)",
+        [
+            "Baluchi",
+            700030915
+        ]
+    ]
+]

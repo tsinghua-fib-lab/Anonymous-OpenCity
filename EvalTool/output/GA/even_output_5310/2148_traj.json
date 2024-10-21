@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700025028
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:20)",
+        [
+            "CPC Chung Pak Day Care Center",
+            700005316
+        ]
+    ],
+    [
+        "Leisure Activity (Reading or Hobbies)",
+        "(13:40, 15:32)",
+        [
+            "",
+            700037879
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 18:05)",
+        [
+            "",
+            700002822
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(17:36, 19:12)",
+        [
+            "Taiyaki NYC",
+            700014552
+        ]
+    ],
+    [
+        "Explore the library, visit Rabbi Edward E. Klein Memorial Library",
+        "(20:02, 21:54)",
+        [
+            "Rendr",
+            700028532
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:02, 23:59)",
+        [
+            "Taiyaki NYC",
+            700014552
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:56, 23:59)",
+        [
+            "",
+            700025028
+        ]
+    ]
+]

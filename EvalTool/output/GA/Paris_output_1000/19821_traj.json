@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Urfa Durum",
+            700005234
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:11)",
+        [
+            "Derya",
+            700013921
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(14:28, 16:34)",
+        [
+            "Derya",
+            700013921
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(17:26, 18:50)",
+        [
+            "Derya",
+            700013921
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:40, 21:52)",
+        [
+            "Derya",
+            700013921
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(22:19, 23:59)",
+        [
+            "Derya",
+            700013921
+        ]
+    ]
+]

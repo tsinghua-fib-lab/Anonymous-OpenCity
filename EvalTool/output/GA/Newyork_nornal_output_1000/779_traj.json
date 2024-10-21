@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi bike - East 68th Street & 3rd Avenue",
+            700017449
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:10)",
+        [
+            "",
+            700005985
+        ]
+    ],
+    [
+        "Personal Project or Hobby",
+        "(10:25, 12:05)",
+        [
+            "Citi bike - East 68th Street & 3rd Avenue",
+            700017449
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 13:08)",
+        [
+            "",
+            700011412
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:31, 23:21)",
+        [
+            "",
+            700011412
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:44, 23:59)",
+        [
+            "",
+            700001800
+        ]
+    ]
+]

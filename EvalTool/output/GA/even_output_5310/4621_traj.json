@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700004723
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:36)",
+        [
+            "La Colombe Coffee Roasters",
+            700007796
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:48, 13:13)",
+        [
+            "Citi Bike - Great Jones St",
+            700008087
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:31, 19:54)",
+        [
+            "Honeybrains",
+            700011458
+        ]
+    ],
+    [
+        "Relax and Leisure Time",
+        "(17:54, 18:57)",
+        [
+            "Gene Frankel Theatre",
+            700009310
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:12, 20:11)",
+        [
+            "Los Tacos No.1",
+            700041007
+        ]
+    ],
+    [
+        "Dinner and Movie Night",
+        "(23:57, 23:59)",
+        [
+            "Los Tacos No.1",
+            700041007
+        ]
+    ]
+]

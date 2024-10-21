@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006164
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:02)",
+        [
+            "",
+            700006164
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:14, 14:02)",
+        [
+            "",
+            700001475
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:29, 15:50)",
+        [
+            "",
+            700003765
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:52, 17:17)",
+        [
+            "CVS Pharmacy",
+            700004315
+        ]
+    ],
+    [
+        "Sports or Exercise",
+        "(17:53, 19:10)",
+        [
+            "CVS Pharmacy",
+            700004315
+        ]
+    ],
+    [
+        "Dinner & Relaxation",
+        "(19:54, 21:04)",
+        [
+            "",
+            700006164
+        ]
+    ],
+    [
+        "Stay at The Half King and relax",
+        "(21:21, 22:45)",
+        [
+            "The Half King",
+            700008828
+        ]
+    ],
+    [
+        "Stay at The Half King and relax",
+        "(23:01, 23:59)",
+        [
+            "The Half King",
+            700008828
+        ]
+    ]
+]

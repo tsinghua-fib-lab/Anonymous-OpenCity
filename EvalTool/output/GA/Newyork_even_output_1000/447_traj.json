@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citibank",
+            700012822
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:02)",
+        [
+            "USPS",
+            700005986
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:48, 19:19)",
+        [
+            "Seamore's",
+            700021736
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 20:44)",
+        [
+            "",
+            700017438
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:23, 20:10)",
+        [
+            "BLT Prime",
+            700017615
+        ]
+    ],
+    [
+        "Evening Wind Down with Reading",
+        "(22:03, 23:35)",
+        [
+            "Orsay",
+            700017617
+        ]
+    ],
+    [
+        "Evening Wind Down with Reading",
+        "(23:58, 23:59)",
+        [
+            "BLT Prime",
+            700017615
+        ]
+    ]
+]

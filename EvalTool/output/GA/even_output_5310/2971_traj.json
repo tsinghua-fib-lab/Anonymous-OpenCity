@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Subject",
+            700006112
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 10:59)",
+        [
+            "Subject",
+            700006112
+        ]
+    ],
+    [
+        "Brunch",
+        "(11:54, 13:03)",
+        [
+            "Subject",
+            700006112
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:57, 14:18)",
+        [
+            "Subject",
+            700006112
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(15:03, 16:06)",
+        [
+            "Subject",
+            700006112
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 21:45)",
+        [
+            "Ariel's Latin Bistro",
+            700009573
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 19:28)",
+        [
+            "Little Free Library",
+            700024938
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:25, 23:59)",
+        [
+            "Little Free Library",
+            700024938
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Stumble Inn",
+            700006558
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:50)",
+        [
+            "Stumble Inn",
+            700006558
+        ]
+    ],
+    [
+        "Personal Projects/Reading",
+        "(10:40, 11:58)",
+        [
+            "Stumble Inn",
+            700006558
+        ]
+    ],
+    [
+        "Personal Projects/Reading",
+        "(12:39, 13:53)",
+        [
+            "Stumble Inn",
+            700006558
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:53, 18:02)",
+        [
+            "Hanabi",
+            700019513
+        ]
+    ],
+    [
+        "Afternoon Activity",
+        "(16:42, 18:49)",
+        [
+            "Hanabi",
+            700019513
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 20:18)",
+        [
+            "Sin City Burger",
+            700033661
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(23:56, 23:59)",
+        [
+            "Sin City Burger",
+            700033661
+        ]
+    ]
+]

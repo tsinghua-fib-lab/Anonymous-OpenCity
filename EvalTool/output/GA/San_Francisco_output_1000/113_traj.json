@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hi Tops",
+            700002437
+        ]
+    ],
+    [
+        "Check Emails & Plan the Week",
+        "(10:00, 11:02)",
+        [
+            "Hi Tops",
+            700002437
+        ]
+    ],
+    [
+        "Check Emails & Plan the Week",
+        "(11:05, 12:06)",
+        [
+            "Hi Tops",
+            700002437
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:22, 17:30)",
+        [
+            "Alex Fitness",
+            700000875
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:18, 23:52)",
+        [
+            "Bank of the West",
+            700003293
+        ]
+    ],
+    [
+        "Stay at Hi Tops.",
+        "(22:56, 23:59)",
+        [
+            "",
+            700007987
+        ]
+    ]
+]

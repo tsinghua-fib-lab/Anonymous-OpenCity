@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001234
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:13)",
+        [
+            "",
+            700002398
+        ]
+    ],
+    [
+        "Start personal project or hobby",
+        "(11:41, 13:42)",
+        [
+            "House of Thai",
+            700001043
+        ]
+    ],
+    [
+        "Spend time on a personal project or hobby.",
+        "(13:55, 14:59)",
+        [
+            "Hanaro",
+            700001042
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 20:44)",
+        [
+            "Maison Danel",
+            700009687
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 21:32)",
+        [
+            "",
+            700010784
+        ]
+    ],
+    [
+        "Stay at House of Thai",
+        "(23:19, 23:59)",
+        [
+            "House of Thai",
+            700001043
+        ]
+    ]
+]

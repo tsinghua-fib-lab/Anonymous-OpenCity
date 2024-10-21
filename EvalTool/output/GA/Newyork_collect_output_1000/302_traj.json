@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:00)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "Engage in a physical activity, such as going for a run or hitting the gym.",
+        "(12:13, 12:54)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 18:51)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "Engage in physical activity.",
+        "(16:34, 17:56)",
+        [
+            "",
+            700022519
+        ]
+    ],
+    [
+        "Meet up with friends or family for a coffee or snack at a local café.",
+        "(18:52, 20:17)",
+        [
+            "",
+            700017443
+        ]
+    ],
+    [
+        "Stay at ZLS BBQ",
+        "(20:40, 21:56)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "Next arrangement based on Situation 5",
+        "(22:35, 23:34)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "Stay at ZLS BBQ.",
+        "(23:40, 23:59)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ]
+]

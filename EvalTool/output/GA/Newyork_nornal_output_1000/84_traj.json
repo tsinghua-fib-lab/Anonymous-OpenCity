@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - East 24th Street & Park Avenue South",
+            700008037
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:02)",
+        [
+            "Vesuvio",
+            700025737
+        ]
+    ],
+    [
+        "Relax and Read/Watch TV",
+        "(10:40, 12:32)",
+        [
+            "Moynihan Food Hall",
+            700025732
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:00, 17:29)",
+        [
+            "",
+            700037857
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:46, 22:13)",
+        [
+            "AMC 34th Street 14",
+            700003266
+        ]
+    ],
+    [
+        "Wind Down and Plan for the Week",
+        "(18:57, 20:04)",
+        [
+            "Citi Bike - 8th Avenue & West 33rd Street",
+            700007942
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:51, 23:59)",
+        [
+            "",
+            700023021
+        ]
+    ]
+]

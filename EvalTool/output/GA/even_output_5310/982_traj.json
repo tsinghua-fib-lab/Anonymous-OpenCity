@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700006587
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:40)",
+        [
+            "Manhattan Hunter Science High School",
+            700000301
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:29, 21:37)",
+        [
+            "Citi Bike - Amsterdam Av / W 66 St",
+            700016758
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "High School for Law, Advocacy and Community Justice",
+            700029306
+        ]
+    ]
+]

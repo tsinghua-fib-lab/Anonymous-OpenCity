@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:34)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Reading or Learning Time",
+        "(11:17, 12:52)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 18:56)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:18, 21:21)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(20:58, 23:07)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ]
+]

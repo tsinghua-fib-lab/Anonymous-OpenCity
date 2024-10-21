@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700023975
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:41)",
+        [
+            "",
+            700035070
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:43, 16:35)",
+        [
+            "Thai Farm Kitchen Seaport",
+            700019031
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:02, 18:22)",
+        [
+            "Thai Farm Kitchen Seaport",
+            700019031
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 22:19)",
+        [
+            "",
+            700027221
+        ]
+    ],
+    [
+        "Leisure at home",
+        "(21:15, 22:36)",
+        [
+            "",
+            700023975
+        ]
+    ],
+    [
+        "Visit local cafe",
+        "(22:56, 23:59)",
+        [
+            "Starbucks",
+            700008603
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of the West",
+            700003293
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:34)",
+        [
+            "Starbelly",
+            700002214
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 16:58)",
+        [
+            "Starbelly",
+            700002214
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 23:42)",
+        [
+            "Mail Access",
+            700005468
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "Santeria",
+            700002438
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:55)",
+        [
+            "Equinox",
+            700003705
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(12:31, 13:35)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:28, 16:21)",
+        [
+            "Sweetgreen",
+            700020927
+        ]
+    ],
+    [
+        "Evening Wind-Down",
+        "(19:48, 21:00)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:26, 23:59)",
+        [
+            "Joanne Trattoria",
+            700013909
+        ]
+    ]
+]

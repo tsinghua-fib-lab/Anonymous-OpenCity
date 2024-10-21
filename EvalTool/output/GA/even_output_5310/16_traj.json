@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tír na nÓg",
+            700003265
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:05)",
+        [
+            "Pio Pio Riko",
+            700004391
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:22, 12:42)",
+        [
+            "The Molly Wee Pub",
+            700004351
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(13:30, 15:31)",
+        [
+            "The Molly Wee Pub",
+            700004351
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:01, 21:04)",
+        [
+            "Pio Pio Riko",
+            700004391
+        ]
+    ],
+    [
+        "Sleep at Tír na nÓg and wind down for the night.",
+        "(21:30, 22:50)",
+        [
+            "Pio Pio Riko",
+            700004391
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:25, 23:59)",
+        [
+            "Tír na nÓg",
+            700003265
+        ]
+    ]
+]

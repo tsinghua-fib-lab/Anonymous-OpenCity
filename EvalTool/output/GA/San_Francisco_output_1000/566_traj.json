@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rooster & Rice",
+            700005074
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:23)",
+        [
+            "Rooster & Rice",
+            700005074
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:16, 14:08)",
+        [
+            "Rooster & Rice",
+            700005074
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:32, 16:39)",
+        [
+            "Rooster & Rice",
+            700005074
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:49, 22:47)",
+        [
+            "Contrada",
+            700004833
+        ]
+    ],
+    [
+        "Watch TV or Movie",
+        "(21:28, 22:34)",
+        [
+            "Mel's Drive-in",
+            700000056
+        ]
+    ],
+    [
+        "Watch TV or Movie",
+        "(22:40, 23:41)",
+        [
+            "Ace Wasabi's",
+            700002306
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:37, 23:59)",
+        [
+            "Ristorante Parma",
+            700002296
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006653
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:33)",
+        [
+            "",
+            700007445
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 15:58)",
+        [
+            "Market Street Gyros",
+            700001605
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:33, 16:56)",
+        [
+            "Market Street Gyros",
+            700001605
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 19:33)",
+        [
+            "Kagawa-Ya Udon",
+            700005853
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:04, 23:59)",
+        [
+            "",
+            700006648
+        ]
+    ]
+]

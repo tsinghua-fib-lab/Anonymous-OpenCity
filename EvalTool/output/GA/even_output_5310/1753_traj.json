@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700035316
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:00)",
+        [
+            "Daniello's",
+            700014652
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 19:09)",
+        [
+            "The Blasket",
+            700031417
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(21:21, 23:27)",
+        [
+            "",
+            700035316
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(23:18, 23:59)",
+        [
+            "",
+            700026590
+        ]
+    ]
+]

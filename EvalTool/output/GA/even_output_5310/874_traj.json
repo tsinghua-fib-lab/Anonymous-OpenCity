@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tacos del Este Superior",
+            700024279
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:20)",
+        [
+            "ThrIVewell Infusion",
+            700035148
+        ]
+    ],
+    [
+        "Leisure Time/Creative Activity",
+        "(16:12, 17:55)",
+        [
+            "Vivi Bubble Tea",
+            700022331
+        ]
+    ],
+    [
+        "Dinner Preparation/Cooking",
+        "(18:49, 20:00)",
+        [
+            "ThrIVewell Infusion",
+            700035148
+        ]
+    ],
+    [
+        "Wind Down & Movie Night",
+        "(20:40, 22:55)",
+        [
+            "ThrIVewell Infusion",
+            700035148
+        ]
+    ],
+    [
+        "stay at Tacos del Este Superior since there isn't enough time to go elsewhere as movie night ends.",
+        "(23:05, 23:59)",
+        [
+            "Tacos del Este Superior",
+            700024279
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Read or Study",
+        "(10:00, 11:36)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Next activity after reading or studying.",
+        "(12:07, 13:43)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:05, 19:35)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:16, 23:59)",
+        [
+            "Craft + Carry",
+            700020944
+        ]
+    ]
+]

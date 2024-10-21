@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002303
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:32)",
+        [
+            "Dr. David H. Lifschutz MD",
+            700008640
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:29, 17:46)",
+        [
+            "Harvestworks",
+            700004744
+        ]
+    ],
+    [
+        "Social Time",
+        "(19:30, 21:10)",
+        [
+            "Harvestworks",
+            700004744
+        ]
+    ],
+    [
+        "Go to Harvestworks",
+        "(21:43, 23:38)",
+        [
+            "Harvestworks",
+            700004744
+        ]
+    ],
+    [
+        "Visit Harvestworks",
+        "(23:15, 23:59)",
+        [
+            "Harvestworks",
+            700004744
+        ]
+    ]
+]

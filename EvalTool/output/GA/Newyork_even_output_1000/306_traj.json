@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "icon 24hr Parking",
+            700010474
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park.",
+        "(10:00, 11:07)",
+        [
+            "Bite",
+            700007882
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park.",
+        "(11:15, 12:53)",
+        [
+            "Bite",
+            700007882
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park",
+        "(13:23, 15:24)",
+        [
+            "Bite",
+            700007882
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:42, 16:49)",
+        [
+            "",
+            700002285
+        ]
+    ],
+    [
+        "Stay at Bite",
+        "(20:32, 22:01)",
+        [
+            "Bite",
+            700007882
+        ]
+    ],
+    [
+        "Stay at Bite.",
+        "(22:25, 23:36)",
+        [
+            "Bite",
+            700007882
+        ]
+    ],
+    [
+        "Stay at Bite;",
+        "(23:35, 23:59)",
+        [
+            "Happy Burrito",
+            700007883
+        ]
+    ]
+]

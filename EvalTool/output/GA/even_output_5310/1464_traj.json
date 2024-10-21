@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - 1st Avenue & East 30th Street",
+            700007926
+        ]
+    ],
+    [
+        "Next activity: Morning Exercise",
+        "(09:00, 09:59)",
+        [
+            "Citi Bike - 1st Avenue & East 30th Street",
+            700007926
+        ]
+    ],
+    [
+        "Next activity: Grocery Shopping",
+        "(10:08, 11:42)",
+        [
+            "Citi Bike - 1st Avenue & East 30th Street",
+            700007926
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:33, 13:03)",
+        [
+            "Citi Bike - 1st Avenue & East 30th Street",
+            700007926
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:37, 17:50)",
+        [
+            "Psychic Reading by Sophia",
+            700014949
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:34, 21:16)",
+        [
+            "Surreal Creamery",
+            700021513
+        ]
+    ],
+    [
+        "Next activity: Social Time",
+        "(17:41, 19:15)",
+        [
+            "Surreal Creamery",
+            700021513
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 22:26)",
+        [
+            "",
+            700006229
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "Bank of America",
+            700014952
+        ]
+    ]
+]

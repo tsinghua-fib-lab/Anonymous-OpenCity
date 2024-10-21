@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Relax or read a book",
+        "(10:00, 11:04)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(11:55, 12:55)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(13:03, 14:08)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Continue to walk or light exercise.",
+        "(15:03, 16:29)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Current place: Dragon Court",
+        "(17:57, 19:04)",
+        [
+            "Wagamama",
+            700017674
+        ]
+    ],
+    [
+        "Leisure activities or family time.",
+        "(19:18, 20:54)",
+        [
+            "Wagamama",
+            700017674
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 23:59)",
+        [
+            "Redemption Roasters",
+            700018628
+        ]
+    ]
+]

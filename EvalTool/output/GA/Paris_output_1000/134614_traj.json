@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Gévaudan",
+            700001701
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:11)",
+        [
+            "Mamalee",
+            700001618
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 20:08)",
+        [
+            "Liberty's Burger",
+            700065668
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:27, 23:16)",
+        [
+            "Mamalee",
+            700001618
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:12, 22:35)",
+        [
+            "Chez charlette",
+            700043374
+        ]
+    ]
+]

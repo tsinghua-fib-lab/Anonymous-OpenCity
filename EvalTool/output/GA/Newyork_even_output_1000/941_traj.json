@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002181
+        ]
+    ],
+    [
+        "Exercise Session",
+        "(09:00, 09:50)",
+        [
+            "Tesla Supercharger",
+            700016580
+        ]
+    ],
+    [
+        "Exercise Session",
+        "(10:22, 11:52)",
+        [
+            "Tesla Supercharger",
+            700016580
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:37, 13:56)",
+        [
+            "Psychedelic Assembly",
+            700033872
+        ]
+    ],
+    [
+        "Socializing or Errands",
+        "(14:25, 16:29)",
+        [
+            "",
+            700020365
+        ]
+    ],
+    [
+        "Prep for the Week",
+        "(16:55, 17:57)",
+        [
+            "",
+            700020363
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(18:21, 20:02)",
+        [
+            "",
+            700020370
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(20:40, 22:09)",
+        [
+            "Starbucks",
+            700029672
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(23:09, 23:59)",
+        [
+            "",
+            700020916
+        ]
+    ]
+]

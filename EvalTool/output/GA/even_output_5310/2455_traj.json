@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Kindercare",
+            700006462
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:48)",
+        [
+            "",
+            700020327
+        ]
+    ],
+    [
+        "Relax and Read or Watch TV",
+        "(12:26, 13:51)",
+        [
+            "Silverleaf Tavern",
+            700003421
+        ]
+    ],
+    [
+        "Engage in a Hobby or Craft",
+        "(14:12, 15:45)",
+        [
+            "Silverleaf Tavern",
+            700003421
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:47, 20:46)",
+        [
+            "Park Avenue Tavern",
+            700003426
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:52, 23:59)",
+        [
+            "Metropolitan National Bank",
+            700003425
+        ]
+    ]
+]

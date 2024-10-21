@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002348
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:35)",
+        [
+            "Citi Bike",
+            700040608
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends",
+        "(13:51, 15:29)",
+        [
+            "Citi Bike",
+            700040608
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:45, 17:48)",
+        [
+            "Citi Bike",
+            700040608
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:16, 21:08)",
+        [
+            "",
+            700020085
+        ]
+    ],
+    [
+        "Next activity based on Situation 4",
+        "(22:47, 23:59)",
+        [
+            "Citi Bike",
+            700040608
+        ]
+    ]
+]

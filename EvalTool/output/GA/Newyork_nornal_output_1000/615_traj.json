@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020928
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:26)",
+        [
+            "Sweetgreen",
+            700020927
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:53, 18:08)",
+        [
+            "Sweetgreen",
+            700020927
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(19:42, 21:08)",
+        [
+            "",
+            700020928
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(21:08, 23:01)",
+        [
+            "",
+            700020928
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(22:32, 23:59)",
+        [
+            "",
+            700020928
+        ]
+    ]
+]

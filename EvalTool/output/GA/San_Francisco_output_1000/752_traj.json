@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700007819
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(09:00, 10:25)",
+        [
+            "Arkansas Friendship Community Garden",
+            700002459
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(10:50, 12:11)",
+        [
+            "Arkansas Friendship Community Garden",
+            700002459
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(12:39, 13:52)",
+        [
+            "Arkansas Friendship Community Garden",
+            700002459
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:22, 17:49)",
+        [
+            "",
+            700003875
+        ]
+    ],
+    [
+        "Social Time",
+        "(20:03, 21:51)",
+        [
+            "Arkansas Friendship Community Garden",
+            700002459
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:59)",
+        [
+            "Saint Teresa Catholic Church",
+            700000301
+        ]
+    ]
+]

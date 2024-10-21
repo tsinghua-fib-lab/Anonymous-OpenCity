@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009252
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:59)",
+        [
+            "ReVision Lounge and Gallery",
+            700012155
+        ]
+    ],
+    [
+        "Have lunch",
+        "(13:47, 15:22)",
+        [
+            "ReVision Lounge and Gallery",
+            700012155
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:18, 18:33)",
+        [
+            "Dunkin'",
+            700005269
+        ]
+    ],
+    [
+        "Relax and plan for the week ahead",
+        "(19:51, 21:01)",
+        [
+            "ReVision Lounge and Gallery",
+            700012155
+        ]
+    ],
+    [
+        "Relax and plan for the week ahead",
+        "(21:39, 22:52)",
+        [
+            "ReVision Lounge and Gallery",
+            700012155
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:07, 23:59)",
+        [
+            "Hibachi Express",
+            700018144
+        ]
+    ]
+]

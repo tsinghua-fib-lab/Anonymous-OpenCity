@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Taxi Stand at Kimpton Buchanan Hotel",
+            700009950
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(09:00, 10:55)",
+        [
+            "Mums Restaurant",
+            700006925
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:33, 13:02)",
+        [
+            "Mums Restaurant",
+            700006925
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(13:56, 14:57)",
+        [
+            "Mums Restaurant",
+            700006925
+        ]
+    ],
+    [
+        "Engage in a Hobby",
+        "(15:10, 17:08)",
+        [
+            "Mums Restaurant",
+            700006925
+        ]
+    ],
+    [
+        "Cook Dinner",
+        "(17:05, 18:54)",
+        [
+            "Mums Restaurant",
+            700006925
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:37, 21:16)",
+        [
+            "Mums Restaurant",
+            700006925
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:42, 23:09)",
+        [
+            "Mums Restaurant",
+            700006925
+        ]
+    ],
+    [
+        "Stay at Taxi Stand at Kimpton Buchanan Hotel",
+        "(23:20, 23:59)",
+        [
+            "Taxi Stand at Kimpton Buchanan Hotel",
+            700009950
+        ]
+    ]
+]

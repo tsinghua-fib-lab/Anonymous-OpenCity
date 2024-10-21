@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pharmacie Mathieu",
+            700006701
+        ]
+    ],
+    [
+        "Outdoor Activity or Brunch with Friends",
+        "(10:00, 12:03)",
+        [
+            "Le Diplomate",
+            700006692
+        ]
+    ],
+    [
+        "Outdoor Activity or Brunch with Friends",
+        "(12:15, 14:00)",
+        [
+            "",
+            700012549
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 17:17)",
+        [
+            "Les Toqués",
+            700006704
+        ]
+    ],
+    [
+        "Wind Down with TV or Relaxation",
+        "(21:28, 23:02)",
+        [
+            "Les Toqués",
+            700006704
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:54, 23:59)",
+        [
+            "Les Toqués",
+            700006704
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700040447
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:34)",
+        [
+            "Partners Coffee",
+            700009840
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:19, 18:06)",
+        [
+            "ChargePoint",
+            700012431
+        ]
+    ],
+    [
+        "Relax and Watch a Movie",
+        "(16:18, 17:44)",
+        [
+            "Wilfie & Nell",
+            700009425
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:55, 23:07)",
+        [
+            "Matchaful",
+            700015978
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:51, 23:59)",
+        [
+            "",
+            700002987
+        ]
+    ]
+]

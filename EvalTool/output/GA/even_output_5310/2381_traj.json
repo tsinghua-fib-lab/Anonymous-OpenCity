@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700036506
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(09:00, 10:07)",
+        [
+            "Serra Alpina",
+            700006081
+        ]
+    ],
+    [
+        "Relax at home or read a book.",
+        "(10:56, 13:01)",
+        [
+            "",
+            700026370
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:30, 16:56)",
+        [
+            "",
+            700026376
+        ]
+    ],
+    [
+        "Return home and unwind by watching a movie.",
+        "(19:09, 20:48)",
+        [
+            "",
+            700036506
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:35, 22:48)",
+        [
+            "",
+            700036514
+        ]
+    ]
+]

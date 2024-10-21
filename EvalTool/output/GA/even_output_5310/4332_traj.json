@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Drop-Off Service",
+            700004507
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:53)",
+        [
+            "Akina Sushi",
+            700007892
+        ]
+    ],
+    [
+        "Lunch and Relaxation",
+        "(11:38, 13:17)",
+        [
+            "Akina Sushi",
+            700007892
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:44, 16:14)",
+        [
+            "USPS",
+            700017695
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(17:07, 19:06)",
+        [
+            "Citi Bike",
+            700024346
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:22, 22:01)",
+        [
+            "Citi Bike",
+            700024346
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:42, 23:59)",
+        [
+            "E14 Medical Arts",
+            700018147
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Emergency Response Services",
+            700027568
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:05)",
+        [
+            "Emergency Response Services",
+            700027568
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 16:19)",
+        [
+            "",
+            700023380
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(17:59, 19:11)",
+        [
+            "Eternity Bar & Grill",
+            700012294
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 23:59)",
+        [
+            "",
+            700031275
+        ]
+    ],
+    [
+        "Stay at your Working Place.",
+        "(22:58, 23:59)",
+        [
+            "",
+            700030115
+        ]
+    ]
+]

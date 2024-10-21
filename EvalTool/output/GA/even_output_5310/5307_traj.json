@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Scarlatto",
+            700006543
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:25)",
+        [
+            "Carve: Unique Sandwich",
+            700009442
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:09, 18:07)",
+        [
+            "Patzeria Perfect Pizza Pasta & Grill",
+            700009219
+        ]
+    ],
+    [
+        "Wind down with some light reading or meditation",
+        "(19:18, 21:00)",
+        [
+            "Scarlatto",
+            700006543
+        ]
+    ],
+    [
+        "Wind down with some light reading or meditation",
+        "(21:05, 23:01)",
+        [
+            "Scarlatto",
+            700006543
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Patzeria Perfect Pizza Pasta & Grill",
+            700009219
+        ]
+    ]
+]

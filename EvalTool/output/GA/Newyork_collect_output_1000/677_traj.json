@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:09)",
+        [
+            "",
+            700018138
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:36, 15:12)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:50, 17:25)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "Prepare a Healthy Dinner",
+        "(18:30, 19:51)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:58, 23:09)",
+        [
+            "The Globe",
+            700028483
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(22:52, 23:59)",
+        [
+            "Think Coffee",
+            700020941
+        ]
+    ]
+]

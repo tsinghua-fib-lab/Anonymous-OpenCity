@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Side Door",
+            700034226
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:46)",
+        [
+            "Starbucks",
+            700004420
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:35, 18:57)",
+        [
+            "Dock",
+            700019520
+        ]
+    ],
+    [
+        "Have dinner and relax",
+        "(17:30, 19:04)",
+        [
+            "",
+            700020293
+        ]
+    ],
+    [
+        "Go to Hangawi",
+        "(19:22, 21:06)",
+        [
+            "Subway",
+            700020299
+        ]
+    ],
+    [
+        "Stay at Side Door",
+        "(21:11, 22:50)",
+        [
+            "Side Door",
+            700034226
+        ]
+    ],
+    [
+        "Stay at Side Door.",
+        "(23:16, 23:59)",
+        [
+            "Juan Valdez Café",
+            700007333
+        ]
+    ]
+]

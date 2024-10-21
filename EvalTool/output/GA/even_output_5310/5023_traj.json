@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001253
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:05)",
+        [
+            "",
+            700001253
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:26, 11:54)",
+        [
+            "",
+            700001253
+        ]
+    ],
+    [
+        "Exercise",
+        "(12:18, 13:52)",
+        [
+            "",
+            700001253
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:36, 16:00)",
+        [
+            "La Cava Wine Bar",
+            700017237
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:38, 18:00)",
+        [
+            "La Cava Wine Bar",
+            700017237
+        ]
+    ],
+    [
+        "Go to La Cava Wine Bar",
+        "(18:22, 19:51)",
+        [
+            "La Cava Wine Bar",
+            700017237
+        ]
+    ],
+    [
+        "Stay at La Cava Wine Bar",
+        "(20:47, 21:54)",
+        [
+            "La Cava Wine Bar",
+            700017237
+        ]
+    ],
+    [
+        "Stay at American Legion Hall",
+        "(22:47, 23:59)",
+        [
+            "Van Leeuwen",
+            700007312
+        ]
+    ],
+    [
+        "Stay at La Cava Wine Bar",
+        "(23:51, 23:59)",
+        [
+            "Van Leeuwen",
+            700007312
+        ]
+    ]
+]

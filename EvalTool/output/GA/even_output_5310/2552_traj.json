@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020141
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:45)",
+        [
+            "Café Grumpy",
+            700006674
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 16:28)",
+        [
+            "Citi Bike - West 20th Street & 7th Avenue",
+            700008205
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:00, 19:08)",
+        [
+            "Café Grumpy",
+            700006674
+        ]
+    ],
+    [
+        "Relax and watch a movie or series at home.",
+        "(19:15, 21:00)",
+        [
+            "Café Grumpy",
+            700006674
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:34, 23:59)",
+        [
+            "Peter McManus Cafe",
+            700017925
+        ]
+    ]
+]

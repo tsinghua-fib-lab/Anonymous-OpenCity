@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Grand Delancey",
+            700017869
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(09:00, 09:50)",
+        [
+            "The Grand Delancey",
+            700017869
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(10:06, 11:44)",
+        [
+            "The Grand Delancey",
+            700017869
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:33, 14:19)",
+        [
+            "Lower East Side Ice Cream Factory",
+            700022926
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:52, 16:00)",
+        [
+            "Eat Gai",
+            700022921
+        ]
+    ],
+    [
+        "Dinner and Movie Night",
+        "(19:24, 22:05)",
+        [
+            "The Market Line",
+            700022904
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:58)",
+        [
+            "",
+            700001799
+        ]
+    ]
+]

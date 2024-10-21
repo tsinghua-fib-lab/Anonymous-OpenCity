@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700019178
+        ]
+    ],
+    [
+        "Morning Relaxation",
+        "(10:00, 11:28)",
+        [
+            "",
+            700019178
+        ]
+    ],
+    [
+        "Exercise",
+        "(11:40, 12:56)",
+        [
+            "",
+            700019178
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:19, 14:45)",
+        [
+            "Match 65",
+            700010063
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 17:35)",
+        [
+            "Citi Bike - East 66th Street & Madison Avenue",
+            700010152
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 22:45)",
+        [
+            "Bel Ami Cafe",
+            700017236
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:31, 23:15)",
+        [
+            "Poppi",
+            700006565
+        ]
+    ],
+    [
+        "Relax at Chipotle for a casual meal.",
+        "(23:28, 23:59)",
+        [
+            "Link NYC",
+            700017644
+        ]
+    ]
+]

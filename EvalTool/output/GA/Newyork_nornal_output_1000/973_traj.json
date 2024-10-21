@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020171
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:23)",
+        [
+            "La Palapa Cocina Mexicana",
+            700020971
+        ]
+    ],
+    [
+        "1:30 PM - 3:00 PM: Visit a local art gallery or museum to explore and appreciate culture.",
+        "(14:16, 15:52)",
+        [
+            "La Palapa Cocina Mexicana",
+            700020971
+        ]
+    ],
+    [
+        "Visit a local art gallery or museum to explore and appreciate culture.",
+        "(16:24, 18:04)",
+        [
+            "Jiang's Kitchen",
+            700026931
+        ]
+    ],
+    [
+        "Head out for an evening walk",
+        "(18:55, 20:24)",
+        [
+            "La Palapa Cocina Mexicana",
+            700020971
+        ]
+    ],
+    [
+        "Head out for an evening walk.",
+        "(20:59, 23:31)",
+        [
+            "La Palapa Cocina Mexicana",
+            700020971
+        ]
+    ],
+    [
+        "Stay at La Palapa Cocina Mexicana",
+        "(22:49, 23:59)",
+        [
+            "La Palapa Cocina Mexicana",
+            700020971
+        ]
+    ]
+]

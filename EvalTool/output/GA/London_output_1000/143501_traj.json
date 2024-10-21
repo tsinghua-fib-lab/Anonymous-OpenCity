@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Regent's Park Estate",
+            700006201
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:10)",
+        [
+            "",
+            700072708
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Development",
+        "(15:55, 17:46)",
+        [
+            "Albany Street Police Station",
+            700002925
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:14, 21:20)",
+        [
+            "",
+            700075376
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Development",
+        "(23:15, 23:59)",
+        [
+            "Albany Street Police Station",
+            700002925
+        ]
+    ]
+]

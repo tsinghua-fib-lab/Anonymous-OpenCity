@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001572
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:44)",
+        [
+            "Wells Fargo",
+            700000663
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:52, 20:01)",
+        [
+            "Wells Fargo",
+            700000810
+        ]
+    ],
+    [
+        "Play Sports or Exercise",
+        "(17:13, 18:45)",
+        [
+            "Starbucks",
+            700005116
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:57, 23:59)",
+        [
+            "Wells Fargo",
+            700000663
+        ]
+    ],
+    [
+        "Stay at Little Free Library",
+        "(23:02, 23:59)",
+        [
+            "Wells Fargo",
+            700000663
+        ]
+    ]
+]

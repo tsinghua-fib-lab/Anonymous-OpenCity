@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Romano Pizza",
+            700008556
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:34)",
+        [
+            "Matto Espresso",
+            700008339
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:08, 18:53)",
+        [
+            "Matto Espresso",
+            700008339
+        ]
+    ],
+    [
+        "Watch a movie and enjoy some snacks before settling in for the night.",
+        "(21:27, 22:59)",
+        [
+            "Matto Espresso",
+            700008339
+        ]
+    ],
+    [
+        "Go to sleep.",
+        "(23:55, 23:59)",
+        [
+            "Romano Pizza",
+            700008556
+        ]
+    ]
+]

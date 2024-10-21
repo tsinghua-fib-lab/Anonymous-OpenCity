@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001204
+        ]
+    ],
+    [
+        "Wake Up and Leisure Breakfast",
+        "(10:00, 11:00)",
+        [
+            "",
+            700001204
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 16:32)",
+        [
+            "Russian Tea Room",
+            700003571
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(15:32, 17:00)",
+        [
+            "Lili's 57",
+            700003476
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 18:40)",
+        [
+            "Cafe Metro",
+            700003475
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "Subway",
+            700003872
+        ]
+    ]
+]

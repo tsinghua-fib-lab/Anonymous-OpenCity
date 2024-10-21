@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000494
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:08)",
+        [
+            "Peter D's Cafe",
+            700002281
+        ]
+    ],
+    [
+        "Stay at Peter D's Cafe.",
+        "(13:12, 14:39)",
+        [
+            "",
+            700001237
+        ]
+    ],
+    [
+        "Stay at Peter D's Cafe.",
+        "(15:37, 17:06)",
+        [
+            "Happy Donut",
+            700000523
+        ]
+    ],
+    [
+        "Stay at Peter D's Cafe",
+        "(18:00, 19:23)",
+        [
+            "Lord Stanley",
+            700002098
+        ]
+    ],
+    [
+        "Stay at Peter D's Cafe",
+        "(19:51, 20:58)",
+        [
+            "Peet's Coffee",
+            700002095
+        ]
+    ],
+    [
+        "Stay at Peter D's Cafe",
+        "(21:19, 22:54)",
+        [
+            "Cresta's",
+            700004280
+        ]
+    ],
+    [
+        "Stay at Peter D's Cafe",
+        "(23:04, 23:59)",
+        [
+            "Philz Coffee",
+            700004276
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000159
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:36)",
+        [
+            "Karen's Diner",
+            700021664
+        ]
+    ],
+    [
+        "Relaxation and Leisure Reading",
+        "(13:08, 14:57)",
+        [
+            "NAB",
+            700000150
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:30, 20:56)",
+        [
+            "",
+            700006022
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(18:02, 19:42)",
+        [
+            "Ataman Kebab and Burgers",
+            700026098
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 22:59)",
+        [
+            "Priceline Pharmacy",
+            700006307
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "",
+            700026498
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "Casa Asturiana Restaurant",
+            700006858
+        ]
+    ]
+]

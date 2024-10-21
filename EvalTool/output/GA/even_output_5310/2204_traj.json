@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike",
+            700008129
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:26)",
+        [
+            "Little Flower Playground",
+            700000416
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:14, 15:59)",
+        [
+            "Citi Bike",
+            700008129
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:29, 20:16)",
+        [
+            "Dunkin'",
+            700018397
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:21, 23:59)",
+        [
+            "",
+            700018392
+        ]
+    ]
+]

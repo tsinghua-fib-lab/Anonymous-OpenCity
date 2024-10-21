@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Eat Here Now",
+            700023488
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast and coffee.",
+        "(10:00, 11:02)",
+        [
+            "Eat Here Now",
+            700023488
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:45, 13:28)",
+        [
+            "",
+            700014710
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 17:38)",
+        [
+            "",
+            700002387
+        ]
+    ],
+    [
+        "Stay at Eat Here Now.",
+        "(18:22, 19:50)",
+        [
+            "",
+            700014710
+        ]
+    ],
+    [
+        "Stay at Eat Here Now.",
+        "(20:10, 21:45)",
+        [
+            "Eat Here Now",
+            700023488
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "",
+            700018081
+        ]
+    ]
+]

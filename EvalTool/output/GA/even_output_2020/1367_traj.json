@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Duboce Avenue & Church Street",
+            700005712
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:16)",
+        [
+            "Duboce Avenue & Church Street",
+            700005712
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:19, 16:54)",
+        [
+            "Maitri-Compassionate Care",
+            700001269
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:51, 21:05)",
+        [
+            "CorePower Yoga",
+            700000964
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:58, 20:59)",
+        [
+            "Shanghai Dumpling King",
+            700003644
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CitiBike Station",
+            700007611
+        ]
+    ],
+    [
+        "Outdoor Activity (11:00 AM - 1:00 PM)",
+        "(10:00, 11:50)",
+        [
+            "Mexico Lindo",
+            700006222
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:04, 13:52)",
+        [
+            "Mexico Lindo",
+            700006222
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 18:05)",
+        [
+            "Mexico Lindo",
+            700006222
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 21:02)",
+        [
+            "Explore + Discover Early Learning Center",
+            700006223
+        ]
+    ],
+    [
+        "After your time at Explore + Discover Early Learning Center, enjoy a light reading at a nearby café.",
+        "(23:13, 23:59)",
+        [
+            "Smile Dental Center",
+            700023828
+        ]
+    ]
+]

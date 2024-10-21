@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike",
+            700020538
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:49)",
+        [
+            "Citi Bike - West 26th Street & 8th Avenue",
+            700008213
+        ]
+    ],
+    [
+        "5:00 PM - Relax & Unwind",
+        "(14:44, 17:41)",
+        [
+            "",
+            700020532
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:57, 20:11)",
+        [
+            "Kame",
+            700034661
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:24, 23:32)",
+        [
+            "Citi Bike",
+            700020538
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:47, 23:59)",
+        [
+            "Link NYC",
+            700020542
+        ]
+    ]
+]

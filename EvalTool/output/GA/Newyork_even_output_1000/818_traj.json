@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Frank's Trattoria",
+            700025849
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:22)",
+        [
+            "",
+            700009106
+        ]
+    ],
+    [
+        "Social Time",
+        "(12:19, 14:09)",
+        [
+            "First Avenue Veterinary Hospital",
+            700006196
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:56, 16:02)",
+        [
+            "Grill 21",
+            700025848
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:18, 23:24)",
+        [
+            "Cooper Town Diner",
+            700029599
+        ]
+    ]
+]

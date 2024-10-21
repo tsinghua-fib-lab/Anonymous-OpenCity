@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 12:06)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:14, 14:10)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Catch Up on Hobbies",
+        "(14:07, 16:02)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Catch Up on Hobbies",
+        "(16:58, 17:54)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:19, 21:21)",
+        [
+            "",
+            700003238
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:21, 23:59)",
+        [
+            "",
+            700034234
+        ]
+    ]
+]

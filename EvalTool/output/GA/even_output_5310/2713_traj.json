@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Emack & Bolio's",
+            700039306
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:39)",
+        [
+            "TacoVision",
+            700029765
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 16:44)",
+        [
+            "",
+            700013426
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:28, 16:58)",
+        [
+            "TacoVision",
+            700029765
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:40, 19:08)",
+        [
+            "Hide-Chan Ramen",
+            700010035
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:55, 21:51)",
+        [
+            "",
+            700002319
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:51, 22:57)",
+        [
+            "Totto Ramen",
+            700009648
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(23:47, 23:59)",
+        [
+            "Hide-Chan Ramen",
+            700010035
+        ]
+    ]
+]

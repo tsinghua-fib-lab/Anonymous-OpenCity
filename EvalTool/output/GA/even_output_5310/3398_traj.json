@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700021863
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:55)",
+        [
+            "Cooke School and Institute Lower School",
+            700006429
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(11:54, 13:57)",
+        [
+            "Citi Bike - E 2 St & Avenue C",
+            700008032
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(13:28, 14:41)",
+        [
+            "Citi Bike - E 2 St & Avenue C",
+            700008032
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(15:30, 17:07)",
+        [
+            "Yoli",
+            700005415
+        ]
+    ],
+    [
+        "Spend time with friends or family",
+        "(18:03, 19:42)",
+        [
+            "Citi Bike - E 2 St & Avenue C",
+            700008032
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 23:59)",
+        [
+            "The Francis Kite Club",
+            700016984
+        ]
+    ]
+]

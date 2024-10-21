@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:44)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:21, 20:27)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "prepare dinner and wind down",
+        "(20:43, 22:11)",
+        [
+            "Firecracker Wings",
+            700023829
+        ]
+    ],
+    [
+        "Stay at iPark",
+        "(22:21, 23:59)",
+        [
+            "Firecracker Wings",
+            700023829
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "",
+            700011175
+        ]
+    ]
+]

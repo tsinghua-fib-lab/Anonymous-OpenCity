@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Car Pool Pickups to Fairfield, Suisun, Hercules",
+            700005751
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(09:00, 10:20)",
+        [
+            "",
+            700002332
+        ]
+    ],
+    [
+        "You are currently at Car Pool Pickups to Fairfield, Suisun, Hercules and it's 11:35 AM.",
+        "(11:35, 13:34)",
+        [
+            "",
+            700012619
+        ]
+    ],
+    [
+        "Visit an Art Exhibit or Museum",
+        "(14:24, 16:29)",
+        [
+            "",
+            700012617
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:50, 20:59)",
+        [
+            "",
+            700012588
+        ]
+    ],
+    [
+        "Late Afternoon Shopping",
+        "(18:19, 19:53)",
+        [
+            "",
+            700012628
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:23, 23:59)",
+        [
+            "",
+            700012617
+        ]
+    ],
+    [
+        "Late Afternoon Shopping",
+        "(23:56, 23:59)",
+        [
+            "",
+            700012628
+        ]
+    ]
+]

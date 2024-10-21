@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:21)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "Engage in a physical activity, such as going for a run or hitting the gym.",
+        "(12:13, 12:57)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 15:37)",
+        [
+            "The Globe",
+            700028483
+        ]
+    ],
+    [
+        "Engage in some personal projects or hobbies.",
+        "(16:34, 17:54)",
+        [
+            "The Globe",
+            700028483
+        ]
+    ],
+    [
+        "Meet up with friends or family for a coffee or snack at a local café.",
+        "(18:52, 19:59)",
+        [
+            "New China",
+            700016574
+        ]
+    ],
+    [
+        "Stay at New China",
+        "(20:40, 21:52)",
+        [
+            "New China",
+            700016574
+        ]
+    ],
+    [
+        "Next arrangement based on Situation 1",
+        "(22:35, 23:35)",
+        [
+            "New China",
+            700016574
+        ]
+    ],
+    [
+        "Move to the next place based on Situation 1.",
+        "(23:40, 23:59)",
+        [
+            "Craft + Carry",
+            700020944
+        ]
+    ]
+]

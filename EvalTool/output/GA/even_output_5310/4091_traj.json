@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003186
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 11:39)",
+        [
+            "",
+            700002696
+        ]
+    ],
+    [
+        "Next activity from your home.",
+        "(12:09, 13:33)",
+        [
+            "Think Coffee",
+            700003838
+        ]
+    ],
+    [
+        "Next activity from your home",
+        "(14:10, 15:30)",
+        [
+            "Think Coffee",
+            700003838
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 16:57)",
+        [
+            "",
+            700000652
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:10, 19:37)",
+        [
+            "Think Coffee",
+            700003838
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:44, 23:33)",
+        [
+            "",
+            700003840
+        ]
+    ],
+    [
+        "Relax at Home",
+        "(23:52, 23:59)",
+        [
+            "Think Coffee",
+            700003838
+        ]
+    ]
+]

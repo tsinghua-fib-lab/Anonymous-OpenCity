@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001306
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:00)",
+        [
+            "Twelfth Street Academy",
+            700000026
+        ]
+    ],
+    [
+        "Current place: Twelfth Street Academy, stay until 2:00 PM for lunch",
+        "(12:39, 14:37)",
+        [
+            "Twelfth Street Academy",
+            700000026
+        ]
+    ],
+    [
+        "Stay at Twelfth Street Academy until 2:00 PM",
+        "(15:33, 17:34)",
+        [
+            "Gena's Grill",
+            700005930
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:49, 22:15)",
+        [
+            "Salma",
+            700029602
+        ]
+    ],
+    [
+        "Travel to Gomi for drinks.",
+        "(20:49, 22:20)",
+        [
+            "Brodo",
+            700029705
+        ]
+    ],
+    [
+        "Go to Westville East for drinks.",
+        "(22:41, 23:59)",
+        [
+            "",
+            700032420
+        ]
+    ]
+]

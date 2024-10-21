@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006797
+        ]
+    ],
+    [
+        "Go for a Walk or Light Exercise",
+        "(10:00, 10:59)",
+        [
+            "",
+            700006797
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(12:05, 14:13)",
+        [
+            "Cafe Josephine",
+            700006998
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:53, 17:29)",
+        [
+            "Eureka Market",
+            700001048
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:32, 23:03)",
+        [
+            "German School of San Francisco",
+            700010715
+        ]
+    ]
+]

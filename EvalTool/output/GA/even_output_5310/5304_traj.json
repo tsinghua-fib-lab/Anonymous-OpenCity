@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Krispy Kreme",
+            700029809
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:21)",
+        [
+            "Hurley's",
+            700006532
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:20, 16:54)",
+        [
+            "Masseria Caffe & Bakery",
+            700014222
+        ]
+    ],
+    [
+        "Stay at Hurley's",
+        "(17:50, 19:55)",
+        [
+            "Gong Cha",
+            700006502
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:41, 23:59)",
+        [
+            "Citi Bike - Broadway & West 49th Street",
+            700007976
+        ]
+    ]
+]

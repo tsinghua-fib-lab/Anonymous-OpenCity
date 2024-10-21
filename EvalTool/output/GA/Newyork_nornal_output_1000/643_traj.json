@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "White Oak Tavern",
+            700008893
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:28)",
+        [
+            "",
+            700036263
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 15:58)",
+        [
+            "",
+            700036256
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(13:38, 15:04)",
+        [
+            "Citi Bike - Washington Square E",
+            700008244
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:22, 18:53)",
+        [
+            "Citi Bike - Washington Square E",
+            700008244
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:06, 21:07)",
+        [
+            "",
+            700036261
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(21:33, 22:57)",
+        [
+            "White Oak Tavern",
+            700008893
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:28, 23:59)",
+        [
+            "Ramen Takumi",
+            700018067
+        ]
+    ]
+]

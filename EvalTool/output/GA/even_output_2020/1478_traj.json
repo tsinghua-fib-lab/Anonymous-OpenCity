@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Upfordayz",
+            700011017
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:07)",
+        [
+            "El Majahual",
+            700003559
+        ]
+    ],
+    [
+        "Lunch Preparation and Relaxation",
+        "(12:07, 13:34)",
+        [
+            "El Majahual",
+            700003559
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:12, 19:36)",
+        [
+            "Velvet Cantina",
+            700003023
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:12, 20:06)",
+        [
+            "Bank of America",
+            700004876
+        ]
+    ],
+    [
+        "Visit Taqueria Cancun for a light dinner.",
+        "(21:21, 23:03)",
+        [
+            "",
+            700002018
+        ]
+    ],
+    [
+        "Go to La Playa for some snacks.",
+        "(23:32, 23:59)",
+        [
+            "El Trebol",
+            700005344
+        ]
+    ]
+]

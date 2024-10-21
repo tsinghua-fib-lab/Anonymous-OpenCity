@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Atlantic Grill",
+            700006585
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:23)",
+        [
+            "Atlantic Grill",
+            700006585
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:25, 14:11)",
+        [
+            "Shun Lee",
+            700007586
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:59, 18:02)",
+        [
+            "",
+            700018310
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:22, 20:01)",
+        [
+            "Atlantic Grill",
+            700006585
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:27, 23:59)",
+        [
+            "Le Pain Quotidien",
+            700019661
+        ]
+    ]
+]

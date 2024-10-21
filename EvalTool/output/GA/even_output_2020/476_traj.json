@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "El Tepa",
+            700002392
+        ]
+    ],
+    [
+        "relaxing and reading or browsing social media",
+        "(10:00, 10:50)",
+        [
+            "El Tepa",
+            700002392
+        ]
+    ],
+    [
+        "Continue browsing social media.",
+        "(11:13, 13:08)",
+        [
+            "El Tepa",
+            700002392
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 16:11)",
+        [
+            "Gallardo's",
+            700002414
+        ]
+    ],
+    [
+        "Have lunch, possibly trying to prepare a simple, inexpensive meal.",
+        "(16:54, 18:08)",
+        [
+            "El Tepa",
+            700002392
+        ]
+    ],
+    [
+        "Prepare and enjoy dinner.",
+        "(18:53, 20:30)",
+        [
+            "",
+            700006007
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:40, 23:59)",
+        [
+            "",
+            700008296
+        ]
+    ],
+    [
+        "Stay at El Tepa.",
+        "(23:19, 23:59)",
+        [
+            "El Tepa",
+            700002392
+        ]
+    ]
+]

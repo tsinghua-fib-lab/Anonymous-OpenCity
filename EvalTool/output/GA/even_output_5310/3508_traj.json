@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sidney Hillman Playground",
+            700000415
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:55)",
+        [
+            "Citi Bike - Columbia St & Rivington St",
+            700008005
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:26, 15:24)",
+        [
+            "",
+            700021862
+        ]
+    ],
+    [
+        "Meet up with friends or family for outdoor activities",
+        "(16:01, 18:06)",
+        [
+            "Sidney Hillman Playground",
+            700000415
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:39, 20:17)",
+        [
+            "Columbia Pizza",
+            700006251
+        ]
+    ],
+    [
+        "Have dinner and unwind with some relaxing music or a book.",
+        "(21:03, 22:33)",
+        [
+            "Sidney Hillman Playground",
+            700000415
+        ]
+    ],
+    [
+        "Stay at Sidney Hillman Playground.",
+        "(22:40, 23:59)",
+        [
+            "Sidney Hillman Playground",
+            700000415
+        ]
+    ]
+]

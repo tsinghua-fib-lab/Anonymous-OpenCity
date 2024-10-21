@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hertz",
+            700008384
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:35)",
+        [
+            "Ali Baba's Terrace",
+            700006423
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:00, 17:40)",
+        [
+            "Matto Espresso",
+            700008913
+        ]
+    ],
+    [
+        "Household Chores",
+        "(16:53, 18:48)",
+        [
+            "Matto Espresso",
+            700008913
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:56, 22:49)",
+        [
+            "Matto Espresso",
+            700008913
+        ]
+    ],
+    [
+        "Hang out at Matto Espresso",
+        "(23:20, 23:59)",
+        [
+            "Matto Espresso",
+            700008913
+        ]
+    ]
+]

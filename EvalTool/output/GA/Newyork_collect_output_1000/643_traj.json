@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 12:03)",
+        [
+            "",
+            700022520
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(12:00, 13:31)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:42, 19:01)",
+        [
+            "CitiBike Station",
+            700007611
+        ]
+    ],
+    [
+        "Next activity",
+        "(18:37, 20:01)",
+        [
+            "Flavor's House",
+            700021997
+        ]
+    ],
+    [
+        "Next activity",
+        "(20:23, 21:49)",
+        [
+            "Citi Bike - East 25th Street & 2nd Avenue",
+            700008039
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:16)",
+        [
+            "Duane Reade",
+            700011388
+        ]
+    ]
+]

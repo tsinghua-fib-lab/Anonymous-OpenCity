@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700035698
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:28)",
+        [
+            "",
+            700035694
+        ]
+    ],
+    [
+        "Lunch and catch up on some reading or a podcast.",
+        "(13:26, 14:59)",
+        [
+            "The Otheroom",
+            700014444
+        ]
+    ],
+    [
+        "Have lunch and catch up on some reading or a podcast.",
+        "(15:49, 17:25)",
+        [
+            "The Otheroom",
+            700014444
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:19, 20:48)",
+        [
+            "Aria West Village",
+            700014442
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Babu S. Bangaru, MD",
+            700017234
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:01)",
+        [
+            "Cafe Delecctica",
+            700003235
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:04, 12:06)",
+        [
+            "Cafe Delecctica",
+            700003235
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:51, 14:52)",
+        [
+            "Cafe Delecctica",
+            700003235
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:28, 17:40)",
+        [
+            "Cafe Delecctica",
+            700003235
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 21:10)",
+        [
+            "",
+            700002726
+        ]
+    ],
+    [
+        "TV/Movies or Family Time",
+        "(21:45, 23:07)",
+        [
+            "Babu S. Bangaru, MD",
+            700017234
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "CityMD",
+            700013542
+        ]
+    ]
+]

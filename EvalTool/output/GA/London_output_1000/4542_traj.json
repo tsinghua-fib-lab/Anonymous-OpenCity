@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 10:50)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:14, 12:17)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:40, 15:01)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:48, 17:17)",
+        [
+            "Old Bengal Bar",
+            700029330
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:45, 22:45)",
+        [
+            "",
+            700027174
+        ]
+    ]
+]

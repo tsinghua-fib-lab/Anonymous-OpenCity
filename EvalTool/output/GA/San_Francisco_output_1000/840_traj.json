@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Taxi Stand at Cable Car Turnaround (northeast corner along Hyde at Beach St)",
+            700009952
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(09:00, 10:29)",
+        [
+            "Taxi Stand at Cable Car Turnaround (northeast corner along Hyde at Beach St)",
+            700009952
+        ]
+    ],
+    [
+        "2:00 PM to 4:00 PM - Engage in a hobby or personal project",
+        "(10:41, 12:48)",
+        [
+            "Taxi Stand at Cable Car Turnaround (northeast corner along Hyde at Beach St)",
+            700009952
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 17:01)",
+        [
+            "",
+            700010996
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(15:12, 17:00)",
+        [
+            "Taxi Stand at Cable Car Turnaround (northeast corner along Hyde at Beach St)",
+            700009952
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 22:30)",
+        [
+            "",
+            700007669
+        ]
+    ],
+    [
+        "Stay at Taxi Stand at Cable Car Turnaround (northeast corner along Hyde at Beach St)",
+        "(23:15, 23:59)",
+        [
+            "Buena Vista",
+            700000528
+        ]
+    ]
+]

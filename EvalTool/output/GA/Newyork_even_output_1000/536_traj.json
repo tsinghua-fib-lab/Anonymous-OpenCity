@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Go Believe Bakery",
+            700005157
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:09)",
+        [
+            "Go Believe Bakery",
+            700005157
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:41, 11:33)",
+        [
+            "Capital One",
+            700005783
+        ]
+    ],
+    [
+        "Continue with Personal Projects/Reading",
+        "(12:25, 13:56)",
+        [
+            "Go Believe Bakery",
+            700005157
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 18:46)",
+        [
+            "Burger By Day",
+            700027736
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:34, 23:07)",
+        [
+            "",
+            700025254
+        ]
+    ],
+    [
+        "Go for leisure activities",
+        "(23:20, 23:59)",
+        [
+            "Matcha Cafe Maiko",
+            700029593
+        ]
+    ]
+]

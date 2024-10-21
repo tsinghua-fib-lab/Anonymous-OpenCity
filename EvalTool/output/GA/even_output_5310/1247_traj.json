@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700029831
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:27)",
+        [
+            "",
+            700029831
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 15:59)",
+        [
+            "",
+            700029831
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(13:00, 14:23)",
+        [
+            "In Common NYC Cafe",
+            700030302
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:29, 15:44)",
+        [
+            "Golden City",
+            700003749
+        ]
+    ],
+    [
+        "Catch Up on TV/Movies",
+        "(17:15, 19:06)",
+        [
+            "",
+            700029831
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:04, 20:25)",
+        [
+            "Golden City",
+            700003749
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:40, 22:11)",
+        [
+            "Skylight Diner",
+            700003747
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(23:03, 23:59)",
+        [
+            "Golden City",
+            700003749
+        ]
+    ]
+]

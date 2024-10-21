@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008260
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:07)",
+        [
+            "Abrazo",
+            700001592
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:49, 15:23)",
+        [
+            "Elephant Sushi",
+            700003305
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(15:58, 17:02)",
+        [
+            "Elephant Sushi",
+            700003305
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:29, 20:40)",
+        [
+            "Stones Throw",
+            700003304
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:22, 23:58)",
+        [
+            "",
+            700008260
+        ]
+    ],
+    [
+        "Go to Evening Wind Down.",
+        "(23:29, 23:59)",
+        [
+            "Elephant Sushi",
+            700003305
+        ]
+    ]
+]

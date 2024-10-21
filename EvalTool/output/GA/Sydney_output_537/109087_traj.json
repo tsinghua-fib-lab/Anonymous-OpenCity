@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Street Library",
+            700026772
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:01)",
+        [
+            "Street Library",
+            700026772
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:47, 12:54)",
+        [
+            "Street Library",
+            700026772
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:10, 17:33)",
+        [
+            "Duke of Edinburgh Hotel",
+            700023707
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:05, 20:47)",
+        [
+            "The Sultan’s Table",
+            700008438
+        ]
+    ],
+    [
+        "Stay at Street Library.",
+        "(22:30, 23:57)",
+        [
+            "Street Library",
+            700026772
+        ]
+    ],
+    [
+        "Go to Street Library.",
+        "(23:54, 23:59)",
+        [
+            "Street Library",
+            700026772
+        ]
+    ]
+]

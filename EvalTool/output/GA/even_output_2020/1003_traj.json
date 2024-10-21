@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Valley Tavern",
+            700001771
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 11:05)",
+        [
+            "The Valley Tavern",
+            700001771
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:43, 13:00)",
+        [
+            "The Valley Tavern",
+            700001771
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 18:32)",
+        [
+            "Walgreens",
+            700001759
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:04, 17:11)",
+        [
+            "Walgreens",
+            700001759
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:43, 19:17)",
+        [
+            "Wells Fargo",
+            700001768
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:57, 21:52)",
+        [
+            "Aha! Fresh",
+            700001772
+        ]
+    ]
+]

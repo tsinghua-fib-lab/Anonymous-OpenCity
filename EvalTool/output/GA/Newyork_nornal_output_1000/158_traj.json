@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Buona Notte",
+            700019423
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:32)",
+        [
+            "Buona Notte",
+            700019423
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:02, 16:16)",
+        [
+            "Caffe Napoli",
+            700005146
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:47, 23:37)",
+        [
+            "Il Cortile",
+            700005302
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "Sapori",
+            700005301
+        ]
+    ]
+]

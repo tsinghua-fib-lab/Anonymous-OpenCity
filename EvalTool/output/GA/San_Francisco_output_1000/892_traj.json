@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Neighbor's Corner",
+            700005955
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:30)",
+        [
+            "Rin's Thai",
+            700001208
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:01, 15:56)",
+        [
+            "Lupa Trattoria",
+            700001750
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:25, 15:54)",
+        [
+            "Barney's Gourmet Hamburgers",
+            700001752
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 20:36)",
+        [
+            "The Rabbit Hole Theater Company",
+            700006198
+        ]
+    ]
+]

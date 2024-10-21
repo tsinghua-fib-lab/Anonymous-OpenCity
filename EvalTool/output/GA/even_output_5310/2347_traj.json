@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700017127
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:43)",
+        [
+            "",
+            700002649
+        ]
+    ],
+    [
+        "Outdoor Activities or Sports",
+        "(15:10, 16:38)",
+        [
+            "Cafe Boulud",
+            700015607
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(17:46, 18:52)",
+        [
+            "Cafe Boulud",
+            700015607
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:11, 22:44)",
+        [
+            "SINY Dermatology",
+            700039302
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:48, 23:59)",
+        [
+            "USPS",
+            700018369
+        ]
+    ]
+]

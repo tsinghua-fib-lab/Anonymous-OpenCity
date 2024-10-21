@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 60th Street & York Avenue",
+            700008062
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:52)",
+        [
+            "Sutton East Tennis Club",
+            700006031
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:14, 14:45)",
+        [
+            "Citi Bike - East 60th Street & York Avenue",
+            700008062
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:33, 19:15)",
+        [
+            "",
+            700003578
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:14, 20:52)",
+        [
+            "",
+            700022279
+        ]
+    ],
+    [
+        "Wind Down and Prepare for the Week",
+        "(21:15, 22:55)",
+        [
+            "Citi Bike - East 60th Street & York Avenue",
+            700008062
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "",
+            700020454
+        ]
+    ]
+]

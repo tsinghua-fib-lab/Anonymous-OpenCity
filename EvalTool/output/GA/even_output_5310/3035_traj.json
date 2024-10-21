@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Amelie Wine Bar",
+            700005003
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:03)",
+        [
+            "Loring Place",
+            700028891
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:45, 14:00)",
+        [
+            "Loring Place",
+            700028891
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:39, 15:59)",
+        [
+            "Loring Place",
+            700028891
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 17:41)",
+        [
+            "South of the Clouds",
+            700018264
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:48, 20:44)",
+        [
+            "South of the Clouds",
+            700018264
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:49, 22:13)",
+        [
+            "Rasa",
+            700013891
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:19, 23:59)",
+        [
+            "Mace",
+            700028894
+        ]
+    ]
+]

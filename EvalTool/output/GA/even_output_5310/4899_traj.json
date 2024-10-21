@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Lispenard St & Broadway",
+            700008125
+        ]
+    ],
+    [
+        "Morning Routine",
+        "(10:00, 10:52)",
+        [
+            "Citi Bike - Lispenard St & Broadway",
+            700008125
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:59, 14:05)",
+        [
+            "Joey Pepperoni’s Pizza",
+            700016163
+        ]
+    ],
+    [
+        "Prepare and Have Lunch",
+        "(14:32, 16:39)",
+        [
+            "Joey Pepperoni’s Pizza",
+            700016163
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:06, 23:00)",
+        [
+            "",
+            700014898
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "Sweat Yoga",
+            700014900
+        ]
+    ]
+]

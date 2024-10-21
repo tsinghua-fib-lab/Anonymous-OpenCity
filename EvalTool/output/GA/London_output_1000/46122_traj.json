@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "Watch TV or Movies",
+        "(10:00, 12:05)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:38, 18:26)",
+        [
+            "",
+            700045033
+        ]
+    ],
+    [
+        "Wind Down with Evening Entertainment",
+        "(17:41, 19:47)",
+        [
+            "",
+            700045034
+        ]
+    ],
+    [
+        "Wind Down with Evening Entertainment",
+        "(19:54, 21:52)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:25, 23:59)",
+        [
+            "",
+            700070307
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Lion's Den Bar & Lounge",
+            700009342
+        ]
+    ],
+    [
+        "Next arrangement after breakfast.",
+        "(10:00, 11:15)",
+        [
+            "",
+            700009338
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 14:47)",
+        [
+            "",
+            700009340
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:31, 18:36)",
+        [
+            "",
+            700009327
+        ]
+    ],
+    [
+        "Stay at your current location.",
+        "(22:14, 23:59)",
+        [
+            "",
+            700000978
+        ]
+    ]
+]

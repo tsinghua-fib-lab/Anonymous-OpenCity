@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Go for a walk or do some light exercise",
+        "(10:00, 11:04)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Engage in a personal development activity",
+        "(11:49, 13:19)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Engage in a personal development activity",
+        "(13:22, 14:58)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Spend time with friends or family",
+        "(15:30, 17:58)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Spend time with friends or family",
+        "(18:38, 21:18)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Prepare a nice dinner",
+        "(21:38, 23:12)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ]
+]

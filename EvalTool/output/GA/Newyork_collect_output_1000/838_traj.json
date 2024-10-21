@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:10)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(13:55, 14:52)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:59, 19:19)",
+        [
+            "",
+            700017443
+        ]
+    ],
+    [
+        "Next, Wind Down with TV or Relaxing Activities",
+        "(19:09, 21:53)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Wind Down with TV or Relaxing Activities",
+        "(22:59, 23:59)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Next, Wind Down with TV or Relaxing Activities",
+        "(23:57, 23:59)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ]
+]

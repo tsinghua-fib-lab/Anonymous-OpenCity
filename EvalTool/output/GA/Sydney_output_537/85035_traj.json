@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Arisun",
+            700006364
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:56)",
+        [
+            "Arisun",
+            700006364
+        ]
+    ],
+    [
+        "Stay at Arisun",
+        "(11:44, 13:06)",
+        [
+            "Arisun",
+            700006364
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:01, 17:21)",
+        [
+            "Delima Restaurant",
+            700007595
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:32, 19:17)",
+        [
+            "Old Town",
+            700010206
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 22:26)",
+        [
+            "Korean BBQ Yang San Park",
+            700012253
+        ]
+    ],
+    [
+        "Relax and Unwind",
+        "(21:38, 23:42)",
+        [
+            "Arisun",
+            700006364
+        ]
+    ],
+    [
+        "Relax and Unwind",
+        "(23:37, 23:59)",
+        [
+            "Arisun",
+            700006364
+        ]
+    ]
+]

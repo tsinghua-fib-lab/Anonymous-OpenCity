@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700013299
+        ]
+    ],
+    [
+        "10:00 AM - Morning Walk",
+        "(09:00, 10:35)",
+        [
+            "",
+            700008284
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:49, 12:57)",
+        [
+            "Amazon Locker Shirley",
+            700006140
+        ]
+    ],
+    [
+        "Play Sports or Exercise",
+        "(16:37, 17:52)",
+        [
+            "McCormick & Kuleto's",
+            700000830
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:25, 20:07)",
+        [
+            "",
+            700013299
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:21, 23:59)",
+        [
+            "McCormick & Kuleto's",
+            700000830
+        ]
+    ]
+]

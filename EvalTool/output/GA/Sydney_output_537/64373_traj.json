@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sydney Produce Market",
+            700019410
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:06)",
+        [
+            "Paddy's Brewery & Bar",
+            700000122
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 20:11)",
+        [
+            "Little Weiner",
+            700029189
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:12, 19:18)",
+        [
+            "Paddy's Market Flemington",
+            700014718
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:30, 23:59)",
+        [
+            "Sydney Produce Market",
+            700019410
+        ]
+    ]
+]

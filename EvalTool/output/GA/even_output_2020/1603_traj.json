@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700004819
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:39)",
+        [
+            "Wells Fargo",
+            700003890
+        ]
+    ],
+    [
+        "Current place: Wells Fargo. Stay for 1 hour 3 minutes.",
+        "(14:57, 16:02)",
+        [
+            "Giordano Bros.",
+            700000432
+        ]
+    ],
+    [
+        "Current place: Wells Fargo. Stay for 1 hour 3 minutes.",
+        "(16:47, 18:14)",
+        [
+            "Giordano Bros.",
+            700000432
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 23:24)",
+        [
+            "Pizzelle di North Beach",
+            700005963
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(22:33, 23:59)",
+        [
+            "Giordano Bros.",
+            700000432
+        ]
+    ]
+]

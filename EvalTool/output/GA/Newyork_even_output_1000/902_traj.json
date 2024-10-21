@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020097
+        ]
+    ],
+    [
+        "next activity based on plan",
+        "(10:00, 11:10)",
+        [
+            "",
+            700020097
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(11:15, 12:40)",
+        [
+            "",
+            700020097
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:01, 15:53)",
+        [
+            "",
+            700020095
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(14:37, 16:33)",
+        [
+            "iPizzaNY",
+            700004372
+        ]
+    ],
+    [
+        "Prepare and have lunch.",
+        "(16:36, 18:14)",
+        [
+            "",
+            700020096
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 21:00)",
+        [
+            "",
+            700020094
+        ]
+    ],
+    [
+        "Go to Little Italy Pizza; Prepare and have dinner.",
+        "(23:39, 23:59)",
+        [
+            "Duane Reade",
+            700004369
+        ]
+    ]
+]

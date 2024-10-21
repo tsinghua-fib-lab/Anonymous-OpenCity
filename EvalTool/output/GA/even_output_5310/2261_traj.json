@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "HealthSource Pharmacy",
+            700028344
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:39)",
+        [
+            "New York Zendō Shobo-ji",
+            700020974
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(12:10, 13:35)",
+        [
+            "New York Zendō Shobo-ji",
+            700020974
+        ]
+    ],
+    [
+        "Enjoy a Leisure Activity",
+        "(13:49, 15:35)",
+        [
+            "New York Zendō Shobo-ji",
+            700020974
+        ]
+    ],
+    [
+        "Watch a Movie/TV Series",
+        "(16:37, 18:05)",
+        [
+            "New York Zendō Shobo-ji",
+            700020974
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 22:04)",
+        [
+            "Gotham Café",
+            700016395
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:45, 21:57)",
+        [
+            "Gotham Café",
+            700016395
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:37, 23:59)",
+        [
+            "le Réveil",
+            700022437
+        ]
+    ]
+]

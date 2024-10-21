@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bite",
+            700004020
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:24)",
+        [
+            "Gato",
+            700008661
+        ]
+    ],
+    [
+        "Go to Gato",
+        "(11:59, 13:06)",
+        [
+            "Gato",
+            700008661
+        ]
+    ],
+    [
+        "Engage in a hobby or activity you love, such as reading, painting, or playing a musical instrument.",
+        "(13:51, 15:11)",
+        [
+            "Gato",
+            700008661
+        ]
+    ],
+    [
+        "Engage in a hobby or activity you love, such as reading, painting, or playing a musical instrument.",
+        "(15:40, 16:57)",
+        [
+            "Gato",
+            700008661
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:55, 20:01)",
+        [
+            "",
+            700002303
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 23:59)",
+        [
+            "The Press Shop",
+            700013253
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:01, 23:59)",
+        [
+            "Bleecker Street Bar",
+            700040278
+        ]
+    ]
+]

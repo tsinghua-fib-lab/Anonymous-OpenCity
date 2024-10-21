@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Teremok",
+            700009622
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:29)",
+        [
+            "",
+            700001144
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:32, 15:52)",
+        [
+            "Young Adults Institute",
+            700000265
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:30, 22:10)",
+        [
+            "",
+            700000863
+        ]
+    ],
+    [
+        "Relax and watch a movie or series.",
+        "(20:59, 22:10)",
+        [
+            "Teremok",
+            700009622
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "",
+            700002273
+        ]
+    ]
+]

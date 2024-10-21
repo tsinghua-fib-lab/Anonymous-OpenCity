@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Grill'd",
+            700005660
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:23)",
+        [
+            "Bondi Pizza",
+            700015613
+        ]
+    ],
+    [
+        "Relaxation and Leisure Reading",
+        "(13:08, 14:54)",
+        [
+            "",
+            700018155
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:30, 20:34)",
+        [
+            "Mille Uno Restaurant",
+            700015614
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(18:02, 19:29)",
+        [
+            "",
+            700018155
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 22:22)",
+        [
+            "",
+            700009390
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "",
+            700027341
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "Ready Health Nursing College",
+            700017825
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Teremok",
+            700009622
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:04)",
+        [
+            "Coffeed",
+            700011150
+        ]
+    ],
+    [
+        "Lunch and catch up on some reading or a podcast.",
+        "(13:26, 15:03)",
+        [
+            "Coffeed",
+            700011150
+        ]
+    ],
+    [
+        "Have lunch and catch up on some reading or a podcast.",
+        "(15:49, 17:30)",
+        [
+            "Dr. Fernando Mariz",
+            700019374
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:19, 19:20)",
+        [
+            "Chelsea Inn",
+            700004494
+        ]
+    ]
+]

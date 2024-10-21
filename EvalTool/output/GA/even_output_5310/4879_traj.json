@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fossetta",
+            700009040
+        ]
+    ],
+    [
+        "Morning Routine",
+        "(10:00, 10:58)",
+        [
+            "Fossetta",
+            700009040
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:59, 14:14)",
+        [
+            "Yokoya",
+            700011352
+        ]
+    ],
+    [
+        "Prepare and Have Lunch",
+        "(14:32, 16:33)",
+        [
+            "Yokoya",
+            700011352
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:06, 18:09)",
+        [
+            "99 Cent Pizza",
+            700024803
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "Chomp Chomp",
+            700040555
+        ]
+    ]
+]

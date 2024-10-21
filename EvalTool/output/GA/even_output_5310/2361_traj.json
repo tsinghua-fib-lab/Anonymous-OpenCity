@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "TD Bank",
+            700010784
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(09:00, 10:11)",
+        [
+            "TD Bank",
+            700010784
+        ]
+    ],
+    [
+        "Relax at home or read a book.",
+        "(10:56, 12:45)",
+        [
+            "",
+            700017605
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:30, 17:25)",
+        [
+            "Barrio Chino",
+            700007397
+        ]
+    ],
+    [
+        "Return home and unwind by watching a movie.",
+        "(19:09, 20:38)",
+        [
+            "TD Bank",
+            700010784
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:35, 23:59)",
+        [
+            "Roasting Plant",
+            700007396
+        ]
+    ]
+]

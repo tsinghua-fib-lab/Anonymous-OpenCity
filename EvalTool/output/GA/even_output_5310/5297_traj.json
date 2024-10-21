@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Times Eatery",
+            700020692
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 16:06)",
+        [
+            "Little Italy Pizza",
+            700040449
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:44, 14:06)",
+        [
+            "Little Italy Pizza",
+            700040449
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:07, 16:09)",
+        [
+            "Little Italy Pizza",
+            700040449
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(16:06, 17:53)",
+        [
+            "Little Italy Pizza",
+            700040449
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:05, 20:06)",
+        [
+            "Starbucks",
+            700003868
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(20:36, 22:27)",
+        [
+            "The Times Eatery",
+            700020692
+        ]
+    ],
+    [
+        "Arrange to leave the current place and go to Blue Note Jazz Club for some live music.",
+        "(23:06, 23:59)",
+        [
+            "Starbucks",
+            700004038
+        ]
+    ]
+]

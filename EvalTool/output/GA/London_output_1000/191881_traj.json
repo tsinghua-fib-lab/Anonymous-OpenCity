@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(10:00, 10:53)",
+        [
+            "",
+            700014757
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(11:40, 12:56)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Stay at Dragon Court",
+        "(12:59, 15:07)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Watch Sports or a TV Show",
+        "(15:04, 17:03)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Engage in a hobby or activity (like reading or crafting)",
+        "(15:19, 16:48)",
+        [
+            "Gezellig",
+            700011877
+        ]
+    ],
+    [
+        "Engage in a hobby or activity (like reading or crafting)",
+        "(17:32, 18:58)",
+        [
+            "Gezellig",
+            700011877
+        ]
+    ],
+    [
+        "Relax and unwind by watching a movie or playing games",
+        "(19:37, 21:09)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Stay at Dragon Court",
+        "(21:19, 23:04)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Stay at The Hill Cafe.",
+        "(23:18, 23:59)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ]
+]

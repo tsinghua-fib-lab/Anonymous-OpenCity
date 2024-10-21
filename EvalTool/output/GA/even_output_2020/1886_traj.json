@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "KFC",
+            700010301
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the park nearby",
+        "(10:00, 10:56)",
+        [
+            "",
+            700000799
+        ]
+    ],
+    [
+        "Next, go for a leisurely walk in the park nearby.",
+        "(11:08, 13:10)",
+        [
+            "Taco Bell",
+            700010300
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:51, 16:08)",
+        [
+            "Secret Bar & Lounge",
+            700010220
+        ]
+    ],
+    [
+        "Wind down the day by watching TV or catching up on a favorite series.",
+        "(19:39, 21:08)",
+        [
+            "KFC",
+            700010301
+        ]
+    ],
+    [
+        "Stay at Radhaus",
+        "(22:10, 23:22)",
+        [
+            "Secret Bar & Lounge",
+            700010220
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "Western Union",
+            700005073
+        ]
+    ]
+]

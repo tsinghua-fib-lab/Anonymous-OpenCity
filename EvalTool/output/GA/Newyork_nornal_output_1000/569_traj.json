@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Claudette",
+            700020938
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:42)",
+        [
+            "Citi Bike - E 10 St & 5 Ave",
+            700008018
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:04, 14:22)",
+        [
+            "Blossom",
+            700007660
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:30, 20:36)",
+        [
+            "Gerlateria Gentile",
+            700007659
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:12, 23:59)",
+        [
+            "Claudette",
+            700020938
+        ]
+    ]
+]

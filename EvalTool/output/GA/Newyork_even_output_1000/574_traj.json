@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002202
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:33)",
+        [
+            "Le Boite en Bois",
+            700020925
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:59, 12:52)",
+        [
+            "Le Boite en Bois",
+            700020925
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:25, 15:02)",
+        [
+            "Le Boite en Bois",
+            700020925
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:12, 16:39)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:43, 23:59)",
+        [
+            "Thomas Drugs",
+            700006589
+        ]
+    ],
+    [
+        "Next activity after visiting Planned Parenthood",
+        "(22:26, 23:59)",
+        [
+            "",
+            700002874
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "Le Botaniste",
+            700020926
+        ]
+    ]
+]

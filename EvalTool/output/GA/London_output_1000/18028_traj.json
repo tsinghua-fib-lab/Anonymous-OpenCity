@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "K's apartment",
+            700047701
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:06)",
+        [
+            "Cafe Diana",
+            700041556
+        ]
+    ],
+    [
+        "Outdoor Activity/Sports",
+        "(11:58, 12:51)",
+        [
+            "Cafe Diana",
+            700041556
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:54, 15:14)",
+        [
+            "Cafe Diana",
+            700041556
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:51, 18:57)",
+        [
+            "The Money Exchange",
+            700041567
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 23:59)",
+        [
+            "",
+            700041059
+        ]
+    ]
+]

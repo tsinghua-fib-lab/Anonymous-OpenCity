@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tudor Rose Court",
+            700046924
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:25)",
+        [
+            "Golden Lane",
+            700010205
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:04, 12:59)",
+        [
+            "Pret A Manger",
+            700019414
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:16, 18:40)",
+        [
+            "",
+            700027938
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(15:20, 16:57)",
+        [
+            "Pret A Manger",
+            700019414
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:12, 18:47)",
+        [
+            "Two Brewers",
+            700002659
+        ]
+    ],
+    [
+        "Socialize",
+        "(19:48, 21:21)",
+        [
+            "Two Brewers",
+            700002659
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(22:11, 23:51)",
+        [
+            "Pret A Manger",
+            700019414
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:21, 23:59)",
+        [
+            "",
+            700066789
+        ]
+    ]
+]

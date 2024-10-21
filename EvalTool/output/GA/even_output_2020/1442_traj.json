@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dr. Marcus Coplin ND - Neuropathic Healthcare",
+            700003393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:29)",
+        [
+            "Temporarium",
+            700004779
+        ]
+    ],
+    [
+        "Next meal at Plain Jane",
+        "(15:18, 16:44)",
+        [
+            "Plain Jane",
+            700010151
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:17, 22:03)",
+        [
+            "Boogaloos",
+            700010171
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 23:59)",
+        [
+            "Tinto",
+            700003558
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:19, 23:59)",
+        [
+            "Collegio De La Mission",
+            700000200
+        ]
+    ]
+]

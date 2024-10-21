@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Alcove Theater",
+            700001744
+        ]
+    ],
+    [
+        "Reading or catching up on news/articles",
+        "(10:00, 11:07)",
+        [
+            "The Alcove Theater",
+            700001744
+        ]
+    ],
+    [
+        "Reading or catching up on news/articles",
+        "(11:33, 13:05)",
+        [
+            "The Alcove Theater",
+            700001744
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:02, 18:57)",
+        [
+            "The Thonglor",
+            700001025
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 23:59)",
+        [
+            "August Hall",
+            700001030
+        ]
+    ]
+]

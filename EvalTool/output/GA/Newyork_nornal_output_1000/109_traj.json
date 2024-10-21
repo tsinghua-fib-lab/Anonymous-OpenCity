@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700034818
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:24)",
+        [
+            "",
+            700034824
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:16, 14:24)",
+        [
+            "",
+            700034953
+        ]
+    ],
+    [
+        "Engage in a recreational sports activity",
+        "(17:35, 19:10)",
+        [
+            "",
+            700034961
+        ]
+    ],
+    [
+        "Engage in a recreational sports activity",
+        "(19:26, 20:58)",
+        [
+            "Cedar Local",
+            700013993
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:59)",
+        [
+            "",
+            700034958
+        ]
+    ]
+]

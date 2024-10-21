@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005983
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:00, 12:07)",
+        [
+            "Scalinatella Ristorante",
+            700020634
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(12:20, 14:27)",
+        [
+            "Scalinatella Ristorante",
+            700020634
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:45, 16:07)",
+        [
+            "",
+            700001895
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:33, 21:37)",
+        [
+            "",
+            700021419
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:45, 23:59)",
+        [
+            "",
+            700039231
+        ]
+    ]
+]

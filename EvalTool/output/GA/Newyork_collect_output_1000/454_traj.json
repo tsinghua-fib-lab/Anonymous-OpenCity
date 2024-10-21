@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(09:00, 10:30)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(11:18, 13:02)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:55, 18:18)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:21, 23:06)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Prepare for the Week Ahead",
+        "(23:45, 23:59)",
+        [
+            "",
+            700002180
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001832
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:45)",
+        [
+            "Icon Parking",
+            700014875
+        ]
+    ],
+    [
+        "Stay at Icon Parking.",
+        "(12:01, 13:36)",
+        [
+            "Chase",
+            700007666
+        ]
+    ],
+    [
+        "Stay at Icon Parking",
+        "(13:28, 15:07)",
+        [
+            "",
+            700001674
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:29, 17:03)",
+        [
+            "Citi Bike - University Pl & E 8 St",
+            700021684
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:56, 18:58)",
+        [
+            "Panineria",
+            700022125
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "Panineria",
+            700022125
+        ]
+    ]
+]

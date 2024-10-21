@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cooks & Company",
+            700010075
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:54)",
+        [
+            "The Magic Theatre",
+            700004181
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 13:23)",
+        [
+            "Cooks & Company",
+            700010075
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:36, 16:08)",
+        [
+            "The Magic Theatre",
+            700004181
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:20, 17:56)",
+        [
+            "The Magic Theatre",
+            700004181
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:20, 23:59)",
+        [
+            "SFMOMA Artists Gallery",
+            700004118
+        ]
+    ],
+    [
+        "Go to Cooks & Company for leisure.",
+        "(23:58, 23:59)",
+        [
+            "Cooks & Company",
+            700010075
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Temporarium",
+            700004779
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:00, 10:55)",
+        [
+            "Temporarium",
+            700004779
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:41, 13:17)",
+        [
+            "Plain Jane",
+            700010151
+        ]
+    ],
+    [
+        "Casual Meet-up with Friends/Family",
+        "(16:38, 17:58)",
+        [
+            "The Crepe House",
+            700003561
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:16, 21:27)",
+        [
+            "",
+            700001295
+        ]
+    ],
+    [
+        "Casual Meet-up with Friends/Family",
+        "(23:19, 23:59)",
+        [
+            "Upfordayz",
+            700011017
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park",
+        "(10:00, 11:05)",
+        [
+            "",
+            700018908
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park from 11:00 AM to 12:00 PM.",
+        "(12:06, 13:16)",
+        [
+            "",
+            700001612
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park.",
+        "(13:11, 14:48)",
+        [
+            "Malt & Mold",
+            700006207
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 18:42)",
+        [
+            "Malii Gramercy",
+            700023463
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 23:00)",
+        [
+            "East Side Endoscopy",
+            700023461
+        ]
+    ],
+    [
+        "Go to 'Mali Gramercy'",
+        "(23:31, 23:59)",
+        [
+            "Malii Gramercy",
+            700023463
+        ]
+    ]
+]

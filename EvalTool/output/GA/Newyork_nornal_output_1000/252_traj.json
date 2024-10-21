@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002784
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:30)",
+        [
+            "",
+            700001192
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(14:14, 16:10)",
+        [
+            "Subway",
+            700006396
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(16:40, 18:00)",
+        [
+            "",
+            700002332
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(18:18, 19:55)",
+        [
+            "Bagel Market",
+            700008313
+        ]
+    ],
+    [
+        "Afternoon Relaxation or Movie Time",
+        "(20:12, 21:52)",
+        [
+            "",
+            700002332
+        ]
+    ],
+    [
+        "Go to TMPL Fitness Astor Place.",
+        "(22:02, 23:39)",
+        [
+            "",
+            700002332
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "Le Soleil",
+            700018342
+        ]
+    ]
+]

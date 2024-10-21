@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020623
+        ]
+    ],
+    [
+        "Read or Write",
+        "(10:00, 11:23)",
+        [
+            "San Matteo Pizzeria e Cucina",
+            700015199
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:24, 13:06)",
+        [
+            "",
+            700020624
+        ]
+    ],
+    [
+        "Grocery Shopping or Errands",
+        "(17:00, 18:40)",
+        [
+            "San Matteo Pizzeria e Cucina",
+            700015199
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 21:35)",
+        [
+            "Hutch and Waldo",
+            700029521
+        ]
+    ]
+]

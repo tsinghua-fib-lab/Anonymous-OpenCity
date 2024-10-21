@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Chuy's Fiestas Taqueria II",
+            700005841
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:55)",
+        [
+            "heist",
+            700010116
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:47, 15:36)",
+        [
+            "Avis",
+            700000477
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:47, 17:46)",
+        [
+            "heist",
+            700010116
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 22:37)",
+        [
+            "620 Jones",
+            700001721
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(22:39, 23:59)",
+        [
+            "Pharaohs Mediterranean Sandwiches",
+            700001019
+        ]
+    ]
+]

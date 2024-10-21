@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Suppenküche",
+            700000849
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(09:00, 10:26)",
+        [
+            "Suppenküche",
+            700000849
+        ]
+    ],
+    [
+        "Leisure Reading/Relaxation",
+        "(11:03, 12:39)",
+        [
+            "Suppenküche",
+            700000849
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 16:39)",
+        [
+            "",
+            700002891
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:37, 22:26)",
+        [
+            "Linden & Laguna",
+            700009521
+        ]
+    ]
+]

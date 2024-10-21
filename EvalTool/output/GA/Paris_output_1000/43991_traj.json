@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011799
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 16:01)",
+        [
+            "Billeterie Grandes Lignes",
+            700011792
+        ]
+    ],
+    [
+        "Leisure Time/Entertainment",
+        "(13:24, 16:02)",
+        [
+            "Billeterie Grandes Lignes",
+            700011792
+        ]
+    ],
+    [
+        "Leisure Time/Entertainment",
+        "(16:41, 19:13)",
+        [
+            "Billeterie Grandes Lignes",
+            700011792
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:27, 23:50)",
+        [
+            "",
+            700011804
+        ]
+    ],
+    [
+        "Wind Down & Relax",
+        "(22:37, 23:50)",
+        [
+            "",
+            700011799
+        ]
+    ]
+]

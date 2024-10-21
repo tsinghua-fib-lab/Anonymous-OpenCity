@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 10:59)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:33, 12:56)",
+        [
+            "",
+            700054512
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:19, 16:25)",
+        [
+            "Guanabara",
+            700007412
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:30, 17:35)",
+        [
+            "Drury Lane",
+            700007413
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 20:59)",
+        [
+            "",
+            700014209
+        ]
+    ],
+    [
+        "Catch Up on TV or Movies",
+        "(20:02, 21:41)",
+        [
+            "",
+            700063205
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:59)",
+        [
+            "Piano Works West-End",
+            700080858
+        ]
+    ]
+]

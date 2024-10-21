@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:12)",
+        [
+            "",
+            700018138
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(11:19, 13:04)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:07, 15:27)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:22, 18:42)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "Prepare Dinner and Relax",
+        "(18:45, 20:08)",
+        [
+            "So Gong Dong",
+            700022217
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:19, 23:59)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ]
+]

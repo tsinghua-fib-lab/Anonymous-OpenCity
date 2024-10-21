@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Shevchenko Pl & E 7 St",
+            700008178
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:34)",
+        [
+            "The Scratcher",
+            700009750
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:11, 13:28)",
+        [
+            "The Scratcher",
+            700009750
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:35, 16:03)",
+        [
+            "The Scratcher",
+            700009750
+        ]
+    ],
+    [
+        "4:00 PM - Social Time",
+        "(16:47, 18:02)",
+        [
+            "Citi Bike - Shevchenko Pl & E 7 St",
+            700008178
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:28, 23:15)",
+        [
+            "Makinny",
+            700021802
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "886",
+            700016102
+        ]
+    ]
+]

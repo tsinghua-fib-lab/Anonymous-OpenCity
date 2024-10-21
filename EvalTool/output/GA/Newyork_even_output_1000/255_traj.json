@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Paris Baguette",
+            700014765
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:44)",
+        [
+            "Tea Makers",
+            700021798
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(13:52, 15:13)",
+        [
+            "Tea Makers",
+            700021798
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:14, 19:19)",
+        [
+            "Five Senses",
+            700015631
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:45, 23:20)",
+        [
+            "Tea Makers",
+            700021798
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:24, 23:59)",
+        [
+            "Food Gallery 32",
+            700010024
+        ]
+    ]
+]

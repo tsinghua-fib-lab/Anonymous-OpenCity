@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Public School M188 The Island School",
+            700000020
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:34)",
+        [
+            "",
+            700001885
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:43, 16:43)",
+        [
+            "China Wok",
+            700019587
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:02, 18:29)",
+        [
+            "China Wok",
+            700019587
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 22:42)",
+        [
+            "",
+            700002504
+        ]
+    ],
+    [
+        "Stay at your current location",
+        "(21:15, 22:29)",
+        [
+            "",
+            700002976
+        ]
+    ],
+    [
+        "Stay at China Wok",
+        "(22:56, 23:59)",
+        [
+            "",
+            700002965
+        ]
+    ]
+]

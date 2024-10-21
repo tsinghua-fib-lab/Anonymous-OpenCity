@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sea of Galilee Church",
+            700014829
+        ]
+    ],
+    [
+        "Current Place: Sea of Galilee Church. Stay until 11:45 AM.",
+        "(10:00, 10:56)",
+        [
+            "Antler Beer & Wine Dispensary",
+            700014830
+        ]
+    ],
+    [
+        "Current Place: Sea of Galilee Church. Stay until 11:45 AM.",
+        "(11:09, 12:27)",
+        [
+            "Antler Beer & Wine Dispensary",
+            700014830
+        ]
+    ],
+    [
+        "Current Place: Sea of Galilee Church. Stay until 2:00 PM.",
+        "(13:05, 15:02)",
+        [
+            "Antler Beer & Wine Dispensary",
+            700014830
+        ]
+    ],
+    [
+        "Stay at Antler Beer & Wine Dispensary",
+        "(15:49, 17:17)",
+        [
+            "Indi Thai",
+            700017074
+        ]
+    ],
+    [
+        "Stay at Antler Beer & Wine Dispensary.",
+        "(17:28, 18:37)",
+        [
+            "Indi Thai",
+            700017074
+        ]
+    ],
+    [
+        "Stay at Antler Beer & Wine Dispensary",
+        "(18:54, 20:21)",
+        [
+            "Indi Thai",
+            700017074
+        ]
+    ],
+    [
+        "Stay at Antler Beer & Wine Dispensary.",
+        "(21:08, 22:20)",
+        [
+            "Indi Thai",
+            700017074
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "",
+            700005163
+        ]
+    ]
+]

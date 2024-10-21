@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sammy L Coffee",
+            700023468
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:19)",
+        [
+            "Citi Bike - East 11th Street & 3rd Avenue",
+            700008020
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:02, 16:26)",
+        [
+            "",
+            700000929
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 19:06)",
+        [
+            "Abacus Pharmacy",
+            700004752
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:35, 23:59)",
+        [
+            "Cacio e Pepe",
+            700019108
+        ]
+    ]
+]

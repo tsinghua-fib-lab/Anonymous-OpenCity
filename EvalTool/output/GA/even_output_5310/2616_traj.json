@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bella Napoli",
+            700008906
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park.",
+        "(10:00, 10:52)",
+        [
+            "Rare Bar and Grill",
+            700007310
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park.",
+        "(11:03, 12:56)",
+        [
+            "Rare Bar and Grill",
+            700007310
+        ]
+    ],
+    [
+        "Spend some time reading a book or doing a hobby.",
+        "(13:36, 14:59)",
+        [
+            "Dig",
+            700022399
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:43, 18:48)",
+        [
+            "",
+            700020516
+        ]
+    ],
+    [
+        "Go for coffee or casual hangout with friends",
+        "(19:32, 21:38)",
+        [
+            "Sid Gold's Request Room",
+            700015577
+        ]
+    ],
+    [
+        "Wind down the day by watching a movie or binge-watching a series.",
+        "(21:30, 23:05)",
+        [
+            "Rare Bar and Grill",
+            700007310
+        ]
+    ],
+    [
+        "Winding down by watching a movie at home",
+        "(23:32, 23:59)",
+        [
+            "Bella Napoli",
+            700008906
+        ]
+    ]
+]

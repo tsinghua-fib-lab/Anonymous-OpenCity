@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:27)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:21, 16:24)",
+        [
+            "The Globe",
+            700028483
+        ]
+    ],
+    [
+        "Spend time enjoying leisure reading or catch up on personal projects.",
+        "(16:21, 17:58)",
+        [
+            "",
+            700002711
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:15, 23:34)",
+        [
+            "",
+            700000977
+        ]
+    ],
+    [
+        "Next wind down with some light activities like playing a game or watching TV.",
+        "(21:22, 23:01)",
+        [
+            "Diner 24",
+            700004207
+        ]
+    ],
+    [
+        "Wind down with some light activities like playing a game or watching TV.",
+        "(23:40, 23:59)",
+        [
+            "Yaya Tea",
+            700020945
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Au Za'atar",
+            700011621
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:25)",
+        [
+            "Bistro Vendôme",
+            700011529
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(12:45, 13:54)",
+        [
+            "Bistro Vendôme",
+            700011529
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:42, 15:50)",
+        [
+            "Bistro Vendôme",
+            700011529
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:36, 20:08)",
+        [
+            "Blashfield Fountain",
+            700022934
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:25, 23:59)",
+        [
+            "Starbucks",
+            700014344
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:08, 22:44)",
+        [
+            "Shaken Not Stirred",
+            700006520
+        ]
+    ]
+]

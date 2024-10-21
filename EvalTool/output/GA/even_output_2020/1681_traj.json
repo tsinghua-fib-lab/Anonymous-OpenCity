@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ollei",
+            700013230
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:23)",
+        [
+            "Taco Rouge",
+            700001904
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:02, 13:25)",
+        [
+            "Teaspoon",
+            700005265
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:06, 15:39)",
+        [
+            "Teaspoon",
+            700005265
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:49, 17:25)",
+        [
+            "Taco Rouge",
+            700001904
+        ]
+    ],
+    [
+        "Afternoon Sporting Event",
+        "(17:18, 19:33)",
+        [
+            "Teaspoon",
+            700005265
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 23:05)",
+        [
+            "Peet's Coffee",
+            700002095
+        ]
+    ]
+]

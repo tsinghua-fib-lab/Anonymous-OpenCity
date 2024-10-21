@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010164
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:40)",
+        [
+            "Van Ness Family Dentist",
+            700003307
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:02, 14:05)",
+        [
+            "",
+            700001218
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 19:30)",
+        [
+            "24 Hour Fitness",
+            700000693
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(19:42, 20:59)",
+        [
+            "",
+            700010164
+        ]
+    ],
+    [
+        "Social Time",
+        "(21:18, 23:28)",
+        [
+            "Bay Area Smash Room",
+            700012799
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "McTeague's Saloon",
+            700001106
+        ]
+    ]
+]

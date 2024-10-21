@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006036
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:22)",
+        [
+            "Sutton Animal Hospital",
+            700036806
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:35, 16:33)",
+        [
+            "Ritz Diner",
+            700006524
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(17:41, 19:03)",
+        [
+            "Ritz Diner",
+            700006524
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:54, 22:10)",
+        [
+            "Moti Mahal Delux",
+            700006522
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(22:16, 23:39)",
+        [
+            "Moti Mahal Delux",
+            700006522
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "",
+            700019504
+        ]
+    ]
+]

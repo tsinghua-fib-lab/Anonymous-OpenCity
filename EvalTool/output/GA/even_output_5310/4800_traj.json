@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Think Coffee",
+            700011151
+        ]
+    ],
+    [
+        "Breakfast at Think Coffee",
+        "(10:00, 11:14)",
+        [
+            "P3 Batting Cage",
+            700009439
+        ]
+    ],
+    [
+        "Go for a morning jog or walk in the park",
+        "(11:54, 11:56)",
+        [
+            "P3 Batting Cage",
+            700009439
+        ]
+    ],
+    [
+        "Relax and read a book or enjoy some personal time",
+        "(12:52, 14:24)",
+        [
+            "P3 Batting Cage",
+            700009439
+        ]
+    ],
+    [
+        "Relax and read a book or enjoy some personal time",
+        "(14:27, 15:25)",
+        [
+            "P3 Batting Cage",
+            700009439
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 21:16)",
+        [
+            "",
+            700019024
+        ]
+    ],
+    [
+        "Winding down with a movie or TV show at home",
+        "(21:43, 22:55)",
+        [
+            "Think Coffee",
+            700011151
+        ]
+    ],
+    [
+        "Wind down with a movie or TV show at home.",
+        "(23:45, 23:59)",
+        [
+            "Think Coffee",
+            700011151
+        ]
+    ]
+]

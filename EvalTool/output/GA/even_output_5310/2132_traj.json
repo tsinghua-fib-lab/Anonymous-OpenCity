@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002202
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 11:05)",
+        [
+            "",
+            700003205
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 13:26)",
+        [
+            "Joe Coffee Company",
+            700013592
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:21, 16:03)",
+        [
+            "",
+            700002824
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:56, 21:40)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:28, 21:08)",
+        [
+            "",
+            700002202
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:05, 23:59)",
+        [
+            "Sweetgreen",
+            700020927
+        ]
+    ],
+    [
+        "Stay at home and prepare for the next day.",
+        "(22:35, 23:48)",
+        [
+            "",
+            700002202
+        ]
+    ],
+    [
+        "Stay at Il Violino",
+        "(23:46, 23:59)",
+        [
+            "Il Violino",
+            700005036
+        ]
+    ]
+]

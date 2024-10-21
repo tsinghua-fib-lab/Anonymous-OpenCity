@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bravo Pizza",
+            700018122
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:07)",
+        [
+            "Blue Bottle Coffee",
+            700005263
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:43, 13:50)",
+        [
+            "Blue Bottle Coffee",
+            700005263
+        ]
+    ],
+    [
+        "Hobbies or Creative Time",
+        "(13:57, 15:02)",
+        [
+            "Blue Bottle Coffee",
+            700005263
+        ]
+    ],
+    [
+        "Next: Hobbies or Creative Time",
+        "(15:20, 17:08)",
+        [
+            "Blue Bottle Coffee",
+            700005263
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:35, 19:06)",
+        [
+            "Bravo Pizza",
+            700018122
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:31, 23:01)",
+        [
+            "",
+            700002018
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "Barbounia",
+            700018123
+        ]
+    ]
+]

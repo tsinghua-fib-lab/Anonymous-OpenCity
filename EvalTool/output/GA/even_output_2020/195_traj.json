@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mongol Cafe",
+            700010102
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:03)",
+        [
+            "Fishmandu Sushi",
+            700010101
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:03, 11:00)",
+        [
+            "Fishmandu Sushi",
+            700010101
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(11:21, 12:32)",
+        [
+            "Mongol Cafe",
+            700010102
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(13:22, 15:09)",
+        [
+            "Mongol Cafe",
+            700010102
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(15:47, 18:22)",
+        [
+            "SachBao Nhac",
+            700010916
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 22:34)",
+        [
+            "Osha BBQ",
+            700000475
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "Kokio Republic",
+            700003440
+        ]
+    ]
+]

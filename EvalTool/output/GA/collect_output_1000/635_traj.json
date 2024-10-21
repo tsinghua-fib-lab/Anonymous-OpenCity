@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:50)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:56, 12:16)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:48, 14:28)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:41, 16:39)",
+        [
+            "Stern Auditorium",
+            700009117
+        ]
+    ],
+    [
+        "Personal Project/ Hobby",
+        "(17:08, 18:30)",
+        [
+            "Starbucks",
+            700003474
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:39, 20:09)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(20:58, 21:55)",
+        [
+            "",
+            700030405
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:42, 23:32)",
+        [
+            "",
+            700030407
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "",
+            700030407
+        ]
+    ]
+]

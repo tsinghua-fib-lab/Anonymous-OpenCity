@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:51)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "Engage in a physical activity, such as going for a run or hitting the gym.",
+        "(12:13, 13:02)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 18:28)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Engage in some personal projects or hobbies.",
+        "(16:34, 18:09)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Engage in personal projects or hobbies.",
+        "(18:52, 20:09)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Stay at iPark",
+        "(20:40, 22:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Next arrangement based on Situation 3",
+        "(22:35, 23:47)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Move to the next place based on Situation 3.",
+        "(23:40, 23:59)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ]
+]

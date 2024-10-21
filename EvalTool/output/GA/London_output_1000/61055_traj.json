@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 10:51)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:56, 12:05)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:57, 17:24)",
+        [
+            "",
+            700020479
+        ]
+    ],
+    [
+        "Socializing",
+        "(17:44, 19:20)",
+        [
+            "Bean about Town",
+            700031110
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:47, 21:43)",
+        [
+            "",
+            700008537
+        ]
+    ],
+    [
+        "Socializing",
+        "(22:26, 23:59)",
+        [
+            "Bean about Town",
+            700031110
+        ]
+    ]
+]

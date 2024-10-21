@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chronofit",
+            700065544
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:35)",
+        [
+            "Surface",
+            700003906
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 17:12)",
+        [
+            "Auberge St Jean de Luz",
+            700065616
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:27, 20:15)",
+        [
+            "Pharmacie Boujenah",
+            700004584
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:12, 23:59)",
+        [
+            "Olivia",
+            700073891
+        ]
+    ]
+]

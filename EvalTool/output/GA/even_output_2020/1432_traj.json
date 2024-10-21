@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008211
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:52)",
+        [
+            "",
+            700008219
+        ]
+    ],
+    [
+        "Next leisure activity at Mission Creek Cafe",
+        "(15:18, 16:40)",
+        [
+            "Mission Creek Cafe",
+            700002660
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:17, 22:30)",
+        [
+            "",
+            700010565
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 20:48)",
+        [
+            "The Marsh",
+            700003562
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:19, 23:59)",
+        [
+            "El Majahual",
+            700003559
+        ]
+    ]
+]

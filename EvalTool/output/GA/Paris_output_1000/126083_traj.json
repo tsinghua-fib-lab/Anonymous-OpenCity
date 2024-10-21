@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700059866
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 10:52)",
+        [
+            "Brasserie Jaja",
+            700033569
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:57, 13:11)",
+        [
+            "Au Trappiste",
+            700033571
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 18:10)",
+        [
+            "Centre dentaire Châtelet Rivoli",
+            700059641
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 19:13)",
+        [
+            "",
+            700028808
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 23:31)",
+        [
+            "Starbucks",
+            700013451
+        ]
+    ]
+]

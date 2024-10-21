@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fenwick Estate",
+            700007782
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:02)",
+        [
+            "Alba",
+            700000566
+        ]
+    ],
+    [
+        "Try out a new hobby or work on a personal project",
+        "(16:14, 18:08)",
+        [
+            "Fenwick Estate",
+            700007782
+        ]
+    ],
+    [
+        "Prepare and enjoy dinner, possibly trying out a new recipe.",
+        "(18:57, 20:47)",
+        [
+            "Fenwick Estate",
+            700007782
+        ]
+    ],
+    [
+        "Watch sports or entertainment shows",
+        "(21:39, 23:01)",
+        [
+            "Fenwick Estate",
+            700007782
+        ]
+    ],
+    [
+        "Go to Fenwick Estate.",
+        "(23:47, 23:59)",
+        [
+            "Fenwick Estate",
+            700007782
+        ]
+    ]
+]

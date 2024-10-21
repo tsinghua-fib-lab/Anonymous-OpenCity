@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "FedEx",
+            700010936
+        ]
+    ],
+    [
+        "Go for a walk or light exercise from 11:00 AM to 12:00 PM",
+        "(10:00, 10:51)",
+        [
+            "FedEx",
+            700010936
+        ]
+    ],
+    [
+        "Go for a walk or light exercise from 11:00 AM to 12:00 PM",
+        "(12:03, 13:02)",
+        [
+            "Forty Four",
+            700003738
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 19:19)",
+        [
+            "Italian Gourmet",
+            700016201
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:32, 23:35)",
+        [
+            "City National Bank",
+            700005939
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Gregory Coffee",
+            700003739
+        ]
+    ]
+]

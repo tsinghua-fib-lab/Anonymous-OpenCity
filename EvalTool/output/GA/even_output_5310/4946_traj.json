@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700019916
+        ]
+    ],
+    [
+        "Leisure Activity/Exercise",
+        "(10:00, 11:36)",
+        [
+            "Starbucks",
+            700006009
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 15:11)",
+        [
+            "Duane Reade",
+            700006005
+        ]
+    ],
+    [
+        "Socialize",
+        "(16:42, 17:50)",
+        [
+            "Starbucks",
+            700006009
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 22:37)",
+        [
+            "Bites of Xi’an",
+            700023161
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:51, 22:15)",
+        [
+            "",
+            700019914
+        ]
+    ],
+    [
+        "Next, stay at Starbucks.",
+        "(23:36, 23:59)",
+        [
+            "Starbucks",
+            700006009
+        ]
+    ]
+]

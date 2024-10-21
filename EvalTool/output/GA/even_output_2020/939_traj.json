@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hit Fit SF",
+            700010920
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:35)",
+        [
+            "Trick Dog",
+            700004201
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:12, 15:46)",
+        [
+            "John O'Connell High School",
+            700000046
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:00, 23:59)",
+        [
+            "",
+            700010802
+        ]
+    ],
+    [
+        "Wind down the day by reading a book or listening to music",
+        "(22:38, 23:59)",
+        [
+            "Hit Fit SF",
+            700010920
+        ]
+    ]
+]

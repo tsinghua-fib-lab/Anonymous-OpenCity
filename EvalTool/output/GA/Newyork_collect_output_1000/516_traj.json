@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(09:00, 10:10)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(10:17, 11:44)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(12:42, 14:31)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(14:36, 16:38)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:24, 18:04)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:35, 23:59)",
+        [
+            "",
+            700018138
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "",
+            700022506
+        ]
+    ]
+]

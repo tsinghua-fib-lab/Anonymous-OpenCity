@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700013449
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:09)",
+        [
+            "Community Garden",
+            700013447
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:13, 14:59)",
+        [
+            "Page Street",
+            700009520
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 16:41)",
+        [
+            "",
+            700007723
+        ]
+    ],
+    [
+        "Leisure Activity/Entertainment",
+        "(14:02, 15:58)",
+        [
+            "Page Street",
+            700009520
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:10, 18:17)",
+        [
+            "Page Street",
+            700009520
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:25, 21:10)",
+        [
+            "",
+            700011011
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(21:41, 22:55)",
+        [
+            "Boba Guys",
+            700009218
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(23:13, 23:59)",
+        [
+            "Perform for Life",
+            700005810
+        ]
+    ]
+]

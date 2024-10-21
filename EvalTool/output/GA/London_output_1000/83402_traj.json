@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Wharton Cottages",
+            700012020
+        ]
+    ],
+    [
+        "Go for a walk or engage in a sports activity",
+        "(09:00, 10:27)",
+        [
+            "Kings",
+            700079502
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:57, 15:35)",
+        [
+            "",
+            700014581
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 19:44)",
+        [
+            "",
+            700014580
+        ]
+    ],
+    [
+        "Relax with leisure activities",
+        "(19:54, 21:55)",
+        [
+            "Kings",
+            700079502
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Wharton Cottages",
+            700012020
+        ]
+    ],
+    [
+        "Go to Wharton Cottages",
+        "(23:58, 23:59)",
+        [
+            "Wharton Cottages",
+            700012020
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mission Recreation Center",
+            700000232
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:30)",
+        [
+            "El Faro",
+            700002038
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 17:25)",
+        [
+            "Green Heart Foods",
+            700003203
+        ]
+    ],
+    [
+        "wind down by watching a movie or a show, or perhaps engaging in a relaxing activity like meditation or light reading before bed",
+        "(20:52, 21:57)",
+        [
+            "Green Heart Foods",
+            700003203
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:53, 23:59)",
+        [
+            "",
+            700006006
+        ]
+    ]
+]

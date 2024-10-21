@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "BATS Improv",
+            700003065
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:09)",
+        [
+            "BATS Improv",
+            700003065
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:17, 12:30)",
+        [
+            "Goody Cafe",
+            700004187
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(13:39, 15:07)",
+        [
+            "Goody Cafe",
+            700004187
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(15:28, 16:56)",
+        [
+            "Goody Cafe",
+            700004187
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 20:16)",
+        [
+            "Cooks & Company",
+            700010075
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "Maritime Research Center",
+            700005951
+        ]
+    ]
+]

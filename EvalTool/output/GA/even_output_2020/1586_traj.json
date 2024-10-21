@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009785
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:04)",
+        [
+            "",
+            700009786
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:52, 19:35)",
+        [
+            "The Battery",
+            700013459
+        ]
+    ],
+    [
+        "Play Sports or Exercise",
+        "(17:13, 18:38)",
+        [
+            "Gambino’s",
+            700005293
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:57, 23:59)",
+        [
+            "KCBS 740 AM",
+            700013861
+        ]
+    ],
+    [
+        "Stay at Little Free Library",
+        "(23:02, 23:59)",
+        [
+            "The Battery",
+            700013459
+        ]
+    ]
+]

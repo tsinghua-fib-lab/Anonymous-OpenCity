@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Los Mariscos",
+            700023333
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(09:00, 10:01)",
+        [
+            "Los Mariscos",
+            700023333
+        ]
+    ],
+    [
+        "Attend an online yoga class",
+        "(10:22, 11:21)",
+        [
+            "Los Mariscos",
+            700023333
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:02, 14:45)",
+        [
+            "",
+            700030104
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:54, 23:59)",
+        [
+            "Dizen Goff",
+            700009356
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:12, 23:59)",
+        [
+            "Cull & Pistol Oyster Bar",
+            700040222
+        ]
+    ]
+]

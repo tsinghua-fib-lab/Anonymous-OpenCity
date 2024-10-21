@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mount Vernon Missionary Baptist Church",
+            700000255
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:18)",
+        [
+            "Bay Wheels",
+            700010095
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:32, 13:53)",
+        [
+            "Bay Wheels",
+            700010095
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:59, 15:20)",
+        [
+            "",
+            700001588
+        ]
+    ],
+    [
+        "Visit a Local Market or Shopping",
+        "(19:49, 21:24)",
+        [
+            "Presidio Pizza Company",
+            700007980
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Park Gym",
+            700004905
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Reuben Hills",
+            700024733
+        ]
+    ],
+    [
+        "11:30 AM - Leisure Reading",
+        "(10:00, 11:28)",
+        [
+            "Reuben Hills",
+            700024733
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:45, 16:39)",
+        [
+            "",
+            700024750
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:26, 15:57)",
+        [
+            "Relish Food Co.",
+            700010525
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:21, 19:07)",
+        [
+            "Shift Eatery",
+            700008134
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:19, 23:59)",
+        [
+            "",
+            700026159
+        ]
+    ],
+    [
+        "Sleep at Reuben Hills",
+        "(23:25, 23:59)",
+        [
+            "Shift Eatery",
+            700008134
+        ]
+    ]
+]

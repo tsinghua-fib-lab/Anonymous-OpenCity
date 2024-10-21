@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Taxi Stand at Stanford Court Hotel",
+            700009900
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:14)",
+        [
+            "",
+            700011106
+        ]
+    ],
+    [
+        "Errands or Grocery Shopping",
+        "(13:47, 15:42)",
+        [
+            "Laurel Court",
+            700002774
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(16:07, 17:52)",
+        [
+            "Laurel Court",
+            700002774
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(18:21, 20:09)",
+        [
+            "Laurel Court",
+            700002774
+        ]
+    ],
+    [
+        "Get ready and head to Laurel Court",
+        "(20:55, 22:34)",
+        [
+            "Laurel Court",
+            700002774
+        ]
+    ],
+    [
+        "Stay",
+        "(22:13, 23:59)",
+        [
+            "Taxi Stand at Stanford Court Hotel",
+            700009900
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "",
+            700011105
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010479
+        ]
+    ],
+    [
+        "Next leisure activity: Visit an art gallery or museum",
+        "(10:00, 11:26)",
+        [
+            "Pixie Hall Studios",
+            700001776
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:45, 13:12)",
+        [
+            "Pixie Hall Studios",
+            700001776
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:25, 14:58)",
+        [
+            "The Valley Tavern",
+            700001771
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 20:07)",
+        [
+            "Aesthetic Dentistry of Noe Valley",
+            700001754
+        ]
+    ],
+    [
+        "Next leisure activity: Visit an art gallery or museum",
+        "(20:07, 21:17)",
+        [
+            "Bank of America",
+            700003207
+        ]
+    ],
+    [
+        "next leisure activity",
+        "(22:00, 23:55)",
+        [
+            "Pixie Hall Studios",
+            700001776
+        ]
+    ]
+]

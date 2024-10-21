@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013184
+        ]
+    ],
+    [
+        "Wake Up and Relax",
+        "(10:00, 12:03)",
+        [
+            "Smuin Center for Dance",
+            700013189
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:14, 14:07)",
+        [
+            "Smuin Center for Dance",
+            700013189
+        ]
+    ],
+    [
+        "Visit a Cultural Venue",
+        "(14:27, 17:10)",
+        [
+            "",
+            700013190
+        ]
+    ],
+    [
+        "5:00 PM - 6:00 PM Grocery Shopping",
+        "(17:10, 18:15)",
+        [
+            "",
+            700013188
+        ]
+    ],
+    [
+        "5:00 PM - 6:00 PM Grocery Shopping",
+        "(18:22, 19:32)",
+        [
+            "Smuin Center for Dance",
+            700013189
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:52, 20:57)",
+        [
+            "Smuin Center for Dance",
+            700013189
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(21:43, 23:07)",
+        [
+            "Smuin Center for Dance",
+            700013189
+        ]
+    ],
+    [
+        "Stay at Smuin Center for Dance",
+        "(23:36, 23:59)",
+        [
+            "Smuin Center for Dance",
+            700013189
+        ]
+    ]
+]

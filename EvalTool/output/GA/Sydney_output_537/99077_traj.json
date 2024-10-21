@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Little Sparrow",
+            700025061
+        ]
+    ],
+    [
+        "11:30 AM - Leisure Reading",
+        "(10:00, 11:28)",
+        [
+            "Little Sparrow",
+            700025061
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:45, 14:31)",
+        [
+            "",
+            700022029
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:26, 15:49)",
+        [
+            "Little Sparrow",
+            700025061
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:21, 19:27)",
+        [
+            "",
+            700022742
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:19, 23:56)",
+        [
+            "",
+            700022729
+        ]
+    ],
+    [
+        "Sleep at Little Sparrow",
+        "(23:25, 23:59)",
+        [
+            "Sensory Lab",
+            700019972
+        ]
+    ]
+]

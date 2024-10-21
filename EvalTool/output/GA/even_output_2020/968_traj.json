@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Final final",
+            700005886
+        ]
+    ],
+    [
+        "Outdoor Walk/Exercise",
+        "(10:00, 11:08)",
+        [
+            "",
+            700010568
+        ]
+    ],
+    [
+        "Continue with Outdoor Walk/Exercise",
+        "(11:25, 13:01)",
+        [
+            "Final final",
+            700005886
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:59, 13:59)",
+        [
+            "Final final",
+            700005886
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:22, 16:05)",
+        [
+            "Final final",
+            700005886
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:40, 21:52)",
+        [
+            "Zipcar",
+            700001203
+        ]
+    ],
+    [
+        "Socializing/Connecting with Friends",
+        "(19:18, 20:51)",
+        [
+            "Final final",
+            700005886
+        ]
+    ],
+    [
+        "Socializing/Connecting with Friends",
+        "(21:32, 23:11)",
+        [
+            "Final final",
+            700005886
+        ]
+    ],
+    [
+        "Socializing/Connecting with Friends",
+        "(23:20, 23:59)",
+        [
+            "Final final",
+            700005886
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008271
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(09:00, 10:33)",
+        [
+            "Teo Restaurant & Bar",
+            700000450
+        ]
+    ],
+    [
+        "2:00 PM to 4:00 PM - Engage in a hobby or personal project",
+        "(10:41, 12:39)",
+        [
+            "",
+            700009614
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 19:09)",
+        [
+            "Custom Lounge",
+            700000451
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(15:12, 16:57)",
+        [
+            "Custom Lounge",
+            700000451
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 20:48)",
+        [
+            "Terroir Natural Wine Merchant & Bar",
+            700001055
+        ]
+    ],
+    [
+        "Stay at Custom Lounge",
+        "(23:15, 23:59)",
+        [
+            "Bloodhound",
+            700001054
+        ]
+    ]
+]

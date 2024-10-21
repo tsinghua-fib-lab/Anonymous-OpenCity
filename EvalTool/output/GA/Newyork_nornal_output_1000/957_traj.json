@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:49)",
+        [
+            "",
+            700001824
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(12:31, 13:38)",
+        [
+            "Hamilton Fish Park Library",
+            700000552
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:28, 19:05)",
+        [
+            "Public School M188 The Island School",
+            700000020
+        ]
+    ],
+    [
+        "Evening Wind-Down",
+        "(19:48, 21:10)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:26, 23:59)",
+        [
+            "",
+            700002786
+        ]
+    ]
+]

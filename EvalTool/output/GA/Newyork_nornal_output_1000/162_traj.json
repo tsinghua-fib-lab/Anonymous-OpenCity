@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Goldberg's Pharmacy",
+            700007629
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:52)",
+        [
+            "Sushi Yoshizawa",
+            700041300
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(14:44, 16:55)",
+        [
+            "",
+            700001986
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:19, 20:25)",
+        [
+            "",
+            700002289
+        ]
+    ],
+    [
+        "Next evening activities including social time",
+        "(20:10, 22:11)",
+        [
+            "Southern Greek",
+            700039315
+        ]
+    ],
+    [
+        "Current place and stay time",
+        "(22:46, 23:59)",
+        [
+            "Felice 64",
+            700006526
+        ]
+    ]
+]

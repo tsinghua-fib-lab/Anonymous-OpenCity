@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "City College of San Francisco Chinatown North Beach Campus",
+            700000401
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:28)",
+        [
+            "",
+            700003763
+        ]
+    ],
+    [
+        "Lunch Preparation and Eating",
+        "(12:03, 13:09)",
+        [
+            "City College of San Francisco Chinatown North Beach Campus",
+            700000401
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 16:30)",
+        [
+            "La Rocca's Corner",
+            700008570
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:39, 23:52)",
+        [
+            "Cobb's Comedy Club",
+            700002054
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:31, 23:59)",
+        [
+            "City College of San Francisco Chinatown North Beach Campus",
+            700000401
+        ]
+    ]
+]

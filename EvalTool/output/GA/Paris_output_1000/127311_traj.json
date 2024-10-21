@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Zamane",
+            700014097
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(09:00, 10:20)",
+        [
+            "Babette",
+            700068558
+        ]
+    ],
+    [
+        "Reading/Personal Development",
+        "(11:31, 13:04)",
+        [
+            "Babette",
+            700068558
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:57, 15:01)",
+        [
+            "Babette",
+            700068558
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:32, 17:00)",
+        [
+            "Babette",
+            700068558
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:43, 21:10)",
+        [
+            "CIC",
+            700005485
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:54, 21:20)",
+        [
+            "La Sortie du Métro",
+            700004155
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:31, 23:59)",
+        [
+            "",
+            700014355
+        ]
+    ]
+]

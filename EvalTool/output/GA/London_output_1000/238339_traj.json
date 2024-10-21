@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "Have breakfast",
+        "(09:00, 09:52)",
+        [
+            "",
+            700059876
+        ]
+    ],
+    [
+        "next",
+        "(10:40, 11:49)",
+        [
+            "Starbucks",
+            700015986
+        ]
+    ],
+    [
+        "stay",
+        "(13:04, 13:55)",
+        [
+            "Hola Paella",
+            700027586
+        ]
+    ],
+    [
+        "creative hobby",
+        "(14:38, 16:38)",
+        [
+            "Starbucks",
+            700015986
+        ]
+    ],
+    [
+        "Next hobby activity",
+        "(17:03, 18:50)",
+        [
+            "Starbucks",
+            700015986
+        ]
+    ],
+    [
+        "Next creative hobby activity",
+        "(19:06, 20:57)",
+        [
+            "Starbucks",
+            700015986
+        ]
+    ],
+    [
+        "Creative hobby activity",
+        "(21:32, 23:59)",
+        [
+            "Starbucks",
+            700015986
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:23, 23:59)",
+        [
+            "Café de Nata",
+            700028791
+        ]
+    ]
+]

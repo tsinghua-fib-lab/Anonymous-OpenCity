@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:10)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(12:44, 14:11)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:21, 16:28)",
+        [
+            "",
+            700002846
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:54, 19:56)",
+        [
+            "",
+            700001728
+        ]
+    ],
+    [
+        "Dinner & Family Time",
+        "(20:12, 21:58)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "Moving to Citi Bike - Perry St & Bleecker St for leisure activities.",
+        "(21:54, 23:59)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Morning Star Church",
+            700000203
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(09:00, 10:23)",
+        [
+            "Morning Star Church",
+            700000203
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(10:50, 11:58)",
+        [
+            "",
+            700011246
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(12:39, 13:37)",
+        [
+            "Morning Star Church",
+            700000203
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:22, 19:36)",
+        [
+            "Aoba",
+            700009506
+        ]
+    ],
+    [
+        "Social Time",
+        "(20:03, 21:56)",
+        [
+            "Morning Star Church",
+            700000203
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:59)",
+        [
+            "Kokoro",
+            700006926
+        ]
+    ]
+]

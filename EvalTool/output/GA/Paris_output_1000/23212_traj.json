@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Espadon",
+            700006895
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:36)",
+        [
+            "",
+            700045880
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(15:47, 17:24)",
+        [
+            "Danielle Casanova - Place Vendôme",
+            700040653
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:17, 19:49)",
+        [
+            "Espadon",
+            700006895
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 23:59)",
+        [
+            "Bar Hemingway",
+            700000045
+        ]
+    ]
+]

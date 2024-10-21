@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013446
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:23)",
+        [
+            "Black Magic Voodoo Lounge",
+            700004971
+        ]
+    ],
+    [
+        "Brunch with friends",
+        "(11:11, 12:42)",
+        [
+            "Black Magic Voodoo Lounge",
+            700004971
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 13:58)",
+        [
+            "",
+            700009439
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:28, 17:25)",
+        [
+            "Vikings Giant Subs",
+            700004972
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 23:59)",
+        [
+            "Torraku Ramen",
+            700009796
+        ]
+    ]
+]

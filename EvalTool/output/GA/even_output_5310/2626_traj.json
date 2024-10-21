@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009423
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park.",
+        "(10:00, 10:55)",
+        [
+            "",
+            700009420
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park.",
+        "(11:03, 12:50)",
+        [
+            "",
+            700009423
+        ]
+    ],
+    [
+        "Spend some time reading a book or doing a hobby.",
+        "(13:36, 15:11)",
+        [
+            "",
+            700009423
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:43, 17:46)",
+        [
+            "",
+            700009414
+        ]
+    ],
+    [
+        "Go for coffee or casual hangout with friends",
+        "(19:32, 21:23)",
+        [
+            "",
+            700009402
+        ]
+    ],
+    [
+        "Wind down the day by watching a movie or binge-watching a series.",
+        "(21:30, 23:07)",
+        [
+            "",
+            700009423
+        ]
+    ],
+    [
+        "Winding down by watching a movie at home",
+        "(23:32, 23:59)",
+        [
+            "",
+            700009423
+        ]
+    ]
+]

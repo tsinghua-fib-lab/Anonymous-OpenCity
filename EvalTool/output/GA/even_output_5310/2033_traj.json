@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Amore Pizza Cafe",
+            700010037
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:35)",
+        [
+            "Red Cork",
+            700008321
+        ]
+    ],
+    [
+        "Moving to next activity.",
+        "(12:33, 14:40)",
+        [
+            "Red Cork",
+            700008321
+        ]
+    ],
+    [
+        "stay at current place",
+        "(14:35, 15:57)",
+        [
+            "Red Cork",
+            700008321
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:46, 20:05)",
+        [
+            "24 Hour Parking",
+            700008320
+        ]
+    ],
+    [
+        "Current place: 24 Hour Parking",
+        "(21:42, 23:19)",
+        [
+            "24 Hour Parking",
+            700008320
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "",
+            700002317
+        ]
+    ]
+]

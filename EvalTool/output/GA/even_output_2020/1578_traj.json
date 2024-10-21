@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000089
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:58)",
+        [
+            "Fondue Chinoise",
+            700004987
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:13, 15:07)",
+        [
+            "Paris Pizza",
+            700004995
+        ]
+    ],
+    [
+        "Household Chores",
+        "(11:53, 13:07)",
+        [
+            "Paris Pizza",
+            700004995
+        ]
+    ],
+    [
+        "Household Chores",
+        "(13:46, 15:51)",
+        [
+            "Paris Pizza",
+            700004995
+        ]
+    ],
+    [
+        "Social Time or Community Engagement",
+        "(16:37, 17:58)",
+        [
+            "Paris Pizza",
+            700004995
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(19:07, 21:08)",
+        [
+            "Paris Pizza",
+            700004995
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(21:13, 22:40)",
+        [
+            "Paris Pizza",
+            700004995
+        ]
+    ],
+    [
+        "Stay at Paris Pizza",
+        "(23:24, 23:59)",
+        [
+            "Paris Pizza",
+            700004995
+        ]
+    ]
+]

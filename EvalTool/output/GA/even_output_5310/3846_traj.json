@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "ProHealth Pharmacy",
+            700006203
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(09:00, 09:50)",
+        [
+            "East Side Endoscopy",
+            700023461
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(10:14, 11:51)",
+        [
+            "East Side Endoscopy",
+            700023461
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 15:40)",
+        [
+            "East Side Endoscopy",
+            700023461
+        ]
+    ],
+    [
+        "Outdoor Sports",
+        "(16:49, 18:07)",
+        [
+            "",
+            700002077
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(18:04, 20:06)",
+        [
+            "ProHealth Pharmacy",
+            700006203
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:28, 23:59)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(22:34, 23:59)",
+        [
+            "ProHealth Pharmacy",
+            700006203
+        ]
+    ]
+]

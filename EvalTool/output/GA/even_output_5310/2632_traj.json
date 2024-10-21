@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sullivan Street bakery",
+            700006167
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:09)",
+        [
+            "Txikito",
+            700004676
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:27, 13:53)",
+        [
+            "Txikito",
+            700004676
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:01, 18:59)",
+        [
+            "FIKA 9th Avenue",
+            700008331
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:54, 21:56)",
+        [
+            "FIKA 9th Avenue",
+            700008331
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(22:32, 23:56)",
+        [
+            "",
+            700003092
+        ]
+    ]
+]

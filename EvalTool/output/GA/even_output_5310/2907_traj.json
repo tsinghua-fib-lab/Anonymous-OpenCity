@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Cheong Fun Cart on Rutgers",
+            700014785
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:59)",
+        [
+            "Cheong Fun Cart on Rutgers",
+            700014785
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:45, 13:00)",
+        [
+            "Citi Bike - Canal Street & Seward Park",
+            700004428
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(17:16, 18:51)",
+        [
+            "Citi Bike - Canal Street & Seward Park",
+            700004428
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:47, 21:17)",
+        [
+            "Citi Bike - Canal Street & Seward Park",
+            700004428
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(21:27, 22:55)",
+        [
+            "Citi Bike - Canal Street & Seward Park",
+            700004428
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:01, 23:59)",
+        [
+            "",
+            700023698
+        ]
+    ]
+]

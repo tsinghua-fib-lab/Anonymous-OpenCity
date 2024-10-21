@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:59)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Personal Project/Study Time",
+        "(10:29, 12:25)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:43, 15:23)",
+        [
+            "",
+            700022520
+        ]
+    ],
+    [
+        "Personal Project/Study Time",
+        "(15:23, 16:51)",
+        [
+            "",
+            700002113
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:56, 21:46)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:59, 23:59)",
+        [
+            "CityMD",
+            700013548
+        ]
+    ]
+]

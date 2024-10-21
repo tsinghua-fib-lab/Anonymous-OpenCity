@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:12)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:36, 16:45)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:54, 19:50)",
+        [
+            "",
+            700017443
+        ]
+    ],
+    [
+        "Relax with a movie or binge-watch a series on your favorite streaming platform.",
+        "(19:16, 21:07)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Relax with a movie or binge-watch a series",
+        "(21:47, 23:09)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Relax with a movie or binge-watch a series",
+        "(23:35, 23:59)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ]
+]

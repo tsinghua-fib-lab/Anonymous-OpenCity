@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Perfect Pint",
+            700007257
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:50)",
+        [
+            "Citi Bike - East 45th Street & 3rd Avenue",
+            700008049
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 15:25)",
+        [
+            "Wendy's",
+            700006464
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:00, 18:40)",
+        [
+            "Citi Bike - East 45th Street & 3rd Avenue",
+            700008049
+        ]
+    ],
+    [
+        "Relax and watch a movie or series at home.",
+        "(19:15, 20:54)",
+        [
+            "Citi Bike - East 45th Street & 3rd Avenue",
+            700008049
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:34, 23:59)",
+        [
+            "Maman",
+            700003515
+        ]
+    ]
+]

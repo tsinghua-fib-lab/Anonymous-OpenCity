@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:21)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "Socializing or Entertainment",
+        "(13:43, 16:02)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Socializing or Entertainment",
+        "(16:27, 18:59)",
+        [
+            "Dog & Bone",
+            700006216
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 23:59)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(23:19, 23:59)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "ChargePoint",
+            700012434
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:19)",
+        [
+            "Yoga Spa Lounge 1881",
+            700011391
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:10, 16:30)",
+        [
+            "Equinox",
+            700008521
+        ]
+    ],
+    [
+        "Relax and Unwind",
+        "(16:11, 18:02)",
+        [
+            "Strangelove Bar NYC",
+            700023385
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:29, 23:38)",
+        [
+            "Chase",
+            700016449
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "Mimi's Piano Bar",
+            700014651
+        ]
+    ]
+]

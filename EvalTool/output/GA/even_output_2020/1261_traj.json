@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010469
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:31)",
+        [
+            "",
+            700002882
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 14:04)",
+        [
+            "Afterwork Bar",
+            700003665
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 18:38)",
+        [
+            "Monsieur Benjamin",
+            700007836
+        ]
+    ],
+    [
+        "Current Place: Monsieur Benjamin; Stay Time: 0 hours 23 minutes",
+        "(20:23, 22:27)",
+        [
+            "Tsubasa Sushi",
+            700007284
+        ]
+    ],
+    [
+        "Stay at Your Home.",
+        "(22:52, 23:59)",
+        [
+            "Chez Maman",
+            700003664
+        ]
+    ]
+]

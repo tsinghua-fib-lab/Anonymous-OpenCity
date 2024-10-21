@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Cafe 424",
+            700031620
+        ]
+    ],
+    [
+        "next place",
+        "(09:00, 10:23)",
+        [
+            "Jaz",
+            700020827
+        ]
+    ],
+    [
+        "Stay at a leisure location",
+        "(10:37, 12:47)",
+        [
+            "Mee Noodle Shop",
+            700006264
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:48, 15:09)",
+        [
+            "",
+            700021423
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a favorite series to relax and have some entertainment.",
+        "(16:35, 18:02)",
+        [
+            "Mee Noodle Shop",
+            700006264
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:54, 23:59)",
+        [
+            "The Meatball Shop",
+            700006380
+        ]
+    ],
+    [
+        "Stay at Mee Noodle Shop",
+        "(22:22, 23:39)",
+        [
+            "The Meatball Shop",
+            700006380
+        ]
+    ],
+    [
+        "Stay at Mee Noodle Shop.",
+        "(23:52, 23:59)",
+        [
+            "Mee Noodle Shop",
+            700006264
+        ]
+    ]
+]

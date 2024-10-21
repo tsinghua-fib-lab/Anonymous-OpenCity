@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Daily Bagel",
+            700006519
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:23)",
+        [
+            "Daily Bagel",
+            700006519
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:25, 12:51)",
+        [
+            "Daily Bagel",
+            700006519
+        ]
+    ],
+    [
+        "Engage in a hobby or TV shows.",
+        "(13:17, 14:51)",
+        [
+            "Daily Bagel",
+            700006519
+        ]
+    ],
+    [
+        "Hobby or TV Shows",
+        "(15:39, 18:11)",
+        [
+            "Daily Bagel",
+            700006519
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 22:19)",
+        [
+            "",
+            700019504
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 23:59)",
+        [
+            "Citi Bike - 1st Avenue & East 62nd Street",
+            700021683
+        ]
+    ],
+    [
+        "Stay at Daily Bagel",
+        "(23:46, 23:59)",
+        [
+            "Daily Bagel",
+            700006519
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Kennedy Chicken",
+            700022201
+        ]
+    ],
+    [
+        "10:00 AM - Go for a Walk",
+        "(09:00, 10:03)",
+        [
+            "Citi Bike - Rivington Street & Ridge Street",
+            700008171
+        ]
+    ],
+    [
+        "11:00 AM - Enjoy a Hobby",
+        "(10:11, 11:38)",
+        [
+            "Citi Bike - Rivington Street & Ridge Street",
+            700008171
+        ]
+    ],
+    [
+        "Prepare Lunch",
+        "(12:39, 13:33)",
+        [
+            "Citi Bike - Pitt St & Stanton St",
+            700008166
+        ]
+    ],
+    [
+        "Prepare Lunch",
+        "(13:30, 15:01)",
+        [
+            "Citi Bike - Rivington Street & Ridge Street",
+            700008171
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:09, 19:31)",
+        [
+            "",
+            700032003
+        ]
+    ],
+    [
+        "Outdoor Sports or Exercise",
+        "(16:23, 17:54)",
+        [
+            "NYPD 7 PCT",
+            700004361
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:23, 23:59)",
+        [
+            "LES Community Fridge",
+            700019686
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "",
+            700031271
+        ]
+    ]
+]

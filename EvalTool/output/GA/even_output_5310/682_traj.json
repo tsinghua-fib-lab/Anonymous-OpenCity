@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tartine",
+            700007271
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:01)",
+        [
+            "Café Minerva",
+            700008486
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:23, 13:33)",
+        [
+            "",
+            700002622
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:31, 16:00)",
+        [
+            "Tavern on Jane",
+            700004114
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(16:37, 17:56)",
+        [
+            "Tavern on Jane",
+            700004114
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(18:20, 19:56)",
+        [
+            "",
+            700011123
+        ]
+    ],
+    [
+        "Relaxation & TV Time",
+        "(21:00, 23:07)",
+        [
+            "Tavern on Jane",
+            700004114
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:09, 23:59)",
+        [
+            "Café Minerva",
+            700008486
+        ]
+    ]
+]

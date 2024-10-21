@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700023703
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 10:57)",
+        [
+            "Citi Bike - Canal Street & Seward Park",
+            700004428
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:45, 17:18)",
+        [
+            "",
+            700023703
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:30, 22:52)",
+        [
+            "",
+            700023651
+        ]
+    ],
+    [
+        "Wind Down",
+        "(23:49, 23:59)",
+        [
+            "Citi Bike - Canal Street & Seward Park",
+            700004428
+        ]
+    ]
+]

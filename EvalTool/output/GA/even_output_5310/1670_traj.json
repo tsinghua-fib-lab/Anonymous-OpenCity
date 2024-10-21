@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001466
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:59)",
+        [
+            "The Meatball Company",
+            700004406
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:20, 19:35)",
+        [
+            "The Meatball Company",
+            700004406
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(20:04, 21:40)",
+        [
+            "Qanoon",
+            700004408
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(22:17, 23:42)",
+        [
+            "The Meatball Company",
+            700004406
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(23:55, 23:59)",
+        [
+            "Grainne Cafe",
+            700023155
+        ]
+    ]
+]

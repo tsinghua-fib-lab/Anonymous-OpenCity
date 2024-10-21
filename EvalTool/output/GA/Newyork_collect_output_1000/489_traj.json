@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:32)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Reading or Learning Time",
+        "(11:17, 12:50)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 17:31)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:18, 23:25)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(20:58, 23:08)",
+        [
+            "Lanzhou Beef Noodles",
+            700011139
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ]
+]

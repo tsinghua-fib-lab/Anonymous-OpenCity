@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700017554
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:25)",
+        [
+            "Citi Bike - 1st Avenue & East 15th Street",
+            700007924
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(14:42, 15:53)",
+        [
+            "Citi Bike - 1st Avenue & East 15th Street",
+            700007924
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(16:25, 18:04)",
+        [
+            "Starbucks",
+            700017554
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(18:50, 20:05)",
+        [
+            "Esquire Pharmacy",
+            700026187
+        ]
+    ],
+    [
+        "Visit First Avenue Veterinary Hospital",
+        "(20:05, 22:11)",
+        [
+            "",
+            700006702
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:46, 23:59)",
+        [
+            "Bagel Boss",
+            700006701
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "Bond Vet",
+            700017552
+        ]
+    ]
+]

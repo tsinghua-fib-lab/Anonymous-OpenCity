@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002932
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:51)",
+        [
+            "",
+            700002932
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(15:59, 16:52)",
+        [
+            "Suki Sushi",
+            700017947
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(17:29, 19:01)",
+        [
+            "Black Star Bakery & Cafe",
+            700020869
+        ]
+    ],
+    [
+        "Socializing with Friends/Family",
+        "(19:26, 21:06)",
+        [
+            "",
+            700002932
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(22:02, 23:59)",
+        [
+            "Le Pain Quotidien",
+            700024261
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(23:33, 23:59)",
+        [
+            "Le Pain Quotidien",
+            700024261
+        ]
+    ]
+]

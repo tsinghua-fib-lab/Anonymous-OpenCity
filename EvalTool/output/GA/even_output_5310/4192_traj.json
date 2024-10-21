@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:59)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 14:57)",
+        [
+            "Biscuits and Bath",
+            700030623
+        ]
+    ],
+    [
+        "Relax with personal hobbies",
+        "(17:08, 18:55)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "Relax with personal hobbies",
+        "(19:11, 21:16)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "Stay at Sutton Cafe Restaurant.",
+        "(21:33, 23:08)",
+        [
+            "Sutton Cafe Restaurant",
+            700010699
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "ChargePoint",
+            700012432
+        ]
+    ]
+]

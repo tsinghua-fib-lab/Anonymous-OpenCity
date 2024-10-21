@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bar Primi",
+            700017951
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:01)",
+        [
+            "",
+            700001029
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 17:22)",
+        [
+            "Tom's Juice",
+            700026934
+        ]
+    ],
+    [
+        "Relax with personal hobbies",
+        "(17:08, 19:07)",
+        [
+            "",
+            700000654
+        ]
+    ],
+    [
+        "Relax with personal hobbies",
+        "(19:11, 21:03)",
+        [
+            "",
+            700001029
+        ]
+    ],
+    [
+        "Wind down with a movie or binge-watch a series.",
+        "(21:33, 23:03)",
+        [
+            "",
+            700000654
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Sweetgreen",
+            700004722
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citizens Bank",
+            700006640
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:10)",
+        [
+            "Richard R. Green High School of Teaching",
+            700028352
+        ]
+    ],
+    [
+        "Creative Work",
+        "(13:56, 16:09)",
+        [
+            "Richard R. Green High School of Teaching",
+            700028352
+        ]
+    ],
+    [
+        "Connect with friends or family, either in person or virtually, for some catch-up time.",
+        "(17:00, 18:28)",
+        [
+            "",
+            700018594
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:13, 20:20)",
+        [
+            "",
+            700017492
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:35, 23:24)",
+        [
+            "",
+            700018602
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "",
+            700018599
+        ]
+    ]
+]

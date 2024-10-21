@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:31)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "Entertainment Time",
+        "(16:24, 17:58)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "Stay at ZLS BBQ",
+        "(18:20, 20:08)",
+        [
+            "ZLS BBQ",
+            700008964
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:01, 23:59)",
+        [
+            "Baked by Luigi",
+            700032006
+        ]
+    ]
+]

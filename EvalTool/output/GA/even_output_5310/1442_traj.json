@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002112
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:25)",
+        [
+            "Di Di Dumpling",
+            700011514
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 17:42)",
+        [
+            "Auto Motion",
+            700018140
+        ]
+    ],
+    [
+        "Cook Dinner or Try a New Recipe",
+        "(18:36, 19:59)",
+        [
+            "",
+            700002112
+        ]
+    ],
+    [
+        "Watch a Movie or Game Night",
+        "(20:51, 22:20)",
+        [
+            "",
+            700002112
+        ]
+    ],
+    [
+        "Watch a Movie or Game Night",
+        "(22:26, 23:59)",
+        [
+            "Di Di Dumpling",
+            700011514
+        ]
+    ]
+]

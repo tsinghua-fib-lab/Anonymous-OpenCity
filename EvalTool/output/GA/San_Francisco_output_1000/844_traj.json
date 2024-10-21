@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Nourish Cafe",
+            700008728
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:00, 10:57)",
+        [
+            "Nourish Cafe",
+            700008728
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(11:51, 14:23)",
+        [
+            "Nourish Cafe",
+            700008728
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(13:50, 15:23)",
+        [
+            "Nourish Cafe",
+            700008728
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:51, 18:01)",
+        [
+            "Liquid Gold",
+            700006162
+        ]
+    ],
+    [
+        "Watching Sports or TV",
+        "(19:28, 20:51)",
+        [
+            "",
+            700008721
+        ]
+    ],
+    [
+        "Watching Sports or TV",
+        "(21:29, 23:08)",
+        [
+            "Zeki's Bar",
+            700008868
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "",
+            700000615
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "St Leonards Tavern",
+            700001525
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:51)",
+        [
+            "Bengong Aqua",
+            700018740
+        ]
+    ],
+    [
+        "Grocery Shopping and Errands",
+        "(14:04, 15:31)",
+        [
+            "Bengong Aqua",
+            700018740
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 19:28)",
+        [
+            "Next Payments",
+            700004396
+        ]
+    ],
+    [
+        "Evening Relaxation and TV Time",
+        "(21:28, 23:50)",
+        [
+            "St Leonards Tavern",
+            700001525
+        ]
+    ],
+    [
+        "Stay at St Leonards Tavern",
+        "(23:23, 23:59)",
+        [
+            "McDonald's",
+            700004386
+        ]
+    ]
+]

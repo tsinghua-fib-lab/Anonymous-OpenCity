@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike",
+            700008129
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:05)",
+        [
+            "Little Flower Playground",
+            700000416
+        ]
+    ],
+    [
+        "Leisure Reading / Hobby Time",
+        "(10:32, 13:09)",
+        [
+            "Little Flower Playground",
+            700000416
+        ]
+    ],
+    [
+        "Leisure Reading / Hobby Time",
+        "(13:39, 15:01)",
+        [
+            "Little Flower Playground",
+            700000416
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:49, 16:50)",
+        [
+            "Little Flower Playground",
+            700000416
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(16:55, 18:00)",
+        [
+            "Little Flower Playground",
+            700000416
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:09, 21:49)",
+        [
+            "Manny Cantor Center",
+            700006688
+        ]
+    ],
+    [
+        "Dinner and Prepare for the Week",
+        "(21:52, 23:55)",
+        [
+            "",
+            700022027
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:38, 23:59)",
+        [
+            "",
+            700023717
+        ]
+    ]
+]

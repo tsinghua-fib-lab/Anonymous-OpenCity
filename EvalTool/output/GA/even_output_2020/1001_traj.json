@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of America",
+            700003207
+        ]
+    ],
+    [
+        "Go for a workout or a jog",
+        "(10:00, 11:03)",
+        [
+            "Yoga Flow",
+            700006193
+        ]
+    ],
+    [
+        "Go for a workout or a jog",
+        "(11:03, 12:11)",
+        [
+            "Yoga Flow",
+            700006193
+        ]
+    ],
+    [
+        "Go for a workout or a jog",
+        "(12:46, 13:53)",
+        [
+            "Yoga Flow",
+            700006193
+        ]
+    ],
+    [
+        "Visit a local farmers' market or boutique shops",
+        "(14:04, 14:58)",
+        [
+            "Chez Marius",
+            700001755
+        ]
+    ],
+    [
+        "Have lunch at a favorite restaurant",
+        "(15:23, 16:59)",
+        [
+            "Chez Marius",
+            700001755
+        ]
+    ],
+    [
+        "Stay at Chez Marius",
+        "(17:05, 18:12)",
+        [
+            "Barney's Gourmet Hamburgers",
+            700001752
+        ]
+    ],
+    [
+        "Stay at Chez Marius",
+        "(18:48, 20:17)",
+        [
+            "Lupa Trattoria",
+            700001750
+        ]
+    ],
+    [
+        "Stay at Chez Marius",
+        "(21:06, 22:40)",
+        [
+            "Lupa Trattoria",
+            700001750
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:03, 23:59)",
+        [
+            "Contigo Kitchen + Cava",
+            700001758
+        ]
+    ]
+]

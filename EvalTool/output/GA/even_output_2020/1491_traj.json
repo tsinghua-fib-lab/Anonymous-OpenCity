@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010479
+        ]
+    ],
+    [
+        "Next leisure activity: Visit an art gallery or museum",
+        "(10:00, 11:26)",
+        [
+            "Bank of America",
+            700003207
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:45, 13:23)",
+        [
+            "Bank of America",
+            700003207
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:25, 17:01)",
+        [
+            "Chez Marius",
+            700001755
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 21:40)",
+        [
+            "Noe Indian Kitchen",
+            700001753
+        ]
+    ],
+    [
+        "Next leisure activity: Visit an art gallery or museum",
+        "(20:07, 20:59)",
+        [
+            "Chez Marius",
+            700001755
+        ]
+    ],
+    [
+        "next leisure activity",
+        "(22:00, 23:59)",
+        [
+            "Bank of America",
+            700003207
+        ]
+    ]
+]

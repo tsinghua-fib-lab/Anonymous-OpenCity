@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020759
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:35)",
+        [
+            "",
+            700019038
+        ]
+    ],
+    [
+        "brunch with friends",
+        "(12:38, 14:04)",
+        [
+            "Masala King",
+            700023814
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 20:11)",
+        [
+            "",
+            700002102
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(18:44, 19:51)",
+        [
+            "Masala King",
+            700023814
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(20:44, 22:05)",
+        [
+            "Masala King",
+            700023814
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(22:48, 23:59)",
+        [
+            "Gregory's Coffee",
+            700007534
+        ]
+    ]
+]

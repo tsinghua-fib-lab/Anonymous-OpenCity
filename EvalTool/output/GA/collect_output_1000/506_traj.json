@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030391
+        ]
+    ],
+    [
+        "11:00 AM - Leisure Activity",
+        "(10:00, 11:37)",
+        [
+            "Sung Tak Buddhist Temple",
+            700000188
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:30, 16:35)",
+        [
+            "Lanzhou Ramen",
+            700014890
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:33, 20:08)",
+        [
+            "Lanzhou Ramen",
+            700014890
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:45, 20:09)",
+        [
+            "Sung Tak Buddhist Temple",
+            700000188
+        ]
+    ],
+    [
+        "Go to Sung Tak Buddhist Temple for some quiet time.",
+        "(20:23, 22:32)",
+        [
+            "Sung Tak Buddhist Temple",
+            700000188
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "",
+            700038556
+        ]
+    ]
+]

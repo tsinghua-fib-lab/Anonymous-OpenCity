@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Zeki's Bar",
+            700008868
+        ]
+    ],
+    [
+        "Leisure Reading or TV",
+        "(09:00, 10:29)",
+        [
+            "Ciccino",
+            700001702
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:22, 13:35)",
+        [
+            "Wreck Room",
+            700001703
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:33, 18:39)",
+        [
+            "",
+            700008725
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(22:13, 23:37)",
+        [
+            "Golden Horse Restaurant",
+            700008867
+        ]
+    ],
+    [
+        "Stay at home",
+        "(23:51, 23:59)",
+        [
+            "",
+            700010630
+        ]
+    ]
+]

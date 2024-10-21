@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700013061
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 11:00)",
+        [
+            "Bleecker Playground",
+            700009378
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:07, 12:40)",
+        [
+            "Bleecker Playground",
+            700009378
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:34, 14:54)",
+        [
+            "Bleecker Playground",
+            700009378
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:49, 19:29)",
+        [
+            "",
+            700040624
+        ]
+    ],
+    [
+        "Stay at Bleecker Playground",
+        "(20:39, 22:17)",
+        [
+            "Bleecker Playground",
+            700009378
+        ]
+    ],
+    [
+        "Stay at Bleecker Playground",
+        "(22:56, 23:59)",
+        [
+            "Frankies Sputino 570",
+            700005693
+        ]
+    ]
+]

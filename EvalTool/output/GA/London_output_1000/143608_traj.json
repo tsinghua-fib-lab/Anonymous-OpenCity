@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:38)",
+        [
+            "",
+            700054512
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(11:42, 13:09)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 16:38)",
+        [
+            "Pizza Union Holborn",
+            700076123
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:57, 22:51)",
+        [
+            "",
+            700011095
+        ]
+    ],
+    [
+        "Next activity after current time 22:39 for Situation 5.",
+        "(22:39, 23:59)",
+        [
+            "Pizza Union Holborn",
+            700076123
+        ]
+    ],
+    [
+        "Return to Pizza Union Holborn for dinner.",
+        "(23:58, 23:59)",
+        [
+            "Pizza Union Holborn",
+            700076123
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Noosh",
+            700008746
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:03)",
+        [
+            "Walgreens",
+            700000786
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:58, 17:26)",
+        [
+            "Pizza Inferno",
+            700013490
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:48, 18:54)",
+        [
+            "Pizza Inferno",
+            700013490
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:36, 23:59)",
+        [
+            "Harry's Bar",
+            700008747
+        ]
+    ]
+]

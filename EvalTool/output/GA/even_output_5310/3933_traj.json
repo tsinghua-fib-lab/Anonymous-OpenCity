@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Spunto Thin Crust Pizza",
+            700010065
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:38)",
+        [
+            "Sveta",
+            700023316
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 15:18)",
+        [
+            "Sagra Pizza Bar",
+            700023317
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:32, 17:05)",
+        [
+            "Sveta",
+            700023316
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 23:30)",
+        [
+            "Ayza Wine & Chocolate Bar",
+            700003800
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Independence High School",
+            700006395
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:08)",
+        [
+            "Casabianca",
+            700018343
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:30, 17:07)",
+        [
+            "Bagel Market",
+            700008313
+        ]
+    ],
+    [
+        "Relaxation/TV Time",
+        "(15:46, 17:01)",
+        [
+            "",
+            700018319
+        ]
+    ],
+    [
+        "Social Time",
+        "(17:04, 18:55)",
+        [
+            "Casabianca",
+            700018343
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:13, 23:01)",
+        [
+            "Plant Blossom",
+            700010774
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:50, 23:59)",
+        [
+            "Le Soleil",
+            700018342
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Watts St & Greenwich St",
+            700008246
+        ]
+    ],
+    [
+        "Outdoor Activity/Exercise",
+        "(09:00, 10:34)",
+        [
+            "North Bar",
+            700025944
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(10:53, 13:05)",
+        [
+            "North Bar",
+            700025944
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 14:30)",
+        [
+            "",
+            700038604
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:27, 23:46)",
+        [
+            "",
+            700038605
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(22:12, 23:59)",
+        [
+            "Citi Bike - Watts St & Greenwich St",
+            700008246
+        ]
+    ]
+]

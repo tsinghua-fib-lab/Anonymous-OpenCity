@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "ChargePoint",
+            700012434
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(09:00, 10:38)",
+        [
+            "",
+            700021867
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:56, 12:58)",
+        [
+            "",
+            700001856
+        ]
+    ],
+    [
+        "TV/Movies or Streaming",
+        "(14:41, 16:08)",
+        [
+            "ChargePoint",
+            700012434
+        ]
+    ],
+    [
+        "TV/Movies or Streaming",
+        "(16:18, 18:04)",
+        [
+            "ChargePoint",
+            700012434
+        ]
+    ],
+    [
+        "Dinner Preparation and Enjoyment",
+        "(18:56, 20:00)",
+        [
+            "",
+            700025748
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:15, 23:59)",
+        [
+            "Yoga Spa Lounge 1881",
+            700011391
+        ]
+    ]
+]

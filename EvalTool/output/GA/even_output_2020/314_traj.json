@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Marina",
+            700000391
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:45)",
+        [
+            "Alegrias Food from Spain",
+            700009483
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:00, 19:50)",
+        [
+            "Namaste",
+            700010531
+        ]
+    ],
+    [
+        "Errands or Light Chores",
+        "(17:24, 19:24)",
+        [
+            "Marina",
+            700000391
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:10, 22:32)",
+        [
+            "Pacific Catch",
+            700002300
+        ]
+    ],
+    [
+        "Errands or Light Chores",
+        "(22:59, 23:59)",
+        [
+            "United Dumplings",
+            700003072
+        ]
+    ]
+]

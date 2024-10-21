@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700035633
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:27)",
+        [
+            "",
+            700035773
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:10, 19:24)",
+        [
+            "",
+            700035559
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(17:38, 18:57)",
+        [
+            "Morton's The Steakhouse",
+            700006272
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:33, 23:59)",
+        [
+            "",
+            700035561
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(23:49, 23:59)",
+        [
+            "Bill's Bar and Burger",
+            700006273
+        ]
+    ]
+]

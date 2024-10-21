@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Venticello",
+            700005060
+        ]
+    ],
+    [
+        "Leisure Reading or TV",
+        "(09:00, 10:34)",
+        [
+            "Venticello",
+            700005060
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:22, 14:03)",
+        [
+            "",
+            700010221
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:33, 18:58)",
+        [
+            "Tranquil Resonance Studio",
+            700010467
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(22:13, 23:50)",
+        [
+            "",
+            700009559
+        ]
+    ],
+    [
+        "Stay at home",
+        "(23:51, 23:59)",
+        [
+            "Venticello",
+            700005060
+        ]
+    ]
+]

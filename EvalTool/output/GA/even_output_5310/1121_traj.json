@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chirp",
+            700008376
+        ]
+    ],
+    [
+        "Outdoor Exercise or Sports",
+        "(10:00, 11:01)",
+        [
+            "Chirp",
+            700008376
+        ]
+    ],
+    [
+        "Outdoor Exercise or Sports",
+        "(11:02, 12:52)",
+        [
+            "Chirp",
+            700008376
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:25, 16:04)",
+        [
+            "Chirp",
+            700008376
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:58, 18:07)",
+        [
+            "Chirp",
+            700008376
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 22:32)",
+        [
+            "Hudson Station Bar and Grill",
+            700003748
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:36, 23:59)",
+        [
+            "Subway",
+            700003752
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(23:54, 23:59)",
+        [
+            "Skylight Diner",
+            700003747
+        ]
+    ]
+]

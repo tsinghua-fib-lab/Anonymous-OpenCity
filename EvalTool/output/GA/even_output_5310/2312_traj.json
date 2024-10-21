@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tasti D-Lite",
+            700015212
+        ]
+    ],
+    [
+        "Morning jog or walk in the park",
+        "(10:00, 11:08)",
+        [
+            "Tasti D-Lite",
+            700015212
+        ]
+    ],
+    [
+        "Morning jog or walk in the park",
+        "(11:12, 12:50)",
+        [
+            "Bareburger",
+            700033961
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:42, 17:22)",
+        [
+            "Ruby's Cafe",
+            700004868
+        ]
+    ],
+    [
+        "Stay at Tasti D-Lite",
+        "(17:40, 19:20)",
+        [
+            "",
+            700002955
+        ]
+    ],
+    [
+        "Stay at Tasti D-Lite.",
+        "(19:39, 21:01)",
+        [
+            "Tasti D-Lite",
+            700015212
+        ]
+    ],
+    [
+        "Stay at Tasti D-Lite.",
+        "(21:11, 22:58)",
+        [
+            "Tasti D-Lite",
+            700015212
+        ]
+    ],
+    [
+        "Stay at Tasti D-Lite.",
+        "(23:45, 23:59)",
+        [
+            "Bareburger",
+            700033961
+        ]
+    ]
+]

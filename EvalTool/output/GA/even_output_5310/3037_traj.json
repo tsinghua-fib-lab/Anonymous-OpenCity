@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Stumptown",
+            700007515
+        ]
+    ],
+    [
+        "Stay at Stumptown.",
+        "(09:00, 11:04)",
+        [
+            "Analogue",
+            700024711
+        ]
+    ],
+    [
+        "Stay at Stumptown.",
+        "(11:54, 13:15)",
+        [
+            "",
+            700013890
+        ]
+    ],
+    [
+        "Current time: 13:45, stay at Stumptown.",
+        "(13:45, 15:05)",
+        [
+            "Amelie Wine Bar",
+            700005003
+        ]
+    ],
+    [
+        "next activity based on the daily plan",
+        "(15:17, 16:57)",
+        [
+            "Analogue",
+            700024711
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 20:19)",
+        [
+            "Stumptown",
+            700007515
+        ]
+    ],
+    [
+        "next",
+        "(21:45, 23:06)",
+        [
+            "Stumptown",
+            700007515
+        ]
+    ],
+    [
+        "Stay at Stumptown.",
+        "(23:08, 23:59)",
+        [
+            "Stumptown",
+            700007515
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Blue Bottle Coffee",
+            700005263
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:16)",
+        [
+            "Blue Bottle Coffee",
+            700005263
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(12:59, 14:00)",
+        [
+            "Blue Bottle Coffee",
+            700005263
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 18:01)",
+        [
+            "",
+            700001042
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(20:51, 22:25)",
+        [
+            "Blue Bottle Coffee",
+            700005263
+        ]
+    ],
+    [
+        "Stay at MoMo",
+        "(22:44, 23:59)",
+        [
+            "MoMo",
+            700018125
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:50, 23:59)",
+        [
+            "Oceans",
+            700005262
+        ]
+    ]
+]

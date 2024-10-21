@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700020059
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 17:59)",
+        [
+            "",
+            700020063
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(11:25, 13:09)",
+        [
+            "Chase",
+            700003806
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(13:23, 15:09)",
+        [
+            "",
+            700020059
+        ]
+    ],
+    [
+        "Light Exercise",
+        "(15:14, 17:00)",
+        [
+            "",
+            700020061
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:44, 18:56)",
+        [
+            "Capital One",
+            700004355
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(20:03, 21:23)",
+        [
+            "Capital One",
+            700004355
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(21:48, 22:56)",
+        [
+            "Capital One",
+            700004355
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(23:35, 23:59)",
+        [
+            "Capital One",
+            700004355
+        ]
+    ]
+]

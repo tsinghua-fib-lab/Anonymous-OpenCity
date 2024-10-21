@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sweet Lime",
+            700005961
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 12:03)",
+        [
+            "Nono",
+            700005694
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:10, 13:40)",
+        [
+            "Suzu Noodle House",
+            700004960
+        ]
+    ],
+    [
+        "Participate in a fun sports activity, such as tennis or a group fitness class.",
+        "(17:58, 19:32)",
+        [
+            "",
+            700000774
+        ]
+    ],
+    [
+        "Wind down the day by watching a movie or reading a book.",
+        "(20:12, 22:36)",
+        [
+            "Sweet Lime",
+            700005961
+        ]
+    ],
+    [
+        "Stay at Sweet Lime",
+        "(23:39, 23:59)",
+        [
+            "Sweet Lime",
+            700005961
+        ]
+    ]
+]

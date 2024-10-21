@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010820
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:11)",
+        [
+            "",
+            700010821
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:14, 18:34)",
+        [
+            "Robin's Cafe",
+            700002583
+        ]
+    ],
+    [
+        "Stay at Robin's Cafe",
+        "(19:45, 20:52)",
+        [
+            "",
+            700010821
+        ]
+    ],
+    [
+        "Wind down the day with some light reading or watching TV.",
+        "(21:10, 23:10)",
+        [
+            "Alinea Crossfit",
+            700003196
+        ]
+    ],
+    [
+        "Stay at Robin's Cafe",
+        "(23:41, 23:59)",
+        [
+            "Steppin’ Out Dance Studio",
+            700010818
+        ]
+    ]
+]

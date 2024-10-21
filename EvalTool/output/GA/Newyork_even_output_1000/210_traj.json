@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002402
+        ]
+    ],
+    [
+        "Outdoor Activity/Exercise",
+        "(09:00, 10:35)",
+        [
+            "",
+            700019556
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(10:53, 13:04)",
+        [
+            "Citi Bike - East 25th Street & 1st Avenue",
+            700008038
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 17:02)",
+        [
+            "",
+            700031296
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:27, 20:12)",
+        [
+            "",
+            700031284
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(22:12, 23:59)",
+        [
+            "",
+            700031284
+        ]
+    ]
+]

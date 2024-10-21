@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013104
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:04)",
+        [
+            "",
+            700013099
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:33, 16:37)",
+        [
+            "Nojo Ramen Tavern",
+            700005741
+        ]
+    ],
+    [
+        "Lunch with Friends",
+        "(15:14, 16:39)",
+        [
+            "Sugar Lounge",
+            700004072
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(17:10, 18:32)",
+        [
+            "",
+            700002879
+        ]
+    ],
+    [
+        "Leisure Activity before Relaxing at Home",
+        "(18:39, 20:10)",
+        [
+            "Sugar Lounge",
+            700004072
+        ]
+    ],
+    [
+        "Leisure Activity before Relaxing at Home",
+        "(20:05, 21:38)",
+        [
+            "Hayz Dog",
+            700013897
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "",
+            700013100
+        ]
+    ]
+]

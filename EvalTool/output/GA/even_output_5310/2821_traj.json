@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cask",
+            700008337
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:46)",
+        [
+            "Sticky's",
+            700006333
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:09, 17:11)",
+        [
+            "Blank Street Coffee",
+            700008334
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(17:24, 18:52)",
+        [
+            "Dental Office",
+            700006337
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(19:19, 20:46)",
+        [
+            "Sticky's",
+            700006333
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 23:59)",
+        [
+            "Cask",
+            700008337
+        ]
+    ]
+]

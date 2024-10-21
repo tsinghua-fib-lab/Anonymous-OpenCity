@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Clinton St. Baking Company",
+            700003451
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:32)",
+        [
+            "Caveat",
+            700013366
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series.",
+        "(15:28, 18:13)",
+        [
+            "Caveat",
+            700013366
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(16:54, 19:00)",
+        [
+            "Caveat",
+            700013366
+        ]
+    ],
+    [
+        "Prepare and have dinner",
+        "(19:23, 20:51)",
+        [
+            "Caveat",
+            700013366
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:49, 23:59)",
+        [
+            "Pause Cafe",
+            700004036
+        ]
+    ]
+]

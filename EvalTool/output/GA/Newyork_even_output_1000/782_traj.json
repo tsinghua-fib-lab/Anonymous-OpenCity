@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700026306
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:42)",
+        [
+            "",
+            700026306
+        ]
+    ],
+    [
+        "Stay at the bench near your home.",
+        "(12:01, 13:37)",
+        [
+            "",
+            700014634
+        ]
+    ],
+    [
+        "Stay at the bench near your home",
+        "(13:28, 15:10)",
+        [
+            "Max Brenner",
+            700004767
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:29, 16:53)",
+        [
+            "Santander",
+            700005786
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:56, 22:53)",
+        [
+            "Santander",
+            700018513
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "",
+            700026307
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sotto 13",
+            700008256
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:22)",
+        [
+            "Citi Bike - West 13th Street & 7th Avenue",
+            700008198
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:26, 16:34)",
+        [
+            "Sotto 13",
+            700008256
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 16:40)",
+        [
+            "",
+            700020032
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:28, 22:03)",
+        [
+            "Sotto 13",
+            700008256
+        ]
+    ],
+    [
+        "Go to Flying Cock.",
+        "(19:04, 20:24)",
+        [
+            "Salvation Army Centennial Memorial Temple",
+            700000266
+        ]
+    ],
+    [
+        "Stay at Sotto 13",
+        "(21:09, 22:33)",
+        [
+            "Sotto 13",
+            700008256
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "Sotto 13",
+            700008256
+        ]
+    ]
+]

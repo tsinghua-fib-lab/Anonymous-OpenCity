@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "CityMD",
+            700020713
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:45)",
+        [
+            "CityMD",
+            700020713
+        ]
+    ],
+    [
+        "Relax or catch up on reading at CityMD.",
+        "(13:36, 15:27)",
+        [
+            "CityMD",
+            700020713
+        ]
+    ],
+    [
+        "3:00 PM - 5:00 PM: Meet up with friends for an afternoon game (like basketball or tennis) or a leisurely stroll.",
+        "(16:03, 17:41)",
+        [
+            "CityMD",
+            700020713
+        ]
+    ],
+    [
+        "Meet up with friends for an afternoon game.",
+        "(17:54, 19:07)",
+        [
+            "CityMD",
+            700020713
+        ]
+    ],
+    [
+        "Stay at ChargePoint.",
+        "(19:34, 21:05)",
+        [
+            "Joe Coffee Company",
+            700008522
+        ]
+    ],
+    [
+        "Visit Delice Sarrasin.",
+        "(20:48, 21:56)",
+        [
+            "Rite Aid",
+            700004407
+        ]
+    ],
+    [
+        "Stay at ChargePoint.",
+        "(22:10, 23:33)",
+        [
+            "",
+            700003132
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "Blossom- Chelsea",
+            700008701
+        ]
+    ]
+]

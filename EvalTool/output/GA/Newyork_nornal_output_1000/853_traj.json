@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700040446
+        ]
+    ],
+    [
+        "Next in the plan.",
+        "(09:00, 09:53)",
+        [
+            "Goddard Riverside At Lincoln Square",
+            700040445
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:46, 14:43)",
+        [
+            "",
+            700040446
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:51, 17:20)",
+        [
+            "",
+            700018235
+        ]
+    ],
+    [
+        "Attend cooking session for dinner preparation.",
+        "(18:09, 19:43)",
+        [
+            "New York Public Library",
+            700006586
+        ]
+    ],
+    [
+        "Stay at Goddard Riverside At Lincoln Square",
+        "(20:22, 21:44)",
+        [
+            "New York Public Library",
+            700006586
+        ]
+    ],
+    [
+        "Stay at La Vera Pizza",
+        "(22:12, 23:59)",
+        [
+            "High School of Arts and Technology",
+            700000287
+        ]
+    ]
+]

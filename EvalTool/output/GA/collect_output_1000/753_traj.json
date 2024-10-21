@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030397
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:17)",
+        [
+            "",
+            700022129
+        ]
+    ],
+    [
+        "Leisure Reading or Catching Up on News",
+        "(11:53, 13:01)",
+        [
+            "Tír na nÓg, Times Square",
+            700013408
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:36, 17:33)",
+        [
+            "Dear Irving",
+            700017016
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time (5:00 PM - 7:00 PM)",
+        "(17:47, 19:18)",
+        [
+            "Aya Sushi",
+            700013404
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:16, 20:55)",
+        [
+            "Aya Sushi",
+            700013404
+        ]
+    ],
+    [
+        "Evening Wind-Down: Reading or Meditative Activity",
+        "(21:41, 23:23)",
+        [
+            "",
+            700030397
+        ]
+    ],
+    [
+        "Evening Wind-Down: Reading or Meditative Activity",
+        "(23:21, 23:59)",
+        [
+            "Tír na nÓg, Times Square",
+            700013408
+        ]
+    ]
+]

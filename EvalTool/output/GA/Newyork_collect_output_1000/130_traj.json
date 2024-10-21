@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(09:00, 10:27)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:34, 14:08)",
+        [
+            "Forefeathers",
+            700022385
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 19:52)",
+        [
+            "Dunkin'",
+            700024685
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:56, 22:18)",
+        [
+            "Tipsy Scoop Barlour",
+            700010987
+        ]
+    ],
+    [
+        "Stay at Sunflower Cafe",
+        "(22:54, 23:59)",
+        [
+            "Tipsy Scoop Barlour",
+            700010987
+        ]
+    ]
+]

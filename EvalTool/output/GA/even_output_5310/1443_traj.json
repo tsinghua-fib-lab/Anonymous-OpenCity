@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:25)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 16:43)",
+        [
+            "Molly's",
+            700011135
+        ]
+    ],
+    [
+        "Cook Dinner or Try a New Recipe",
+        "(18:36, 20:04)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Cook Dinner or Try a New Recipe",
+        "(20:51, 22:13)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Cook Dinner or Try a New Recipe",
+        "(22:26, 23:59)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002780
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:54)",
+        [
+            "Mazu",
+            700008559
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:09, 17:19)",
+        [
+            "Pio Pio",
+            700008368
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(17:24, 19:07)",
+        [
+            "",
+            700024799
+        ]
+    ],
+    [
+        "Dinner with Family or Loved Ones",
+        "(19:19, 20:46)",
+        [
+            "NYU Comprehensive Epilepsy Center",
+            700012455
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 23:59)",
+        [
+            "Babylon",
+            700008370
+        ]
+    ]
+]

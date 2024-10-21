@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Luna",
+            700006009
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:00, 10:59)",
+        [
+            "Luna",
+            700006009
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:41, 15:16)",
+        [
+            "Regalito",
+            700004391
+        ]
+    ],
+    [
+        "Casual Meet-up with Friends/Family",
+        "(16:38, 18:10)",
+        [
+            "",
+            700008234
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:16, 23:46)",
+        [
+            "",
+            700008210
+        ]
+    ],
+    [
+        "Casual Meet-up with Friends/Family",
+        "(23:19, 23:59)",
+        [
+            "Regalito",
+            700004391
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700008297
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(09:00, 10:08)",
+        [
+            "",
+            700008297
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:39, 12:34)",
+        [
+            "The Sycamore",
+            700002380
+        ]
+    ],
+    [
+        "Spend Time with Family or Friends",
+        "(13:07, 15:08)",
+        [
+            "The Sycamore",
+            700002380
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(15:59, 17:01)",
+        [
+            "",
+            700008297
+        ]
+    ],
+    [
+        "Prepare Dinner and Wind Down",
+        "(17:25, 19:35)",
+        [
+            "Ria",
+            700004295
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:22, 21:41)",
+        [
+            "Homey",
+            700014023
+        ]
+    ]
+]

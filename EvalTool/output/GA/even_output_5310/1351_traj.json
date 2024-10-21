@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001832
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:14)",
+        [
+            "Marlton Esprsso Bar",
+            700028888
+        ]
+    ],
+    [
+        "Brunch",
+        "(11:44, 13:15)",
+        [
+            "Marlton Esprsso Bar",
+            700028888
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:27, 16:10)",
+        [
+            "",
+            700019500
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:52, 18:05)",
+        [
+            "Eva's x Cinco de Mayo",
+            700018265
+        ]
+    ],
+    [
+        "Socializing",
+        "(17:13, 18:18)",
+        [
+            "Marlton Esprsso Bar",
+            700028888
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:58, 20:06)",
+        [
+            "",
+            700001832
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(20:38, 21:36)",
+        [
+            "Icon Parking",
+            700014875
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:50, 23:06)",
+        [
+            "Knickerbocker Bar & Grill",
+            700007667
+        ]
+    ],
+    [
+        "Next dinner preparation",
+        "(23:39, 23:59)",
+        [
+            "",
+            700001832
+        ]
+    ]
+]

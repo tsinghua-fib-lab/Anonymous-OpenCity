@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:02)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:32, 16:04)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:19, 18:06)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:39, 20:03)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:48, 23:59)",
+        [
+            "Thai V Express",
+            700017625
+        ]
+    ]
+]

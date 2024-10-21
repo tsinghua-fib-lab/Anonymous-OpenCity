@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "McDonald's",
+            700006548
+        ]
+    ],
+    [
+        "Stay at the bench.",
+        "(10:00, 12:09)",
+        [
+            "McDonald's",
+            700006548
+        ]
+    ],
+    [
+        "Stay at McDonald's.",
+        "(11:13, 12:53)",
+        [
+            "Kuu",
+            700039049
+        ]
+    ],
+    [
+        "Stay at McDonald's.",
+        "(13:40, 15:20)",
+        [
+            "Sophie's Cuban Cuisine",
+            700016391
+        ]
+    ],
+    [
+        "Stay at McDonald's.",
+        "(15:13, 16:50)",
+        [
+            "Chipotle",
+            700017949
+        ]
+    ],
+    [
+        "Stay at McDonald's.",
+        "(17:45, 18:51)",
+        [
+            "Kuu",
+            700039049
+        ]
+    ],
+    [
+        "Stay at McDonald's.",
+        "(19:13, 20:25)",
+        [
+            "Taco Bell",
+            700006027
+        ]
+    ],
+    [
+        "Stay at McDonald's.",
+        "(20:49, 22:48)",
+        [
+            "Chipotle",
+            700017949
+        ]
+    ],
+    [
+        "Stay at McDonald's.",
+        "(22:44, 23:59)",
+        [
+            "Chipotle",
+            700017949
+        ]
+    ]
+]

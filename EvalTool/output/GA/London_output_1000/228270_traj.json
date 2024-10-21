@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Regent's Park Estate",
+            700006201
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:23)",
+        [
+            "",
+            700075343
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(11:42, 13:08)",
+        [
+            "",
+            700004645
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 17:42)",
+        [
+            "Regent's Park Estate",
+            700006201
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:57, 20:52)",
+        [
+            "",
+            700075341
+        ]
+    ],
+    [
+        "Next activity after current time 22:39 for Situation 9.",
+        "(22:39, 23:59)",
+        [
+            "",
+            700075375
+        ]
+    ],
+    [
+        "Stay at Regent's Park Estate to rest.",
+        "(23:58, 23:59)",
+        [
+            "",
+            700075383
+        ]
+    ]
+]

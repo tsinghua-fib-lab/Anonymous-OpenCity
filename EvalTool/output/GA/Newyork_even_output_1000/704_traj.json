@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Boulton & Watt",
+            700003730
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(09:00, 10:30)",
+        [
+            "The Library",
+            700006113
+        ]
+    ],
+    [
+        "Current place stay",
+        "(10:41, 12:01)",
+        [
+            "The Library",
+            700006113
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(13:11, 15:11)",
+        [
+            "Supper",
+            700013457
+        ]
+    ],
+    [
+        "Connect with Friends or Family",
+        "(15:33, 16:56)",
+        [
+            "Supper",
+            700013457
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:22, 22:36)",
+        [
+            "Alphabet Fresh Pizza",
+            700005168
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:21, 23:59)",
+        [
+            "Community Healthcare Network",
+            700031226
+        ]
+    ]
+]

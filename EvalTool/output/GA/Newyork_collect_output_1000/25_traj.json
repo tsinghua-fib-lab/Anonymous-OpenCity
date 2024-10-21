@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Continue with personal projects or hobbies.",
+        "(10:00, 12:10)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 15:13)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "Continue with personal projects or hobbies.",
+        "(15:27, 16:53)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "5:30 PM - 7:00 PM",
+        "(17:57, 19:37)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Continue at Gran Merci",
+        "(20:04, 21:58)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Mughlai",
+        "(22:14, 23:36)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Go to Mughlai for dinner;",
+        "(23:50, 23:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

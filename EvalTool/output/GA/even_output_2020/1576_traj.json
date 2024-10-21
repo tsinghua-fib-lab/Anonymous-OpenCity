@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000664
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:38)",
+        [
+            "",
+            700000072
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:52, 16:38)",
+        [
+            "",
+            700000790
+        ]
+    ],
+    [
+        "Play Sports or Exercise",
+        "(17:13, 18:50)",
+        [
+            "",
+            700000809
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:57, 23:39)",
+        [
+            "Starbucks",
+            700005116
+        ]
+    ],
+    [
+        "Stay at Little Free Library",
+        "(23:02, 23:59)",
+        [
+            "Bay Area Strength and Nutrition",
+            700002401
+        ]
+    ]
+]

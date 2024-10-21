@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:58)",
+        [
+            "",
+            700008684
+        ]
+    ],
+    [
+        "Socialize",
+        "(13:47, 15:56)",
+        [
+            "Tooley Street",
+            700009948
+        ]
+    ],
+    [
+        "Socialize",
+        "(16:06, 17:46)",
+        [
+            "159 Tooley Street",
+            700004547
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:49, 19:26)",
+        [
+            "159 Tooley Street",
+            700004547
+        ]
+    ],
+    [
+        "Dinner Preparation and Relaxation",
+        "(19:33, 21:09)",
+        [
+            "159 Tooley Street",
+            700004547
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 23:59)",
+        [
+            "",
+            700008685
+        ]
+    ]
+]

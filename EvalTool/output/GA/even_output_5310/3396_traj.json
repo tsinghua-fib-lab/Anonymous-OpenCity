@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Pitt St & Stanton St",
+            700008166
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:10)",
+        [
+            "Caracas Arepa Bar",
+            700006696
+        ]
+    ],
+    [
+        "Lunch and Relaxation",
+        "(12:44, 14:17)",
+        [
+            "Citi Bike - Pitt St & Stanton St",
+            700008166
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(14:47, 15:56)",
+        [
+            "Caracas Arepa Bar",
+            700006696
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 18:57)",
+        [
+            "",
+            700021863
+        ]
+    ],
+    [
+        "Next activity after lunch",
+        "(21:59, 23:39)",
+        [
+            "Citi Bike - Rivington Street & Ridge Street",
+            700008171
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:35, 23:59)",
+        [
+            "Joey Roses",
+            700022489
+        ]
+    ]
+]

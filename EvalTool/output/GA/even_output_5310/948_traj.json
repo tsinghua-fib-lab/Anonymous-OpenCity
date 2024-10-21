@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Northwell Health-GoHealth Urgent Care",
+            700013557
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:38)",
+        [
+            "",
+            700001688
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:43, 14:57)",
+        [
+            "Apple Bank",
+            700024869
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:49, 20:04)",
+        [
+            "Apple Bank",
+            700024869
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:59)",
+        [
+            "Manhattan Mailroom",
+            700006574
+        ]
+    ]
+]

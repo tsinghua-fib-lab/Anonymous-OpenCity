@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sam's Fried Ice Cream",
+            700025505
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:16)",
+        [
+            "Hou Yi Hot Pot",
+            700009617
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:38, 16:40)",
+        [
+            "East dumpling",
+            700016033
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:32, 16:46)",
+        [
+            "Wanda Coach",
+            700005432
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:04, 17:53)",
+        [
+            "",
+            700037284
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(18:16, 19:45)",
+        [
+            "Citi Bike - Forsyth Street & Canal Street",
+            700008067
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 23:59)",
+        [
+            "Manhattan Bridge Bicycle Counter",
+            700020054
+        ]
+    ],
+    [
+        "Wind Down and Prepare for the Week",
+        "(23:53, 23:59)",
+        [
+            "Popeyes",
+            700005158
+        ]
+    ]
+]

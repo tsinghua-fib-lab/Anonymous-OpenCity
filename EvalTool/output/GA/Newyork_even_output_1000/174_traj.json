@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Astor Place Greenmarket",
+            700019443
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:28)",
+        [
+            "Gold Bao",
+            700016733
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:59, 17:53)",
+        [
+            "",
+            700016763
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:53, 17:20)",
+        [
+            "Citi Bike - Lafayette St & E 8 St",
+            700008112
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 22:18)",
+        [
+            "Astor Place Greenmarket",
+            700019443
+        ]
+    ],
+    [
+        "Take a walk to the nearby park",
+        "(20:59, 22:34)",
+        [
+            "Astor Place Greenmarket",
+            700019443
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "",
+            700016781
+        ]
+    ]
+]

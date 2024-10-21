@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020060
+        ]
+    ],
+    [
+        "next activity after breakfast",
+        "(09:00, 11:02)",
+        [
+            "Firat Grill",
+            700067674
+        ]
+    ],
+    [
+        "Relax with a book or podcast",
+        "(10:46, 13:24)",
+        [
+            "Firat Grill",
+            700067674
+        ]
+    ],
+    [
+        "Afternoon leisure activity (sports or hobbies)",
+        "(12:37, 14:58)",
+        [
+            "Firat Grill",
+            700067674
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:24, 16:55)",
+        [
+            "Batistou",
+            700000434
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:40, 23:59)",
+        [
+            "Panda Express",
+            700033564
+        ]
+    ],
+    [
+        "Go to Joe & The Juice.",
+        "(22:36, 23:59)",
+        [
+            "",
+            700000976
+        ]
+    ]
+]

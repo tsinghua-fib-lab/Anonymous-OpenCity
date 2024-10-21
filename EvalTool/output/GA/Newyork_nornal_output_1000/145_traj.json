@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002733
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:34)",
+        [
+            "",
+            700038040
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(14:44, 17:04)",
+        [
+            "Citi Bike - Catherine Street & Monroe Street",
+            700007990
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:19, 20:26)",
+        [
+            "",
+            700038041
+        ]
+    ],
+    [
+        "Next evening activities including social time",
+        "(20:10, 22:12)",
+        [
+            "",
+            700038039
+        ]
+    ],
+    [
+        "Current place and stay time",
+        "(22:46, 23:59)",
+        [
+            "",
+            700038037
+        ]
+    ]
+]

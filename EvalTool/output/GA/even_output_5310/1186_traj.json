@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Murray's Bagels",
+            700008975
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:00)",
+        [
+            "ChargePoint",
+            700012447
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:42, 14:03)",
+        [
+            "ChargePoint",
+            700012447
+        ]
+    ],
+    [
+        "Catch Up on Reading or Hobbies",
+        "(14:32, 15:58)",
+        [
+            "ChargePoint",
+            700012447
+        ]
+    ],
+    [
+        "Catch Up on Reading or Hobbies",
+        "(16:52, 18:00)",
+        [
+            "ChargePoint",
+            700012447
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:22, 20:00)",
+        [
+            "",
+            700001520
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(20:18, 21:46)",
+        [
+            "",
+            700020039
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(22:19, 23:40)",
+        [
+            "Cafe Water",
+            700010935
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:46, 23:59)",
+        [
+            "Bar Six",
+            700012222
+        ]
+    ]
+]

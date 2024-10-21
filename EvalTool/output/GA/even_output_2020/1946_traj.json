@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mercury Cafe",
+            700002383
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(10:00, 11:04)",
+        [
+            "Bay Wheels",
+            700010106
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(12:05, 13:34)",
+        [
+            "",
+            700002150
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:26, 16:48)",
+        [
+            "Open House",
+            700013314
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:28, 23:02)",
+        [
+            "Chinese American International School",
+            700000223
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:56, 23:59)",
+        [
+            "Custom Fit",
+            700009581
+        ]
+    ]
+]

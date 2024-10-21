@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Surreal Creamery",
+            700021513
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:50)",
+        [
+            "Professional Tae Kwon Do",
+            700014948
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(14:06, 15:59)",
+        [
+            "AMC Kips Bay 15",
+            700003434
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:53, 19:03)",
+        [
+            "",
+            700000964
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:35, 23:59)",
+        [
+            "",
+            700024797
+        ]
+    ]
+]

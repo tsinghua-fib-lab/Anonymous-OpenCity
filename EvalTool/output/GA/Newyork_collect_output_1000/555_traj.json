@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:31)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Reading or Learning Time",
+        "(11:17, 12:57)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 18:44)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:18, 23:21)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(20:58, 22:51)",
+        [
+            "",
+            700001612
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "NYU Langone Radiology",
+            700006205
+        ]
+    ]
+]

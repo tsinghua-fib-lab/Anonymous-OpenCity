@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:28)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:15, 13:54)",
+        [
+            "",
+            700017443
+        ]
+    ],
+    [
+        "Prepare and enjoy a relaxed lunch, perhaps trying out a new recipe or cooking with family.",
+        "(16:58, 18:10)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Meet up with friends or family for a casual game or engage in an outdoor activity like cycling or sports.",
+        "(18:02, 19:53)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Spend time at Gran Merci",
+        "(20:40, 22:45)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Have dinner at Gran Merci",
+        "(23:01, 23:59)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ]
+]

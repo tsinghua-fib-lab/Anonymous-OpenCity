@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700062777
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:45)",
+        [
+            "",
+            700062777
+        ]
+    ],
+    [
+        "Continue leisure time",
+        "(14:25, 15:57)",
+        [
+            "McDonald's",
+            700002913
+        ]
+    ],
+    [
+        "Continue leisure time",
+        "(16:17, 17:52)",
+        [
+            "Columbus Café & Co",
+            700002914
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:40, 20:02)",
+        [
+            "Columbus Café & Co",
+            700002914
+        ]
+    ],
+    [
+        "Go to Columbus Café & Co and wind down.",
+        "(20:39, 22:00)",
+        [
+            "Columbus Café & Co",
+            700002914
+        ]
+    ],
+    [
+        "Stay at Columbus Café & Co for winding down.",
+        "(22:53, 23:59)",
+        [
+            "Columbus Café & Co",
+            700002914
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700048230
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:23)",
+        [
+            "Lazy",
+            700007262
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(14:04, 16:42)",
+        [
+            "Lazy",
+            700007262
+        ]
+    ],
+    [
+        "Socialize with friends or family",
+        "(17:24, 19:09)",
+        [
+            "Lazy",
+            700007262
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 23:27)",
+        [
+            "Pizza Da Paolo",
+            700007244
+        ]
+    ],
+    [
+        "Situation_6",
+        "(22:46, 23:59)",
+        [
+            "Pizza Da Paolo",
+            700007244
+        ]
+    ],
+    [
+        "Go to Les Gastropodes",
+        "(23:47, 23:59)",
+        [
+            "",
+            700048101
+        ]
+    ]
+]

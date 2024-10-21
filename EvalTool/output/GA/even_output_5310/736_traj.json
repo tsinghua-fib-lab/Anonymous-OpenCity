@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "icon 24hr Parking",
+            700010474
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:45)",
+        [
+            "Phoenix Garden",
+            700007839
+        ]
+    ],
+    [
+        "Continue with the plan",
+        "(11:22, 12:46)",
+        [
+            "Sushi Ryusei",
+            700015028
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 15:41)",
+        [
+            "",
+            700003106
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:59, 20:04)",
+        [
+            "Orangetheory Fitness",
+            700006455
+        ]
+    ],
+    [
+        "Spend time with family/friends or unwind",
+        "(23:33, 23:59)",
+        [
+            "",
+            700002162
+        ]
+    ]
+]

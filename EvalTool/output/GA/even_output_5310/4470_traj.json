@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002566
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:27)",
+        [
+            "Bluestone Lane",
+            700021774
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 19:10)",
+        [
+            "Shake Shack",
+            700016406
+        ]
+    ],
+    [
+        "Watch movie and relax",
+        "(21:05, 22:54)",
+        [
+            "Shake Shack",
+            700016406
+        ]
+    ],
+    [
+        "Watch the movie and enjoy your free time.",
+        "(23:34, 23:59)",
+        [
+            "Shake Shack",
+            700016406
+        ]
+    ]
+]

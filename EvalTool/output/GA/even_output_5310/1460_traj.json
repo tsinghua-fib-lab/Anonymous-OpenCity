@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AMC Kips Bay 15",
+            700003434
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:20)",
+        [
+            "Starbucks",
+            700029672
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:11, 12:58)",
+        [
+            "Starbucks",
+            700029672
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:29, 15:08)",
+        [
+            "Starbucks",
+            700029672
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:40, 20:34)",
+        [
+            "Grey Art Gallery",
+            700000480
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:55, 23:45)",
+        [
+            "",
+            700036305
+        ]
+    ]
+]

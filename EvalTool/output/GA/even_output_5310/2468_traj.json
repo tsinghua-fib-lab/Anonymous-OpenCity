@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CHILI 美麗",
+            700021917
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:42)",
+        [
+            "Serafina Italian Restaurant",
+            700006461
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:13, 17:25)",
+        [
+            "Mulligan's Pub",
+            700014084
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 22:43)",
+        [
+            "Salute",
+            700003530
+        ]
+    ],
+    [
+        "Next activity",
+        "(23:20, 23:59)",
+        [
+            "",
+            700009472
+        ]
+    ]
+]

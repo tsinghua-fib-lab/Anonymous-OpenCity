@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:31)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:42, 17:11)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(18:03, 19:58)",
+        [
+            "Icon Parking",
+            700018143
+        ]
+    ],
+    [
+        "Prepare Dinner & Relax",
+        "(20:43, 22:19)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(23:16, 23:59)",
+        [
+            "iPark",
+            700018136
+        ]
+    ]
+]

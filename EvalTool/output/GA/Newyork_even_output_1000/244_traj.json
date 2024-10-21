@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Oslo Coffee Roasters",
+            700023339
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby",
+        "(10:00, 11:58)",
+        [
+            "Oslo Coffee Roasters",
+            700023339
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby",
+        "(12:12, 14:07)",
+        [
+            "Oslo Coffee Roasters",
+            700023339
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 16:58)",
+        [
+            "Employees Only",
+            700008789
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 18:10)",
+        [
+            "",
+            700001569
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:32, 20:41)",
+        [
+            "",
+            700001483
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:19, 23:59)",
+        [
+            "Employees Only",
+            700008789
+        ]
+    ],
+    [
+        "Stay at Oslo Coffee Roasters",
+        "(23:57, 23:59)",
+        [
+            "Employees Only",
+            700008789
+        ]
+    ]
+]

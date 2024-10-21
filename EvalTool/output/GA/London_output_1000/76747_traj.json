@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Windmill Green Estate",
+            700017182
+        ]
+    ],
+    [
+        "Start breakfast at Windmill Green Estate.",
+        "(10:00, 10:53)",
+        [
+            "Windmill Green Estate",
+            700017182
+        ]
+    ],
+    [
+        "Start Leisure Activity",
+        "(11:48, 13:01)",
+        [
+            "Windmill Green Estate",
+            700017182
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:21, 14:36)",
+        [
+            "Windmill Green Estate",
+            700017182
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:01, 16:44)",
+        [
+            "Windmill Green Estate",
+            700017182
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:04, 18:08)",
+        [
+            "",
+            700058980
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 23:59)",
+        [
+            "",
+            700054600
+        ]
+    ]
+]

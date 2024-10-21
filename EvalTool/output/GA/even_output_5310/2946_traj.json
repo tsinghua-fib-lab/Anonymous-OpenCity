@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Kuih Cafe",
+            700019759
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:06)",
+        [
+            "Kuih Cafe",
+            700019759
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:45, 13:04)",
+        [
+            "Kuih Cafe",
+            700019759
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(17:16, 19:10)",
+        [
+            "Kuih Cafe",
+            700019759
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(19:47, 21:10)",
+        [
+            "Kuih Cafe",
+            700019759
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(21:27, 23:02)",
+        [
+            "Kuih Cafe",
+            700019759
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:01, 23:59)",
+        [
+            "",
+            700023631
+        ]
+    ]
+]

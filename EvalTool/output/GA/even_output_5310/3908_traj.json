@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Soft Swerve",
+            700015892
+        ]
+    ],
+    [
+        "Go for a walk in the nearby park.",
+        "(10:00, 10:55)",
+        [
+            "Tara Rose",
+            700017394
+        ]
+    ],
+    [
+        "Continue with the walk in the nearby park.",
+        "(11:26, 12:02)",
+        [
+            "Turkish Kitchen",
+            700008587
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:52, 14:57)",
+        [
+            "Soft Swerve",
+            700015892
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 18:34)",
+        [
+            "Handcraft",
+            700006233
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 23:10)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Continue spending time at The UPS Store.",
+        "(23:25, 23:59)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Continue with personal projects or hobbies.",
+        "(10:00, 12:04)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 15:22)",
+        [
+            "",
+            700022506
+        ]
+    ],
+    [
+        "Continue with personal projects or hobbies.",
+        "(15:27, 17:05)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "5:30 PM - 7:00 PM",
+        "(17:57, 19:25)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Continue at New York Comedy Club",
+        "(20:04, 22:04)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "New York Comedy Club",
+        "(22:14, 23:42)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Continue at New York Comedy Club;",
+        "(23:50, 23:59)",
+        [
+            "",
+            700022506
+        ]
+    ]
+]

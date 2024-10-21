@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Crunch Fitness",
+            700002088
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:07)",
+        [
+            "Blue Barn",
+            700007283
+        ]
+    ],
+    [
+        "Relaxation/Entertainment",
+        "(14:38, 16:08)",
+        [
+            "Blue Barn",
+            700007283
+        ]
+    ],
+    [
+        "Cooking and Preparing Dinner",
+        "(16:22, 18:15)",
+        [
+            "Blue Barn",
+            700007283
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:15, 21:05)",
+        [
+            "House Rules",
+            700004279
+        ]
+    ],
+    [
+        "Next Arrangements: Go to Blue Barn",
+        "(20:14, 21:54)",
+        [
+            "Blue Barn",
+            700007283
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:31, 23:59)",
+        [
+            "Bank of America",
+            700000644
+        ]
+    ]
+]

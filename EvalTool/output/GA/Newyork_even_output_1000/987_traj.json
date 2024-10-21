@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Daniello's",
+            700014652
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:32)",
+        [
+            "Bank of America",
+            700020479
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 13:57)",
+        [
+            "",
+            700002506
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 20:03)",
+        [
+            "Lin's Gourmet",
+            700031416
+        ]
+    ],
+    [
+        "Dinner",
+        "(22:55, 23:56)",
+        [
+            "Chola Coastal Indian Cuisine",
+            700030622
+        ]
+    ]
+]

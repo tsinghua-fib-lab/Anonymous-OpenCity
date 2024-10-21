@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Jugos",
+            700006204
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:40)",
+        [
+            "ProHEALTH Urgent Care",
+            700013549
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 14:05)",
+        [
+            "Frank's Trattoria",
+            700025849
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 15:10)",
+        [
+            "Dollar",
+            700025753
+        ]
+    ],
+    [
+        "Leisure Activity/Shopping",
+        "(15:46, 16:55)",
+        [
+            "Dollar",
+            700025753
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:47, 19:50)",
+        [
+            "Frank's Trattoria",
+            700025849
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:09, 23:59)",
+        [
+            "",
+            700022508
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:55, 23:59)",
+        [
+            "Rite Way Drugs & Surgicals",
+            700025845
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sweetgreen",
+            700008971
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:35)",
+        [
+            "Madhufalla Organics",
+            700025915
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:02, 17:44)",
+        [
+            "",
+            700025295
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 21:30)",
+        [
+            "Empanadas Soho",
+            700035048
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:35, 23:59)",
+        [
+            "The Lost Draft",
+            700010988
+        ]
+    ]
+]

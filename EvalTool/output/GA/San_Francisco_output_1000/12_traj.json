@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009660
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:00)",
+        [
+            "",
+            700009660
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 19:08)",
+        [
+            "",
+            700008961
+        ]
+    ],
+    [
+        "wind down by watching a movie or a show, or perhaps engaging in a relaxing activity like meditation or light reading before bed",
+        "(20:52, 22:07)",
+        [
+            "",
+            700009660
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:53, 23:59)",
+        [
+            "",
+            700009680
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Thirty Coffee",
+            700011585
+        ]
+    ],
+    [
+        "Have lunch at a favorite local restaurant.",
+        "(09:00, 10:38)",
+        [
+            "",
+            700023014
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 12:35)",
+        [
+            "",
+            700023014
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 17:07)",
+        [
+            "Piccadilly Cafe",
+            700011587
+        ]
+    ],
+    [
+        "Relax at home, watch a movie or catch up on a TV series.",
+        "(18:43, 20:10)",
+        [
+            "Thirty Coffee",
+            700011585
+        ]
+    ],
+    [
+        "Enjoy dinner, possibly with family or friends, and engage in a game night or social activity afterward.",
+        "(20:54, 22:07)",
+        [
+            "Thirty Coffee",
+            700011585
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "",
+            700024951
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009222
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:11)",
+        [
+            "",
+            700006013
+        ]
+    ],
+    [
+        "Stay at an unspecified place",
+        "(11:58, 13:27)",
+        [
+            "Angela’s Sandwich Shop",
+            700011897
+        ]
+    ],
+    [
+        "Stay at Angela’s Sandwich Shop",
+        "(14:16, 15:47)",
+        [
+            "FIKA 58th Street",
+            700008327
+        ]
+    ],
+    [
+        "Stay at Angela’s Sandwich Shop",
+        "(16:44, 19:14)",
+        [
+            "FIKA 58th Street",
+            700008327
+        ]
+    ],
+    [
+        "Take a walk around the area and enjoy the surroundings.",
+        "(19:29, 21:03)",
+        [
+            "FIKA 58th Street",
+            700008327
+        ]
+    ],
+    [
+        "Stay at an unspecified place",
+        "(21:16, 22:55)",
+        [
+            "Angela’s Sandwich Shop",
+            700011897
+        ]
+    ],
+    [
+        "Stay at Angela's Sandwich Shop",
+        "(22:41, 23:59)",
+        [
+            "FIKA 58th Street",
+            700008327
+        ]
+    ]
+]

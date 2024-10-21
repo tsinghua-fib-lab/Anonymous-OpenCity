@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chase",
+            700003804
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:28)",
+        [
+            "Chase",
+            700003804
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:44, 14:03)",
+        [
+            "Chase",
+            700003804
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:07, 15:50)",
+        [
+            "Chase",
+            700003804
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(16:06, 18:00)",
+        [
+            "Chase",
+            700003804
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:05, 19:54)",
+        [
+            "Bank of America",
+            700004354
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(20:36, 22:58)",
+        [
+            "",
+            700020063
+        ]
+    ],
+    [
+        "Arrange to leave the current place and go to Artistic Pizza for dinner.",
+        "(23:06, 23:59)",
+        [
+            "Chase",
+            700003804
+        ]
+    ]
+]

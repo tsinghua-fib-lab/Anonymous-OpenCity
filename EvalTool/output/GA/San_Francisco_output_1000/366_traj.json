@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Bagel Bakery",
+            700002122
+        ]
+    ],
+    [
+        "Workout or Sports Activity",
+        "(10:00, 11:23)",
+        [
+            "The Bagel Bakery",
+            700002122
+        ]
+    ],
+    [
+        "Workout or Sports Activity",
+        "(11:36, 13:13)",
+        [
+            "The Bagel Bakery",
+            700002122
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:13, 17:50)",
+        [
+            "Bar VIA",
+            700012820
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:34, 21:08)",
+        [
+            "Bar VIA",
+            700012820
+        ]
+    ],
+    [
+        "Stay at Rhea's Cafe",
+        "(21:58, 23:01)",
+        [
+            "",
+            700012818
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "",
+            700012819
+        ]
+    ]
+]

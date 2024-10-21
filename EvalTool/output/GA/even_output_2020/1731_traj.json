@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010513
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:20)",
+        [
+            "",
+            700000535
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:18, 13:55)",
+        [
+            "Quong Ming Buddhism and Taoism Society",
+            700000295
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:55, 16:42)",
+        [
+            "Quong Ming Buddhism and Taoism Society",
+            700000295
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:52, 20:00)",
+        [
+            "",
+            700000535
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:07, 23:01)",
+        [
+            "Quong Ming Buddhism and Taoism Society",
+            700000295
+        ]
+    ],
+    [
+        "Evening Wind Down.",
+        "(23:36, 23:59)",
+        [
+            "Quong Ming Buddhism and Taoism Society",
+            700000295
+        ]
+    ]
+]

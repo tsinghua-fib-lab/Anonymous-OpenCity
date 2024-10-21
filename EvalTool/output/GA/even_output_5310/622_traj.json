@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mexico Lindo",
+            700006222
+        ]
+    ],
+    [
+        "Outdoor Activity (11:00 AM - 1:00 PM)",
+        "(10:00, 12:08)",
+        [
+            "Citi Bike - East 25th Street & 2nd Avenue",
+            700008039
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:04, 14:07)",
+        [
+            "Citi Bike - East 25th Street & 2nd Avenue",
+            700008039
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 17:07)",
+        [
+            "Flavor's House",
+            700021997
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 18:36)",
+        [
+            "Duane Reade",
+            700011388
+        ]
+    ],
+    [
+        "After Flavor's House, you can relax and read at the nearby café.",
+        "(23:13, 23:59)",
+        [
+            "",
+            700006231
+        ]
+    ]
+]

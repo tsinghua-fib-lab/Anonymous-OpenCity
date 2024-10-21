@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008969
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:29)",
+        [
+            "",
+            700001227
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:57, 18:37)",
+        [
+            "Better Than Sweet",
+            700008995
+        ]
+    ],
+    [
+        "Watch a movie or binge a series on streaming platforms",
+        "(16:30, 18:01)",
+        [
+            "Better Than Sweet",
+            700008995
+        ]
+    ],
+    [
+        "Prepare a simple dinner and enjoy it around 6:00 PM.",
+        "(18:23, 19:54)",
+        [
+            "Better Than Sweet",
+            700008995
+        ]
+    ],
+    [
+        "Enjoy dinner and relaxing",
+        "(20:31, 22:21)",
+        [
+            "Better Than Sweet",
+            700008995
+        ]
+    ],
+    [
+        "Relax at Roam Artisan Burgers",
+        "(22:19, 23:59)",
+        [
+            "Venticello",
+            700005060
+        ]
+    ],
+    [
+        "Enjoy time at Venticello",
+        "(23:56, 23:59)",
+        [
+            "Venticello",
+            700005060
+        ]
+    ]
+]

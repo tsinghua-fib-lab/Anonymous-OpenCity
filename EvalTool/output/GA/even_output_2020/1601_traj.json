@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005719
+        ]
+    ],
+    [
+        "Current place: Home. Stay time: 1 hour.",
+        "(10:00, 11:23)",
+        [
+            "Réveille Coffee Co.",
+            700002066
+        ]
+    ],
+    [
+        "Go to Réveille Coffee Co. for coffee and light meal.",
+        "(11:57, 13:37)",
+        [
+            "Réveille Coffee Co.",
+            700002066
+        ]
+    ],
+    [
+        "Coffee and Light Meal",
+        "(13:36, 15:00)",
+        [
+            "Réveille Coffee Co.",
+            700002066
+        ]
+    ],
+    [
+        "Have lunch.",
+        "(15:45, 17:22)",
+        [
+            "Toppu Ramen & Dim Sum House",
+            700004009
+        ]
+    ],
+    [
+        "Cultural Appreciation",
+        "(17:31, 18:54)",
+        [
+            "",
+            700005719
+        ]
+    ],
+    [
+        "Next activity: Go out for dinner.",
+        "(19:29, 20:53)",
+        [
+            "",
+            700005719
+        ]
+    ],
+    [
+        "Relaxing at Home.",
+        "(21:47, 23:03)",
+        [
+            "",
+            700005719
+        ]
+    ],
+    [
+        "You will stay at Broadway Studios.",
+        "(23:46, 23:59)",
+        [
+            "Toppu Ramen & Dim Sum House",
+            700004009
+        ]
+    ]
+]

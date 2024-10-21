@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001234
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:28)",
+        [
+            "Wasabi & Ginger",
+            700002399
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:21, 15:46)",
+        [
+            "Peter D's Cafe",
+            700002281
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:11, 23:02)",
+        [
+            "Saint Brigid School",
+            700000262
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:43, 21:50)",
+        [
+            "Matterhorn",
+            700000951
+        ]
+    ]
+]

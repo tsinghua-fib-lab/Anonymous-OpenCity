@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009365
+        ]
+    ],
+    [
+        "Enjoy leisurely breakfast with coffee.",
+        "(10:00, 11:01)",
+        [
+            "",
+            700009365
+        ]
+    ],
+    [
+        "Go for a walk or jog in the park",
+        "(11:52, 12:55)",
+        [
+            "",
+            700009365
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:07, 18:21)",
+        [
+            "",
+            700037732
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 21:22)",
+        [
+            "",
+            700037744
+        ]
+    ],
+    [
+        "Wind down the day by playing board games or chatting with family/friends.",
+        "(21:52, 22:54)",
+        [
+            "",
+            700009365
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:34, 23:59)",
+        [
+            "",
+            700037747
+        ]
+    ]
+]

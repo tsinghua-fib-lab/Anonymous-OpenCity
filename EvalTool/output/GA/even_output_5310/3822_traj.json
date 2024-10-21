@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Holey Cream",
+            700014356
+        ]
+    ],
+    [
+        "Take a Morning Walk or Attend a Yoga Class",
+        "(09:00, 10:39)",
+        [
+            "",
+            700021423
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 15:07)",
+        [
+            "The Meatball Shop",
+            700006380
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:53, 17:41)",
+        [
+            "Chong Qing Noodle",
+            700021404
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(19:05, 20:25)",
+        [
+            "The Meatball Shop",
+            700006380
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 23:59)",
+        [
+            "Citi Bike - West 52nd Street & 9th Avenue",
+            700008232
+        ]
+    ]
+]

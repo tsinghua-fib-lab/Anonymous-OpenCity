@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tacorea",
+            700002085
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:07)",
+        [
+            "Pizzelle di North Beach",
+            700005963
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:49, 13:07)",
+        [
+            "Pizzelle di North Beach",
+            700005963
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 18:53)",
+        [
+            "Betty Lou's",
+            700004985
+        ]
+    ],
+    [
+        "Prepare a Dinner",
+        "(18:29, 19:50)",
+        [
+            "Jamra",
+            700004013
+        ]
+    ],
+    [
+        "Stay at Tacorea",
+        "(20:35, 22:38)",
+        [
+            "Jamra",
+            700004013
+        ]
+    ],
+    [
+        "Stay at Tacorea",
+        "(22:39, 23:59)",
+        [
+            "Jamra",
+            700004013
+        ]
+    ]
+]

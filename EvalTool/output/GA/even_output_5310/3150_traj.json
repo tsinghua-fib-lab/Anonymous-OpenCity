@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001824
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:33)",
+        [
+            "Erin's Pharmacy",
+            700005416
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 13:58)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 16:19)",
+        [
+            "China Wok",
+            700019587
+        ]
+    ],
+    [
+        "Visit a local museum or art gallery.",
+        "(16:53, 18:22)",
+        [
+            "Citi Bike - E 6 St & Avenue D",
+            700008061
+        ]
+    ],
+    [
+        "Stay at Cafe Social 68.",
+        "(19:20, 20:58)",
+        [
+            "Equal Care Pharmacy",
+            700005417
+        ]
+    ],
+    [
+        "Stay at Cafe Social 68",
+        "(21:50, 22:50)",
+        [
+            "",
+            700001188
+        ]
+    ],
+    [
+        "Stay at Cafe Social 68.",
+        "(23:09, 23:59)",
+        [
+            "",
+            700002793
+        ]
+    ]
+]

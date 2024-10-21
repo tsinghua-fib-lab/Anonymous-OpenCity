@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002784
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:23)",
+        [
+            "Allie II parking",
+            700008310
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:10, 15:45)",
+        [
+            "Starbucks",
+            700004421
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:14, 20:46)",
+        [
+            "The Flame",
+            700006116
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:29, 23:59)",
+        [
+            "Masseria dei Vini",
+            700006399
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "Justino’s Pizzeria",
+            700004006
+        ]
+    ]
+]

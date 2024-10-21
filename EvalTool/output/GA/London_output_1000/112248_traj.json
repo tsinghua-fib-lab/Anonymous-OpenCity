@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tachbrook Estate",
+            700010146
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:56)",
+        [
+            "",
+            700072083
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 18:57)",
+        [
+            "",
+            700023696
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:44, 20:00)",
+        [
+            "",
+            700023759
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(20:06, 21:14)",
+        [
+            "Peabody Estate",
+            700012544
+        ]
+    ],
+    [
+        "Next outing considering the remaining time.",
+        "(22:01, 23:39)",
+        [
+            "",
+            700023758
+        ]
+    ],
+    [
+        "Go to Alba for a quick snack",
+        "(23:36, 23:59)",
+        [
+            "",
+            700078882
+        ]
+    ]
+]

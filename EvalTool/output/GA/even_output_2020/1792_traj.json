@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008902
+        ]
+    ],
+    [
+        "Morning Exercise or Outdoor Activity",
+        "(10:00, 11:26)",
+        [
+            "",
+            700008913
+        ]
+    ],
+    [
+        "Late Afternoon Hobby or Sport",
+        "(12:17, 14:22)",
+        [
+            "",
+            700008899
+        ]
+    ],
+    [
+        "Relax and Unwind with a Book or Movie",
+        "(14:30, 16:33)",
+        [
+            "",
+            700008902
+        ]
+    ],
+    [
+        "Late Afternoon Hobby or Sport",
+        "(16:26, 17:58)",
+        [
+            "",
+            700008913
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 20:32)",
+        [
+            "",
+            700008911
+        ]
+    ]
+]

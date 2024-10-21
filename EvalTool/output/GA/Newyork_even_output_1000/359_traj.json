@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(09:00, 10:34)",
+        [
+            "HealthSource Pharmacy & Health Food Store",
+            700039311
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:46, 14:36)",
+        [
+            "Citibike",
+            700021679
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(12:16, 13:39)",
+        [
+            "Citibike",
+            700021679
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:07, 15:49)",
+        [
+            "",
+            700003173
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(15:42, 17:14)",
+        [
+            "Citibike",
+            700021679
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 21:30)",
+        [
+            "",
+            700010698
+        ]
+    ]
+]

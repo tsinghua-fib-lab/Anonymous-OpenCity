@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:28)",
+        [
+            "",
+            700022507
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:51, 16:16)",
+        [
+            "Ampersand",
+            700006110
+        ]
+    ],
+    [
+        "Exploring a Local Attraction",
+        "(13:58, 15:24)",
+        [
+            "Ampersand",
+            700006110
+        ]
+    ],
+    [
+        "Explore a Local Attraction",
+        "(15:36, 17:05)",
+        [
+            "Ampersand",
+            700006110
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:58, 20:08)",
+        [
+            "Think Coffee",
+            700020941
+        ]
+    ],
+    [
+        "Stay at Ampersand",
+        "(22:57, 23:59)",
+        [
+            "Think Coffee",
+            700020941
+        ]
+    ]
+]

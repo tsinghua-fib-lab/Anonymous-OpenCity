@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "L & W Oyster Company",
+            700009181
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:53)",
+        [
+            "L & W Oyster Company",
+            700009181
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:30, 13:01)",
+        [
+            "L & W Oyster Company",
+            700009181
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:54, 14:07)",
+        [
+            "L & W Oyster Company",
+            700009181
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:19, 15:52)",
+        [
+            "L & W Oyster Company",
+            700009181
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:30, 17:52)",
+        [
+            "Bubble Tea & Crepes",
+            700008608
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:42, 20:05)",
+        [
+            "Citi Bike - 5th Avenue & East 29th Street",
+            700007937
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:10, 23:59)",
+        [
+            "Citi Bike - 5th Avenue & East 29th Street",
+            700007937
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(23:44, 23:59)",
+        [
+            "Citi Bike - 5th Avenue & East 29th Street",
+            700007937
+        ]
+    ]
+]

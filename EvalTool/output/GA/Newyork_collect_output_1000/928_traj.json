@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:43)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:42, 15:25)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 20:18)",
+        [
+            "Coletta",
+            700015591
+        ]
+    ],
+    [
+        "Stay at Sundays Well.",
+        "(19:35, 21:45)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ],
+    [
+        "Stay at Sundays Well",
+        "(21:44, 23:11)",
+        [
+            "Sundays Well",
+            700024686
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ]
+]

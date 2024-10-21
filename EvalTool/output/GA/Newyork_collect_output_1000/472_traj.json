@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:20)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 15:21)",
+        [
+            "",
+            700022506
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:49, 17:47)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:00, 19:20)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "Wind Down & Relax",
+        "(19:28, 21:57)",
+        [
+            "Pick a Bagel",
+            700019346
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:28, 23:59)",
+        [
+            "CityMD",
+            700013548
+        ]
+    ]
+]

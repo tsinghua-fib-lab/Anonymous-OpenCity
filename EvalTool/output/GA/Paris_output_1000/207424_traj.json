@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mama Shelter",
+            700016166
+        ]
+    ],
+    [
+        "Walk or Jog",
+        "(10:00, 10:56)",
+        [
+            "",
+            700016877
+        ]
+    ],
+    [
+        "Leisurely Walk or Jog",
+        "(11:31, 13:11)",
+        [
+            "Mama Shelter",
+            700016166
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:42, 17:54)",
+        [
+            "",
+            700016159
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:14, 19:39)",
+        [
+            "Pharmacie Saint-Blaise",
+            700062313
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:10, 23:59)",
+        [
+            "Brasserie Tabac Saint-Germain",
+            700000585
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:36, 23:59)",
+        [
+            "",
+            700007136
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:41, 23:59)",
+        [
+            "",
+            700015033
+        ]
+    ]
+]

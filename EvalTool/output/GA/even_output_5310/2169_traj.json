@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700003104
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:30)",
+        [
+            "",
+            700003104
+        ]
+    ],
+    [
+        "Move to Outdoor Activity",
+        "(11:15, 12:45)",
+        [
+            "Terra Blues",
+            700008487
+        ]
+    ],
+    [
+        "Stay at current place",
+        "(13:51, 15:25)",
+        [
+            "Terra Blues",
+            700008487
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:34, 21:03)",
+        [
+            "Terra Blues",
+            700008487
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:28, 20:11)",
+        [
+            "Terra Blues",
+            700008487
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:48, 23:59)",
+        [
+            "Ja Moy Kitchen & Bar",
+            700029918
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "Le Poisson Rouge",
+            700004933
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001018
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:29)",
+        [
+            "",
+            700000666
+        ]
+    ],
+    [
+        "Community event or volunteer",
+        "(13:08, 15:04)",
+        [
+            "Health Wise Pharmacy",
+            700016564
+        ]
+    ],
+    [
+        "Community event or volunteer",
+        "(16:04, 19:09)",
+        [
+            "Health Wise Pharmacy",
+            700016564
+        ]
+    ],
+    [
+        "Current Place: Health Wise Pharmacy",
+        "(19:27, 21:05)",
+        [
+            "",
+            700017620
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:40, 23:44)",
+        [
+            "",
+            700001018
+        ]
+    ]
+]

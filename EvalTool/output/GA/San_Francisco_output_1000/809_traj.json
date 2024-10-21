@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Amarena",
+            700002725
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:08)",
+        [
+            "SSAL",
+            700004275
+        ]
+    ],
+    [
+        "Hobbies/Personal Projects",
+        "(15:08, 17:12)",
+        [
+            "La Folie",
+            700002089
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:49, 19:05)",
+        [
+            "La Folie",
+            700002089
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:08, 21:08)",
+        [
+            "La Folie",
+            700002089
+        ]
+    ],
+    [
+        "Evening Relaxation/Family Time",
+        "(21:48, 22:58)",
+        [
+            "La Folie",
+            700002089
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:49, 23:59)",
+        [
+            "Philz Coffee",
+            700004276
+        ]
+    ]
+]

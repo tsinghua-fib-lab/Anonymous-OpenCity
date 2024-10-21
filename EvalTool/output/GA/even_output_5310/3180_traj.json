@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002275
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:22)",
+        [
+            "",
+            700002275
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 14:25)",
+        [
+            "Public School 196",
+            700000049
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 20:16)",
+        [
+            "Toyota Children's Learning Garden",
+            700000401
+        ]
+    ],
+    [
+        "Visit a local museum or art gallery.",
+        "(16:53, 18:28)",
+        [
+            "Citi Bike - East 12th Street & Avenue B",
+            700010613
+        ]
+    ],
+    [
+        "Stay at a place with amenities.",
+        "(19:20, 20:52)",
+        [
+            "",
+            700002280
+        ]
+    ],
+    [
+        "Stay at a place with amenities",
+        "(21:50, 23:02)",
+        [
+            "",
+            700002275
+        ]
+    ],
+    [
+        "Stay at current place with amenities.",
+        "(23:09, 23:59)",
+        [
+            "",
+            700002280
+        ]
+    ]
+]

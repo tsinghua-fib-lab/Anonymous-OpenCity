@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chelsea Grill",
+            700006375
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:46)",
+        [
+            "",
+            700002234
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:32, 17:16)",
+        [
+            "",
+            700001439
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(20:53, 22:02)",
+        [
+            "Lilly's",
+            700014819
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(22:27, 23:53)",
+        [
+            "Panda Express",
+            700010301
+        ]
+    ],
+    [
+        "Continue staying at Chelsea Grill",
+        "(23:47, 23:59)",
+        [
+            "Chelsea Grill",
+            700006375
+        ]
+    ]
+]

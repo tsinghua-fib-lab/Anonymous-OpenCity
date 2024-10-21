@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:58)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Explore a Hobby",
+        "(10:26, 12:05)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:36, 17:50)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(18:33, 19:54)",
+        [
+            "Jimmy's House",
+            700006213
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:33, 23:44)",
+        [
+            "La Vera Pizzeria",
+            700022216
+        ]
+    ]
+]

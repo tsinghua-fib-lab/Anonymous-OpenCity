@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike",
+            700008129
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 10:56)",
+        [
+            "Little Flower Playground",
+            700000416
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(11:50, 13:05)",
+        [
+            "Little Flower Playground",
+            700000416
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(13:28, 15:01)",
+        [
+            "Little Flower Playground",
+            700000416
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:11, 17:06)",
+        [
+            "Wallace S Whittaker Foundation Senior Center",
+            700018401
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(17:21, 19:08)",
+        [
+            "",
+            700021947
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 22:51)",
+        [
+            "",
+            700021929
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "",
+            700021949
+        ]
+    ]
+]

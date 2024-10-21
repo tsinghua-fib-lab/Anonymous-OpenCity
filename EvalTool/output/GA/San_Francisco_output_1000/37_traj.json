@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001227
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:02)",
+        [
+            "Better Than Sweet",
+            700008995
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(12:01, 13:05)",
+        [
+            "Better Than Sweet",
+            700008995
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(13:31, 14:56)",
+        [
+            "",
+            700001227
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(15:34, 18:10)",
+        [
+            "Better Than Sweet",
+            700008995
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 22:59)",
+        [
+            "",
+            700009563
+        ]
+    ],
+    [
+        "Stay at Ha Tea",
+        "(23:14, 23:59)",
+        [
+            "Ha Tea",
+            700003878
+        ]
+    ]
+]

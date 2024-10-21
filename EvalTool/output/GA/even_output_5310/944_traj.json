@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Northwell Health-GoHealth Urgent Care",
+            700013557
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:32)",
+        [
+            "QUATORZE bis",
+            700024258
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:35, 15:38)",
+        [
+            "AOC East",
+            700024257
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:42, 23:59)",
+        [
+            "Le Pain Quotidien",
+            700024261
+        ]
+    ]
+]

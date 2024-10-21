@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Marcello's Pizza",
+            700002181
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:21)",
+        [
+            "SoulCycle",
+            700004060
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:33, 12:08)",
+        [
+            "SoulCycle",
+            700004060
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(13:00, 14:27)",
+        [
+            "Pizzalicious",
+            700002182
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:20, 18:51)",
+        [
+            "Walgreens",
+            700013559
+        ]
+    ],
+    [
+        "Watch a Movie/TV Series",
+        "(18:58, 20:34)",
+        [
+            "Marcello's Pizza",
+            700002181
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 23:59)",
+        [
+            "Twin Peaks Tavern",
+            700002185
+        ]
+    ]
+]

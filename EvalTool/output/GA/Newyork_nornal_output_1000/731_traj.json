@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700011349
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:37)",
+        [
+            "Spiritist Group of New York",
+            700009166
+        ]
+    ],
+    [
+        "Creative Work",
+        "(13:56, 16:06)",
+        [
+            "",
+            700007284
+        ]
+    ],
+    [
+        "Continue your creative work at Spiritist Group of New York.",
+        "(17:00, 18:21)",
+        [
+            "Spiritist Group of New York",
+            700009166
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:13, 20:08)",
+        [
+            "Spiritist Group of New York",
+            700009166
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:35, 22:33)",
+        [
+            "",
+            700002610
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "Spiritist Group of New York",
+            700009166
+        ]
+    ]
+]

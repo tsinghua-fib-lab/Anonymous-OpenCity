@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Hazel's Kitchen",
+            700004951
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(10:00, 11:07)",
+        [
+            "Le Marché Cezanne",
+            700005782
+        ]
+    ],
+    [
+        "Morning Walk or Exercise",
+        "(11:51, 13:52)",
+        [
+            "Le Marché Cezanne",
+            700005782
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(13:50, 15:11)",
+        [
+            "Le Marché Cezanne",
+            700005782
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:51, 17:41)",
+        [
+            "",
+            700008007
+        ]
+    ],
+    [
+        "Watching Sports or TV",
+        "(19:28, 21:02)",
+        [
+            "Le Marché Cezanne",
+            700005782
+        ]
+    ],
+    [
+        "Watching Sports or TV",
+        "(21:29, 23:19)",
+        [
+            "Le Marché Cezanne",
+            700005782
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "Provender",
+            700005783
+        ]
+    ]
+]

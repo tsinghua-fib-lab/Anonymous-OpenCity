@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Haight Ashbury Express Photo & Mail",
+            700004737
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:02)",
+        [
+            "Central Haight Café",
+            700004709
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Project",
+        "(13:11, 15:15)",
+        [
+            "Central Haight Café",
+            700004709
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Project",
+        "(15:39, 17:02)",
+        [
+            "Central Haight Café",
+            700004709
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:32, 20:06)",
+        [
+            "Amal's Deli",
+            700005027
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:32, 23:59)",
+        [
+            "Sandy's",
+            700007209
+        ]
+    ],
+    [
+        "Go to Central Haight Café",
+        "(22:54, 23:59)",
+        [
+            "Central Haight Café",
+            700004709
+        ]
+    ]
+]

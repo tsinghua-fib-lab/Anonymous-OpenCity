@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Yum Yum Hunan",
+            700005281
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:01)",
+        [
+            "Yum Yum Hunan",
+            700005281
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:10, 14:04)",
+        [
+            "Yum Yum Hunan",
+            700005281
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 20:33)",
+        [
+            "",
+            700000782
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:48, 18:50)",
+        [
+            "Yum Yum Hunan",
+            700005281
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(19:25, 21:09)",
+        [
+            "Presidio Pizza Company",
+            700007980
+        ]
+    ],
+    [
+        "Relaxation and TV Watching",
+        "(21:54, 22:52)",
+        [
+            "b on the go",
+            700010094
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:05, 23:59)",
+        [
+            "Urgent Care",
+            700003668
+        ]
+    ]
+]

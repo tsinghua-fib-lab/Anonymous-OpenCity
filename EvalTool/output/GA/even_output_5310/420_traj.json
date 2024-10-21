@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "As is NYC",
+            700009726
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:05)",
+        [
+            "",
+            700001117
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:52, 13:58)",
+        [
+            "As is NYC",
+            700009726
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 20:01)",
+        [
+            "Desi Deli",
+            700039028
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:45, 23:59)",
+        [
+            "On The Rocks",
+            700020223
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:36, 23:59)",
+        [
+            "Desi Deli",
+            700039028
+        ]
+    ]
+]

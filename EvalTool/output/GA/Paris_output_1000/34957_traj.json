@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700001935
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:08)",
+        [
+            "Champs-Élysées",
+            700003355
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:50, 13:13)",
+        [
+            "",
+            700012033
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(16:16, 18:23)",
+        [
+            "Champs-Élysées",
+            700003355
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:30, 20:24)",
+        [
+            "Bureau de change",
+            700030803
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(23:18, 23:59)",
+        [
+            "Champs-Élysées",
+            700003355
+        ]
+    ]
+]

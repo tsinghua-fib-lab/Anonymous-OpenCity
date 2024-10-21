@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sun Kwong Restaurant",
+            700005184
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:36)",
+        [
+            "First Chinese Southern Baptist Church",
+            700000286
+        ]
+    ],
+    [
+        "Relaxation/Reading",
+        "(16:36, 18:01)",
+        [
+            "Sun Kwong Restaurant",
+            700005184
+        ]
+    ],
+    [
+        "Watch TV/Movies",
+        "(19:00, 20:59)",
+        [
+            "Sun Kwong Restaurant",
+            700005184
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:06, 23:59)",
+        [
+            "",
+            700009933
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:36, 23:59)",
+        [
+            "",
+            700000532
+        ]
+    ]
+]

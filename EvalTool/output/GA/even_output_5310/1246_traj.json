@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001155
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:20)",
+        [
+            "",
+            700001155
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:42, 16:40)",
+        [
+            "",
+            700025904
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(13:00, 14:12)",
+        [
+            "In Common NYC Cafe",
+            700030302
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:29, 18:14)",
+        [
+            "Skylight Diner",
+            700003747
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(17:15, 18:42)",
+        [
+            "",
+            700001155
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:04, 20:32)",
+        [
+            "Golden City",
+            700003749
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:40, 22:17)",
+        [
+            "Patiala Indian Grill",
+            700008702
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(23:03, 23:59)",
+        [
+            "Twins",
+            700003751
+        ]
+    ]
+]

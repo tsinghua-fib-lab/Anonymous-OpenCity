@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Quality Eats",
+            700018026
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby",
+        "(10:00, 11:57)",
+        [
+            "Quality Eats",
+            700018026
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby",
+        "(12:12, 13:53)",
+        [
+            "Quality Eats",
+            700018026
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 18:46)",
+        [
+            "",
+            700007678
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:11, 17:24)",
+        [
+            "Citi Bike - Greenwich Avenue & Charles Street",
+            700008090
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:32, 23:59)",
+        [
+            "Jack's Stir Brew Coffee",
+            700031418
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:19, 23:59)",
+        [
+            "4 Charles Prime Rib",
+            700014554
+        ]
+    ],
+    [
+        "Stay at Quality Eats",
+        "(23:57, 23:59)",
+        [
+            "4 Charles Prime Rib",
+            700014554
+        ]
+    ]
+]

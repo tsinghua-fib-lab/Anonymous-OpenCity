@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000028
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(10:00, 11:54)",
+        [
+            "",
+            700000028
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:35, 14:23)",
+        [
+            "Next Level Burger",
+            700011024
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 17:21)",
+        [
+            "Next Level Burger",
+            700011024
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:13, 23:10)",
+        [
+            "",
+            700013180
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "San Francisco Center for the Book (SFCB)",
+            700006917
+        ]
+    ]
+]

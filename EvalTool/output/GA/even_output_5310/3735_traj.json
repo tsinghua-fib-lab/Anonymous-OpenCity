@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tompkins Square Post Office",
+            700027196
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:05)",
+        [
+            "",
+            700002013
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series.",
+        "(15:28, 18:18)",
+        [
+            "",
+            700001034
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(16:54, 19:06)",
+        [
+            "Tompkins Square Post Office",
+            700027196
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(19:23, 20:55)",
+        [
+            "Tompkins Square Post Office",
+            700027196
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:49, 23:48)",
+        [
+            "",
+            700027197
+        ]
+    ]
+]

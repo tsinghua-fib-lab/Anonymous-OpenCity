@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "White Oak Tavern",
+            700008893
+        ]
+    ],
+    [
+        "Go for a walk in the park",
+        "(09:00, 09:54)",
+        [
+            "White Oak Tavern",
+            700008893
+        ]
+    ],
+    [
+        "Stay at White Oak Tavern",
+        "(10:58, 12:24)",
+        [
+            "Ramen Takumi",
+            700018067
+        ]
+    ],
+    [
+        "Stay in the current cafe for a while longer.",
+        "(12:47, 13:54)",
+        [
+            "White Oak Tavern",
+            700008893
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(14:20, 16:50)",
+        [
+            "Ramen Takumi",
+            700018067
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:51, 18:53)",
+        [
+            "Bowllin'",
+            700018069
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:17, 23:59)",
+        [
+            "White Oak Tavern",
+            700008893
+        ]
+    ],
+    [
+        "Stay at White Oak Tavern.",
+        "(22:00, 23:24)",
+        [
+            "White Oak Tavern",
+            700008893
+        ]
+    ],
+    [
+        "Stay at White Oak Tavern.",
+        "(23:36, 23:59)",
+        [
+            "Ramen Takumi",
+            700018067
+        ]
+    ]
+]

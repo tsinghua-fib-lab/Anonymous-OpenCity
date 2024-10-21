@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "John's Pizza",
+            700010181
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(10:00, 11:05)",
+        [
+            "Sugar Factory",
+            700015708
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:21, 16:35)",
+        [
+            "A Slice of New York",
+            700017405
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:50, 19:25)",
+        [
+            "All'Antico Vinaio",
+            700024528
+        ]
+    ],
+    [
+        "Dinner Preparation & Eating",
+        "(17:59, 18:55)",
+        [
+            "All'Antico Vinaio",
+            700024528
+        ]
+    ],
+    [
+        "Wind Down with Family/Friends or Reading",
+        "(19:42, 21:32)",
+        [
+            "Daniela Trattoria",
+            700006541
+        ]
+    ],
+    [
+        "Wind Down with Family/Friends or Reading",
+        "(22:10, 23:59)",
+        [
+            "",
+            700002860
+        ]
+    ]
+]

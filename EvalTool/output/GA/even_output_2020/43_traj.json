@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "San Sun",
+            700005143
+        ]
+    ],
+    [
+        "Wake Up and Relax",
+        "(10:00, 12:03)",
+        [
+            "Magical Ice Cream",
+            700008818
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:14, 14:12)",
+        [
+            "EastWest Unibank",
+            700004224
+        ]
+    ],
+    [
+        "Visit a Cultural Venue",
+        "(14:27, 17:08)",
+        [
+            "",
+            700000978
+        ]
+    ],
+    [
+        "5:00 PM - 6:00 PM Grocery Shopping",
+        "(17:10, 18:12)",
+        [
+            "Citibank",
+            700001070
+        ]
+    ],
+    [
+        "5:00 PM - 6:00 PM Grocery Shopping",
+        "(18:22, 19:37)",
+        [
+            "Grant Place",
+            700004225
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:52, 20:55)",
+        [
+            "Grant Place",
+            700004225
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(21:43, 23:21)",
+        [
+            "Grant Place",
+            700004225
+        ]
+    ],
+    [
+        "Stay at Grant Place",
+        "(23:36, 23:59)",
+        [
+            "Grant Place",
+            700004225
+        ]
+    ]
+]

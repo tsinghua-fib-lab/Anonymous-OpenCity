@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of America",
+            700017485
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:54)",
+        [
+            "",
+            700002583
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(15:40, 17:01)",
+        [
+            "Bank of America",
+            700017485
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(17:08, 17:50)",
+        [
+            "Bank of America",
+            700017485
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 22:27)",
+        [
+            "Blue Mountain",
+            700011141
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(20:06, 21:26)",
+        [
+            "",
+            700002450
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:06, 23:56)",
+        [
+            "Maguro Sushi",
+            700006238
+        ]
+    ]
+]

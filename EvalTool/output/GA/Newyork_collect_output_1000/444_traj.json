@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:27)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Reading or Learning Time",
+        "(11:17, 13:04)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 19:08)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:18, 20:58)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(20:58, 22:52)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "",
+            700000911
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bay Wheels",
+            700010614
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:13)",
+        [
+            "",
+            700000041
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:57, 14:57)",
+        [
+            "Next Level Burger",
+            700011024
+        ]
+    ],
+    [
+        "Watch a movie or binge a series on streaming platforms",
+        "(16:30, 18:29)",
+        [
+            "Bay Wheels",
+            700010614
+        ]
+    ],
+    [
+        "Prepare a simple dinner and enjoy it around 6:00 PM.",
+        "(18:23, 19:49)",
+        [
+            "Two Sons Sandwiches",
+            700004800
+        ]
+    ],
+    [
+        "Going for a late-night snack",
+        "(20:31, 21:23)",
+        [
+            "Two Sons Sandwiches",
+            700004800
+        ]
+    ],
+    [
+        "Stay at Two Sons Sandwiches for a late-night snack",
+        "(22:19, 23:39)",
+        [
+            "Two Sons Sandwiches",
+            700004800
+        ]
+    ],
+    [
+        "Enjoy the atmosphere at Simply SF",
+        "(23:56, 23:59)",
+        [
+            "Verdi Club",
+            700000053
+        ]
+    ]
+]

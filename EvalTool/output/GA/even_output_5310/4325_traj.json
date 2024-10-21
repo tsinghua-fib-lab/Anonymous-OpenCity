@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Burgers on B",
+            700029810
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:33)",
+        [
+            "",
+            700001653
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:36, 16:41)",
+        [
+            "",
+            700001653
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(19:31, 21:50)",
+        [
+            "Hekate Café & Elixir Lounge",
+            700028537
+        ]
+    ],
+    [
+        "Relax & Wind Down",
+        "(22:49, 23:59)",
+        [
+            "Hekate Café & Elixir Lounge",
+            700028537
+        ]
+    ]
+]

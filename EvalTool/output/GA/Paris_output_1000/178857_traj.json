@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Salle de Combat",
+            700015295
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:05)",
+        [
+            "",
+            700055767
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:32, 19:03)",
+        [
+            "",
+            700027122
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 22:03)",
+        [
+            "",
+            700023623
+        ]
+    ],
+    [
+        "Go to Le Bistrot de la Tour for a lovely dinner.",
+        "(20:54, 21:52)",
+        [
+            "Le Bistrot de la Tour",
+            700015718
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(22:08, 23:10)",
+        [
+            "Le Bistrot de la Tour",
+            700015718
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:26, 23:59)",
+        [
+            "",
+            700023623
+        ]
+    ]
+]

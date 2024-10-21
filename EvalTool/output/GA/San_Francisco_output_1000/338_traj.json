@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sweet Lime",
+            700005961
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:32)",
+        [
+            "Umai Savory Hot Dogs",
+            700008770
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(12:16, 13:36)",
+        [
+            "Umai Savory Hot Dogs",
+            700008770
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:30, 16:55)",
+        [
+            "The Food Emporium",
+            700004897
+        ]
+    ],
+    [
+        "Go for grocery shopping or run errands for the week ahead.",
+        "(17:11, 19:03)",
+        [
+            "The Food Emporium",
+            700004897
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:25, 23:59)",
+        [
+            "Blondie's Pizza",
+            700008771
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003104
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:12)",
+        [
+            "Bosie",
+            700011963
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:40, 17:30)",
+        [
+            "The Folly",
+            700011967
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:46, 15:28)",
+        [
+            "Arturo's Coal Oven Pizza",
+            700009150
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:38, 19:53)",
+        [
+            "Molcajete Taqueria",
+            700011965
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:20, 21:52)",
+        [
+            "The Folly",
+            700011967
+        ]
+    ]
+]

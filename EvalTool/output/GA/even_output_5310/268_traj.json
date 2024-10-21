@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rudy's Bar & Grill",
+            700010214
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:21)",
+        [
+            "Frisson Espresso 44",
+            700025938
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:31, 13:52)",
+        [
+            "Frisson Espresso 44",
+            700025938
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 15:23)",
+        [
+            "Turkish Cuisine",
+            700014813
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:40, 22:42)",
+        [
+            "Marseille",
+            700004137
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(23:56, 23:59)",
+        [
+            "Westway Diner",
+            700004138
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Stern College Yeshiva University",
+            700000082
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:36)",
+        [
+            "Dunkin' Donuts/Baskin Robbins",
+            700015289
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(13:09, 15:17)",
+        [
+            "",
+            700035332
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:54, 17:45)",
+        [
+            "",
+            700001834
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 22:08)",
+        [
+            "",
+            700035333
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:01, 23:59)",
+        [
+            "",
+            700022525
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Manhattan Movement & Arts Center",
+            700015975
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:47)",
+        [
+            "",
+            700019075
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:32, 14:53)",
+        [
+            "Morty's Wine & Beer Bar",
+            700018335
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:41, 17:11)",
+        [
+            "",
+            700015974
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:58, 23:12)",
+        [
+            "Food truck by John Jay",
+            700018205
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:25, 23:04)",
+        [
+            "Empellón Tacqueria",
+            700040108
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "",
+            700018094
+        ]
+    ]
+]

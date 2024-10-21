@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Our New Place",
+            700024817
+        ]
+    ],
+    [
+        "Wake Up and Leisure Breakfast",
+        "(10:00, 10:52)",
+        [
+            "Our New Place",
+            700024817
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 14:43)",
+        [
+            "",
+            700002350
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(15:32, 17:02)",
+        [
+            "Citi Bike",
+            700020600
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 22:59)",
+        [
+            "Uva",
+            700023408
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "",
+            700020599
+        ]
+    ]
+]

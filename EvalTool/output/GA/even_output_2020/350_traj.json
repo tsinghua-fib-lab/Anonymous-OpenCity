@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001936
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(10:00, 11:22)",
+        [
+            "Zazang Korean Noodles",
+            700007979
+        ]
+    ],
+    [
+        "Relax at Zazang Korean Noodles",
+        "(12:02, 13:37)",
+        [
+            "Zazang Korean Noodles",
+            700007979
+        ]
+    ],
+    [
+        "Visit a museum or art gallery",
+        "(14:25, 15:51)",
+        [
+            "",
+            700010750
+        ]
+    ],
+    [
+        "Relax at Zazang Korean Noodles",
+        "(16:10, 18:08)",
+        [
+            "",
+            700007503
+        ]
+    ],
+    [
+        "Attend a sports event or match",
+        "(19:01, 20:12)",
+        [
+            "",
+            700001936
+        ]
+    ],
+    [
+        "Relax at Zazang Korean Noodles",
+        "(21:02, 22:23)",
+        [
+            "Zazang Korean Noodles",
+            700007979
+        ]
+    ],
+    [
+        "Relax at Zazang Korean Noodles",
+        "(22:34, 23:59)",
+        [
+            "Zazang Korean Noodles",
+            700007979
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006198
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:19)",
+        [
+            "",
+            700006198
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(15:16, 17:09)",
+        [
+            "Chill Space",
+            700026651
+        ]
+    ],
+    [
+        "Watch Sports/Movies",
+        "(17:31, 19:06)",
+        [
+            "Chill Space",
+            700026651
+        ]
+    ],
+    [
+        "Watch Sports/Movies",
+        "(19:47, 21:40)",
+        [
+            "Chill Space",
+            700026651
+        ]
+    ],
+    [
+        "Go to Chill Space",
+        "(22:22, 23:47)",
+        [
+            "Chill Space",
+            700026651
+        ]
+    ],
+    [
+        "Stay at Chill Space",
+        "(23:50, 23:59)",
+        [
+            "Chill Space",
+            700026651
+        ]
+    ]
+]

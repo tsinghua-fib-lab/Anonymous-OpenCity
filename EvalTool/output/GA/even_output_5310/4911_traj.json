@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700037251
+        ]
+    ],
+    [
+        "11:00 AM – Morning Exercise",
+        "(10:00, 11:40)",
+        [
+            "",
+            700037251
+        ]
+    ],
+    [
+        "Continue to Leisure Activity or Shopping",
+        "(12:11, 13:50)",
+        [
+            "",
+            700037238
+        ]
+    ],
+    [
+        "Leisure Activity or Shopping",
+        "(14:21, 16:27)",
+        [
+            "",
+            700037242
+        ]
+    ],
+    [
+        "Continue to Leisure Activity or Shopping",
+        "(17:03, 18:26)",
+        [
+            "",
+            700037240
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:21, 22:33)",
+        [
+            "",
+            700037247
+        ]
+    ],
+    [
+        "Stay for leisure activities",
+        "(23:24, 23:59)",
+        [
+            "",
+            700037248
+        ]
+    ]
+]

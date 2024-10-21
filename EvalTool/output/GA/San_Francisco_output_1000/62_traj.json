@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Neighbor's Corner",
+            700005955
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:35)",
+        [
+            "Dash",
+            700001749
+        ]
+    ],
+    [
+        "Lunch Preparation and Eating",
+        "(12:03, 13:00)",
+        [
+            "Dash",
+            700001749
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 14:12)",
+        [
+            "Subs, Inc.",
+            700001748
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:39, 23:59)",
+        [
+            "Barney's Gourmet Hamburgers",
+            700001752
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:31, 23:59)",
+        [
+            "Folk",
+            700006199
+        ]
+    ]
+]

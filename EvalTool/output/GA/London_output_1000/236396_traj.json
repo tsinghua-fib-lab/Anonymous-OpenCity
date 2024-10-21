@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:32)",
+        [
+            "",
+            700008537
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Development",
+        "(15:55, 17:50)",
+        [
+            "Bean about Town",
+            700031110
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:14, 22:58)",
+        [
+            "Enoteca da Luca",
+            700019572
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Development",
+        "(23:15, 23:59)",
+        [
+            "Enoteca da Luca",
+            700019572
+        ]
+    ]
+]

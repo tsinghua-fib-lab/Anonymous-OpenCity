@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010135
+        ]
+    ],
+    [
+        "Wake up and have breakfast",
+        "(10:00, 11:22)",
+        [
+            "El Castillito Taqueria",
+            700001265
+        ]
+    ],
+    [
+        "Relax at El Castillito Taqueria",
+        "(12:02, 13:40)",
+        [
+            "El Castillito Taqueria",
+            700001265
+        ]
+    ],
+    [
+        "Relax at El Castillito Taqueria",
+        "(14:25, 16:08)",
+        [
+            "",
+            700010134
+        ]
+    ],
+    [
+        "Relax at El Castillito Taqueria",
+        "(16:10, 18:14)",
+        [
+            "Maitri-Compassionate Care",
+            700001269
+        ]
+    ],
+    [
+        "Attend a sports event or match",
+        "(19:01, 20:17)",
+        [
+            "Wells Fargo",
+            700000855
+        ]
+    ],
+    [
+        "Relax at Nakama Sushi",
+        "(21:02, 22:40)",
+        [
+            "",
+            700010135
+        ]
+    ],
+    [
+        "Relax at Nakama Sushi",
+        "(22:34, 23:59)",
+        [
+            "Beit Rima",
+            700001264
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Valhalla",
+            700008680
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:59)",
+        [
+            "Citi Bike - West 54th Street & 9th Avenue",
+            700008234
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:32, 15:12)",
+        [
+            "Citi Bike - West 54th Street & 9th Avenue",
+            700008234
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:41, 17:13)",
+        [
+            "Citi Bike - West 54th Street & 9th Avenue",
+            700008234
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:58, 23:12)",
+        [
+            "Sacco Pizza",
+            700024593
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:25, 22:56)",
+        [
+            "Tacuba Cantina Mexicana",
+            700022445
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Mee Noodle Shop",
+            700006264
+        ]
+    ]
+]

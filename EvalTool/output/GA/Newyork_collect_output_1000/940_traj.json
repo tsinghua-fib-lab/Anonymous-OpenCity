@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "You will stay at iPark until 10:00 AM and then go for a walk.",
+        "(09:00, 10:21)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "Go for a walk or jog in a nearby park",
+        "(10:26, 11:57)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 17:51)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:42, 20:59)",
+        [
+            "",
+            700018138
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill",
+        "(21:51, 22:57)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ]
+]

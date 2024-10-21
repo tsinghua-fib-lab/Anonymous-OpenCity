@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cafe Nook",
+            700001590
+        ]
+    ],
+    [
+        "Go for a walk in the local park.",
+        "(10:00, 10:55)",
+        [
+            "",
+            700009935
+        ]
+    ],
+    [
+        "Stay at Tai Chi Restaurant",
+        "(10:56, 12:10)",
+        [
+            "",
+            700009932
+        ]
+    ],
+    [
+        "Reading or catching up on a favorite book.",
+        "(12:00, 13:37)",
+        [
+            "Cafe Nook",
+            700001590
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 15:19)",
+        [
+            "Restorante Milano",
+            700005181
+        ]
+    ],
+    [
+        "Engage in a sport or leisure activity from 3:30 pm to 5:00 pm.",
+        "(17:05, 18:55)",
+        [
+            "Cafe Réveille",
+            700003283
+        ]
+    ],
+    [
+        "Stay at Cafe Réveille for reading.",
+        "(19:08, 21:07)",
+        [
+            "Cafe Réveille",
+            700003283
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:35, 23:59)",
+        [
+            "Cafe Réveille",
+            700003283
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Fueling Station",
+            700002064
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:05)",
+        [
+            "Woods Polk Station",
+            700003160
+        ]
+    ],
+    [
+        "Continue Outdoor Activity",
+        "(12:14, 14:10)",
+        [
+            "Woods Polk Station",
+            700003160
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(14:48, 15:50)",
+        [
+            "Woods Polk Station",
+            700003160
+        ]
+    ],
+    [
+        "Continue Leisure Reading or Hobbies",
+        "(16:10, 17:58)",
+        [
+            "Woods Polk Station",
+            700003160
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:48, 20:01)",
+        [
+            "Aux Delices Vietnamese Restaurant",
+            700002087
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:15, 21:15)",
+        [
+            "Woods Polk Station",
+            700003160
+        ]
+    ],
+    [
+        "Next arrangement considering your plan",
+        "(23:33, 23:59)",
+        [
+            "House Rules",
+            700004279
+        ]
+    ]
+]

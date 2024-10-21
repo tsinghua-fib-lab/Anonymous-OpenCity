@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005005
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:27)",
+        [
+            "Mo's Grill",
+            700000463
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:35, 12:43)",
+        [
+            "",
+            700005000
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:32, 18:54)",
+        [
+            "Dupont Thai",
+            700000120
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:29, 23:59)",
+        [
+            "",
+            700005005
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(23:04, 23:59)",
+        [
+            "Il Casaro Pizzeria",
+            700005472
+        ]
+    ]
+]

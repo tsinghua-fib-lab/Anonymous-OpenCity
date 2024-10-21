@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Elsewhere Espresso",
+            700040215
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:25)",
+        [
+            "Elsewhere Espresso",
+            700040215
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:19, 12:55)",
+        [
+            "Elsewhere Espresso",
+            700040215
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:06, 15:38)",
+        [
+            "Souen",
+            700040213
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:10, 18:44)",
+        [
+            "Bread and Stone",
+            700041292
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:19, 17:50)",
+        [
+            "Curry Flavor",
+            700040212
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(18:16, 19:51)",
+        [
+            "Curry Flavor",
+            700040212
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:07, 23:59)",
+        [
+            "",
+            700001059
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "Nai",
+            700033759
+        ]
+    ]
+]

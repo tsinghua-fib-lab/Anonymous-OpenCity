@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Phoenix Garden",
+            700007839
+        ]
+    ],
+    [
+        "Stay at: Your Home.",
+        "(09:00, 09:50)",
+        [
+            "Phoenix Garden",
+            700007839
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:47, 14:23)",
+        [
+            "Duane Reade",
+            700007837
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 17:41)",
+        [
+            "",
+            700011840
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:36, 20:10)",
+        [
+            "Phoenix Garden",
+            700007839
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:47, 23:59)",
+        [
+            "Sushi Ryusei",
+            700015028
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:11, 23:59)",
+        [
+            "Wagamama",
+            700016931
+        ]
+    ]
+]

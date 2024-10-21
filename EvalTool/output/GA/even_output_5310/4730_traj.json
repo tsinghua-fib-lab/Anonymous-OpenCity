@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Square Pizza",
+            700021521
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:48)",
+        [
+            "Thailicious",
+            700021522
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:08, 16:49)",
+        [
+            "Black Cat LES",
+            700011043
+        ]
+    ],
+    [
+        "Watch a movie and enjoy some snacks before settling in for the night.",
+        "(21:27, 23:05)",
+        [
+            "Black Cat LES",
+            700011043
+        ]
+    ],
+    [
+        "Go to sleep.",
+        "(23:55, 23:59)",
+        [
+            "Square Pizza",
+            700021521
+        ]
+    ]
+]

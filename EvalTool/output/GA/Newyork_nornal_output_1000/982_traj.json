@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:06)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:50, 18:24)",
+        [
+            "",
+            700001885
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:13, 19:02)",
+        [
+            "Cafeta Social Club Italian Restaurant",
+            700017537
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:33, 20:50)",
+        [
+            "The Market NYC",
+            700010792
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(21:41, 22:57)",
+        [
+            "Cafeta Social Club Italian Restaurant",
+            700017537
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(22:53, 23:59)",
+        [
+            "Cafeta Social Club Italian Restaurant",
+            700017537
+        ]
+    ]
+]

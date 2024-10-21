@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pennylane Coffee",
+            700006421
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:46)",
+        [
+            "Iron Sushi",
+            700034219
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(15:59, 17:00)",
+        [
+            "Iron Sushi",
+            700034219
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(17:29, 18:54)",
+        [
+            "",
+            700002728
+        ]
+    ],
+    [
+        "Socializing with Friends/Family",
+        "(19:26, 20:47)",
+        [
+            "",
+            700000635
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(22:02, 23:35)",
+        [
+            "Iron Sushi",
+            700034219
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(23:33, 23:59)",
+        [
+            "Iron Sushi",
+            700034219
+        ]
+    ]
+]

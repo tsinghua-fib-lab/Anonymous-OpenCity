@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Grand Delancey",
+            700017869
+        ]
+    ],
+    [
+        "Current Place: The Grand Delancey. Stay until 11:45 AM.",
+        "(10:00, 10:54)",
+        [
+            "Shopsin's",
+            700022928
+        ]
+    ],
+    [
+        "Current Place: The Grand Delancey. Stay until 11:45 AM.",
+        "(11:09, 12:16)",
+        [
+            "Lower East Side Ice Cream Factory",
+            700022926
+        ]
+    ],
+    [
+        "Current Place: The Grand Delancey. Stay until 2:00 PM.",
+        "(13:05, 14:55)",
+        [
+            "The Market Line",
+            700022904
+        ]
+    ],
+    [
+        "Stay at The Grand Delancey",
+        "(15:49, 17:21)",
+        [
+            "The Market Line",
+            700022904
+        ]
+    ],
+    [
+        "Stay at The Grand Delancey.",
+        "(17:28, 18:32)",
+        [
+            "Dhamaka",
+            700022930
+        ]
+    ],
+    [
+        "Stay at The Grand Delancey",
+        "(18:54, 20:25)",
+        [
+            "Dhamaka",
+            700022930
+        ]
+    ],
+    [
+        "Stay at The Grand Delancey.",
+        "(21:08, 22:09)",
+        [
+            "Dhamaka",
+            700022930
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "Shopsin's",
+            700022928
+        ]
+    ]
+]

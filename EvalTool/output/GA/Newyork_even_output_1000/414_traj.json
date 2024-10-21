@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bar Centrale",
+            700015887
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:45)",
+        [
+            "Sushi of Gari",
+            700008809
+        ]
+    ],
+    [
+        "Leisure Activities (TV/Movies)",
+        "(13:04, 14:30)",
+        [
+            "Becco",
+            700010169
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 18:48)",
+        [
+            "Ritz Bar Lounge",
+            700011717
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 23:23)",
+        [
+            "Lilly's",
+            700014819
+        ]
+    ],
+    [
+        "Next activity based on previous plan",
+        "(20:13, 21:45)",
+        [
+            "Mari",
+            700014816
+        ]
+    ],
+    [
+        "Go to Bravo for dinner.",
+        "(21:58, 23:23)",
+        [
+            "Galaxy Diner",
+            700007734
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:50, 23:59)",
+        [
+            "",
+            700002144
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chef Tan",
+            700025608
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:09)",
+        [
+            "Mamoun's Falafel",
+            700023633
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:35, 15:41)",
+        [
+            "Taqueria Diana",
+            700008976
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:40, 21:40)",
+        [
+            "Kimura",
+            700039912
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:53, 22:58)",
+        [
+            "Mango Mango Dessert",
+            700014428
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 22:27)",
+        [
+            "Boka",
+            700023164
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "T-Swirl Crepe",
+            700029403
+        ]
+    ]
+]

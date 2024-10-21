@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001427
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(09:00, 10:35)",
+        [
+            "Boba Guys",
+            700010745
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:14, 14:16)",
+        [
+            "",
+            700001434
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(17:00, 17:53)",
+        [
+            "",
+            700001427
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(18:59, 20:09)",
+        [
+            "Boba Guys",
+            700010745
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:35, 23:04)",
+        [
+            "Saffron Grill",
+            700001900
+        ]
+    ]
+]

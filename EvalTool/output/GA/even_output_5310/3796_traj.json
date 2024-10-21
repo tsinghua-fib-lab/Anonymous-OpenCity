@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 39th Street & 3rd Avenue",
+            700007835
+        ]
+    ],
+    [
+        "Go for a walk or light jog in the park",
+        "(10:00, 10:51)",
+        [
+            "Orangetheory Fitness",
+            700006455
+        ]
+    ],
+    [
+        "Go for a walk or light jog in the park",
+        "(11:34, 13:09)",
+        [
+            "Orangetheory Fitness",
+            700006455
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch.",
+        "(12:39, 14:19)",
+        [
+            "Orangetheory Fitness",
+            700006455
+        ]
+    ],
+    [
+        "Prepare for and engage in a fun hobby or DIY project.",
+        "(14:18, 16:19)",
+        [
+            "Orangetheory Fitness",
+            700006455
+        ]
+    ],
+    [
+        "Go to Orangetheory Fitness",
+        "(15:44, 17:21)",
+        [
+            "Orangetheory Fitness",
+            700006455
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:52, 22:44)",
+        [
+            "City Beer",
+            700033969
+        ]
+    ],
+    [
+        "Go to City Beer.",
+        "(19:33, 21:30)",
+        [
+            "City Beer",
+            700033969
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:32, 23:59)",
+        [
+            "The Black Sheep",
+            700007840
+        ]
+    ],
+    [
+        "Stay at City Beer",
+        "(23:53, 23:59)",
+        [
+            "City Beer",
+            700033969
+        ]
+    ]
+]

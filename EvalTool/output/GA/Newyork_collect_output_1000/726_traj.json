@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:19)",
+        [
+            "",
+            700022520
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:05, 16:10)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Catch Up on Movies/TV Series",
+        "(16:26, 17:54)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 21:03)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Catch Up on Movies/TV Series",
+        "(21:26, 23:59)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ]
+]

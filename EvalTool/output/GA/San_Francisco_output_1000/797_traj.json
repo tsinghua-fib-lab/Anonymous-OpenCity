@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002898
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:54)",
+        [
+            "",
+            700002898
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:58, 18:51)",
+        [
+            "The Fillmore Street Cafe",
+            700002343
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:19, 16:26)",
+        [
+            "The Fillmore Street Cafe",
+            700002343
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:02, 18:54)",
+        [
+            "The Fillmore Street Cafe",
+            700002343
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:29, 19:55)",
+        [
+            "",
+            700006126
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:51, 22:40)",
+        [
+            "Fillmore Billiards",
+            700006057
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:01, 23:59)",
+        [
+            "",
+            700005622
+        ]
+    ]
+]

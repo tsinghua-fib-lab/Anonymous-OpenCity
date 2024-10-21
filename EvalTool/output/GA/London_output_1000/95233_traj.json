@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:03)",
+        [
+            "Little Egypt Lounge",
+            700050005
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:35, 13:59)",
+        [
+            "Little Egypt Lounge",
+            700050005
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 17:35)",
+        [
+            "Canberra Dental Practice",
+            700050019
+        ]
+    ],
+    [
+        "Personal Projects/Errands",
+        "(16:01, 17:53)",
+        [
+            "Canberra Dental Practice",
+            700050019
+        ]
+    ],
+    [
+        "Family Time",
+        "(18:41, 20:03)",
+        [
+            "Canberra Dental Practice",
+            700050019
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:54, 23:59)",
+        [
+            "",
+            700066075
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Shanghai Villa",
+            700014729
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:59)",
+        [
+            "D'albano",
+            700022521
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:44, 14:03)",
+        [
+            "ChargePoint",
+            700012436
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:07, 15:52)",
+        [
+            "ChargePoint",
+            700012436
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(16:06, 17:57)",
+        [
+            "ChargePoint",
+            700012436
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:05, 19:52)",
+        [
+            "ChargePoint",
+            700012436
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(20:36, 22:12)",
+        [
+            "ChargePoint",
+            700012436
+        ]
+    ],
+    [
+        "Arrange to leave the current place and go to ChargePoint to charge the device.",
+        "(23:06, 23:59)",
+        [
+            "ChargePoint",
+            700012436
+        ]
+    ]
+]

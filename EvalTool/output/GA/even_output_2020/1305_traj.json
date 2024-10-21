@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003756
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 11:02)",
+        [
+            "Salt & Straw",
+            700008621
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:32, 13:09)",
+        [
+            "",
+            700002889
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:15, 15:12)",
+        [
+            "",
+            700002892
+        ]
+    ],
+    [
+        "Prepare for the Week",
+        "(17:57, 19:17)",
+        [
+            "Petit Crenn",
+            700001058
+        ]
+    ],
+    [
+        "Relaxation/Leisure Reading",
+        "(19:37, 21:58)",
+        [
+            "",
+            700003756
+        ]
+    ],
+    [
+        "Prepare for the Week",
+        "(22:12, 23:28)",
+        [
+            "Suppenküche",
+            700000849
+        ]
+    ],
+    [
+        "Relaxation/Leisure Reading",
+        "(23:34, 23:59)",
+        [
+            "Suppenküche",
+            700000849
+        ]
+    ]
+]

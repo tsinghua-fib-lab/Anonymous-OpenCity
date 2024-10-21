@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "Go for a refreshing morning walk or jog in the nearby park.",
+        "(09:00, 10:40)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:30, 11:42)",
+        [
+            "Devonshire Square",
+            700020319
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:20, 18:11)",
+        [
+            "Planet Organic",
+            700021489
+        ]
+    ],
+    [
+        "Go to Halwo Ubah for a late-night snack.",
+        "(20:40, 21:52)",
+        [
+            "Bean About Town",
+            700038039
+        ]
+    ],
+    [
+        "Stay at K's apartment for the night.",
+        "(22:57, 23:56)",
+        [
+            "Starbucks",
+            700025949
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "Fuzzy's Grub",
+            700020613
+        ]
+    ]
+]

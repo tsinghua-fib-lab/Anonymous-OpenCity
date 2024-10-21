@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Peculier Pub",
+            700011958
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:32)",
+        [
+            "Le Poisson Rouge",
+            700004933
+        ]
+    ],
+    [
+        "Movie/TV Time",
+        "(14:13, 16:06)",
+        [
+            "Wicked Willy's",
+            700008491
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:04, 20:26)",
+        [
+            "Ja Moy Kitchen & Bar",
+            700029918
+        ]
+    ],
+    [
+        "Next place for leisure",
+        "(22:00, 23:22)",
+        [
+            "Ja Moy Kitchen & Bar",
+            700029918
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Surya",
+            700011968
+        ]
+    ]
+]

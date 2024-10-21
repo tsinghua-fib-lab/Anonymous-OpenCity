@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700007498
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:35)",
+        [
+            "Coffee Bodega",
+            700002174
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(12:16, 13:38)",
+        [
+            "Coffee Bodega",
+            700002174
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:30, 19:34)",
+        [
+            "Le Regency Deli Cafe",
+            700009182
+        ]
+    ],
+    [
+        "Relax at Coffee Bodega.",
+        "(17:11, 19:09)",
+        [
+            "Coffee Bodega",
+            700002174
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:25, 21:30)",
+        [
+            "Coffee Bodega",
+            700002174
+        ]
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010164
+        ]
+    ],
+    [
+        "Outdoor Walk/Exercise",
+        "(10:00, 11:09)",
+        [
+            "Bay Area Smash Room",
+            700012799
+        ]
+    ],
+    [
+        "Continue with Outdoor Walk/Exercise",
+        "(11:25, 12:57)",
+        [
+            "Bay Area Smash Room",
+            700012799
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:59, 14:04)",
+        [
+            "Bay Area Smash Room",
+            700012799
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:22, 15:55)",
+        [
+            "Bay Area Smash Room",
+            700012799
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:40, 18:33)",
+        [
+            "",
+            700012931
+        ]
+    ],
+    [
+        "Socializing/Connecting with Friends",
+        "(19:18, 20:49)",
+        [
+            "Krav Maga",
+            700004064
+        ]
+    ],
+    [
+        "Socializing/Connecting with Friends",
+        "(21:32, 23:01)",
+        [
+            "Bay Area Smash Room",
+            700012799
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(23:20, 23:59)",
+        [
+            "Bay Area Smash Room",
+            700012799
+        ]
+    ]
+]

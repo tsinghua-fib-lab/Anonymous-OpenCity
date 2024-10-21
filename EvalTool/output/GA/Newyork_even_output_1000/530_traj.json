@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018222
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 12:02)",
+        [
+            "Explore + Discover Early Learning Center",
+            700006223
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:20, 13:54)",
+        [
+            "Explore + Discover Early Learning Center",
+            700006223
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 17:49)",
+        [
+            "Dunkin' Donuts/Baskin Robbins",
+            700021517
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(19:01, 21:03)",
+        [
+            "",
+            700019559
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:57, 22:34)",
+        [
+            "Peppa's Jerk Chicken",
+            700021515
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(22:49, 23:57)",
+        [
+            "",
+            700006230
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(23:57, 23:59)",
+        [
+            "",
+            700006226
+        ]
+    ]
+]

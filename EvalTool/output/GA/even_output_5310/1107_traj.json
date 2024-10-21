@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700031461
+        ]
+    ],
+    [
+        "Next activity in daily plan.",
+        "(09:00, 09:51)",
+        [
+            "",
+            700031461
+        ]
+    ],
+    [
+        "Next activity in daily plan",
+        "(10:24, 11:52)",
+        [
+            "Public School 11",
+            700000033
+        ]
+    ],
+    [
+        "Next activity in daily plan.",
+        "(12:10, 13:31)",
+        [
+            "Public School 11",
+            700000033
+        ]
+    ],
+    [
+        "Stay at Blossom- Chelsea",
+        "(14:05, 15:56)",
+        [
+            "Walgreens",
+            700008794
+        ]
+    ],
+    [
+        "Go for a leisurely dinner.",
+        "(16:30, 18:31)",
+        [
+            "",
+            700031459
+        ]
+    ],
+    [
+        "Return to home for dinner.",
+        "(18:42, 20:12)",
+        [
+            "",
+            700031461
+        ]
+    ],
+    [
+        "Go to Dil e Punjab Deli.",
+        "(20:14, 21:36)",
+        [
+            "Walgreens",
+            700008794
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:06, 23:59)",
+        [
+            "",
+            700031458
+        ]
+    ]
+]

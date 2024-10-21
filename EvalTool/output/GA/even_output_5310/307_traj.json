@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Campagnola Restaurant",
+            700035807
+        ]
+    ],
+    [
+        "Light Exercise",
+        "(10:00, 10:55)",
+        [
+            "Campagnola Restaurant",
+            700035807
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:35, 13:41)",
+        [
+            "Campagnola Restaurant",
+            700035807
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:51, 15:22)",
+        [
+            "Campagnola Restaurant",
+            700035807
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:43, 20:38)",
+        [
+            "Ines",
+            700039843
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 22:42)",
+        [
+            "Domino's",
+            700034870
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 23:59)",
+        [
+            "Sasabune",
+            700030652
+        ]
+    ]
+]

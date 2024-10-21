@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "NYC Discount Pharmacy",
+            700030624
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:45)",
+        [
+            "Biscuits and Bath",
+            700030623
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:27, 20:33)",
+        [
+            "Marathon Coffee",
+            700039312
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:28, 23:59)",
+        [
+            "",
+            700014479
+        ]
+    ]
+]

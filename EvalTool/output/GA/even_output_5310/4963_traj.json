@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Psychic Readings",
+            700038499
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:33)",
+        [
+            "The Boiler Room",
+            700011743
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:20, 13:43)",
+        [
+            "Divya’s Kitchen",
+            700007340
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:28, 17:16)",
+        [
+            "Cafe Himalaya",
+            700011791
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(18:06, 19:40)",
+        [
+            "Cafe Himalaya",
+            700011791
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:56, 22:40)",
+        [
+            "Dr Smood - Orchard",
+            700017609
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(23:35, 23:59)",
+        [
+            "Cafe Himalaya",
+            700011791
+        ]
+    ]
+]

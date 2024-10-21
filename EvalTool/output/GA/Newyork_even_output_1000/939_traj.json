@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "La Vera Pizza",
+            700024965
+        ]
+    ],
+    [
+        "Exercise Session",
+        "(09:00, 10:00)",
+        [
+            "",
+            700000996
+        ]
+    ],
+    [
+        "Exercise Session",
+        "(10:22, 11:54)",
+        [
+            "La Vera Pizza",
+            700024965
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:37, 13:50)",
+        [
+            "",
+            700017573
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:25, 15:49)",
+        [
+            "La Vera Pizza",
+            700024965
+        ]
+    ],
+    [
+        "Prep for the Week",
+        "(16:55, 17:56)",
+        [
+            "La Vera Pizza",
+            700024965
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(18:21, 20:10)",
+        [
+            "La Vera Pizza",
+            700024965
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(20:40, 22:05)",
+        [
+            "",
+            700017573
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(23:09, 23:59)",
+        [
+            "",
+            700002823
+        ]
+    ]
+]

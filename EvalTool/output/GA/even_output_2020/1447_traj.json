@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005718
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:50)",
+        [
+            "",
+            700005718
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(11:08, 13:00)",
+        [
+            "",
+            700005718
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:18, 14:51)",
+        [
+            "The Marsh",
+            700003562
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:02, 16:12)",
+        [
+            "Boogaloos",
+            700010171
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 23:59)",
+        [
+            "Postal Box",
+            700003149
+        ]
+    ],
+    [
+        "Socialize with Friends or Family",
+        "(21:41, 23:59)",
+        [
+            "Ritual Coffee Roasters",
+            700000819
+        ]
+    ],
+    [
+        "Explore a Hobby",
+        "(23:44, 23:59)",
+        [
+            "Boogaloos",
+            700010171
+        ]
+    ]
+]

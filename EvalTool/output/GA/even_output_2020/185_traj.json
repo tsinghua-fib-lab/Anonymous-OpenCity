@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Alamo",
+            700004752
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 09:54)",
+        [
+            "City Park",
+            700002760
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:03, 11:12)",
+        [
+            "Sons & Daughters",
+            700009612
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:21, 12:28)",
+        [
+            "City Park",
+            700002760
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(13:22, 15:05)",
+        [
+            "City Park",
+            700002760
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(15:47, 18:24)",
+        [
+            "Alamo",
+            700004752
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 23:00)",
+        [
+            "Roxanne Cafe",
+            700001601
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "Uncle Vito's Pizzeria",
+            700003101
+        ]
+    ]
+]

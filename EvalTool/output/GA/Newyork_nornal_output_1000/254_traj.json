@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700024011
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:17)",
+        [
+            "",
+            700036787
+        ]
+    ],
+    [
+        "visit cafe for snacks",
+        "(12:52, 14:05)",
+        [
+            "",
+            700024011
+        ]
+    ],
+    [
+        "Spend time on a personal project or hobby.",
+        "(14:07, 16:56)",
+        [
+            "",
+            700023517
+        ]
+    ],
+    [
+        "Stay at La Traviata Pizzeria for some quiet moments while you prepare for the week ahead.",
+        "(17:17, 19:09)",
+        [
+            "",
+            700022177
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 20:47)",
+        [
+            "",
+            700036786
+        ]
+    ],
+    [
+        "Stay at La Traviata Pizzeria.",
+        "(23:21, 23:59)",
+        [
+            "Citibank",
+            700006721
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002206
+        ]
+    ],
+    [
+        "Wake up and enjoy a leisurely breakfast",
+        "(10:00, 11:52)",
+        [
+            "Balthazar",
+            700007822
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 16:08)",
+        [
+            "Joe & The Juice",
+            700025818
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(15:46, 17:17)",
+        [
+            "Beatnic",
+            700038748
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:00, 18:14)",
+        [
+            "Osteria Morini",
+            700007501
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 23:59)",
+        [
+            "Bambina Blue Gelato",
+            700025867
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(22:14, 23:54)",
+        [
+            "Osteria Morini",
+            700007501
+        ]
+    ],
+    [
+        "Relax at home with a book or watch a movie",
+        "(23:47, 23:59)",
+        [
+            "Citi Bike - Cleveland Pl & Spring St",
+            700007998
+        ]
+    ]
+]

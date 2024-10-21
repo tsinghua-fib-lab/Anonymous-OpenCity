@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700027730
+        ]
+    ],
+    [
+        "Go for a morning walk or jog in the park",
+        "(09:00, 10:00)",
+        [
+            "Spice I Am",
+            700001732
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:11, 13:34)",
+        [
+            "",
+            700027730
+        ]
+    ],
+    [
+        "Engage in a sports activity or play a game",
+        "(14:30, 16:04)",
+        [
+            "Little Caesars",
+            700014639
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:39, 18:20)",
+        [
+            "Surry Hills Dumplings",
+            700014640
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:13, 23:59)",
+        [
+            "",
+            700006426
+        ]
+    ]
+]

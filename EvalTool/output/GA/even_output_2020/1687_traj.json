@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ollei",
+            700013230
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:53)",
+        [
+            "",
+            700000647
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:43, 14:23)",
+        [
+            "Hummus Mediterranean Kitchen",
+            700001052
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(15:09, 17:15)",
+        [
+            "Royal Ground Coffee",
+            700002092
+        ]
+    ],
+    [
+        "Hobby or Creative Time",
+        "(17:18, 18:54)",
+        [
+            "Hummus Mediterranean Kitchen",
+            700001052
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(20:00, 21:42)",
+        [
+            "Hummus Mediterranean Kitchen",
+            700001052
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:05, 23:59)",
+        [
+            "",
+            700004359
+        ]
+    ]
+]

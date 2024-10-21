@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003141
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:17)",
+        [
+            "Honor",
+            700003444
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 13:57)",
+        [
+            "Bread&roses",
+            700019503
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:15, 19:53)",
+        [
+            "Le Quarante Faubourg",
+            700003144
+        ]
+    ],
+    [
+        "Continue the evening by staying at Le Quarante Faubourg.",
+        "(20:11, 21:40)",
+        [
+            "Le Quarante Faubourg",
+            700003144
+        ]
+    ],
+    [
+        "Stay at Le Quarante Faubourg.",
+        "(22:15, 23:59)",
+        [
+            "Le Quarante Faubourg",
+            700003144
+        ]
+    ],
+    [
+        "Stay at Le Quarante Faubourg",
+        "(23:51, 23:59)",
+        [
+            "Le Quarante Faubourg",
+            700003144
+        ]
+    ]
+]

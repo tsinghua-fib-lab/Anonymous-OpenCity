@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Auto Broker New York",
+            700011881
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 11:31)",
+        [
+            "Auto Broker New York",
+            700011881
+        ]
+    ],
+    [
+        "Next activity from Auto Broker New York",
+        "(12:09, 13:31)",
+        [
+            "Café au bon gout",
+            700003238
+        ]
+    ],
+    [
+        "Next activity from Auto Broker New York",
+        "(14:10, 15:38)",
+        [
+            "Café au bon gout",
+            700003238
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:47, 18:42)",
+        [
+            "",
+            700002898
+        ]
+    ],
+    [
+        "Relax at Home",
+        "(18:10, 19:31)",
+        [
+            "Hortus NYC",
+            700023216
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:44, 23:59)",
+        [
+            "",
+            700025110
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(23:52, 23:59)",
+        [
+            "",
+            700025078
+        ]
+    ]
+]

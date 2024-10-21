@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dorado",
+            700034076
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:31)",
+        [
+            "The Grey Dog",
+            700013033
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:08, 15:51)",
+        [
+            "The Grey Dog",
+            700013033
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 20:22)",
+        [
+            "Panera Bread",
+            700004773
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 23:59)",
+        [
+            "Dorado",
+            700034076
+        ]
+    ]
+]

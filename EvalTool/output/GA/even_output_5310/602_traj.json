@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Northwell Health-GoHealth Urgent Care",
+            700013558
+        ]
+    ],
+    [
+        "Outdoor Activity (11:00 AM - 1:00 PM)",
+        "(10:00, 11:54)",
+        [
+            "Citi Bike - West 13th Street & 7th Avenue",
+            700008198
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:04, 13:52)",
+        [
+            "Citi Bike - West 13th Street & 7th Avenue",
+            700008198
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 16:04)",
+        [
+            "",
+            700020093
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 22:29)",
+        [
+            "Citi Bike - West 15th Street & 7th Avenue",
+            700008200
+        ]
+    ],
+    [
+        "Continue your day by reading or relaxing at home or a café.",
+        "(23:13, 23:59)",
+        [
+            "",
+            700020097
+        ]
+    ]
+]

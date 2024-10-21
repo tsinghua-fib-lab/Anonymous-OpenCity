@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700014211
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:44)",
+        [
+            "Turner's Kitchen",
+            700010807
+        ]
+    ],
+    [
+        "Participate in a hobby or interest",
+        "(14:23, 16:00)",
+        [
+            "",
+            700000068
+        ]
+    ],
+    [
+        "Participate in a hobby or interest",
+        "(16:15, 17:56)",
+        [
+            "Boys & Girls Club",
+            700010808
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:08, 20:10)",
+        [
+            "Big Lantern",
+            700008959
+        ]
+    ],
+    [
+        "go",
+        "(23:51, 23:59)",
+        [
+            "Big Lantern",
+            700008959
+        ]
+    ]
+]

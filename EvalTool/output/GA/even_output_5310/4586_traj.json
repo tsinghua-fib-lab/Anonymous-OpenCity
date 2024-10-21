@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Favela Cubana",
+            700007793
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:53)",
+        [
+            "Joe Coffee Company",
+            700009394
+        ]
+    ],
+    [
+        "Afternoon Relaxation",
+        "(16:12, 17:53)",
+        [
+            "Favela Cubana",
+            700007793
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(18:51, 20:09)",
+        [
+            "Joe Coffee Company",
+            700009394
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:59, 23:59)",
+        [
+            "Yum Cha",
+            700030000
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "Court Street Grocers",
+            700025602
+        ]
+    ]
+]

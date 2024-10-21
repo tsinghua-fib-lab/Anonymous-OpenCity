@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700021036
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:55)",
+        [
+            "Paris Baguette",
+            700040265
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:50, 21:35)",
+        [
+            "",
+            700002218
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:28, 20:31)",
+        [
+            "Citi Bike - Broadway & West 41st Street",
+            700007975
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(22:24, 23:59)",
+        [
+            "",
+            700021036
+        ]
+    ]
+]

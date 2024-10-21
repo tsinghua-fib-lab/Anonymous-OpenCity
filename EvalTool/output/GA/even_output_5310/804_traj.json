@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Lenwich",
+            700024968
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:56)",
+        [
+            "Lenwich",
+            700024968
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:49, 14:11)",
+        [
+            "Cafe Luce",
+            700038182
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 17:31)",
+        [
+            "Equinox",
+            700008521
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:21, 19:31)",
+        [
+            "",
+            700025746
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 23:26)",
+        [
+            "Franklin D. Roosevelt Station Post Office",
+            700006417
+        ]
+    ],
+    [
+        "Stay at Franklin D. Roosevelt Station Post Office",
+        "(23:45, 23:59)",
+        [
+            "Franklin D. Roosevelt Station Post Office",
+            700006417
+        ]
+    ]
+]

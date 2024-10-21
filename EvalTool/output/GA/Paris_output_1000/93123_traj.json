@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "École élémentaire Aqueduc",
+            700020673
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:15)",
+        [
+            "",
+            700031344
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 15:21)",
+        [
+            "Le Local BIO",
+            700003588
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:05, 21:43)",
+        [
+            "",
+            700060328
+        ]
+    ],
+    [
+        "Wind down with a hobby",
+        "(21:20, 23:04)",
+        [
+            "École élémentaire Aqueduc",
+            700020673
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "",
+            700007679
+        ]
+    ]
+]

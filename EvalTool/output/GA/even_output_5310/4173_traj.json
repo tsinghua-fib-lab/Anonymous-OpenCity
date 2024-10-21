@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000968
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:53)",
+        [
+            "Casa Adela",
+            700011044
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:59, 14:04)",
+        [
+            "",
+            700002096
+        ]
+    ],
+    [
+        "Relax with personal hobbies",
+        "(17:08, 19:01)",
+        [
+            "Casa Adela",
+            700011044
+        ]
+    ],
+    [
+        "Relax with personal hobbies",
+        "(19:11, 21:07)",
+        [
+            "Casa Adela",
+            700011044
+        ]
+    ],
+    [
+        "Stay at Casa Adela.",
+        "(21:33, 23:07)",
+        [
+            "Casa Adela",
+            700011044
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:57, 23:59)",
+        [
+            "",
+            700001181
+        ]
+    ]
+]

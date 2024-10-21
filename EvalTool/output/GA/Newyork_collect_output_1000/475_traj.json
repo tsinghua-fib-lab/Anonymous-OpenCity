@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:31)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Brunch",
+        "(12:19, 14:10)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:50, 16:27)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:56, 21:38)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:49, 23:59)",
+        [
+            "",
+            700022519
+        ]
+    ],
+    [
+        "Stay at New York Comedy Club",
+        "(21:50, 23:01)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Stay at New York Comedy Club",
+        "(23:38, 23:59)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ]
+]

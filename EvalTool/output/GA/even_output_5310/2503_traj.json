@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Social Lounge",
+            700005997
+        ]
+    ],
+    [
+        "Outdoor Walk or Jog",
+        "(10:00, 11:06)",
+        [
+            "Sombrero",
+            700009839
+        ]
+    ],
+    [
+        "Outdoor Walk or Jog",
+        "(11:06, 13:07)",
+        [
+            "Sombrero",
+            700009839
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:40, 16:19)",
+        [
+            "Churrascaria Plataforma",
+            700006382
+        ]
+    ],
+    [
+        "Relaxation & Self-Care",
+        "(16:54, 17:59)",
+        [
+            "Churrascaria Plataforma",
+            700006382
+        ]
+    ],
+    [
+        "Dinner Preparation or Dining Out",
+        "(18:51, 20:31)",
+        [
+            "Public School 212",
+            700000296
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:25, 21:27)",
+        [
+            "Churrascaria Plataforma",
+            700006382
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:48, 23:59)",
+        [
+            "",
+            700016193
+        ]
+    ]
+]

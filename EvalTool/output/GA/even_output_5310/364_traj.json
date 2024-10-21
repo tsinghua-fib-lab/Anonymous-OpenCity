@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "USPS",
+            700010321
+        ]
+    ],
+    [
+        "Next, proceed to Outdoor Exercise or Sports Activity.",
+        "(09:00, 10:27)",
+        [
+            "Chase",
+            700012810
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping",
+        "(11:03, 12:37)",
+        [
+            "Chase",
+            700012810
+        ]
+    ],
+    [
+        "Stay at Chase until the next plan.",
+        "(13:12, 14:41)",
+        [
+            "Chase",
+            700012810
+        ]
+    ],
+    [
+        "Stay at Chase.",
+        "(14:56, 16:32)",
+        [
+            "Chase",
+            700012810
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 21:21)",
+        [
+            "Metro Pharmacy",
+            700017315
+        ]
+    ],
+    [
+        "Outdoor Exercise or Sports Activity",
+        "(21:26, 22:48)",
+        [
+            "Chase",
+            700012810
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "",
+            700017185
+        ]
+    ]
+]

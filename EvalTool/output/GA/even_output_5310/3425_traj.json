@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Black Ant",
+            700004737
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:08)",
+        [
+            "Dim Sum Palace",
+            700004725
+        ]
+    ],
+    [
+        "Lunch with Friends/Family",
+        "(13:46, 15:20)",
+        [
+            "Citi Bike - East 4th Street & 2nd Avenue",
+            700008046
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(15:24, 16:50)",
+        [
+            "Citi Bike - East 4th Street & 2nd Avenue",
+            700008046
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:53, 19:27)",
+        [
+            "Kona Coffee and Company",
+            700004724
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:48, 20:57)",
+        [
+            "Whiskey Town",
+            700025623
+        ]
+    ],
+    [
+        "Stay at The Black Ant",
+        "(22:42, 23:59)",
+        [
+            "Double Zero",
+            700008945
+        ]
+    ]
+]

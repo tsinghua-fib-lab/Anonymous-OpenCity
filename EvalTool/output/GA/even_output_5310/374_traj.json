@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The SisterYard",
+            700030489
+        ]
+    ],
+    [
+        "Next, proceed to Outdoor Exercise or Sports Activity.",
+        "(09:00, 10:40)",
+        [
+            "",
+            700017646
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping",
+        "(11:03, 12:39)",
+        [
+            "The SisterYard",
+            700030489
+        ]
+    ],
+    [
+        "Proceed to Grocery Shopping from The SisterYard.",
+        "(13:12, 15:18)",
+        [
+            "Link NYC",
+            700017645
+        ]
+    ],
+    [
+        "Proceed to Creative Hobby or Project Time.",
+        "(14:56, 16:58)",
+        [
+            "Link NYC",
+            700017645
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:18, 20:03)",
+        [
+            "",
+            700010258
+        ]
+    ],
+    [
+        "Outdoor Exercise or Sports Activity",
+        "(21:26, 22:32)",
+        [
+            "The SisterYard",
+            700030489
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Cafe Boulud",
+            700015607
+        ]
+    ]
+]

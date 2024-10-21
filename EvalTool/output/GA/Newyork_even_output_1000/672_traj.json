@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "Workout or Outdoor Activity",
+        "(10:00, 11:36)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "Workout or Outdoor Activity",
+        "(12:14, 13:19)",
+        [
+            "Citi Bike - E 6 St & Avenue D",
+            700008061
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(14:42, 16:08)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:28, 18:59)",
+        [
+            "",
+            700002786
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(19:58, 21:36)",
+        [
+            "",
+            700001824
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:34, 23:59)",
+        [
+            "Hamilton Fish Park Library",
+            700000552
+        ]
+    ]
+]

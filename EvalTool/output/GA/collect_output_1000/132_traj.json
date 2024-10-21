@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030413
+        ]
+    ],
+    [
+        "Next activity: Outdoor Exercise",
+        "(09:00, 10:03)",
+        [
+            "Da Claudio",
+            700014045
+        ]
+    ],
+    [
+        "Outdoor Exercise",
+        "(10:27, 11:50)",
+        [
+            "Da Claudio",
+            700014045
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:30, 16:39)",
+        [
+            "Nassau Bar",
+            700010802
+        ]
+    ],
+    [
+        "Hobbies & Projects",
+        "(15:31, 17:07)",
+        [
+            "Da Claudio",
+            700014045
+        ]
+    ],
+    [
+        "Hobbies & Projects",
+        "(17:52, 18:51)",
+        [
+            "",
+            700030413
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(19:32, 20:59)",
+        [
+            "Da Claudio",
+            700014045
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(21:56, 23:59)",
+        [
+            "Da Claudio",
+            700014045
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "Starbucks",
+            700003979
+        ]
+    ]
+]

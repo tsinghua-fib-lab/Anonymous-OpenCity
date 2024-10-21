@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Au Za'atar",
+            700011621
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:39)",
+        [
+            "Bistro Vendôme",
+            700011529
+        ]
+    ],
+    [
+        "Stay at Au Za'atar",
+        "(12:43, 14:05)",
+        [
+            "Bistro Vendôme",
+            700011529
+        ]
+    ],
+    [
+        "Stay at Au Za'atar",
+        "(14:36, 16:06)",
+        [
+            "Bistro Vendôme",
+            700011529
+        ]
+    ],
+    [
+        "Stay at Au Za'atar",
+        "(16:21, 17:41)",
+        [
+            "",
+            700010703
+        ]
+    ],
+    [
+        "Engage in a hobby or creative activity, like painting or crafting",
+        "(18:05, 19:52)",
+        [
+            "Marathon Coffee",
+            700039312
+        ]
+    ],
+    [
+        "Stay at Sutton Bar Room",
+        "(20:51, 22:39)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "Stay at Au Za'atar",
+        "(23:21, 23:59)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ]
+]

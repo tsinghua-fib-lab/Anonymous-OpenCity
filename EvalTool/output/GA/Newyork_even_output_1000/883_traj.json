@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002913
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 11:52)",
+        [
+            "",
+            700021868
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:23, 13:52)",
+        [
+            "Tipsy Shanghai",
+            700015711
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:32, 17:28)",
+        [
+            "Ratatouille",
+            700015025
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(16:54, 17:55)",
+        [
+            "Ratatouille",
+            700015025
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 22:56)",
+        [
+            "Bento NYC",
+            700015876
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(20:24, 21:56)",
+        [
+            "Caffé Venice",
+            700006451
+        ]
+    ],
+    [
+        "Wind Down & Plan for the Week Ahead",
+        "(21:50, 22:50)",
+        [
+            "Wagamama",
+            700016931
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:07, 23:59)",
+        [
+            "Wagamama",
+            700016931
+        ]
+    ]
+]

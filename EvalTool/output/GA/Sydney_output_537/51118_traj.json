@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700031219
+        ]
+    ],
+    [
+        "Next activity based on plan.",
+        "(09:00, 10:10)",
+        [
+            "",
+            700031219
+        ]
+    ],
+    [
+        "Continue with hobby or personal project.",
+        "(10:21, 12:02)",
+        [
+            "",
+            700031219
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:55, 14:26)",
+        [
+            "",
+            700031222
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 18:31)",
+        [
+            "Dragon Boat Ramp",
+            700016292
+        ]
+    ],
+    [
+        "Relax at home or watch a movie.",
+        "(19:10, 22:02)",
+        [
+            "",
+            700031219
+        ]
+    ],
+    [
+        "Stay at home and relax",
+        "(22:34, 23:59)",
+        [
+            "",
+            700031219
+        ]
+    ]
+]

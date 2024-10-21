@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pasta Panino",
+            700013702
+        ]
+    ],
+    [
+        "relaxing and reading or browsing social media",
+        "(10:00, 11:07)",
+        [
+            "Pasta Panino",
+            700013702
+        ]
+    ],
+    [
+        "Continue browsing social media.",
+        "(11:13, 13:06)",
+        [
+            "Pasta Panino",
+            700013702
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 15:33)",
+        [
+            "Walgreens",
+            700013559
+        ]
+    ],
+    [
+        "Prepare and enjoy dinner.",
+        "(16:54, 18:05)",
+        [
+            "Pasta Panino",
+            700013702
+        ]
+    ],
+    [
+        "Prepare and enjoy dinner.",
+        "(18:53, 20:25)",
+        [
+            "Thai Chef",
+            700002208
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:40, 23:28)",
+        [
+            "Cafe Mystique",
+            700002178
+        ]
+    ],
+    [
+        "Go for a walk.",
+        "(23:19, 23:59)",
+        [
+            "Pasta Panino",
+            700013702
+        ]
+    ]
+]

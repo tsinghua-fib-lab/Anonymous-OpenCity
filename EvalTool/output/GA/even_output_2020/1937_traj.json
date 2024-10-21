@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Orbit Room",
+            700000848
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(10:00, 10:58)",
+        [
+            "UCSF Dental School",
+            700001496
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(12:05, 13:40)",
+        [
+            "USPS",
+            700010530
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:26, 16:47)",
+        [
+            "",
+            700008337
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:28, 20:48)",
+        [
+            "",
+            700007002
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:56, 23:59)",
+        [
+            "The Mint",
+            700001945
+        ]
+    ]
+]

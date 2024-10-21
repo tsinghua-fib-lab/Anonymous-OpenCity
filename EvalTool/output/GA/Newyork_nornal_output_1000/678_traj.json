@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dunkin'",
+            700018134
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:15)",
+        [
+            "Union Square Green Market",
+            700003346
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:37, 19:40)",
+        [
+            "Union Square Green Market",
+            700003346
+        ]
+    ],
+    [
+        "Movie or TV Time",
+        "(17:30, 19:40)",
+        [
+            "",
+            700005795
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:20, 21:11)",
+        [
+            "",
+            700026322
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:18, 23:59)",
+        [
+            "",
+            700026318
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "La Machine du Moulin Rouge",
+            700006771
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:56)",
+        [
+            "Chapelle Sainte-Rita",
+            700069616
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 19:31)",
+        [
+            "O'Sullivans By The Mill",
+            700025091
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 22:18)",
+        [
+            "",
+            700003213
+        ]
+    ],
+    [
+        "Relax & Watch a Movie",
+        "(20:58, 22:39)",
+        [
+            "La Machine du Moulin Rouge",
+            700006771
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "",
+            700003199
+        ]
+    ]
+]

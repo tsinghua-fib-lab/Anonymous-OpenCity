@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pizza Due",
+            700009128
+        ]
+    ],
+    [
+        "Outdoor Activity Followed by Lunch with Friends",
+        "(10:00, 11:33)",
+        [
+            "Pizza Due",
+            700009128
+        ]
+    ],
+    [
+        "Outdoor Activity Followed by Lunch with Friends",
+        "(11:43, 13:11)",
+        [
+            "Pizza Due",
+            700009128
+        ]
+    ],
+    [
+        "Outdoor Activity Followed by Lunch with Friends",
+        "(14:08, 16:09)",
+        [
+            "Pizza Due",
+            700009128
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(16:22, 18:02)",
+        [
+            "Pizza Due",
+            700009128
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(18:53, 20:27)",
+        [
+            "Pizza Due",
+            700009128
+        ]
+    ],
+    [
+        "Stay at Pizza Due.",
+        "(20:26, 21:51)",
+        [
+            "",
+            700008311
+        ]
+    ],
+    [
+        "Stay at Woodhouse Fish Co.",
+        "(22:58, 23:59)",
+        [
+            "Spro",
+            700010292
+        ]
+    ],
+    [
+        "Stay at Woodhouse Fish Co.",
+        "(23:56, 23:59)",
+        [
+            "Maxfield's House of Caffeine",
+            700003619
+        ]
+    ]
+]

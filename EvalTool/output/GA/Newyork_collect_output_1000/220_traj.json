@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Leisure Activity or Exercise",
+        "(10:00, 11:38)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ],
+    [
+        "Go to Taco Bell",
+        "(11:27, 13:17)",
+        [
+            "Taco Bell",
+            700022504
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 15:51)",
+        [
+            "Morton Williams Cafe",
+            700018410
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:26, 21:03)",
+        [
+            "",
+            700001612
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 21:30)",
+        [
+            "Orion Diner & Grill",
+            700014321
+        ]
+    ],
+    [
+        "Stay at La Vera Pizzeria",
+        "(23:46, 23:59)",
+        [
+            "Club Pilates",
+            700006202
+        ]
+    ]
+]

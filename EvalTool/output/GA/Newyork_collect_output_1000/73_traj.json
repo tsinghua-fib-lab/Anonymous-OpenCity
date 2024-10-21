@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:20)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Lunch while catching up on a favorite podcast or some light reading.",
+        "(12:03, 12:56)",
+        [
+            "Roma Pizza",
+            700006211
+        ]
+    ],
+    [
+        "Lunch while catching up on a favorite podcast or some light reading.",
+        "(13:01, 14:53)",
+        [
+            "CitiBike Station",
+            700007611
+        ]
+    ],
+    [
+        "Go to CitiBike Station",
+        "(15:46, 16:50)",
+        [
+            "CitiBike Station",
+            700007611
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:32, 19:21)",
+        [
+            "Song Yu, DPM",
+            700023820
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:49, 22:11)",
+        [
+            "",
+            700011175
+        ]
+    ],
+    [
+        "Stay at The UPS Store",
+        "(22:37, 23:59)",
+        [
+            "Explore + Discover Early Learning Center",
+            700006223
+        ]
+    ]
+]

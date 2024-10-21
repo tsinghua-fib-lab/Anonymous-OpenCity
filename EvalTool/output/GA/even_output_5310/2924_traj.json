@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Raven Pub",
+            700016558
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:20)",
+        [
+            "Italian Village Pizzeria & Restaurant",
+            700013981
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:45, 19:08)",
+        [
+            "Le Petit Parisienne",
+            700006570
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:30, 22:55)",
+        [
+            "Smile Up Pediatric Dentistry & Orthodontics",
+            700033293
+        ]
+    ],
+    [
+        "Wind Down",
+        "(23:49, 23:59)",
+        [
+            "Smile Up Pediatric Dentistry & Orthodontics",
+            700033293
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "The Pho 2",
+            700004396
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park.",
+        "(10:00, 11:07)",
+        [
+            "Trailer Park Lounge",
+            700040174
+        ]
+    ],
+    [
+        "Go for a walk or light jog in a nearby park.",
+        "(11:03, 12:50)",
+        [
+            "Trailer Park Lounge",
+            700040174
+        ]
+    ],
+    [
+        "Spend some time reading a book or doing a hobby.",
+        "(13:36, 14:57)",
+        [
+            "The Pho 2",
+            700004396
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:43, 19:04)",
+        [
+            "Dallas BBQ",
+            700004401
+        ]
+    ],
+    [
+        "Go for dinner at home",
+        "(19:32, 21:28)",
+        [
+            "The Pho 2",
+            700004396
+        ]
+    ],
+    [
+        "Wind down the day by watching a movie or binge-watching a series.",
+        "(21:30, 22:52)",
+        [
+            "The Pho 2",
+            700004396
+        ]
+    ],
+    [
+        "Winding down by watching a movie at home",
+        "(23:32, 23:59)",
+        [
+            "",
+            700020102
+        ]
+    ]
+]

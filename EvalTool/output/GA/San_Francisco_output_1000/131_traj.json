@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sears Fine Food",
+            700004670
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:45)",
+        [
+            "Taxi Stand at Beacon Grand",
+            700009888
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(12:57, 14:22)",
+        [
+            "Taxi Stand at Beacon Grand",
+            700009888
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(15:14, 17:04)",
+        [
+            "Taxi Stand at Beacon Grand",
+            700009888
+        ]
+    ],
+    [
+        "Family Time or Games Night",
+        "(18:06, 21:02)",
+        [
+            "Taxi Stand at Beacon Grand",
+            700009888
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:08, 23:18)",
+        [
+            "",
+            700008772
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(23:07, 23:59)",
+        [
+            "",
+            700010012
+        ]
+    ]
+]

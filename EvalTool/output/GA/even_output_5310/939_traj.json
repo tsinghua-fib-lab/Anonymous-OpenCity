@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Duane Reade",
+            700006006
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:43)",
+        [
+            "Le Parker Meridien Burger",
+            700003564
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:43, 13:38)",
+        [
+            "Norma’s",
+            700015687
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:49, 21:16)",
+        [
+            "Le Parker Meridien Burger",
+            700003564
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:47)",
+        [
+            "Pazza Notte",
+            700016246
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013067
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:58)",
+        [
+            "",
+            700018318
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:32, 15:07)",
+        [
+            "Oasis Garden",
+            700000421
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:41, 17:09)",
+        [
+            "Oasis Garden",
+            700000421
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:58, 21:31)",
+        [
+            "",
+            700018321
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:25, 23:03)",
+        [
+            "Citi Bike - W 53 St & 10 Ave",
+            700008233
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Oasis Garden",
+            700000421
+        ]
+    ]
+]

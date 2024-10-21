@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700011588
+        ]
+    ],
+    [
+        "Go for a morning run or workout",
+        "(09:00, 10:03)",
+        [
+            "",
+            700011588
+        ]
+    ],
+    [
+        "Shower and get ready for the day",
+        "(11:04, 12:51)",
+        [
+            "",
+            700011588
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:27, 17:53)",
+        [
+            "",
+            700011598
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(17:58, 18:53)",
+        [
+            "",
+            700011601
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:37, 23:09)",
+        [
+            "",
+            700011591
+        ]
+    ],
+    [
+        "Go to Bar Tartine and stay",
+        "(23:53, 23:59)",
+        [
+            "SOMA Eats",
+            700003347
+        ]
+    ]
+]

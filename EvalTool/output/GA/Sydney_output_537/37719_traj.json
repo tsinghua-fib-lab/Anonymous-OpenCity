@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700026629
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:42)",
+        [
+            "",
+            700026628
+        ]
+    ],
+    [
+        "Lunch with Friends",
+        "(13:42, 15:22)",
+        [
+            "Greek at the Belvedere",
+            700021665
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:54, 19:07)",
+        [
+            "Adina apartment hotel",
+            700005504
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:26, 21:04)",
+        [
+            "",
+            700026629
+        ]
+    ],
+    [
+        "Wind Down with TV or Movies",
+        "(21:32, 22:54)",
+        [
+            "Belvedere Hotel",
+            700005505
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "Ice Kirin Bar",
+            700021410
+        ]
+    ]
+]

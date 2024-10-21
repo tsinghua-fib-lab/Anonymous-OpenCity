@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700005838
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:20)",
+        [
+            "",
+            700006793
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:31, 13:11)",
+        [
+            "Cafe Josephine",
+            700006998
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:51, 15:15)",
+        [
+            "",
+            700006797
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:41, 17:35)",
+        [
+            "",
+            700006800
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:47, 20:02)",
+        [
+            "",
+            700005838
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(20:21, 22:00)",
+        [
+            "Cafe Josephine",
+            700006998
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(22:20, 23:40)",
+        [
+            "Cafe Josephine",
+            700006998
+        ]
+    ],
+    [
+        "Prepare to sleep",
+        "(23:45, 23:59)",
+        [
+            "Cafe Josephine",
+            700006998
+        ]
+    ]
+]

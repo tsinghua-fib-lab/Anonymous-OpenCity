@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700023673
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:24)",
+        [
+            "",
+            700023737
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(14:10, 16:11)",
+        [
+            "Manhattan Bridge Bicycle Counter",
+            700020054
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(15:59, 17:33)",
+        [
+            "Manhattan Bridge Bicycle Counter",
+            700020054
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(17:33, 19:01)",
+        [
+            "Manhattan Bridge Bicycle Counter",
+            700020054
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:39, 23:59)",
+        [
+            "",
+            700023685
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "",
+            700023687
+        ]
+    ]
+]

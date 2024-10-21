@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sant Ambroeus Gelateria",
+            700004783
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 10:59)",
+        [
+            "Sant Ambroeus Gelateria",
+            700004783
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast",
+        "(11:51, 12:57)",
+        [
+            "",
+            700024192
+        ]
+    ],
+    [
+        "Enjoy a leisurely breakfast",
+        "(12:59, 14:27)",
+        [
+            "Sant Ambroeus Gelateria",
+            700004783
+        ]
+    ],
+    [
+        "Prepare to have dinner",
+        "(14:10, 15:35)",
+        [
+            "Sant Ambroeus Gelateria",
+            700004783
+        ]
+    ],
+    [
+        "Hobby",
+        "(16:35, 17:52)",
+        [
+            "",
+            700024182
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:32, 22:14)",
+        [
+            "",
+            700024167
+        ]
+    ],
+    [
+        "Stay",
+        "(20:05, 21:26)",
+        [
+            "",
+            700024189
+        ]
+    ],
+    [
+        "Stay",
+        "(22:27, 23:59)",
+        [
+            "",
+            700024168
+        ]
+    ]
+]

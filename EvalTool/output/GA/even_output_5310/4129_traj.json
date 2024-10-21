@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001730
+        ]
+    ],
+    [
+        "Go for a walk or light exercise in a nearby park.",
+        "(10:00, 10:51)",
+        [
+            "",
+            700003067
+        ]
+    ],
+    [
+        "Go for a walk or light exercise in a nearby park.",
+        "(11:14, 12:17)",
+        [
+            "Woorijip",
+            700009256
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 16:58)",
+        [
+            "Cloud Social",
+            700009807
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:19, 21:47)",
+        [
+            "Link NYC",
+            700021675
+        ]
+    ],
+    [
+        "Stay at the current place",
+        "(20:17, 22:06)",
+        [
+            "",
+            700001730
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:20, 23:59)",
+        [
+            "Café Gitane",
+            700015617
+        ]
+    ]
+]

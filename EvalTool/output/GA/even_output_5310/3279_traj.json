@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "NYPD 5 PCT",
+            700004360
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:08)",
+        [
+            "",
+            700014905
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:17, 13:55)",
+        [
+            "NYPD 5 PCT",
+            700004360
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:12, 16:03)",
+        [
+            "",
+            700014905
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(16:17, 18:07)",
+        [
+            "NYPD 5 PCT",
+            700004360
+        ]
+    ],
+    [
+        "Entertainment/TV",
+        "(18:18, 19:56)",
+        [
+            "Chinese Community Center",
+            700039537
+        ]
+    ],
+    [
+        "Hobbies/Creative Time",
+        "(20:21, 21:41)",
+        [
+            "",
+            700025069
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:28, 23:59)",
+        [
+            "Eastern States Buddhist Temple of America",
+            700000279
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Memo Shish Kebab",
+            700016703
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:01)",
+        [
+            "Great Burrito",
+            700039403
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:27, 13:49)",
+        [
+            "Great Burrito",
+            700039403
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:01, 19:27)",
+        [
+            "The UPS Store",
+            700016704
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:54, 22:10)",
+        [
+            "Great Burrito",
+            700039403
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(22:32, 23:59)",
+        [
+            "Great Burrito",
+            700039403
+        ]
+    ]
+]

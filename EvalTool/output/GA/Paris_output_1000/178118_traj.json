@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700045201
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:24)",
+        [
+            "",
+            700013020
+        ]
+    ],
+    [
+        "Continue leisure time",
+        "(14:25, 16:02)",
+        [
+            "",
+            700045196
+        ]
+    ],
+    [
+        "Continue leisure time",
+        "(16:17, 17:53)",
+        [
+            "Restaurant Buddha",
+            700022547
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:40, 20:00)",
+        [
+            "Restaurant Buddha",
+            700022547
+        ]
+    ],
+    [
+        "Go to Restaurant Buddha and wind down.",
+        "(20:39, 22:05)",
+        [
+            "Restaurant Buddha",
+            700022547
+        ]
+    ],
+    [
+        "Stay at Restaurant Buddha for winding down.",
+        "(22:53, 23:59)",
+        [
+            "Restaurant Buddha",
+            700022547
+        ]
+    ]
+]

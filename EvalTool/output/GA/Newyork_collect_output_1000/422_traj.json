@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:05)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:06, 11:49)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Personal Project/Study Time",
+        "(14:14, 15:35)",
+        [
+            "Auto Motion",
+            700018140
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:43, 20:46)",
+        [
+            "CoCo Fresh Tea & Juice",
+            700003973
+        ]
+    ],
+    [
+        "Watch TV/Relax",
+        "(20:30, 22:03)",
+        [
+            "",
+            700001491
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "TD Bank",
+            700010327
+        ]
+    ]
+]

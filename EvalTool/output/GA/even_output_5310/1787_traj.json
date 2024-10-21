@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002289
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:23)",
+        [
+            "B&W Deli & Pizzeria",
+            700011111
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:25, 13:10)",
+        [
+            "B&W Deli & Pizzeria",
+            700011111
+        ]
+    ],
+    [
+        "Engage in a hobby or TV shows.",
+        "(13:17, 14:49)",
+        [
+            "B&W Deli & Pizzeria",
+            700011111
+        ]
+    ],
+    [
+        "Hobby or TV Shows",
+        "(15:39, 18:05)",
+        [
+            "USPS",
+            700007267
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 19:03)",
+        [
+            "",
+            700002489
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 20:58)",
+        [
+            "",
+            700037720
+        ]
+    ],
+    [
+        "Stay at B&W Deli & Pizzeria",
+        "(23:46, 23:59)",
+        [
+            "B&W Deli & Pizzeria",
+            700011111
+        ]
+    ]
+]

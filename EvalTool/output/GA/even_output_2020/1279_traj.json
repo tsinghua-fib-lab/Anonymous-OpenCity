@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Rad Radish",
+            700002385
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:50)",
+        [
+            "",
+            700010848
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:19, 20:12)",
+        [
+            "RT Rotisserie",
+            700006137
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:37, 21:54)",
+        [
+            "Javalencia Cafe",
+            700002788
+        ]
+    ],
+    [
+        "Go to Patxi's",
+        "(20:33, 21:59)",
+        [
+            "Javalencia Cafe",
+            700002788
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(22:33, 23:59)",
+        [
+            "Javalencia Cafe",
+            700002788
+        ]
+    ]
+]

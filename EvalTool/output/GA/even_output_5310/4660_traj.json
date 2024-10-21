@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - East 23rd Street & 1st Avenue",
+            700008036
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:27)",
+        [
+            "Frank's Trattoria",
+            700025849
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:06, 17:15)",
+        [
+            "Jugos",
+            700006204
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:44, 21:25)",
+        [
+            "USPS",
+            700017693
+        ]
+    ],
+    [
+        "Wind Down and Self-Care",
+        "(21:10, 22:47)",
+        [
+            "USPS",
+            700017693
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "USPS",
+            700017693
+        ]
+    ]
+]

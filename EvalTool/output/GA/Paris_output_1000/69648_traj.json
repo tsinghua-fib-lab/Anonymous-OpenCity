@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bulpan",
+            700022018
+        ]
+    ],
+    [
+        "Stay at Bulpan",
+        "(09:00, 11:10)",
+        [
+            "Bulpan",
+            700022018
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:12, 13:07)",
+        [
+            "Pharmacie du front de seine",
+            700022021
+        ]
+    ],
+    [
+        "Stay at Bulpan",
+        "(12:30, 13:59)",
+        [
+            "Bulpan",
+            700022018
+        ]
+    ],
+    [
+        "Lunch with friends or family",
+        "(14:22, 16:18)",
+        [
+            "Bulpan",
+            700022018
+        ]
+    ],
+    [
+        "Relax and watch a movie or TV show",
+        "(16:14, 17:56)",
+        [
+            "Bulpan",
+            700022018
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 20:56)",
+        [
+            "Star King",
+            700021995
+        ]
+    ],
+    [
+        "BRED",
+        "(21:28, 23:02)",
+        [
+            "Star King",
+            700021995
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "",
+            700022020
+        ]
+    ]
+]

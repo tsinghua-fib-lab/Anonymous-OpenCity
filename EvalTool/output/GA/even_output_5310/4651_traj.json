@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Boil",
+            700018242
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:20)",
+        [
+            "",
+            700020376
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:06, 17:26)",
+        [
+            "",
+            700020371
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:44, 18:24)",
+        [
+            "NYU Philosophy Department",
+            700003854
+        ]
+    ],
+    [
+        "Wind Down and Self-Care",
+        "(21:10, 22:31)",
+        [
+            "NYU Philosophy Department",
+            700003854
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:24, 23:59)",
+        [
+            "",
+            700020375
+        ]
+    ]
+]

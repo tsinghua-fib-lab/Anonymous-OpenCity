@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700006702
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:05)",
+        [
+            "Walgreens",
+            700017553
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:16, 15:04)",
+        [
+            "",
+            700006702
+        ]
+    ],
+    [
+        "Engage in a recreational sports activity",
+        "(17:35, 18:58)",
+        [
+            "First Avenue Veterinary Hospital",
+            700006196
+        ]
+    ],
+    [
+        "Engage in a recreational sports activity",
+        "(19:26, 20:59)",
+        [
+            "First Avenue Veterinary Hospital",
+            700006196
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:59)",
+        [
+            "TD Bank",
+            700011623
+        ]
+    ]
+]

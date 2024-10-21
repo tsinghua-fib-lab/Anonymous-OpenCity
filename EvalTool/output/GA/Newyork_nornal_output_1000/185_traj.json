@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Nizza",
+            700015888
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 09:52)",
+        [
+            "Nizza",
+            700015888
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:45, 12:01)",
+        [
+            "Nizza",
+            700015888
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:14, 14:00)",
+        [
+            "Nizza",
+            700015888
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:00, 16:51)",
+        [
+            "Citi Bike - 9th Avenue & West 45th Street",
+            700007946
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:14, 20:46)",
+        [
+            "Southern Hospitality",
+            700006372
+        ]
+    ],
+    [
+        "Go to Nizza",
+        "(22:10, 23:39)",
+        [
+            "Nizza",
+            700015888
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "Two Boots Pizza",
+            700008807
+        ]
+    ]
+]

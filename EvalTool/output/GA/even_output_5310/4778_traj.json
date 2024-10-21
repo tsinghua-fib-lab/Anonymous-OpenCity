@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Abrons Arts Center",
+            700000470
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:07)",
+        [
+            "",
+            700031268
+        ]
+    ],
+    [
+        "Stay at Abrons Arts Center",
+        "(12:43, 14:07)",
+        [
+            "",
+            700031279
+        ]
+    ],
+    [
+        "Stay at Abrons Arts Center",
+        "(14:36, 16:04)",
+        [
+            "Abrons Arts Center",
+            700000470
+        ]
+    ],
+    [
+        "Stay at Abrons Arts Center",
+        "(16:21, 17:51)",
+        [
+            "Henry Street Playhouse",
+            700005441
+        ]
+    ],
+    [
+        "Engage in a hobby or creative activity, like painting or crafting",
+        "(18:05, 19:54)",
+        [
+            "A. 1. PIZZA SHOP",
+            700019774
+        ]
+    ],
+    [
+        "Stay at A. 1. PIZZA SHOP",
+        "(20:51, 22:26)",
+        [
+            "A. 1. PIZZA SHOP",
+            700019774
+        ]
+    ],
+    [
+        "Stay at Abrons Arts Center",
+        "(23:21, 23:59)",
+        [
+            "A. 1. PIZZA SHOP",
+            700019774
+        ]
+    ]
+]

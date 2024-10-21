@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dainty Dumpling House",
+            700002889
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:10)",
+        [
+            "",
+            700013986
+        ]
+    ],
+    [
+        "Head to Dainty Dumpling House",
+        "(11:44, 13:10)",
+        [
+            "Dainty Dumpling House",
+            700002889
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:01, 15:14)",
+        [
+            "",
+            700009023
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:32, 19:36)",
+        [
+            "",
+            700030120
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:15, 22:42)",
+        [
+            "Dainty Dumpling House",
+            700002889
+        ]
+    ],
+    [
+        "Watch a Movie/Show",
+        "(21:38, 23:40)",
+        [
+            "Machi Machi",
+            700024774
+        ]
+    ],
+    [
+        "Watch a Movie/Show",
+        "(23:37, 23:59)",
+        [
+            "Dainty Dumpling House",
+            700002889
+        ]
+    ]
+]

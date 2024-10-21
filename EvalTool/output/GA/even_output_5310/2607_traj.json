@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030799
+        ]
+    ],
+    [
+        "Stay at home.",
+        "(10:00, 11:50)",
+        [
+            "",
+            700030799
+        ]
+    ],
+    [
+        "Stay at home.",
+        "(11:03, 12:57)",
+        [
+            "",
+            700030799
+        ]
+    ],
+    [
+        "Have lunch and catch up on a favorite show.",
+        "(13:36, 15:04)",
+        [
+            "",
+            700030799
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:43, 21:26)",
+        [
+            "",
+            700030803
+        ]
+    ],
+    [
+        "Go for coffee or casual hangout with friends",
+        "(19:32, 21:38)",
+        [
+            "",
+            700030765
+        ]
+    ],
+    [
+        "Wind down the day by watching a movie or binge-watching a series.",
+        "(21:30, 23:09)",
+        [
+            "",
+            700030764
+        ]
+    ],
+    [
+        "Go out for coffee or casual hangout with friends",
+        "(23:32, 23:59)",
+        [
+            "",
+            700030768
+        ]
+    ]
+]

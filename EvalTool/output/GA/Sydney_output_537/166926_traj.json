@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002835
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:37)",
+        [
+            "",
+            700003321
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:37, 16:02)",
+        [
+            "Fratelli Fresh",
+            700006659
+        ]
+    ],
+    [
+        "Stay at Fratelli Fresh for dinner",
+        "(17:17, 18:43)",
+        [
+            "Fratelli Fresh",
+            700006659
+        ]
+    ],
+    [
+        "Stay at Fratelli Fresh",
+        "(19:03, 20:29)",
+        [
+            "Fratelli Fresh",
+            700006659
+        ]
+    ],
+    [
+        "Stay at Fratelli Fresh.",
+        "(21:17, 22:57)",
+        [
+            "Fratelli Fresh",
+            700006659
+        ]
+    ],
+    [
+        "Stay at Fratelli Fresh.",
+        "(23:37, 23:59)",
+        [
+            "Fratelli Fresh",
+            700006659
+        ]
+    ]
+]

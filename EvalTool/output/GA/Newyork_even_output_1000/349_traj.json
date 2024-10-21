@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 51st Street & Lexington Avenue",
+            700008054
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park.",
+        "(10:00, 11:05)",
+        [
+            "",
+            700036992
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park.",
+        "(11:15, 13:06)",
+        [
+            "Citi Bike - East 51st Street & Lexington Avenue",
+            700008054
+        ]
+    ],
+    [
+        "Spend the afternoon watching a movie or binge-watching a series",
+        "(13:23, 15:47)",
+        [
+            "Citi Bike - East 51st Street & Lexington Avenue",
+            700008054
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:42, 17:10)",
+        [
+            "Starbucks",
+            700020309
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 51st Street & Lexington Avenue",
+        "(20:32, 21:56)",
+        [
+            "Citi Bike - East 51st Street & Lexington Avenue",
+            700008054
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 51st Street & Lexington Avenue.",
+        "(22:25, 23:36)",
+        [
+            "Citi Bike - East 51st Street & Lexington Avenue",
+            700008054
+        ]
+    ],
+    [
+        "Stay at Citi Bike - East 51st Street & Lexington Avenue;",
+        "(23:35, 23:59)",
+        [
+            "Fresh & Co",
+            700015252
+        ]
+    ]
+]

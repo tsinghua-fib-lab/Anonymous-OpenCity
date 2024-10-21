@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Something Special",
+            700005282
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 10:55)",
+        [
+            "",
+            700006258
+        ]
+    ],
+    [
+        "Brunch",
+        "(11:54, 12:57)",
+        [
+            "Hamburger America",
+            700040371
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:57, 14:50)",
+        [
+            "Hamburger America",
+            700040371
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(15:03, 16:10)",
+        [
+            "Something Special",
+            700005282
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:41, 22:04)",
+        [
+            "",
+            700006258
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 22:26)",
+        [
+            "Something Special",
+            700005282
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:25, 23:39)",
+        [
+            "Marcella",
+            700006252
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Naked Fish Sushi",
+            700002295
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:08)",
+        [
+            "Naked Fish Sushi",
+            700002295
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:17, 16:04)",
+        [
+            "Marina Theatre",
+            700002046
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(13:39, 15:00)",
+        [
+            "Marina Theatre",
+            700002046
+        ]
+    ],
+    [
+        "Catch Up on TV Shows or Movies",
+        "(15:28, 17:03)",
+        [
+            "Marina Theatre",
+            700002046
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 20:26)",
+        [
+            "Los Hermanos",
+            700010645
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "Blackwood",
+            700007286
+        ]
+    ]
+]

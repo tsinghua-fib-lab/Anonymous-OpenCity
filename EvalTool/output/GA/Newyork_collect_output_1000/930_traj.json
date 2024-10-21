@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Next workout session",
+        "(09:00, 10:37)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Next workout session",
+        "(10:28, 12:38)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Next leisure activity",
+        "(13:29, 15:02)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(16:01, 18:05)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Stay at Mughlai",
+        "(18:08, 19:43)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 21:57)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:59)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "Stay at Sunflower Cafe",
+        "(23:04, 23:59)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ]
+]

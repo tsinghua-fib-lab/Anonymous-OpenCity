@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002518
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:38)",
+        [
+            "",
+            700021863
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 16:40)",
+        [
+            "",
+            700022433
+        ]
+    ],
+    [
+        "Relaxation and Entertainment",
+        "(17:34, 19:02)",
+        [
+            "Citi Bike - Columbia St & Rivington St",
+            700008005
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 23:59)",
+        [
+            "",
+            700013153
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 22:37)",
+        [
+            "People's Choice Pharmacy",
+            700003818
+        ]
+    ]
+]

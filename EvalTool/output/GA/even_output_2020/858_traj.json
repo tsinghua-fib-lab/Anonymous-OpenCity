@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sancha Sushi",
+            700009129
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:59)",
+        [
+            "Woodhouse Fish Co.",
+            700000854
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:05, 16:08)",
+        [
+            "The Slice",
+            700001625
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(16:37, 18:03)",
+        [
+            "Sancha Sushi",
+            700009129
+        ]
+    ],
+    [
+        "Social Time with Friends or Family",
+        "(18:17, 19:53)",
+        [
+            "Sancha Sushi",
+            700009129
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 23:59)",
+        [
+            "Sterling Bank & Trust",
+            700010098
+        ]
+    ]
+]

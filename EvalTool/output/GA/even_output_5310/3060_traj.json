@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:30)",
+        [
+            "Sushi West",
+            700013966
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:37, 13:31)",
+        [
+            "Sushi West",
+            700013966
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:17, 16:09)",
+        [
+            "Sushi West",
+            700013966
+        ]
+    ],
+    [
+        "Socializing with Friends",
+        "(16:12, 18:56)",
+        [
+            "Sushi West",
+            700013966
+        ]
+    ],
+    [
+        "At-Home Relaxation",
+        "(19:48, 20:56)",
+        [
+            "Sushi West",
+            700013966
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:19, 22:19)",
+        [
+            "Frankies Sputino 570",
+            700005693
+        ]
+    ]
+]

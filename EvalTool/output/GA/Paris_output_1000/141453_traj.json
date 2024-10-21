@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700068238
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:31)",
+        [
+            "",
+            700029718
+        ]
+    ],
+    [
+        "Next activity after outdoor activity.",
+        "(12:29, 13:54)",
+        [
+            "Toilettes des Tuileries",
+            700004701
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(14:45, 16:38)",
+        [
+            "Toilettes des Tuileries",
+            700004701
+        ]
+    ],
+    [
+        "Hobby or Creative Activity",
+        "(17:31, 18:59)",
+        [
+            "Toilettes des Tuileries",
+            700004701
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 22:42)",
+        [
+            "",
+            700034764
+        ]
+    ]
+]

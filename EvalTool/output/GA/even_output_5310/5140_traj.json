@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001652
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:44)",
+        [
+            "",
+            700000666
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:08, 14:47)",
+        [
+            "Gotham Pizza",
+            700013968
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:48, 16:55)",
+        [
+            "Gotham Pizza",
+            700013968
+        ]
+    ],
+    [
+        "Leisure Reading or Gaming",
+        "(17:36, 19:16)",
+        [
+            "Gotham Pizza",
+            700013968
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:10, 20:57)",
+        [
+            "Kossar's Bagels & Bialys",
+            700033870
+        ]
+    ]
+]

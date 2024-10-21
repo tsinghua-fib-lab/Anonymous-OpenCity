@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030006
+        ]
+    ],
+    [
+        "Go for a morning walk or jog in the park",
+        "(09:00, 09:53)",
+        [
+            "Mamy Snack",
+            700006431
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:11, 14:27)",
+        [
+            "",
+            700021813
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a series",
+        "(14:30, 16:02)",
+        [
+            "Nanjing Dumpling",
+            700021243
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:39, 22:16)",
+        [
+            "Mamy Snack",
+            700006431
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:13, 23:59)",
+        [
+            "Dessert Kitchen",
+            700008960
+        ]
+    ]
+]

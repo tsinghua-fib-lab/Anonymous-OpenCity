@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of America",
+            700006015
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:32)",
+        [
+            "",
+            700001650
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:58, 18:38)",
+        [
+            "Cafe Luka",
+            700026128
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:17, 21:13)",
+        [
+            "Chase",
+            700006017
+        ]
+    ],
+    [
+        "Stay at Chase",
+        "(22:52, 23:59)",
+        [
+            "Chase",
+            700006017
+        ]
+    ],
+    [
+        "Stay at Tanoshi Sushi NYC",
+        "(23:58, 23:59)",
+        [
+            "Texas Rotisserie Grill & BBQ",
+            700030626
+        ]
+    ]
+]

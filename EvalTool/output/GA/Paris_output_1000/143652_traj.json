@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700050304
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:32)",
+        [
+            "",
+            700050304
+        ]
+    ],
+    [
+        "Meet friends for coffee or a light snack at 4:00 PM.",
+        "(16:34, 18:13)",
+        [
+            "",
+            700072447
+        ]
+    ],
+    [
+        "Prepare and have a nice dinner with family or friends.",
+        "(19:01, 20:29)",
+        [
+            "La Fontaine de Jade",
+            700001890
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:29, 22:56)",
+        [
+            "",
+            700048722
+        ]
+    ]
+]

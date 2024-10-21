@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Javelina",
+            700013603
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:58)",
+        [
+            "",
+            700002637
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(12:59, 14:07)",
+        [
+            "Javelina",
+            700013603
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:24, 19:44)",
+        [
+            "Gupshup",
+            700033963
+        ]
+    ],
+    [
+        "Afternoon Leisure Activity",
+        "(20:51, 22:17)",
+        [
+            "Javelina",
+            700013603
+        ]
+    ],
+    [
+        "Stay at Javelina",
+        "(22:44, 23:59)",
+        [
+            "Javelina",
+            700013603
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:50, 23:59)",
+        [
+            "Irving Farm Coffee Roasters",
+            700012420
+        ]
+    ]
+]

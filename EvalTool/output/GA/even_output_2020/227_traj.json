@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700004217
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:22)",
+        [
+            "Compass Family Services",
+            700013112
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 15:37)",
+        [
+            "Wells Fargo",
+            700004216
+        ]
+    ],
+    [
+        "Social Time",
+        "(15:33, 17:05)",
+        [
+            "Civic Center Pit Stop",
+            700009326
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 22:39)",
+        [
+            "",
+            700006704
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:04, 23:59)",
+        [
+            "",
+            700006701
+        ]
+    ]
+]

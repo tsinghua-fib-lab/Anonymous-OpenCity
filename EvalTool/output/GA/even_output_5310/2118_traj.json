@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:06)",
+        [
+            "Starbucks",
+            700020924
+        ]
+    ],
+    [
+        "Leisure Activity (Reading or Hobbies)",
+        "(13:40, 14:44)",
+        [
+            "Maman",
+            700020923
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 19:15)",
+        [
+            "",
+            700005037
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(17:36, 19:09)",
+        [
+            "",
+            700005037
+        ]
+    ],
+    [
+        "Go to Food truck by John Jay",
+        "(20:02, 21:41)",
+        [
+            "Equinox",
+            700003705
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:02, 23:59)",
+        [
+            "Equinox",
+            700003705
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:56, 23:59)",
+        [
+            "La Traviata Pizzeria",
+            700013914
+        ]
+    ]
+]

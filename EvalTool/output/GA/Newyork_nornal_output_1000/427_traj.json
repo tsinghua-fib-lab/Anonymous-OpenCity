@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018376
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:40)",
+        [
+            "West Side YMCA",
+            700000596
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:22, 21:10)",
+        [
+            "TOP OF THE ONE",
+            700006584
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:37, 23:59)",
+        [
+            "Ethical Culture School",
+            700000272
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Padoca Bakery",
+            700032490
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:51)",
+        [
+            "",
+            700002603
+        ]
+    ],
+    [
+        "Spend the afternoon catching up on a favorite TV show or reading a book",
+        "(14:25, 16:35)",
+        [
+            "Padoca Bakery",
+            700032490
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:29, 18:08)",
+        [
+            "",
+            700014655
+        ]
+    ],
+    [
+        "Wind down with a movie or game night.",
+        "(20:33, 21:50)",
+        [
+            "Ella Baker School",
+            700000282
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:38, 23:59)",
+        [
+            "HealthSource Pharmacy",
+            700028344
+        ]
+    ]
+]

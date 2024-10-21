@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chipolte",
+            700004204
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:24)",
+        [
+            "",
+            700002337
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:10, 15:58)",
+        [
+            "",
+            700022511
+        ]
+    ],
+    [
+        "Sports or Hobby",
+        "(18:05, 19:25)",
+        [
+            "",
+            700002419
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(20:27, 21:54)",
+        [
+            "CoCo Fresh Tea & Juice",
+            700003973
+        ]
+    ],
+    [
+        "Visit Kung Fu Tea/TKK Fried Chicken",
+        "(22:53, 23:59)",
+        [
+            "Frank's Pizza",
+            700004205
+        ]
+    ]
+]

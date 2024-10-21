@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Don Ramon's",
+            700005052
+        ]
+    ],
+    [
+        "Morning Routine",
+        "(10:00, 11:54)",
+        [
+            "Gaslamp Cafe",
+            700004522
+        ]
+    ],
+    [
+        "Morning Routine",
+        "(12:10, 13:54)",
+        [
+            "Gaslamp Cafe",
+            700004522
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:40, 16:10)",
+        [
+            "",
+            700004862
+        ]
+    ],
+    [
+        "Leisure Reading or Relaxing",
+        "(16:33, 18:01)",
+        [
+            "Gaslamp Cafe",
+            700004522
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 22:38)",
+        [
+            "Gaslamp Cafe",
+            700004522
+        ]
+    ]
+]

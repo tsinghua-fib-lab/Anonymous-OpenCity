@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700019672
+        ]
+    ],
+    [
+        "Go for a walk or do a light workout to energize for the day ahead.",
+        "(10:00, 11:01)",
+        [
+            "Equinox",
+            700003468
+        ]
+    ],
+    [
+        "Light Exercise",
+        "(11:16, 12:45)",
+        [
+            "Equinox",
+            700003468
+        ]
+    ],
+    [
+        "Light Exercise",
+        "(13:17, 15:57)",
+        [
+            "Equinox",
+            700003468
+        ]
+    ],
+    [
+        "Light Exercise",
+        "(15:49, 17:10)",
+        [
+            "Equinox",
+            700003468
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:15, 22:23)",
+        [
+            "",
+            700000842
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:47, 23:59)",
+        [
+            "",
+            700000842
+        ]
+    ]
+]

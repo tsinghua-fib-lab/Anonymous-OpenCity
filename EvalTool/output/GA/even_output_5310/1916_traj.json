@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001018
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(09:00, 10:02)",
+        [
+            "Kobe Sushi",
+            700013982
+        ]
+    ],
+    [
+        "Morning Walk/Exercise",
+        "(09:59, 11:05)",
+        [
+            "Kobe Sushi",
+            700013982
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(12:00, 13:57)",
+        [
+            "Kobe Sushi",
+            700013982
+        ]
+    ],
+    [
+        "Personal Projects or Hobbies",
+        "(14:37, 15:56)",
+        [
+            "Kobe Sushi",
+            700013982
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:15, 18:46)",
+        [
+            "Mount Sinai Doctors 77th Street Urology",
+            700016560
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:48, 21:15)",
+        [
+            "Gracie Square Hospital",
+            700000396
+        ]
+    ],
+    [
+        "Go to Kobe Sushi and spend some time.",
+        "(23:35, 23:59)",
+        [
+            "Gracie Square Hospital",
+            700000396
+        ]
+    ]
+]

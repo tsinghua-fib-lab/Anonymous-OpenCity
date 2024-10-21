@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ritm - Champs Elysées",
+            700060235
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:01)",
+        [
+            "Starbucks",
+            700001935
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:18, 14:43)",
+        [
+            "Le Carpaccio",
+            700021473
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:15, 20:09)",
+        [
+            "Ritm - Champs Elysées",
+            700060235
+        ]
+    ],
+    [
+        "Continue the evening by staying at Ritm - Champs Elysées.",
+        "(20:11, 21:45)",
+        [
+            "Ritm - Champs Elysées",
+            700060235
+        ]
+    ],
+    [
+        "Stay at Ritm - Champs Elysées.",
+        "(22:15, 23:55)",
+        [
+            "Ritm - Champs Elysées",
+            700060235
+        ]
+    ],
+    [
+        "Stay at Ritm - Champs Elysées",
+        "(23:51, 23:59)",
+        [
+            "Ritm - Champs Elysées",
+            700060235
+        ]
+    ]
+]

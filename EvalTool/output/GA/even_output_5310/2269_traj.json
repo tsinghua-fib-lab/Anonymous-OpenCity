@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Unique Green",
+            700041296
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 11:32)",
+        [
+            "Unique Green",
+            700041296
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:06, 13:35)",
+        [
+            "Unique Green",
+            700041296
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:22, 19:22)",
+        [
+            "Little Italy Pizza",
+            700024873
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(17:42, 19:04)",
+        [
+            "Starbucks",
+            700006554
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 21:59)",
+        [
+            "Patsy's Pizzeria",
+            700006553
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:38, 23:59)",
+        [
+            "Le Pain Quotidien",
+            700006028
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(23:48, 23:59)",
+        [
+            "Chipotle",
+            700017949
+        ]
+    ]
+]

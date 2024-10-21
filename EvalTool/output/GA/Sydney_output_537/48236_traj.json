@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700006016
+        ]
+    ],
+    [
+        "Leisure Reading or Relaxation",
+        "(10:00, 10:54)",
+        [
+            "",
+            700006016
+        ]
+    ],
+    [
+        "Leisure Reading or Relaxation",
+        "(11:39, 13:17)",
+        [
+            "Macchiato",
+            700006363
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 15:30)",
+        [
+            "Shark Hotel",
+            700005094
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 23:32)",
+        [
+            "Shark Hotel",
+            700005094
+        ]
+    ],
+    [
+        "Leisure Reading or Relaxation",
+        "(23:19, 23:59)",
+        [
+            "",
+            700006014
+        ]
+    ]
+]

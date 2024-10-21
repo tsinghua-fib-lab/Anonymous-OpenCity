@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002312
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:35)",
+        [
+            "Zazzy's Pizza",
+            700015899
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:34, 18:39)",
+        [
+            "Arlene's Grocery",
+            700005419
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:25, 23:59)",
+        [
+            "Mr. Taka Ramen",
+            700008882
+        ]
+    ],
+    [
+        "Stay at Mr. Taka Ramen",
+        "(23:24, 23:59)",
+        [
+            "Mr. Taka Ramen",
+            700008882
+        ]
+    ]
+]

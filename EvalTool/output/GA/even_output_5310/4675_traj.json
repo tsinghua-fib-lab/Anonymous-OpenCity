@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Panera Bread",
+            700004773
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:31)",
+        [
+            "Glaze Teriyaki",
+            700004774
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:41, 12:52)",
+        [
+            "Blue Bottle Coffee",
+            700016217
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:02, 15:01)",
+        [
+            "",
+            700001380
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:02, 17:57)",
+        [
+            "Blue Bottle Coffee",
+            700012916
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(18:58, 19:59)",
+        [
+            "Blue Bottle Coffee",
+            700012916
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:24, 23:59)",
+        [
+            "P.F. Chang's",
+            700009145
+        ]
+    ]
+]

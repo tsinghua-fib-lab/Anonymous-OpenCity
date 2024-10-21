@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Umpqua Bank",
+            700002809
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:55)",
+        [
+            "",
+            700005885
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(16:54, 17:55)",
+        [
+            "Umpqua Bank",
+            700002809
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 21:48)",
+        [
+            "",
+            700005883
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(22:20, 23:59)",
+        [
+            "The Lotus Method",
+            700006192
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "Noe Valley Smiles and Braces",
+            700002807
+        ]
+    ]
+]

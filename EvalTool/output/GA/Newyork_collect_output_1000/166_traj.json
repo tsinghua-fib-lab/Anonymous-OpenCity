@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001774
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:40)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:51, 13:53)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Exploring a Local Attraction",
+        "(13:58, 15:32)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "Explore a Local Attraction",
+        "(15:36, 17:10)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:58, 22:40)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Stay at Sunflower Cafe",
+        "(22:57, 23:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

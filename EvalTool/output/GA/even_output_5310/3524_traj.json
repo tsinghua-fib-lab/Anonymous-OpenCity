@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bar Veloce",
+            700004932
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:43)",
+        [
+            "Tiro a Segno",
+            700006249
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:10, 15:46)",
+        [
+            "Tiro a Segno",
+            700006249
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:59, 17:13)",
+        [
+            "Tiro a Segno",
+            700006249
+        ]
+    ],
+    [
+        "Watch Movie or TV Show",
+        "(17:33, 18:54)",
+        [
+            "Tiro a Segno",
+            700006249
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:39, 22:25)",
+        [
+            "Mermaid Oyster Bar",
+            700004934
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "Berlin Döner",
+            700040208
+        ]
+    ]
+]

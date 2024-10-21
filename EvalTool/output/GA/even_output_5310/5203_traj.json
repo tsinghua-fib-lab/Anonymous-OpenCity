@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tesla Supercharger",
+            700016581
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 11:06)",
+        [
+            "Chipotle",
+            700017950
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:07, 12:40)",
+        [
+            "Chipotle",
+            700017950
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:34, 15:06)",
+        [
+            "Chipotle",
+            700017950
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:49, 19:02)",
+        [
+            "",
+            700000661
+        ]
+    ],
+    [
+        "Stay at Chipotle",
+        "(20:39, 22:00)",
+        [
+            "Chipotle",
+            700017950
+        ]
+    ],
+    [
+        "Stay at Chipotle",
+        "(22:56, 23:53)",
+        [
+            "CityMD",
+            700013537
+        ]
+    ]
+]

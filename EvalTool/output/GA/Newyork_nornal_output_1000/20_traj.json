@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Ohm Center",
+            700036807
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:30)",
+        [
+            "Ohm Center",
+            700036807
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:06, 12:10)",
+        [
+            "Merchants Cigar Bar",
+            700006521
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:41, 18:06)",
+        [
+            "Moti Mahal Delux",
+            700006522
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:06, 23:39)",
+        [
+            "Ohm Center",
+            700036807
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:25, 21:28)",
+        [
+            "Citi Bike - 1st Avenue & East 62nd Street",
+            700021683
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:18, 23:33)",
+        [
+            "Citi Bike - 1st Avenue & East 62nd Street",
+            700021683
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 45th Street & 3rd Avenue",
+            700008049
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:25)",
+        [
+            "The Perfect Pint",
+            700007257
+        ]
+    ],
+    [
+        "Outdoor Activity (Walk in the Park)",
+        "(12:03, 13:08)",
+        [
+            "Barnes Bistro",
+            700006422
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 16:38)",
+        [
+            "Herbs thai bistro",
+            700008545
+        ]
+    ],
+    [
+        "Spend quality time with family or friends, or engage in your hobby.",
+        "(19:32, 21:11)",
+        [
+            "Citi Bike - East 45th Street & 3rd Avenue",
+            700008049
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:00, 23:59)",
+        [
+            "Bierhaus NYC",
+            700007343
+        ]
+    ]
+]

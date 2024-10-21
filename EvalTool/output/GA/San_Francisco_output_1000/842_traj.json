@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bing Kong Tong Benevolent Association",
+            700001071
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:27)",
+        [
+            "Bing Kong Tong Benevolent Association",
+            700001071
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 15:57)",
+        [
+            "Bank of America",
+            700008974
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:46, 21:20)",
+        [
+            "Far East Cafe",
+            700006404
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:35, 23:59)",
+        [
+            "Jinshan Cafe",
+            700014406
+        ]
+    ]
+]

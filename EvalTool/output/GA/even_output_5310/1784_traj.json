@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Barry's",
+            700024374
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:54)",
+        [
+            "Veritable",
+            700014653
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:22, 15:18)",
+        [
+            "Veterinary Emergency Group",
+            700014656
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 18:30)",
+        [
+            "Silver Star",
+            700024376
+        ]
+    ],
+    [
+        "Stay at Barry's",
+        "(23:35, 23:59)",
+        [
+            "Two Boots Pizza",
+            700006545
+        ]
+    ]
+]

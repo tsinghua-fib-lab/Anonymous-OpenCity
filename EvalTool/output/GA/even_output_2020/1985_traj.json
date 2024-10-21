@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Cafecito",
+            700010245
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:54)",
+        [
+            "Cinnabar",
+            700002142
+        ]
+    ],
+    [
+        "Leisurely Walk or Hike",
+        "(12:14, 13:52)",
+        [
+            "El Rincon Yucateco",
+            700001100
+        ]
+    ],
+    [
+        "Afternoon Movie or TV Show Binge",
+        "(14:19, 16:45)",
+        [
+            "Cafecito",
+            700010245
+        ]
+    ],
+    [
+        "Cooking a New Recipe",
+        "(17:02, 18:38)",
+        [
+            "Cafecito",
+            700010245
+        ]
+    ],
+    [
+        "Wind Down with Reading or Music",
+        "(19:31, 21:02)",
+        [
+            "Cafecito",
+            700010245
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:07, 23:59)",
+        [
+            "El Rincon Yucateco",
+            700001100
+        ]
+    ],
+    [
+        "Cooking a New Recipe",
+        "(23:19, 23:59)",
+        [
+            "Cafecito",
+            700010245
+        ]
+    ]
+]

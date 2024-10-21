@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "mazete",
+            700016700
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:24)",
+        [
+            "Bank of America",
+            700006153
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(10:26, 11:59)",
+        [
+            "Bank of America",
+            700006153
+        ]
+    ],
+    [
+        "Creative Writing Session",
+        "(12:51, 13:51)",
+        [
+            "Bank of America",
+            700006153
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:57, 15:47)",
+        [
+            "Dos Toros Taqueria",
+            700013570
+        ]
+    ],
+    [
+        "Next activity after leisure activity",
+        "(15:47, 17:24)",
+        [
+            "mazete",
+            700016700
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:15, 21:47)",
+        [
+            "",
+            700011154
+        ]
+    ],
+    [
+        "Stay at mazete",
+        "(22:27, 23:47)",
+        [
+            "mazete",
+            700016700
+        ]
+    ],
+    [
+        "Stay at mazete",
+        "(23:57, 23:59)",
+        [
+            "Dos Toros Taqueria",
+            700013570
+        ]
+    ]
+]

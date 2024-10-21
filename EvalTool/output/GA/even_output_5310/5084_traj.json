@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003116
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:39)",
+        [
+            "Angela’s Sandwich Shop",
+            700011897
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:55, 20:19)",
+        [
+            "Sarabeth's",
+            700011724
+        ]
+    ],
+    [
+        "Outdoor Time",
+        "(17:12, 18:53)",
+        [
+            "",
+            700003116
+        ]
+    ],
+    [
+        "Dinner and Prepare for the Week",
+        "(19:35, 20:55)",
+        [
+            "Quality Italian",
+            700020631
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(22:03, 23:59)",
+        [
+            "Angela’s Sandwich Shop",
+            700011897
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(23:54, 23:59)",
+        [
+            "",
+            700019047
+        ]
+    ]
+]

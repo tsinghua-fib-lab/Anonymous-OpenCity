@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700004890
+        ]
+    ],
+    [
+        "Leisurely Breakfast",
+        "(10:00, 11:34)",
+        [
+            "Super Duper Burger",
+            700003078
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:44, 12:55)",
+        [
+            "Super Duper Burger",
+            700003078
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:12, 15:36)",
+        [
+            "Campus - San Francisco",
+            700003077
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:49, 20:37)",
+        [
+            "",
+            700004869
+        ]
+    ],
+    [
+        "Stay at Campus - San Francisco",
+        "(18:28, 20:06)",
+        [
+            "Campus - San Francisco",
+            700003077
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:20, 23:59)",
+        [
+            "California Wine Merchant",
+            700008807
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:47, 22:54)",
+        [
+            "delarosa",
+            700004889
+        ]
+    ]
+]

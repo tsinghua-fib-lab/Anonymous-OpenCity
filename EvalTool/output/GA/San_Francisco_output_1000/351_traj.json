@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008217
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:27)",
+        [
+            "Udupi Palace",
+            700010985
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:20, 16:28)",
+        [
+            "Little Kite Asian Fusion",
+            700005969
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:00, 21:17)",
+        [
+            "20mission Hacker Hotel",
+            700002370
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(23:40, 23:59)",
+        [
+            "La Playa",
+            700001583
+        ]
+    ]
+]

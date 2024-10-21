@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Seward Street Slides",
+            700001634
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:33)",
+        [
+            "Seward Street Slides",
+            700001634
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:10, 12:37)",
+        [
+            "Seward Street Slides",
+            700001634
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 15:23)",
+        [
+            "",
+            700014182
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(18:22, 20:09)",
+        [
+            "Seward Street Slides",
+            700001634
+        ]
+    ],
+    [
+        "Leisure activity.",
+        "(20:53, 23:14)",
+        [
+            "",
+            700002939
+        ]
+    ],
+    [
+        "Catch Up with Friends or Family",
+        "(23:04, 23:59)",
+        [
+            "",
+            700003641
+        ]
+    ]
+]

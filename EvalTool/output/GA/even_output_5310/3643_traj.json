@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700034900
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:23)",
+        [
+            "",
+            700034900
+        ]
+    ],
+    [
+        "Leisure Activity: Movie or Reading",
+        "(11:38, 13:28)",
+        [
+            "Nish Nush",
+            700014022
+        ]
+    ],
+    [
+        "Leisure Activity: Movie or Reading",
+        "(14:14, 15:56)",
+        [
+            "",
+            700034892
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(16:43, 18:23)",
+        [
+            "",
+            700034874
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:36, 21:09)",
+        [
+            "",
+            700034899
+        ]
+    ]
+]

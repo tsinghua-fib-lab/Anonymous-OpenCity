@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Taxi Stand at Columbus Ave at Broadway (SW Corner, in front of City Lights Book)",
+            700009904
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:28)",
+        [
+            "Cafe Tosca",
+            700000428
+        ]
+    ],
+    [
+        "Current place: Cafe Tosca. Stay for 1 hour 3 minutes.",
+        "(14:57, 16:07)",
+        [
+            "",
+            700008185
+        ]
+    ],
+    [
+        "Current place: Cafe Tosca. Stay for 1 hour 3 minutes.",
+        "(16:47, 18:13)",
+        [
+            "Happy Donut",
+            700004010
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 21:54)",
+        [
+            "Mr. Bing's",
+            700000015
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(22:33, 23:59)",
+        [
+            "",
+            700008193
+        ]
+    ]
+]

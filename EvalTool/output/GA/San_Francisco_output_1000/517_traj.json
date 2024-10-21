@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Walgreens & Live Fit Gym Underground Parking Garage",
+            700001410
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:51)",
+        [
+            "",
+            700013250
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:50, 16:00)",
+        [
+            "",
+            700001942
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:26, 18:01)",
+        [
+            "Shanghai Dumpling King",
+            700003644
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:32, 23:59)",
+        [
+            "Jasmine Garden",
+            700003645
+        ]
+    ]
+]

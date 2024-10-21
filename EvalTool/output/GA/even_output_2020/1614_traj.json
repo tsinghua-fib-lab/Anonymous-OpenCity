@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008806
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 11:07)",
+        [
+            "Washington Square Bar & Grill",
+            700000464
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(11:02, 13:08)",
+        [
+            "Washington Square Bar & Grill",
+            700000464
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(13:20, 14:37)",
+        [
+            "Washington Square Bar & Grill",
+            700000464
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:29, 16:08)",
+        [
+            "Washington Square Bar & Grill",
+            700000464
+        ]
+    ],
+    [
+        "Engage in a leisure activity.",
+        "(16:24, 17:52)",
+        [
+            "Washington Square Bar & Grill",
+            700000464
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:16, 23:59)",
+        [
+            "",
+            700009114
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "",
+            700009113
+        ]
+    ]
+]

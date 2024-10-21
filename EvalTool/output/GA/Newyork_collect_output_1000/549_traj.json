@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:38)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Brunch",
+        "(12:19, 13:52)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:50, 16:15)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:56, 21:48)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:49, 23:59)",
+        [
+            "",
+            700002180
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill",
+        "(21:50, 23:01)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "Stay at Sunflower Cafe",
+        "(23:38, 23:59)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ]
+]

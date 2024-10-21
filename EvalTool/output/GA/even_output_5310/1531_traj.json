@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bubo",
+            700000671
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:36)",
+        [
+            "Babylon",
+            700008370
+        ]
+    ],
+    [
+        "Attend a yoga or fitness class",
+        "(15:02, 16:41)",
+        [
+            "",
+            700024799
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:59, 22:09)",
+        [
+            "",
+            700002647
+        ]
+    ],
+    [
+        "Watch a movie or catch up on a TV series",
+        "(20:15, 22:28)",
+        [
+            "Bubo",
+            700000671
+        ]
+    ],
+    [
+        "Stay at your current place",
+        "(22:07, 23:14)",
+        [
+            "Aunt Bernie's",
+            700008572
+        ]
+    ],
+    [
+        "Wind down and watch a movie or catch up on a TV series",
+        "(23:41, 23:59)",
+        [
+            "Jackson Hole",
+            700007328
+        ]
+    ]
+]

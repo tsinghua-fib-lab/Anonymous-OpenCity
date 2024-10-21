@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Finestra Restaurant",
+            700016390
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:33)",
+        [
+            "",
+            700001923
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:23, 19:08)",
+        [
+            "York Ave Pizza",
+            700041064
+        ]
+    ],
+    [
+        "Spend time at York Ave Pizza",
+        "(19:47, 20:54)",
+        [
+            "York Ave Pizza",
+            700041064
+        ]
+    ],
+    [
+        "Spend time at York Ave Pizza",
+        "(21:10, 23:40)",
+        [
+            "York Ave Pizza",
+            700041064
+        ]
+    ],
+    [
+        "Stay at Finestra Restaurant",
+        "(23:40, 23:59)",
+        [
+            "York Ave Pizza",
+            700041064
+        ]
+    ]
+]

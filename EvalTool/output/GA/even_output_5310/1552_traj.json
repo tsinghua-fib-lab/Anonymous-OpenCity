@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "El Pote Español",
+            700006708
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:58)",
+        [
+            "Townhouse Diner",
+            700006707
+        ]
+    ],
+    [
+        "brunch with friends",
+        "(12:38, 13:59)",
+        [
+            "Townhouse Diner",
+            700006707
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:36, 18:34)",
+        [
+            "",
+            700006705
+        ]
+    ],
+    [
+        "Dinner with Family",
+        "(18:44, 19:53)",
+        [
+            "El Pote Español",
+            700006708
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(20:44, 22:06)",
+        [
+            "El Pote Español",
+            700006708
+        ]
+    ],
+    [
+        "Relaxation/Reading Time",
+        "(22:48, 23:59)",
+        [
+            "El Pote Español",
+            700006708
+        ]
+    ]
+]

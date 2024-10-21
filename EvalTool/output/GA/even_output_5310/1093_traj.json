@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CityMD",
+            700013542
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:24)",
+        [
+            "The Black Sheep",
+            700007840
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 18:04)",
+        [
+            "The Black Sheep",
+            700007840
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 16:52)",
+        [
+            "",
+            700002162
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:38, 23:59)",
+        [
+            "",
+            700021868
+        ]
+    ],
+    [
+        "Stay at CityMD.",
+        "(23:05, 23:59)",
+        [
+            "Citi Bike - East 39th Street & 3rd Avenue",
+            700007835
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700026963
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:22)",
+        [
+            "",
+            700026963
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:22, 15:38)",
+        [
+            "",
+            700026960
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 21:09)",
+        [
+            "LCL",
+            700022313
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:13, 20:58)",
+        [
+            "Champs Élysées Pierre Charron",
+            700003357
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:17, 23:59)",
+        [
+            "Le Madam",
+            700015096
+        ]
+    ]
+]

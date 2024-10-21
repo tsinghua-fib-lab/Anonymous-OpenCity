@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dunkin'",
+            700015893
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:05)",
+        [
+            "Dunkin'",
+            700015893
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(14:42, 16:06)",
+        [
+            "",
+            700002450
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(16:25, 17:52)",
+        [
+            "Mim Spicy & Deli Grocery",
+            700006237
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(18:50, 19:54)",
+        [
+            "",
+            700002450
+        ]
+    ],
+    [
+        "Stay at Dunkin'",
+        "(20:05, 22:13)",
+        [
+            "Coppola's",
+            700008586
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:46, 23:59)",
+        [
+            "NYC Pizza Kitchen",
+            700006240
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "Coppola's",
+            700008586
+        ]
+    ]
+]

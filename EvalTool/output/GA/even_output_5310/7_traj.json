@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Public School 18",
+            700000041
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:53)",
+        [
+            "NYSC",
+            700020315
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:22, 12:55)",
+        [
+            "",
+            700020306
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(13:30, 15:38)",
+        [
+            "NYSC",
+            700020315
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:01, 20:07)",
+        [
+            "Link NYC",
+            700020316
+        ]
+    ],
+    [
+        "Sleep at Public School 18 and wind down for the night.",
+        "(21:30, 23:02)",
+        [
+            "Devocion",
+            700006480
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:25, 23:59)",
+        [
+            "Public School 18",
+            700000041
+        ]
+    ]
+]

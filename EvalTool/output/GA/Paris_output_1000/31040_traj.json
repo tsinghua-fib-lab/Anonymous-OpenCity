@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Stay at Paris Eiffel Tower.",
+        "(10:00, 11:31)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Stay at Paris Eiffel Tower.",
+        "(11:41, 13:11)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Stay at Paris Eiffel Tower.",
+        "(13:52, 15:26)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "Currently staying at Paris Eiffel Tower.",
+        "(15:39, 17:16)",
+        [
+            "Paris Eiffel Tower",
+            700073413
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 22:11)",
+        [
+            "",
+            700004278
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:54, 23:59)",
+        [
+            "",
+            700026033
+        ]
+    ]
+]

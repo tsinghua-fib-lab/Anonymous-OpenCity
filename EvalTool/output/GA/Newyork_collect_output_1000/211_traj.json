@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002683
+        ]
+    ],
+    [
+        "Leisure Activity or Exercise",
+        "(10:00, 11:26)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "Go to Link NYC",
+        "(11:27, 13:21)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 16:45)",
+        [
+            "Auto Motion",
+            700018140
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(18:26, 20:54)",
+        [
+            "Smile To Go",
+            700016866
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 23:06)",
+        [
+            "Di Di Dumpling",
+            700011514
+        ]
+    ],
+    [
+        "Stay at Sunflower Cafe",
+        "(23:46, 23:59)",
+        [
+            "CoCo Fresh Tea & Juice",
+            700003973
+        ]
+    ]
+]

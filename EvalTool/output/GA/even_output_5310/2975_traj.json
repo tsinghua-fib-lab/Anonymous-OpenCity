@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700027356
+        ]
+    ],
+    [
+        "Engage in a morning workout or leisurely walk",
+        "(09:00, 10:05)",
+        [
+            "Le Parisien",
+            700008336
+        ]
+    ],
+    [
+        "current place: Le Parisien; stay time:",
+        "(10:07, 11:47)",
+        [
+            "",
+            700002164
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 17:26)",
+        [
+            "Arvaci Ciffee",
+            700031414
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:07, 21:58)",
+        [
+            "",
+            700002164
+        ]
+    ],
+    [
+        "Stay at current place: Psychic Readings.",
+        "(20:15, 21:48)",
+        [
+            "Le Parisien",
+            700008336
+        ]
+    ],
+    [
+        "Stay at Psychic Readings.",
+        "(21:49, 23:08)",
+        [
+            "Omakase 33",
+            700008335
+        ]
+    ]
+]

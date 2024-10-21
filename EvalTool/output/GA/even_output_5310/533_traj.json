@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Everbrook Academy",
+            700016053
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:59)",
+        [
+            "",
+            700015026
+        ]
+    ],
+    [
+        "Late Afternoon Relaxation",
+        "(12:33, 14:02)",
+        [
+            "Sushi Ryusei",
+            700015028
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:33, 17:10)",
+        [
+            "",
+            700002913
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:33, 23:59)",
+        [
+            "One Medical",
+            700033968
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:39, 23:59)",
+        [
+            "Caffé Venice",
+            700006451
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 10:54)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:33, 13:06)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:19, 18:29)",
+        [
+            "White City Estate",
+            700005431
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:30, 20:22)",
+        [
+            "Egyptian House",
+            700050002
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 23:36)",
+        [
+            "",
+            700065880
+        ]
+    ],
+    [
+        "Catch Up on TV or Movies",
+        "(20:02, 21:36)",
+        [
+            "",
+            700065952
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:06, 23:59)",
+        [
+            "City Grill",
+            700050003
+        ]
+    ]
+]

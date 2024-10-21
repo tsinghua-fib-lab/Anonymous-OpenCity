@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "StreetTaco",
+            700003324
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:03)",
+        [
+            "StreetTaco",
+            700003324
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:58, 15:14)",
+        [
+            "Cumaica",
+            700002743
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:19, 16:21)",
+        [
+            "Cumaica",
+            700002743
+        ]
+    ],
+    [
+        "Exercise or Sports Activity",
+        "(17:02, 18:25)",
+        [
+            "StreetTaco",
+            700003324
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:29, 19:53)",
+        [
+            "Moya Cafe",
+            700001886
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:51, 22:39)",
+        [
+            "Taxi Stand at BEI Hotel",
+            700009947
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:01, 23:59)",
+        [
+            "",
+            700001244
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700016765
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:26)",
+        [
+            "Bluestone Lane",
+            700021774
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:09, 14:32)",
+        [
+            "Shake Shack",
+            700016406
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 18:16)",
+        [
+            "ViVi Bubble Tea",
+            700015836
+        ]
+    ],
+    [
+        "You stay at your current place.",
+        "(19:27, 20:48)",
+        [
+            "Woori America Bank",
+            700039855
+        ]
+    ],
+    [
+        "You stay at your current place.",
+        "(21:30, 22:50)",
+        [
+            "Woori America Bank",
+            700039855
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:08, 23:59)",
+        [
+            "Walgreens",
+            700009306
+        ]
+    ]
+]

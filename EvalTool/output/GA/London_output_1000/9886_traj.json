@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:55)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Sports Activity",
+        "(15:23, 17:02)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Dinner Prep & Family Time",
+        "(17:10, 19:00)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Wind Down with TV/Movies",
+        "(19:36, 21:58)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Wind Down with TV/Movies",
+        "(22:09, 23:44)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Wind Down with TV/Movies",
+        "(23:49, 23:59)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ]
+]

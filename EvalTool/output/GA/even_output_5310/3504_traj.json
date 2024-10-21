@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013153
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:28)",
+        [
+            "Ost Cafe",
+            700009828
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(14:10, 15:54)",
+        [
+            "Ost Cafe",
+            700009828
+        ]
+    ],
+    [
+        "Meet Friends or Family",
+        "(15:59, 17:32)",
+        [
+            "Ost Cafe",
+            700009828
+        ]
+    ],
+    [
+        "Meet Friends or Family",
+        "(17:33, 19:11)",
+        [
+            "Ost Cafe",
+            700009828
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:39, 23:02)",
+        [
+            "El Castillo De Jagua",
+            700003816
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "",
+            700001643
+        ]
+    ]
+]

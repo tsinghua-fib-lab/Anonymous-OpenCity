@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700009561
+        ]
+    ],
+    [
+        "Go for a walk in the local park.",
+        "(10:00, 10:55)",
+        [
+            "",
+            700009565
+        ]
+    ],
+    [
+        "Go for a walk in the local park",
+        "(10:56, 12:01)",
+        [
+            "",
+            700009565
+        ]
+    ],
+    [
+        "Taking a break at Clay Medical Pharmacy.",
+        "(12:00, 14:07)",
+        [
+            "",
+            700009561
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 15:03)",
+        [
+            "Tantara",
+            700003880
+        ]
+    ],
+    [
+        "Stay at Bank of America for reading.",
+        "(17:05, 18:50)",
+        [
+            "",
+            700009559
+        ]
+    ],
+    [
+        "Stay at Clay Medical Pharmacy for reading.",
+        "(19:08, 20:54)",
+        [
+            "Cumberland Presbyterian Chinese Church",
+            700000284
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:35, 23:59)",
+        [
+            "",
+            700001613
+        ]
+    ]
+]

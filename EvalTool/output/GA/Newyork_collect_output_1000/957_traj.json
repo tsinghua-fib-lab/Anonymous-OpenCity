@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "You will stay at AWOL Bar and Grill until 10:00 AM and then go for a walk.",
+        "(09:00, 10:21)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ],
+    [
+        "Stay at current place: AWOL Bar and Grill",
+        "(10:26, 12:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:11, 14:06)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:42, 23:02)",
+        [
+            "Street Taco",
+            700006239
+        ]
+    ],
+    [
+        "Stay at Bagel Express III",
+        "(21:51, 23:07)",
+        [
+            "Sucker Punch",
+            700031415
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "",
+            700002180
+        ]
+    ]
+]

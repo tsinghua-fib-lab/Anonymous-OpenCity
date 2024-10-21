@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Emporium SF",
+            700005898
+        ]
+    ],
+    [
+        "11:00 AM - 1:00 PM",
+        "(10:00, 12:04)",
+        [
+            "Emporium SF",
+            700005898
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 13:05)",
+        [
+            "",
+            700013067
+        ]
+    ],
+    [
+        "Stay at Emporium SF",
+        "(17:57, 18:57)",
+        [
+            "Sunset Squares Slice Shop",
+            700005457
+        ]
+    ],
+    [
+        "Stay at Emporium SF",
+        "(19:16, 21:02)",
+        [
+            "Emporium SF",
+            700005898
+        ]
+    ],
+    [
+        "Stay at Emporium SF",
+        "(21:29, 22:50)",
+        [
+            "Loving Cup",
+            700010748
+        ]
+    ],
+    [
+        "Stay at Emporium SF",
+        "(23:38, 23:59)",
+        [
+            "Loving Cup",
+            700010748
+        ]
+    ]
+]

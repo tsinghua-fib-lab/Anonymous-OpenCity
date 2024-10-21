@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700014876
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:56)",
+        [
+            "",
+            700001268
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:44, 20:21)",
+        [
+            "Wanpo Tea Shop",
+            700038331
+        ]
+    ],
+    [
+        "Wind Down",
+        "(18:14, 20:05)",
+        [
+            "Citi Bike - University Pl & E 8 St",
+            700021684
+        ]
+    ],
+    [
+        "Next Activity",
+        "(20:40, 22:12)",
+        [
+            "Citi Bike - University Pl & E 8 St",
+            700021684
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:58, 23:59)",
+        [
+            "Chase",
+            700007666
+        ]
+    ]
+]

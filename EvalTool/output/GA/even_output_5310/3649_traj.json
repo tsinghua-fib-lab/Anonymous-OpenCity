@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "PNC Bank",
+            700033105
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:23)",
+        [
+            "",
+            700035001
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:39, 18:33)",
+        [
+            "Dunkin'",
+            700006650
+        ]
+    ],
+    [
+        "Go to Wells Fargo",
+        "(20:03, 21:27)",
+        [
+            "Wells Fargo",
+            700033104
+        ]
+    ],
+    [
+        "Go to 'Wells Fargo' and stay for 1 hour.",
+        "(21:51, 22:57)",
+        [
+            "",
+            700035001
+        ]
+    ],
+    [
+        "Stay at PNC Bank",
+        "(23:00, 23:59)",
+        [
+            "PNC Bank",
+            700033105
+        ]
+    ],
+    [
+        "Stay at PNC Bank.",
+        "(23:50, 23:59)",
+        [
+            "PNC Bank",
+            700033105
+        ]
+    ]
+]

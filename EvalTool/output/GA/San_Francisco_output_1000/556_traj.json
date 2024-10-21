@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sorella",
+            700002494
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:02)",
+        [
+            "Sorella",
+            700002494
+        ]
+    ],
+    [
+        "Brunch",
+        "(11:32, 13:10)",
+        [
+            "Sorella",
+            700002494
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:52, 15:12)",
+        [
+            "Sorella",
+            700002494
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:15, 21:00)",
+        [
+            "",
+            700009527
+        ]
+    ],
+    [
+        "Next activity after dinner prep.",
+        "(20:01, 21:33)",
+        [
+            "The UPS Store",
+            700002741
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:34, 23:59)",
+        [
+            "El Capitán Taquería",
+            700013860
+        ]
+    ]
+]

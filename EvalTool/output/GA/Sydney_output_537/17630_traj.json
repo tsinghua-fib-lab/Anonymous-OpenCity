@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700027829
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:23)",
+        [
+            "",
+            700027829
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:25, 13:20)",
+        [
+            "Sushi Hub",
+            700027700
+        ]
+    ],
+    [
+        "Leisure Activity (Hobby Time)",
+        "(14:08, 16:07)",
+        [
+            "Sushi Hub",
+            700027700
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:25, 19:00)",
+        [
+            "",
+            700030426
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(20:50, 22:33)",
+        [
+            "Sushi Hub",
+            700027700
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:13, 23:59)",
+        [
+            "Sushi Hub",
+            700027700
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:49, 23:59)",
+        [
+            "KFC",
+            700029203
+        ]
+    ]
+]

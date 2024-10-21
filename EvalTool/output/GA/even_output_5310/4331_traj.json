@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Boris and Horton",
+            700012364
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:51)",
+        [
+            "Boris and Horton",
+            700012364
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:44, 16:49)",
+        [
+            "Citi Bike - East 13th Street & Avenue A",
+            700008023
+        ]
+    ],
+    [
+        "Attend a local event, art exhibition, or concert",
+        "(14:09, 15:54)",
+        [
+            "The Garret",
+            700012154
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:33, 18:43)",
+        [
+            "",
+            700001273
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:59, 21:56)",
+        [
+            "",
+            700002946
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(23:58, 23:59)",
+        [
+            "Gomi",
+            700012365
+        ]
+    ]
+]

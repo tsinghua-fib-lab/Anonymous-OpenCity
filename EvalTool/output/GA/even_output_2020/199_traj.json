@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ararat Kebab & Gyros",
+            700012925
+        ]
+    ],
+    [
+        "Leisure Reading/Personal Development",
+        "(10:00, 11:39)",
+        [
+            "",
+            700000752
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:13, 13:44)",
+        [
+            "Ararat Kebab & Gyros",
+            700012925
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 17:51)",
+        [
+            "Kokio Republic",
+            700003440
+        ]
+    ],
+    [
+        "Continue at Ararat Kebab & Gyros",
+        "(22:04, 23:33)",
+        [
+            "Ararat Kebab & Gyros",
+            700012925
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:30, 23:59)",
+        [
+            "EF",
+            700013941
+        ]
+    ]
+]

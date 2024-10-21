@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "NYC Discount Pharmacy",
+            700030624
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:18)",
+        [
+            "Adyar Ananda Bhavan",
+            700039314
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:56, 19:33)",
+        [
+            "Sushi Ginza",
+            700006518
+        ]
+    ],
+    [
+        "Social Time",
+        "(16:48, 18:10)",
+        [
+            "Bistro Vendôme",
+            700011529
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:17, 19:50)",
+        [
+            "Frolla Cafè",
+            700030619
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:30, 22:52)",
+        [
+            "",
+            700010697
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:38, 23:59)",
+        [
+            "",
+            700010700
+        ]
+    ]
+]

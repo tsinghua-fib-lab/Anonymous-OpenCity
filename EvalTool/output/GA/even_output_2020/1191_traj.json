@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tú Lan",
+            700000452
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:15)",
+        [
+            "",
+            700010247
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(15:42, 17:37)",
+        [
+            "Tú Lan",
+            700000452
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(18:05, 20:05)",
+        [
+            "The Rumpus Room",
+            700004676
+        ]
+    ],
+    [
+        "Dinner Preparation and Cooking",
+        "(20:26, 21:51)",
+        [
+            "",
+            700008355
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:30, 23:59)",
+        [
+            "Villon",
+            700005851
+        ]
+    ]
+]

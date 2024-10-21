@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "$1 Pizza",
+            700004349
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(10:00, 11:36)",
+        [
+            "$1 Pizza",
+            700004349
+        ]
+    ],
+    [
+        "Morning Leisure Activity",
+        "(12:06, 13:40)",
+        [
+            "$1 Pizza",
+            700004349
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:22, 17:20)",
+        [
+            "",
+            700010311
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(17:42, 19:13)",
+        [
+            "$1 Pizza",
+            700004349
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 20:47)",
+        [
+            "",
+            700001534
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(21:38, 23:07)",
+        [
+            "$1 Pizza",
+            700004349
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(23:48, 23:59)",
+        [
+            "$1 Pizza",
+            700004349
+        ]
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700007533
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:39)",
+        [
+            "",
+            700020514
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(13:11, 14:52)",
+        [
+            "Starbucks",
+            700007533
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:44, 21:26)",
+        [
+            "",
+            700018837
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:34, 23:45)",
+        [
+            "Pioneers Bar NYC",
+            700013388
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001768
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:32)",
+        [
+            "Captain Fried Chicken",
+            700010799
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:22, 13:07)",
+        [
+            "Captain Fried Chicken",
+            700010799
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:45, 15:07)",
+        [
+            "Captain Fried Chicken",
+            700010799
+        ]
+    ],
+    [
+        "Relax & Watch a Movie/TV Show",
+        "(15:57, 17:01)",
+        [
+            "Captain Fried Chicken",
+            700010799
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:07, 18:51)",
+        [
+            "",
+            700037423
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:27, 22:43)",
+        [
+            "",
+            700037425
+        ]
+    ],
+    [
+        "go to Place 1",
+        "(22:50, 23:59)",
+        [
+            "",
+            700001768
+        ]
+    ]
+]

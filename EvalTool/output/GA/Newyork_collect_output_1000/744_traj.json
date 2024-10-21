@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:57)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Wind Down and Relax",
+        "(14:05, 15:56)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "Wind Down and Relax",
+        "(16:26, 18:04)",
+        [
+            "Lanzhou Beef Noodles",
+            700011139
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 20:14)",
+        [
+            "The UPS Store",
+            700006221
+        ]
+    ],
+    [
+        "Catch Up on Movies/TV Series",
+        "(21:26, 23:51)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ]
+]

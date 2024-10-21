@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Umii Modern Izakaya",
+            700007847
+        ]
+    ],
+    [
+        "Move to Place 10 at 11:00 AM",
+        "(10:00, 12:02)",
+        [
+            "Blue Star Cakes & Cafe",
+            700019940
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:28, 13:54)",
+        [
+            "",
+            700020934
+        ]
+    ],
+    [
+        "Stay at Whole Meal Cafe",
+        "(15:23, 17:04)",
+        [
+            "Sushi Maru",
+            700031098
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:40, 22:26)",
+        [
+            "",
+            700031952
+        ]
+    ],
+    [
+        "Go to Karaok Lounge for some entertainment.",
+        "(20:02, 21:29)",
+        [
+            "",
+            700031950
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:09, 23:59)",
+        [
+            "",
+            700031955
+        ]
+    ]
+]

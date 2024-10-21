@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "PL",
+            700014629
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:40)",
+        [
+            "",
+            700019340
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:57, 13:01)",
+        [
+            "Cafe 53",
+            700015178
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(13:43, 15:11)",
+        [
+            "Cafe 53",
+            700015178
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(15:44, 17:13)",
+        [
+            "Cafe 53",
+            700015178
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:46, 23:38)",
+        [
+            "",
+            700019683
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:23, 23:59)",
+        [
+            "Avra Rockefeller Center",
+            700034596
+        ]
+    ],
+    [
+        "Stay at Avra Rockefeller Center",
+        "(22:44, 23:59)",
+        [
+            "Avra Rockefeller Center",
+            700034596
+        ]
+    ]
+]

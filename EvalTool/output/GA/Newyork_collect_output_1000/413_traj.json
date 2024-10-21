@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:23)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Engage in a physical activity, such as going for a run or hitting the gym.",
+        "(12:13, 12:56)",
+        [
+            "Gramercy Park Dental",
+            700022215
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 17:44)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Get coffee and snacks with friends.",
+        "(16:34, 18:03)",
+        [
+            "Matto Espresso",
+            700027867
+        ]
+    ],
+    [
+        "Get coffee or snacks with friends.",
+        "(18:52, 20:05)",
+        [
+            "5ive Spice",
+            700017626
+        ]
+    ],
+    [
+        "Stay at Sunflower Cafe",
+        "(20:40, 22:06)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Next arrangement based on Situation 7",
+        "(22:35, 23:48)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Move to the next place based on Situation 7.",
+        "(23:40, 23:59)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ]
+]

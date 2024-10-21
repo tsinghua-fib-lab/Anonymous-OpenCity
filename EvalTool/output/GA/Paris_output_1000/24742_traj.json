@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Parking Terrasse",
+            700020991
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:09)",
+        [
+            "Parking Terrasse",
+            700020991
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:20, 13:11)",
+        [
+            "Parking Terrasse",
+            700020991
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:15, 15:21)",
+        [
+            "",
+            700010894
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(19:37, 21:11)",
+        [
+            "Parking Terrasse",
+            700020991
+        ]
+    ],
+    [
+        "Catching up with friends over dinner",
+        "(21:47, 23:05)",
+        [
+            "Parking Terrasse",
+            700020991
+        ]
+    ],
+    [
+        "Continue relaxing.",
+        "(23:10, 23:59)",
+        [
+            "Parking Terrasse",
+            700020991
+        ]
+    ]
+]

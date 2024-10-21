@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Uva Enoteca",
+            700000953
+        ]
+    ],
+    [
+        "Check Emails & Plan the Week",
+        "(10:00, 10:50)",
+        [
+            "Uva Enoteca",
+            700000953
+        ]
+    ],
+    [
+        "Check Emails & Plan the Week",
+        "(11:05, 12:08)",
+        [
+            "Uva Enoteca",
+            700000953
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:22, 17:11)",
+        [
+            "Berliner Berliner",
+            700000963
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:18, 20:52)",
+        [
+            "Memphis Minnie's",
+            700000957
+        ]
+    ],
+    [
+        "Stay at Uva Enoteca.",
+        "(22:56, 23:59)",
+        [
+            "Toronado",
+            700000001
+        ]
+    ]
+]

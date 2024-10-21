@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700018241
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:20)",
+        [
+            "Justino's Pizza",
+            700008318
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:33, 11:50)",
+        [
+            "",
+            700001192
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 16:02)",
+        [
+            "",
+            700002332
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(16:32, 18:12)",
+        [
+            "",
+            700002747
+        ]
+    ],
+    [
+        "Watch Sports/Entertainment",
+        "(18:56, 19:59)",
+        [
+            "",
+            700000759
+        ]
+    ],
+    [
+        "After watching sports/entertainment, you should stay at Starbucks.",
+        "(21:15, 23:02)",
+        [
+            "Starbucks",
+            700018241
+        ]
+    ],
+    [
+        "Stay at El Rio Grande.",
+        "(23:12, 23:59)",
+        [
+            "",
+            700001192
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mona",
+            700011262
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:38)",
+        [
+            "",
+            700002865
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:20, 20:59)",
+        [
+            "",
+            700023783
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(20:04, 21:24)",
+        [
+            "",
+            700023762
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(22:17, 23:57)",
+        [
+            "Mona",
+            700011262
+        ]
+    ],
+    [
+        "Continue family or friend time",
+        "(23:55, 23:59)",
+        [
+            "UNFCU",
+            700011038
+        ]
+    ]
+]

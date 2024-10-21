@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001592
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:31)",
+        [
+            "Moshava Coffee",
+            700028897
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 15:29)",
+        [
+            "Solidcore",
+            700028895
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:45, 15:39)",
+        [
+            "Amelie Wine Bar",
+            700005003
+        ]
+    ],
+    [
+        "Watch Sports/Game",
+        "(15:46, 17:51)",
+        [
+            "Amelie Wine Bar",
+            700005003
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:47, 19:44)",
+        [
+            "Amelie Wine Bar",
+            700005003
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:09, 22:33)",
+        [
+            "Classic Arepas",
+            700028892
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:55, 23:59)",
+        [
+            "Amelie Wine Bar",
+            700005003
+        ]
+    ]
+]

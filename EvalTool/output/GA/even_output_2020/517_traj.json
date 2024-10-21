@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700009123
+        ]
+    ],
+    [
+        "Go for a walk or jog in the park",
+        "(09:00, 09:56)",
+        [
+            "Duboce Park Cafe",
+            700004210
+        ]
+    ],
+    [
+        "Stay at Duboce Park Cafe",
+        "(10:37, 12:17)",
+        [
+            "",
+            700000947
+        ]
+    ],
+    [
+        "Enjoy some personal reading or hobbies at home",
+        "(12:45, 14:29)",
+        [
+            "",
+            700009123
+        ]
+    ],
+    [
+        "Stay at unknown place",
+        "(14:31, 15:34)",
+        [
+            "",
+            700009123
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:22, 19:00)",
+        [
+            "",
+            700009180
+        ]
+    ],
+    [
+        "Wind down with some light reading or relaxation.",
+        "(19:24, 20:59)",
+        [
+            "",
+            700009121
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:23, 23:59)",
+        [
+            "",
+            700007933
+        ]
+    ]
+]

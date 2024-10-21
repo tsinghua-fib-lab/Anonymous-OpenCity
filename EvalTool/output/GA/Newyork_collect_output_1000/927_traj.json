@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Next workout session",
+        "(09:00, 10:23)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Next workout session",
+        "(10:28, 12:31)",
+        [
+            "Sunflower Cafe",
+            700017393
+        ]
+    ],
+    [
+        "Stay at Sunflower Cafe",
+        "(13:29, 15:09)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Stay at Sunflower Cafe",
+        "(16:01, 17:54)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "Stay at Bagel Express III",
+        "(18:08, 19:42)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:19, 22:54)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:38, 23:59)",
+        [
+            "",
+            700022520
+        ]
+    ],
+    [
+        "Stay at Sunflower Cafe",
+        "(23:04, 23:59)",
+        [
+            "",
+            700017443
+        ]
+    ]
+]

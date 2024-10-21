@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Coffee Inn",
+            700011162
+        ]
+    ],
+    [
+        "Light Exercise",
+        "(10:00, 10:58)",
+        [
+            "Coffee Inn",
+            700011162
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:35, 13:38)",
+        [
+            "Coffee Inn",
+            700011162
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:51, 15:18)",
+        [
+            "Coffee Inn",
+            700011162
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:43, 21:19)",
+        [
+            "Matto",
+            700035432
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 23:59)",
+        [
+            "Dunkin'",
+            700035434
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:03, 22:10)",
+        [
+            "Murphy's Law",
+            700035436
+        ]
+    ]
+]

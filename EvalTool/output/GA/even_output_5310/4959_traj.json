@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Joe & The Juice",
+            700014626
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 12:04)",
+        [
+            "Astro Restaurant",
+            700006311
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:42, 14:03)",
+        [
+            "Astro Restaurant",
+            700006311
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 18:16)",
+        [
+            "Pazza Notte",
+            700016246
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(17:19, 18:39)",
+        [
+            "Pazza Notte",
+            700016246
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(19:00, 20:00)",
+        [
+            "Joe & The Juice",
+            700014626
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:50, 23:59)",
+        [
+            "Whiskey Trader",
+            700007354
+        ]
+    ]
+]

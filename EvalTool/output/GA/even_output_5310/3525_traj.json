@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002236
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:40)",
+        [
+            "Figaro",
+            700030148
+        ]
+    ],
+    [
+        "Meet Friends or Family",
+        "(14:10, 16:08)",
+        [
+            "Figaro",
+            700030148
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:59, 18:22)",
+        [
+            "Figaro",
+            700030148
+        ]
+    ],
+    [
+        "Meet Friends or Family",
+        "(17:33, 19:06)",
+        [
+            "Figaro",
+            700030148
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:39, 23:59)",
+        [
+            "Senza Gluten",
+            700004943
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "Avalon New York",
+            700012184
+        ]
+    ]
+]

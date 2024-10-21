@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030390
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:11)",
+        [
+            "",
+            700030403
+        ]
+    ],
+    [
+        "Relaxing Reading/Watching TV",
+        "(14:24, 16:06)",
+        [
+            "Petrossian",
+            700003481
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:18, 21:21)",
+        [
+            "Art Student's League of New York",
+            700020815
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:27, 22:18)",
+        [
+            "Redeye Grill",
+            700006579
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Lili's 57",
+            700003476
+        ]
+    ]
+]

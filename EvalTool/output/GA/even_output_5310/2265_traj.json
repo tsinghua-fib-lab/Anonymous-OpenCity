@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gotham Café",
+            700016395
+        ]
+    ],
+    [
+        "Relax and Read/Watch TV",
+        "(10:00, 11:53)",
+        [
+            "Gotham Café",
+            700016395
+        ]
+    ],
+    [
+        "Relax and Read/Watch TV",
+        "(12:36, 13:56)",
+        [
+            "Gotham Café",
+            700016395
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:47, 15:51)",
+        [
+            "Gotham Café",
+            700016395
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:07, 20:32)",
+        [
+            "M565 Urban Academy Laboratory High School",
+            700000412
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:35, 23:59)",
+        [
+            "",
+            700040419
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Barney's Gourmet Hamburgers",
+            700001752
+        ]
+    ],
+    [
+        "Morning exercise",
+        "(09:00, 10:02)",
+        [
+            "Folk",
+            700006199
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:30, 12:42)",
+        [
+            "Subs, Inc.",
+            700001748
+        ]
+    ],
+    [
+        "Leisure reading or hobbies",
+        "(11:59, 13:51)",
+        [
+            "Subs, Inc.",
+            700001748
+        ]
+    ],
+    [
+        "Afternoon entertainment",
+        "(14:22, 17:00)",
+        [
+            "Subs, Inc.",
+            700001748
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:28, 19:33)",
+        [
+            "Aesthetic Dentistry of Noe Valley",
+            700001754
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:48, 23:59)",
+        [
+            "Peasant Pies",
+            700001762
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "San Jose Nursery",
+            700028210
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park.",
+        "(10:00, 11:07)",
+        [
+            "",
+            700037597
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park.",
+        "(11:15, 12:43)",
+        [
+            "",
+            700037607
+        ]
+    ],
+    [
+        "Go for a relaxing walk or jog in the park",
+        "(13:23, 15:27)",
+        [
+            "Hawa Smoothie",
+            700019702
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:42, 16:51)",
+        [
+            "",
+            700037599
+        ]
+    ],
+    [
+        "Stay at Hawa Smoothie",
+        "(20:32, 22:09)",
+        [
+            "Hawa Smoothie",
+            700019702
+        ]
+    ],
+    [
+        "Stay at Hawa Smoothie.",
+        "(22:25, 23:23)",
+        [
+            "Hawa Smoothie",
+            700019702
+        ]
+    ],
+    [
+        "Stay at Hawa Smoothie;",
+        "(23:35, 23:59)",
+        [
+            "Fresh Curry",
+            700019704
+        ]
+    ]
+]

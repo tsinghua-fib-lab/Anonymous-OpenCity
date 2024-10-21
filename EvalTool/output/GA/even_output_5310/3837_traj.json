@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Island Burger and Shakes",
+            700009072
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(09:00, 10:09)",
+        [
+            "Island Burger and Shakes",
+            700009072
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(10:14, 11:42)",
+        [
+            "Island Burger and Shakes",
+            700009072
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 17:14)",
+        [
+            "Bombay Grill House",
+            700014247
+        ]
+    ],
+    [
+        "Outdoor Sports",
+        "(16:49, 17:55)",
+        [
+            "GFG. Greek Food from Greece",
+            700015895
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(18:04, 20:05)",
+        [
+            "Island Burger and Shakes",
+            700009072
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:28, 23:59)",
+        [
+            "Bombay Grill House",
+            700014247
+        ]
+    ],
+    [
+        "Dinner and Relaxation",
+        "(22:34, 23:59)",
+        [
+            "The Coffee Pot",
+            700015896
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Plug Uglies",
+            700024871
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:12)",
+        [
+            "National Dental",
+            700016570
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 15:11)",
+        [
+            "Maruzzella",
+            700016571
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:24, 21:07)",
+        [
+            "",
+            700002852
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:40, 19:55)",
+        [
+            "Sushi of Gari",
+            700007374
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "USPS",
+            700006043
+        ]
+    ]
+]

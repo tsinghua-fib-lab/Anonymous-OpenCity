@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Pizzeria & Grill",
+            700004977
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:08)",
+        [
+            "Pizzeria & Grill",
+            700004977
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:58, 17:58)",
+        [
+            "",
+            700004976
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:19, 16:17)",
+        [
+            "Pizzeria & Grill",
+            700004977
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(17:02, 18:53)",
+        [
+            "Pizzeria & Grill",
+            700004977
+        ]
+    ],
+    [
+        "Dinner Preparation and Eating",
+        "(18:29, 19:57)",
+        [
+            "Asia Chinese Food",
+            700004948
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:51, 23:59)",
+        [
+            "DeLise Dessert cafe",
+            700004980
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:01, 23:59)",
+        [
+            "DeLise Dessert cafe",
+            700004980
+        ]
+    ]
+]

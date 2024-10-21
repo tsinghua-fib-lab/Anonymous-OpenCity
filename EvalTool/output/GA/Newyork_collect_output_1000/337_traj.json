@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "iPark",
+            700018136
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:31)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Brunch with Friends or Family",
+        "(11:19, 13:01)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:07, 15:27)",
+        [
+            "Mughlai",
+            700019345
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:22, 17:30)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "Prepare Dinner and Relax",
+        "(18:45, 20:24)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:19, 23:07)",
+        [
+            "Fitzgerald's Pub",
+            700006215
+        ]
+    ]
+]

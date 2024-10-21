@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Four Barrel Coffee",
+            700000618
+        ]
+    ],
+    [
+        "11:00 AM - Morning Exercise",
+        "(10:00, 11:26)",
+        [
+            "Milk",
+            700010704
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:27, 13:19)",
+        [
+            "Bay Wheels",
+            700009623
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:02, 20:48)",
+        [
+            "",
+            700000669
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:06, 22:21)",
+        [
+            "IndoChine",
+            700009584
+        ]
+    ],
+    [
+        "Stay at your home",
+        "(23:23, 23:59)",
+        [
+            "Arinell Pizza",
+            700002227
+        ]
+    ]
+]

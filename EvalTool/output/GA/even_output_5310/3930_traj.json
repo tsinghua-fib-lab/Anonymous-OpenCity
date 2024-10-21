@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002960
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:28)",
+        [
+            "Little Branch",
+            700014158
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:29, 13:57)",
+        [
+            "",
+            700003117
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:23, 20:14)",
+        [
+            "Sagra Pizza Bar",
+            700023317
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:26, 23:40)",
+        [
+            "P.S. Burgers",
+            700009485
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:58, 23:43)",
+        [
+            "Sagra Pizza Bar",
+            700023317
+        ]
+    ]
+]

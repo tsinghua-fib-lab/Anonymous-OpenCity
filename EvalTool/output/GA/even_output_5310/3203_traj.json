@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700025339
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:26)",
+        [
+            "Citi Bike - East 58th Street & 3rd Avenue",
+            700008059
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:19, 12:43)",
+        [
+            "Citi Bike - East 58th Street & 3rd Avenue",
+            700008059
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:06, 16:47)",
+        [
+            "Starbucks",
+            700004420
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:10, 19:54)",
+        [
+            "Side Door",
+            700034226
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:19, 17:34)",
+        [
+            "Side Door",
+            700034226
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(18:16, 20:05)",
+        [
+            "Side Door",
+            700034226
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:07, 23:59)",
+        [
+            "Adare",
+            700034229
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "",
+            700020297
+        ]
+    ]
+]

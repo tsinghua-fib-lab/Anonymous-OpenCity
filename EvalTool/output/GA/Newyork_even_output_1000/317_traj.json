@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - East 47th Street & 1st Avenue",
+            700008050
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:32)",
+        [
+            "",
+            700030728
+        ]
+    ],
+    [
+        "Leisure Activities (TV/Movies)",
+        "(13:04, 14:42)",
+        [
+            "",
+            700030805
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:39, 17:51)",
+        [
+            "",
+            700030803
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 20:33)",
+        [
+            "",
+            700030764
+        ]
+    ],
+    [
+        "Next activity based on previous plan",
+        "(20:13, 21:33)",
+        [
+            "",
+            700030803
+        ]
+    ],
+    [
+        "Go to Toledo for dinner.",
+        "(21:58, 23:21)",
+        [
+            "",
+            700030811
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:50, 23:59)",
+        [
+            "",
+            700030805
+        ]
+    ]
+]

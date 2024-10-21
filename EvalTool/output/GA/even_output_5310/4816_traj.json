@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002083
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:07)",
+        [
+            "Raoul's",
+            700004487
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(15:15, 16:52)",
+        [
+            "Il Corallo Trattoria",
+            700030099
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(17:04, 18:31)",
+        [
+            "Il Corallo Trattoria",
+            700030099
+        ]
+    ],
+    [
+        "Dinner Preparation and Meal",
+        "(19:36, 21:00)",
+        [
+            "Il Corallo Trattoria",
+            700030099
+        ]
+    ],
+    [
+        "Evening Relaxation/Reading",
+        "(21:29, 23:08)",
+        [
+            "",
+            700002083
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:15, 23:59)",
+        [
+            "",
+            700025803
+        ]
+    ]
+]

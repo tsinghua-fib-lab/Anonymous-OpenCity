@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000971
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:20)",
+        [
+            "Happy Donuts",
+            700005169
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:04, 20:07)",
+        [
+            "University of Phoenix",
+            700000512
+        ]
+    ],
+    [
+        "Social Time/Leisure Activities",
+        "(20:51, 22:21)",
+        [
+            "University of Phoenix",
+            700000512
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:57, 23:59)",
+        [
+            "Locali Mediterranean",
+            700009480
+        ]
+    ]
+]

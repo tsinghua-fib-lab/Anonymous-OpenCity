@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Starbucks",
+            700001607
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:33)",
+        [
+            "Market Street",
+            700003154
+        ]
+    ],
+    [
+        "Brunch",
+        "(11:50, 13:22)",
+        [
+            "Market Street",
+            700003154
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:32, 17:45)",
+        [
+            "Market Street",
+            700003154
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 21:19)",
+        [
+            "Market Street",
+            700003154
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:33, 23:59)",
+        [
+            "Walgreens",
+            700010514
+        ]
+    ]
+]

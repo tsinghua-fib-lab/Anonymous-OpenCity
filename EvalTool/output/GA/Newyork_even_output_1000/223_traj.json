@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York 27 Lexington Deli & Grocery",
+            700015589
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:00)",
+        [
+            "New York 27 Lexington Deli & Grocery",
+            700015589
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:44, 13:55)",
+        [
+            "New York 27 Lexington Deli & Grocery",
+            700015589
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:30, 16:58)",
+        [
+            "Lex Grill Juice BR",
+            700006241
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(17:20, 19:02)",
+        [
+            "Black Press Coffee",
+            700015590
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 21:31)",
+        [
+            "Covina",
+            700009132
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(23:04, 23:59)",
+        [
+            "Kailash Parbat",
+            700006242
+        ]
+    ]
+]

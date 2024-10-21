@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700019072
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:57)",
+        [
+            "Starbucks",
+            700003466
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 15:07)",
+        [
+            "Juice Generation",
+            700006321
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:21, 15:53)",
+        [
+            "Citibank",
+            700003460
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:56, 19:48)",
+        [
+            "Citibank",
+            700003460
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(19:28, 21:07)",
+        [
+            "",
+            700019072
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:05, 22:33)",
+        [
+            "",
+            700019076
+        ]
+    ],
+    [
+        "Stay at home and relax more.",
+        "(22:35, 23:59)",
+        [
+            "",
+            700019072
+        ]
+    ],
+    [
+        "Go to Starbucks",
+        "(23:46, 23:59)",
+        [
+            "Starbucks",
+            700003466
+        ]
+    ]
+]

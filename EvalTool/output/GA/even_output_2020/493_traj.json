@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "b Patisserie",
+            700010932
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:05)",
+        [
+            "Tea Hut",
+            700010933
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:14, 20:45)",
+        [
+            "",
+            700001588
+        ]
+    ],
+    [
+        "Stay at Tea Hut",
+        "(19:45, 20:57)",
+        [
+            "Tea Hut",
+            700010933
+        ]
+    ],
+    [
+        "Wind down the day with some light reading or watching TV.",
+        "(21:10, 23:03)",
+        [
+            "",
+            700000129
+        ]
+    ],
+    [
+        "Stay at Tea Hut",
+        "(23:41, 23:59)",
+        [
+            "Tea Hut",
+            700010933
+        ]
+    ]
+]

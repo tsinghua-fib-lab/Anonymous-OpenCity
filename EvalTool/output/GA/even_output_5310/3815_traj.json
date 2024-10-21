@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700018109
+        ]
+    ],
+    [
+        "next place",
+        "(09:00, 10:23)",
+        [
+            "",
+            700018386
+        ]
+    ],
+    [
+        "Next activity based on the schedule",
+        "(10:37, 12:36)",
+        [
+            "",
+            700018105
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:48, 16:52)",
+        [
+            "",
+            700018348
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a favorite series to relax and have some entertainment.",
+        "(16:35, 18:00)",
+        [
+            "",
+            700018388
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:54, 23:59)",
+        [
+            "",
+            700020844
+        ]
+    ],
+    [
+        "Stay at a leisure location",
+        "(22:22, 23:55)",
+        [
+            "",
+            700018110
+        ]
+    ],
+    [
+        "Stay at a leisure location.",
+        "(23:52, 23:59)",
+        [
+            "",
+            700018102
+        ]
+    ]
+]

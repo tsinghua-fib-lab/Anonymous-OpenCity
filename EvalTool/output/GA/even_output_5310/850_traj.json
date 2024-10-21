@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001050
+        ]
+    ],
+    [
+        "Go for a morning jog or engage in a light workout",
+        "(09:00, 10:04)",
+        [
+            "",
+            700001050
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:59, 13:36)",
+        [
+            "Tony's",
+            700007691
+        ]
+    ],
+    [
+        "Have lunch at a nice restaurant with friends or family",
+        "(13:57, 15:21)",
+        [
+            "Chase",
+            700005974
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:30, 19:54)",
+        [
+            "",
+            700001050
+        ]
+    ],
+    [
+        "Relax and watch a movie or binge-watch a series at home.",
+        "(20:44, 21:57)",
+        [
+            "",
+            700001050
+        ]
+    ],
+    [
+        "Relax and watch a movie or binge-watch a series at home.",
+        "(22:02, 23:59)",
+        [
+            "",
+            700001050
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "RT Rotisserie",
+            700009686
+        ]
+    ],
+    [
+        "Leisurely Breakfast",
+        "(10:00, 11:29)",
+        [
+            "Ragazza",
+            700003755
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(11:44, 12:58)",
+        [
+            "Ragazza",
+            700003755
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:12, 18:47)",
+        [
+            "Nopalito",
+            700002484
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:49, 18:05)",
+        [
+            "",
+            700005277
+        ]
+    ],
+    [
+        "Stay at Nopalito",
+        "(18:28, 20:05)",
+        [
+            "Nopalito",
+            700002484
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:20, 22:42)",
+        [
+            "Modern Animal",
+            700010096
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:47, 23:10)",
+        [
+            "",
+            700010739
+        ]
+    ]
+]

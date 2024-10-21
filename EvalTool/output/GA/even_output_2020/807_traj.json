@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Four Barrel Coffee",
+            700000618
+        ]
+    ],
+    [
+        "10:00 AM - Outdoor Activity",
+        "(09:00, 10:22)",
+        [
+            "Milk",
+            700010704
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:43, 16:46)",
+        [
+            "Shizen",
+            700005056
+        ]
+    ],
+    [
+        "Lunch at Home",
+        "(12:31, 15:08)",
+        [
+            "Shizen",
+            700005056
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:07, 16:33)",
+        [
+            "Valencia Street Muscle",
+            700000835
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(17:08, 18:28)",
+        [
+            "",
+            700000706
+        ]
+    ],
+    [
+        "Visit Friends or Family",
+        "(18:49, 20:48)",
+        [
+            "Valencia Street Muscle",
+            700000835
+        ]
+    ],
+    [
+        "Stay at Valencia Street Muscle",
+        "(20:55, 22:32)",
+        [
+            "Valencia Street Muscle",
+            700000835
+        ]
+    ],
+    [
+        "Stay at Valencia Street Muscle",
+        "(22:18, 23:45)",
+        [
+            "Valencia Street Muscle",
+            700000835
+        ]
+    ],
+    [
+        "Stay at Valencia Street Muscle",
+        "(23:53, 23:59)",
+        [
+            "Valencia Street Muscle",
+            700000835
+        ]
+    ]
+]

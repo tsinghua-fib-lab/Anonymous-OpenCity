@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Padoca Bakery",
+            700032490
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:26)",
+        [
+            "Padoca Bakery",
+            700032490
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:36, 13:28)",
+        [
+            "Starbucks",
+            700005979
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(14:49, 16:09)",
+        [
+            "Chipotle",
+            700017950
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:07, 18:55)",
+        [
+            "Chipotle",
+            700017950
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:26, 23:56)",
+        [
+            "",
+            700001156
+        ]
+    ]
+]

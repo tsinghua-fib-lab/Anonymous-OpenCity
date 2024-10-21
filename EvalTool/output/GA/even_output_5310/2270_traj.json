@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Broadway Comedy Club",
+            700006467
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 11:37)",
+        [
+            "P.F. Chang's",
+            700034827
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(12:10, 13:30)",
+        [
+            "Citi Bike - 8th Avenue & West 52nd Street",
+            700007943
+        ]
+    ],
+    [
+        "Enjoy a Leisure Activity",
+        "(13:49, 15:45)",
+        [
+            "Cosmic Diner",
+            700009042
+        ]
+    ],
+    [
+        "Watch a Movie/TV Series",
+        "(16:37, 18:02)",
+        [
+            "Cosmic Diner",
+            700009042
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 23:59)",
+        [
+            "",
+            700018230
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:45, 22:10)",
+        [
+            "Cosmic Diner",
+            700009042
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:37, 23:59)",
+        [
+            "China Gourmet",
+            700006381
+        ]
+    ]
+]

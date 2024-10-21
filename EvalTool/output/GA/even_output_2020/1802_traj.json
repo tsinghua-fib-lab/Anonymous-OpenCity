@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "heist",
+            700010116
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:50)",
+        [
+            "Lapisara",
+            700008705
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:10, 17:28)",
+        [
+            "Pearl's Deluxe Burgers",
+            700003000
+        ]
+    ],
+    [
+        "Spend some time reading or watching a movie.",
+        "(17:59, 19:31)",
+        [
+            "heist",
+            700010116
+        ]
+    ],
+    [
+        "Prepare and enjoy dinner",
+        "(19:54, 20:59)",
+        [
+            "heist",
+            700010116
+        ]
+    ],
+    [
+        "Wind down with quiet activities, such as meditation or prepping for the week ahead.",
+        "(21:08, 21:52)",
+        [
+            "heist",
+            700010116
+        ]
+    ],
+    [
+        "Wind down with quiet activities, such as meditation or prepping for the week ahead.",
+        "(21:53, 23:02)",
+        [
+            "heist",
+            700010116
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "The Public Izakaya",
+            700008707
+        ]
+    ]
+]

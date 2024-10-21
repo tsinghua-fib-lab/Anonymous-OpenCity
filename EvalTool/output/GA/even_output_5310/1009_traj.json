@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike",
+            700019285
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(10:00, 11:52)",
+        [
+            "Citi Bike",
+            700019285
+        ]
+    ],
+    [
+        "Morning Walk or Light Exercise",
+        "(11:25, 12:55)",
+        [
+            "",
+            700017737
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(13:23, 15:04)",
+        [
+            "",
+            700031324
+        ]
+    ],
+    [
+        "Light Exercise",
+        "(15:14, 16:31)",
+        [
+            "",
+            700031326
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:44, 23:40)",
+        [
+            "",
+            700031320
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(20:03, 21:43)",
+        [
+            "Citi Bike",
+            700019285
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(21:48, 22:51)",
+        [
+            "Citi Bike",
+            700019285
+        ]
+    ],
+    [
+        "Relaxation and Wind Down",
+        "(23:35, 23:59)",
+        [
+            "Citi Bike",
+            700019285
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018898
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:57)",
+        [
+            "Empire State Driving School",
+            700018902
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:03, 14:00)",
+        [
+            "Empire State Driving School",
+            700018902
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:27, 16:03)",
+        [
+            "Empire State Driving School",
+            700018902
+        ]
+    ],
+    [
+        "Connect with Friends/Family",
+        "(16:31, 17:54)",
+        [
+            "Empire State Driving School",
+            700018902
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:34, 20:05)",
+        [
+            "",
+            700018098
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(20:23, 21:52)",
+        [
+            "",
+            700018099
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:47, 23:59)",
+        [
+            "Citi Bike",
+            700038086
+        ]
+    ]
+]

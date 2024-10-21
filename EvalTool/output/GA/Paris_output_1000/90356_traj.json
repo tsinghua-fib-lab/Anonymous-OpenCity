@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "La Cantina",
+            700035048
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 10:56)",
+        [
+            "La Cantina",
+            700035048
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:57, 13:09)",
+        [
+            "La Cantina",
+            700035048
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:17, 17:32)",
+        [
+            "Pharmacie Saint-Côme",
+            700009606
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:26, 16:57)",
+        [
+            "Dentimad Centre Dentaire",
+            700009607
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 23:59)",
+        [
+            "Dentimad Centre Dentaire",
+            700009607
+        ]
+    ]
+]

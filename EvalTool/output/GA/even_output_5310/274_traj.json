@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 68th Street & Madison Avenue",
+            700021682
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:30)",
+        [
+            "Citi Bike - East 68th Street & Madison Avenue",
+            700021682
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:06, 13:56)",
+        [
+            "Citi Bike - East 68th Street & Madison Avenue",
+            700021682
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:45, 16:45)",
+        [
+            "Citi Bike - East 68th Street & Madison Avenue",
+            700021682
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 22:48)",
+        [
+            "",
+            700018005
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(20:09, 22:24)",
+        [
+            "",
+            700010788
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "",
+            700010787
+        ]
+    ]
+]

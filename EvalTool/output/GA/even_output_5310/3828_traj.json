@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "American Retro Bar & Grill",
+            700003558
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(09:00, 10:54)",
+        [
+            "American Retro Bar & Grill",
+            700003558
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(10:16, 11:28)",
+        [
+            "Citi Bike - West 52nd Street & 9th Avenue",
+            700008232
+        ]
+    ],
+    [
+        "Continue current plan.",
+        "(12:25, 14:02)",
+        [
+            "Citi Bike - West 52nd Street & 9th Avenue",
+            700008232
+        ]
+    ],
+    [
+        "Continue current plan",
+        "(14:18, 16:00)",
+        [
+            "Citi Bike - West 52nd Street & 9th Avenue",
+            700008232
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:31, 21:41)",
+        [
+            "",
+            700021421
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:02, 19:44)",
+        [
+            "",
+            700021421
+        ]
+    ],
+    [
+        "Stay at American Retro Bar & Grill.",
+        "(23:39, 23:59)",
+        [
+            "American Retro Bar & Grill",
+            700003558
+        ]
+    ]
+]

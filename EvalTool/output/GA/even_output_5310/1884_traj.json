@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Little Beet",
+            700039218
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:07)",
+        [
+            "Yia Yia's Homemade Greek Food",
+            700021866
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:10, 15:55)",
+        [
+            "Taco Bell",
+            700006027
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:57, 19:24)",
+        [
+            "Le Gourmet",
+            700035430
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:29, 23:59)",
+        [
+            "Le Pain Quotidien",
+            700006028
+        ]
+    ]
+]

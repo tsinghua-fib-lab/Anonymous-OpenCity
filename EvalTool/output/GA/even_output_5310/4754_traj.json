@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700003763
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(09:00, 09:52)",
+        [
+            "",
+            700003763
+        ]
+    ],
+    [
+        "Attend an online yoga class",
+        "(10:22, 11:27)",
+        [
+            "",
+            700003763
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:02, 18:03)",
+        [
+            "Citi Bike - W 16 St & The High Line",
+            700008201
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:54, 22:04)",
+        [
+            "",
+            700003763
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:12, 23:59)",
+        [
+            "Highline Ballroom",
+            700007518
+        ]
+    ]
+]

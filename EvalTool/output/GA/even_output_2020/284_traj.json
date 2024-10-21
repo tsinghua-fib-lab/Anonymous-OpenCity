@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:51)",
+        [
+            "",
+            700008291
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:58, 14:11)",
+        [
+            "Vikings Giant Subs",
+            700004972
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:36, 15:59)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(16:20, 17:51)",
+        [
+            "Chestnut Diner",
+            700002313
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:20, 21:49)",
+        [
+            "",
+            700000638
+        ]
+    ],
+    [
+        "Go to Maritime Research Center for leisure.",
+        "(23:58, 23:59)",
+        [
+            "",
+            700009537
+        ]
+    ]
+]

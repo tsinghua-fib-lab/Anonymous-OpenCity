@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dish Restaurant",
+            700018521
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:32)",
+        [
+            "Citi Bike - West 20th Street & 8th Avenue",
+            700008206
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:35, 17:42)",
+        [
+            "el coco",
+            700018522
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(17:41, 19:00)",
+        [
+            "el coco",
+            700018522
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:54, 21:07)",
+        [
+            "Joe's Pizza",
+            700004337
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(22:16, 23:52)",
+        [
+            "Citi Bike - West 20th Street & 8th Avenue",
+            700008206
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:44, 23:59)",
+        [
+            "Willow",
+            700024811
+        ]
+    ]
+]

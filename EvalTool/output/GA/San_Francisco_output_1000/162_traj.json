@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Metro Caffe",
+            700000960
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:28)",
+        [
+            "Purple Rice",
+            700005477
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:27, 16:33)",
+        [
+            "Woods Lowside",
+            700000000
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(12:43, 13:43)",
+        [
+            "Hot Zushi",
+            700005303
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(14:12, 15:46)",
+        [
+            "Hot Zushi",
+            700005303
+        ]
+    ],
+    [
+        "Leisure Reading or Personal Project",
+        "(16:06, 17:39)",
+        [
+            "",
+            700005491
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 19:52)",
+        [
+            "Toronado",
+            700000001
+        ]
+    ],
+    [
+        "Evening Out or Social Activity",
+        "(19:54, 21:10)",
+        [
+            "Toronado",
+            700000001
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:37, 23:59)",
+        [
+            "Taquería Estrella",
+            700005304
+        ]
+    ]
+]

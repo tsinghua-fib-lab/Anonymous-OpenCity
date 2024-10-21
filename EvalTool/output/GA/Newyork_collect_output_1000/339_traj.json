@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Go for a walk or do some light exercise",
+        "(10:00, 11:08)",
+        [
+            "",
+            700038635
+        ]
+    ],
+    [
+        "Engage in a personal development activity",
+        "(11:49, 13:10)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Engage in a personal development activity",
+        "(13:22, 14:53)",
+        [
+            "",
+            700018137
+        ]
+    ],
+    [
+        "Spend time with friends or family",
+        "(15:30, 17:56)",
+        [
+            "New York Comedy Club",
+            700018135
+        ]
+    ],
+    [
+        "Spend time with friends or family",
+        "(18:38, 21:16)",
+        [
+            "",
+            700022520
+        ]
+    ],
+    [
+        "Spend time with friends or family",
+        "(21:38, 23:42)",
+        [
+            "",
+            700018138
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "HSBC",
+            700008294
+        ]
+    ]
+]

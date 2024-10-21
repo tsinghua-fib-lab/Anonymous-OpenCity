@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mercator Estate",
+            700036572
+        ]
+    ],
+    [
+        "Start breakfast at Mercator Estate.",
+        "(10:00, 10:59)",
+        [
+            "Mercator Estate",
+            700036572
+        ]
+    ],
+    [
+        "Start Leisure Activity",
+        "(11:48, 12:59)",
+        [
+            "Mercator Estate",
+            700036572
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:21, 14:25)",
+        [
+            "Mercator Estate",
+            700036572
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:01, 16:44)",
+        [
+            "Mercator Estate",
+            700036572
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:04, 21:39)",
+        [
+            "Yummy Eats Cafe",
+            700078929
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 21:01)",
+        [
+            "Yummy Eats Cafe",
+            700078929
+        ]
+    ]
+]

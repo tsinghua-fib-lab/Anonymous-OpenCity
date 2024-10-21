@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700029828
+        ]
+    ],
+    [
+        "Next activity based on the plan",
+        "(10:00, 11:25)",
+        [
+            "",
+            700029828
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:02, 14:48)",
+        [
+            "",
+            700071988
+        ]
+    ],
+    [
+        "Next activity is Outdoor Activity based on the plan.",
+        "(15:07, 16:28)",
+        [
+            "Les Maréchaux",
+            700037068
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:46, 19:03)",
+        [
+            "Avenue Foch;Bowling Foch",
+            700068652
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:18, 20:59)",
+        [
+            "",
+            700003897
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:07, 23:59)",
+        [
+            "Prunier",
+            700020116
+        ]
+    ]
+]

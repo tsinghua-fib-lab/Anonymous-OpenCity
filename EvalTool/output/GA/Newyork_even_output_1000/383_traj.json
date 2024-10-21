@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bank of America",
+            700012821
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:22)",
+        [
+            "Starbucks",
+            700004420
+        ]
+    ],
+    [
+        "Afternoon Hobby",
+        "(14:23, 15:44)",
+        [
+            "Starbucks",
+            700004420
+        ]
+    ],
+    [
+        "Stay at Starbucks for social time.",
+        "(16:25, 18:10)",
+        [
+            "Starbucks",
+            700004420
+        ]
+    ],
+    [
+        "Social Time",
+        "(18:07, 19:33)",
+        [
+            "Starbucks",
+            700004420
+        ]
+    ],
+    [
+        "Stay at Starbucks for social time",
+        "(20:36, 21:42)",
+        [
+            "Starbucks",
+            700004420
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:29, 23:59)",
+        [
+            "Daikanyama",
+            700023469
+        ]
+    ]
+]

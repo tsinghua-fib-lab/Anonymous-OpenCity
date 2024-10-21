@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Elephant Sushi",
+            700003305
+        ]
+    ],
+    [
+        "Have lunch at a favorite local restaurant or try a new cafe.",
+        "(10:00, 11:22)",
+        [
+            "Za Pizza",
+            700001591
+        ]
+    ],
+    [
+        "Have lunch at a favorite local restaurant or try a new cafe.",
+        "(12:11, 13:58)",
+        [
+            "Za Pizza",
+            700001591
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:07, 17:09)",
+        [
+            "",
+            700000530
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:02, 20:22)",
+        [
+            "Frascati",
+            700003306
+        ]
+    ]
+]

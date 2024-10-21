@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Broadway & East 22nd Street",
+            700007969
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:22)",
+        [
+            "Le Pain Quotidien",
+            700028584
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:22, 12:50)",
+        [
+            "Le Pain Quotidien",
+            700028584
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:45, 15:23)",
+        [
+            "Le Pain Quotidien",
+            700028584
+        ]
+    ],
+    [
+        "Relax & Watch a Movie/TV Show",
+        "(15:57, 17:11)",
+        [
+            "Le Pain Quotidien",
+            700028584
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:07, 22:19)",
+        [
+            "Citi Bike - Broadway & East 22nd Street",
+            700007969
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:27, 23:59)",
+        [
+            "Punch Bar & Grill",
+            700013386
+        ]
+    ],
+    [
+        "stay at Place 1",
+        "(22:50, 23:55)",
+        [
+            "Citi Bike - Broadway & East 22nd Street",
+            700007969
+        ]
+    ]
+]

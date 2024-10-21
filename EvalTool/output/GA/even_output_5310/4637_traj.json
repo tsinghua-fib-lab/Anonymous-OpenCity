@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010777
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:22)",
+        [
+            "Chase",
+            700022145
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:24, 13:59)",
+        [
+            "Le Pain Quotidien",
+            700028584
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(17:53, 19:06)",
+        [
+            "",
+            700002279
+        ]
+    ],
+    [
+        "Dinner Preparation & Family Time",
+        "(19:41, 20:50)",
+        [
+            "Le Pain Quotidien",
+            700028584
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:53, 22:54)",
+        [
+            "Le Pain Quotidien",
+            700028584
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:12, 23:59)",
+        [
+            "Le Pain Quotidien",
+            700028584
+        ]
+    ]
+]

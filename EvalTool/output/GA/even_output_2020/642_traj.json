@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013934
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:25)",
+        [
+            "",
+            700013926
+        ]
+    ],
+    [
+        "Downtime/TV Viewing",
+        "(12:26, 13:49)",
+        [
+            "Don Pistos",
+            700000466
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:42, 18:15)",
+        [
+            "North Beach Pizza",
+            700000454
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:22, 23:07)",
+        [
+            "Columbus Cafe",
+            700000816
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:49, 23:59)",
+        [
+            "Columbus Cafe",
+            700000816
+        ]
+    ]
+]

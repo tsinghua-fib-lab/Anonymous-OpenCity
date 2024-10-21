@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700004907
+        ]
+    ],
+    [
+        "Exercise",
+        "(09:00, 10:28)",
+        [
+            "Cheese Steak Shop",
+            700005280
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:33, 12:13)",
+        [
+            "Cheese Steak Shop",
+            700005280
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:00, 14:34)",
+        [
+            "Cheese Steak Shop",
+            700005280
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:20, 17:27)",
+        [
+            "",
+            700000782
+        ]
+    ],
+    [
+        "Watch a Movie/TV Series",
+        "(18:58, 20:43)",
+        [
+            "Yum Yum Hunan",
+            700005281
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 23:59)",
+        [
+            "Urgent Care",
+            700003668
+        ]
+    ]
+]

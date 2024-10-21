@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "LaVista Pizza",
+            700030618
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:54)",
+        [
+            "Citi Bike - 2nd Avenue & East 58th Street",
+            700007930
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:10, 15:34)",
+        [
+            "Greenport Cafe",
+            700040590
+        ]
+    ],
+    [
+        "Relax and Unwind",
+        "(16:11, 17:50)",
+        [
+            "Greenport Cafe",
+            700040590
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:29, 21:24)",
+        [
+            "",
+            700030118
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "Adyar Ananda Bhavan",
+            700039314
+        ]
+    ]
+]

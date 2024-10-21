@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700032015
+        ]
+    ],
+    [
+        "Have a leisurely breakfast",
+        "(10:00, 11:09)",
+        [
+            "",
+            700002402
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park from 11:00 AM to 12:00 PM.",
+        "(12:06, 13:04)",
+        [
+            "Halpern Pharmacy",
+            700017916
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park.",
+        "(13:11, 14:47)",
+        [
+            "M&T Bank",
+            700011624
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 19:30)",
+        [
+            "Rite Way Drugs & Surgicals",
+            700025845
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 20:44)",
+        [
+            "Starbucks",
+            700019509
+        ]
+    ],
+    [
+        "Go to 'Halpern Pharmacy'",
+        "(23:31, 23:59)",
+        [
+            "Halpern Pharmacy",
+            700017916
+        ]
+    ]
+]

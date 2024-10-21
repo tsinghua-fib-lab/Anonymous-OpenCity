@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Taqueria Gramercy",
+            700019490
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:22)",
+        [
+            "Barfly",
+            700004033
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:33, 20:22)",
+        [
+            "Gramercy Ale House",
+            700020943
+        ]
+    ],
+    [
+        "Wind down with a movie or TV show",
+        "(18:10, 20:38)",
+        [
+            "Gramercy Ale House",
+            700020943
+        ]
+    ],
+    [
+        "Wind down with a movie or TV show",
+        "(20:55, 22:45)",
+        [
+            "Plug Uglies",
+            700020717
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "Paddy Maguire's",
+            700018483
+        ]
+    ]
+]

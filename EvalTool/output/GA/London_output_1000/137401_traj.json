@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "St Olave's Estate",
+            700005643
+        ]
+    ],
+    [
+        "Relax or read a book",
+        "(10:00, 11:00)",
+        [
+            "",
+            700059876
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(11:55, 13:07)",
+        [
+            "",
+            700059875
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(13:03, 14:11)",
+        [
+            "Gym Nation",
+            700081268
+        ]
+    ],
+    [
+        "Go to the Gym Nation for fitness activities.",
+        "(15:03, 16:37)",
+        [
+            "Gym Nation",
+            700081268
+        ]
+    ],
+    [
+        "Current place: St Olave's Estate",
+        "(17:57, 19:06)",
+        [
+            "Gym Nation",
+            700081268
+        ]
+    ],
+    [
+        "Leisure activities or family time.",
+        "(19:18, 20:52)",
+        [
+            "Gym Nation",
+            700081268
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 23:59)",
+        [
+            "",
+            700059877
+        ]
+    ]
+]

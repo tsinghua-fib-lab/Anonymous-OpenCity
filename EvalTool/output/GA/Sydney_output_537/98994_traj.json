@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020599
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:15)",
+        [
+            "",
+            700021538
+        ]
+    ],
+    [
+        "Leisure/Personal Projects",
+        "(14:22, 16:46)",
+        [
+            "Beer Deluxe",
+            700020602
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:37, 20:52)",
+        [
+            "Krispy Kreme",
+            700023078
+        ]
+    ],
+    [
+        "Stay at Beer Deluxe",
+        "(22:41, 23:59)",
+        [
+            "Pulp + Grind",
+            700023073
+        ]
+    ]
+]

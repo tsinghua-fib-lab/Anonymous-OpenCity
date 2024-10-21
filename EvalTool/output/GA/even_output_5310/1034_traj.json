@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Capital One",
+            700004355
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:14)",
+        [
+            "Da Andrea",
+            700004344
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:12, 16:04)",
+        [
+            "Odd Fellows Ice Cream",
+            700040367
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:32, 15:02)",
+        [
+            "",
+            700002216
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:50, 20:05)",
+        [
+            "Som Bo",
+            700006143
+        ]
+    ],
+    [
+        "Go to a local eatery.",
+        "(15:59, 17:39)",
+        [
+            "Odd Fellows Ice Cream",
+            700040367
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:24, 21:48)",
+        [
+            "Tend",
+            700040368
+        ]
+    ],
+    [
+        "Go to a local eatery.",
+        "(20:33, 22:11)",
+        [
+            "Odd Fellows Ice Cream",
+            700040367
+        ]
+    ],
+    [
+        "Stay at At nine Restaurant & Bar.",
+        "(22:08, 23:59)",
+        [
+            "",
+            700004356
+        ]
+    ]
+]

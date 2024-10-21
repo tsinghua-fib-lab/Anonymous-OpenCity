@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Danny Coyles",
+            700000004
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 11:22)",
+        [
+            "Love 'n' Haight",
+            700000961
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(11:38, 13:29)",
+        [
+            "Hot Zushi",
+            700005303
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(13:38, 15:40)",
+        [
+            "Iza Ramen",
+            700003677
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:38, 19:26)",
+        [
+            "Taquería Estrella",
+            700005304
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:18, 23:59)",
+        [
+            "",
+            700005491
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:37)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "Reading/Creative Time",
+        "(14:59, 16:49)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:36, 20:46)",
+        [
+            "",
+            700002414
+        ]
+    ],
+    [
+        "Watch a Movie/Relax",
+        "(19:53, 20:57)",
+        [
+            "Chicken Shop",
+            700022119
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:46, 23:59)",
+        [
+            "Gezellig",
+            700011877
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "",
+            700054525
+        ]
+    ]
+]

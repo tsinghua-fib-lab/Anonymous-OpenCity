@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Périgord",
+            700007607
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:16)",
+        [
+            "Le Périgord",
+            700007607
+        ]
+    ],
+    [
+        "Leisure Activity or Hobby Time",
+        "(15:08, 17:04)",
+        [
+            "Le Périgord",
+            700007607
+        ]
+    ],
+    [
+        "Prepare and Enjoy Dinner",
+        "(17:36, 19:03)",
+        [
+            "Le Périgord",
+            700007607
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:01, 23:59)",
+        [
+            "The Neighborhood Playhouse School of the Theater",
+            700039307
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "",
+            700035316
+        ]
+    ]
+]

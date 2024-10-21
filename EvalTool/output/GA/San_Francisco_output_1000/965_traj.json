@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002283
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:32)",
+        [
+            "causwells burgers",
+            700007466
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:18, 17:02)",
+        [
+            "Chestnut Coffee Roastery",
+            700007456
+        ]
+    ],
+    [
+        "Shopping Trip",
+        "(15:49, 17:15)",
+        [
+            "Chestnut Coffee Roastery",
+            700007456
+        ]
+    ],
+    [
+        "Shopping Trip",
+        "(18:01, 19:41)",
+        [
+            "causwells burgers",
+            700007466
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(20:13, 21:51)",
+        [
+            "",
+            700002283
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(22:35, 23:59)",
+        [
+            "",
+            700002283
+        ]
+    ]
+]

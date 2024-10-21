@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "CorePower Yoga",
+            700004863
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:59)",
+        [
+            "Bean Bag Cafe",
+            700002286
+        ]
+    ],
+    [
+        "Spend the afternoon reading or catching up on a hobby",
+        "(14:23, 15:57)",
+        [
+            "Loving Cup",
+            700010748
+        ]
+    ],
+    [
+        "Spend the afternoon reading or catching up on a hobby",
+        "(16:54, 18:07)",
+        [
+            "Bar Crudo",
+            700001553
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 20:05)",
+        [
+            "",
+            700005270
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:04, 23:59)",
+        [
+            "",
+            700005270
+        ]
+    ]
+]

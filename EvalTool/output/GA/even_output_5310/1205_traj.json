@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 08:00)",
+        [
+            "Bank of America",
+            700008936
+        ]
+    ],
+    [
+        "go to this place",
+        "(08:00, 10:56)",
+        [
+            "Harvestworks",
+            700004744
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(11:54, 13:54)",
+        [
+            "Harvestworks",
+            700004744
+        ]
+    ],
+    [
+        "Afternoon Entertainment",
+        "(15:03, 17:10)",
+        [
+            "Harvestworks",
+            700004744
+        ]
+    ],
+    [
+        "Dinner preparation & family time",
+        "(17:19, 19:00)",
+        [
+            "Harvestworks",
+            700004744
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(19:14, 22:05)",
+        [
+            "Harvestworks",
+            700004744
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(21:28, 22:56)",
+        [
+            "Harvestworks",
+            700004744
+        ]
+    ],
+    [
+        "Go to Evening Wind Down",
+        "(23:08, 23:59)",
+        [
+            "Harvestworks",
+            700004744
+        ]
+    ]
+]

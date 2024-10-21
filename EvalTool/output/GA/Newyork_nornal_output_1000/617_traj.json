@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "L'Angeletto",
+            700006193
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:47)",
+        [
+            "Posto",
+            700006194
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 18:07)",
+        [
+            "Samuel J. Heyman Early Childhood Center",
+            700006188
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:00, 23:05)",
+        [
+            "Manhattan Indian Flavor",
+            700006191
+        ]
+    ],
+    [
+        "Sleep",
+        "(23:32, 23:59)",
+        [
+            "",
+            700030395
+        ]
+    ]
+]

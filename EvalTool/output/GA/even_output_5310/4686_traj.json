@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700031287
+        ]
+    ],
+    [
+        "Go for a walk in the park",
+        "(09:00, 10:07)",
+        [
+            "",
+            700031292
+        ]
+    ],
+    [
+        "Stay at your current location.",
+        "(10:58, 12:10)",
+        [
+            "",
+            700031288
+        ]
+    ],
+    [
+        "Continue in your current location.",
+        "(12:47, 14:03)",
+        [
+            "",
+            700003759
+        ]
+    ],
+    [
+        "Stay at your current location",
+        "(14:20, 17:01)",
+        [
+            "",
+            700003759
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:51, 22:48)",
+        [
+            "",
+            700031285
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:17, 22:19)",
+        [
+            "",
+            700017703
+        ]
+    ],
+    [
+        "Stay at your current location.",
+        "(22:00, 23:26)",
+        [
+            "",
+            700017698
+        ]
+    ],
+    [
+        "Stay at the current location.",
+        "(23:36, 23:59)",
+        [
+            "",
+            700031281
+        ]
+    ]
+]

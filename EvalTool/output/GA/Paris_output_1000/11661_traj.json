@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Relais Poste",
+            700050600
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:31)",
+        [
+            "",
+            700058398
+        ]
+    ],
+    [
+        "Sport or Outdoor Activity",
+        "(14:40, 16:51)",
+        [
+            "Relais Poste",
+            700050600
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:03, 20:56)",
+        [
+            "",
+            700058398
+        ]
+    ],
+    [
+        "Evening Socializing or Game Night",
+        "(20:44, 23:16)",
+        [
+            "Relais Poste",
+            700050600
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(23:39, 23:59)",
+        [
+            "",
+            700058375
+        ]
+    ]
+]

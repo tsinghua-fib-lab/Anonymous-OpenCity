@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Wa Lung Kitchen",
+            700003815
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:29)",
+        [
+            "Sidney Hillman Playground",
+            700000415
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:43, 19:25)",
+        [
+            "Columbia Pizza",
+            700006251
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:08, 17:31)",
+        [
+            "",
+            700022436
+        ]
+    ],
+    [
+        "Stay at current place",
+        "(18:22, 19:34)",
+        [
+            "",
+            700021862
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:36, 23:33)",
+        [
+            "",
+            700022434
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "Church of Our Lady of Sorrows",
+            700022995
+        ]
+    ]
+]

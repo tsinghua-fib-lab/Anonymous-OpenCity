@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000947
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:18)",
+        [
+            "",
+            700009120
+        ]
+    ],
+    [
+        "Socializing",
+        "(16:02, 17:31)",
+        [
+            "Duboce Park Cafe",
+            700004210
+        ]
+    ],
+    [
+        "Socializing",
+        "(18:21, 19:47)",
+        [
+            "Duboce Park Cafe",
+            700004210
+        ]
+    ],
+    [
+        "Socializing",
+        "(20:37, 22:18)",
+        [
+            "Duboce Park Cafe",
+            700004210
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:40, 23:59)",
+        [
+            "Maitri-Compassionate Care",
+            700001269
+        ]
+    ]
+]

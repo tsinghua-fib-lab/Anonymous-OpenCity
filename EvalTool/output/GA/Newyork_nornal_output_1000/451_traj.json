@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700013426
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 09:54)",
+        [
+            "Cafe Luce",
+            700038182
+        ]
+    ],
+    [
+        "Personal Projects/Reading",
+        "(10:40, 11:51)",
+        [
+            "Cafe Luce",
+            700038182
+        ]
+    ],
+    [
+        "Personal Projects/Reading",
+        "(12:39, 13:56)",
+        [
+            "Cafe Luce",
+            700038182
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:53, 15:39)",
+        [
+            "Chase",
+            700016449
+        ]
+    ],
+    [
+        "Afternoon Activity",
+        "(16:42, 18:44)",
+        [
+            "Chase",
+            700016449
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:53, 22:36)",
+        [
+            "",
+            700014648
+        ]
+    ],
+    [
+        "Afternoon Activity",
+        "(23:56, 23:59)",
+        [
+            "",
+            700013426
+        ]
+    ]
+]

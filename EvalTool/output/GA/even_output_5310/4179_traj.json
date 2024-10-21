@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Erin's Pharmacy",
+            700005416
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:07)",
+        [
+            "",
+            700002786
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:00, 15:12)",
+        [
+            "Equal Care Pharmacy",
+            700005417
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:47, 16:20)",
+        [
+            "",
+            700002786
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:50, 18:03)",
+        [
+            "Avenue D Pizza",
+            700019570
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(21:12, 22:52)",
+        [
+            "Citi Bike",
+            700029758
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:28, 23:59)",
+        [
+            "",
+            700022435
+        ]
+    ]
+]

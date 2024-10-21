@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - East 16th Street & Irving Place",
+            700008027
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:00)",
+        [
+            "Citi Bike - East 16th Street & Irving Place",
+            700008027
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:52, 16:32)",
+        [
+            "New York Sports Club",
+            700016607
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:15, 18:39)",
+        [
+            "",
+            700002864
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:44, 19:21)",
+        [
+            "L’Americana",
+            700039654
+        ]
+    ],
+    [
+        "Relax at current place",
+        "(23:50, 23:59)",
+        [
+            "Pierre Loti",
+            700009384
+        ]
+    ]
+]

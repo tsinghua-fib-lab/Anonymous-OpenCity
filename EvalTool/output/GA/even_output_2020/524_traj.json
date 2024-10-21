@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Central Coffee and Tea",
+            700000687
+        ]
+    ],
+    [
+        "current place stay time",
+        "(10:00, 10:59)",
+        [
+            "Central Coffee and Tea",
+            700000687
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:27, 14:01)",
+        [
+            "",
+            700002915
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:01, 15:33)",
+        [
+            "",
+            700007798
+        ]
+    ],
+    [
+        "Watch a Movie/TV Show",
+        "(15:52, 17:59)",
+        [
+            "",
+            700007803
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:01, 23:26)",
+        [
+            "",
+            700009986
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:55, 23:59)",
+        [
+            "Bistro Gambrinus",
+            700002152
+        ]
+    ]
+]

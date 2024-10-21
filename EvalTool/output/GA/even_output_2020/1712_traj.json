@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Chase",
+            700002115
+        ]
+    ],
+    [
+        "Outdoor Activity or Exercise",
+        "(10:00, 12:01)",
+        [
+            "Swan Oyster Depot",
+            700001124
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:24, 14:23)",
+        [
+            "Chase",
+            700002114
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:45, 17:04)",
+        [
+            "Swan Oyster Depot",
+            700001124
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:03, 22:35)",
+        [
+            "",
+            700010683
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:38, 23:59)",
+        [
+            "",
+            700000660
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:33, 23:59)",
+        [
+            "Nara Sushi",
+            700001123
+        ]
+    ]
+]

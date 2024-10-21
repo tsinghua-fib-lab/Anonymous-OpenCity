@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Shaken Not Stirred",
+            700006520
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:06)",
+        [
+            "Shaken Not Stirred",
+            700006520
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:22, 16:18)",
+        [
+            "Hendrickson's",
+            700036809
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:01, 22:15)",
+        [
+            "Hendrickson's",
+            700036809
+        ]
+    ],
+    [
+        "Stay at Shaken Not Stirred",
+        "(23:35, 23:59)",
+        [
+            "Shaken Not Stirred",
+            700006520
+        ]
+    ]
+]

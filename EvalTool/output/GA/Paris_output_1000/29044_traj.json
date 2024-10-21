@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:09)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "Read or Engage in Hobbies",
+        "(10:59, 12:07)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "Social Time with Friends/Family",
+        "(12:25, 13:55)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "Leisure Activity (Sports/Entertainment)",
+        "(14:27, 16:52)",
+        [
+            "Starbucks",
+            700070804
+        ]
+    ],
+    [
+        "Leisure Activity (Sports/Entertainment)",
+        "(18:04, 20:10)",
+        [
+            "",
+            700004922
+        ]
+    ],
+    [
+        "Wind Down and Prepare for the Week",
+        "(20:53, 22:08)",
+        [
+            "",
+            700004912
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:16, 23:59)",
+        [
+            "McDonald's",
+            700023919
+        ]
+    ]
+]

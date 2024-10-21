@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Dunkin'",
+            700004078
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:30)",
+        [
+            "Koyzina Kafe",
+            700013987
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:44, 12:24)",
+        [
+            "Koyzina Kafe",
+            700013987
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:39, 16:40)",
+        [
+            "",
+            700034954
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(16:51, 18:09)",
+        [
+            "Koyzina Kafe",
+            700013987
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:53, 20:05)",
+        [
+            "Koyzina Kafe",
+            700013987
+        ]
+    ],
+    [
+        "Stay at Dinner Preparation",
+        "(20:28, 21:52)",
+        [
+            "",
+            700034952
+        ]
+    ],
+    [
+        "Go to Watch a Movie or Game Night",
+        "(23:34, 23:59)",
+        [
+            "Goku Kitchen",
+            700040364
+        ]
+    ]
+]

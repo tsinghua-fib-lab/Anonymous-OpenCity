@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(10:00, 11:01)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(11:51, 13:02)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Read or catch up on leisure activities",
+        "(13:45, 15:05)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Relax and unwind",
+        "(16:06, 17:27)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Prepare and have dinner",
+        "(17:55, 19:01)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:14, 23:59)",
+        [
+            "",
+            700011101
+        ]
+    ],
+    [
+        "Prepare and have dinner",
+        "(21:19, 23:20)",
+        [
+            "Southampton Place",
+            700010363
+        ]
+    ],
+    [
+        "Prepare and have dinner",
+        "(23:15, 23:59)",
+        [
+            "Southampton Place",
+            700010363
+        ]
+    ]
+]

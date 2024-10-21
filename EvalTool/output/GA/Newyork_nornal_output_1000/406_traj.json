@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Juice Generation",
+            700018116
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:24)",
+        [
+            "Chipolte",
+            700004204
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(12:08, 14:01)",
+        [
+            "Chipolte",
+            700004204
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:17, 15:56)",
+        [
+            "Juice Generation",
+            700018116
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(16:27, 18:05)",
+        [
+            "Chipolte",
+            700004204
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:49, 20:43)",
+        [
+            "",
+            700002250
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "New York Sports Clubs",
+            700018117
+        ]
+    ]
+]

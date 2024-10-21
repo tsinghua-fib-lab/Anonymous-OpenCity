@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700018049
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:01)",
+        [
+            "",
+            700018041
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(12:38, 14:00)",
+        [
+            "Little Free Library",
+            700023563
+        ]
+    ],
+    [
+        "Shopping or Errands",
+        "(14:36, 16:05)",
+        [
+            "Citi Bike - Cherry Street @ Corlears Hook Park",
+            700007993
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:05, 20:05)",
+        [
+            "Corlears Hook",
+            700019670
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(20:32, 22:07)",
+        [
+            "",
+            700018046
+        ]
+    ],
+    [
+        "Dinner at a New Restaurant",
+        "(22:21, 23:59)",
+        [
+            "Corlears Hook",
+            700019670
+        ]
+    ]
+]

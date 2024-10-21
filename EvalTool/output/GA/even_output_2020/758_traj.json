@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700003763
+        ]
+    ],
+    [
+        "Local Park Walk",
+        "(09:00, 09:55)",
+        [
+            "",
+            700003762
+        ]
+    ],
+    [
+        "Local Park Walk",
+        "(10:31, 12:02)",
+        [
+            "Anne Bremer Memorial Library",
+            700000436
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:24, 14:06)",
+        [
+            "Anne Bremer Memorial Library",
+            700000436
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:07, 16:11)",
+        [
+            "Anne Bremer Memorial Library",
+            700000436
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(16:41, 17:51)",
+        [
+            "",
+            700003763
+        ]
+    ],
+    [
+        "Prepare Dinner & Wind Down",
+        "(18:33, 19:54)",
+        [
+            "",
+            700003763
+        ]
+    ],
+    [
+        "Next activity based on current time.",
+        "(20:43, 21:50)",
+        [
+            "",
+            700003763
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:03, 23:22)",
+        [
+            "",
+            700003735
+        ]
+    ],
+    [
+        "Sleep and rest for the night",
+        "(23:22, 23:59)",
+        [
+            "",
+            700003763
+        ]
+    ]
+]

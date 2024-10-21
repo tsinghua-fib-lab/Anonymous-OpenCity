@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000615
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:08)",
+        [
+            "Zeki's Bar",
+            700008868
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:09, 19:50)",
+        [
+            "",
+            700008725
+        ]
+    ],
+    [
+        "Meet friends or family for coffee or engage in an outdoor activity.",
+        "(17:10, 19:06)",
+        [
+            "CVS Pharmacy",
+            700002111
+        ]
+    ],
+    [
+        "Go to CVS Pharmacy",
+        "(19:22, 22:00)",
+        [
+            "CVS Pharmacy",
+            700002111
+        ]
+    ],
+    [
+        "Go to CVS Pharmacy",
+        "(21:57, 23:59)",
+        [
+            "CVS Pharmacy",
+            700002111
+        ]
+    ],
+    [
+        "Stay at CVS Pharmacy.",
+        "(23:58, 23:59)",
+        [
+            "CVS Pharmacy",
+            700002111
+        ]
+    ]
+]

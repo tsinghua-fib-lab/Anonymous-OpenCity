@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "55 bar",
+            700009678
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:00, 12:03)",
+        [
+            "55 bar",
+            700009678
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:23, 14:09)",
+        [
+            "55 bar",
+            700009678
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:32, 16:52)",
+        [
+            "Starbucks",
+            700004310
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(16:54, 18:06)",
+        [
+            "Starbucks",
+            700004310
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:43, 20:07)",
+        [
+            "Two Boots",
+            700030493
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(20:24, 21:47)",
+        [
+            "Two Boots",
+            700030493
+        ]
+    ],
+    [
+        "Catch Up on TV Shows/Movies",
+        "(21:50, 23:02)",
+        [
+            "Two Boots",
+            700030493
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:07, 23:59)",
+        [
+            "All'Antico Vinaio",
+            700005272
+        ]
+    ]
+]

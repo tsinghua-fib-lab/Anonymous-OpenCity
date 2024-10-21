@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Zucker's Bagels and Smoked Fish",
+            700032059
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:32)",
+        [
+            "Seth Thomas Tower Clock",
+            700034374
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:49, 15:38)",
+        [
+            "",
+            700034390
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:24, 17:54)",
+        [
+            "",
+            700037900
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(17:55, 19:17)",
+        [
+            "",
+            700034384
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:25, 23:59)",
+        [
+            "",
+            700034380
+        ]
+    ]
+]

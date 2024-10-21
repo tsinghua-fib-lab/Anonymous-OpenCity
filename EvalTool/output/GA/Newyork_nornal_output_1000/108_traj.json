@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Davey's Ice Cream",
+            700017611
+        ]
+    ],
+    [
+        "Leisure Reading or Hobbies",
+        "(09:00, 10:20)",
+        [
+            "Sly Fox",
+            700026943
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:07, 12:59)",
+        [
+            "Davey's Ice Cream",
+            700017611
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:04, 16:12)",
+        [
+            "Chase",
+            700005775
+        ]
+    ],
+    [
+        "Prepare Dinner & Wind Down",
+        "(18:04, 20:03)",
+        [
+            "Chase",
+            700005775
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 21:52)",
+        [
+            "Chase",
+            700005775
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:42, 23:59)",
+        [
+            "",
+            700001808
+        ]
+    ]
+]

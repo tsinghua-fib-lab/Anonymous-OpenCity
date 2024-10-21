@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700028204
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 11:31)",
+        [
+            "Potts Point Hotel",
+            700004303
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(12:25, 13:39)",
+        [
+            "Potts Point Hotel",
+            700004303
+        ]
+    ],
+    [
+        "Leisure Activity (Hobby Time)",
+        "(14:08, 16:24)",
+        [
+            "Potts Point Hotel",
+            700004303
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:25, 18:44)",
+        [
+            "",
+            700028204
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(20:50, 22:03)",
+        [
+            "Potts Point Hotel",
+            700004303
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(22:13, 23:56)",
+        [
+            "Potts Point Hotel",
+            700004303
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:49, 23:59)",
+        [
+            "",
+            700027828
+        ]
+    ]
+]

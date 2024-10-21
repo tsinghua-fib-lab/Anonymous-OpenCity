@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001488
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(09:00, 09:51)",
+        [
+            "15 Romolo",
+            700000429
+        ]
+    ],
+    [
+        "Catch up on household chores",
+        "(10:54, 11:59)",
+        [
+            "15 Romolo",
+            700000429
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:45, 15:52)",
+        [
+            "",
+            700004179
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:37, 17:21)",
+        [
+            "Taxi Stand at Columbus Ave at Broadway (SW Corner, in front of City Lights Book)",
+            700009904
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 23:59)",
+        [
+            "Yee's Restaurant",
+            700004315
+        ]
+    ],
+    [
+        "Next place after watching a movie or TV show in Situation_6",
+        "(23:03, 23:59)",
+        [
+            "Bow Bow Cocktails",
+            700004314
+        ]
+    ]
+]

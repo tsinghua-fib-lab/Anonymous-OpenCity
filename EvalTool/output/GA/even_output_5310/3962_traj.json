@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Posh",
+            700017477
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 12:04)",
+        [
+            "Posh",
+            700017477
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(12:16, 13:59)",
+        [
+            "Posh",
+            700017477
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:27, 16:02)",
+        [
+            "Posh",
+            700017477
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 18:43)",
+        [
+            "School of the Future",
+            700000298
+        ]
+    ],
+    [
+        "Home Relaxation",
+        "(21:14, 23:55)",
+        [
+            "School of the Future",
+            700000298
+        ]
+    ],
+    [
+        "Home Relaxation",
+        "(23:58, 23:59)",
+        [
+            "School of the Future",
+            700000298
+        ]
+    ]
+]

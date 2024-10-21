@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700010479
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:08)",
+        [
+            "The Valley Tavern",
+            700001771
+        ]
+    ],
+    [
+        "Leisure Reading/TV",
+        "(12:07, 13:33)",
+        [
+            "The Valley Tavern",
+            700001771
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:12, 17:55)",
+        [
+            "Subs, Inc.",
+            700001748
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:12, 19:16)",
+        [
+            "",
+            700014425
+        ]
+    ],
+    [
+        "Visit El Porteño II for dessert.",
+        "(21:21, 22:59)",
+        [
+            "",
+            700014425
+        ]
+    ],
+    [
+        "Wrap up the day at Mission Dolores Dental Care for a quick consultation.",
+        "(23:32, 23:59)",
+        [
+            "The UPS Store",
+            700001763
+        ]
+    ]
+]

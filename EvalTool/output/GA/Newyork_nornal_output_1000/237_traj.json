@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700027305
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:32)",
+        [
+            "",
+            700024027
+        ]
+    ],
+    [
+        "meet up with friends or family for coffee",
+        "(12:52, 13:58)",
+        [
+            "Starbucks",
+            700004089
+        ]
+    ],
+    [
+        "Spend time on a personal project or hobby.",
+        "(14:07, 16:54)",
+        [
+            "Starbucks",
+            700004089
+        ]
+    ],
+    [
+        "Stay at Gregory’s coffee for some quiet moments while you prepare for the week ahead.",
+        "(17:17, 19:07)",
+        [
+            "Starbucks",
+            700004089
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 23:12)",
+        [
+            "",
+            700017276
+        ]
+    ],
+    [
+        "Stay at Gregory's coffee.",
+        "(23:21, 23:59)",
+        [
+            "",
+            700023437
+        ]
+    ]
+]

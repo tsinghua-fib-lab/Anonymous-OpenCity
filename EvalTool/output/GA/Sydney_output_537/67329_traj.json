@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The Childrens Hospital School",
+            700010447
+        ]
+    ],
+    [
+        "Relax and rest for the day.",
+        "(09:00, 10:56)",
+        [
+            "The Childrens Hospital School",
+            700010447
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 12:00)",
+        [
+            "",
+            700029956
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:57, 18:25)",
+        [
+            "",
+            700029958
+        ]
+    ],
+    [
+        "Engage in a workout session.",
+        "(18:43, 19:57)",
+        [
+            "The Green Shop Organic",
+            700027356
+        ]
+    ],
+    [
+        "Enjoy dinner, possibly with family or friends, and engage in a game night or social activity afterward.",
+        "(20:54, 21:54)",
+        [
+            "The Green Shop Organic",
+            700027356
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:58)",
+        [
+            "Leaf Café & Co",
+            700030282
+        ]
+    ]
+]

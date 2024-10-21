@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002520
+        ]
+    ],
+    [
+        "Next activity after breakfast.",
+        "(10:00, 11:30)",
+        [
+            "CoCo Fresh Tea & Juice",
+            700013242
+        ]
+    ],
+    [
+        "Go to CoCo Fresh Tea & Juice",
+        "(11:59, 12:59)",
+        [
+            "CoCo Fresh Tea & Juice",
+            700013242
+        ]
+    ],
+    [
+        "Engage in a hobby or activity you love, such as reading, painting, or playing a musical instrument.",
+        "(13:51, 15:23)",
+        [
+            "CoCo Fresh Tea & Juice",
+            700013242
+        ]
+    ],
+    [
+        "Engage in a hobby or activity you love, such as reading, painting, or playing a musical instrument.",
+        "(15:40, 17:06)",
+        [
+            "CityMD",
+            700004730
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:55, 21:22)",
+        [
+            "",
+            700014909
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:06, 23:30)",
+        [
+            "Gregory's Coffee",
+            700013247
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:01, 23:59)",
+        [
+            "Sweetwater Social",
+            700013243
+        ]
+    ]
+]

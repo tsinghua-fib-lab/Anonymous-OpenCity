@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Mee's Noodle",
+            700014650
+        ]
+    ],
+    [
+        "Go for a walk or light exercise",
+        "(10:00, 11:08)",
+        [
+            "La Cava Wine Bar",
+            700017237
+        ]
+    ],
+    [
+        "Read a book or enjoy a podcast",
+        "(11:52, 12:52)",
+        [
+            "La Cava Wine Bar",
+            700017237
+        ]
+    ],
+    [
+        "Read a book or enjoy a podcast",
+        "(13:43, 14:55)",
+        [
+            "",
+            700000996
+        ]
+    ],
+    [
+        "Read a book or enjoy a podcast",
+        "(15:20, 16:52)",
+        [
+            "La Cava Wine Bar",
+            700017237
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 20:57)",
+        [
+            "",
+            700002823
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:07, 23:59)",
+        [
+            "",
+            700002220
+        ]
+    ]
+]

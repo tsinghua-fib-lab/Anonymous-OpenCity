@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700026222
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 13:07)",
+        [
+            "Maison Close",
+            700003855
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:33, 20:57)",
+        [
+            "",
+            700026216
+        ]
+    ],
+    [
+        "Attend a sports event or game",
+        "(18:10, 20:30)",
+        [
+            "Aurora SoHo",
+            700011981
+        ]
+    ],
+    [
+        "Wind down with a movie or TV show",
+        "(20:55, 22:45)",
+        [
+            "Aurora SoHo",
+            700011981
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:31, 23:59)",
+        [
+            "",
+            700026220
+        ]
+    ]
+]

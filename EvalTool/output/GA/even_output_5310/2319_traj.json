@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Birch Coffee",
+            700009668
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(09:00, 09:51)",
+        [
+            "Norma",
+            700010575
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(10:12, 11:34)",
+        [
+            "Norma",
+            700010575
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:01, 16:03)",
+        [
+            "Nobi Sushi",
+            700020948
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:41, 23:28)",
+        [
+            "",
+            700000819
+        ]
+    ],
+    [
+        "Next go to Chill Space for relaxation in the sauna.",
+        "(23:07, 23:59)",
+        [
+            "",
+            700000819
+        ]
+    ]
+]

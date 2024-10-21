@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002855
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:18)",
+        [
+            "Season",
+            700029000
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(14:28, 16:25)",
+        [
+            "Season",
+            700029000
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(17:26, 18:57)",
+        [
+            "Season",
+            700029000
+        ]
+    ],
+    [
+        "Dinner Preparation and Family Time",
+        "(19:40, 21:58)",
+        [
+            "Le Croco Du Marais",
+            700029001
+        ]
+    ],
+    [
+        "Relax and Wind Down",
+        "(22:19, 23:54)",
+        [
+            "Le Croco Du Marais",
+            700029001
+        ]
+    ]
+]

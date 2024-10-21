@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700019072
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the nearby park or neighborhood to enjoy the fresh air.",
+        "(09:00, 09:59)",
+        [
+            "",
+            700019072
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:39, 12:15)",
+        [
+            "Morty's Wine & Beer Bar",
+            700018335
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:35, 20:38)",
+        [
+            "",
+            700020052
+        ]
+    ],
+    [
+        "Current Place: Morty's Wine & Beer Bar; Stay Time: 1 hour 24 minutes",
+        "(21:36, 23:59)",
+        [
+            "The Pita Grill",
+            700011530
+        ]
+    ],
+    [
+        "Next place: Morty's Wine & Beer Bar",
+        "(23:34, 23:59)",
+        [
+            "Chase",
+            700024967
+        ]
+    ]
+]

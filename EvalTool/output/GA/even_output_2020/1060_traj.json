@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000128
+        ]
+    ],
+    [
+        "Leisurely breakfast",
+        "(10:00, 10:54)",
+        [
+            "",
+            700001505
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:03, 16:31)",
+        [
+            "",
+            700001515
+        ]
+    ],
+    [
+        "Participate in a recreational activity.",
+        "(13:59, 14:56)",
+        [
+            "",
+            700001522
+        ]
+    ],
+    [
+        "Participate in recreational activity.",
+        "(15:27, 17:37)",
+        [
+            "Sterne School",
+            700000272
+        ]
+    ],
+    [
+        "Stay at Sterne School",
+        "(17:40, 19:16)",
+        [
+            "Sterne School",
+            700000272
+        ]
+    ],
+    [
+        "Stay at Sterne School;",
+        "(20:02, 22:27)",
+        [
+            "Sterne School",
+            700000272
+        ]
+    ],
+    [
+        "Stay at Sterne School.",
+        "(21:55, 23:05)",
+        [
+            "Sterne School",
+            700000272
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:39, 23:59)",
+        [
+            "",
+            700001507
+        ]
+    ]
+]

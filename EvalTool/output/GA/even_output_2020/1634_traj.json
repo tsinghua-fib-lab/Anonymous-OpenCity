@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "King St. Dental",
+            700011163
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(10:00, 10:55)",
+        [
+            "Bravado",
+            700002658
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(11:02, 12:50)",
+        [
+            "Bravado",
+            700002658
+        ]
+    ],
+    [
+        "Exercise/Outdoor Activity",
+        "(13:20, 14:30)",
+        [
+            "Bravado",
+            700002658
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:29, 15:53)",
+        [
+            "Bravado",
+            700002658
+        ]
+    ],
+    [
+        "Engage in a leisure activity.",
+        "(16:24, 17:44)",
+        [
+            "Bravado",
+            700002658
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:16, 20:59)",
+        [
+            "Candlestick Park Sports Bar",
+            700002119
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:52, 23:59)",
+        [
+            "EA Cafe",
+            700002120
+        ]
+    ]
+]

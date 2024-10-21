@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700040624
+        ]
+    ],
+    [
+        "Breakfast",
+        "(10:00, 10:53)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:01, 12:28)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:57, 13:56)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(14:30, 16:02)",
+        [
+            "Bleecker Playground",
+            700000418
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:45, 20:33)",
+        [
+            "Frankies Sputino 570",
+            700005693
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(20:09, 21:37)",
+        [
+            "Made in New York Pizza",
+            700027989
+        ]
+    ],
+    [
+        "Go to visit friends or family",
+        "(21:48, 23:40)",
+        [
+            "Made in New York Pizza",
+            700027989
+        ]
+    ],
+    [
+        "Stay at Made in New York Pizza",
+        "(23:43, 23:59)",
+        [
+            "Made in New York Pizza",
+            700027989
+        ]
+    ]
+]

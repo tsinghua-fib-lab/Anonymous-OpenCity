@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700013153
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:31)",
+        [
+            "Gregory’s coffee",
+            700030347
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:05, 15:12)",
+        [
+            "Gregory’s coffee",
+            700030347
+        ]
+    ],
+    [
+        "Brunch",
+        "(15:49, 15:50)",
+        [
+            "Gregory’s coffee",
+            700030347
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(16:32, 18:09)",
+        [
+            "Gregory’s coffee",
+            700030347
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:35, 20:00)",
+        [
+            "",
+            700037883
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(20:36, 21:56)",
+        [
+            "Chopt",
+            700023078
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "Chipotle",
+            700016241
+        ]
+    ]
+]

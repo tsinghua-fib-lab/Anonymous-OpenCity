@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of America",
+            700002201
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:33)",
+        [
+            "The Sausage Factory",
+            700002198
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(11:08, 12:54)",
+        [
+            "The Sausage Factory",
+            700002198
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:18, 14:53)",
+        [
+            "The Sausage Factory",
+            700002198
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:02, 19:01)",
+        [
+            "Taxi Stand at Castro and 18th Street",
+            700009956
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 23:59)",
+        [
+            "",
+            700002193
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(21:41, 23:59)",
+        [
+            "Philz Coffee",
+            700002195
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(23:44, 23:59)",
+        [
+            "Bank of America",
+            700002201
+        ]
+    ]
+]

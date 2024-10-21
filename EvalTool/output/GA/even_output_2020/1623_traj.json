@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Firenze by Night",
+            700003972
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:25)",
+        [
+            "Capo's",
+            700005007
+        ]
+    ],
+    [
+        "Current place: Capo's. Stay for 1 hour 3 minutes.",
+        "(14:57, 16:10)",
+        [
+            "Eight Tables",
+            700010275
+        ]
+    ],
+    [
+        "Current place: Capo's. Stay for 1 hour 3 minutes.",
+        "(16:47, 18:16)",
+        [
+            "Eight Tables",
+            700010275
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 20:09)",
+        [
+            "Walgreens",
+            700000137
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(22:33, 23:59)",
+        [
+            "Molinari Delicatessen",
+            700001464
+        ]
+    ]
+]

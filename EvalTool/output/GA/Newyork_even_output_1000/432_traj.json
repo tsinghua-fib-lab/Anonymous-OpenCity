@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700030321
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:22)",
+        [
+            "Il Divo",
+            700022332
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:57, 19:30)",
+        [
+            "Beach Cafe",
+            700022334
+        ]
+    ],
+    [
+        "Next activity after social activity",
+        "(16:56, 18:36)",
+        [
+            "Beach Cafe",
+            700022334
+        ]
+    ],
+    [
+        "Dinner & Wind Down",
+        "(19:18, 22:00)",
+        [
+            "Valley National Bank",
+            700014056
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:29, 23:59)",
+        [
+            "",
+            700003135
+        ]
+    ]
+]

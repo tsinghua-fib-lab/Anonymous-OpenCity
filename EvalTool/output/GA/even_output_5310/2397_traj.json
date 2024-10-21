@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700036404
+        ]
+    ],
+    [
+        "Leisure Activity/Outdoor Time",
+        "(10:00, 11:55)",
+        [
+            "Citi Bike - West Street & Chambers Street",
+            700008247
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:23, 18:06)",
+        [
+            "",
+            700036822
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(17:21, 19:06)",
+        [
+            "",
+            700036823
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:11, 22:03)",
+        [
+            "",
+            700036823
+        ]
+    ],
+    [
+        "Catch Up with Friends/Family",
+        "(23:14, 23:59)",
+        [
+            "",
+            700036823
+        ]
+    ]
+]

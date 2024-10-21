@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Beer Authority",
+            700006064
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:50)",
+        [
+            "Jollibee",
+            700013409
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:19, 15:48)",
+        [
+            "Poketown",
+            700013405
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(16:18, 17:52)",
+        [
+            "Poketown",
+            700013405
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:55, 22:36)",
+        [
+            "Blue Maiz Kitchen",
+            700019200
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:51, 23:59)",
+        [
+            "Jollibee",
+            700013409
+        ]
+    ]
+]

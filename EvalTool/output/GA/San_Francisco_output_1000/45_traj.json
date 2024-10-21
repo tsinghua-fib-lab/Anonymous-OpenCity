@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001629
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:46)",
+        [
+            "Bay Wheels",
+            700010258
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(12:01, 12:59)",
+        [
+            "Bay Wheels",
+            700010258
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(13:31, 14:59)",
+        [
+            "Bay Wheels",
+            700010258
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(15:34, 18:01)",
+        [
+            "Bay Wheels",
+            700010258
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 22:07)",
+        [
+            "Hi Tops",
+            700002437
+        ]
+    ],
+    [
+        "Stay at Bay Wheels",
+        "(23:14, 23:59)",
+        [
+            "Bank of the West",
+            700003293
+        ]
+    ]
+]

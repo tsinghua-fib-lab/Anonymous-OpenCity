@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Le Pain Quotidien",
+            700008570
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 12:01)",
+        [
+            "Le Pain Quotidien",
+            700008570
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(12:45, 14:03)",
+        [
+            "Hale and Hearty Soups",
+            700014861
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:46, 16:08)",
+        [
+            "Hale and Hearty Soups",
+            700014861
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:53, 18:02)",
+        [
+            "Hale and Hearty Soups",
+            700014861
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:10, 22:12)",
+        [
+            "JoJo",
+            700023490
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:58, 23:59)",
+        [
+            "Panda Bubble Tea",
+            700014709
+        ]
+    ]
+]

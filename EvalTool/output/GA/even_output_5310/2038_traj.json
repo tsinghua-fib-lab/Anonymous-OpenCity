@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Amore Pizza Cafe",
+            700010037
+        ]
+    ],
+    [
+        "Wake Up & Breakfast",
+        "(09:00, 09:58)",
+        [
+            "Amore Pizza Cafe",
+            700010037
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:12, 16:02)",
+        [
+            "The Dental Office of Dr. Ronald Birnbaum",
+            700007280
+        ]
+    ],
+    [
+        "Movie or TV Show",
+        "(14:56, 15:52)",
+        [
+            "The Dental Office of Dr. Ronald Birnbaum",
+            700007280
+        ]
+    ],
+    [
+        "Movie or TV Show",
+        "(17:02, 18:29)",
+        [
+            "The Dental Office of Dr. Ronald Birnbaum",
+            700007280
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 23:20)",
+        [
+            "Masseria dei Vini",
+            700006399
+        ]
+    ],
+    [
+        "Dinner Prep & Family Time",
+        "(22:18, 23:55)",
+        [
+            "",
+            700018407
+        ]
+    ],
+    [
+        "Dinner Prep & Family Time",
+        "(23:48, 23:59)",
+        [
+            "",
+            700002071
+        ]
+    ]
+]

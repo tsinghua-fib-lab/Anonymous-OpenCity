@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Alamo",
+            700001891
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:46)",
+        [
+            "Thrifty",
+            700000756
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(13:47, 15:09)",
+        [
+            "Thrifty",
+            700000756
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(16:07, 17:56)",
+        [
+            "Taxi Stand at Hilton Hotel Union Square",
+            700009884
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(18:21, 20:13)",
+        [
+            "Taxi Stand at Hilton Hotel Union Square",
+            700009884
+        ]
+    ],
+    [
+        "Get ready and head to Thrifty",
+        "(20:55, 22:19)",
+        [
+            "Thrifty",
+            700000756
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(22:13, 23:59)",
+        [
+            "Thrifty",
+            700000756
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Urban Tavern",
+            700001082
+        ]
+    ]
+]

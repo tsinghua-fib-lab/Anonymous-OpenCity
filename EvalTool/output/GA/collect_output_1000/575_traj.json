@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700030386
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:30)",
+        [
+            "Lexington Avenue & East 26th Street",
+            700017924
+        ]
+    ],
+    [
+        "Brunch",
+        "(11:58, 12:57)",
+        [
+            "Lexington Avenue & East 26th Street",
+            700017924
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:01, 16:07)",
+        [
+            "Lexington Avenue & East 26th Street",
+            700017924
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:07, 19:23)",
+        [
+            "",
+            700002842
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:18, 23:59)",
+        [
+            "",
+            700002842
+        ]
+    ]
+]

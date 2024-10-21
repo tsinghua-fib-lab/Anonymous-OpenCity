@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Provident Credit Union",
+            700012555
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:18)",
+        [
+            "Latte Express",
+            700004416
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:09, 20:40)",
+        [
+            "",
+            700010547
+        ]
+    ],
+    [
+        "Meet friends or family for coffee or engage in an outdoor activity.",
+        "(17:10, 18:53)",
+        [
+            "Latte Express",
+            700004416
+        ]
+    ],
+    [
+        "Go to Latte Express",
+        "(19:22, 21:05)",
+        [
+            "Latte Express",
+            700004416
+        ]
+    ],
+    [
+        "Go to Latte Express",
+        "(21:57, 23:50)",
+        [
+            "Latte Express",
+            700004416
+        ]
+    ],
+    [
+        "Stay at Latte Express.",
+        "(23:58, 23:59)",
+        [
+            "Latte Express",
+            700004416
+        ]
+    ]
+]

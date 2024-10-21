@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - East 20th Street & FDR Drive",
+            700008034
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:40)",
+        [
+            "",
+            700017708
+        ]
+    ],
+    [
+        "Hobby Time",
+        "(13:09, 15:06)",
+        [
+            "Citi Bike - East 20th Street & FDR Drive",
+            700008034
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:54, 18:39)",
+        [
+            "",
+            700017717
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:13, 21:54)",
+        [
+            "",
+            700017730
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:01, 23:59)",
+        [
+            "",
+            700017713
+        ]
+    ]
+]

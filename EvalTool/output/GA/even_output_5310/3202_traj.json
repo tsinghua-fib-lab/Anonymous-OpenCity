@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Raj Mahal",
+            700040211
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:39)",
+        [
+            "AOI Kitchen",
+            700018013
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:19, 12:40)",
+        [
+            "AOI Kitchen",
+            700018013
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:06, 14:44)",
+        [
+            "Beetle House NYC",
+            700009076
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:10, 16:15)",
+        [
+            "Souen",
+            700040213
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:19, 17:51)",
+        [
+            "Curry Flavor",
+            700040212
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(18:16, 20:01)",
+        [
+            "Curry Flavor",
+            700040212
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:07, 21:57)",
+        [
+            "Maya Mezcal",
+            700008980
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:34, 23:59)",
+        [
+            "",
+            700003184
+        ]
+    ]
+]

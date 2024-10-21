@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Panda Express",
+            700010312
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:47)",
+        [
+            "Touro College",
+            700004388
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:27, 20:21)",
+        [
+            "",
+            700029818
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:28, 23:59)",
+        [
+            "Moynihan Food Hall",
+            700025732
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700002605
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(10:00, 10:56)",
+        [
+            "",
+            700000839
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(11:53, 12:55)",
+        [
+            "",
+            700000839
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:29, 14:52)",
+        [
+            "Cowgirl",
+            700005692
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:55, 19:34)",
+        [
+            "",
+            700011347
+        ]
+    ],
+    [
+        "Stay at Cowgirl.",
+        "(19:49, 21:18)",
+        [
+            "Employees Only",
+            700008789
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(21:05, 23:11)",
+        [
+            "Oslo Coffee Roasters",
+            700023339
+        ]
+    ],
+    [
+        "Evening Entertainment",
+        "(23:32, 23:59)",
+        [
+            "Oslo Coffee Roasters",
+            700023339
+        ]
+    ]
+]

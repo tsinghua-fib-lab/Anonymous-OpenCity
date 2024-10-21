@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Burger Man",
+            700005906
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:40)",
+        [
+            "Citi Bike - Broadway & West 49th Street",
+            700007976
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:32, 18:35)",
+        [
+            "Krispy Kreme",
+            700029809
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:30, 23:34)",
+        [
+            "Lagos TSQ",
+            700029820
+        ]
+    ],
+    [
+        "Relax and watch a movie or series.",
+        "(20:59, 21:56)",
+        [
+            "Burger Man",
+            700005906
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:17, 23:59)",
+        [
+            "Krispy Kreme",
+            700029809
+        ]
+    ]
+]

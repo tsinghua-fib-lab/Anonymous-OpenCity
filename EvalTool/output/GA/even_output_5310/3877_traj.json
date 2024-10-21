@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Bar Moga",
+            700004931
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 09:58)",
+        [
+            "Bar Veloce",
+            700004932
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:01, 18:43)",
+        [
+            "",
+            700020349
+        ]
+    ],
+    [
+        "Socialize or Connect with Friends/Family",
+        "(15:27, 17:55)",
+        [
+            "",
+            700006258
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(18:00, 19:23)",
+        [
+            "12 Chairs",
+            700006255
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(19:41, 21:46)",
+        [
+            "Comodo",
+            700006254
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(22:32, 23:59)",
+        [
+            "",
+            700031456
+        ]
+    ]
+]

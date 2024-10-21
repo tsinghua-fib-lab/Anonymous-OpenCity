@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Gyro Xpress",
+            700004871
+        ]
+    ],
+    [
+        "Wake Up and Brunch",
+        "(10:00, 11:25)",
+        [
+            "Gyro Xpress",
+            700004871
+        ]
+    ],
+    [
+        "Next activity based on daily plan.",
+        "(12:13, 13:48)",
+        [
+            "Blind Butcher",
+            700007547
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:21, 18:07)",
+        [
+            "Lark",
+            700007548
+        ]
+    ],
+    [
+        "Cultural Activity",
+        "(20:31, 22:04)",
+        [
+            "Lark",
+            700007548
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:54, 23:59)",
+        [
+            "La Tortilla",
+            700002179
+        ]
+    ]
+]

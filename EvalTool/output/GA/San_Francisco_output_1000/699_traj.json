@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Tony's Cable Car",
+            700000847
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 11:24)",
+        [
+            "Seventh-Day Adventist Church",
+            700007162
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:06, 14:51)",
+        [
+            "",
+            700008278
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:03, 16:38)",
+        [
+            "Bay Wheels",
+            700009619
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(16:48, 18:17)",
+        [
+            "Bay Wheels",
+            700009619
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:01, 22:52)",
+        [
+            "",
+            700001936
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:55, 23:59)",
+        [
+            "",
+            700013233
+        ]
+    ]
+]

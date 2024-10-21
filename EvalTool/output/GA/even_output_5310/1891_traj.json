@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Starbucks",
+            700009246
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:48)",
+        [
+            "Social Lounge",
+            700005997
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:27, 19:00)",
+        [
+            "",
+            700001801
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:28, 22:41)",
+        [
+            "Trattoria Trecolori",
+            700006544
+        ]
+    ],
+    [
+        "Evening Wind Down",
+        "(23:48, 23:59)",
+        [
+            "Trattoria Trecolori",
+            700006544
+        ]
+    ]
+]

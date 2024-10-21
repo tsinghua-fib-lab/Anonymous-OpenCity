@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700000476
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:31)",
+        [
+            "The Public Izakaya",
+            700008707
+        ]
+    ],
+    [
+        "Relaxing Afternoon",
+        "(14:00, 15:51)",
+        [
+            "",
+            700000476
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:17, 21:23)",
+        [
+            "",
+            700009282
+        ]
+    ],
+    [
+        "Wind Down & Prepare for the Week",
+        "(21:12, 23:04)",
+        [
+            "The Public Izakaya",
+            700008707
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:27, 23:59)",
+        [
+            "Zzan",
+            700000898
+        ]
+    ]
+]

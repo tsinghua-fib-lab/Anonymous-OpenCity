@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Robert",
+            700037593
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:06)",
+        [
+            "Starbucks",
+            700003466
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:55, 16:40)",
+        [
+            "First Republic",
+            700020879
+        ]
+    ],
+    [
+        "Outdoor Time",
+        "(17:12, 19:05)",
+        [
+            "First Republic",
+            700020879
+        ]
+    ],
+    [
+        "Dinner and Prepare for the Week",
+        "(19:35, 20:56)",
+        [
+            "Starbucks",
+            700003466
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(22:03, 23:59)",
+        [
+            "Starbucks",
+            700003466
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(23:54, 23:59)",
+        [
+            "Starbucks",
+            700003466
+        ]
+    ]
+]

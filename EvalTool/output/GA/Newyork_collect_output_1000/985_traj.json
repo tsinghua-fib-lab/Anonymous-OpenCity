@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:15)",
+        [
+            "Bagel Express III",
+            700006217
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:18, 20:13)",
+        [
+            "",
+            700000911
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:20, 21:21)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ],
+    [
+        "Stay at AWOL Bar and Grill",
+        "(23:36, 23:59)",
+        [
+            "Abbey Tavern",
+            700006218
+        ]
+    ]
+]

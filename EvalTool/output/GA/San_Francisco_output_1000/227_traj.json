@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Rose's Café",
+            700004244
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:45)",
+        [
+            "Cellar Door",
+            700002304
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(16:54, 17:57)",
+        [
+            "BodyROK Studios",
+            700003071
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:04, 20:05)",
+        [
+            "",
+            700000894
+        ]
+    ],
+    [
+        "Catch Up with Friends",
+        "(22:20, 23:57)",
+        [
+            "BodyROK Studios",
+            700003071
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:56, 23:59)",
+        [
+            "BodyROK Studios",
+            700003071
+        ]
+    ]
+]

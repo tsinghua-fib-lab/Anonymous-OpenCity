@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Goldberg's Pharmacy",
+            700007629
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:34)",
+        [
+            "",
+            700001955
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:38, 14:06)",
+        [
+            "",
+            700039951
+        ]
+    ],
+    [
+        "Continue watching a movie or series.",
+        "(14:10, 15:58)",
+        [
+            "Sushi Yoshizawa",
+            700041300
+        ]
+    ],
+    [
+        "Continue watching a movie or series",
+        "(16:24, 18:04)",
+        [
+            "Sushi Yoshizawa",
+            700041300
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 21:34)",
+        [
+            "",
+            700001986
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:40, 23:59)",
+        [
+            "",
+            700000768
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi Bike - Shevchenko Pl & E 7 St",
+            700008178
+        ]
+    ],
+    [
+        "Outdoor Activity/Exercise",
+        "(09:00, 10:28)",
+        [
+            "Meet Fresh",
+            700016098
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(10:53, 13:08)",
+        [
+            "Meet Fresh",
+            700016098
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 17:37)",
+        [
+            "The Standard",
+            700016385
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:27, 21:48)",
+        [
+            "",
+            700025797
+        ]
+    ],
+    [
+        "Wake Up and Morning Routine",
+        "(22:12, 23:59)",
+        [
+            "Citi Bike - Shevchenko Pl & E 7 St",
+            700008178
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Ristorante Parma",
+            700002296
+        ]
+    ],
+    [
+        "Go for a mid-morning walk or jog in the park.",
+        "(10:00, 10:52)",
+        [
+            "Bistro Aix",
+            700002307
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:36, 13:21)",
+        [
+            "Wells Fargo",
+            700000681
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 15:05)",
+        [
+            "Ristorante Parma",
+            700002296
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:57, 19:56)",
+        [
+            "",
+            700008282
+        ]
+    ],
+    [
+        "Have dinner with friends at a nice restaurant.",
+        "(20:10, 21:31)",
+        [
+            "Ristorante Parma",
+            700002296
+        ]
+    ],
+    [
+        "Stay at Ristorante Parma",
+        "(22:20, 23:59)",
+        [
+            "Ristorante Parma",
+            700002296
+        ]
+    ]
+]

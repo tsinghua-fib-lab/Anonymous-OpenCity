@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700005985
+        ]
+    ],
+    [
+        "Morning Walk",
+        "(09:00, 09:51)",
+        [
+            "",
+            700005985
+        ]
+    ],
+    [
+        "Next activity after morning walk",
+        "(10:11, 11:46)",
+        [
+            "Padoca Bakery",
+            700032490
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(12:28, 13:51)",
+        [
+            "Bedford Falls",
+            700032491
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(14:22, 16:06)",
+        [
+            "Padoca Bakery",
+            700032490
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:09, 17:48)",
+        [
+            "",
+            700002418
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:55, 22:11)",
+        [
+            "CityMD",
+            700013537
+        ]
+    ]
+]

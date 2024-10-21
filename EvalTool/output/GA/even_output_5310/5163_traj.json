@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003211
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(10:00, 11:29)",
+        [
+            "",
+            700003211
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:41, 12:54)",
+        [
+            "Wan Wan",
+            700007828
+        ]
+    ],
+    [
+        "Lunch with Friends",
+        "(13:46, 15:08)",
+        [
+            "Wan Wan",
+            700007828
+        ]
+    ],
+    [
+        "Lunch with Friends",
+        "(15:24, 16:49)",
+        [
+            "Wan Wan",
+            700007828
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:08, 19:34)",
+        [
+            "Bambina Blue Gelato",
+            700025867
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:52, 23:59)",
+        [
+            "Café Select",
+            700007500
+        ]
+    ],
+    [
+        "Attend a Sports Event",
+        "(22:32, 23:56)",
+        [
+            "Neat Burger",
+            700012009
+        ]
+    ],
+    [
+        "Wind Down for the Evening",
+        "(23:53, 23:59)",
+        [
+            "19 Cleveland",
+            700007497
+        ]
+    ]
+]

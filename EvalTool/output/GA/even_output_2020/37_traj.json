@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008823
+        ]
+    ],
+    [
+        "Leisure Activities",
+        "(10:00, 12:02)",
+        [
+            "",
+            700008823
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:35, 14:53)",
+        [
+            "",
+            700008182
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:35, 21:29)",
+        [
+            "Taxi Stand at Hilton Financial District",
+            700009903
+        ]
+    ],
+    [
+        "Wind Down",
+        "(21:13, 23:02)",
+        [
+            "Taxi Stand at Hilton Financial District",
+            700009903
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:53, 23:59)",
+        [
+            "Joy Hing B.B.Q Noodle House",
+            700004351
+        ]
+    ]
+]

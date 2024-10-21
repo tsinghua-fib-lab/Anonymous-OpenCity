@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700001730
+        ]
+    ],
+    [
+        "Breakfast at 9:00 AM",
+        "(09:00, 09:50)",
+        [
+            "",
+            700001730
+        ]
+    ],
+    [
+        "Reading/Relaxation from 11:00 AM to 12:30 PM",
+        "(10:56, 12:34)",
+        [
+            "Café Habana",
+            700007829
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:16, 18:22)",
+        [
+            "",
+            700001330
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:05, 23:59)",
+        [
+            "Old Saint Patrick's Convent and Girls School",
+            700000092
+        ]
+    ]
+]

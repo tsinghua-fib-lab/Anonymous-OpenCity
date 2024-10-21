@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tacorea",
+            700002085
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:45)",
+        [
+            "Cold Drinks Bar",
+            700010276
+        ]
+    ],
+    [
+        "Leisure or Hobby Time",
+        "(13:47, 15:50)",
+        [
+            "Tacorea",
+            700002085
+        ]
+    ],
+    [
+        "Leisure or Hobby Time",
+        "(16:07, 17:57)",
+        [
+            "Tacorea",
+            700002085
+        ]
+    ],
+    [
+        "Watch a Movie or TV Series",
+        "(18:21, 20:20)",
+        [
+            "Tacorea",
+            700002085
+        ]
+    ],
+    [
+        "Go from Cold Drinks Bar to Tacorea",
+        "(20:55, 22:57)",
+        [
+            "Tacorea",
+            700002085
+        ]
+    ],
+    [
+        "Stay",
+        "(22:13, 23:59)",
+        [
+            "Tacorea",
+            700002085
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Bow Bow Cocktails",
+            700004314
+        ]
+    ]
+]

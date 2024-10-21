@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700020069
+        ]
+    ],
+    [
+        "Breakfast",
+        "(09:00, 10:09)",
+        [
+            "",
+            700002305
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:58, 14:28)",
+        [
+            "",
+            700000602
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(11:52, 13:26)",
+        [
+            "Osteria Laguna",
+            700008602
+        ]
+    ],
+    [
+        "Lunch",
+        "(14:15, 15:35)",
+        [
+            "Sakagura",
+            700010036
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:33, 19:02)",
+        [
+            "Osteria Laguna",
+            700008602
+        ]
+    ],
+    [
+        "Stay at 'Osteria Laguna' for a late evening meal.",
+        "(22:25, 23:50)",
+        [
+            "Osteria Laguna",
+            700008602
+        ]
+    ]
+]

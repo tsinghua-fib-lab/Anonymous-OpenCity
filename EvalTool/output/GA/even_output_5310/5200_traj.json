@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Steam House",
+            700019761
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:07)",
+        [
+            "",
+            700023712
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:16, 16:27)",
+        [
+            "",
+            700023706
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(16:57, 18:07)",
+        [
+            "Steam House",
+            700019761
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(18:28, 20:05)",
+        [
+            "Steam House",
+            700019761
+        ]
+    ],
+    [
+        "Dinner with Family or Friends",
+        "(20:13, 21:51)",
+        [
+            "Steam House",
+            700019761
+        ]
+    ],
+    [
+        "Watch a Movie or Series",
+        "(22:27, 23:59)",
+        [
+            "Steam House",
+            700019761
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Aunt Charlies Lounge",
+            700013873
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:33)",
+        [
+            "Aunt Charlies Lounge",
+            700013873
+        ]
+    ],
+    [
+        "Spend time reading a book or catching up on a hobby.",
+        "(15:27, 17:03)",
+        [
+            "Aunt Charlies Lounge",
+            700013873
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:06, 22:46)",
+        [
+            "Fraternite Notre Dame Mary of Nazareth House",
+            700013869
+        ]
+    ],
+    [
+        "Meet friends for drinks.",
+        "(19:38, 21:13)",
+        [
+            "Aunt Charlies Lounge",
+            700013873
+        ]
+    ],
+    [
+        "Stay at Aunt Charlies Lounge",
+        "(21:26, 23:19)",
+        [
+            "Fraternite Notre Dame Mary of Nazareth House",
+            700013869
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:54, 23:59)",
+        [
+            "Abe's Pizza",
+            700010166
+        ]
+    ]
+]

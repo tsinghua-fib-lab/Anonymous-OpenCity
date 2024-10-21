@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Marcello's Pizza",
+            700002181
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:07)",
+        [
+            "Castro Car Wash",
+            700004860
+        ]
+    ],
+    [
+        "Read a Book or Listen to Music",
+        "(14:11, 16:02)",
+        [
+            "Castro Car Wash",
+            700004860
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:02, 21:09)",
+        [
+            "One Medical",
+            700013852
+        ]
+    ],
+    [
+        "Read a Book or Listen to Music",
+        "(21:35, 23:12)",
+        [
+            "One Medical",
+            700013852
+        ]
+    ],
+    [
+        "Visit Family or Friends",
+        "(23:45, 23:59)",
+        [
+            "Dumpling House",
+            700010736
+        ]
+    ]
+]

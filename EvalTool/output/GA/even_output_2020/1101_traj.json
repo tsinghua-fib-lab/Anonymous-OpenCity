@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Compton's Coffee House",
+            700008749
+        ]
+    ],
+    [
+        "Walking or jogging in the park",
+        "(10:00, 11:01)",
+        [
+            "Bush Street-Cottage Row Historic District",
+            700000319
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:10, 16:05)",
+        [
+            "",
+            700000778
+        ]
+    ],
+    [
+        "Participate in a fun sports activity, such as tennis or a group fitness class.",
+        "(17:58, 19:36)",
+        [
+            "Nono",
+            700005694
+        ]
+    ],
+    [
+        "Wind down the day by watching a movie or reading a book.",
+        "(20:12, 22:23)",
+        [
+            "Royal Indian Cuisine",
+            700005695
+        ]
+    ],
+    [
+        "Stay at Royal Indian Cuisine",
+        "(23:39, 23:59)",
+        [
+            "Royal Indian Cuisine",
+            700005695
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "USPS",
+            700017695
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:24)",
+        [
+            "CVS Pharmacy",
+            700004181
+        ]
+    ],
+    [
+        "Late Afternoon Relaxation",
+        "(12:33, 13:58)",
+        [
+            "Panda Express",
+            700005924
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:33, 20:13)",
+        [
+            "New Arc Chicken",
+            700017085
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:33, 23:14)",
+        [
+            "Tavern Kyclades",
+            700017084
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:39, 23:59)",
+        [
+            "Kumo Sushi",
+            700005929
+        ]
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "McDonald's",
+            700013532
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(10:00, 10:56)",
+        [
+            "McDonald's",
+            700013532
+        ]
+    ],
+    [
+        "Go for a morning walk or jog",
+        "(11:52, 13:03)",
+        [
+            "Les Arcades",
+            700003345
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:06, 17:35)",
+        [
+            "Cabinet Blanchiment Dentaire",
+            700023782
+        ]
+    ],
+    [
+        "Relax and watch a movie or series",
+        "(19:49, 21:03)",
+        [
+            "86 Champs",
+            700033454
+        ]
+    ],
+    [
+        "Relax and watch a movie or series",
+        "(20:52, 22:08)",
+        [
+            "McDonald's",
+            700013532
+        ]
+    ],
+    [
+        "Prepare a light dinner and reflect on the day",
+        "(22:38, 23:59)",
+        [
+            "Les Arcades",
+            700003345
+        ]
+    ]
+]

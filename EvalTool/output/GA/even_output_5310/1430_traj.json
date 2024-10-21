@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700014642
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park",
+        "(10:00, 10:56)",
+        [
+            "",
+            700014642
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park from 11:00 AM to 12:00 PM.",
+        "(12:06, 13:10)",
+        [
+            "Oishi Bay",
+            700016052
+        ]
+    ],
+    [
+        "Go for a morning jog or visit a local park.",
+        "(13:11, 14:43)",
+        [
+            "Concorde Medical Group",
+            700023816
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:29, 18:35)",
+        [
+            "Oishi Bay",
+            700016052
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:42, 22:18)",
+        [
+            "Peppa's Jerk Chicken",
+            700021515
+        ]
+    ],
+    [
+        "Go to 'Citi Bike - East 27th Street & 1st Avenue'",
+        "(23:31, 23:59)",
+        [
+            "",
+            700024800
+        ]
+    ]
+]

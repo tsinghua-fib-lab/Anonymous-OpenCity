@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001835
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:19)",
+        [
+            "",
+            700001385
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:35, 15:28)",
+        [
+            "Boris and Horton",
+            700012364
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:40, 20:02)",
+        [
+            "Citi Bike - East 13th Street & Avenue A",
+            700008023
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:53, 23:21)",
+        [
+            "",
+            700002264
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:34, 22:06)",
+        [
+            "Au Za'atar",
+            700012362
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:58, 23:59)",
+        [
+            "Au Za'atar",
+            700012362
+        ]
+    ]
+]

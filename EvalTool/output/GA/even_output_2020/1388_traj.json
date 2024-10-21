@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Buena Vista Water Fountain",
+            700005211
+        ]
+    ],
+    [
+        "Go for a Walk or Light Exercise",
+        "(10:00, 11:09)",
+        [
+            "Buena Vista Water Fountain",
+            700005211
+        ]
+    ],
+    [
+        "Lunch",
+        "(12:05, 13:15)",
+        [
+            "",
+            700007787
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:53, 17:43)",
+        [
+            "",
+            700007817
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:32, 22:42)",
+        [
+            "",
+            700005276
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Bank of America",
+            700016934
+        ]
+    ],
+    [
+        "Brunch with Friends",
+        "(10:00, 12:03)",
+        [
+            "House of Lasagna",
+            700023580
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:09, 15:52)",
+        [
+            "Sushi Zo",
+            700016937
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:13, 19:36)",
+        [
+            "Bagel Express",
+            700016935
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:56, 23:59)",
+        [
+            "Sushi Zo",
+            700016937
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(23:04, 23:59)",
+        [
+            "Sam's Place",
+            700006447
+        ]
+    ]
+]

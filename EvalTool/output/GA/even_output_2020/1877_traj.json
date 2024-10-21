@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Morty's",
+            700005079
+        ]
+    ],
+    [
+        "Go for a leisurely walk in the park nearby",
+        "(10:00, 11:03)",
+        [
+            "The Law Café",
+            700012929
+        ]
+    ],
+    [
+        "Next, stay at Dong Baek.",
+        "(11:08, 13:07)",
+        [
+            "Los Cilantros",
+            700009452
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:51, 17:01)",
+        [
+            "El Castillito Taqueria",
+            700005078
+        ]
+    ],
+    [
+        "Stay at your place and prepare dinner.",
+        "(19:39, 21:00)",
+        [
+            "Mi Morena",
+            700009449
+        ]
+    ],
+    [
+        "Stay at Yummy Pizza",
+        "(22:10, 23:22)",
+        [
+            "Boug Cali",
+            700009451
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:16, 23:59)",
+        [
+            "Wells Fargo",
+            700005081
+        ]
+    ]
+]

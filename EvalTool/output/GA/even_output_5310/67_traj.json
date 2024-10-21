@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Sasabune Express",
+            700040591
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:34)",
+        [
+            "Au Za'atar",
+            700011621
+        ]
+    ],
+    [
+        "Spend time reading or catching up on a hobby",
+        "(12:29, 14:01)",
+        [
+            "Sushi Ginza",
+            700006518
+        ]
+    ],
+    [
+        "Spend time reading or catching up on a hobby",
+        "(14:23, 15:46)",
+        [
+            "Sushi Ginza",
+            700006518
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:51, 22:03)",
+        [
+            "Brooklyn Pizza Masters",
+            700030625
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:23, 23:32)",
+        [
+            "",
+            700010703
+        ]
+    ],
+    [
+        "Stay at Sushi Ginza.",
+        "(22:28, 23:59)",
+        [
+            "",
+            700010697
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:51, 23:59)",
+        [
+            "Brooklyn Pizza Masters",
+            700030625
+        ]
+    ]
+]

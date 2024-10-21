@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700002553
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:46)",
+        [
+            "",
+            700017576
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:59, 19:33)",
+        [
+            "Mercantile Library Building",
+            700000550
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:53, 17:24)",
+        [
+            "Mercantile Library Building",
+            700000550
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:00, 22:23)",
+        [
+            "Astor Place Theatre",
+            700007609
+        ]
+    ],
+    [
+        "Visit the local market",
+        "(20:59, 22:27)",
+        [
+            "Mercantile Library Building",
+            700000550
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:44, 23:59)",
+        [
+            "",
+            700017576
+        ]
+    ]
+]

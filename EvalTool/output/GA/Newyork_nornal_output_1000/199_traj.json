@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Brearley School",
+            700007378
+        ]
+    ],
+    [
+        "Wake Up and Breakfast",
+        "(09:00, 10:10)",
+        [
+            "Brearley School",
+            700007378
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(10:45, 11:53)",
+        [
+            "Brearley School",
+            700007378
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:14, 14:01)",
+        [
+            "Brearley School",
+            700007378
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:00, 15:06)",
+        [
+            "",
+            700021641
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:14, 20:00)",
+        [
+            "",
+            700021649
+        ]
+    ],
+    [
+        "Stay at Brearley School",
+        "(22:10, 23:46)",
+        [
+            "Brearley School",
+            700007378
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:32, 23:59)",
+        [
+            "",
+            700021642
+        ]
+    ]
+]

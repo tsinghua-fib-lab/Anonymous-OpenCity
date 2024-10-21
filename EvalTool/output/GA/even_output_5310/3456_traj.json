@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700035769
+        ]
+    ],
+    [
+        "Next activity",
+        "(10:00, 11:08)",
+        [
+            "",
+            700035769
+        ]
+    ],
+    [
+        "Next activity after hobby time",
+        "(11:50, 12:55)",
+        [
+            "",
+            700035769
+        ]
+    ],
+    [
+        "Lunch preparation and enjoyment",
+        "(12:59, 14:05)",
+        [
+            "",
+            700035769
+        ]
+    ],
+    [
+        "Meet up with friends for a casual catch-up.",
+        "(14:58, 16:53)",
+        [
+            "",
+            700035763
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:23, 21:52)",
+        [
+            "The Black Hound",
+            700011996
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:47, 23:59)",
+        [
+            "",
+            700035716
+        ]
+    ]
+]

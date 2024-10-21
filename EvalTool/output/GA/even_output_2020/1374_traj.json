@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Super Duper Burgers",
+            700001637
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(10:00, 11:32)",
+        [
+            "Super Duper Burgers",
+            700001637
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(11:50, 13:30)",
+        [
+            "Super Duper Burgers",
+            700001637
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:22, 15:56)",
+        [
+            "Zona Rosa",
+            700013878
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:48, 19:59)",
+        [
+            "Twin Peaks Tavern",
+            700002185
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "Cafe de Casa",
+            700005575
+        ]
+    ]
+]

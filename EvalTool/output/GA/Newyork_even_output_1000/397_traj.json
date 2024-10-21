@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Citi bike - East 68th Street & 3rd Avenue",
+            700017449
+        ]
+    ],
+    [
+        "Leisure Reading or Hobby Time",
+        "(09:00, 10:34)",
+        [
+            "Citi bike - East 68th Street & 3rd Avenue",
+            700017449
+        ]
+    ],
+    [
+        "Next activity after Leisure Reading or Hobby Time",
+        "(10:31, 12:23)",
+        [
+            "Citi bike - East 68th Street & 3rd Avenue",
+            700017449
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:21, 15:56)",
+        [
+            "",
+            700021971
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:52, 21:32)",
+        [
+            "",
+            700021976
+        ]
+    ],
+    [
+        "Next activity after Relaxing Evening.",
+        "(19:22, 22:09)",
+        [
+            "Baker Theatre Building",
+            700006562
+        ]
+    ],
+    [
+        "Next activity after Relaxing Evening.",
+        "(22:35, 23:59)",
+        [
+            "Baker Theatre Building",
+            700006562
+        ]
+    ]
+]

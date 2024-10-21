@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700013627
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:15)",
+        [
+            "Eight Am",
+            700004837
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:27, 18:43)",
+        [
+            "Orangetheory Fitness",
+            700013284
+        ]
+    ],
+    [
+        "Dinner and Wind Down",
+        "(20:43, 22:20)",
+        [
+            "EVgo",
+            700013300
+        ]
+    ],
+    [
+        "Stay at unspecified place",
+        "(22:08, 23:45)",
+        [
+            "Orangetheory Fitness",
+            700013284
+        ]
+    ],
+    [
+        "Stay at unspecified place",
+        "(23:52, 23:59)",
+        [
+            "Orangetheory Fitness",
+            700013284
+        ]
+    ]
+]

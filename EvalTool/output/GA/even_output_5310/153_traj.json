@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "The UPS Store",
+            700028203
+        ]
+    ],
+    [
+        "Brunch",
+        "(09:00, 10:02)",
+        [
+            "The UPS Store",
+            700028203
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:44, 13:36)",
+        [
+            "",
+            700019337
+        ]
+    ],
+    [
+        "Sports",
+        "(16:17, 17:38)",
+        [
+            "Wells Fargo",
+            700024393
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(18:34, 20:34)",
+        [
+            "Signature Theatre",
+            700040101
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(20:40, 22:01)",
+        [
+            "The Green Room 42",
+            700022028
+        ]
+    ],
+    [
+        "Stay at Wells Fargo",
+        "(22:51, 23:59)",
+        [
+            "Wells Fargo",
+            700024393
+        ]
+    ]
+]

@@ -1,0 +1,82 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Wells Fargo",
+            700004763
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:05)",
+        [
+            "",
+            700001058
+        ]
+    ],
+    [
+        "Brunch",
+        "(11:44, 13:18)",
+        [
+            "Wells Fargo",
+            700004763
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:27, 17:04)",
+        [
+            "",
+            700000817
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:52, 18:05)",
+        [
+            "Mercantile Library Building",
+            700000550
+        ]
+    ],
+    [
+        "Socializing",
+        "(17:13, 18:33)",
+        [
+            "Wells Fargo",
+            700004763
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(18:58, 19:53)",
+        [
+            "Wells Fargo",
+            700004763
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(20:38, 21:51)",
+        [
+            "",
+            700017576
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:50, 23:07)",
+        [
+            "",
+            700001165
+        ]
+    ],
+    [
+        "Next socializing",
+        "(23:39, 23:59)",
+        [
+            "Cozy Soup 'n' Burger",
+            700004729
+        ]
+    ]
+]

@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700001564
+        ]
+    ],
+    [
+        "Wake Up and Relax",
+        "(10:00, 11:40)",
+        [
+            "Joe Coffee Company",
+            700004768
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:08, 17:22)",
+        [
+            "",
+            700002247
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:33, 18:32)",
+        [
+            "",
+            700001051
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:57, 23:24)",
+        [
+            "",
+            700001839
+        ]
+    ],
+    [
+        "Dinner Preparation/Cooking",
+        "(19:21, 19:56)",
+        [
+            "",
+            700001564
+        ]
+    ],
+    [
+        "Dinner Preparation/Cooking",
+        "(20:29, 21:51)",
+        [
+            "Parsons School of Design",
+            700003525
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:50, 23:59)",
+        [
+            "",
+            700003143
+        ]
+    ]
+]

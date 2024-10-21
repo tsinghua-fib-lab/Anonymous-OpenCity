@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700007164
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:04)",
+        [
+            "",
+            700000809
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(12:01, 13:02)",
+        [
+            "",
+            700007164
+        ]
+    ],
+    [
+        "Engage in a hobby or personal project",
+        "(13:31, 14:52)",
+        [
+            "",
+            700007164
+        ]
+    ],
+    [
+        "Prepare and enjoy lunch",
+        "(15:34, 18:11)",
+        [
+            "Coit Tower Cafe",
+            700008124
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 23:12)",
+        [
+            "Starbucks",
+            700005116
+        ]
+    ],
+    [
+        "Stay at Starbucks",
+        "(23:14, 23:59)",
+        [
+            "Starbucks",
+            700005116
+        ]
+    ]
+]

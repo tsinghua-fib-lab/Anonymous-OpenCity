@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700017780
+        ]
+    ],
+    [
+        "Leisurely Breakfast",
+        "(10:00, 11:25)",
+        [
+            "Starbucks",
+            700009874
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:34, 16:23)",
+        [
+            "CVS Pharmacy",
+            700038287
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:47, 16:02)",
+        [
+            "Panera Bread",
+            700009873
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:13, 20:12)",
+        [
+            "Mount Sinai Urgent Care Center",
+            700013560
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:36, 23:02)",
+        [
+            "Daryl Roth Theater",
+            700000569
+        ]
+    ]
+]

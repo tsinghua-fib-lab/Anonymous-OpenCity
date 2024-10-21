@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700013632
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 12:49)",
+        [
+            "Public School M188 The Island School",
+            700000020
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:38, 14:39)",
+        [
+            "New Chinatown",
+            700019571
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:32, 17:02)",
+        [
+            "New Chinatown",
+            700019571
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(17:04, 17:54)",
+        [
+            "Equal Care Pharmacy",
+            700005417
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(18:16, 19:44)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:52, 23:22)",
+        [
+            "Erin's Pharmacy",
+            700005416
+        ]
+    ],
+    [
+        "Grocery Shopping",
+        "(23:53, 23:59)",
+        [
+            "Citi Bike - Avenue D & E 3 St",
+            700007953
+        ]
+    ]
+]

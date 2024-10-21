@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Idlewild books",
+            700006158
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(09:00, 10:30)",
+        [
+            "Idlewild books",
+            700006158
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:40, 13:42)",
+        [
+            "",
+            700020135
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:08, 18:30)",
+        [
+            "Matto Espresso",
+            700014253
+        ]
+    ],
+    [
+        "Dinner Preparation and Relaxation",
+        "(18:59, 20:02)",
+        [
+            "Idlewild books",
+            700006158
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:55, 21:56)",
+        [
+            "",
+            700020132
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:24, 23:59)",
+        [
+            "",
+            700020137
+        ]
+    ]
+]

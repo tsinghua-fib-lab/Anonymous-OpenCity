@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Réveille",
+            700002292
+        ]
+    ],
+    [
+        "Move to Leisure Activity",
+        "(10:00, 11:39)",
+        [
+            "Réveille",
+            700002292
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:45, 16:12)",
+        [
+            "Phat Thai",
+            700002213
+        ]
+    ],
+    [
+        "Watch a movie or binge-watch a favorite series.",
+        "(18:23, 20:05)",
+        [
+            "Phat Thai",
+            700002213
+        ]
+    ],
+    [
+        "Continue current activity until watching a movie or binge-watch a series.",
+        "(20:51, 22:12)",
+        [
+            "Phat Thai",
+            700002213
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:10, 23:59)",
+        [
+            "Golden Gate Urgent Care",
+            700013914
+        ]
+    ]
+]

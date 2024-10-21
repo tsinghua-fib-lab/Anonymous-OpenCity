@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700037763
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 15:47)",
+        [
+            "Comptoir Change Opera",
+            700065421
+        ]
+    ],
+    [
+        "Next activity is Relaxation/Free Time",
+        "(15:00, 16:57)",
+        [
+            "Comptoir Change Opera",
+            700065421
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:49, 22:23)",
+        [
+            "",
+            700004492
+        ]
+    ],
+    [
+        "Wind Down with Entertainment",
+        "(20:21, 21:52)",
+        [
+            "Comptoir Change Opera",
+            700065421
+        ]
+    ],
+    [
+        "Relaxation/Free Time",
+        "(22:49, 23:59)",
+        [
+            "Five Guys",
+            700002618
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700021665
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:52)",
+        [
+            "New Moon",
+            700011100
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:09, 16:28)",
+        [
+            "",
+            700002480
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:36, 23:59)",
+        [
+            "Libretto's Pizzeria",
+            700011101
+        ]
+    ],
+    [
+        "Stay at New Moon",
+        "(22:10, 23:41)",
+        [
+            "Sarge's Delicatessan & Diner",
+            700011102
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:41, 23:59)",
+        [
+            "Little Alley",
+            700000694
+        ]
+    ]
+]

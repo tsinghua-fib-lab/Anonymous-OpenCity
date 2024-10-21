@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "icon 24hr Parking",
+            700009858
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 12:43)",
+        [
+            "",
+            700002650
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:03, 17:51)",
+        [
+            "",
+            700023300
+        ]
+    ],
+    [
+        "Participate in a fun recreational activity, like playing a sport or board games.",
+        "(16:43, 18:06)",
+        [
+            "icon 24hr Parking",
+            700009858
+        ]
+    ],
+    [
+        "Participate in a fun recreational activity, like playing a sport or board games.",
+        "(18:12, 20:02)",
+        [
+            "icon 24hr Parking",
+            700009858
+        ]
+    ],
+    [
+        "Enjoy some quality time with a movie or series.",
+        "(20:58, 22:21)",
+        [
+            "",
+            700011840
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:21, 23:59)",
+        [
+            "icon 24hr Parking",
+            700010474
+        ]
+    ]
+]

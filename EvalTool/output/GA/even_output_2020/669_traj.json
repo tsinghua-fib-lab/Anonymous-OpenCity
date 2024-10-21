@@ -1,0 +1,34 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700008970
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:58)",
+        [
+            "Trattoria Contadina",
+            700005084
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:34, 21:52)",
+        [
+            "Sushi on North Beach - Katsu",
+            700000458
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:00, 22:58)",
+        [
+            "Petite Deli",
+            700002938
+        ]
+    ]
+]

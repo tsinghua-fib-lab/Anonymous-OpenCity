@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dos Toros Taqueria",
+            700013567
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:00, 10:54)",
+        [
+            "New York Sports Clubs",
+            700018117
+        ]
+    ],
+    [
+        "Morning Workout",
+        "(10:55, 12:00)",
+        [
+            "New York Sports Clubs",
+            700018117
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:51, 17:13)",
+        [
+            "",
+            700002250
+        ]
+    ],
+    [
+        "Relaxation Time",
+        "(17:18, 18:52)",
+        [
+            "Dos Toros Taqueria",
+            700013567
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:52, 22:41)",
+        [
+            "Field's Food Chicken",
+            700018504
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:40, 23:59)",
+        [
+            "Dos Toros Taqueria",
+            700013567
+        ]
+    ]
+]

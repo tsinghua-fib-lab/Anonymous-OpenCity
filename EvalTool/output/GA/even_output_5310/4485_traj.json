@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700000831
+        ]
+    ],
+    [
+        "Light Exercise or Outdoor Activity (10:00 AM - 11:30 AM)",
+        "(09:00, 10:30)",
+        [
+            "",
+            700003067
+        ]
+    ],
+    [
+        "Relax and Read",
+        "(11:01, 12:24)",
+        [
+            "",
+            700000831
+        ]
+    ],
+    [
+        "Lunch with Family or Friends",
+        "(12:34, 13:41)",
+        [
+            "Old Saint Patrick's Convent and Girls School",
+            700000092
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:19, 18:55)",
+        [
+            "5ive Spice",
+            700021847
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:10, 19:27)",
+        [
+            "Van Leeuwen",
+            700004789
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:06, 21:11)",
+        [
+            "Rubirosa",
+            700008986
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:45, 23:59)",
+        [
+            "Upside Pizza",
+            700004786
+        ]
+    ]
+]

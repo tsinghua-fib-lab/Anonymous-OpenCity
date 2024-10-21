@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Meet Fresh",
+            700016098
+        ]
+    ],
+    [
+        "Wake up, enjoy a leisurely breakfast, and catch up on the news or read a book.",
+        "(09:00, 10:09)",
+        [
+            "Meet Fresh",
+            700016098
+        ]
+    ],
+    [
+        "Engage in physical activity",
+        "(10:49, 12:09)",
+        [
+            "The Scratcher",
+            700009750
+        ]
+    ],
+    [
+        "Visit a local art gallery or museum to appreciate some culture and creativity.",
+        "(12:34, 14:02)",
+        [
+            "The Standard",
+            700016385
+        ]
+    ],
+    [
+        "Visit a local art gallery or museum to appreciate some culture and creativity.",
+        "(14:30, 16:05)",
+        [
+            "The Standard",
+            700016385
+        ]
+    ],
+    [
+        "Spend some time at a café, relaxing and possibly doing some light work or planning for the week ahead.",
+        "(16:03, 17:26)",
+        [
+            "",
+            700025800
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:08, 20:08)",
+        [
+            "Ogawa",
+            700023835
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:11, 23:59)",
+        [
+            "",
+            700025791
+        ]
+    ]
+]

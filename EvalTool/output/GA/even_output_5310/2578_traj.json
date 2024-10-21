@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700003764
+        ]
+    ],
+    [
+        "go to this place",
+        "(10:00, 14:54)",
+        [
+            "",
+            700039908
+        ]
+    ],
+    [
+        "Outdoor Activity (Walk in the Park)",
+        "(12:03, 12:55)",
+        [
+            "",
+            700018518
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:41, 16:42)",
+        [
+            "",
+            700018518
+        ]
+    ],
+    [
+        "Spend quality time with family or friends, or engage in your hobby.",
+        "(19:32, 21:01)",
+        [
+            "",
+            700003763
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:00, 23:59)",
+        [
+            "Citi Bike - W 16 St & The High Line",
+            700008201
+        ]
+    ]
+]

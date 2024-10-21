@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700010164
+        ]
+    ],
+    [
+        "Outdoor Walk/Exercise",
+        "(10:00, 11:05)",
+        [
+            "Krav Maga",
+            700004064
+        ]
+    ],
+    [
+        "Continue with Outdoor Walk/Exercise",
+        "(11:25, 13:01)",
+        [
+            "Krav Maga",
+            700004064
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:59, 14:04)",
+        [
+            "Krav Maga",
+            700004064
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(14:22, 15:59)",
+        [
+            "Krav Maga",
+            700004064
+        ]
+    ],
+    [
+        "go to this place",
+        "(16:40, 21:45)",
+        [
+            "Route 101",
+            700003308
+        ]
+    ],
+    [
+        "Socializing/Connecting with Friends",
+        "(19:18, 20:50)",
+        [
+            "Route 101",
+            700003308
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(21:32, 22:52)",
+        [
+            "Route 101",
+            700003308
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(23:20, 23:59)",
+        [
+            "Route 101",
+            700003308
+        ]
+    ]
+]

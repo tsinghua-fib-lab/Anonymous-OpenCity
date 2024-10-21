@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tower 737 Parking Garage",
+            700013909
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:52)",
+        [
+            "Kinara Fusion Kitchen",
+            700001023
+        ]
+    ],
+    [
+        "Exercise",
+        "(10:38, 12:05)",
+        [
+            "Kinara Fusion Kitchen",
+            700001023
+        ]
+    ],
+    [
+        "Socialize",
+        "(11:53, 13:30)",
+        [
+            "Kinara Fusion Kitchen",
+            700001023
+        ]
+    ],
+    [
+        "Lunch",
+        "(13:55, 15:21)",
+        [
+            "Kinara Fusion Kitchen",
+            700001023
+        ]
+    ],
+    [
+        "Socialize",
+        "(15:36, 17:00)",
+        [
+            "Kinara Fusion Kitchen",
+            700001023
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:19, 19:29)",
+        [
+            "Kinara Fusion Kitchen",
+            700001023
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:37, 22:58)",
+        [
+            "Kinara Fusion Kitchen",
+            700001023
+        ]
+    ],
+    [
+        "Stay at Kinara Fusion Kitchen",
+        "(23:45, 23:59)",
+        [
+            "Kinara Fusion Kitchen",
+            700001023
+        ]
+    ]
+]

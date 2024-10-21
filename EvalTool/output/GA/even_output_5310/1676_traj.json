@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Fellini Coffee",
+            700006149
+        ]
+    ],
+    [
+        "Outdoor Activity or Sports",
+        "(09:00, 10:20)",
+        [
+            "Citi Bike - West 22nd Street & 8th Avenue",
+            700008209
+        ]
+    ],
+    [
+        "Explore a Local Event or Market",
+        "(10:50, 12:14)",
+        [
+            "Citi Bike - West 22nd Street & 8th Avenue",
+            700008209
+        ]
+    ],
+    [
+        "Explore a Local Event or Market",
+        "(12:57, 14:17)",
+        [
+            "Citi Bike - West 22nd Street & 8th Avenue",
+            700008209
+        ]
+    ],
+    [
+        "go to this place",
+        "(14:38, 16:55)",
+        [
+            "Fellini Coffee",
+            700006149
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:47, 21:33)",
+        [
+            "",
+            700020100
+        ]
+    ]
+]

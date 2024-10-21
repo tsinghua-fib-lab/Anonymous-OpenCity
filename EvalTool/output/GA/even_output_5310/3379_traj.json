@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700031268
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:41)",
+        [
+            "",
+            700031279
+        ]
+    ],
+    [
+        "Catching up with friends or family",
+        "(11:54, 13:28)",
+        [
+            "Henry Street Playhouse",
+            700005441
+        ]
+    ],
+    [
+        "Prepare and have lunch",
+        "(13:28, 14:33)",
+        [
+            "",
+            700031272
+        ]
+    ],
+    [
+        "Engage in a hobby or craft",
+        "(15:30, 17:04)",
+        [
+            "Zafis Luncheonette",
+            700003822
+        ]
+    ],
+    [
+        "Spend time with friends or family",
+        "(18:03, 19:30)",
+        [
+            "",
+            700031272
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:51, 23:59)",
+        [
+            "",
+            700031271
+        ]
+    ]
+]

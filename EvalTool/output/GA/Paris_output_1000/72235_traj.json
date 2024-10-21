@@ -1,0 +1,66 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700013415
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(09:00, 10:58)",
+        [
+            "",
+            700072225
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:27, 13:01)",
+        [
+            "Indigo Haussmann C&A",
+            700013414
+        ]
+    ],
+    [
+        "Leisure Time",
+        "(13:04, 14:30)",
+        [
+            "Indigo Haussmann C&A",
+            700013414
+        ]
+    ],
+    [
+        "Afternoon Sports Activity",
+        "(15:17, 17:06)",
+        [
+            "Indigo Haussmann C&A",
+            700013414
+        ]
+    ],
+    [
+        "Afternoon Sports Activity",
+        "(16:53, 17:55)",
+        [
+            "",
+            700042964
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:41, 23:59)",
+        [
+            "",
+            700006398
+        ]
+    ],
+    [
+        "Next Place After Afternoon Sports Activity",
+        "(23:37, 23:59)",
+        [
+            "Ladurée Paris au Printemps de la Mode",
+            700026327
+        ]
+    ]
+]

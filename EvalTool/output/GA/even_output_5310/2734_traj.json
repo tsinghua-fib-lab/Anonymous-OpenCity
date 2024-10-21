@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "",
+            700015401
+        ]
+    ],
+    [
+        "Enjoy leisurely breakfast with coffee.",
+        "(10:00, 11:00)",
+        [
+            "Eighth Church of Christ, Scientist",
+            700011344
+        ]
+    ],
+    [
+        "Enjoy leisurely breakfast with coffee",
+        "(11:52, 13:55)",
+        [
+            "Eighth Church of Christ, Scientist",
+            700011344
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:07, 15:31)",
+        [
+            "",
+            700016434
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:33, 20:22)",
+        [
+            "",
+            700016433
+        ]
+    ],
+    [
+        "Wind down the day by playing board games or chatting with family/friends.",
+        "(21:52, 23:03)",
+        [
+            "",
+            700016433
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:34, 23:59)",
+        [
+            "",
+            700017194
+        ]
+    ]
+]

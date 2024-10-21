@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Gramercy Cafe",
+            700006179
+        ]
+    ],
+    [
+        "next_activity",
+        "(09:00, 10:02)",
+        [
+            "",
+            700002709
+        ]
+    ],
+    [
+        "Leisure Reading",
+        "(10:52, 11:58)",
+        [
+            "",
+            700000617
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:44, 14:08)",
+        [
+            "",
+            700000939
+        ]
+    ],
+    [
+        "Stay at Gramercy Cafe and continue leisure reading.",
+        "(17:14, 18:59)",
+        [
+            "Gramercy Cafe",
+            700006179
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:42, 23:59)",
+        [
+            "",
+            700001855
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:54, 23:59)",
+        [
+            "",
+            700007886
+        ]
+    ]
+]

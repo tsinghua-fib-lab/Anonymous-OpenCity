@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Duane Reade",
+            700012667
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(09:00, 10:34)",
+        [
+            "Duane Reade",
+            700012667
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(11:09, 13:14)",
+        [
+            "Duane Reade",
+            700012667
+        ]
+    ],
+    [
+        "Pursue a Hobby or Project",
+        "(12:52, 14:49)",
+        [
+            "Duane Reade",
+            700012667
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:15, 19:11)",
+        [
+            "ChargePoint",
+            700012433
+        ]
+    ],
+    [
+        "Evening Relaxation",
+        "(21:37, 23:10)",
+        [
+            "Duane Reade",
+            700012667
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:17, 23:59)",
+        [
+            "Citi Bike",
+            700020600
+        ]
+    ]
+]

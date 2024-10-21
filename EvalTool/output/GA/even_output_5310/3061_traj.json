@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Citi Bike - Perry St & Bleecker St",
+            700008161
+        ]
+    ],
+    [
+        "Brunch",
+        "(10:00, 11:21)",
+        [
+            "Sushi West",
+            700013966
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(11:37, 13:35)",
+        [
+            "Sushi West",
+            700013966
+        ]
+    ],
+    [
+        "Outdoor Activity",
+        "(14:17, 16:01)",
+        [
+            "Sushi West",
+            700013966
+        ]
+    ],
+    [
+        "Socializing with Friends",
+        "(16:12, 19:01)",
+        [
+            "Sushi West",
+            700013966
+        ]
+    ],
+    [
+        "Socializing with Friends",
+        "(19:48, 21:48)",
+        [
+            "Cafe Panino Mucho Gusto",
+            700007327
+        ]
+    ],
+    [
+        "go to this place",
+        "(21:19, 23:23)",
+        [
+            "Left Bank",
+            700014443
+        ]
+    ]
+]

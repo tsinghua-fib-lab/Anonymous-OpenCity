@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Creamline",
+            700033753
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(10:00, 11:08)",
+        [
+            "Subway",
+            700023442
+        ]
+    ],
+    [
+        "Outdoor Walk or Exercise",
+        "(11:09, 13:03)",
+        [
+            "Subway",
+            700023442
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(13:32, 14:53)",
+        [
+            "Subway",
+            700023442
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:01, 16:57)",
+        [
+            "Public School 51",
+            700006368
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:17, 22:03)",
+        [
+            "Hellcat Annie's taproom",
+            700010145
+        ]
+    ],
+    [
+        "go to this place",
+        "(22:16, 23:59)",
+        [
+            "At Thai Restaurant",
+            700016050
+        ]
+    ]
+]

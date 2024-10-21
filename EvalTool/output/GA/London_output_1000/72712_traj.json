@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 10:00)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Exercise or Outdoor Activity",
+        "(10:00, 11:34)",
+        [
+            "",
+            700016608
+        ]
+    ],
+    [
+        "Lunch with Friends or Family",
+        "(12:10, 13:00)",
+        [
+            "The Three Lions",
+            700081325
+        ]
+    ],
+    [
+        "go to this place",
+        "(13:31, 17:42)",
+        [
+            "",
+            700016613
+        ]
+    ],
+    [
+        "Hobby or Creative Time",
+        "(16:10, 17:39)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "Prepare Dinner",
+        "(18:12, 20:02)",
+        [
+            "Dragon Court",
+            700011883
+        ]
+    ],
+    [
+        "go to this place",
+        "(20:39, 23:00)",
+        [
+            "Gezellig",
+            700011877
+        ]
+    ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Tao Downtown",
+            700019782
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 14:20)",
+        [
+            "Citi Bike - 9th Avenue & West 16th Street",
+            700007389
+        ]
+    ],
+    [
+        "go to this place",
+        "(12:04, 13:16)",
+        [
+            "TAO Downtown Nightclub",
+            700010043
+        ]
+    ],
+    [
+        "go to this place",
+        "(15:24, 18:22)",
+        [
+            "TAO Downtown Nightclub",
+            700010043
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:40, 23:23)",
+        [
+            "",
+            700031462
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:25, 23:59)",
+        [
+            "",
+            700001046
+        ]
+    ]
+]

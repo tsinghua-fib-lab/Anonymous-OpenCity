@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Two Boots Pizza",
+            700006545
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 11:44)",
+        [
+            "Barry's",
+            700024374
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(11:09, 13:10)",
+        [
+            "",
+            700001514
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(12:47, 14:09)",
+        [
+            "",
+            700011415
+        ]
+    ],
+    [
+        "Leisure Activity",
+        "(15:13, 17:06)",
+        [
+            "Silver Star",
+            700024376
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(17:06, 18:36)",
+        [
+            "Two Boots Pizza",
+            700006545
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:43, 21:15)",
+        [
+            "Silver Star",
+            700024376
+        ]
+    ],
+    [
+        "Dinner Preparation",
+        "(21:51, 23:06)",
+        [
+            "Silver Star",
+            700024376
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:02, 23:59)",
+        [
+            "",
+            700001861
+        ]
+    ]
+]

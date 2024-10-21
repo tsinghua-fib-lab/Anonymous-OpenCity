@@ -1,0 +1,74 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "Paesano's",
+            700005141
+        ]
+    ],
+    [
+        "Morning Exercise",
+        "(09:00, 10:06)",
+        [
+            "McBurney YMCA",
+            700000595
+        ]
+    ],
+    [
+        "Leisure Reading / Hobby Time",
+        "(10:32, 13:04)",
+        [
+            "McBurney YMCA",
+            700000595
+        ]
+    ],
+    [
+        "Leisure Reading / Hobby Time",
+        "(13:39, 15:06)",
+        [
+            "McBurney YMCA",
+            700000595
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(15:49, 16:55)",
+        [
+            "McBurney YMCA",
+            700000595
+        ]
+    ],
+    [
+        "Watch a Movie or TV Show",
+        "(16:55, 18:00)",
+        [
+            "",
+            700020120
+        ]
+    ],
+    [
+        "go to this place",
+        "(18:09, 21:51)",
+        [
+            "",
+            700020118
+        ]
+    ],
+    [
+        "Dinner and Prepare for the Week",
+        "(21:52, 23:25)",
+        [
+            "Malibu Diner",
+            700040277
+        ]
+    ],
+    [
+        "go to this place",
+        "(23:38, 23:59)",
+        [
+            "",
+            700020124
+        ]
+    ]
+]

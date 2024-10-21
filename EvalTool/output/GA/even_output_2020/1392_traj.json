@@ -1,0 +1,58 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "",
+            700006997
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 10:04)",
+        [
+            "",
+            700006796
+        ]
+    ],
+    [
+        "Explore Local Attractions",
+        "(11:33, 13:30)",
+        [
+            "",
+            700009163
+        ]
+    ],
+    [
+        "Explore Local Attractions",
+        "(13:38, 15:07)",
+        [
+            "",
+            700006997
+        ]
+    ],
+    [
+        "Explore Local Attractions",
+        "(15:38, 17:11)",
+        [
+            "Cafe Josephine",
+            700006998
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:58, 23:39)",
+        [
+            "",
+            700006793
+        ]
+    ],
+    [
+        "go to this place",
+        "(19:53, 23:59)",
+        [
+            "Castro Car Wash",
+            700004860
+        ]
+    ]
+]

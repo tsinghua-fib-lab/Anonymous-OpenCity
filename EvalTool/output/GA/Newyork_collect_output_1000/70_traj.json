@@ -1,0 +1,42 @@
+[
+    [
+        "Sleep at home",
+        "(00:00, 09:00)",
+        [
+            "AWOL Bar and Grill",
+            700006220
+        ]
+    ],
+    [
+        "go to this place",
+        "(09:00, 13:54)",
+        [
+            "Link NYC",
+            700022502
+        ]
+    ],
+    [
+        "go to this place",
+        "(11:51, 15:23)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ],
+    [
+        "go to this place",
+        "(17:43, 19:08)",
+        [
+            "",
+            700022507
+        ]
+    ],
+    [
+        "Wind Down with TV/Movies",
+        "(22:20, 23:59)",
+        [
+            "Gran Merci",
+            700018139
+        ]
+    ]
+]
