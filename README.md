@@ -5,4 +5,4 @@ OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agen
 - check out **OpenCity** dirctory
 
 ## Evaluation
-- **coming soon**
+- check out **EvalTool** dirctory
